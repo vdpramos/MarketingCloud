@@ -1,0 +1,80 @@
+{
+  "id": 54456,
+  "customerKey": "4b6b24d8-4afa-45d0-a4ff-7fd45fa04a36",
+  "objectID": "a929dbe4-136e-4a38-8eb7-5808642a13f7",
+  "contentType": "text/html",
+  "assetType": {
+    "id": 205,
+    "name": "webpage",
+    "displayName": "Web Page"
+  },
+  "version": 1,
+  "name": "teste1",
+  "owner": {
+    "id": 713186407,
+    "email": "vramos@brasilcap.com.br",
+    "name": "Vinicius Ramos",
+    "userId": "713186407"
+  },
+  "createdDate": "2022-02-23T17:12:08.767-06:00",
+  "createdBy": {
+    "id": 713186407,
+    "email": "vramos@brasilcap.com.br",
+    "name": "Vinicius Ramos",
+    "userId": "713186407"
+  },
+  "modifiedDate": "2022-02-23T17:12:08.767-06:00",
+  "modifiedBy": {
+    "id": 713186407,
+    "email": "vramos@brasilcap.com.br",
+    "name": "Vinicius Ramos",
+    "userId": "713186407"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/54456/thumbnail"
+  },
+  "category": {
+    "id": 1942,
+    "name": "Content Builder",
+    "parentId": 0
+  },
+  "meta": {
+    "globalStyles": {
+      "isLocked": false,
+      "body": {
+        "max-width": "1280px"
+      }
+    }
+  },
+  "views": {
+    "html": {
+      "content": "<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0\" />\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n\t\t<style class=\"main_style\">\n.layout-canvas-a {\n  background-color: #fff;\n  border: none;\n  -webkit-box-sizing: border-box;\n  -moz-box-sizing: border-box;\n  box-sizing: border-box;\n  padding: 0;\n  width: 100%;\n}\n.layout-canvas-a > .header,\n.layout-canvas-a > .section,\n.layout-canvas-a > .footer {\n  position: relative;\n  overflow: hidden;\n  width: 100%;\n  word-wrap: break-word;\n}\n.layout-canvas-a > .section {\n  margin: 10px 0;\n}\n.layout-canvas-a > .section > .columns {\n  -webkit-box-sizing: border-box;\n  -moz-box-sizing: border-box;\n  box-sizing: border-box;\n  word-wrap: break-word;\n}\nbody {\n  color: #000;\n  font-family: Arial;\n  font-size: 12px;\n  margin: 0 auto;\n  max-width: 1280px;\n}\n@media only screen and (max-width: 480px) {\n  .mobile-hidden {\n    display: none !important;\n  }\n  .responsive-td {\n    width: 100% !important;\n    display: block !important;\n    padding: 0 !important;\n  }\n}\n.layout-canvas-a > .section > .columns {\n  width: 100%;\n}\n\n</style>\n\n\t</head>\n\t<body>\n\t\t<div class=\"layout layout-canvas-a\">\n\t\t\t<div class=\"header\">\n\t\t\t\t<div data-type=\"slot\" data-key=\"header\"></div>\n\t\t\t</div>\n\t\t\t<div class=\"section\">\n\t\t\t\t<div class=\"columns col1\">\n\t\t\t\t\t<div data-type=\"slot\" data-key=\"col1\"></div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"footer\">\n\t\t\t\t<div data-type=\"slot\" data-key=\"footer\"></div>\n\t\t\t</div>\n\t\t</div>\n\t</body>\n</html>\n",
+      "meta": {},
+      "slots": {
+        "header": {
+          "design": "<p style=\"font-family:arial;color:#ccc;font-size:11px;text-align:center;vertical-align:middle;font-weight:bold;padding:10px;margin:0;border:#ccc dashed 1px;\">Drop blocks or content here</p>",
+          "modelVersion": 2
+        },
+        "footer": {
+          "design": "<p style=\"font-family:arial;color:#ccc;font-size:11px;text-align:center;vertical-align:middle;font-weight:bold;padding:10px;margin:0;border:#ccc dashed 1px;\">Drop blocks or content here</p>",
+          "modelVersion": 2
+        },
+        "col1": {
+          "design": "<p style=\"font-family:arial;color:#ccc;font-size:11px;text-align:center;vertical-align:middle;font-weight:bold;padding:10px;margin:0;border:#ccc dashed 1px;\">Drop blocks or content here</p>",
+          "modelVersion": 2
+        }
+      },
+      "modelVersion": 2
+    }
+  },
+  "availableViews": [
+    "html"
+  ],
+  "modelVersion": 2
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "152F52B5-81B6-4B7D-93D5-ADF8136EED37"
+  ],
+  "Name": [
+    "A&M_Test"
+  ]
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "ID",
+    "FieldType": "Text",
+    "ObjectID": "63a757f7-4f07-4a48-a453-8e5dfb851fa5",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "b4d8e011-c80a-4381-9861-ea5eb5724c26",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "CLASSIFICACAO",
+    "FieldType": "Text",
+    "ObjectID": "82e7dffa-fe09-4953-803c-bc033360b5af",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "ID_CLIENTE",
+    "FieldType": "Text",
+    "ObjectID": "d6b73bc5-e956-4cfa-a554-ac5c2da701d0",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

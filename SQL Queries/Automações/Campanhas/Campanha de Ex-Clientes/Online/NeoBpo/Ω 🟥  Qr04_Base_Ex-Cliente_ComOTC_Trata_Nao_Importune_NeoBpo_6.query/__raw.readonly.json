@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "36b24852-1d67-4ad0-beaa-466def48e2ac",
+  "name": "Qr04_Base_Ex-Cliente_ComOTC_Trata_Nao_Importune_NeoBpo_6",
+  "key": "b5f40761-aec3-44ac-a22d-919904d271a7",
+  "description": "",
+  "queryText": "SELECT\r\n\tA.CPF_CNPJ AS ID,\r\n\t1 AS NAO_IMPORTUNE\r\nFROM TB_BASE_EX_CLIENTE_COMOTC_NEOBPO A\r\nINNER JOIN TB_BASE_NAO_IMPORTUNE N ON ISNULL(CONCAT(A.DDD_TEL_06, A.TEL_06), '00000000000') = LTRIM(RTRIM(N.TELEFONE))",
+  "targetName": "Tb_Base_Ex_Cliente_ComOTC_NeoBpo",
+  "targetKey": "C4551412-D197-455C-927D-442DE33B36D0",
+  "targetId": "069fcd40-ce81-eb11-a2fd-48df370eabe5",
+  "targetDescription": "Base do publico inicial",
+  "createdDate": "2021-10-15T19:45:43.09",
+  "modifiedDate": "2021-10-15T19:45:43.09",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 30771,
+  "isFrozen": false
+}

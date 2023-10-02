@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "90071247-a036-4ab3-baf2-9a3f9dbb61df",
+  "name": "Qr04_Inserir_Historico",
+  "key": "7c2c16e3-6309-4576-a077-d68c4691e9bc",
+  "description": "Inserir os contatos que participaram da campanha na base de histórico ",
+  "queryText": "SELECT\r\n  CPF,\r\n  MAX(ID_CAMPANHA) AS ID_CAMPANHA,\r\n  GETDATE() AS DATA_CAMPANHA,\r\n  'RECOMANDO' AS CANAL\r\nFROM (\r\n  SELECT\r\n    HC_CPF_CNPJ__c  AS CPF,\r\n    IdCampaign AS ID_CAMPANHA\r\n  FROM RECOMANDO_G3_DEMAIS_CAPs_v2\r\n\r\n  UNION ALL\r\n\r\n  SELECT\r\n    HC_CPF_CNPJ__c  AS CPF,\r\n    IdCampaign AS ID_CAMPANHA\r\n  FROM RECOMANDO_G2_TCBB_PJ_v2\r\n\r\n  UNION ALL\r\n\r\n  SELECT\r\n    HC_CPF_CNPJ__c AS CPF,\r\n    IdCampaign AS ID_CAMPANHA\r\n  FROM RECOMANDO_G1_TCBB_PF_v2\r\n) Q\r\nGROUP BY Q.CPF",
+  "targetName": "Tb_Campanhas_Cliente_Historico",
+  "targetKey": "2418DAA8-371F-48AA-A3E5-68230CAD6E82",
+  "targetId": "2bb6a362-296b-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-04-13T10:39:08.093",
+  "modifiedDate": "2021-04-13T10:39:08.093",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 31535,
+  "isFrozen": false
+}

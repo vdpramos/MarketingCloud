@@ -1,0 +1,9 @@
+Dataextension name: Tb_Boas_Vindas_Ourocap_Quarentena
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | true     | true     |                 |
+| NUMERO_DO_TITULO     | Text(20)        | true     | true     |                 |
+| SERIE_DO_TITULO      | Text(20)        | true     | true     |                 |
+| PLANO_DO_TITULO      | Text(20)        | true     | true     |                 |
+| Date                 | Date            | false    | false    | GETDATE()       |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "cdd10747-8ffe-4456-be41-d7bcb77eb92a",
+  "name": "Qr_data_log_resultados",
+  "key": "57a80c20-482a-4590-96c1-09465211eb38",
+  "description": "",
+  "queryText": "SELECT  \n    A.Data_Participacao_Campanha,\n    B.CPF_CNPJ\nFROM\n    Tb_Log_Resultados_de_Avaliacao A\nLEFT JOIN\n    Tb_Base_Quarentena B ON A.CPF_CNPJ = B.CPF_CNPJ",
+  "targetName": "Tb_Base_Quarentena",
+  "targetKey": "F713140F-08AB-4520-9CD5-346BDED8D642",
+  "targetId": "296dac3b-2a6b-eb11-a2fc-48df37342c98",
+  "targetDescription": "Base com contatos que participaram de campanhas nos ultimos 90 dias",
+  "createdDate": "2022-01-19T13:51:44.53",
+  "modifiedDate": "2022-01-19T13:51:44.53",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 1930,
+  "isFrozen": false
+}

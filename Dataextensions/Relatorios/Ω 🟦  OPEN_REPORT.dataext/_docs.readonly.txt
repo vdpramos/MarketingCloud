@@ -1,0 +1,16 @@
+Dataextension name: OPEN_REPORT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| AccountID            | Number          | false    | false    |                 |
+| OYBAccountID         | Number          | false    | false    |                 |
+| JobID                | Number          | false    | false    |                 |
+| ListID               | Number          | false    | false    |                 |
+| BatchID              | Number          | false    | false    |                 |
+| SubscriberID         | Number          | false    | false    |                 |
+| SubscriberKey        | Text(254)       | true     | true     |                 |
+| EventDate            | Date            | false    | false    |                 |
+| IsUnique             | Boolean         | false    | false    |                 |
+| Domain               | Text(254)       | false    | false    |                 |
+| TriggererSendDefinitionObjectID | Text(254)       | false    | false    |                 |
+| TriggeredSendCustomerKey | Text(254)       | false    | false    |                 |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "df47d3a3-1ad3-4ad9-a76d-c31e9b8c3b40",
+  "name": "Qr00.1_Base_Prospect_N_Filtrada_TMKT",
+  "key": "2ea147c1-9dfd-4264-919a-264e14b40bbf",
+  "description": "Filtra contatos para serem enviados ao OTC290",
+  "queryText": "SELECT\r\n  B.*\r\nFROM TB_BASE_PROSPECT_COMOTC_TRATADA_TMKT B\r\nWHERE\r\n    IDADE_VALIDA = 1\r\n  AND CONTA_CORRENTE = 1\r\n  AND QUARENTENA = 0\r\n  AND CONSELHEIRO = 0 \r\n  /* AND CLIENTE = 0 */\r\n  /* AND VALIDA_RNA = 1 */\r\n  AND CEP_VALIDO = 1\r\n  AND NAO_IMPORTUNE = 0",
+  "targetName": "Tb_Base_Prospect_ComOTC_Filtrada_TMKT",
+  "targetKey": "36796715-88ED-4CE6-A59E-C599DFB468B3",
+  "targetId": "ed2a6cb0-3a0b-ec11-a30b-48df370eabe4",
+  "targetDescription": "Contatos filtrados para o envio do OTC290",
+  "createdDate": "2021-09-01T09:44:42.943",
+  "modifiedDate": "2023-04-24T11:18:25.017",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29373,
+  "isFrozen": false
+}

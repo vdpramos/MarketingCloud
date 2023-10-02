@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "665154E5-ACC3-49C8-B401-64BA7CBDA4C2"
+  ],
+  "Name": [
+    "onda_id"
+  ]
+}

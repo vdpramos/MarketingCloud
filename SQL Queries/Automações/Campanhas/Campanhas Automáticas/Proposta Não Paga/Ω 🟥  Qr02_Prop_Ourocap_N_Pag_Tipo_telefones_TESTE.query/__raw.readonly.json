@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2031709e-ea00-4130-ba2f-a095c6406731",
+  "name": "Qr02_Prop_Ourocap_N_Pag_Tipo_telefones_TESTE",
+  "key": "24aaf8c0-a692-4111-95c7-8e05cc2f05c2",
+  "description": "",
+  "queryText": "SELECT\n\tA.HC_CPF_CNPJ__C AS ID,\n\tCASE WHEN (len(B.TEL_01) = 9) THEN 'MÓVEL' ELSE 'FIXO' END AS TIPO_TEL_01,\n\tCASE WHEN (len(B.TEL_02) = 9) THEN 'MÓVEL' ELSE 'FIXO' END AS TIPO_TEL_02,\n\tCASE WHEN (len(B.TEL_03) = 9) THEN 'MÓVEL' ELSE 'FIXO' END AS TIPO_TEL_03,\n\tCASE WHEN (len(B.TEL_04) = 9) THEN 'MÓVEL' ELSE 'FIXO' END AS TIPO_TEL_04,\n\tCASE WHEN (len(B.TEL_05) = 9) THEN 'MÓVEL' ELSE 'FIXO' END AS TIPO_TEL_05,\n\tCASE WHEN (len(B.TEL_06) = 9) THEN 'MÓVEL' ELSE 'FIXO' END AS TIPO_TEL_06\nFROM\n    HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE A\nINNER JOIN Tb_Base_Prop_Ourocap_N_Pag_TESTE B ON A.HC_CPF_CNPJ__C = B.CPF_CNPJ",
+  "targetName": "Tb_Base_Prop_Ourocap_N_Pag_TESTE",
+  "targetKey": "7E837417-26A2-4C48-B95C-29095B04CC9A",
+  "targetId": "4b567221-9e82-ec11-a317-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2022-01-31T12:42:03.243",
+  "modifiedDate": "2022-01-31T12:42:03.243",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 33115,
+  "isFrozen": false
+}

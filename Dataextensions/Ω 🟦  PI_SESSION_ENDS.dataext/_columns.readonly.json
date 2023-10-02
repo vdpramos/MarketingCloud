@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "user_id",
+    "FieldType": "Text",
+    "ObjectID": "9fb43ff0-736d-49aa-835f-6107118f49a9",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "session_id",
+    "FieldType": "Text",
+    "ObjectID": "78fc0212-3b60-41fa-b1a9-c50b616b9eb9",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "email_address",
+    "FieldType": "Text",
+    "ObjectID": "c9bd7c78-8b94-4ec0-8352-62b239d15523",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "contact_key",
+    "FieldType": "Text",
+    "ObjectID": "f13e9f6b-a54c-4c69-8ad8-88200fdb4f45",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "timestamp",
+    "FieldType": "Date",
+    "ObjectID": "56a75a0e-c207-4949-a000-60dca7642ec8",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "getdate()",
+    "Ordinal": 5
+  }
+]

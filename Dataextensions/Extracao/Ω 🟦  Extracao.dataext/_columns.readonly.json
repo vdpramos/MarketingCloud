@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "id",
+    "FieldType": "Text",
+    "ObjectID": "44f08d76-e1b4-488b-a7ed-f899e3d4ffcc",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "HC_Termino_Carencia__c",
+    "FieldType": "Text",
+    "ObjectID": "6834b0b6-6c97-4287-abc9-731a1961ee1b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "HC_Carencia__c",
+    "FieldType": "Text",
+    "ObjectID": "3c7716aa-560a-41d8-a43c-ba15df6e9b6b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "HC_Fim_previsto__c",
+    "FieldType": "Text",
+    "ObjectID": "70f4726d-ff80-4585-94ac-124777534381",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

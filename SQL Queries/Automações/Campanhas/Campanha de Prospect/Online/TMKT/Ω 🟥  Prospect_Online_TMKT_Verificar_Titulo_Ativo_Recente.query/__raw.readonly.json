@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "fa7dc770-db79-42d3-a8f5-20c6b717fe84",
+  "name": "Prospect_Online_TMKT_Verificar_Titulo_Ativo_Recente",
+  "key": "e0141fb4-9fc0-4407-878f-4ffb47aaaca0",
+  "description": "Busca titulos ativos nos ultimos 90 dias",
+  "queryText": "SELECT\n    max(CASE    when C.HC_CLIENTE_X_PARCEIRO__C is null then \n                    0 \n                WHEN DATEDIFF(DD,C.HC_CONTRATACAO__C, GETDATE()) <= 90 THEN    \n                    1 \n                ELSE \n                    0 \n                END) AS Titulo_Ativo_Recente,\n    B.CPF\nFROM Tb_Base_Prospect_Online_Tratada_TMKT B\nLEFT JOIN HC_TITULO__C_SALESFORCE C \n    ON B.ID_CLIENTE_PARCEIRO = C.HC_CLIENTE_X_PARCEIRO__C\ngroup by cpf",
+  "targetName": "Tb_Base_Prospect_Online_Tratada_TMKT",
+  "targetKey": "E55C5F86-F4DF-4152-8F3C-869ED7B3FC38",
+  "targetId": "8f6f76b7-2f6b-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-25T11:16:59.957",
+  "modifiedDate": "2023-06-27T07:39:07.653",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 55868,
+  "isFrozen": false
+}

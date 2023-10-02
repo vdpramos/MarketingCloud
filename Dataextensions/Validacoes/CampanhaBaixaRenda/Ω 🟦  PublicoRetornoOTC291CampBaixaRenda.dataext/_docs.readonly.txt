@@ -1,0 +1,41 @@
+Dataextension name: PublicoRetornoOTC291CampBaixaRenda
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CODIGO_PARCEIRO      | Text(255)       | false    | false    |                 |
+| ID_CLIENTE           | Text(255)       | false    | false    |                 |
+| CODIGO_MCI           | Text(255)       | false    | false    |                 |
+| TIPO_PESSOA          | Text(255)       | false    | false    |                 |
+| CODIGO_CIC           | Text(255)       | false    | false    |                 |
+| DT_NASCIMENTO        | Text(255)       | false    | false    |                 |
+| NOME                 | Text(255)       | true     | false    |                 |
+| UF_RESIDENCIAL       | Text(255)       | false    | false    |                 |
+| DDD1                 | Text(255)       | false    | false    |                 |
+| TELEFONE1            | Text(255)       | false    | false    |                 |
+| DDD2                 | Text(255)       | false    | false    |                 |
+| TELEFONE2            | Text(255)       | false    | false    |                 |
+| DDD3                 | Text(255)       | false    | false    |                 |
+| TELEFONE3            | Text(255)       | false    | false    |                 |
+| CODIGO_PLANO         | Text(255)       | false    | false    |                 |
+| ORIGEM_SOLICITACAO   | Text(255)       | false    | false    |                 |
+| FILLER               | Text(255)       | false    | false    |                 |
+| CODIGO_RNA           | Text(255)       | false    | false    |                 |
+| VALOR_RENDIMENTOS    | Text(255)       | false    | false    |                 |
+| TIPO_CARTEIRA        | Text(255)       | false    | false    |                 |
+| NIVEL_RELACIONAMENTO | Text(255)       | false    | false    |                 |
+| DATA_INFORMACAO      | Text(255)       | false    | false    |                 |
+| FILLER2              | Text(255)       | false    | false    |                 |
+| CPF                  | Text(255)       | false    | false    |                 |
+| PRIMEIRO_NOME        | Text(255)       | false    | false    |                 |
+| SOBRENOME            | Text(255)       | false    | false    |                 |
+| TEL_RESIDENCIAL      | Text(255)       | false    | false    |                 |
+| TEL_COMERCIAL        | Text(255)       | false    | false    |                 |
+| CELULAR1             | Text(255)       | false    | false    |                 |
+| DT_NASCIMENTO_SF     | Text(255)       | true     | false    |                 |
+| SEXO                 | Text(255)       | false    | false    |                 |
+| CPF_TIPO_RELACIONAMENTO | Text(255)       | false    | false    |                 |
+| CPF_CODIGO_PARCEIRO  | Text(255)       | false    | false    |                 |
+| ALTA_RENDA           | Text(255)       | false    | false    |                 |
+| PUBLICO              | Text(50)        | false    | false    |                 |
+| DDD_Fone_04          | Text(50)        | false    | false    |                 |
+| DDD_Fone_05          | Text(50)        | false    | false    |                 |

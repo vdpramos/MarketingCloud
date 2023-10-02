@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "c9aaab30-fef1-4ec1-aa26-aa82f70e12e7",
+  "name": "Qr_Separacao_Publico_Inapto_OTC290_Nao_Pagas",
+  "key": "5dad8cf1-c185-40ac-96bc-eb44e7af4bc4",
+  "description": "Acumulado de Publico Inapto para o OTC290",
+  "queryText": "SELECT\n  CPF_CNPJ,\n  QUARENTENA,\n  POSSUI_TITULO_ATIVO,\n  NAO_IMPORTUNE,\n  ID_campanha\nFROM\n  Tb_Base_Prop_Ourocap_N_Pag b\nWHERE\n  NOT(/* IDADE_VALIDA = 1 */\n  /* AND CONSELHEIRO = 0 */\n  /* AND CLIENTE_PEP = 0 */\n  /* AND DESEJA_CONTATO_TELEFONICO = 0 */\n  /* AND POSSUI_CONTA_CORRENTE = 1 */\n  POSSUI_TELEFONE_ATIVO = 1\nAND QUARENTENA = 0\n/* AND INATIVIDADE = 0 */\nAND NAO_IMPORTUNE = 0)",
+  "targetName": "Publico_Inapto_Nao_Pagas",
+  "targetKey": "A00A945B-BB7E-4D45-A86A-8941F40FEFBC",
+  "targetId": "869ef44d-528c-ec11-a317-48df37342c99",
+  "targetDescription": "Publico que nao pode ser enviado para o otc290",
+  "createdDate": "2022-02-12T16:46:15.657",
+  "modifiedDate": "2022-02-12T16:46:15.657",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 33115,
+  "isFrozen": false
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "Retorno",
+    "FieldType": "Text",
+    "ObjectID": "84aece3b-b92d-4787-915e-c6057fdd9138",
+    "MaxLength": "4000",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

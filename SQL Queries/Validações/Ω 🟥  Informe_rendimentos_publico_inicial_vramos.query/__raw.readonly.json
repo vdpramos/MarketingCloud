@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b7772875-5a5b-4de4-b5d2-c35967f2e627",
+  "name": "Informe_rendimentos_publico_inicial_vramos",
+  "key": "B7772875-5A5B-4DE4-B5D2-C35967F2E627",
+  "description": "",
+  "queryText": "SELECT\n    b.HC_CPF_CNPJ__c, \n    'True' as Contato_no_Marketing__c\nFROM BaseMCI a\n    INNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce b\n        ON a.MCI = b.HC_MCI_BB_Cliente__c\n    INNER JOIN Account_Salesforce c\n        ON c.Id = b.HC_Cliente__c\n    LEFT JOIN Contact_Salesforce d\n        ON d.AccountId = c.Id\nWHERE\n    b.Name IS  NULL",
+  "targetName": "ContatosCriar",
+  "targetKey": "EB30E76E-A03F-4B64-B0C3-B235BF07D7B3",
+  "targetId": "ed85ca7a-d5e9-ed11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-05-03T11:11:48.707",
+  "modifiedDate": "2023-05-03T13:21:57.247",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

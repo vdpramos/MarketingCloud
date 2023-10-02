@@ -1,0 +1,9 @@
+Dataextension name: Tb_Recuperacao_Caducidade_Historico
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Data_Nascimento      | Date            | false    | false    |                 |
+| Data_Campanha        | Date            | false    | false    | GetDate()       |
+| Id_Contato           | Text(50)        | true     | false    |                 |

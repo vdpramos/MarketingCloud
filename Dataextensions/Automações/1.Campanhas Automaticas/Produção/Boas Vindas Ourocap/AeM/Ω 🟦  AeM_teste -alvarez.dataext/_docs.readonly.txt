@@ -1,0 +1,7 @@
+Dataextension name: AeM_teste -alvarez
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome                 | Text(50)        | true     | true     |                 |
+| Celular              | Phone           | true     | false    |                 |
+| Locale               | Text(50)        | false    | false    | BR              |

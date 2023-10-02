@@ -1,0 +1,12 @@
+Dataextension name: ApuracaoCampanhasOnLineDE
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| IdCampanha           | Text(50)        | false    | false    |                 |
+| CPF                  | Text(15)        | false    | false    |                 |
+| NomeCliente          | Text(200)       | false    | false    |                 |
+| Resultado            | Text(100)       | false    | false    |                 |
+| Motivo               | Text(100)       | false    | false    |                 |
+| DisparoCampanha      | Date            | false    | false    |                 |
+| AtualizacaoStatusMembro | Date            | false    | false    |                 |
+| Fornecedor           | Text(30)        | false    | false    |                 |

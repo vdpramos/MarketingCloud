@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "1946485b-e1b4-4fbc-808f-a017ca4dcff4",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "NOME",
+    "FieldType": "Text",
+    "ObjectID": "a22a168e-aaf4-49fb-83c8-334e8fc1e8ae",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

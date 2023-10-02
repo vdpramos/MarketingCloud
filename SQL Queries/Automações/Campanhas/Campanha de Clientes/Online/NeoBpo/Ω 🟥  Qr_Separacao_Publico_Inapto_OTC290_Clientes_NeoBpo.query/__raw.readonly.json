@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "d407c878-d3f9-48d4-9362-217528ab5048",
+  "name": "Qr_Separacao_Publico_Inapto_OTC290_Clientes_NeoBpo",
+  "key": "b8344168-a236-4ac5-b3e2-39831f1431c3",
+  "description": "Guarda temporariamente o publico inapto",
+  "queryText": "SELECT\n  CPF_CNPJ,\n  COMPRA_UTIMOS_30_DIAS,\n  POSSUI_TITULO_ATIVO,\n  NAO_IMPORTUNE,\n  ID_campanha\nFROM Tb_Base_Cliente_ComOTC_NeoBpo\nWHERE\n NOT( /* IDADE_VALIDA = 1 */\n  /* AND CONSELHEIRO = 0 */\n  /* AND CLIENTE_PEP = 0 */\n  /* AND DESEJA_CONTATO_TELEFONICO = 0 */\n  /* AND POSSUI_TELEFONE_ATIVO = 1 */\n  /* AND POSSUI_CONTA_CORRENTE = 1 */\n  COMPRA_UTIMOS_30_DIAS = 'False' \n  AND POSSUI_TITULO_ATIVO = 'true'\n  AND QUARENTENA = 0\n  AND NAO_IMPORTUNE = 'False')",
+  "targetName": "Publico_Inapto_Clientes_NeoBpo",
+  "targetKey": "8CB7BAB5-0D92-4C79-943B-9ED211D5B160",
+  "targetId": "8c22091a-f877-ec11-a311-48df370eabe5",
+  "targetDescription": "Bolo durante execucao para guardar publico nao apto para o otc290",
+  "createdDate": "2022-01-17T19:06:29.19",
+  "modifiedDate": "2022-10-25T09:29:39.307",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 30539,
+  "isFrozen": false
+}

@@ -1,0 +1,2 @@
+Select id, id_cliente as hc_cliente__c 
+from ClienteParceiroSemClienteUnico_Atualizar

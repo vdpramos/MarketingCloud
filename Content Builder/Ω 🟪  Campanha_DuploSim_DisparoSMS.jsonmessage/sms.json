@@ -1,0 +1,17 @@
+{
+  "channel": "sms",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:previewbycodetype": {
+    "locale": "BR",
+    "supportsConcatenation": true
+  },
+  "display:message": "REALIZE SEUS OBJETIVOS COM O OUROCAP! CONFIRME AGORA A SUA COMPRA NOS CANAIS DIGITAIS DO BB: BB.COM.BR, TERMINAL DE AUTOATENDIMENTO OU APP.",
+  "currentColumn": 0,
+  "display:message:display": "REALIZE SEUS OBJETIVOS COM O OUROCAP! CONFIRME AGORA A SUA COMPRA NOS CANAIS DIGITAIS DO BB: BB.COM.BR, TERMINAL DE AUTOATENDIMENTO OU APP.",
+  "template": "sms",
+  "contents": [],
+  "shortLinks": [],
+  "uncheckedPanels": []
+}

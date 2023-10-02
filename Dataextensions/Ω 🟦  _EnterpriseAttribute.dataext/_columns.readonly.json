@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "Existe",
+    "FieldType": "Boolean",
+    "ObjectID": "2792d548-c440-47af-b4ee-40d9cda92414",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "True",
+    "Ordinal": 0
+  }
+]

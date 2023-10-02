@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "1D12821A-9964-4242-96D4-719DC74962E8"
+  ],
+  "Name": [
+    "RECOMANDO_G1_TCBB_PF_v2_MOCK"
+  ]
+}

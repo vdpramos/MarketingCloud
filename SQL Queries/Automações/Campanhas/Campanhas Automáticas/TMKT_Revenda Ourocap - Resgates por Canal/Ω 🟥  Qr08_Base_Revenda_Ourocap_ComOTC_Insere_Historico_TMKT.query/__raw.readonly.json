@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "5e7453bd-cfbe-4825-b086-1c358b104785",
+  "name": "Qr08_Base_Revenda_Ourocap_ComOTC_Insere_Historico_TMKT",
+  "key": "5E7453BD-CFBE-4825-B086-1C358B104785",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n    CPF_CNPJ AS CPF,\n    ID_CAMPANHA,\n    GETDATE() AS DATA_CAMPANHA,\n    'DISCADOR' AS CANAL\nFROM \n    TB_BASE_REVENDA_OUROCAP_OTC291_FILTRADA_TMKT",
+  "targetName": "Tb_Campanhas_Cliente_Historico",
+  "targetKey": "2418DAA8-371F-48AA-A3E5-68230CAD6E82",
+  "targetId": "2bb6a362-296b-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2023-07-20T08:09:01.467",
+  "modifiedDate": "2023-07-20T08:09:01.467",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 66285,
+  "isFrozen": false
+}

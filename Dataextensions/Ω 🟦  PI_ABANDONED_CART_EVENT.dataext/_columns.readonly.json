@@ -1,0 +1,90 @@
+[
+  {
+    "Name": "user_id",
+    "FieldType": "Text",
+    "ObjectID": "17b7998e-5952-43de-a6a0-fcf9eb925e32",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "cart_id",
+    "FieldType": "Text",
+    "ObjectID": "ee68ceb1-8769-450f-afa9-1ddbf7ac2579",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "email_address",
+    "FieldType": "Text",
+    "ObjectID": "c38fbb56-8013-464d-96f7-59462c42634e",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "contact_key",
+    "FieldType": "Text",
+    "ObjectID": "f63dd51e-679c-4af0-830c-78ef712ab9a4",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "currency_type",
+    "FieldType": "Text",
+    "ObjectID": "78161582-a0d2-4673-88e3-e9fa68110682",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "no_items_cart",
+    "FieldType": "Number",
+    "ObjectID": "ba812b2c-835a-4b8c-8f50-6b4a90a91546",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "cart_value",
+    "FieldType": "Decimal",
+    "ObjectID": "39cdcec3-f960-4759-b690-b6a56ccd063e",
+    "MaxLength": "18",
+    "Scale": "2",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "timestamp",
+    "FieldType": "Date",
+    "ObjectID": "e9701696-1a98-4936-91df-975fa8e48c10",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "getdate()",
+    "Ordinal": 8
+  }
+]

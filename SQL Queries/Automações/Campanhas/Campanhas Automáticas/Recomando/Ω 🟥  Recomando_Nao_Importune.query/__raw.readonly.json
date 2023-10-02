@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "472f83a2-3c6c-4ef3-87eb-2a18dd2d9674",
+  "name": "Recomando_Nao_Importune",
+  "key": "329b50ef-9c7e-407f-af67-6d404307d286",
+  "description": "Avalia filtro de nao importune",
+  "queryText": "SELECT\r\n\tA.CPF,\r\n  A.ID_CAMPANHA,\r\n\t1 AS NAO_IMPORTUNE\r\nFROM RECOMANDO_PUBLICO_INICIAL A\r\nINNER JOIN TB_BASE_NAO_IMPORTUNE N ON RIGHT(ISNULL(A.CELULAR, '00000000000'), LEN(LTRIM(RTRIM(N.TELEFONE)))) = LTRIM(RTRIM(N.TELEFONE))\r\nINNER JOIN CAMPAIGN_SALESFORCE CMP ON CMP.ID = A.ID_CAMPANHA\r\nWHERE CELULAR != NULL AND CMP.HC_VALIDA_NAO_IMPORTUNE__C = 1",
+  "targetName": "RECOMANDO_PUBLICO_INICIAL",
+  "targetKey": "0CF1F0BD-C93A-44ED-90B1-C3B3D019BED3",
+  "targetId": "0f903e80-ebed-ec11-a5b6-d4f5ef66aed7",
+  "targetDescription": "Base contendo selecao inicial do publico",
+  "createdDate": "2022-06-16T21:44:15.443",
+  "modifiedDate": "2022-06-16T21:44:15.443",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 31535,
+  "isFrozen": false
+}

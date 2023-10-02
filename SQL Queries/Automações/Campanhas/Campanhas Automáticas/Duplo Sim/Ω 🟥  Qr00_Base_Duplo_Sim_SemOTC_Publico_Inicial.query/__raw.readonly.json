@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "efece38c-82c6-4fba-ad03-3ccafac0bb16",
+  "name": "Qr00_Base_Duplo_Sim_SemOTC_Publico_Inicial",
+  "key": "5bdbc95d-a26f-4d0c-8ca2-9b34fcfd7de1",
+  "description": "",
+  "queryText": "SELECT\n    distinct B.HC_CPF_CNPJ__C AS CPF_CNPJ,\n\tC.NAME AS NOME,\n\tHC_IDADE__C AS IDADE,\n\tHC_DATA_DE_NASCIMENTO__C AS DT_NASCIMENTO,\n\tHC_GENERO_DO_CLIENTE__C AS SEXO,\n\tB.HC_PARCEIRO__C AS PARCEIRO,\n\tHC_TIPO_DE_PESSOA__C AS TIPO_PESSOA,\n\tLEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_1__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_04,\n\tSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_1__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_04,\n\t'MÓVEL' AS TIPO_TEL_04,\n\tLEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_2__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_05,\n\tSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_2__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_05,\n\t'MÓVEL' AS TIPO_TEL_05,\n\tLEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_3__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_06,\n\tSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_3__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_06,\n\t'MÓVEL' AS TIPO_TEL_06,\n\tHC_CLASSIFICACAO__C AS PUBLICO_ALVO,\n\tB.HC_CPF_CNPJ__C AS ID,\n\tB.ID AS ID_CLIENTE_PARCEIRO,\n\tC.ID AS ID_CONTATO,\n\tB.HC_Cliente__c AS ID_CLIENTE,\n\tB.HC_CPF_CNPJ_CODIGO_DO_PARCEIRO__C AS CPF_CNPJ_CODIGO_DO_PARCEIRO,\n\tP.HC_Agendamento__c as Dt_Limite,\n\tUPPER(P.HC_Origem_da_Venda__c) as Origem_Venda,\n\tB.HC_Telefone_Principal__c as Tel_Principal,\n\tA.STARTDATE AS DT_INICIO_MAILING,\n\tA.ENDDATE AS DT_FIM_MAILING,\n\tA.HC_PRODUTO__C AS ID_PRODUTO,\n\tA.HC_PRECO_DO_PRODUTO__C AS ID_PRODUTO_VALOR,\n\tA.ID AS ID_CAMPANHA,\n\tA.HC_Data_de_Confirmacao_da_Compra__C AS DIAS_ANTECEDENCIA,\n\tgetdate() AS Dt_Ult_Execucao,\n\tA.HC_FORMATO__C AS HC_FORMATO__C,\n\tA.HC_FORNECEDOR__C AS HC_FORNECEDOR__C,\n\tP.ID AS ID_PROPOSTA,\n\tp.HC_Data_da_Venda__c as Data_da_Venda,\n\tP.HC_Agendamento__c AS Agendamento,\n\tgetdate()+1 AS DATA_PROXIMA_EXECUCAO\nFROM HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE B\nINNER JOIN CONTACT_SALESFORCE C ON C.HC_CPF_CNPJ__C = B.HC_CPF_CNPJ__C\nINNER JOIN HC_Proposta__c_Salesforce P ON P.HC_CPF_CNPJ_Titular__c = B.HC_CPF_CNPJ__c\nINNER JOIN CAMPAIGN_SALESFORCE A ON 1 = 1\nWHERE\n\tA.ID = '7016g000002O07HAAS'\n\tAND A.ISACTIVE = 1\n\tAND B.HC_Classificacao__c != 'Falecido'\n\tAND B.HC_Idade__c BETWEEN 18 AND 70\n\tAND P.HC_Origem_da_Venda__c like '%PROMOTIVA%'\n\tAND P.HC_Situacao__c NOT IN ('Cancelada', 'Cancelada pelo OTC', 'Estornada')\n\tAND B.HC_Nao_deseja_receber_Todos_Meios__c = 0\n\tAND B.HC_Nao_deseja_receber_SMS__c = 0\n\tAND P.HC_Data_da_Venda__c BETWEEN\tDATEADD(DD, -CONVERT(INT, A.HC_Data_de_Confirmacao_da_Compra__C), getdate())\n\t\tAND getdate()\n",
+  "targetName": "Tb_Base_Duplo_Sim_SemOTC_Tratada",
+  "targetKey": "0D720B4F-BEC4-48F3-A9BA-F010F9E019E9",
+  "targetId": "48684a16-2397-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-07T15:29:37.23",
+  "modifiedDate": "2022-11-17T08:07:56.75",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 32389,
+  "isFrozen": false
+}

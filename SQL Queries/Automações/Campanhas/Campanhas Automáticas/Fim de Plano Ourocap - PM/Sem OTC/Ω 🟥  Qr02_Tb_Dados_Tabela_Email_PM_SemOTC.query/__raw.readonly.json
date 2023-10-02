@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6574e766-617e-45d7-9745-b3eefe5d908f",
+  "name": "Qr02_Tb_Dados_Tabela_Email_PM_SemOTC",
+  "key": "32bfa750-509c-4a50-a619-3739d60b729f",
+  "description": "",
+  "queryText": "SELECT\nA.CPF_CNPJ,\nC.HC_Valor_Liquido__c as Valor_Resgate,\nC.NAME as Numero_do_Titulo,\nC.HC_Fim_previsto__c as Data_Credito,\nC.HC_Meio_de_Credito__c as Forma_Credito,\nD.HC_Descricao__c AS Produto\nFROM Fim_Plano_PM_semOTC_Filtrado A\nINNER JOIN HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE B ON A.CPF_CNPJ = B.HC_CPF_CNPJ__c\nINNER JOIN HC_TITULO__C_SALESFORCE C ON C.HC_CLIENTE_X_PARCEIRO__C = B.ID\nINNER JOIN HC_PRODUTO__C_SALESFORCE D ON C.HC_produtoRelacionado__c = D.ID\nWHERE CONVERT(VARCHAR(10), C.HC_Fim_previsto__c, 120) = CONVERT(VARCHAR(10), getdate()+20, 120)",
+  "targetName": "Tb_Dados_Tabela_Email_PM_semOTC",
+  "targetKey": "5A8887B6-15B9-4D98-AAF7-901F0F692FF1",
+  "targetId": "d1f3c35c-57b2-ec11-a313-48df370ed7f5",
+  "targetDescription": "",
+  "createdDate": "2021-12-29T20:24:05.99",
+  "modifiedDate": "2023-02-13T07:03:14.573",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 43811,
+  "isFrozen": false
+}

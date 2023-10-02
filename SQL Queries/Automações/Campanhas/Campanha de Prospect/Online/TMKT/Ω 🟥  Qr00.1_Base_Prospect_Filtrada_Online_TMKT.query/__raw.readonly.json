@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "c2fa106b-d4ab-4126-a105-f02207462f19",
+  "name": "Qr00.1_Base_Prospect_Filtrada_Online_TMKT",
+  "key": "1acd0ea4-dc97-480b-a5d7-a5ae33c2c5cf",
+  "description": "",
+  "queryText": "SELECT\n A.*\nFROM Tb_Base_Prospect_Online_Tratada_TMKT A\nWHERE IDADE_VALIDA = 1\n  AND CONTA_CORRENTE = 1\n  AND QUARENTENA = 0 \n  AND CONSELHEIRO = 0 \n  /*AND CLIENTE = 0*/\n  /*AND VALIDA_RNA = 1*/\n  /*AND CEP_VALIDO = 1*/\n  AND NAO_IMPORTUNE = 0\n  and Titulo_Ativo_Recente = 0",
+  "targetName": "Tb_Base_Prospect_Online_Filtrada_TMKT",
+  "targetKey": "AF5F1E32-0907-406A-B6F7-03B9EF6EB653",
+  "targetId": "5cdef94f-2f6b-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Base com contatos filtrados para o envio do OTC290",
+  "createdDate": "2022-11-25T11:43:25.127",
+  "modifiedDate": "2023-06-26T11:11:07.76",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 55868,
+  "isFrozen": false
+}

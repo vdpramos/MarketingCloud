@@ -1,0 +1,10 @@
+Dataextension name: Tb_Dados_Tabela_Email_PU_TMKT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(14)        | false    | false    |                 |
+| Produto              | Text(255)       | false    | false    |                 |
+| Numero_do_Titulo     | Text(80)        | false    | false    |                 |
+| Valor_Resgate        | Decimal(14,2)   | false    | false    |                 |
+| Data_Credito         | Date            | false    | false    |                 |
+| Forma_Credito        | Text(255)       | false    | false    |                 |

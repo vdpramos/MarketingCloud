@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "f6869708-c640-4995-820a-8158207e1183",
+  "name": "Base_Yahoo",
+  "key": "b154b733-b01b-47c9-bdb0-67a1a4aea191",
+  "description": "",
+  "queryText": "\nSELECT DISTINCT\nBf.CPF,\nBF.NOME,\nBF.EMAIL,\nBF.EMAIL_VALIDO\nFROM Base_Final BF\nWhere\nEmail like '%@yahoo.com%'\n or\nEmail like '%@aol.com%'\nor\nEmail like '%@aim.com%'\nor\nEmail like '%@ymail.com%'\nor\nEmail like '%@verizon.net%'",
+  "targetName": "Base_Yahoo",
+  "targetKey": "680E975D-3B3E-449D-9EAE-F04A218EA9D5",
+  "targetId": "2462fcb1-d32f-ec11-a30b-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-10-17T23:48:44.927",
+  "modifiedDate": "2021-10-17T23:48:44.927",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 40397,
+  "isFrozen": false
+}

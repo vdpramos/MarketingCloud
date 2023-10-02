@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "DBDBF584-E3A5-43E1-AC0D-F9295AA91FE2"
+  ],
+  "Name": [
+    "ClienteUnicoSemRelacionamento_expurgadobkp"
+  ]
+}

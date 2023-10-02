@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "db973d42-5fda-4d7e-88d9-a2f30c73bc7c",
+  "name": "Informe_Rendimentos_OTC291_tratada",
+  "key": "DB973D42-5FDA-4D7E-88D9-A2F30C73BC7C",
+  "description": "",
+  "queryText": "SELECT\r\n    a.Codigo_Parceiro,\r\n    a.Codigo_MCI,\r\n    a.Tipo_Pessoa,\r\n    a.Codigo_CIC,\r\n    a.Dt_Nascimento,\r\n    a.Codigo_RNA,\r\n    a.Valor_Rendimentos,\r\n    a.Tipo_Carteira,\r\n    a.Nivel_Relacionamento,\r\n    a.Data_Informacao,\r\n    a.Filler2,\r\n    a.CPF,\r\n    a.Dt_Nascimento_SF,\r\n    a.Alta_Renda,\r\n    b.Id_Contato,\r\n    b.Nome,\r\n    b.Id_Cliente_Parceiro,\r\n    b.Email,\r\n    b.Celular,\r\n    b.MCI\r\nFROM Tb_Base_OTC291_Tratada a\r\n    INNER JOIN Informe_rendimentos_publico_inicial b \r\n        ON a.CPF = b.CPF_CNPJ",
+  "targetName": "Informe_Rendimentos_OTC291_tratada",
+  "targetKey": "A83E11E8-F4A7-43FC-A54F-17C471238BDD",
+  "targetId": "ff4f4a8c-fde4-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-04-27T07:52:48.83",
+  "modifiedDate": "2023-05-04T11:28:37.16",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 62051,
+  "isFrozen": false
+}

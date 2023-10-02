@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "id",
+    "FieldType": "Text",
+    "ObjectID": "c62cb357-9771-4b4e-a9ba-e0c23a2c4436",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "firstName",
+    "FieldType": "Text",
+    "ObjectID": "26b75598-e30f-4f40-8a31-338de9744a69",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "whatsapp",
+    "FieldType": "Phone",
+    "ObjectID": "c5ee5538-fb2a-44ac-aea3-670d8047e35f",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "cpf",
+    "FieldType": "Text",
+    "ObjectID": "1ef66819-7cc4-4ee0-97e3-a26ab9db5773",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

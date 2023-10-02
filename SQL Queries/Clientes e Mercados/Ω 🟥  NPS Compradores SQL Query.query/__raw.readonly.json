@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "90bea888-21fa-4c94-9d7d-1eeb60045c58",
+  "name": "NPS Compradores SQL Query",
+  "key": "90BEA888-21FA-4C94-9D7D-1EEB60045C58",
+  "description": "Instrução SQL para leitura de compradores em um determinado período.",
+  "queryText": "SELECT\n    A.HC_Cliente_x_Parceiro__c AS ClienteID,\n    A.HC_CPF_CNPJ_Subscritor__c AS CPF,\n    B.HC_Nome_Cliente__c AS Nome,\n    B.HC_Data_de_Nascimento__c AS DataNascimento,\n    A.HC_Cidade_Subscritor__c AS Cidade,\n    B.HC_CEP_Res__c AS CEP,\n    A.HC_Estado_Titular__c AS UF,\n    B.HC_Tipo_de_Pessoa__c AS TipoPessoa,\n    A.HC_Nome_Completo__c AS ChaveTitulo,    \n    A.HC_Situacao__c AS StatusTitulo,\n    A.HC_Inicio__c AS InicioVigencia,\n    A.HC_Fim_previsto__c AS FimVigencia,\n    A.HC_Valor_da_Parcela__c AS ValorParcela,\n    A.HC_Proposta__c AS NumeroProposta,\n    A.HC_Origem_da_Venda__c AS OrigemVenda,\n    A.HC_Tipo_de_pagamento__c AS TipoPagamento,\n\tB.HC_Celular_1__c AS Celular1,\n\tB.HC_Celular_2__c AS Celular2,\n\tCASE\n\t\tWHEN B.HC_Celular_3__c IS NOT NULL THEN B.HC_Celular_3__c\n\t\tWHEN B.HC_Celular_3_3__c IS NOT NULL THEN B.HC_Celular_3_3__c\n\t\tELSE B.HC_Celular_4__c\n\tEND AS Celular3,\n\tB.HC_Telefone_Residencial__c AS Fixo1,\n\tB.HC_Telefone_Comercial__c AS Fixo2,\n\tB.HC_Telefone_Outro__c AS Fixo3,\n\tB.HC_Email_Pessoal__c AS EMailPessoal,\n\tB.HC_Email_Comercial__c AS EMailComercial,\n\tB.HC_Email_Brasilcap__c AS EMailBrasilcap,\n\tB.HC_Email_Principal__c AS EmailPrincipal,\n\tB.HC_Nao_deseja_receber_Email__c AS NaoReceberEmail,\n\tA.HC_Origem__c,\n\tA.HC_CODIGO_DO_PARCEIRO_NA_ORIGEM__C,\n\tA.HC_FAMILIA_DO_PRODUTO_DO_TITULO__C\nFROM HC_Titulo__c_Salesforce A\nLEFT JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce B ON B.HC_Cliente__c = A.HC_Cliente__c\nWHERE\n    HC_Familia_do_produto_do_titulo__c = 'Ourocap'\nAND B.HC_Tipo_de_Pessoa__c = 'PF'\nAND A.HC_Inicio__c BETWEEN '2023-06-21' AND '2023-07-20'\nAND (B.HC_Id_Parceiro_Cap__c = 'TCBB' OR B.HC_Id_Parceiro_Darwin__c = '1')\nAND HC_Nao_deseja_receber_Ligacoes__c = 0\nAND HC_Nao_deseja_receber_Todos_Meios__c = 0",
+  "targetName": "NPSCompradoresDE",
+  "targetKey": "42850B5D-19CF-4685-A5D1-AEACBED17F08",
+  "targetId": "004389c5-3319-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "Lista de compradores para pesquisa NPS",
+  "createdDate": "2023-07-03T10:20:59.773",
+  "modifiedDate": "2023-07-26T08:12:49.04",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 65497,
+  "isFrozen": false
+}

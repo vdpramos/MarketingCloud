@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "C4743ACA-21F2-4B49-8AC5-315D4E9624E0"
+  ],
+  "Name": [
+    "Tb_Campanha_Criada_Service"
+  ]
+}

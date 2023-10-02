@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a8023b8d-1f44-4072-86c0-09213e4a9ec4",
+  "name": "Qr00_Extracao_Base_Ex-Cliente_Online_Extracao_ComOTC_NeoBpo",
+  "key": "38fac796-011d-46fb-8dcc-380ee92c6fd8",
+  "description": "",
+  "queryText": "SELECT Ddd_Tel_01 AS DDD1,\n       Tel_01 TELEFONE1,\n       B.Tipo_Tel_01 TIPO1,\n       Ddd_Tel_02 AS DDD2,\n       Tel_02 TELEFONE2,\n       B.Tipo_Tel_02 TIPO2,\n       Ddd_Tel_04 DDD3,\n       Tel_04 TELEFONE3,\n       B.Tipo_Tel_04 TIPO3,\n       Ddd_Tel_05 DDD4,\n       Tel_05 TELEFONE4,\n       B.Tipo_Tel_05 TIPO4,\n       Ddd_Tel_03 DDD5,\n       Tel_03 TELEFONE5,\n       B.Tipo_Tel_03 TIPO5,\n       B.Tel_Principal PREFERENCIAL,\n       B.IDADE,\n       CONVERT(VARCHAR(10), B.Dt_Nascimento, 103) AS DATA_NASCIMENTO,\n    B.Nome AS NOME_CLIENTE,\n    B.CEP,\n    '' as UF,\n    B.Tipo_Pessoa TIPO_DE_PESSOA,\n    B.CPF_CNPJ,\n    B.Sexo,\n    B.Publico_Alvo CLASSIFICAÇAO,\n    B.Tipo_Campanha,\n    CONVERT(VARCHAR(10), B.Dt_Criacao_Mailing, 103) AS DATA_CRIAÇÃO,\n    CONVERT(VARCHAR(10), B.Dt_Inicio_Mailing, 103) AS DATA_UTILIZAÇÃO,\n    CONVERT(VARCHAR(10), B.Dt_Fim_Mailing, 103) AS DATA_TERMINO,\n    B.Id_Campanha IDCAMPANHA,\n    B.Id_Contato IDCONTATOS,\n    B.Id_Cliente_Parceiro AS IDCP\nFROM Tb_Base_EX_Cliente_OTC291_Filtrada_NeoBpo A\nINNER JOIN TB_BASE_EX_CLIENTE_COMOTC_NEOBPO B ON A.CPF = B.CPF_CNPJ",
+  "targetName": "Tb_Base_Ex-Cliente_Online_Extracao_ComOTC_NeoBpo_1",
+  "targetKey": "62DE4A06-154D-47BB-9F7A-F242CDF2D7BB",
+  "targetId": "806b27af-7d98-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-03-11T04:54:03.527",
+  "modifiedDate": "2023-06-12T12:58:17.673",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 30772,
+  "isFrozen": false
+}

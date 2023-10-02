@@ -1,0 +1,147 @@
+{
+  "display:message:format": "text",
+  "display:languages:content": {
+    "pT_BR": {
+      "display:components": [
+        "message"
+      ],
+      "display:message": "Olá, ${1}! Seu Ourocap está finalizando. Parabéns pelo valor guardado! Faça um novo título e não deixe de concorrer aos prêmios. São até R$ 25 milhões.\n\nPara maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+      "display:message:parameters": {
+        "1": {
+          "display:argument:name": "1",
+          "display:argument:format": "text",
+          "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+        }
+      }
+    }
+  },
+  "channel": "whatsapptemplate",
+  "showTemplatePicker": false,
+  "templateName": "comnome_fim_de_plano_pu",
+  "collapsedPanels": [],
+  "display:lang": "PT_BR",
+  "stack": "S11",
+  "display:components": [
+    "message"
+  ],
+  "display:message": "Olá, ${1}! Seu Ourocap está finalizando. Parabéns pelo valor guardado! Faça um novo título e não deixe de concorrer aos prêmios. São até R$ 25 milhões.\n\nPara maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+  "currentColumn": 0,
+  "selectedTemplate": {
+    "display:components": [
+      "message"
+    ],
+    "display:message": "Olá, ${1}! Seu Ourocap está finalizando. Parabéns pelo valor guardado! Faça um novo título e não deixe de concorrer aos prêmios. São até R$ 25 milhões.\n\nPara maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+    "display:message:parameters": {
+      "1": {
+        "display:argument:name": "1",
+        "display:argument:format": "text",
+        "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+      }
+    }
+  },
+  "display:message:parameters": {
+    "1": {
+      "display:argument:name": "1",
+      "display:argument:format": "text",
+      "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+    }
+  },
+  "template": {
+    "modifiedBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "customerKey": "7664be76-7ac2-47e4-a43a-00c406ce63b0",
+    "availableViews": [
+      "whatsAppTemplate"
+    ],
+    "model": {
+      "id": 235,
+      "fileExtension": "",
+      "name": "JSON Message Template",
+      "key": "jsonmessagetemplate",
+      "parentAssetTypeID": 4,
+      "createdDate": "2020-06-29T12:25:11-06:00",
+      "modifiedDate": "2020-06-29T12:25:11-06:00",
+      "isCDNPublishable": false
+    },
+    "assetType": {
+      "id": 235,
+      "name": "jsonmessagetemplate",
+      "displayName": "jsonmessagetemplate"
+    },
+    "name": "WHATSAPP-comnome_fim_de_plano_pu",
+    "thumbnail": {
+      "thumbnailUrl": "/v1/assets/78534/thumbnail"
+    },
+    "views": {
+      "whatsAppTemplate": {
+        "content": "",
+        "meta": {
+          "options": {
+            "customBlockData": {
+              "display:languages:content": {
+                "pT_BR": {
+                  "display:components": [
+                    "message"
+                  ],
+                  "display:message": "Olá, ${1}! Seu Ourocap está finalizando. Parabéns pelo valor guardado! Faça um novo título e não deixe de concorrer aos prêmios. São até R$ 25 milhões.\n\nPara maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+                  "display:message:parameters": {
+                    "1": {
+                      "display:argument:name": "1",
+                      "display:argument:format": "text",
+                      "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+                    }
+                  }
+                }
+              },
+              "channel": "WHATSAPP",
+              "templateName": "comnome_fim_de_plano_pu",
+              "display:lang": "PT_BR",
+              "display:languages:approved": [
+                "PT_BR"
+              ],
+              "template": "template",
+              "containerId": "106212288893473",
+              "category": "ACCOUNT_UPDATE"
+            }
+          }
+        },
+        "modelVersion": 2
+      }
+    },
+    "modelVersion": 2,
+    "status": {
+      "id": 1,
+      "name": "Draft"
+    },
+    "owner": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "memberId": 514002572,
+    "createdDate": "2022-10-28T19:24:18-06:00",
+    "modifiedDate": "2022-10-28T19:24:18-06:00",
+    "objectID": "bc97ce78-1f1d-4281-81e7-2d8dd4b23b7c",
+    "id": 78534,
+    "enterpriseId": 514002572,
+    "category": {
+      "id": 1942,
+      "name": "Content Builder",
+      "parentId": 0
+    },
+    "createdBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    }
+  },
+  "contents": [],
+  "uncheckedPanels": [],
+  "category": "ACCOUNT_UPDATE"
+}

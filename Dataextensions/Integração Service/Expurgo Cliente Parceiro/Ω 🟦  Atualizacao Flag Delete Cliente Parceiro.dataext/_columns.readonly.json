@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Id",
+    "FieldType": "Text",
+    "ObjectID": "0e1cc50f-36b7-45ea-b329-15d254abed6e",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Enviado",
+    "FieldType": "Boolean",
+    "ObjectID": "5d2b9bf9-ad86-4804-abd0-b832166594b1",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

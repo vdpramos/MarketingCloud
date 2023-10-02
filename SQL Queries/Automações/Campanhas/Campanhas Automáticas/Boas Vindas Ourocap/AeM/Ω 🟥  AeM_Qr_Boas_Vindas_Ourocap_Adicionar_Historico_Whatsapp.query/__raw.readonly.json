@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6e29450f-b53c-4ff0-a76a-613e481e47fc",
+  "name": "AeM_Qr_Boas_Vindas_Ourocap_Adicionar_Historico_Whatsapp",
+  "key": "191d3c0f-87e7-4ac6-a079-c92b799c5c80",
+  "description": "",
+  "queryText": "select\n*\nfrom AeM_Boas_Vindas_Disparo\nWHERE Flag_WhatsApp = 1",
+  "targetName": "AeM_Boas_Vindas_Whatsapp_Historico",
+  "targetKey": "A530ED2B-7377-4D7A-8DFF-0F06C7C415D3",
+  "targetId": "e69df0dc-f756-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Historico de propostas ja enviadas para campanha",
+  "createdDate": "2022-10-28T13:48:17.007",
+  "modifiedDate": "2022-10-28T14:02:33.75",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 54649,
+  "isFrozen": false
+}

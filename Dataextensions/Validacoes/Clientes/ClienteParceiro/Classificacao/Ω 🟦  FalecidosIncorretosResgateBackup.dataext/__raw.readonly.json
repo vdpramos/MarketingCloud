@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "3994D0CD-4B22-471D-9C87-B3AA60EA96B6"
+  ],
+  "Name": [
+    "FalecidosIncorretosResgateBackup"
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "cf29e8db-83d4-47e0-9bde-65c9d9bce517",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Id_Contato",
+    "FieldType": "Text",
+    "ObjectID": "1e00428a-cd82-4e80-8f32-54ee23c79721",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Id_Cliente_Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "7855b79b-fe85-4ad4-8d78-ffe535454afb",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "6562a39f-285c-46bc-a7e3-4d22c515690e",
+    "MaxLength": "200",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Data_Nascimento",
+    "FieldType": "Date",
+    "ObjectID": "6b54148d-44ca-4c28-b677-c2896e769649",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Email",
+    "FieldType": "Text",
+    "ObjectID": "f7831398-1515-42cb-b155-19e9698b577d",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "Celular",
+    "FieldType": "Text",
+    "ObjectID": "9cc0c91c-70c4-4c45-9f38-4c4dfc007b5b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "MCI",
+    "FieldType": "Text",
+    "ObjectID": "137c2193-718b-4bef-8762-9cd498377775",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "ContactKey",
+    "FieldType": "Text",
+    "ObjectID": "9f2ae452-ce7e-4072-aac9-6f2c10220888",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "MobileNumber",
+    "FieldType": "Text",
+    "ObjectID": "6a62fdf3-45ec-46c5-b6ef-480152737110",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "channelType",
+    "FieldType": "Text",
+    "ObjectID": "32bcad09-49a0-4797-956a-a47468a8ecdb",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "ChannelId",
+    "FieldType": "Text",
+    "ObjectID": "06016f1a-4970-45f7-a6ae-366a1a378896",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Keyword",
+    "FieldType": "Text",
+    "ObjectID": "05745a58-2e69-4940-b47a-00edcc97eecd",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Message",
+    "FieldType": "Text",
+    "ObjectID": "7df99a08-2189-4b41-b16c-36e23d417f00",
+    "MaxLength": "4000",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

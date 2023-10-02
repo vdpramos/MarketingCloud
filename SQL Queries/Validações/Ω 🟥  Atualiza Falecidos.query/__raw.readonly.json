@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "275084c4-627d-4032-be0b-dbe32c152bfa",
+  "name": "Atualiza Falecidos",
+  "key": "275084C4-627D-4032-BE0B-DBE32C152BFA",
+  "description": "",
+  "queryText": "select id, 'Falecido' as hc_classificacao__c\r\nfrom hc_relacao_cliente_parceiro__c_salesforce cxp\r\nwhere exists (select 1 \r\n                from hc_titulo__c_salesforce t \r\n                where cxp.id = t.HC_Cliente_x_Parceiro__c \r\n                      and t.hc_situacao__c = 'Finalizado - Óbito')\r\n",
+  "targetName": "Falecidos",
+  "targetKey": "BBD2A4A4-D300-4AFE-AC16-7C98987369A2",
+  "targetId": "2b4cdbd5-b936-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2023-08-09T07:37:51.487",
+  "modifiedDate": "2023-08-14T08:29:10.673",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

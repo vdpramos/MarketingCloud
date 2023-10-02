@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "CF56F734-8408-4255-BDB0-278C2E8F7347"
+  ],
+  "Name": [
+    "Fornecedor NeoBpo DE filtrada"
+  ]
+}

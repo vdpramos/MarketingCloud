@@ -1,0 +1,8 @@
+Dataextension name: TitulosCAP_DtUltimoResgate
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| id_titulo            | Text(50)        | true     | false    |                 |
+| Id_Serie             | Text(50)        | true     | false    |                 |
+| id_plano             | Text(50)        | true     | false    |                 |
+| Data_Pagamento_Resgate | Text            | false    | false    |                 |

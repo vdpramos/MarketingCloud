@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "149CDB85-A9FB-40B9-B230-1B36247B6AA5"
+  ],
+  "Name": [
+    "Tb_Base_Revenda_Ourocap_OTC291_NeoBpo"
+  ]
+}

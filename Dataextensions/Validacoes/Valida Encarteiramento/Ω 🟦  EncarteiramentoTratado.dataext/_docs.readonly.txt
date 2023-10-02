@@ -1,0 +1,10 @@
+Dataextension name: EncarteiramentoTratado
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | true     | false    |                 |
+| PARCEIRO             | Text(50)        | true     | false    |                 |
+| ENCARTEIRAMENTO      | Text(255)       | true     | false    |                 |
+| ID                   | Text(50)        | true     | false    |                 |
+| Encarteiramento__c   | Text(255)       | true     | false    |                 |
+| ID_ENCARTEIRAMENTO   | Text(50)        | true     | false    |                 |

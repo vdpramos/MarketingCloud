@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "CAMPANHA_JORNADA",
+    "FieldType": "Text",
+    "ObjectID": "d99b573b-e002-4225-b33b-c0fefa913139",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "JobID",
+    "FieldType": "Number",
+    "ObjectID": "e66195bb-376c-4336-a3ca-d8f43ddb2777",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "VersionID",
+    "FieldType": "Text",
+    "ObjectID": "43b0d0b3-ae2f-4845-a82d-ae2464f4802d",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "CreatedDate",
+    "FieldType": "Date",
+    "ObjectID": "6cfdc028-84a1-4739-a368-0d9593ff26a0",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "LastPublishedDate",
+    "FieldType": "Date",
+    "ObjectID": "66bf3eff-ab78-4bd8-845f-b87060adf527",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "JourneyStatus",
+    "FieldType": "Text",
+    "ObjectID": "3c44e7c2-01ed-4db4-b8a1-b98b57c40b2d",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

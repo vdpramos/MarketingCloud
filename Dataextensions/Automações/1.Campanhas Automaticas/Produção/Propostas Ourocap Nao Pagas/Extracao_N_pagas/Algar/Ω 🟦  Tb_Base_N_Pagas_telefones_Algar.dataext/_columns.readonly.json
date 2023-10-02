@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "Cod_Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "5f399e1c-b6f6-4005-985d-5ecc9ae847b0",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "993ed8a6-d289-42e9-a29e-c7d0b73f65ad",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "bbd45b40-ae44-4612-9051-fac54343c750",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Tipo",
+    "FieldType": "Text",
+    "ObjectID": "e7833f88-b04a-46e4-b087-22683e6558d5",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "DDD",
+    "FieldType": "Text",
+    "ObjectID": "9f78f010-0c26-497e-b516-61a79a18d46a",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Telefone",
+    "FieldType": "Text",
+    "ObjectID": "6142911e-9d83-4523-b8d3-b231e6ce4fdc",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "edf536ec-9edc-49a8-86a9-2d4d3e8bcb6f",
+  "name": "NPS Resgate Antecipado SQL Query",
+  "key": "EDF536EC-9EDC-49A8-86A9-2D4D3E8BCB6F",
+  "description": "Instrução SQL para leitura de clientes que solicitaram resgate antecipado em um determinado período.",
+  "queryText": "SELECT TOP 300000\n    A.HC_Cliente_x_Parceiro__c AS ClienteID,\n    A.HC_CPF_CNPJ_Subscritor__c AS CPF,\n    B.HC_Nome_Cliente__c AS Nome,\n    B.HC_Data_de_Nascimento__c AS DataNascimento,\n    A.HC_Cidade_Subscritor__c AS Cidade,\n    B.HC_CEP_Res__c AS CEP,\n    A.HC_Estado_Titular__c AS UF,\n    B.HC_Tipo_de_Pessoa__c AS TipoPessoa,\n    A.HC_Nome_Completo__c AS ChaveTitulo,    \n    A.HC_Situacao__c AS StatusTitulo,\n    A.HC_Inicio__c AS InicioVigencia,\n    A.HC_Fim_previsto__c AS FimVigencia,\n    A.HC_Valor_da_Parcela__c AS ValorParcela,\n    A.HC_Proposta__c AS NumeroProposta,\n    A.HC_Origem_da_Venda__c AS OrigemVenda,\n    A.HC_Tipo_de_pagamento__c AS TipoPagamento,\n\tB.HC_Celular_1__c AS Celular1,\n\tB.HC_Celular_2__c AS Celular2,\n\tCASE\n\t\tWHEN B.HC_Celular_3__c IS NOT NULL THEN B.HC_Celular_3__c\n\t\tWHEN B.HC_Celular_3_3__c IS NOT NULL THEN B.HC_Celular_3_3__c\n\t\tELSE B.HC_Celular_4__c\n\tEND AS Celular3,\n\tB.HC_Telefone_Residencial__c AS Fixo1,\n\tB.HC_Telefone_Comercial__c AS Fixo2,\n\tB.HC_Telefone_Outro__c AS Fixo3,\n\tB.HC_Email_Pessoal__c AS EMailPessoal,\n\tB.HC_Email_Comercial__c AS EMailComercial,\n\tB.HC_Email_Brasilcap__c AS EMailBrasilcap,\n\tB.HC_Email_Principal__c AS EmailPrincipal,\n\tB.HC_Nao_deseja_receber_Email__c AS NaoReceberEmail,\n\tA.HC_CANAL_RESGATE_OTC__c AS CodigoOTC,\n\tA.HC_Data_do_ultimo_resgate__c AS DataUltimoResgate\nFROM HC_Titulo__c_Salesforce A\nLEFT JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce B ON B.HC_Cliente__c = A.HC_Cliente__c\nWHERE\n    A.HC_Familia_do_produto_do_titulo__c = 'Ourocap'\nAND B.HC_Tipo_de_Pessoa__c = 'PF'\nAND A.HC_Situacao__c IN ('Finalizado - Antecipado total', 'Finalizado - Resgate Pago', 'Baixado Resgate Pago')\nAND (B.HC_Id_Parceiro_Cap__c = 'TCBB' OR B.HC_Id_Parceiro_Darwin__c = '1')\nAND B.HC_Classificacao__c = 'Ex-cliente'\nAND A.HC_Data_do_ultimo_resgate__c < '2023-07-01'\nORDER BY\n    A.HC_Data_do_ultimo_resgate__c DESC",
+  "targetName": "NPSResgateAntecipadoDE",
+  "targetKey": "1419CBE1-ED7A-4A89-9AEF-1AAB777339A7",
+  "targetId": "4a6c8070-891b-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "Lista de clientes que solicitaram resgate antecipado",
+  "createdDate": "2023-07-05T18:00:33.13",
+  "modifiedDate": "2023-07-07T16:44:49.57",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 65497,
+  "isFrozen": false
+}

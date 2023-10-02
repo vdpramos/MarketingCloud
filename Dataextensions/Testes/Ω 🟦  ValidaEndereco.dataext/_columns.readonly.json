@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "61e70a62-90f6-4a4b-810a-12206bbf0667",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "00355dd6-69b7-492e-8ef6-5baf1ecb14d9",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "CEP",
+    "FieldType": "Text",
+    "ObjectID": "adad4343-a487-428a-a0bf-c9c66d9ca563",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

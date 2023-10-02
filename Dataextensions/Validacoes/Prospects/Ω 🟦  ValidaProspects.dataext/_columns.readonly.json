@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "ID",
+    "FieldType": "Text",
+    "ObjectID": "0b63a788-7d4b-4899-991c-ea32c327bd4e",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

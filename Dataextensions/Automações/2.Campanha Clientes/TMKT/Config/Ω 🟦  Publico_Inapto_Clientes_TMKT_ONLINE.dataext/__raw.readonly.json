@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "3DD178D4-EADC-42A9-9CC7-DAE41A9D82CA"
+  ],
+  "Name": [
+    "Publico_Inapto_Clientes_TMKT_ONLINE"
+  ]
+}

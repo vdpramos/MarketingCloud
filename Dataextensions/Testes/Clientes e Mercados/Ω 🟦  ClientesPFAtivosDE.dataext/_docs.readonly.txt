@@ -1,0 +1,6 @@
+Dataextension name: ClientesPFAtivosDE
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(11)        | false    | false    |                 |
+| FormaPagamento       | Text(2)         | false    | false    |                 |

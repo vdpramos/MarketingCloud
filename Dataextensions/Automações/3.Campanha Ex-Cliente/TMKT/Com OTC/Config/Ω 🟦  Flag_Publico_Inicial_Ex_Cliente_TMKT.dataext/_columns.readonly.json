@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "Continue",
+    "FieldType": "Boolean",
+    "ObjectID": "9f035a7a-f016-4592-96e6-ec544aa20897",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

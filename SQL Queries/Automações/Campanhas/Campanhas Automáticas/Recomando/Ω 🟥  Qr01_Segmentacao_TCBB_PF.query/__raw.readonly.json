@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "5d4d3ed8-8578-4c68-b457-4e9491b6927e",
+  "name": "Qr01_Segmentacao_TCBB_PF",
+  "key": "266254e3-f9a4-4fc7-8006-cd45a120df92",
+  "description": "Segmentar do publico da Jornada de Recomando o grupo TCBB PF",
+  "queryText": "select\n  q.HC_CPF_CNPJ__c,\n  CS.Id as IdContato,\n  camp.Id as IdCampaign,\n  RCP_ID,\n  HC_Titulo__c,\n  HC_Id_Parceiro_Cap__c,\n  HC_Data_Envio_Registro__c,\n  HC_Data_do_pagamento__c,\n  HC_Valor_Liquido__c,\n  CAMPAIGN_GROUP,\n  Telefone_Principal,\n  HC_Telefone_Principal__c,\n  HC_Celular,\n  HC_Celular_1__c,\n  HC_Celular_2__c,\n  HC_Celular_3__c,\n  Email_Principal,\n  HC_Email_Principal__c,\n  Endereco_Principal,\n  HC_Endereco_Principal__c,\n  camp.DATA_PROXIMA_EXECUCAO\nfrom [BASE_CAMPANHA_RECOMANDO] Q\ninner join (\n  SELECT TOP 1\n    Id,\n    HC_Proxima_execucao__c,\n    HC_Ultima_execucao__c,\n    HC_Valor_minimo_a_pagar__c,\n    HC_Valor_maximo_a_pagar__c,\n    HC_Data_inicial_do_periodo_de_queda__c,\n    HC_Data_fim_do_periodo_de_queda__c,\n    HC_DATA_DE_EXECUCAO__C,\n    DATEADD(DAY, HC_PROXIMA_EXECUCAO__C,HC_DATA_DE_EXECUCAO__C) AS DATA_PROXIMA_EXECUCAO\n  from [CAMPAIGN_SALESFORCE]\n  WHERE HC_Tipo_de_Cliente__c = 'PF'\n  and isnull(convert(integer, IsActive), 0) = 1\n  AND PARENTID = '7016g000002O08JAAS'\n) camp on Q.CAMPAIGN_GROUP = 'PF Ourocap'\nINNER JOIN [Contact_Salesforce] CS ON CS.HC_CPF_CNPJ_Tipo_de_Relacionamento__c = concat(q.HC_CPF_CNPJ__c, 'Cliente')\nWHERE\n    q.HC_Valor_Liquido__c is not null\n    and q.HC_Valor_Liquido__c >= isnull(camp.HC_Valor_minimo_a_pagar__c, 0)\n    and (\n      camp.HC_Valor_maximo_a_pagar__c is null\n      or isnull(q.HC_Valor_Liquido__c, 0) <= camp.HC_Valor_maximo_a_pagar__c\n    )\n    AND HC_Data_Envio_Registro__c between HC_Data_inicial_do_periodo_de_queda__c  and HC_Data_fim_do_periodo_de_queda__c \n     AND CONVERT(VARCHAR, camp.HC_DATA_DE_EXECUCAO__C, 112) = CONVERT(VARCHAR, GETDATE(), 112) ",
+  "targetName": "RECOMANDO_G1_TCBB_PF_v2",
+  "targetKey": "214C4CCE-92D4-4DF5-8AAF-EA1B58D2AABD",
+  "targetId": "5e6720af-3697-eb11-a2fc-48df37342b91",
+  "targetDescription": "Parceiro TCBB com PF",
+  "createdDate": "2021-04-05T15:27:37.82",
+  "modifiedDate": "2021-10-19T13:34:46.167",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 31535,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "74f9cad7-647e-4670-be50-bb3ad0b682a0",
+  "name": "Qr04_Duplo_Sim_Excluidos",
+  "key": "2ff99726-360f-4cda-b59f-210ccf6fd2de",
+  "description": "",
+  "queryText": "SELECT\n  B.CPF_CNPJ,\n  CMP.NAME AS CAMPANHA,\n  CASE\n    WHEN (B.NAO_ACEITOU IS NULL OR B.NAO_ACEITOU = 0) THEN 'REALIZOU O ACEITE'\n    WHEN NOT( LEN(CONCAT(B.DDD_TEL_04, B.TEL_04)) = 11\n        OR LEN(CONCAT(B.DDD_TEL_05, B.TEL_05)) = 11\n        OR LEN(CONCAT(B.DDD_TEL_06, B.TEL_06)) = 11\n    ) THEN 'CELULAR INVÁLIDO'\n  END AS RESULTADO\nFROM\n  Tb_Base_Duplo_Sim_SemOTC_Tratada B\nLEFT JOIN CAMPAIGN_SALESFORCE CMP ON B.ID_CAMPANHA = CMP.ID\nLEFT JOIN HC_PARCEIRO__C_SALESFORCE PAR ON B.PARCEIRO = PAR.ID\nLEFT JOIN HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE REL ON B.ID_CLIENTE_PARCEIRO = REL.ID\nWHERE\n  B.CPF_CNPJ IS NOT NULL\n  AND (\n    (B.NAO_ACEITOU IS NULL OR B.NAO_ACEITOU = 0)\n    /* Todos os telefones inválidos */\n    OR NOT( LEN(CONCAT(B.DDD_TEL_04, B.TEL_04)) = 11\n        OR LEN(CONCAT(B.DDD_TEL_05, B.TEL_05)) = 11\n        OR LEN(CONCAT(B.DDD_TEL_06, B.TEL_06)) = 11\n    )\n  )",
+  "targetName": "Tb_Log_Resultados_de_Avaliacao",
+  "targetKey": "88231EFF-D3C6-4EF4-BE12-BA0197BC551D",
+  "targetId": "57b988f5-a2e5-eb11-a304-48df37342b90",
+  "targetDescription": "Resultados de contatos que nao foram aptos para entrar na jornada",
+  "createdDate": "2021-09-21T17:52:23.94",
+  "modifiedDate": "2021-09-21T18:01:19.323",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 32389,
+  "isFrozen": false
+}

@@ -1,0 +1,175 @@
+{
+  "id": 75233,
+  "customerKey": "27d317d0-78bf-422a-aecd-f78e43f71e48",
+  "objectID": "894f2b90-436a-4a4f-a538-9bc2e4a8d213",
+  "contentType": "application/vnd.etmc.email.Message; kind=paste",
+  "assetType": {
+    "id": 208,
+    "name": "htmlemail",
+    "displayName": "HTML Email"
+  },
+  "name": "Pos Sorteio",
+  "description": "Email para campanha de pos sorteio",
+  "owner": {
+    "id": 713538740,
+    "email": "matheus.b.leto@accenture.com",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "createdDate": "2022-09-28T18:04:03.18-06:00",
+  "createdBy": {
+    "id": 713538740,
+    "email": "matheus.b.leto@accenture.com",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "modifiedDate": "2022-09-29T04:29:07.077-06:00",
+  "modifiedBy": {
+    "id": 713538740,
+    "email": "matheus.b.leto@accenture.com",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/75233/thumbnail"
+  },
+  "category": {
+    "id": 53791,
+    "name": "Pos Sorteio",
+    "parentId": 37553
+  },
+  "views": {
+    "subjectline": {
+      "contentType": "application/vnd.etmc.email.View; kind=subjectline",
+      "content": "Veja o último sorteio!",
+      "meta": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "preheader": {
+      "contentType": "application/vnd.etmc.email.View; kind=preheader",
+      "content": "Veja se foi premiado, ou participe",
+      "meta": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "html": {
+      "content": "<html>\n %%[ \n  VAR @TamanhoFirstName, @FirstName\n  SET @FirstName = Nome\n  IF IndexOf(@FirstName, ' ') > 0 THEN \n    SET @TamanhoFirstName = IndexOf(@FirstName, ' ') \n  ELSE \n    SET @TamanhoFirstName = Length(@FirstName) \n  ENDIF \n  SET @FirstName = ProperCase(Trim(Substring(@FirstName, 0, @TamanhoFirstName)))=%%\n  ]%%\n<head>\n<title>Brasilcap</title>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<style>\n/* CLIENT-SPECIFIC STYLES */\n\nbody, table, td, a {\n -webkit-text-size-adjust: 100%;\n -ms-text-size-adjust: 100%;\n -ms-line-height: exatly;\n font-family: Arial, Helvetica, sans-serif;\n color: #000000;\n} /* Prevent WebKit and Windows mobile changing default text sizes */\ntable, td {\n mso-table-lspace: 0pt;\n mso-table-rspace: 0pt;\n border-spacing: 0;\n border-collapse: collapse;\n mso-table-lspace: 0pt;\n mso-table-rspace: 0pt;\n mso-line-height: exatly;\n} /* Remove spacing between tables in Outlook 2007 and up */\nimg {\n -ms-interpolation-mode: bicubic;\n} /* Allow smoother rendering of resized image in Internet Explorer */\n/* RESET STYLES */\nimg {\n border: 0;\n line-height: 100%;\n outline: none;\n text-decoration: none;\n}\ntable {\n border-collapse: collapse !important;\n}\nbody {\n height: 100% !important;\n margin: 0 !important;\n padding: 0 !important;\n width: 100% !important;\n}\np {\n padding: 0 !important;\n margin: 0 !important;\n}\n/* iOS BLUE LINKS */\na[x-apple-data-detectors] {\n color: inherit !important;\n text-decoration: none !important;\n font-size: inherit !important;\n font-family: inherit !important;\n font-weight: inherit !important;\n line-height: inherit !important;\n}\n/* OVERRIDE GMAIL BLUE LINKS */\nu + #body a {\n color: inherit;\n text-decoration: none;\n font-size: inherit;\n font-family: inherit;\n font-weight: inherit;\n line-height: inherit;\n}\n</style>\n<body>\n<table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/fb49e7b8-b1eb-45ac-aa40-c364e6213d3f.png\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    \n    <tr>\n     <td width=\"197\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\" width=\"197\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n     <td width=\"453\" style=\"color:#4964fb;font-family:Arial, sans-serif;font-size:30px;\" align=\"left\">%%=v(@FirstName)=%%</td>\n\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\" width=\"40\" height=\"40\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    \n    <tr>\n     <td width=\"64\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\" width=\"64\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n     <td width=\"450\" style=\"color:#636f76;font-family:Arial, sans-serif;font-size:14px;\" align=\"left\">No último dia %%DATA_SORTEIO%% sorteamos prêmios de até %%PREMIO_EMAIL%%.\n     <br><br>\n     Ficamos honrados em sortear uma quantidade tão expressiva em dinheiro e poder mudar a vida de vários clientes.\n     <br><br>\n     Ao mesmo tempo, sentimos muito que você não tenha sido um dos sorteados dessa vez, mas não desanime, até o fim da vigência do seu título, você ainda tem muitas chances de ser o felizardo! Continuamos na torcida por você!\n     </p>\n     </td>\n     <td width=\"86\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\" width=\"86\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\" width=\"40\" height=\"40\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td width=\"85\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\" width=\"85\" height=\"40\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n     <td width=\"222\"><a href=\"https://www.brasilcap.com/brasilcap/brasilcap/depoimentos/index.html\" target=\"_blank\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/ba2761f4-89f8-4dbe-bb18-2bbc9399696f.png\" style=\"padding:0;border:none;display:block; outline:none;\"></a></td>\n     <td width=\"34\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\" width=\"34\" height=\"40\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n     <td width=\"222\"><a href=\"https://www.brasilcap.com/brasilcap/apoio/resultado-de-sorteios/resultado-de-sorteios.html\" target=\"_blank\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/84c8f2b4-dda1-419e-955f-2c6cc7e3d9c3.png\" style=\"padding:0;border:none;display:block; outline:none;\"></a></td>\n     <td width=\"87\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\" width=\"87\" height=\"40\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\" width=\"40\" height=\"40\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td style=\"color:#4964fb;font-family:Arial, sans-serif;font-size:14px;\" align=\"center\">Também é possível saber informações sobre os sorteios \n      <br>\n      em nossa Central de Atendimento: <strong>0800-729-0800</strong>\n      <br><br>\n      <p style=\"color:#636f76;font-family:Arial, sans-serif;font-size:13px;\">\n      Deficientes auditivos ou de fala: 0800 729 0088</p>\n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\" width=\"40\" height=\"40\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/818308e9-d49e-4e01-81a9-6e917c3452cf.png\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td width=\"222\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/874f76ac-05fb-49b0-9b8c-af4f8a3ab416.png\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n     <td width=\"222\"><a href=\"https://www.facebook.com/BBSeguros/\" target=\"_blank\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/bc2758ab-ab22-4058-af9e-8cf1e0409c05.png\" style=\"padding:0;border:none;display:block; outline:none;\"></a></td>\n     <td width=\"222\"><a href=\"https://instagram.com/bbseguros?igshid=YmMyMTA2M2Y=\" target=\"_blank\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/f2fd45eb-ecd3-407f-bd4f-9c6a75a828e3.png\" style=\"padding:0;border:none;display:block; outline:none;\"></a></td>\n     <td width=\"222\"><a href=\"https://twitter.com/BBSeguros?t=JamrTcW-YmFlkAgncwhQZA&s=08\" target=\"_blank\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/2ea628fe-54ba-4133-8406-b33274a4e3fd.png\" style=\"padding:0;border:none;display:block; outline:none;\"></a></td>\n     <td width=\"222\"><a href=\"https://www.bbseguros.com.br/\" target=\"_blank\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/77f6cc8e-7bdc-4a4c-84ec-f1d62ec4d661.png\" style=\"padding:0;border:none;display:block; outline:none;\"></a></td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td width=\"222\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/ac370933-6951-454e-a8a5-abbe5a718dec.png\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n     <td width=\"222\"><a href=\"https://play.google.com/store/apps/details?id=com.devbbseg.bbsegurosdigital\" target=\"_blank\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/5624d1cc-6925-498a-89ad-8d98fc20671d.png\" style=\"padding:0;border:none;display:block; outline:none;\"></a></td>\n     <td width=\"222\"><a href=\"https://apps.apple.com/br/app/bb-seguros/id1571192763\" target=\"_blank\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/b006b955-7bc0-4a3f-880a-cc1ea25b154e.png\" style=\"padding:0;border:none;display:block; outline:none;\"></a></td>\n     <td width=\"222\"><a href=\"https://www.bbseguros.com.br/\" target=\"_blank\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/58946790-3385-4819-8083-5ffbb9b96f76.png\" style=\"padding:0;border:none;display:block; outline:none;\"></a></td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\" width=\"40\" height=\"40\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td style=\"color:#4964fb;font-family:Arial, sans-serif;font-size:14px;\" align=\"center\"><strong>Dica: </strong>cadastre nosso e-mail em seus contatos para receber\n      <br>\n      todas as informações e atualizações referentes ao seu Ourocap \n      \n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\" width=\"20\" height=\"20\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/13df5228-b91d-452c-b457-982e93ef3232.png\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\" width=\"20\" height=\"20\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td style=\"color:#636f76;font-family:Arial, sans-serif;font-size:12px;\" align=\"center\"><strong>Dica: </strong>Brasilcap Capitalização S.A. É proibida a venda de título de capitalização a menores de dezesseis anos\n      <br><br>\n      Caso não queira mais receber nossos e-mails, <a href=\"%%unsub_center_url%%\" target=\"_blank\">clique aqui</a>.<br />\n      Caso queira editar sua preferênciais,\n      <a\n       href=\"%%profile_center_url%%\"\n       target=\"_blank\"\n       >clique aqui</a\n     >\n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\" width=\"20\" height=\"20\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/13df5228-b91d-452c-b457-982e93ef3232.png\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n\n  </td>\n </tr>\n <tr>\n  <td>\n   <table\n    width=\"650\"\n    border=\"0\"\n    align=\"center\"\n    cellpadding=\"0\"\n    cellspacing=\"0\"\n   >\n    <tbody>\n     <tr>\n      <td width=\"35\">\n       <img\n        src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\"\n        width=\"20\"\n        height=\"20\"\n        style=\"\n         padding: 0;\n         border: none;\n         display: block;\n         outline: none;\n        \"\n       />\n      </td>\n      <td\n       width=\"580\"\n       style=\"\n        color: #636f76;\n        font-family: Arial, sans-serif;\n        font-size: 12px;\n       \"\n       align=\"justify\"\n      >\n      %%Member_Busname%% %%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%\n      </td>\n      <td width=\"35\">\n       <img\n        src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/eeb0e3c3-11ee-4cf8-8a77-56be4c559083.gif\"\n        width=\"20\"\n        height=\"20\"\n        style=\"\n         padding: 0;\n         border: none;\n         display: block;\n         outline: none;\n        \"\n       />\n      </td>\n     </tr>\n    </tbody>\n   </table>\n  </td>\n </tr>\n</table>\n<custom name=\"opencounter\" type=\"tracking\"/>\n</body>\n</html>",
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "text": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": "html"
+          }
+        }
+      },
+      "generateFrom": "html",
+      "modelVersion": 2
+    },
+    "viewAsAWebPage": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "subscriptioncenter": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardHTML": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardText": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    }
+  },
+  "availableViews": [
+    "subjectline",
+    "preheader",
+    "html",
+    "text",
+    "viewAsAWebPage",
+    "subscriptioncenter",
+    "forwardHTML",
+    "forwardText"
+  ],
+  "data": {
+    "email": {
+      "options": {
+        "characterEncoding": "utf-8"
+      },
+      "legacy": {
+        "legacyId": 28649,
+        "legacyKey": "27d317d0-78bf-422a-aecd-f78e43f71e48",
+        "legacyType": "email",
+        "legacyCategoryId": 1944
+      }
+    }
+  },
+  "legacyData": {
+    "legacyId": 28649,
+    "legacyKey": "27d317d0-78bf-422a-aecd-f78e43f71e48",
+    "legacyType": "email",
+    "legacyCategoryId": 1944
+  },
+  "modelVersion": 2
+}

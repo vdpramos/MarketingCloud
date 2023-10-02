@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "bd9b7b32-fa3f-4a51-b64a-a6112513a8af",
+  "name": "Verifica Contatos marcados incorretamente como true",
+  "key": "418e9d20-ae20-4ef3-9a5d-f031e8cfa8d2",
+  "description": "",
+  "queryText": "select HC_CPF_CNPJ__c, 'False' as Contato_no_Marketing__c\nfrom contact_salesforce c\nwhere Contato_no_Marketing__c = 1 \n        and not exists(select 1 from CorteContatosMkt mkt where mkt.cpf_cnpj = HC_CPF_CNPJ__c)",
+  "targetName": "ContatosDesmarcar",
+  "targetKey": "0450DBA4-A7B8-4556-8B45-667B82CD7BC6",
+  "targetId": "577e0de3-b2a8-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-09T13:51:06.567",
+  "modifiedDate": "2023-02-09T13:51:06.567",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

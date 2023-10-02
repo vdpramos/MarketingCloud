@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "A996CA95-0A36-495B-B485-080CD574FEFC"
+  ],
+  "Name": [
+    "AeM_Fim_Plano_PU_semOTC_Historico"
+  ]
+}

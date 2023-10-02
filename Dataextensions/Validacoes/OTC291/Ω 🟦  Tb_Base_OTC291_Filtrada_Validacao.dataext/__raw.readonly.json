@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "F4C74BD8-0242-44B5-B796-110BF92F83BE"
+  ],
+  "Name": [
+    "Tb_Base_OTC291_Filtrada_Validacao"
+  ]
+}

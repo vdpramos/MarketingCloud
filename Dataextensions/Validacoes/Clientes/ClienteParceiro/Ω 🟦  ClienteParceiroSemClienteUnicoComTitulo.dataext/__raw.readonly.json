@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "99546C33-E6DE-4652-A157-5989B242351E"
+  ],
+  "Name": [
+    "ClienteParceiroSemClienteUnicoComTitulo"
+  ]
+}

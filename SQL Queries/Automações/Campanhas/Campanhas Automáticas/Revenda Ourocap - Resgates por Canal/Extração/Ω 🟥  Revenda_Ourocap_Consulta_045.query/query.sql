@@ -1,0 +1,44 @@
+SELECT DISTINCT
+    /* Telefone 1 */
+    Ddd_Tel_01 AS DDD1,
+    Tel_01 AS TELEFONE1,
+    Tipo_Tel_01 AS TIPO1,
+    /* Telefone 2 */
+    Ddd_Tel_02 AS DDD2,
+    Tel_02 AS TELEFONE2,
+    Tipo_Tel_02 AS TIPO2,
+    /* Telefone 3 */
+    Ddd_Tel_03  AS DDD3,
+    Tel_03 AS TELEFONE3,
+    Tipo_Tel_03 AS TIPO3,
+    /* Telefone 4 */
+    Ddd_Tel_04 AS DDD4,
+    Tel_04 AS TELEFONE4,
+    Tipo_Tel_04 AS TIPO4,
+    /* Telefone 5 */
+    Ddd_Tel_05 AS DDD5,
+    Tel_05 AS TELEFONE5,
+    Tipo_Tel_05 AS TIPO5,
+    /* Telefone 6 */
+    TEL_PRINCIPAL AS PREFERENCIAL,
+    IDADE,
+    CONVERT(VARCHAR(10), DT_NASCIMENTO, 103) AS DATA_NASCIMENTO,
+    NOME AS NOME_CLIENTE,
+    CEP,
+    UF,
+    TIPO_PESSOA AS TIPO_DE_PESSOA,
+    CPF_CNPJ,
+    SEXO,
+    PUBLICO_ALVO AS CLASSIFICACAO,
+    TIPO_CAMPANHA,
+    CONVERT(VARCHAR(10), DT_CRIACAO_MAILING, 103) AS DATA_CRIACAO,
+    CONVERT(VARCHAR(10), DT_INICIO_MAILING, 103) AS DATA_UTILIZACAO,
+    CONVERT(VARCHAR(10), DT_FIM_MAILING, 103) AS DATA_TERMINO,
+    ID_CAMPANHA AS IDCAMPANHA,
+    ID_CONTATO AS IDCONTATOS,
+    ID_CLIENTE_PARCEIRO AS IDCP
+FROM
+    Revenda_Ourocap_OTC291_Filtrada
+  Where
+      Canal_Ultimo_Resgate = '045' 
+  and Ind_MembroCampanha = 1

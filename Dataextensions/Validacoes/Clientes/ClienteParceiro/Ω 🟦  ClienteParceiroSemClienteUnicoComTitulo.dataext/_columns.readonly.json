@@ -1,0 +1,90 @@
+[
+  {
+    "Name": "id",
+    "FieldType": "Text",
+    "ObjectID": "0cdb82a7-7485-4796-bd02-9537f1ae32d5",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "cpf_cnpj",
+    "FieldType": "Text",
+    "ObjectID": "1a70e2a5-31b5-4a10-9a56-fc2faceadcb0",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "NomeCompleto",
+    "FieldType": "Text",
+    "ObjectID": "de54d0de-ec65-4423-83d0-054674e01d23",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "id_titulo",
+    "FieldType": "Text",
+    "ObjectID": "0d7d651c-5530-41ed-8e75-5d4601a400db",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "cpf_titular",
+    "FieldType": "Text",
+    "ObjectID": "ad6a31f6-ddb6-4078-9095-3f42211356ba",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "cpf_subscritor",
+    "FieldType": "Text",
+    "ObjectID": "00ab5d05-4da7-4514-a10b-a0c4d2c4d05a",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "c6f19cf6-a6bb-4446-9c40-46fa5e57d0e0",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "Id_cliente",
+    "FieldType": "Text",
+    "ObjectID": "3a316a36-bf21-456c-904f-5e4a28b3b2ce",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  }
+]

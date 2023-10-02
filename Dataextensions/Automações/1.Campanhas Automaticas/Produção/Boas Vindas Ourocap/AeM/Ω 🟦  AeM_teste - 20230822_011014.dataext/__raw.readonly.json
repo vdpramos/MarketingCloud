@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "94AFB2CC-8FE4-4B82-A79F-C452DD596EB9"
+  ],
+  "Name": [
+    "AeM_teste - 20230822_011014"
+  ]
+}

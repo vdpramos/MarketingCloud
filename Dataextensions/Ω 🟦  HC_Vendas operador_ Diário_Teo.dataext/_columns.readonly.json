@@ -1,0 +1,222 @@
+[
+  {
+    "Name": "Campanha pai: Nome da campanha",
+    "FieldType": "Text",
+    "ObjectID": "95cd50ea-a407-47c8-acb7-58d34076470c",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Nome da campanha",
+    "FieldType": "Text",
+    "ObjectID": "05baa1b0-36df-46cb-8bf4-f1b6249d5ee4",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Produto: Nome de Produto",
+    "FieldType": "Text",
+    "ObjectID": "01a22538-8658-4a62-ac0d-2ee486eb1102",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Valor Total",
+    "FieldType": "Text",
+    "ObjectID": "7e452297-64f5-4dcc-8130-0a4977b8ed2e",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Proprietário da oportunidade: Nome completo",
+    "FieldType": "Text",
+    "ObjectID": "bce7f900-c4a9-46e1-b75c-54bba049733e",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "Número",
+    "FieldType": "Text",
+    "ObjectID": "d2782ada-a9fc-4377-b8bf-4e91b43ef852",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "Data_Hora de abertura",
+    "FieldType": "Date",
+    "ObjectID": "60ba6856-a979-4b78-8d9c-645f114ef762",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "Nome da Proposta",
+    "FieldType": "Text",
+    "ObjectID": "fbe31dfc-f6e3-4c58-a0d4-aac6368ce32c",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "Fase",
+    "FieldType": "Text",
+    "ObjectID": "abaa420f-f3c9-457d-bd64-56430f02799b",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 14
+  },
+  {
+    "Name": "Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "424f5bd2-d566-466e-a594-531a34f82bb9",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 16
+  },
+  {
+    "Name": "Fornecedor",
+    "FieldType": "Text",
+    "ObjectID": "71b4acd7-c255-4700-8ce4-75ea0612ec9f",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 17
+  },
+  {
+    "Name": "Data da Contratação",
+    "FieldType": "Text",
+    "ObjectID": "55f6137c-9f39-4a1c-8e76-aa113a737d65",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 20
+  },
+  {
+    "Name": "Situação",
+    "FieldType": "Text",
+    "ObjectID": "d202d5da-17fa-40ad-bcfc-fa6d134c64b2",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 21
+  },
+  {
+    "Name": "Valor da Parcela",
+    "FieldType": "Text",
+    "ObjectID": "7d3a9eaf-0acf-49fd-b14c-0c4a53588cca",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 22
+  },
+  {
+    "Name": "Nome da oportunidade",
+    "FieldType": "Text",
+    "ObjectID": "655abaed-f3aa-4659-9af7-a5ece78c723b",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 23
+  },
+  {
+    "Name": "Data de fechamento",
+    "FieldType": "Text",
+    "ObjectID": "e42c77d9-cba0-494d-9d31-79c30c4ab933",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 24
+  },
+  {
+    "Name": "Código do Produto",
+    "FieldType": "Text",
+    "ObjectID": "edb854b2-7204-4dd1-8c36-9d17b2816f54",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 25
+  },
+  {
+    "Name": "CPF do Titular",
+    "FieldType": "Text",
+    "ObjectID": "b320f318-8067-49dc-90aa-a330978e06ed",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 26
+  },
+  {
+    "Name": "Quantidade de Itens",
+    "FieldType": "Text",
+    "ObjectID": "90c7af4e-00ea-462a-82dc-687789a65b08",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 27
+  },
+  {
+    "Name": "Agendamento",
+    "FieldType": "Text",
+    "ObjectID": "32655adf-9450-45b1-ae3f-d1ad1a57da02",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 28
+  }
+]

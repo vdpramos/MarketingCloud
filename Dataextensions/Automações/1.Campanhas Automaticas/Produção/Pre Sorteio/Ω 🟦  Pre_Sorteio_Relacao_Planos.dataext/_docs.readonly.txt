@@ -1,0 +1,24 @@
+Dataextension name: Pre_Sorteio_Relacao_Planos
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Plano                | Text(50)        | true     | true     |                 |
+| Sorteio              | Text(50)        | true     | true     |                 |
+| Dia da semana        | Text(50)        | false    | false    |                 |
+| Semanalmente         | Boolean         | false    | false    |                 |
+| Dispara dias antes   | Number          | false    | false    |                 |
+| Ocorre_Apenas_Na_Primeira_Semana | Boolean         | false    | false    |                 |
+| Janeiro              | Boolean         | false    | false    |                 |
+| Fevereiro            | Boolean         | false    | false    |                 |
+| Marco                | Boolean         | false    | false    |                 |
+| Abril                | Boolean         | false    | false    |                 |
+| Maio                 | Boolean         | false    | false    |                 |
+| Junho                | Boolean         | false    | false    |                 |
+| Julho                | Boolean         | false    | false    |                 |
+| Agosto               | Boolean         | false    | false    |                 |
+| Setembro             | Boolean         | false    | false    |                 |
+| Outubro              | Boolean         | false    | false    |                 |
+| Novembro             | Boolean         | false    | false    |                 |
+| Dezembro             | Boolean         | false    | false    |                 |
+| Premio_Email         | Text(200)       | false    | false    |                 |
+| Descricao            | Text(250)       | false    | false    |                 |

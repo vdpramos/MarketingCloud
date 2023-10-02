@@ -1,0 +1,10 @@
+Dataextension name: CONTROLE_AUTOMACOES_CAMPANHAS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_CAMPANHA          | Text(18)        | true     | true     |                 |
+| NOME                 | Text(100)       | false    | false    |                 |
+| STATUS_AUTOMACAO     | Text(150)       | false    | false    |                 |
+| QUANTIDADE_DESEJADA_OTC290 | Number          | false    | false    |                 |
+| QUANTIDADE_ATUAL_290 | Number          | false    | false    |                 |
+| QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290 | Number          | false    | false    |                 |

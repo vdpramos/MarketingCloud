@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "2DC8D2A1-C519-4092-B716-666F93D25F5F"
+  ],
+  "Name": [
+    "HC_Vendas operador_ Mensal_Algar"
+  ]
+}

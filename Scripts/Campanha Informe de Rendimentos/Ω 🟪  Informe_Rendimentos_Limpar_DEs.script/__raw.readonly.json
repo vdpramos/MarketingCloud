@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "760206bf-c536-44c9-9990-a78f99d6d4fc",
+  "name": "Informe_Rendimentos_Limpar_DEs",
+  "key": "9864e10c-bec7-4131-923b-ef884e2e24a4",
+  "description": "",
+  "script": "<script runat=server>\r\n\r\nvar prox = new Script.Util.WSProxy();\r\n\r\nbase_otc_291 = 'A83E11E8-F4A7-43FC-A54F-17C471238BDD'; // DE que recebe OTC291 - Informe_Rendimentos_OTC291_tratada\r\n\r\nvar action = \"ClearData\";\r\n\r\nvar props_base_otc_291 = {\r\n        CustomerKey: base_otc_291\r\n};\r\n\r\nvar opts = {};\r\n\r\nvar data = prox.performItem(\"DataExtension\", props_base_otc_291, action, opts);\r\n\r\n</script>",
+  "categoryId": 62095,
+  "createdDate": "2023-04-27T09:07:51.94",
+  "modifiedDate": "2023-04-27T09:07:51.94"
+}

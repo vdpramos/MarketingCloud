@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "HC_CPF_CNPJ__c",
+    "FieldType": "Text",
+    "ObjectID": "dafc1f4d-ae18-4a64-9a62-0e1cbb144a11",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "ContactId",
+    "FieldType": "Text",
+    "ObjectID": "99fe04d7-72d7-4524-a070-24472f4a598e",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "CampaignId",
+    "FieldType": "Text",
+    "ObjectID": "e0ab0d7b-2014-4756-9ebc-b811b75e74ca",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "HC_Cliente_x_Parceiro__c",
+    "FieldType": "Text",
+    "ObjectID": "ff8bd226-3a1c-497f-aeeb-fd0df7693fc9",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

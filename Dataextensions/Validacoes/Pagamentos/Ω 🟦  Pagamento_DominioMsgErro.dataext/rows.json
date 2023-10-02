@@ -1,0 +1,522 @@
+[
+  {
+    "_CustomObjectKey": "107",
+    "HC_Codigo_de_Retorno_de_Erro__c": "00",
+    "Descricao_do_Retorno_de_Erro__c": "Credito ou Debito Efetivado"
+  },
+  {
+    "_CustomObjectKey": "108",
+    "HC_Codigo_de_Retorno_de_Erro__c": "01",
+    "Descricao_do_Retorno_de_Erro__c": "Insuficiência de Fundos - Débito Não Efetuado"
+  },
+  {
+    "_CustomObjectKey": "109",
+    "HC_Codigo_de_Retorno_de_Erro__c": "02",
+    "Descricao_do_Retorno_de_Erro__c": "Crédito ou Débito Cancelado pelo Pagador/Credor"
+  },
+  {
+    "_CustomObjectKey": "110",
+    "HC_Codigo_de_Retorno_de_Erro__c": "03",
+    "Descricao_do_Retorno_de_Erro__c": "Débito Autorizado pela Agência - Efetuado"
+  },
+  {
+    "_CustomObjectKey": "111",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AA",
+    "Descricao_do_Retorno_de_Erro__c": "Controle Inválido"
+  },
+  {
+    "_CustomObjectKey": "112",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AB",
+    "Descricao_do_Retorno_de_Erro__c": "Tipo de Operação Inválido"
+  },
+  {
+    "_CustomObjectKey": "113",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AC",
+    "Descricao_do_Retorno_de_Erro__c": "Tipo de Serviço Inválido"
+  },
+  {
+    "_CustomObjectKey": "114",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AD",
+    "Descricao_do_Retorno_de_Erro__c": "Forma de Lançamento Inválida"
+  },
+  {
+    "_CustomObjectKey": "115",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AE",
+    "Descricao_do_Retorno_de_Erro__c": "Tipo/Número de Inscrição Inválido"
+  },
+  {
+    "_CustomObjectKey": "116",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AF",
+    "Descricao_do_Retorno_de_Erro__c": "Código de Convênio Inválido"
+  },
+  {
+    "_CustomObjectKey": "117",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AG",
+    "Descricao_do_Retorno_de_Erro__c": "Agência/Conta Corrente/DV Inválido"
+  },
+  {
+    "_CustomObjectKey": "118",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AH",
+    "Descricao_do_Retorno_de_Erro__c": "Nº Seqüencial do Registro no Lote Inválido"
+  },
+  {
+    "_CustomObjectKey": "119",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AI",
+    "Descricao_do_Retorno_de_Erro__c": "Códi de Segmento de Detalhe Inválido"
+  },
+  {
+    "_CustomObjectKey": "120",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AJ",
+    "Descricao_do_Retorno_de_Erro__c": "Tipo de Movimento Inválido"
+  },
+  {
+    "_CustomObjectKey": "121",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AK",
+    "Descricao_do_Retorno_de_Erro__c": "Códi da Câmara de Compensação do Banco Favorecido/Depositário Inválido"
+  },
+  {
+    "_CustomObjectKey": "122",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AL",
+    "Descricao_do_Retorno_de_Erro__c": "Código do Banco Favorecido ou Depositário Inválido"
+  },
+  {
+    "_CustomObjectKey": "123",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AM",
+    "Descricao_do_Retorno_de_Erro__c": "Agência Mantenedora da Conta Corrente do Favorecido Inválida"
+  },
+  {
+    "_CustomObjectKey": "124",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AN",
+    "Descricao_do_Retorno_de_Erro__c": "Conta Corrente/DV do Favorecido Inválido"
+  },
+  {
+    "_CustomObjectKey": "125",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AO",
+    "Descricao_do_Retorno_de_Erro__c": "Nome do Favorecido Não Informado"
+  },
+  {
+    "_CustomObjectKey": "126",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AP",
+    "Descricao_do_Retorno_de_Erro__c": "Data Lançamento Inválido"
+  },
+  {
+    "_CustomObjectKey": "127",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AQ",
+    "Descricao_do_Retorno_de_Erro__c": "Tipo/Quantidade da Moeda Inválido"
+  },
+  {
+    "_CustomObjectKey": "128",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AR",
+    "Descricao_do_Retorno_de_Erro__c": "Valor do Lançamento Inválido"
+  },
+  {
+    "_CustomObjectKey": "129",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AS",
+    "Descricao_do_Retorno_de_Erro__c": "Aviso ao Favorecido - Identificação Inválida"
+  },
+  {
+    "_CustomObjectKey": "130",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AT",
+    "Descricao_do_Retorno_de_Erro__c": "Tipo/Número de Inscrição do Favorecido Inválido"
+  },
+  {
+    "_CustomObjectKey": "131",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AU",
+    "Descricao_do_Retorno_de_Erro__c": "Logradouro do Favorecido Não Informado"
+  },
+  {
+    "_CustomObjectKey": "132",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AV",
+    "Descricao_do_Retorno_de_Erro__c": "Nº do Local do Favorecido Não Informado"
+  },
+  {
+    "_CustomObjectKey": "133",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AW",
+    "Descricao_do_Retorno_de_Erro__c": "Cidade do Favorecido Não Informada"
+  },
+  {
+    "_CustomObjectKey": "134",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AX",
+    "Descricao_do_Retorno_de_Erro__c": "CEP/Complemento do Favorecido Inválido"
+  },
+  {
+    "_CustomObjectKey": "135",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AY",
+    "Descricao_do_Retorno_de_Erro__c": "Sigla do Estado do Favorecido Inválida"
+  },
+  {
+    "_CustomObjectKey": "136",
+    "HC_Codigo_de_Retorno_de_Erro__c": "AZ",
+    "Descricao_do_Retorno_de_Erro__c": "Códi/Nome do Banco Depositário Inválido"
+  },
+  {
+    "_CustomObjectKey": "137",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BA",
+    "Descricao_do_Retorno_de_Erro__c": "Códi/Nome da Agência Depositária Não Informado"
+  },
+  {
+    "_CustomObjectKey": "138",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BB",
+    "Descricao_do_Retorno_de_Erro__c": "Seu Número Inválido"
+  },
+  {
+    "_CustomObjectKey": "139",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BC",
+    "Descricao_do_Retorno_de_Erro__c": "Nosso Número Inválido"
+  },
+  {
+    "_CustomObjectKey": "140",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BD",
+    "Descricao_do_Retorno_de_Erro__c": "Crédito Autorizado"
+  },
+  {
+    "_CustomObjectKey": "141",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BE",
+    "Descricao_do_Retorno_de_Erro__c": "Alteração Efetuada com Sucesso"
+  },
+  {
+    "_CustomObjectKey": "142",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BF",
+    "Descricao_do_Retorno_de_Erro__c": "Exclusão Efetuada com Sucesso"
+  },
+  {
+    "_CustomObjectKey": "143",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BG",
+    "Descricao_do_Retorno_de_Erro__c": "Agência/Conta Impedida Legalmente"
+  },
+  {
+    "_CustomObjectKey": "144",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CA",
+    "Descricao_do_Retorno_de_Erro__c": "Código de Barras - Códi do Banco Inválido"
+  },
+  {
+    "_CustomObjectKey": "145",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CB",
+    "Descricao_do_Retorno_de_Erro__c": "Código de Barras - Códi da Moeda Inválido"
+  },
+  {
+    "_CustomObjectKey": "146",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CC",
+    "Descricao_do_Retorno_de_Erro__c": "Código de Barras - Dígito Verificador Geral Inválido"
+  },
+  {
+    "_CustomObjectKey": "147",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CD",
+    "Descricao_do_Retorno_de_Erro__c": "Código de Barras - Valor do Título Inválido"
+  },
+  {
+    "_CustomObjectKey": "148",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CE",
+    "Descricao_do_Retorno_de_Erro__c": "Código de Barras -  Campo Livre Inválido"
+  },
+  {
+    "_CustomObjectKey": "149",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CF",
+    "Descricao_do_Retorno_de_Erro__c": "Valor do Documento Inválido"
+  },
+  {
+    "_CustomObjectKey": "150",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CG",
+    "Descricao_do_Retorno_de_Erro__c": "Valor do Abatimento Inválido"
+  },
+  {
+    "_CustomObjectKey": "151",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CH",
+    "Descricao_do_Retorno_de_Erro__c": "Valor do Desconto Inválido"
+  },
+  {
+    "_CustomObjectKey": "152",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CI",
+    "Descricao_do_Retorno_de_Erro__c": "Valor de Mora Inválido"
+  },
+  {
+    "_CustomObjectKey": "153",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CJ",
+    "Descricao_do_Retorno_de_Erro__c": "Valor da Multa Inválido"
+  },
+  {
+    "_CustomObjectKey": "154",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CK",
+    "Descricao_do_Retorno_de_Erro__c": "Valor do IR Inválido"
+  },
+  {
+    "_CustomObjectKey": "155",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CL",
+    "Descricao_do_Retorno_de_Erro__c": "Valor do ISS Inválido"
+  },
+  {
+    "_CustomObjectKey": "156",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CM",
+    "Descricao_do_Retorno_de_Erro__c": "Valor do IOF Inválido"
+  },
+  {
+    "_CustomObjectKey": "157",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CN",
+    "Descricao_do_Retorno_de_Erro__c": "Valor de Outras Deduções Inválido"
+  },
+  {
+    "_CustomObjectKey": "158",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CO",
+    "Descricao_do_Retorno_de_Erro__c": "Valor de Outros Acréscimos Inválido"
+  },
+  {
+    "_CustomObjectKey": "159",
+    "HC_Codigo_de_Retorno_de_Erro__c": "CP",
+    "Descricao_do_Retorno_de_Erro__c": "Valor do INSS Inválido"
+  },
+  {
+    "_CustomObjectKey": "160",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HA",
+    "Descricao_do_Retorno_de_Erro__c": "Lote Não Aceito"
+  },
+  {
+    "_CustomObjectKey": "161",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HB",
+    "Descricao_do_Retorno_de_Erro__c": "Inscrição da Empresa Inválida para o Contrato"
+  },
+  {
+    "_CustomObjectKey": "162",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HC",
+    "Descricao_do_Retorno_de_Erro__c": "Convênio com a Empresa Inexistente/Inválido para o Contrato"
+  },
+  {
+    "_CustomObjectKey": "163",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HD",
+    "Descricao_do_Retorno_de_Erro__c": "Agência/Conta Corrente da Empresa Inexistente/Inválido para o Contrato"
+  },
+  {
+    "_CustomObjectKey": "164",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HE",
+    "Descricao_do_Retorno_de_Erro__c": "Tipo de Serviço Inválido para o Contrato"
+  },
+  {
+    "_CustomObjectKey": "165",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HF",
+    "Descricao_do_Retorno_de_Erro__c": "Conta Corrente da Empresa com Saldo Insuficiente"
+  },
+  {
+    "_CustomObjectKey": "166",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HG",
+    "Descricao_do_Retorno_de_Erro__c": "Lote de Serviço Fora de Seqüência"
+  },
+  {
+    "_CustomObjectKey": "167",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HH",
+    "Descricao_do_Retorno_de_Erro__c": "Lote de Serviço Inválido"
+  },
+  {
+    "_CustomObjectKey": "168",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HI",
+    "Descricao_do_Retorno_de_Erro__c": "Arquivo não aceito"
+  },
+  {
+    "_CustomObjectKey": "169",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HJ",
+    "Descricao_do_Retorno_de_Erro__c": "Tipo de Registro Inválido"
+  },
+  {
+    "_CustomObjectKey": "170",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HK",
+    "Descricao_do_Retorno_de_Erro__c": "Código Remessa / Retorno Inválido"
+  },
+  {
+    "_CustomObjectKey": "171",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HL",
+    "Descricao_do_Retorno_de_Erro__c": "Versão de layout inválida"
+  },
+  {
+    "_CustomObjectKey": "172",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HM",
+    "Descricao_do_Retorno_de_Erro__c": "Mutuário não identificado"
+  },
+  {
+    "_CustomObjectKey": "173",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HN",
+    "Descricao_do_Retorno_de_Erro__c": "Tipo do beneficio não permite empréstimo"
+  },
+  {
+    "_CustomObjectKey": "174",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HO",
+    "Descricao_do_Retorno_de_Erro__c": "Beneficio cessado/suspenso"
+  },
+  {
+    "_CustomObjectKey": "175",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HP",
+    "Descricao_do_Retorno_de_Erro__c": "Beneficio possui representante legal"
+  },
+  {
+    "_CustomObjectKey": "176",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HQ",
+    "Descricao_do_Retorno_de_Erro__c": "Beneficio é do tipo PA (Pensão alimentícia)"
+  },
+  {
+    "_CustomObjectKey": "177",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HR",
+    "Descricao_do_Retorno_de_Erro__c": "Quantidade de contratos permitida excedida"
+  },
+  {
+    "_CustomObjectKey": "178",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HS",
+    "Descricao_do_Retorno_de_Erro__c": "Beneficio não pertence ao Banco informado"
+  },
+  {
+    "_CustomObjectKey": "179",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HT",
+    "Descricao_do_Retorno_de_Erro__c": "Início do desconto informado já ultrapassado"
+  },
+  {
+    "_CustomObjectKey": "180",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HU",
+    "Descricao_do_Retorno_de_Erro__c": "Número da parcela inválida"
+  },
+  {
+    "_CustomObjectKey": "181",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HV",
+    "Descricao_do_Retorno_de_Erro__c": "Quantidade de parcela inválida"
+  },
+  {
+    "_CustomObjectKey": "182",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HW",
+    "Descricao_do_Retorno_de_Erro__c": "Margem consignável excedida para o mutuário dentro do prazo do contrato"
+  },
+  {
+    "_CustomObjectKey": "183",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HX",
+    "Descricao_do_Retorno_de_Erro__c": "Empréstimo já cadastrado"
+  },
+  {
+    "_CustomObjectKey": "184",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HY",
+    "Descricao_do_Retorno_de_Erro__c": "Empréstimo inexistente"
+  },
+  {
+    "_CustomObjectKey": "185",
+    "HC_Codigo_de_Retorno_de_Erro__c": "HZ",
+    "Descricao_do_Retorno_de_Erro__c": "Empréstimo já encerrado"
+  },
+  {
+    "_CustomObjectKey": "186",
+    "HC_Codigo_de_Retorno_de_Erro__c": "H1",
+    "Descricao_do_Retorno_de_Erro__c": "Arquivo sem trailer"
+  },
+  {
+    "_CustomObjectKey": "187",
+    "HC_Codigo_de_Retorno_de_Erro__c": "TA",
+    "Descricao_do_Retorno_de_Erro__c": "Lote Não Aceito - Totais do Lote com Diferença"
+  },
+  {
+    "_CustomObjectKey": "188",
+    "HC_Codigo_de_Retorno_de_Erro__c": "YA",
+    "Descricao_do_Retorno_de_Erro__c": "Título Não Encontrado"
+  },
+  {
+    "_CustomObjectKey": "189",
+    "HC_Codigo_de_Retorno_de_Erro__c": "YB",
+    "Descricao_do_Retorno_de_Erro__c": "Identificador Registro Opcional Inválido"
+  },
+  {
+    "_CustomObjectKey": "190",
+    "HC_Codigo_de_Retorno_de_Erro__c": "YC",
+    "Descricao_do_Retorno_de_Erro__c": "Código Padrão Inválido"
+  },
+  {
+    "_CustomObjectKey": "191",
+    "HC_Codigo_de_Retorno_de_Erro__c": "YD",
+    "Descricao_do_Retorno_de_Erro__c": "Código de Ocorrência Inválido"
+  },
+  {
+    "_CustomObjectKey": "192",
+    "HC_Codigo_de_Retorno_de_Erro__c": "YE",
+    "Descricao_do_Retorno_de_Erro__c": "Complemento de Ocorrência Inválido"
+  },
+  {
+    "_CustomObjectKey": "193",
+    "HC_Codigo_de_Retorno_de_Erro__c": "YF",
+    "Descricao_do_Retorno_de_Erro__c": "Alegação já Informada"
+  },
+  {
+    "_CustomObjectKey": "194",
+    "HC_Codigo_de_Retorno_de_Erro__c": "ZA",
+    "Descricao_do_Retorno_de_Erro__c": "Agência / Conta do Favorecido Substituída"
+  },
+  {
+    "_CustomObjectKey": "195",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BH",
+    "Descricao_do_Retorno_de_Erro__c": "Empresa não pagou salário"
+  },
+  {
+    "_CustomObjectKey": "196",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BI",
+    "Descricao_do_Retorno_de_Erro__c": "Falecimento do mutuário"
+  },
+  {
+    "_CustomObjectKey": "197",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BJ",
+    "Descricao_do_Retorno_de_Erro__c": "Empresa não enviou remessa do mutuário"
+  },
+  {
+    "_CustomObjectKey": "198",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BK",
+    "Descricao_do_Retorno_de_Erro__c": "Empresa não enviou remessa no vencimento"
+  },
+  {
+    "_CustomObjectKey": "199",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BL",
+    "Descricao_do_Retorno_de_Erro__c": "Valor da parcela inválida"
+  },
+  {
+    "_CustomObjectKey": "200",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BM",
+    "Descricao_do_Retorno_de_Erro__c": "Identificação do contrato inválida"
+  },
+  {
+    "_CustomObjectKey": "201",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BN",
+    "Descricao_do_Retorno_de_Erro__c": "Operação de Consignação Incluída com Sucesso"
+  },
+  {
+    "_CustomObjectKey": "202",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BO",
+    "Descricao_do_Retorno_de_Erro__c": "Operação de Consignação Alterada com Sucesso"
+  },
+  {
+    "_CustomObjectKey": "203",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BP",
+    "Descricao_do_Retorno_de_Erro__c": "Operação de Consignação Excluída com Sucesso"
+  },
+  {
+    "_CustomObjectKey": "204",
+    "HC_Codigo_de_Retorno_de_Erro__c": "BQ",
+    "Descricao_do_Retorno_de_Erro__c": "Operação de Consignação Liquidada com Sucesso"
+  },
+  {
+    "_CustomObjectKey": "205",
+    "HC_Codigo_de_Retorno_de_Erro__c": "T1",
+    "Descricao_do_Retorno_de_Erro__c": "Conta Corrente/DV do Favorecido Inválido"
+  },
+  {
+    "_CustomObjectKey": "206",
+    "HC_Codigo_de_Retorno_de_Erro__c": "T2",
+    "Descricao_do_Retorno_de_Erro__c": "Conta Corrente/DV do Favorecido Inválido"
+  },
+  {
+    "_CustomObjectKey": "207",
+    "HC_Codigo_de_Retorno_de_Erro__c": "T3",
+    "Descricao_do_Retorno_de_Erro__c": "Conta Corrente/DV do Favorecido Inválido"
+  },
+  {
+    "_CustomObjectKey": "208",
+    "HC_Codigo_de_Retorno_de_Erro__c": "T4",
+    "Descricao_do_Retorno_de_Erro__c": "Conta Corrente/DV do Favorecido Inválido"
+  },
+  {
+    "_CustomObjectKey": "209",
+    "HC_Codigo_de_Retorno_de_Erro__c": "T6",
+    "Descricao_do_Retorno_de_Erro__c": "Conta Corrente/DV do Favorecido Inválido"
+  },
+  {
+    "_CustomObjectKey": "210",
+    "HC_Codigo_de_Retorno_de_Erro__c": "T5",
+    "Descricao_do_Retorno_de_Erro__c": "Agência Mantenedora da Conta Corrente do Favorecido Inválida"
+  }
+]

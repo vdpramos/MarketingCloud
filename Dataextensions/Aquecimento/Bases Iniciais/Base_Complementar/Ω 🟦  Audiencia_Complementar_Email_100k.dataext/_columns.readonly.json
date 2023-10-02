@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "5b091c3c-f8ad-4937-a2ee-135f927cba2f",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "NOME",
+    "FieldType": "Text",
+    "ObjectID": "eeca7103-dac0-405d-8398-139e57e03cb6",
+    "MaxLength": "400",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "EMAIL",
+    "FieldType": "EmailAddress",
+    "ObjectID": "119990c6-a732-4578-8d68-88530bd6b6d5",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "EMAIL_VALIDO",
+    "FieldType": "Boolean",
+    "ObjectID": "915edf54-d18d-4514-abe9-529d5e3f571c",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

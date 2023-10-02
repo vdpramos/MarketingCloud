@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "1CB2F19D-B8FD-4CD7-AA56-ABFE25DA609B"
+  ],
+  "Name": [
+    "Tb_Base_Nao_Importune_Copy"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "26c7d8bc-ab23-4873-a505-245bb7e6e3da",
+  "name": "Qr_Update_locale",
+  "key": "1182ee5b-3113-4694-b20d-5068b69cb518",
+  "description": "",
+  "queryText": "SELECT\n  ID,\n  REPLACE(locale, '', 'BR') AS locale\nFROM AeM_Fim_Plano_PU_semOTC_Filtrado",
+  "targetName": "AeM_Fim_Plano_PU_semOTC_Filtrado",
+  "targetKey": "DF7BF614-53F8-4B0C-894E-66D7FEDF17EA",
+  "targetId": "047f0441-1086-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Publico Alvo das comunicacoes",
+  "createdDate": "2022-12-29T10:39:03.213",
+  "modifiedDate": "2022-12-29T10:39:03.213",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 57349,
+  "isFrozen": false
+}

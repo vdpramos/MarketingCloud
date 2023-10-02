@@ -1,0 +1,52 @@
+Dataextension name: Tb_SorteioPeriodico
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | false    | false    |                 |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Idade                | Number          | false    | false    |                 |
+| Dt_Nascimento        | Date            | false    | false    |                 |
+| Sexo                 | Text(10)        | false    | false    |                 |
+| Tipo_Pessoa          | Text(20)        | false    | false    |                 |
+| Ddd_Tel_01           | Text(10)        | false    | false    |                 |
+| Tel_01               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_01          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_02           | Text(10)        | false    | false    |                 |
+| Tel_02               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_02          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_03           | Text(10)        | false    | false    |                 |
+| Tel_03               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_03          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_04           | Text(10)        | false    | false    |                 |
+| Tel_04               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_04          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_05           | Text(10)        | false    | false    |                 |
+| Tel_05               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_05          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_06           | Text(10)        | false    | false    |                 |
+| Tel_06               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_06          | Text(50)        | false    | false    |                 |
+| Tel_Principal        | Text(50)        | false    | false    |                 |
+| Tipo_Campanha        | Text(50)        | false    | false    |                 |
+| Parceiro             | Text(50)        | false    | false    |                 |
+| Dt_Criacao_Mailing   | Date            | false    | false    | GetDate()       |
+| Dt_Inicio_Mailing    | Date            | false    | false    |                 |
+| Dt_Fim_Mailing       | Date            | false    | false    |                 |
+| Id_Campanha          | Text(50)        | false    | false    |                 |
+| Id                   | Text(50)        | true     | true     |                 |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| CPF_CNPJ_Codigo_do_Parceiro | Text(50)        | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |
+| Id_Cliente           | Text(50)        | false    | false    |                 |
+| Data_Proxima_Execucao | Date            | false    | false    |                 |
+| EMAIL                | Text(254)       | false    | false    |                 |
+| EMAIL_VALIDO         | Boolean         | false    | false    |                 |
+| CELULAR              | Text(20)        | false    | false    |                 |
+| CELULAR_VALIDO       | Boolean         | false    | false    |                 |
+| HC_Mes_Inicio__c     | Decimal(38,0)   | false    | false    |                 |
+| HC_Mes_Fim__c        | Decimal(38,0)   | false    | false    |                 |
+| HC_Quantidade_de_clientes_sorteados__c | Text(100)       | false    | false    |                 |
+| HC_Valor_do_premio__c | Text(100)       | false    | false    |                 |
+| NAO_DESEJA_RECEBER_EMAIL | Boolean         | false    | false    |                 |
+| NAO_DESEJA_RECEBER_SMS | Boolean         | false    | false    |                 |
+| NAO_IMPORTUNE        | Boolean         | false    | false    | false           |

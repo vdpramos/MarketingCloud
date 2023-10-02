@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "bb51be46-a8d1-4830-92bf-8818acf06e63",
+  "name": "valida pagamentos",
+  "key": "BB51BE46-A8D1-4830-92BF-8818ACF06E63",
+  "description": "",
+  "queryText": "select id, pi.name \nfrom TrataPagamentoImportIncorretamente pi\ninner join hc_pagamento__c_salesforce pg\n    on pg.hc_proposta__c = pi.hc_proposta__c\nwhere pg.name like 'a0V6g%' ",
+  "targetName": "NamesAtualizar",
+  "targetKey": "1AC1DC03-42B3-4D45-82CF-B918558CE30C",
+  "targetId": "20041b86-efe5-ed11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-04-28T12:07:55.393",
+  "modifiedDate": "2023-04-28T12:11:52.757",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

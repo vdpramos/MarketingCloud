@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Log",
+    "FieldType": "Text",
+    "ObjectID": "bbb970bd-fe82-4542-94ba-15189079a48d",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Data_Sent",
+    "FieldType": "Text",
+    "ObjectID": "7203a4d5-a285-4333-a3ab-b4b32baff8ab",
+    "MaxLength": "3000",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Response",
+    "FieldType": "Text",
+    "ObjectID": "530b4dca-4a8e-4028-8cb5-7862d36fd6ab",
+    "MaxLength": "3000",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Date",
+    "FieldType": "Date",
+    "ObjectID": "a53a4c22-25dd-4f04-84f4-3605f3f4c45e",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GETDATE()",
+    "Ordinal": 3
+  }
+]

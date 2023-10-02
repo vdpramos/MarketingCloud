@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "9011E4D5-71C2-4589-BFA3-F4FA5C9B86B4"
+  ],
+  "Name": [
+    "Tb_Recuperacao_Caducidade_Historico"
+  ]
+}

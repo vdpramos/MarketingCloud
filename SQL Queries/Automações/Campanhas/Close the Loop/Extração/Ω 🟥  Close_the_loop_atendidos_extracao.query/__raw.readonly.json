@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "99fa6979-11b2-4b29-98e6-dcf6140f5066",
+  "name": "Close_the_loop_atendidos_extracao",
+  "key": "c4225655-93bb-46bb-ae33-1ab3255e74e7",
+  "description": "",
+  "queryText": "SELECT *,\n    (SELECT MAX(Onda) FROM Close_the_loop_controle_ondas) AS Onda\nFROM Close_the_loop_OTC291_filtrada\nWHERE\n    Interacao = 'Atendimento'",
+  "targetName": "Close_the_loop_atendidos_extracao",
+  "targetKey": "7B342FF7-CD5D-4A14-ACAE-937038D028A9",
+  "targetId": "09ffff54-e370-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-29T17:08:33.023",
+  "modifiedDate": "2023-04-26T10:41:03.237",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 56143,
+  "isFrozen": false
+}

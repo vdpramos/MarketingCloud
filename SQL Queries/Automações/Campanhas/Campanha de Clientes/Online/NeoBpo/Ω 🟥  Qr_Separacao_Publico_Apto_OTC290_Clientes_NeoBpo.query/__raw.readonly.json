@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "574d42da-3904-453f-89b0-560089a8cadb",
+  "name": "Qr_Separacao_Publico_Apto_OTC290_Clientes_NeoBpo",
+  "key": "e9324458-5c23-48e8-ab47-e272daabe9da",
+  "description": "Separa publico apto para ser enviado ao OTC290",
+  "queryText": "SELECT\n  A.*\nFROM Tb_Base_Cliente_ComOTC_NeoBpo A\nWHERE\n  /* IDADE_VALIDA = 1 */\n  /* AND CONSELHEIRO = 0 */\n  /* AND CLIENTE_PEP = 0 */\n  /* AND DESEJA_CONTATO_TELEFONICO = 0 */\n  /* AND POSSUI_TELEFONE_ATIVO = 1 */\n  /* AND POSSUI_CONTA_CORRENTE = 1 */\n  COMPRA_UTIMOS_30_DIAS = 'False' \n  AND POSSUI_TITULO_ATIVO = 'true'\n  AND QUARENTENA = 0\n  AND NAO_IMPORTUNE = 'False'",
+  "targetName": "Publico_Apto_Clientes_NeoBpo",
+  "targetKey": "AC805063-B4FF-4CB5-911B-B758E9F0E2AC",
+  "targetId": "1621a9e6-f877-ec11-a311-48df370eabe5",
+  "targetDescription": "Publico que pode ser separado para campanha OTC 290",
+  "createdDate": "2022-01-17T19:03:55.877",
+  "modifiedDate": "2022-07-01T19:48:45.213",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 30539,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e039a1ee-1ba9-4631-b0de-f263011fc2a7",
+  "name": "Qr_SMS_Report_Update_Flags",
+  "key": "2375ef49-8d78-4db5-a578-76657ceb0a78",
+  "description": "Atualiza flags",
+  "queryText": "SELECT   \n  ACC.MOBILEMESSAGETRACKINGID AS MOBILEMESSAGETRACKINGID,\n  S.CREATEDATETIME AS DT_ENVIO,\n  S.ACTIONDATETIME AS DT_ENTREGA,\n  S.DELIVERED AS ENTREGUE,\n  S.UNDELIVERED AS BOUNCE,\n  IIF(S.OPTOUT IS NULL,0,1) AS OPTOUT\nFROM SMS_INFOS_REPORT_CUMULATIVO ACC\nINNER JOIN _SMSMESSAGETRACKING S ON CONVERT(VARCHAR, S.MOBILEMESSAGETRACKINGID) = ACC.MOBILEMESSAGETRACKINGID",
+  "targetName": "SMS_INFOS_REPORT_CUMULATIVO",
+  "targetKey": "92F7AEE9-7F18-4100-8AAC-A79F38CB7668",
+  "targetId": "e630be9f-951f-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Report acumulativo com SMS para reducao da query",
+  "createdDate": "2022-08-19T02:50:24.393",
+  "modifiedDate": "2022-08-19T06:18:45.67",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 52301,
+  "isFrozen": false
+}

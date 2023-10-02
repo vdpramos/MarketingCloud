@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "f2bb3588-a474-44dd-9954-6cda6a75e195",
+  "name": "Qr00.1_Base_Duplo_Sim_SemOTC_Aceite.sql",
+  "key": "088c92d7-6135-41b3-ba30-55fdf7ee75d4",
+  "description": "",
+  "queryText": "SELECT\n  base.id,\n  CASE WHEN ACEITE.CPF IS NOT NULL THEN 1 ELSE 0 END AS NAO_ACEITOU\nFROM Tb_Base_Duplo_Sim_SemOTC_Tratada BASE\nLEFT JOIN Tb_Base_Duplo_Sim_Nao_Aceitaram ACEITE \nON concat(REPLICATE('0', 11 -LEN(ACEITE.CPF)),RTrim(ACEITE.CPF))  = BASE.CPF_CNPJ\n",
+  "targetName": "Tb_Base_Duplo_Sim_SemOTC_Tratada",
+  "targetKey": "0D720B4F-BEC4-48F3-A9BA-F010F9E019E9",
+  "targetId": "48684a16-2397-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-09-20T19:25:44.533",
+  "modifiedDate": "2022-11-21T14:25:42.527",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 32389,
+  "isFrozen": false
+}

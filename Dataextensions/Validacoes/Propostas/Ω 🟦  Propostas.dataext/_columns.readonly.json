@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "ID_PROPOSTA",
+    "FieldType": "Text",
+    "ObjectID": "dc3fbbb2-609e-44ad-996e-12c43e89dfa6",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "ID_PLANO",
+    "FieldType": "Text",
+    "ObjectID": "64b9e474-2aac-41b2-8c77-70970a8db970",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "ID_AGENTE",
+    "FieldType": "Text",
+    "ObjectID": "0d2b2a6f-ad0f-4d65-a4a2-1f41d2f313bf",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "CPF_CNPJ_TITULAR",
+    "FieldType": "Text",
+    "ObjectID": "9c2d7dd4-241d-4a91-a3d5-ae385087938a",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "CPF_CNPJ_SUBSCRITOR",
+    "FieldType": "Text",
+    "ObjectID": "c31e644d-268c-4ba1-858a-e30ce0cd09c6",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "DT_AGENDAMENTO",
+    "FieldType": "Text",
+    "ObjectID": "016d306f-ae0b-4716-8eec-ce75a1ad4fa9",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "DATA_PROPOSTA",
+    "FieldType": "Text",
+    "ObjectID": "f82bc3e0-5fb7-46b5-8dcc-de97090bf8bf",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  }
+]

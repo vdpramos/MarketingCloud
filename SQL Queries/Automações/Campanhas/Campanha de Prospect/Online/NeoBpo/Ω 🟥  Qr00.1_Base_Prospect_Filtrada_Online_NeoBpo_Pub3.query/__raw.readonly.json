@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "14d3ecaa-07f0-46ca-97f9-30c3e6c5ef94",
+  "name": "Qr00.1_Base_Prospect_Filtrada_Online_NeoBpo_Pub3",
+  "key": "f9cded42-21ce-45e2-a730-a45e90bb9232",
+  "description": "",
+  "queryText": "SELECT\n A.*\nFROM TB_BASE_PROSPECT_COMOTC_ONLINE_TRATADA_NEOBPO_PUB3 A\nWHERE IDADE_VALIDA = 1\n  AND CONTA_CORRENTE = 1\n  AND QUARENTENA = 0 \n  AND CONSELHEIRO = 0 \n  \n  /*AND CLIENTE = 0*/\n  /*AND VALIDA_RNA = 1*/\n  /*AND CEP_VALIDO = 1*/\n  AND NAO_IMPORTUNE = 0\n  AND Titulo_Ativo_Recente = 0",
+  "targetName": "Tb_Base_Prospect_ComOTC_Online_Filtrada_NeoBpo_Pub3",
+  "targetKey": "0DEF103F-A78D-483F-918A-E2DA01EACAE1",
+  "targetId": "1a67c8fa-e340-ec11-a313-48df37342c99",
+  "targetDescription": "Base com contatos filtrados para o envio do OTC290",
+  "createdDate": "2021-11-08T16:53:10.15",
+  "modifiedDate": "2023-03-03T13:42:20.957",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 40743,
+  "isFrozen": false
+}

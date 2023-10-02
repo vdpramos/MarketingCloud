@@ -1,0 +1,361 @@
+var logDEName = 'Log Salesforce Integration';
+var logDECustomerKey = retrieveDECustomerKeyFromName(api, logDEName);
+// Usar em cada iteração que retornada mais dados do DE, para impedir que um erro de timeout ocorra
+var START_TIME = new Date().getTime();
+var MAX_EXECUTION_TIME_MILISECONDS = 60 * 28.5 * 1000;
+
+try {
+  var otc291_DE_Customerkey = retrieveDECustomerKeyFromName(api, nameDE);
+  var requestAccessTokenFunction = eval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('56359') ));
+  var access_token = requestAccessTokenFunction();
+  
+  var recordManipulator = DataExtensionRecordsOperator({api: api, dataExtensionName: nameDE});
+  
+  if(applyFilterRetrieve){
+    recordManipulator.pipeExecuteInAllRecords({filter: filterRetrieveRows}, myCallback, BATCH_SIZE);
+  }else{
+    recordManipulator.pipeExecuteInAllRecords(null, myCallback, BATCH_SIZE);
+  }
+
+  function myCallback(records){
+    var payloadComposite = createPayloadComposite(records, attributeType, deparaCampos, valoresFixos);
+    var auth = 'Bearer ' + access_token;
+  
+    var req = new Script.Util.HttpRequest(urlToUpsert);
+    req.emptyContentHandling = 1;
+    req.retries = 2;
+    req.continueOnError = true;
+    req.contentType = "application/json;charset=UTF-8"
+    req.setHeader("Accept", '*/*');
+    req.setHeader("Accept-Encoding", 'gzip, deflate, br');
+    req.setHeader("Authorization", auth);
+    req.method = "PATCH";
+  
+    var stringifiedPayload = Platform.Function.Stringify(payloadComposite);
+    var data = stringifiedPayload;
+    
+    req.postData = data;
+    var resp = req.send();
+    var response = Platform.Function.ParseJSON('' + resp.content);
+
+    var logsToDE = [];
+    var OTC291_DE_dados = [];
+    for(var row = 0; row < records.length; row++){
+      // dados de log
+      var logData = {
+        Log: 'campanha - ' + idCampanha,
+        Data_Sent: Platform.Function.Stringify(payloadComposite.records[row]).substring(0, 3000),
+        Response: Platform.Function.Stringify(response[row]).substring(0, 3000)
+      }
+      logsToDE.push(logData);
+
+      // dados para atualizar o DE que insere no Service com os Ids
+      var OTC291_DE_dados_row = {}
+      OTC291_DE_dados_row[campoIdNoDEParaAtualizar] = response[row].id;
+      OTC291_DE_dados_row[campoPKNoDEParaAtualizar] = records[row][campoPKNoDEParaAtualizar];
+      OTC291_DE_dados_row[flagEnvioParaService] = true; // campo de flag para guardar no DE que essa linha já foi disparada para o Service
+      OTC291_DE_dados.push(OTC291_DE_dados_row);
+    }
+    
+    insertBulkRecordInDE(api, logsToDE, logDECustomerKey); // Insere no DE de log
+    upsertBulkRecordInDE(api, OTC291_DE_dados, otc291_DE_Customerkey); // Insere a resposta do ID no DE de extração (OTC291 fitlrada)
+
+  }
+
+} catch (error) {
+  // Write('error' + '\n');
+  // Write(Platform.Function.Stringify(error) + '\n\n');
+  insertBulkRecordInDE(api, [{Data_Sent:Platform.Function.Stringify(error)}], logDECustomerKey);
+  Platform.Function.RaiseError('error');
+  
+}
+
+function createPayloadComposite(records, sObjectType, deparaCampos, valoresFixos){
+  var payload = {
+    "allOrNone": false,
+    "records": []
+  }
+
+  for(var i = 0; i < records.length; i++){
+    payload.records.push( createSingleRecordComposite(records[i], sObjectType, deparaCampos, valoresFixos) );
+  }
+
+  return payload;
+}
+
+function createSingleRecordComposite(record, sObjectType, deparaCampos, valoresFixos){
+  var recordFormated = {
+    "attributes": {
+      "type": sObjectType
+    }
+  }
+
+  for (var key in deparaCampos) {
+    recordFormated[ deparaCampos[key] ] = record[key];
+  }
+
+  // se houver algum valor fixo, inserir no payload
+  if(valoresFixos){
+    for (var key in valoresFixos) {
+      recordFormated[ key ] = valoresFixos[key];
+    }
+  }
+
+  // formata campo de data se houver
+  for(var key in recordFormated){
+    if(key == "attributes") continue
+    
+    if(dateFieldsToFormat && dateFieldsToFormat.length > 0){
+      for (var i = 0; i < dateFieldsToFormat.length; i++) {
+        if(key == dateFieldsToFormat[i]){
+          recordFormated[key] = formatDate(recordFormated[key]);
+        }
+      }
+    }
+  }
+  
+  return recordFormated
+
+}
+
+function DataExtensionRecordsOperator(configuration){
+  var api;
+  var customerKey;
+  
+  if(!configuration) Platform.Function.RaiseError('An configuration Object is required');
+  if(!configuration.api) Platform.Function.RaiseError('Api attribute is required');
+  if(!configuration.dataExtensionCustomerKey && !configuration.dataExtensionName) Platform.Function.RaiseError('dataExtensionCustomerKey or dataExtensionName attribute is required');
+  if(configuration.dataExtensionCustomerKey && typeof configuration.dataExtensionCustomerKey != 'string') Platform.Function.RaiseError('dataExtensionCustomerKey must be a String');
+  api = configuration.api;
+  
+  if(configuration.dataExtensionCustomerKey == null || configuration.dataExtensionCustomerKey == ''){
+    var simpleFilter = {
+      Property: 'Name',
+      SimpleOperator: 'equals',
+      Value: configuration.dataExtensionName
+    }
+    customerKey = api.retrieve("DataExtension", ["CustomerKey"], simpleFilter).Results[0].CustomerKey;
+  }else{
+    customerKey = configuration.dataExtensionCustomerKey;
+  }
+
+  function getRecords(options){
+    // options Object can have filter or headers
+    if(!!options && typeof options != 'object') Platform.Function.RaiseError('Options must be an object or omitted');
+        
+    var headers;
+    var filter;
+
+    if(!!options && options.headers){
+      headers = options.headers;
+    }else{
+      headers = retrieveFieldNames(customerKey, api);
+    }
+
+    if(!!options && options.filter) filter = options.filter;
+
+    var config = {
+      customerKey: customerKey,
+      cols: headers
+    }
+  
+    var records = [],
+    moreData = true,
+    reqID = data = null;
+
+    while (moreData) {
+      moreData = false;
+      if (reqID == null) {
+        if(filter == undefined || filter == null){
+          data = api.retrieve("DataExtensionObject[" + config.customerKey + "]", config.cols);
+        }else{
+          data = api.retrieve("DataExtensionObject[" + config.customerKey + "]", config.cols, filter);
+        }
+        if(data.Status.substring(0, 5) == 'Error'){
+          Platform.Function.RaiseError('Something went wrong: ' + data.Status);
+        }
+      } else {
+        data = api.getNextBatch("DataExtensionObject[" + config.customerKey + "]", reqID);
+      }
+
+      if (data != null) {
+        moreData = data.HasMoreRows;
+        reqID = data.RequestID;
+        for (var i = 0; i < data.Results.length; i++) {
+          var result_list = data.Results[i].Properties;
+          var obj = {};
+          for (k in result_list) {
+            var key = result_list[k].Name;
+            var val = result_list[k].Value
+            if (key.indexOf("_") != 0) obj[key] = val;
+          }
+        records.push(obj);
+        }
+      }
+    }
+    return records;
+    
+  }
+
+  function pipeExecuteInAllRecords(options, cb, batchSize){
+    // options Object can have filter or headers
+    if(!!options && typeof options != 'object') Platform.Function.RaiseError('Options must be an object or omitted');
+    var batchSizeActual = batchSize == null || batchSize == undefined ? 2500 : batchSize;
+    batchSizeActual = batchSizeActual > 2500 ? 2500 : batchSizeActual;
+    if(batchSizeActual == 0) Platform.Function.RaiseError('batchSize cannot be 0');
+        
+    var filter;
+    headers = retrieveFieldNames(customerKey, api);
+
+    if(!!options && options.filter) filter = options.filter;
+
+    var config = {
+      customerKey: customerKey,
+      cols: headers
+    }
+  
+    var records = [],
+    moreData = true,
+    reqID = data = null;
+
+    while (moreData) {
+      moreData = false;
+      if (reqID == null) {
+        if(filter == undefined || filter == null){
+          data = api.retrieve("DataExtensionObject[" + config.customerKey + "]", config.cols);
+        }else{
+          data = api.retrieve("DataExtensionObject[" + config.customerKey + "]", config.cols, filter);
+        }
+        if(data.Status.substring(0, 5) == 'Error'){
+          Platform.Function.RaiseError('Something went wrong: ' + data.Status);
+        }
+      } else {
+        data = api.getNextBatch("DataExtensionObject[" + config.customerKey + "]", reqID);
+      }
+
+      if (data != null) {
+        moreData = data.HasMoreRows;
+        reqID = data.RequestID;
+        var retrievedData = data.Results;
+        while ( retrievedData.length != 0 ) {
+          var currentData = retrievedData.splice(0, batchSizeActual);
+          for (var i = 0; i < currentData.length; i++) {
+            var result_list = currentData[i].Properties;
+            var obj = {};
+            for (k in result_list) {
+              var key = result_list[k].Name;
+              var val = result_list[k].Value
+              if (key.indexOf("_") != 0) obj[key] = val;
+            }
+            records.push(obj);
+          }
+          cb(records); // operate over the first Chunck
+          records = []; // clear records, free up memory
+          // Se estiver em um tempo próximo de ocorrer erro por timeout na atividade de execução de script,
+          // interrompe a execução
+          if(START_TIME != null && START_TIME != undefined && (new Date().getTime() - START_TIME > MAX_EXECUTION_TIME_MILISECONDS)){
+            moreData = false;
+          }
+        }
+      }
+    }
+  }
+
+  function retrieveFieldNames(customerKey, api) {
+    var filter = {
+      Property: "DataExtension.CustomerKey",
+      SimpleOperator: "equals",
+      Value: customerKey
+    };
+
+    var req = api.retrieve("DataExtensionField", ["Name"], filter);
+    var fields = req.Results;
+    var out = [];
+    for (k in fields) {
+      out = out.concat(fields[k].Name);
+    }
+    return out;
+  }
+
+  return {
+    getRecords: getRecords,
+    pipeExecuteInAllRecords: pipeExecuteInAllRecords
+  }
+}
+
+function retrieveDECustomerKeyFromName(api, dataExtensionName){
+  var simpleFilter = {
+    Property: 'Name',
+    SimpleOperator: 'equals',
+    Value: dataExtensionName
+  }
+  var result = api.retrieve('DataExtension', ['CustomerKey'], simpleFilter);
+  if(result.Status != 'OK' || result.Results.length < 1){
+    return null
+  }else{
+    return result.Results[0].CustomerKey;
+  }
+}
+
+function insertRecordInDE(api, record, customerKey){
+  if(!api) Platform.Function.RaiseError('Api param is required');
+  var props = [];
+  for(prop in record){
+    props.push( {Name: prop, Value: record[prop] } );
+  }
+  var data = {
+    CustomerKey: customerKey,
+    Properties: props
+  }
+  return api.createItem('DataExtensionObject', data);
+}
+
+function formatDate(date) {
+  var d = new Date(date),
+      month = '' + (d.getMonth() + 1),
+      day = '' + d.getDate(),
+      year = d.getFullYear()
+  if (month.length < 2) 
+      month = '0' + month;
+  if (day.length < 2) 
+      day = '0' + day;
+  hours = hours.length < 2 ? '0' + hours : hours;
+  minutes = minutes.length < 2 ? '0' + minutes : minutes;
+  seconds = seconds.length < 2 ? '0' + seconds : seconds;
+  var formattedDate = year + '-' + month + '-' + day;
+  return formattedDate;
+}
+
+function insertBulkRecordInDE(api, records, customerKey){
+  if(!api) Platform.Function.RaiseError('Api param is required');
+  var data = [];
+  for(var recordIndex = 0; recordIndex < records.length ; recordIndex++){
+    var record = records[recordIndex];
+    var props = [];
+    for (prop in record) {
+      props.push({ Name: prop, Value: record[prop] });
+    }
+    data.push({
+      CustomerKey: customerKey,
+      Properties: props
+    });
+  }
+  return api.createBatch('DataExtensionObject', data);
+}
+
+function upsertBulkRecordInDE(api, records, customerKey){
+  if(!api) Platform.Function.RaiseError('Api param is required');
+  var data = [];
+  for(var recordIndex = 0; recordIndex < records.length ; recordIndex++){
+    var record = records[recordIndex];
+    var props = [];
+    for (prop in record) {
+      props.push({ Name: prop, Value: record[prop] });
+    }
+    data.push({
+      CustomerKey: customerKey,
+      Properties: props
+    });
+  }
+  return api.updateBatch('DataExtensionObject', data, {SaveOptions: [{'PropertyName': '*', SaveAction: 'UpdateAdd'}]});
+}

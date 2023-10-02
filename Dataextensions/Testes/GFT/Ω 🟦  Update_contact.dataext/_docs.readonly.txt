@@ -1,0 +1,6 @@
+Dataextension name: Update_contact
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| SubscriberKey        | Text(50)        | true     | false    |                 |
+| Teste                | Boolean         | true     | false    |                 |

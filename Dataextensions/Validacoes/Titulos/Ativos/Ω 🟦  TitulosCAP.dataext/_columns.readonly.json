@@ -1,0 +1,101 @@
+[
+  {
+    "Name": "ID_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "dcaae30c-c3f7-46c9-8859-4622cb553936",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "ID_PLANO",
+    "FieldType": "Text",
+    "ObjectID": "199f2986-11cf-4d7b-82c2-37d02ca4df5b",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "ID_SERIE",
+    "FieldType": "Text",
+    "ObjectID": "cd61beb6-e422-4792-8490-889fd4432fea",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "CLASSIFICACAO",
+    "FieldType": "Text",
+    "ObjectID": "240f0c19-3c22-41fe-8066-3aea2dfbf417",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "DT_INICIO_VIGENCIA",
+    "FieldType": "Text",
+    "ObjectID": "27b373ab-89ed-4f17-9092-445fd6c09a7e",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "DATA_BAIXA",
+    "FieldType": "Text",
+    "ObjectID": "f9f04eed-62e6-44d8-b2c3-a684c7d3f344",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "STATUS",
+    "FieldType": "Text",
+    "ObjectID": "f442927b-1ee8-4469-bce8-71940c1f402a",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "DATA_REGISTRO_ESTORNO",
+    "FieldType": "Text",
+    "ObjectID": "e31975c9-acc9-438a-a2fc-5f53759ba965",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "DATA_REGISTRO_OBITO",
+    "FieldType": "Text",
+    "ObjectID": "212d10d0-3484-4da5-9c4e-a287a97b5e16",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  }
+]

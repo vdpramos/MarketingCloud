@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "057b066e-4c83-4011-aa0d-5e261e7cc844",
+  "name": "Pagamento_CPF_CNPJ_Atualizar",
+  "key": "057B066E-4C83-4011-AA0D-5E261E7CC844",
+  "description": "",
+  "queryText": "select pg.id, rc1.hc_cpf_cnpj__c as HC_CPF_CNPJ_do_Titulo__c\nfrom hc_titulo__c_salesforce t1 \ninner join hc_relacao_cliente_parceiro__c_salesforce rc1\n    on rc1.id = t1.hc_subscritor__c\ninner join hc_pagamento__c_salesforce pg\n    on pg.hc_titulo__c = t1.id\nwhere pg.HC_Status_do_Pagamento__c in ('Queda', 'Queda de Prévia', 'Queda de Pagamento Liquidado', 'Bloqueado')",
+  "targetName": "CPF_CNPJ_Atualizar",
+  "targetKey": "2F18B9B3-5EEB-4B71-9D40-057CBCE089F4",
+  "targetId": "fdc4a00c-fd10-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-22T07:04:30.133",
+  "modifiedDate": "2023-06-22T07:04:30.133",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 62093,
+  "isFrozen": false
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "B7B29C6C-A3BD-4EA9-A0CF-D476A22D3419"
+  ],
+  "Name": [
+    "Flag_LiberarExtracao_Cliente_NeoBpo"
+  ]
+}

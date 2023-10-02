@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "096D211E-931E-4927-BD2A-405107532E78"
+  ],
+  "Name": [
+    "Close_the_loop_resgate_antecipado_homologacao"
+  ]
+}

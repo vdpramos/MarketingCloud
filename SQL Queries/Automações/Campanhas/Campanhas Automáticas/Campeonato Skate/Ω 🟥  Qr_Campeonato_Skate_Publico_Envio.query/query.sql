@@ -1,0 +1,3 @@
+select
+  *
+from TB_CAMPEONATOSKATE_PUBLICO_INICIAL

@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Email",
+    "FieldType": "EmailAddress",
+    "ObjectID": "3bf928de-767c-4362-bebf-2934bae1dfb8",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "e93d23e2-3131-4d47-b744-696eed89b8a1",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

@@ -1,0 +1,7 @@
+Dataextension name: TitulosCAP_Importar
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| id_titulo            | Text(100)       | true     | true     |                 |
+| id_plano             | Text(10)        | true     | true     |                 |
+| id_serie             | Text(10)        | true     | true     |                 |

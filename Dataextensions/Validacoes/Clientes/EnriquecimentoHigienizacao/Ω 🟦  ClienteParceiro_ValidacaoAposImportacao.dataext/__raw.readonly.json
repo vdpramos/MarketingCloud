@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "51082A73-A117-4229-8BE0-789D4C963C2D"
+  ],
+  "Name": [
+    "ClienteParceiro_ValidacaoAposImportacao"
+  ]
+}

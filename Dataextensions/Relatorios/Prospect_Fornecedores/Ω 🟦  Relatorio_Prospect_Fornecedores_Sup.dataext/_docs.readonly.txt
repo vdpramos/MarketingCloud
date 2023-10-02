@@ -1,0 +1,36 @@
+Dataextension name: Relatorio_Prospect_Fornecedores_Sup
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome da campanha     | Text(1000)      | false    | false    |                 |
+| Tipo de membro       | Text(255)       | false    | false    |                 |
+| Status do membro     | Text(255)       | false    | false    |                 |
+| ID do registro relacionado | Text(255)       | false    | false    |                 |
+| Primeira data de associação do membro | Text(255)       | false    | false    |                 |
+| Data da atualização do status do membro | Text(255)       | false    | false    |                 |
+| Primeira data de resposta do membro | Text(255)       | false    | false    |                 |
+| Respondido           | Text(255)       | false    | false    |                 |
+| Saudação             | Text(255)       | false    | false    |                 |
+| Cargo                | Text(255)       | false    | false    |                 |
+| Empresa              | Text(255)       | false    | false    |                 |
+| Telefone             | Text(255)       | false    | false    |                 |
+| Email                | Text(255)       | false    | false    |                 |
+| Proprietário do registro relacionado | Text(255)       | false    | false    |                 |
+| Proprietário do cliente | Text(255)       | false    | false    |                 |
+| Endereço             | Text(255)       | false    | false    |                 |
+| Linha 1 da rua       | Text(255)       | false    | false    |                 |
+| Linha 2 da rua       | Text(255)       | false    | false    |                 |
+| Linha 3 da rua       | Text(255)       | false    | false    |                 |
+| Cidade               | Text(255)       | false    | false    |                 |
+| Estado_província     | Text(255)       | false    | false    |                 |
+| CEP                  | Text(255)       | false    | false    |                 |
+| País                 | Text(255)       | false    | false    |                 |
+| Nome                 | Text(255)       | false    | false    |                 |
+| Sobrenome            | Text(255)       | false    | false    |                 |
+| Data de início       | Text(255)       | false    | false    |                 |
+| Data de término      | Text(255)       | false    | false    |                 |
+| Fornecedor           | Text(255)       | false    | false    |                 |
+| Quantidade de contatos no Mailing | Text(255)       | false    | false    |                 |
+| Disparo na campanha  | Text(255)       | false    | false    |                 |
+| Resultado            | Text(255)       | false    | false    |                 |
+| Motivo               | Text(255)       | false    | false    |                 |

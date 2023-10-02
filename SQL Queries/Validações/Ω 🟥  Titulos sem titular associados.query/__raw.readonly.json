@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6844626a-64be-48e0-b336-378d42d956e1",
+  "name": "Titulos sem titular associados",
+  "key": "cd0b5591-daaa-4170-9cb9-1c3e6d16ed32",
+  "description": "",
+  "queryText": "select  t.id as id_titulo, \n        t.HC_Cliente_x_Parceiro__c as id_titular, \n        t.HC_Subscritor__c as id_subscritor, \n        cp.id as id_clienteParceiro,\n        t.HC_Numero_do_Titulo__c as num_titulo,  \n        t.HC_Serie__c as serie, \n        t.HC_Plano__c as plano, \n        t.HC_Origem__c as origem, \n        t.HC_Titulo__c as id_titulo_darwin\nfrom hc_titulo__c_salesforce t\ninner join hc_relacao_cliente_parceiro__c_salesforce cp   \n        on t.HC_CPF_CNPJ_Titular__c = cp.HC_CPF_CNPJ__c\n        and (   t.HC_Codigo_do_Parceiro_na_Origem__c = cp.HC_Id_Parceiro_Cap__c \n                or t.HC_Codigo_do_Parceiro_na_Origem__c = cp.HC_Id_Parceiro_Darwin__c )\nwhere t.HC_Cliente_x_Parceiro__c is null",
+  "targetName": "TitulosSemTitular",
+  "targetKey": "9B4DE885-BEE9-47A9-A612-DF714860AF57",
+  "targetId": "89292b44-29a3-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-02T12:45:11.04",
+  "modifiedDate": "2023-02-02T12:53:47.857",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

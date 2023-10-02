@@ -1,0 +1,8 @@
+Dataextension name: Teste_SMS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome                 | Text(50)        | false    | false    |                 |
+| Celular              | Phone           | false    | false    |                 |
+| Email                | Text(50)        | false    | false    |                 |
+| Locale               | Locale          | false    | false    |                 |

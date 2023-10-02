@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "10390ED1-E533-4BCB-B42C-B73A3CF3B290"
+  ],
+  "Name": [
+    "Log Integracao Flag Cliente Parceiro"
+  ]
+}

@@ -1,0 +1,189 @@
+[
+  {
+    "Name": "Id_contato",
+    "FieldType": "Text",
+    "ObjectID": "bd8ec0d8-fcb9-486a-9af3-9d0e59ab5bf9",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Id_cliente_parceiro",
+    "FieldType": "Text",
+    "ObjectID": "162d545f-8271-412a-a264-ac29493739f6",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "db0d2bc4-065c-4c43-b68c-267864a47dd1",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 22
+  },
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "b100ed76-b255-4581-9cab-843cc4eaed4a",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 23
+  },
+  {
+    "Name": "Celular_1",
+    "FieldType": "Text",
+    "ObjectID": "81dd02db-29d8-49ff-967f-ca7e7a6319a4",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 24
+  },
+  {
+    "Name": "Celular_2",
+    "FieldType": "Text",
+    "ObjectID": "b05ae33b-6ca2-49e9-9712-fc56ffedc94f",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 25
+  },
+  {
+    "Name": "Celular_3",
+    "FieldType": "Text",
+    "ObjectID": "d5f322d1-7546-4ae9-b10f-dd855e8b9d0e",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 26
+  },
+  {
+    "Name": "Telefone_Brasilcap",
+    "FieldType": "Text",
+    "ObjectID": "9fb61334-423a-4a2b-a186-e8ba65a7df3d",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 27
+  },
+  {
+    "Name": "Telefone_comercial",
+    "FieldType": "Text",
+    "ObjectID": "b31dd2a1-9974-4d88-9db3-7fe14dcdf05c",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 28
+  },
+  {
+    "Name": "Email",
+    "FieldType": "Text",
+    "ObjectID": "9c9800a2-5b62-4cd1-9049-9ea9860d488e",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 29
+  },
+  {
+    "Name": "Nivel_relacionamento",
+    "FieldType": "Text",
+    "ObjectID": "db2d3105-633f-46c1-95d8-bb804938f63f",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 30
+  },
+  {
+    "Name": "Tipo_pagamento",
+    "FieldType": "Text",
+    "ObjectID": "0a848a9d-770d-4753-bc3e-aee6624f91ca",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 31
+  },
+  {
+    "Name": "UF",
+    "FieldType": "Text",
+    "ObjectID": "1975c706-e51c-459c-bfb2-1a8a04277305",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 33
+  },
+  {
+    "Name": "Idade",
+    "FieldType": "Text",
+    "ObjectID": "e29ffee3-6230-44af-a0f4-c512c8fab84c",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 34
+  },
+  {
+    "Name": "Data_nascimento",
+    "FieldType": "Date",
+    "ObjectID": "13dae9ab-3352-4f15-ba29-7728659d27c6",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 35
+  },
+  {
+    "Name": "Id_titulo",
+    "FieldType": "Text",
+    "ObjectID": "bcc5858a-bc7a-4a47-98ef-a07bdbbf632d",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 36
+  },
+  {
+    "Name": "Data_ultima_contemplacao",
+    "FieldType": "Date",
+    "ObjectID": "50f13ed1-1f39-4e0a-af3e-0ddba425c415",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 37
+  }
+]

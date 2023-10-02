@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "09b31ade-372b-4dc8-9252-0338549bbe39",
+  "name": "Qr00_Extracao_Base_Prospect_Offline_Clientes_ComOTC_NeoBpo",
+  "key": "981be534-d026-430b-b9a3-c80545834e48",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n  B.CPF,\n  'TCBB' AS COD_PARCEIRO,\n  '' AS CNPJ,\n  'Brasilcap' AS PARCEIRO_ORGANIZACAO,\n  'Brazil' AS PARCEIRO_LOCALIZACAO,\n  A.ID_CLIENTE_PARCEIRO AS COD_CLIENTE_MC,\n  B.NOME AS NOME_COMPLETO,\n  'PF' AS TIPO_PESSOA,\n  CONVERT(VARCHAR, CONVERT(DATE, B.DATA_NASCIMENTO, 103), 112) AS DATA_NASCIMENTO,\n  B.SEXO,\n  'Brasilcap' AS CLIENTE_ORGANIZACAO,\n  CONCAT(B.CPF, 'TCBB') AS CLIENTE_CHAVE_MIGRACAO,\n  CONCAT(B.CPF, 'TCBB') AS CLIENTE_CHAGE_GERAL_INTERNA,\n  'Person' AS CLIENTE_TIPO_INTERNO,\n  '99999999999' AS INICIO_TRAILLER \nFROM\n  TB_BASE_PROSPECT_OTC291_FILTRADA_NEOBPO A \n  INNER JOIN\n    TB_BASE_PROSPECT_COMOTC_TRATADA_NEOBPO B \n    ON A.CPF = B.CPF",
+  "targetName": "Tb_Base_Prospect_Offline_Clientes_ComOTC_NeoBpo",
+  "targetKey": "90B32966-67D9-48D9-9C0B-A8F7FCBBD18E",
+  "targetId": "ac43e085-5870-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-16T08:06:29.993",
+  "modifiedDate": "2021-02-16T08:06:29.993",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29377,
+  "isFrozen": false
+}

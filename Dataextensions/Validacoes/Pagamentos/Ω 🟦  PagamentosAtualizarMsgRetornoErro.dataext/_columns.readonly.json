@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "id",
+    "FieldType": "Text",
+    "ObjectID": "6a7a8f15-40d4-49f2-8927-9c30d635da79",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "HC_Codigo_de_Retorno_de_Erro__c",
+    "FieldType": "Text",
+    "ObjectID": "e35416cc-e4d0-41a7-aafd-8e3e51b4993b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Descricao_do_Retorno_de_Erro__c",
+    "FieldType": "Text",
+    "ObjectID": "7fcd6dd8-4974-46d8-915f-172c01d1dfde",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

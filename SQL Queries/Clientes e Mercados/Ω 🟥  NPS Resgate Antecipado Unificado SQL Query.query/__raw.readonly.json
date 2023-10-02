@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "d7045c38-4e50-4cea-b84b-185bf5962fed",
+  "name": "NPS Resgate Antecipado Unificado SQL Query",
+  "key": "D7045C38-4E50-4CEA-B84B-185BF5962FED",
+  "description": "Instrução SQL para leitura de clientes que solicitaram resgate antecipado em um determinado período, unificado.",
+  "queryText": "SELECT\n    A.ClienteID,\n    A.CPF,\n    A.Nome,\n    A.DataNascimento,\n    A.Cidade,\n    A.CEP,\n    A.UF,\n    A.TipoPessoa,\n    A.ChaveTitulo,    \n    A.StatusTitulo,\n    A.InicioVigencia,\n    A.FimVigencia,\n    A.ValorParcela,\n    A.NumeroProposta,\n    A.OrigemVenda,\n    A.TipoPagamento,\n\tA.Celular1,\n\tA.Celular2,\n\tA.Celular3,\n\tA.Fixo1,\n\tA.Fixo2,\n\tA.Fixo3,\n\tA.EMailPessoal,\n\tA.EMailComercial,\n\tA.EMailBrasilcap,\n\tA.EmailPrincipal,\n\tA.NaoReceberEmail,\n\tA.DataUltimoResgate,\n\tA.CodigoOTC\nFROM NPSResgateAntecipadoDE A\nINNER JOIN\n(\n    SELECT\n        B.CPF,\n        MAX(B.NumeroProposta) AS NumeroProposta\n    FROM NPSResgateAntecipadoDE B\n    GROUP BY\n        B.CPF\n) C ON C.CPF = A.CPF AND C.NumeroProposta = A.NumeroProposta",
+  "targetName": "NPSResgateAntecipadoUnificadaDE",
+  "targetKey": "E2098BD2-5608-47B5-8EDB-9682CE8731F2",
+  "targetId": "6e19dd2a-ae1b-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "Lista de clientes que solicitaram resgate antecipado unificado",
+  "createdDate": "2023-07-05T21:10:28.833",
+  "modifiedDate": "2023-07-05T21:36:19.817",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 65497,
+  "isFrozen": false
+}

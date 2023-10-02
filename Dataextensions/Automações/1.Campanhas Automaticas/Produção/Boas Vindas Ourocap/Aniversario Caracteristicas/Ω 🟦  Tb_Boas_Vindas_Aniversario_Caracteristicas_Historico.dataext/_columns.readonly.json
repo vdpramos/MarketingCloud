@@ -1,0 +1,101 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "eb704c21-96bd-4140-a914-77db89ff2cf8",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "PLANO_DO_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "4412a4bc-dac9-46d9-adf9-e0669e7649c1",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "SERIE_DO_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "6b8ebc3b-afdc-41a0-93e3-d70b0ffe8006",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "NUMERO_DO_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "05c3443e-26f0-4326-9329-7f84e8dad5c5",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "ID_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "6cc79a3c-4e1f-4153-8e2c-7badc26dd9e7",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "ID_CONTATO",
+    "FieldType": "Text",
+    "ObjectID": "595f1345-2997-4dab-8264-40e94a2f49e8",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "ID_CLIENTE_PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "756fc8f9-a7a0-43f8-a646-39dbcf556061",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "DATA_INICIO_VIGENCIA",
+    "FieldType": "Date",
+    "ObjectID": "c1216cbc-c2de-44f9-896e-6fda630950f5",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "Date",
+    "FieldType": "Date",
+    "ObjectID": "ac3c2967-e902-40f0-89f9-e1cbe88da477",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 9
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "71e522e1-8777-421d-968c-65db162c6ee1",
+  "name": "OTC291_Guarda_Historico",
+  "key": "cfc11060-2d21-4132-93f1-ddb2f4232253",
+  "description": "Guarda Historico da resposta temporariamente",
+  "queryText": "SELECT\r\n  A.*\r\nFROM TB_BASE_OTC291_TRATADA A",
+  "targetName": "Tb_Base_OTC291_Tratada_Historico",
+  "targetKey": "01554682-FB3B-491A-905C-F9EA5167B127",
+  "targetId": "b538cb14-7130-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Guarda Historico de resposta temporariamente",
+  "createdDate": "2022-09-09T13:00:23.1",
+  "modifiedDate": "2023-08-25T17:46:57.007",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 53113,
+  "isFrozen": false
+}

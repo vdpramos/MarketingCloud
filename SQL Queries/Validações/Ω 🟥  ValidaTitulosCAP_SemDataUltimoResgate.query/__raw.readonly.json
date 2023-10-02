@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "dd1e634a-e585-48dc-97a6-969723a7c8bb",
+  "name": "ValidaTitulosCAP_SemDataUltimoResgate",
+  "key": "DD1E634A-E585-48DC-97A6-969723A7C8BB",
+  "description": "",
+  "queryText": "select t.id, tc.Data_Pagamento_Resgate \nfrom hc_titulo__c_salesforce t\ninner join TitulosCAP_DtUltimoResgate tc\n    on t.HC_Numero_do_Titulo__c = tc.id_titulo\n    and t.HC_Serie__c = tc.id_serie\n    and t.HC_Plano__c = tc.id_plano\nwhere t.HC_Data_do_ultimo_resgate__c is null\n      and t.hc_origem__c = 'CAP'",
+  "targetName": "TitulosCAP_DtUltimoResgate_Tratada",
+  "targetKey": "0A7ABAE7-4441-4993-AED0-B98E6F059D54",
+  "targetId": "e9ec153a-f747-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2023-08-31T06:09:52.69",
+  "modifiedDate": "2023-08-31T18:05:21.513",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

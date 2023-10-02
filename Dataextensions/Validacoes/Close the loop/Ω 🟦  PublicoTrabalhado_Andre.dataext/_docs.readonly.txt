@@ -1,0 +1,19 @@
+Dataextension name: PublicoTrabalhado_Andre
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | true     | false    |                 |
+| ID_CLIENTE           | Text(50)        | true     | false    |                 |
+| NOME                 | Text(255)       | true     | false    |                 |
+| TIPO_PRODUTO         | Text(255)       | true     | false    |                 |
+| CELULAR_1            | Text(50)        | true     | false    |                 |
+| CELULAR_2            | Text(50)        | true     | false    |                 |
+| CELULAR_BRASILCAP    | Text(50)        | true     | false    |                 |
+| TELEFONE_RESIDENCIAL | Text(50)        | true     | false    |                 |
+| TELEFONE_COMERCIAL   | Text(50)        | true     | false    |                 |
+| TELEFONE_BRASILCAP   | Text(50)        | true     | false    |                 |
+| EMAIL                | Text(50)        | true     | false    |                 |
+| UF                   | Text(50)        | true     | false    |                 |
+| PERFIL               | Text(50)        | true     | false    |                 |
+| IDADE                | Text(50)        | true     | false    |                 |
+| GRUPO_CONTROLE       | Text(255)       | true     | false    |                 |

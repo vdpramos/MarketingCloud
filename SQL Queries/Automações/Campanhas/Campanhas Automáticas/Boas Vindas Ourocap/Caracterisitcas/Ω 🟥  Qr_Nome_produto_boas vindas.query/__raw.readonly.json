@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "0fb2a996-7e7b-4743-b60e-8220c4d3d3ed",
+  "name": "Qr_Nome_produto_boas vindas",
+  "key": "26049468-c6ce-4362-87fa-51fdb584f0e7",
+  "description": "",
+  "queryText": "SELECT\n    A.Name AS Nome_produto\n,   A.HC_Plano__c as Plano_do_Titulo\n,   B.CPF_CNPJ\nFROM\n    HC_Produto__c_Salesforce A\nRIGHT JOIN \n    TB_BOAS_VINDAS_OUROCAP_CLIENTES_E_TITULOS B ON A.HC_Plano__c = B.Plano_do_Titulo\n",
+  "targetName": "Tb_boas_vindas_nome_produto",
+  "targetKey": "15FBD413-69B6-4B12-BFC4-4CFC0F0B067B",
+  "targetId": "e156e6e7-4b59-ec11-a311-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2021-12-09T18:01:53.86",
+  "modifiedDate": "2021-12-09T18:01:53.86",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 41120,
+  "isFrozen": false
+}

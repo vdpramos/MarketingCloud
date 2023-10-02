@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "733A811B-CCFB-4FFA-9D58-C31187C0452C"
+  ],
+  "Name": [
+    "Validacao_Prospect_TMKT_Online_GFT"
+  ]
+}

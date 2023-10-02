@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "Email",
+    "FieldType": "EmailAddress",
+    "ObjectID": "a678c0f8-24cf-48e2-aae9-9ebda83234da",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "7e2bb1ea-39d8-4ee7-b354-c32cbcb695da",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Telefone",
+    "FieldType": "Text",
+    "ObjectID": "dae16b38-3eb9-4919-9b2a-d3297efa6d05",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Região",
+    "FieldType": "Text",
+    "ObjectID": "08f5fe14-6caf-4f18-a936-5f699dd0ffee",
+    "MaxLength": "40",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Idade",
+    "FieldType": "Number",
+    "ObjectID": "37fb60f7-bccd-463c-8ee4-e853e9c99168",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "0af4cae3-a40b-4911-a812-75cd5e1d1fc4",
+  "name": "Qr_Boas_Vindas_Doadin_Adicionar_Historico",
+  "key": "0AF4CAE3-A40B-4911-A812-75CD5E1D1FC4",
+  "description": "",
+  "queryText": "SELECT \n  ID_PROPOSTA,\n  CPF_CNPJ,\n  ID_CONTATO,\n  ID_CLIENTE_PARCEIRO,\n  EMAIL_VALIDO,\n  CELULAR_VALIDO,\n  NAO_DESEJA_RECEBER_EMAIL,\n  NAO_DESEJA_RECEBER_SMS,\n  EMAIL,\n  CELULAR,\n  TITULOS_ANTERIORES_ATIVOS,\n  TITULOS_ANTERIORES_INATIVOS,\n  CREATEDDATE\n  \nFROM AEM_TB_BOAS_VINDAS_OUROCAP_PROSPOSTAS\n",
+  "targetName": "DOADIN_Boas_Vindas_Historico_Propostas",
+  "targetKey": "AA72CAEF-4285-42CD-BF42-0D02C4B1647F",
+  "targetId": "ec8b45f1-4538-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "Historico de propostas ja enviadas para campanha",
+  "createdDate": "2023-08-18T14:07:24.85",
+  "modifiedDate": "2023-09-01T13:34:22.913",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 67330,
+  "isFrozen": false
+}

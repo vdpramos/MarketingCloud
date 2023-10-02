@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "648ed0cf-4b2c-44aa-aeb6-e720073941d7",
+  "name": "Prospect_AeC_DataExecucao",
+  "key": "5e1a2fbf-1906-4a27-b182-ad0b925173da",
+  "description": "",
+  "script": "<script runat=\"server\">\r\n// Checa se está no momento de executar a campanha (datetime)\r\nPlatform(\"Core\", \"2.0\");\r\nvar Id_Campanha = '7016g000000FhMSAA0'; // Id campanha\r\n\r\n// ---------------------------------------------------------\r\n// --------------------- Não modificar ---------------------\r\n// ---------------------------------------------------------\r\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51885') ));\r\n\r\n</script>",
+  "categoryId": 1937,
+  "createdDate": "2023-07-12T07:25:16.277",
+  "modifiedDate": "2023-07-12T07:25:16.277"
+}

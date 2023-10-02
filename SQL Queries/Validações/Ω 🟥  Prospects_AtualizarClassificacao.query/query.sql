@@ -1,0 +1,1 @@
+select id, 'Cliente Potencial' as HC_Classificacao__c from ProspectsClassificadosIncorretamente

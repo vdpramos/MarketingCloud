@@ -1,0 +1,11 @@
+Dataextension name: Base_CSV
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | true     | true     |                 |
+| Nome                 | Text(400)       | false    | false    |                 |
+| Email                | EmailAddress    | false    | false    |                 |
+| DT_Envio             | Date            | false    | false    |                 |
+| DT_Entregue          | Date            | false    | false    |                 |
+| DT_Aberto            | Date            | false    | false    |                 |
+| DT_Clicado           | Date            | false    | false    |                 |

@@ -1,0 +1,6 @@
+Dataextension name: teste_ourocap
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome                 | Text(50)        | true     | false    |                 |
+| Email                | EmailAddress    | true     | true     |                 |

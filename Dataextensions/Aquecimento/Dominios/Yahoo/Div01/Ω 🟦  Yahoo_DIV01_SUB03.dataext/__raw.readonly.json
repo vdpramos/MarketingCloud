@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "70FFE530-EEE7-48A7-ACC4-7A33E9CCD487"
+  ],
+  "Name": [
+    "Yahoo_DIV01_SUB03"
+  ]
+}

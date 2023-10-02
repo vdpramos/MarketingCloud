@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "9d1fd259-f661-4007-943d-0aa8eb9bc2e6",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Celular",
+    "FieldType": "Phone",
+    "ObjectID": "84f27651-effa-42bd-8763-8e63faf2cafb",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Locale",
+    "FieldType": "Text",
+    "ObjectID": "e02b77d0-69d4-4bdc-b7c8-edc0c8bba0fb",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "BR",
+    "Ordinal": 4
+  }
+]

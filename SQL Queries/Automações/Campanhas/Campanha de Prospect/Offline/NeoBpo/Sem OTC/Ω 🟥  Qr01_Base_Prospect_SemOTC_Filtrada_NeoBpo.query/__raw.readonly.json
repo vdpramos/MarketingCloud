@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a6444b39-496c-498b-ad33-71c8850afe3c",
+  "name": "Qr01_Base_Prospect_SemOTC_Filtrada_NeoBpo",
+  "key": "71b7edac-1d5c-4d1e-ba7a-f4f0209992d9",
+  "description": "",
+  "queryText": "SELECT\n  *\nFROM\n  TB_BASE_PROSPECT_SEMOTC_TRATADA_NEOBPO\nWHERE\n  IDADE_VALIDA = 1 \n  AND CONTA_CORRENTE = 1 \n  AND PROSPECT_QUARENTENA = 0 \n  AND CONSELHEIRO = 0 \n  AND PROSPECT_CADASTRADO_SF = 0 \n  AND VALIDA_RNA = 0",
+  "targetName": "Tb_Base_Prospect_SemOTC_Filtrada_NeoBpo",
+  "targetKey": "38FC312D-9658-41CD-8800-8F3AFB50ED4D",
+  "targetId": "0caab241-ee60-eb11-a2f7-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-01-27T16:28:55.773",
+  "modifiedDate": "2021-01-27T16:31:51.23",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29370,
+  "isFrozen": false
+}

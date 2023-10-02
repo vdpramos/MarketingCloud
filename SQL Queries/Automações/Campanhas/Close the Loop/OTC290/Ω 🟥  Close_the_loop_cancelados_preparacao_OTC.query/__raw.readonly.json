@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8bfcf811-6e9d-4e89-b70d-961b4339f7d5",
+  "name": "Close_the_loop_cancelados_preparacao_OTC",
+  "key": "b4c5af38-fa33-4a07-9743-4775d8d6dbe2",
+  "description": "",
+  "queryText": "SELECT x.*\nFROM\n    (\n    \tSELECT *,\n        \t'Cancelados' AS Interacao,\n        \tROW_NUMBER() OVER (PARTITION BY CPF_CNPJ ORDER BY Inicio DESC) ranking\n    \tFROM Close_the_loop_cancelados\n    \tWHERE\n        \tId_contato NOT IN (\n        \t\tSELECT Id_contato FROM Close_the_loop_contemplados\n        \t)\n    ) x\nWHERE\n    x.ranking = 1",
+  "targetName": "Close_the_loop_preparacao_OTC_tratada",
+  "targetKey": "FCFFBBA0-F8CE-4B5B-9ADD-F136527213A4",
+  "targetId": "1b92735f-c174-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-25T13:56:44.613",
+  "modifiedDate": "2023-04-26T10:28:52.1",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 56141,
+  "isFrozen": false
+}

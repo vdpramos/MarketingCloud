@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "C443869B-F770-4938-B430-0065307AC196"
+  ],
+  "Name": [
+    "Tb_Boas_Vindas_Ourocap_ComOTC_Filtrada"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ab59e17a-3a5f-410c-b1d0-a1b9454183c6",
+  "name": "Qr00_Base_Recomando_TESTE",
+  "key": "b31bb73e-cdc9-4403-9cad-d76f37fb6d8b",
+  "description": "Test da base de recomando",
+  "queryText": "select\n  RCP.HC_CPF_CNPJ__c,\n  RCP.HC_Id_Parceiro_Cap__c,\n  RCP.ID AS RCP_ID,\n  PAG.HC_Titulo__c,\n  PAG.HC_Valor_Liquido__c,\n  PAG.HC_Data_do_pagamento__c,\n  case\n    WHEN RCP.HC_Id_Parceiro_Cap__c = 'TCBB' AND RCP.HC_Tipo_de_Pessoa__c = 'PF' then 'PF Ourocap'\n    WHEN RCP.HC_Id_Parceiro_Cap__c = 'TCBB' AND RCP.HC_Tipo_de_Pessoa__c = 'PJ' then 'PJ Ourocap'\n    ELSE 'CAP Fiador'\n  end as CAMPAIGN_GROUP,\n  case\n    when RCP.HC_Telefone_Principal__c = 'Telefone Comercial' then HC_Telefone_Comercial__c\n    when RCP.HC_Telefone_Principal__c = 'Telefone Outro' then HC_Telefone_Outro__c\n    when RCP.HC_Telefone_Principal__c = 'Telefone Residencial' then HC_Telefone_Residencial__c\n  end as Telefone_Principal,\n  HC_Telefone_Principal__c,\n  /* Telefone celular ativo */\n  case\n    when RCP.HC_Celular_1__c is not null then\n      REPLACE(\n        REPLACE(\n          REPLACE(\n            REPLACE(\n            RCP.HC_Celular_1__c\n            , ' ', '')\n          , '-', '')\n        , ')', '')\n      , '(', '')\n    when RCP.HC_Celular_2__c is not null then\n      REPLACE(\n          REPLACE(\n            REPLACE(\n              REPLACE(\n              RCP.HC_Celular_2__c\n              , ' ', '')\n            , '-', '')\n          , ')', '')\n        , '(', '')\n    when RCP.HC_Celular_3__c is not null then\n      REPLACE(\n          REPLACE(\n            REPLACE(\n              REPLACE(\n              RCP.HC_Celular_3__c\n              , ' ', '')\n            , '-', '')\n          , ')', '')\n        , '(', '')\n  end as HC_Celular,\n  HC_Celular_1__c,\n  HC_Celular_2__c,\n  HC_Celular_3__c,\n  /* E-mail preenchido */\n  case\n    when RCP.HC_Email_Principal__c = 'Brasilcap' then HC_Email_Brasilcap__c\n    when RCP.HC_Email_Principal__c = 'Comercial' then HC_Email_Comercial__c\n    when RCP.HC_Email_Principal__c = 'Pessoal' then HC_Email_Pessoal__c\n  end as Email_Principal,\n  HC_Email_Principal__c,\n  /* Endereço */\n  case\n    when RCP.HC_Endereco_Principal__c = 'Comercial' then HC_Endereco_Comercial__c\n    when RCP.HC_Endereco_Principal__c = 'Correspondencia' then HC_Endereco_Correspondencia__c\n    when RCP.HC_Endereco_Principal__c = 'Outro' then HC_Endereco_Outro__c\n    when RCP.HC_Endereco_Principal__c = 'Principal' then HC_Endereco_Principal__c\n    when RCP.HC_Endereco_Principal__c = 'Residencial' then HC_Endereco_Residencial__c\n  end as Endereco_Principal,\n  HC_Endereco_Principal__c\nfrom [HC_Relacao_Cliente_Parceiro__c_Salesforce_Test_Recomando] RCP\nINNER JOIN [HC_Titulo__c_Salesforce_Test_Recomando] TIT ON TIT.HC_Cliente_x_Parceiro__c = RCP.ID\nINNER JOIN [HC_Pagamento__c_Salesforce_Test_Recomando] PAG ON TIT.ID = PAG.HC_Titulo__c\nWHERE RCP.HC_ORIGEM__C = 'CAP'",
+  "targetName": "BASE_CAMPANHA_RECOMANDO_Test",
+  "targetKey": "B8E65A1C-53D9-4294-952D-38A3498EC6DE",
+  "targetId": "a3262990-d197-eb11-a2fc-48df37342b91",
+  "targetDescription": "Base segmentando todos os contatos para jornadas de recomando",
+  "createdDate": "2021-04-07T15:38:20.877",
+  "modifiedDate": "2021-04-07T15:40:47.237",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 31535,
+  "isFrozen": false
+}

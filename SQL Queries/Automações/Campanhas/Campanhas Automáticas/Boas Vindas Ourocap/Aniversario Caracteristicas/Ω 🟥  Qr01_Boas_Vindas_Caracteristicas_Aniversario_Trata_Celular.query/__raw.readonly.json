@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b71aa837-eb61-4fdc-aa28-4fb28e02d4b8",
+  "name": "Qr01_Boas_Vindas_Caracteristicas_Aniversario_Trata_Celular",
+  "key": "2cb93595-4884-4425-8904-ce075d17567a",
+  "description": "",
+  "queryText": "SELECT \r\n\tCPF_CNPJ,\r\n\tNumero_do_Titulo,\r\n\tSerie_do_Titulo,\r\n\tPlano_do_Titulo,\r\n\tId_Titulo,\r\n\tCONCAT('55', REPLACE(REPLACE(REPLACE(REPLACE(CELULAR, '(', ''), ')', ''), ' ', ''), '-', '')) AS CELULAR\r\nFROM Tb_Boas_Vindas_Aniversario_Clientes_E_Titulos\r\nWHERE CELULAR_VALIDO = 1",
+  "targetName": "Tb_Boas_Vindas_Aniversario_Clientes_E_Titulos",
+  "targetKey": "E8617AD9-03F0-4F92-A6FD-10B0483C0DC1",
+  "targetId": "a3b10a2b-c23d-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Base com o publico inicial",
+  "createdDate": "2022-09-26T13:53:33.73",
+  "modifiedDate": "2022-09-26T13:53:33.73",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 53595,
+  "isFrozen": false
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "HC_Codigo_de_Retorno_de_Erro__c",
+    "FieldType": "Text",
+    "ObjectID": "82fd2c5e-898d-41e5-b6b0-6e9eabfa4e6b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Descricao_do_Retorno_de_Erro__c",
+    "FieldType": "Text",
+    "ObjectID": "2e75bc88-91ec-4791-b832-ef07df272db4",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "id",
+    "FieldType": "Text",
+    "ObjectID": "3bf5b38e-3e20-4acc-aab9-6a8b35e9465c",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "cpf_cnpj",
+    "FieldType": "Text",
+    "ObjectID": "adffb446-de06-43b3-876f-4c29d42ab21a",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "NomeCompleto",
+    "FieldType": "Text",
+    "ObjectID": "71d328e7-99f8-4aca-9dbe-c82dbabcef55",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "2a2c0fcd-6bb8-4740-a583-cf81536234cc",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Id_cliente",
+    "FieldType": "Text",
+    "ObjectID": "03e679e4-3062-4b47-a68a-89295486d4df",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Nome_ClienteUnico",
+    "FieldType": "Text",
+    "ObjectID": "670b6771-eee9-43f2-9f55-2f0a4e00d297",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

@@ -1,0 +1,12 @@
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!--
+%%[
+SET @Name = [Nome]
+SET @Index = IndexOf(@Name, " ")
+IF @Index > 0 THEN
+    SET @firstName = SubString(@Name, 1, Subtract(@Index, 1))
+ELSE
+    SET @firstName = @Name
+ENDIF
+
+]%%
+--></td></tr></table>

@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "c29bbf79-074f-40d6-83cb-489ca0ffc9be",
+  "name": "Ex_Clientes_NeoBpo_Data_Execucao_Campanha",
+  "key": "c61fa06a-f668-4949-a894-e38cefd8d28a",
+  "description": "",
+  "script": "<script runat=\"server\">\n// Checa se está no momento de executar a campanha (datetime)\nPlatform(\"Core\", \"2.0\");\nvar Id_Campanha = '7016g000002NzuZAAS'; // Id campanha\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51885') ));\n\n</script>",
+  "categoryId": 1937,
+  "createdDate": "2022-01-26T10:21:08.617",
+  "modifiedDate": "2023-03-30T12:38:33.26"
+}

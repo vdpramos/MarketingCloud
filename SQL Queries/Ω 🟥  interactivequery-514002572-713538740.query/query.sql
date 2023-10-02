@@ -1,0 +1,2 @@
+select 
+rtrim(left(coalesce(CAST(sorteio as char(255)),'<null>'), 255)) as sorteio, rtrim(left(coalesce(CAST(plano as char(255)),'<null>'), 255)) as plano, rtrim(left(coalesce(CAST(Premio_Email as char(255)),'<null>'), 255)) as Premio_Email from Pos_Sorteio_Relacao_Planos

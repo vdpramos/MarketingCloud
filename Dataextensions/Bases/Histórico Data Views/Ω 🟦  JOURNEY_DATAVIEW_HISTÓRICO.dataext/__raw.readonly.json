@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "907D48F6-9C3C-400C-BAD8-B8E75EB09A64"
+  ],
+  "Name": [
+    "JOURNEY_DATAVIEW_HISTÓRICO"
+  ]
+}

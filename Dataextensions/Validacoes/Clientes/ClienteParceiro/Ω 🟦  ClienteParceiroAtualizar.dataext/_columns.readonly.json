@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "ID",
+    "FieldType": "Text",
+    "ObjectID": "ce7e7430-3350-4ef4-ae48-07b4ddbba059",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "HC_CLIENTE__C",
+    "FieldType": "Text",
+    "ObjectID": "b2db051d-e08f-4fde-834c-af229fcfe93e",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

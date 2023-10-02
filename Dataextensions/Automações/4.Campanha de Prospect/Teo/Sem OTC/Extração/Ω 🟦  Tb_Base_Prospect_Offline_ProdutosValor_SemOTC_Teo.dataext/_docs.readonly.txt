@@ -1,0 +1,8 @@
+Dataextension name: Tb_Base_Prospect_Offline_ProdutosValor_SemOTC_Teo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Cod_Parceiro         | Text(300)       | false    | false    |                 |
+| Codigo               | Text(300)       | false    | false    |                 |
+| Valor                | Text(300)       | false    | false    |                 |
+| Cod_Tipo_Plano       | Text(300)       | false    | false    |                 |

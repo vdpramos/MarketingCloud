@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "ID",
+    "FieldType": "Text",
+    "ObjectID": "a6f97850-7761-44ba-b743-528db22cb520",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "ENCARTEIRAMENTO",
+    "FieldType": "Text",
+    "ObjectID": "685ff3bf-9d8b-4750-9a2c-9f8d6fdb9e72",
+    "MaxLength": "60",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

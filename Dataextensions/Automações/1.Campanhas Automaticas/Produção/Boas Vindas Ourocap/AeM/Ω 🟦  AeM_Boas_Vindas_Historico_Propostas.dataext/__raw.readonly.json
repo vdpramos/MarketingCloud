@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "BF8E626B-E782-4AA0-AA7B-B10A653C0510"
+  ],
+  "Name": [
+    "AeM_Boas_Vindas_Historico_Propostas"
+  ]
+}

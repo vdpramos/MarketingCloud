@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "59f5822c-f73e-4038-9db6-82a0f40d4757",
+  "name": "AtualizaRA_Tratada",
+  "key": "59F5822C-F73E-4038-9DB6-82A0F40D4757",
+  "description": "",
+  "queryText": "select id, 1 as HC_renovacao_automatica__c \nfrom hc_titulo__c_salesforce \ninner join AtualizaRA RA\n    ON hc_proposta__c = RA.id_proposta\n",
+  "targetName": "AtualizaRA_Tratada",
+  "targetKey": "41E1F90A-A8CE-423A-8FD2-901D16EAA6C9",
+  "targetId": "95ffae5f-bec8-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-22T08:35:32.173",
+  "modifiedDate": "2023-03-22T08:59:01.267",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "F8AE1D9B-7176-4E70-AC9F-C5BB05A73280"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_Campanhas_ComOTC_TMKT"
+  ]
+}

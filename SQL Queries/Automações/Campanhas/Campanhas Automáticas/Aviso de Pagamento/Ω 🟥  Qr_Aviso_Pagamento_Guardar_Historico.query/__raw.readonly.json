@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "dad7f176-838a-4f6b-abf8-280057200c57",
+  "name": "Qr_Aviso_Pagamento_Guardar_Historico",
+  "key": "e7bdbb41-4536-426a-9f67-ee524cad5f84",
+  "description": "Guarda dados da execução",
+  "queryText": "SELECT\n\t*\nFROM AVISO_PAGAMENTO_ENVIO",
+  "targetName": "AVISO_PAGAMENTO_HISTORICO",
+  "targetKey": "2FB229D5-F0A3-428A-9B72-1AFB3F6F3A79",
+  "targetId": "afadfa4e-fa1a-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Conatos que já foram selecionados para a campanha",
+  "createdDate": "2022-08-15T02:09:03.337",
+  "modifiedDate": "2022-08-26T02:39:04.043",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 52082,
+  "isFrozen": false
+}

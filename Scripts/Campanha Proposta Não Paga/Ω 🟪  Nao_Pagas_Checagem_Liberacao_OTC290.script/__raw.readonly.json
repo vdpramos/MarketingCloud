@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "ad251254-0739-4f91-99ff-8998d7b6fa11",
+  "name": "Nao_Pagas_Checagem_Liberacao_OTC290",
+  "key": "a27f8359-2fb8-45fa-a4a1-64551c1e2f50",
+  "description": "Verifica se gera mais publico ou se libera a extração para OTC290",
+  "script": "<script runat=\"server\">\n\nPlatform(\"Core\", \"2.0\");\nvar Id_Campanha = '7016g000002O08TAAS'; // Nao Pagas\nvar DE_flag_name = 'Flag_LiberarExtracao_Nao_Pagas';\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\n\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51877') ));\n\n\n</script>",
+  "categoryId": 38697,
+  "createdDate": "2022-02-12T17:01:08.693",
+  "modifiedDate": "2022-02-12T17:01:08.693"
+}

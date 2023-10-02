@@ -1,0 +1,470 @@
+[
+  {
+    "_CustomObjectKey": "100",
+    "CPF_CNPJ": "21598357816",
+    "Produto": "OUROCAP AR16 PM36S - 2131",
+    "Numero_do_Titulo": "34150 / AA / 36PM2",
+    "Valor_Resgate": "7103.89",
+    "Data_Credito": "1/6/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "101",
+    "CPF_CNPJ": "26926903549",
+    "Produto": "OUROCAP NEGOCIOS UNICO 36",
+    "Numero_do_Titulo": "129801 / AA / 36PU3",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/4/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "102",
+    "CPF_CNPJ": "26926903549",
+    "Produto": "OUROCAP NEGOCIOS UNICO 36",
+    "Numero_do_Titulo": "129802 / AA / 36PU3",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/4/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "103",
+    "CPF_CNPJ": "14463898803",
+    "Produto": "OUROCAP NEGOCIOS UNICO 36",
+    "Numero_do_Titulo": "130023 / AA / 36PU6",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/8/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "104",
+    "CPF_CNPJ": "14463898803",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2009 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/17/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "105",
+    "CPF_CNPJ": "29614031972",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2893 / AA / 36PUA",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/18/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "106",
+    "CPF_CNPJ": "03463272881",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2491 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/17/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "107",
+    "CPF_CNPJ": "14463898803",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2008 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/17/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "108",
+    "CPF_CNPJ": "14463898803",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2007 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/17/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "109",
+    "CPF_CNPJ": "14463898803",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2783 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/18/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "110",
+    "CPF_CNPJ": "14463898803",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2785 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/18/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "111",
+    "CPF_CNPJ": "14463898803",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2786 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/18/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "112",
+    "CPF_CNPJ": "14463898803",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2780 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/18/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "113",
+    "CPF_CNPJ": "14463898803",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2781 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/18/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "114",
+    "CPF_CNPJ": "36051292420",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "1343 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/16/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "115",
+    "CPF_CNPJ": "03463272881",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2490 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/17/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "116",
+    "CPF_CNPJ": "14463898803",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2006 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/17/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "117",
+    "CPF_CNPJ": "14463898803",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2011 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/17/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "118",
+    "CPF_CNPJ": "14463898803",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2784 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/18/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "119",
+    "CPF_CNPJ": "14463898803",
+    "Produto": "OUROCAP PAGAMENTO ÚNICO",
+    "Numero_do_Titulo": "2012 / AA / 36PUA",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/17/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "120",
+    "CPF_CNPJ": "07208111391",
+    "Produto": "OUROCAP NV16 PM36H - 2094",
+    "Numero_do_Titulo": "164536 / AA / PM363",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/15/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "121",
+    "CPF_CNPJ": "19947194604",
+    "Produto": "OUROCAP NV16 PM36H - 2094",
+    "Numero_do_Titulo": "164995 / AA / PM363",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/19/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "122",
+    "CPF_CNPJ": "96974362820",
+    "Produto": "OUROCAP NV16 PM36H - 2094",
+    "Numero_do_Titulo": "161850 / AA / PM363",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/8/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "123",
+    "CPF_CNPJ": "13850644120",
+    "Produto": "OUROCAP NV16 PM48H - 2112",
+    "Numero_do_Titulo": "353863 / AA / PM483",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/10/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "124",
+    "CPF_CNPJ": "28251468892",
+    "Produto": "OUROCAP NV16 PM48H - 2112",
+    "Numero_do_Titulo": "360982 / AA / PM483",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/15/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "125",
+    "CPF_CNPJ": "24706370078",
+    "Produto": "OUROCAP NV16 PM36H - 2095",
+    "Numero_do_Titulo": "164550 / AA / PM365",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/15/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "126",
+    "CPF_CNPJ": "27961192972",
+    "Produto": "OUROCAP NV16 PM36H - 2096",
+    "Numero_do_Titulo": "159161 / AA / PM366",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/1/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "127",
+    "CPF_CNPJ": "76567508353",
+    "Produto": "OUROCAP NV16 PM36H - 2096",
+    "Numero_do_Titulo": "162588 / AA / PM366",
+    "Valor_Resgate": "15883.48",
+    "Data_Credito": "1/10/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "128",
+    "CPF_CNPJ": "89890116987",
+    "Produto": "OUROCAP NV16 PM48H - 2114",
+    "Numero_do_Titulo": "351186 / AA / PM486",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/8/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "129",
+    "CPF_CNPJ": "85109754934",
+    "Produto": "OUROCAP NV16 PM48H - 2116",
+    "Numero_do_Titulo": "315199 / AA / PM488",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/13/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Poupança"
+  },
+  {
+    "_CustomObjectKey": "130",
+    "CPF_CNPJ": "55591981100",
+    "Produto": "OUROCAP NV16 PM36H - 2102",
+    "Numero_do_Titulo": "162806 / AA / PM36E",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/10/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "131",
+    "CPF_CNPJ": "03724800800",
+    "Produto": "OUROCAP NV16 PM48H - 2122",
+    "Numero_do_Titulo": "354181 / AA / PM48H",
+    "Valor_Resgate": "5563.30",
+    "Data_Credito": "1/10/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "132",
+    "CPF_CNPJ": "00422539007",
+    "Produto": "OUROCAP NEGOCIOS PERIODICO 36",
+    "Numero_do_Titulo": "20229 / AA / PP36D",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/14/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "133",
+    "CPF_CNPJ": "25027255934",
+    "Produto": "OUROCAP NV16 PU36Z - 2091",
+    "Numero_do_Titulo": "9699 / AD / PU36C",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/11/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "134",
+    "CPF_CNPJ": "13040531808",
+    "Produto": "PARCELA PREMIÁVEL - PU36W",
+    "Numero_do_Titulo": "60898 / AI / PU36W",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/17/2022 12:00:00 AM",
+    "Forma_Credito": "Ordem de Pagamento"
+  },
+  {
+    "_CustomObjectKey": "135",
+    "CPF_CNPJ": "70789266687",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "91112 / AA / PUA24",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/8/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "136",
+    "CPF_CNPJ": "60233737634",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "89945 / AA / PUA24",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/2/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "137",
+    "CPF_CNPJ": "14463898803",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "92349 / AA / PUA24",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/13/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "138",
+    "CPF_CNPJ": "25023071634",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "92165 / AA / PUA24",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/13/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "139",
+    "CPF_CNPJ": "60233737634",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "89943 / AA / PUA24",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/2/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "140",
+    "CPF_CNPJ": "34279792534",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "90163 / AA / PUA24",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/3/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "141",
+    "CPF_CNPJ": "03942424088",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "92071 / AA / PUA24",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/10/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "142",
+    "CPF_CNPJ": "00664845614",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "90768 / AA / PUA24",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/7/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "143",
+    "CPF_CNPJ": "32957831953",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "93811 / AA / PUA24",
+    "Valor_Resgate": "9802.63",
+    "Data_Credito": "1/17/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "144",
+    "CPF_CNPJ": "60233737634",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "89944 / AA / PUA24",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/2/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "145",
+    "CPF_CNPJ": "02440764809",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "92203 / AA / PUA24",
+    "Valor_Resgate": "0.00",
+    "Data_Credito": "1/13/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "146",
+    "CPF_CNPJ": "03942424088",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "92070 / AA / PUA24",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/10/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "147",
+    "CPF_CNPJ": "47186720900",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "88976 / AA / PUB24",
+    "Valor_Resgate": "",
+    "Data_Credito": "12/30/2021 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "148",
+    "CPF_CNPJ": "41400658004",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "93997 / AA / PUB24",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/17/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "149",
+    "CPF_CNPJ": "47186720900",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "88977 / AA / PUB24",
+    "Valor_Resgate": "",
+    "Data_Credito": "12/30/2021 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "150",
+    "CPF_CNPJ": "41400658004",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "93996 / AA / PUB24",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/17/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  },
+  {
+    "_CustomObjectKey": "151",
+    "CPF_CNPJ": "34279792534",
+    "Produto": "Ourocap Negocios Unico 24",
+    "Numero_do_Titulo": "90160 / AA / PUC24",
+    "Valor_Resgate": "",
+    "Data_Credito": "1/3/2022 12:00:00 AM",
+    "Forma_Credito": "Conta Corrente"
+  }
+]

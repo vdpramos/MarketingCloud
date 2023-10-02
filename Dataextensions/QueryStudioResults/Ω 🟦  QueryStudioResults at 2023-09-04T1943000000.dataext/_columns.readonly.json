@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "cpf_cnpj",
+    "FieldType": "Text",
+    "ObjectID": "4e34e038-d9ef-41a5-80c8-c3cd2aea3374",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "nome",
+    "FieldType": "Text",
+    "ObjectID": "de0aefcf-09be-49a8-bc5f-e60a465a74a9",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "DATA_ORIGEM_VENDA_AGENDADA__C",
+    "FieldType": "Text",
+    "ObjectID": "96ea8b7e-8d51-44d6-ad7f-489db1ceee7c",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "ORIGEM_VENDA_AGENDADA__C",
+    "FieldType": "Text",
+    "ObjectID": "1c7bf6de-3201-453a-be91-43e980e6b1a9",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "QUANTIDADE_VENDA_AGENDADA__C",
+    "FieldType": "Text",
+    "ObjectID": "c52f26cf-47bd-44ec-a7a4-e523a01e8e7a",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "NUMERO_VENDA_AGENDADA__C",
+    "FieldType": "Text",
+    "ObjectID": "f4f4813c-37ca-4f96-ae4d-2e4961ef74d7",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "ID_VENDA_AGENDADA__C",
+    "FieldType": "Text",
+    "ObjectID": "963259ab-3c59-47d8-99d3-1e19a4c10a68",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  }
+]

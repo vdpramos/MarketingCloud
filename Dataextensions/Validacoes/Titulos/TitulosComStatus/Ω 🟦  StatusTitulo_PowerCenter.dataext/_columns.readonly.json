@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "STATUS",
+    "FieldType": "Text",
+    "ObjectID": "fcbeed67-114a-45b7-b547-6ec5360f19ad",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "DESCRICAO",
+    "FieldType": "Text",
+    "ObjectID": "7124a91e-6844-4581-8a22-7a9c94d64827",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

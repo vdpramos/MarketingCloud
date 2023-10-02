@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "CaseNumber",
+    "FieldType": "Text",
+    "ObjectID": "d8ebc3a8-c4bf-48dd-8a18-b36a3f02ca79",
+    "MaxLength": "30",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "HC_Enviar_Protocolo_via_SMS__c",
+    "FieldType": "Text",
+    "ObjectID": "7b3e5cb0-2e24-477e-86e0-fc6d2f9fe3d5",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "HC_Numero_para_SMS__c",
+    "FieldType": "Text",
+    "ObjectID": "fd1f645c-9cdd-4b01-92a2-fb9f0758bd14",
+    "MaxLength": "18",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "HC_Texto_SMS__c",
+    "FieldType": "Text",
+    "ObjectID": "fe6923d6-44c0-422c-afdb-08f020343c5b",
+    "MaxLength": "1300",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

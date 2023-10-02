@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "96cbce45-9ab7-409b-bb61-60d2a01f8d86",
+  "name": "Qr01_Propo_Ourocap_N_Pag_Trata_CxP_TESTE",
+  "key": "be7deb47-246b-4bf9-8a98-f988760e3aed",
+  "description": "",
+  "queryText": "SELECT\n\tA.HC_CPF_CNPJ__C AS ID,\n    /* CASE WHEN A.HC_CONSELHEIRO__C = 1 THEN 1 ELSE 0 END AS CONSELHEIRO, */\n    /* CASE WHEN A.HC_PEP__C = 1 THEN 1 ELSE 0 END AS CLIENTE_PEP, */\n    /* CASE WHEN A.HC_NAO_DESEJA_RECEBER_LIGACOES__C = 1 THEN 1 ELSE 0 END AS DESEJA_CONTATO_TELEFONICO, */\n    /* CASE WHEN A.HC_IDADE__C BETWEEN 18 AND 70 THEN 1 ELSE 0 END AS IDADE_VALIDA, */\n\t/* 06-10-2021 TODOS OS TELEFONES TEM QUE SER VÁLIDOS NESSA JORNADA */\n    CASE WHEN (LEN(CONCAT(B.DDD_TEL_01,B.TEL_01)) = 10 OR LEN(CONCAT(B.DDD_TEL_02,B.TEL_02)) = 10 OR LEN(CONCAT(B.DDD_TEL_03,B.TEL_03)) = 10\n     OR LEN(CONCAT(B.DDD_TEL_04,B.TEL_04)) = 11 OR LEN(CONCAT(B.DDD_TEL_05,B.TEL_05)) = 11 OR LEN(CONCAT(B.DDD_TEL_06,B.TEL_06)) = 11) THEN 1 ELSE 0 END AS POSSUI_TELEFONE_ATIVO,\n\tCASE WHEN A.HC_Status_Tel_Residencial__c = 'Inválido' THEN '' ELSE B.DDD_TEL_01 END AS DDD_TEL_01,\n\tCASE WHEN A.HC_Status_Tel_Residencial__c = 'Inválido' THEN '' ELSE B.TEL_01 END AS TEL_01,\n\tCASE WHEN A.HC_Status_Tel_Comercial__c = 'Inválido' THEN '' ELSE B.DDD_TEL_02 END AS DDD_TEL_02,\n\tCASE WHEN A.HC_Status_Tel_Comercial__c = 'Inválido' THEN '' ELSE B.TEL_02 END AS TEL_02,\n\tCASE WHEN A.HC_Status_Tel_Outro__c = 'Inválido' THEN '' ELSE B.DDD_TEL_03 END AS DDD_TEL_03,\n\tCASE WHEN A.HC_Status_Tel_Outro__c = 'Inválido' THEN '' ELSE B.TEL_03 END AS TEL_03,\n\tCASE WHEN A.HC_Status_Celular_1__c = 'Inválido' THEN '' ELSE B.DDD_TEL_04 END AS DDD_TEL_04,\n\tCASE WHEN A.HC_Status_Celular_1__c = 'Inválido' THEN '' ELSE B.TEL_04 END AS TEL_04,\n\tCASE WHEN A.HC_Status_Celular_2__c = 'Inválido' THEN '' ELSE B.DDD_TEL_05 END AS DDD_TEL_05,\n\tCASE WHEN A.HC_Status_Celular_2__c = 'Inválido' THEN '' ELSE B.TEL_05 END AS TEL_05,\n\tCASE WHEN A.HC_Status_Celular_3__c = 'Inválido' THEN '' ELSE B.DDD_TEL_06 END AS DDD_TEL_06,\n\tCASE WHEN A.HC_Status_Celular_3__c = 'Inválido' THEN '' ELSE B.TEL_06 END AS TEL_06,\n\tCASE \n\t    WHEN (A.HC_BANCO_1__C IS NOT NULL AND A.HC_AGENCIA_1__c IS NOT NULL AND A.HC_NUMERO_DA_CONTA_1__c IS NOT NULL) THEN 1\n        WHEN (A.HC_BANCO_2__C IS NOT NULL AND A.HC_AGENCIA_2__c IS NOT NULL AND A.HC_NUMERO_DA_CONTA_2__c IS NOT NULL) THEN 1\n        ELSE 0\n    END AS POSSUI_CONTA_CORRENTE\nFROM\n    HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE A\nINNER JOIN Tb_Base_Prop_Ourocap_N_Pag B ON A.HC_CPF_CNPJ__C = B.CPF_CNPJ",
+  "targetName": "Tb_Base_Prop_Ourocap_N_Pag_TESTE",
+  "targetKey": "7E837417-26A2-4C48-B95C-29095B04CC9A",
+  "targetId": "4b567221-9e82-ec11-a317-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2022-01-31T08:14:34.44",
+  "modifiedDate": "2022-01-31T08:14:34.44",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 33115,
+  "isFrozen": false
+}

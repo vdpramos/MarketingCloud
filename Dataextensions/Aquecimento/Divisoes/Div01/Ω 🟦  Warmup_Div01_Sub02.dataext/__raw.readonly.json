@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "BEAD5F2D-B8C3-47C2-A8C3-B924E8C42368"
+  ],
+  "Name": [
+    "Warmup_Div01_Sub02"
+  ]
+}

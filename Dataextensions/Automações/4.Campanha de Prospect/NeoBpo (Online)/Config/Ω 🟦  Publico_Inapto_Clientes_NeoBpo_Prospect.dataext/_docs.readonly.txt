@@ -1,0 +1,11 @@
+Dataextension name: Publico_Inapto_Clientes_NeoBpo_Prospect
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| data                 | Date            | false    | false    | GETDATE()       |
+| COMPRA_UTIMOS_30_DIAS | Boolean         | false    | false    |                 |
+| POSSUI_TITULO_ATIVO  | Boolean         | false    | false    |                 |
+| NAO_IMPORTUNE        | Boolean         | false    | false    |                 |
+| ID_CAMPANHA          | Text(20)        | false    | false    |                 |
+| CPF                  | Text(50)        | true     | false    |                 |
+| Quarentena           | Boolean         | true     | false    |                 |

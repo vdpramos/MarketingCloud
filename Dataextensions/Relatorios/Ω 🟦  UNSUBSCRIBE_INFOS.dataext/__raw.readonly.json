@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "1A366F90-B88D-4CDE-8175-7CD23F2EEE9D"
+  ],
+  "Name": [
+    "UNSUBSCRIBE_INFOS"
+  ]
+}

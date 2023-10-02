@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "5124FCD1-0922-4CD7-89DC-6C313A2E267A"
+  ],
+  "Name": [
+    "Tb_Base_Revenda_Ourocap_OTC290_TMKT"
+  ]
+}

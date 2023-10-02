@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2f2ef19f-2ffa-45e0-9edd-1db44a119e93",
+  "name": "Revenda_Ourocap_Consulta_010",
+  "key": "039427f8-4e8f-431e-bf33-952bb84271ba",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n    /* Telefone 1 */\n    Ddd_Tel_01 AS DDD1,\n    Tel_01 AS TELEFONE1,\n    Tipo_Tel_01 AS TIPO1,\n    /* Telefone 2 */\n    Ddd_Tel_02 AS DDD2,\n    Tel_02 AS TELEFONE2,\n    Tipo_Tel_02 AS TIPO2,\n    /* Telefone 3 */\n    Ddd_Tel_03  AS DDD3,\n    Tel_03 AS TELEFONE3,\n    Tipo_Tel_03 AS TIPO3,\n    /* Telefone 4 */\n    Ddd_Tel_04 AS DDD4,\n    Tel_04 AS TELEFONE4,\n    Tipo_Tel_04 AS TIPO4,\n    /* Telefone 5 */\n    Ddd_Tel_05 AS DDD5,\n    Tel_05 AS TELEFONE5,\n    Tipo_Tel_05 AS TIPO5,\n    /* Telefone 6 */\n    TEL_PRINCIPAL AS PREFERENCIAL,\n    IDADE,\n    CONVERT(VARCHAR(10), DT_NASCIMENTO, 103) AS DATA_NASCIMENTO,\n    NOME AS NOME_CLIENTE,\n    CEP,\n    UF,\n    TIPO_PESSOA AS TIPO_DE_PESSOA,\n    CPF_CNPJ,\n    SEXO,\n    PUBLICO_ALVO AS CLASSIFICACAO,\n    TIPO_CAMPANHA,\n    CONVERT(VARCHAR(10), DT_CRIACAO_MAILING, 103) AS DATA_CRIACAO,\n    CONVERT(VARCHAR(10), DT_INICIO_MAILING, 103) AS DATA_UTILIZACAO,\n    CONVERT(VARCHAR(10), DT_FIM_MAILING, 103) AS DATA_TERMINO,\n    ID_CAMPANHA AS IDCAMPANHA,\n    ID_CONTATO AS IDCONTATOS,\n    ID_CLIENTE_PARCEIRO AS IDCP\nFROM\n    Revenda_Ourocap_OTC291_Filtrada\nWHERE \n    Canal_Ultimo_Resgate = '010' \n    AND Ind_MembroCampanha = 1",
+  "targetName": "Revenda_Ourocap_Extracao_010",
+  "targetKey": "8E5F00CB-B7F1-4094-B835-8CC85E3C0612",
+  "targetId": "40a6ab7f-50e3-eb11-a304-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-07-12T14:37:08.693",
+  "modifiedDate": "2023-09-05T11:26:40.493",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 32394,
+  "isFrozen": false
+}

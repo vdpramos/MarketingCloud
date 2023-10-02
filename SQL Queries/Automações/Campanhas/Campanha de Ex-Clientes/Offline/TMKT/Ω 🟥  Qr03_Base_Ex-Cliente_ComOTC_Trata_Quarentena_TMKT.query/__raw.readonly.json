@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "338131a7-653f-4edd-8821-9bbbe8c9132d",
+  "name": "Qr03_Base_Ex-Cliente_ComOTC_Trata_Quarentena_TMKT",
+  "key": "fad1474e-a58e-406b-84c5-58840d568403",
+  "description": "",
+  "queryText": "SELECT\n    A.CPF_CNPJ AS ID,\n\tCASE WHEN Q.CPF_CNPJ IS NOT NULL THEN 1 ELSE 0 END AS QUARENTENA\nFROM\n\tTb_Base_Ex_Cliente_ComOTC_TMKT A\nLEFT JOIN TB_BASE_QUARENTENA Q ON A.CPF_CNPJ = Q.CPF_CNPJ\nAND Q.DATA_PARTICIPACAO_CAMPANHA > DATEADD(DD, -90, GETDATE())",
+  "targetName": "Tb_Base_Ex_Cliente_ComOTC_TMKT",
+  "targetKey": "EE20370A-C9B9-4E72-AE05-789F84BD99EF",
+  "targetId": "2a7431fa-bda3-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-22T17:04:13.527",
+  "modifiedDate": "2023-06-02T09:28:03.477",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 33121,
+  "isFrozen": false
+}

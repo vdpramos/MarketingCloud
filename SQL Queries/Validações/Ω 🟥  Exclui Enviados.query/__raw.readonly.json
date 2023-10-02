@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "17a2edcc-fdbc-43f3-845c-ba46e5c42b92",
+  "name": "Exclui Enviados",
+  "key": "17A2EDCC-FDBC-43F3-845C-BA46E5C42B92",
+  "description": "",
+  "queryText": "SELECT * \r\nFROM Tb_Base_Quarentena_AUX AUX\r\nWHERE NOT EXISTS\r\n(SELECT 1 \r\nFROM ExcluiQuarentena EQ \r\nWHERE EQ.CPF_CNPJ = AUX.CPF_CNPJ)",
+  "targetName": "Tb_Base_Quarentena",
+  "targetKey": "F713140F-08AB-4520-9CD5-346BDED8D642",
+  "targetId": "296dac3b-2a6b-eb11-a2fc-48df37342c98",
+  "targetDescription": "Base com contatos que participaram de campanhas nos ultimos 90 dias",
+  "createdDate": "2023-06-01T09:12:30.863",
+  "modifiedDate": "2023-07-17T15:29:17.783",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "fb35150e-9bf5-4bf4-b438-506983bba0bf",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Telefone",
+    "FieldType": "Text",
+    "ObjectID": "0f9090e7-e484-4218-b2ec-060a70024773",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

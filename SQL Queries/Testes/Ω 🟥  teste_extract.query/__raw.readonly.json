@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e56bd772-1631-42de-97fc-c7ff3b9a1976",
+  "name": "teste_extract",
+  "key": "dc6938cf-3a41-4519-98da-b61c9d15a61f",
+  "description": "",
+  "queryText": "SELECT *,\n(SELECT MAX(Onda) FROM teste_onda) AS Onda\nFROM\nteste_email\nWHERE\nemail != 'email@6'",
+  "targetName": "teste_extract",
+  "targetKey": "C33524E7-44C5-4C23-8866-DFEBDB4AF23B",
+  "targetId": "1aedc59e-999d-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2023-01-26T10:54:19.32",
+  "modifiedDate": "2023-01-26T10:54:19.32",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 28566,
+  "isFrozen": false
+}

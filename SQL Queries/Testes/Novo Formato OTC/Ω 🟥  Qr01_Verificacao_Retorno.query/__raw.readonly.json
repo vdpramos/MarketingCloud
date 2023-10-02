@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4e0341ba-603f-47b0-aec1-f229b083af33",
+  "name": "Qr01_Verificacao_Retorno",
+  "key": "44936b3e-2a9a-47ab-91e2-626fe075f8d2",
+  "description": "",
+  "queryText": "SELECT\r\n  A.CPF,\r\n  B.CODIGO_RNA,\r\n  B.ALTA_RENDA\r\nFROM TEST_BASE_OTC290_ENVIADO A\r\nINNER JOIN TEST_RESPOSTA_OTC B ON A.CPF = B.CPF",
+  "targetName": "TEST_Base_OTC291_Tratada",
+  "targetKey": "4A1E8193-83BE-40AC-8266-E978A3545C26",
+  "targetId": "e8279764-5801-ec11-a30d-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-08-19T20:11:18.7",
+  "modifiedDate": "2021-08-19T20:11:18.7",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 38464,
+  "isFrozen": false
+}

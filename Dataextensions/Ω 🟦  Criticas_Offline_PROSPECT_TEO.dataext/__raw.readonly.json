@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "914D61CA-5A78-41A3-A337-72D1AF61FD24"
+  ],
+  "Name": [
+    "Criticas_Offline_PROSPECT_TEO"
+  ]
+}

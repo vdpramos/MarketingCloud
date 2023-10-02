@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "D88208E4-1E4D-4900-B3DA-3E0EC6E60BFD"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_OTC291_Tratada_Teo"
+  ]
+}

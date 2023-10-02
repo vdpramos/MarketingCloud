@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1ff055ae-4776-4645-8a0e-8768b5fdeb42",
+  "name": "Guarda Historico - Classificacao CxP",
+  "key": "1FF055AE-4776-4645-8A0E-8768B5FDEB42",
+  "description": "",
+  "queryText": "SELECT id, hc_classificacao__c, hc_classificacao__c_old, getdate() as Data_Inclusao  \nFROM ClassificacaoCalculada",
+  "targetName": "ClassificacaoCalculada_Historico",
+  "targetKey": "78116727-EFF7-4279-ACA6-2A124F57A9F6",
+  "targetId": "91b820ad-af3a-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2023-08-14T08:58:41.29",
+  "modifiedDate": "2023-08-14T09:16:34.94",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 1930,
+  "isFrozen": false
+}

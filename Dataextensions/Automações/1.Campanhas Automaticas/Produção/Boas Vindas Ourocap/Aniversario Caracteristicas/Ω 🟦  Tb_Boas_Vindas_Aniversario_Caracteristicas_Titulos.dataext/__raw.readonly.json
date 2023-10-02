@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "D351725B-F7BA-4D64-81A9-6B11541159FD"
+  ],
+  "Name": [
+    "Tb_Boas_Vindas_Aniversario_Caracteristicas_Titulos"
+  ]
+}

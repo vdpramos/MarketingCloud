@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1bab499c-3302-4653-9478-cc51ebc86165",
+  "name": "Close_the_loop_clientes_ativos_PM",
+  "key": "6204a843-07f1-4423-97e1-8f822f1715c9",
+  "description": "",
+  "queryText": "SELECT *\nFROM Close_the_loop_clientes_ativos_titulos\nWHERE\n    Tipo_pagamento IN ('PM', 'PP')",
+  "targetName": "Close_the_loop_clientes_ativos",
+  "targetKey": "3EEA31D2-CF76-4B88-A797-7DE2D8C0FF7E",
+  "targetId": "7a3ca576-236f-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-28T07:49:39.587",
+  "modifiedDate": "2023-04-26T10:07:18.2",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 56140,
+  "isFrozen": false
+}

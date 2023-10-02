@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "2038c30e-7118-4ab2-b92d-89881f946ea7",
+  "name": "Nao_Pagas_Liberar_Geracao_Publico_Inicial",
+  "key": "e62a9900-f964-440d-ad32-1fdc6a3e875e",
+  "description": "",
+  "script": "<script runat=\"server\">\n// Confere se deve continuar produzindo publico pro OTC290\nPlatform(\"Core\", \"2.0\");\nvar Id_Campanha = '7016g000002O08TAAS'; // Campanha Online Cliente - Neobpo - Detalhe\nvar DE_flag_name = 'Flag_Publico_Inicial_Nao_Pagas'; // Flag Nao Pagas\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\n\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51713') ));\n\n</script>",
+  "categoryId": 38697,
+  "createdDate": "2022-02-11T20:03:14.91",
+  "modifiedDate": "2022-02-11T20:03:14.91"
+}

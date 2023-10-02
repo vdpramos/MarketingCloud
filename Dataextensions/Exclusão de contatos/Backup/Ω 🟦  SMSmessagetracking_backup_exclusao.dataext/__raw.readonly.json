@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "B8970320-F8FB-47DE-94BD-2F60E9D68366"
+  ],
+  "Name": [
+    "SMSmessagetracking_backup_exclusao"
+  ]
+}

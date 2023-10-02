@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b5c7e15b-7efb-4568-a3fb-ccb15851a8cc",
+  "name": "Qr00_Extracao_Base_Prospect_Offline_Clientes_SemOTC_Teo",
+  "key": "eef2b749-8cda-409c-9ac9-71a79e611810",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n  CPF,\n  'TCBB' AS COD_PARCEIRO,\n  '' AS CNPJ,\n  'Brasilcap' AS PARCEIRO_ORGANIZACAO,\n  'Brazil' AS PARCEIRO_LOCALIZACAO,\n  ID_CLIENTE_PARCEIRO AS COD_CLIENTE_MC,\n  NOME AS NOME_COMPLETO,\n  'PF' AS TIPO_PESSOA,\n  CONVERT(VARCHAR, CONVERT(DATE, DATA_NASCIMENTO, 103), 112) AS DATA_NASCIMENTO,\n  SEXO,\n  'Brasilcap' AS CLIENTE_ORGANIZACAO,\n  CONCAT(CPF, 'TCBB') AS CLIENTE_CHAVE_MIGRACAO,\n  CONCAT(CPF, 'TCBB') AS CLIENTE_CHAGE_GERAL_INTERNA,\n  'Person' AS CLIENTE_TIPO_INTERNO\nFROM\n  TB_BASE_PROSPECT_SEMOTC_FILTRADA_TEO",
+  "targetName": "Tb_Base_Prospect_Offline_Clientes_SemOTC_Teo",
+  "targetKey": "ECFC0FDF-3DFC-49E5-A5F5-05AFBA366F07",
+  "targetId": "d913b8ed-2171-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-25T16:55:37.073",
+  "modifiedDate": "2021-03-03T14:51:06.577",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29380,
+  "isFrozen": false
+}

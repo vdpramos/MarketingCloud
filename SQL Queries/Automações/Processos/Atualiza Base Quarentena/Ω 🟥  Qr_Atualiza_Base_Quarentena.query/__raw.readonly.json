@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "70dd2b93-136f-444e-bb5f-271518393cf4",
+  "name": "Qr_Atualiza_Base_Quarentena",
+  "key": "ad2fa9ff-3eb1-4aa1-b60b-bca3a2006c58",
+  "description": "",
+  "queryText": "SELECT\r\n  CPF_CNPJ,\r\n  MAX(CAMPANHA) AS CAMPANHA,\r\n  MAX(DATA_CAMPANHA) AS DATA_PARTICIPACAO_CAMPANHA\r\nFROM (\r\n  SELECT\r\n    CPF AS CPF_CNPJ,\r\n    'PROSPECT' AS CAMPANHA,\r\n    DATA_CAMPANHA\r\n  FROM\r\n    TB_CAMPANHAS_PROSPECT_HISTORICO\r\n  WHERE DATA_CAMPANHA BETWEEN DATEADD(HH, DATEDIFF(HH, 0, GETDATE()) - 1, 0)\r\n    AND DATEADD(HH, DATEDIFF(HH, 0, GETDATE()), 0)\r\n\r\n    UNION ALL\r\n\r\n  SELECT\r\n    CPF AS CPF_CNPJ,\r\n    'CLIENTE' AS CAMPANHA,\r\n    DATA_CAMPANHA\r\n  FROM\r\n    TB_CAMPANHAS_CLIENTE_HISTORICO\r\n  WHERE DATA_CAMPANHA BETWEEN DATEADD(HH, DATEDIFF(HH, 0, GETDATE()) - 1, 0)\r\n    AND DATEADD(HH, DATEDIFF(HH, 0, GETDATE()), 0)\r\n\r\n    UNION ALL\r\n\r\n  SELECT\r\n    CPF AS CPF_CNPJ,\r\n    'EX-CLIENTE' AS CAMPANHA,\r\n    DATA_CAMPANHA\r\n  FROM\r\n    TB_CAMPANHAS_EXCLIENTE_HISTORICO\r\n  WHERE DATA_CAMPANHA BETWEEN DATEADD(HH, DATEDIFF(HH, 0, GETDATE()) - 1, 0)\r\n    AND DATEADD(HH, DATEDIFF(HH, 0, GETDATE()), 0)\r\n) S\r\nGROUP BY S.CPF_CNPJ",
+  "targetName": "Tb_Base_Quarentena",
+  "targetKey": "F713140F-08AB-4520-9CD5-346BDED8D642",
+  "targetId": "296dac3b-2a6b-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-09T17:04:48.81",
+  "modifiedDate": "2023-09-05T06:50:30.007",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 29756,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1482d043-a414-4386-b37f-31fd0b729da7",
+  "name": "Qr07.1_Base_Cliente_ComOTC_Filtrada_OTC291_NeoBpo",
+  "key": "e0e73031-a920-48b0-94ce-d4e941b7bb01",
+  "description": "Geração de contatos para a campanha",
+  "queryText": "SELECT /* top 4200 */\n  A.*,\n  C.ID_CONTATO AS CONTACTID\nFROM TB_BASE_CLIENTE_OTC291_TRATADA_NEOBPO A\n/* CHECAGEM SE TOODS OS CONTATOS TIVERAM O OTC TRATADO */\nLEFT OUTER JOIN ( \n  SELECT\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\n  FROM Tb_Base_Cliente_Filtrada_ComOTC_NeoBpo_Filtrada ENV\n  LEFT JOIN TB_BASE_CLIENTE_OTC291_TRATADA_NEOBPO RET ON ENV.CPF_CNPJ = RET.CPF\n  WHERE RET.CPF IS NULL \n) B ON 1 = 1\nINNER JOIN TB_BASE_CLIENTE_FILTRADA_COMOTC_NEOBPO_FILTRADA C ON C.CPF_CNPJ = A.CPF\nWHERE \n/* SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 */\n  B.CPFS_FALTANDO_NO_OTC = 0\n  /* VALIDAÇÕES POR CONTATO DO OTC */\n  AND A.CODIGO_RNA = '000'\n  AND A.ALTA_RENDA = 0\n  /* AND A.Nivel_Relacionamento  IN ('2112',  '2202', '2602', '02112',  '02202', '02602') */",
+  "targetName": "Tb_Base_Cliente_OTC291_Filtrada_NeoBpo",
+  "targetKey": "067688C7-FBF9-4DF6-969D-ABA096AADE15",
+  "targetId": "6825d0cc-c498-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-08-31T17:40:23.013",
+  "modifiedDate": "2023-06-14T07:44:13.277",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 30538,
+  "isFrozen": false
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "E48E76BC-6724-4A4F-B151-EFD817A31F93"
+  ],
+  "Name": [
+    "PublicoAlvoDesistenciaRA"
+  ]
+}

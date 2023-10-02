@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "e935de80-61b7-476b-a295-8c80d850f0a2",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Id_Procon",
+    "FieldType": "Text",
+    "ObjectID": "3957d00e-48c5-410d-b1f0-61918a5c7892",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Flag_Nao_Importune",
+    "FieldType": "Boolean",
+    "ObjectID": "84d6a20a-ac42-48bd-b10c-26f74e3786ee",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "DAta_Insercao",
+    "FieldType": "Date",
+    "ObjectID": "79bcc536-3c46-426e-8951-1509ce7cfa4c",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Flag_Base",
+    "FieldType": "Boolean",
+    "ObjectID": "f490ac30-10cc-43b5-93e6-493caf72d073",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Flag_Fornecedor",
+    "FieldType": "Boolean",
+    "ObjectID": "c347157d-32ed-48bf-9193-5ccb75ae0791",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

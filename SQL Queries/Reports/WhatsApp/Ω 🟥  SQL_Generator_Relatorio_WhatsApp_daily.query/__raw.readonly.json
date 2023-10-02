@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a34c23a6-940c-4a23-82aa-d856a9a34629",
+  "name": "SQL_Generator_Relatorio_WhatsApp_daily",
+  "key": "aac15cef-31d0-4c01-9933-aabc2fe9a042",
+  "description": "",
+  "queryText": "SELECT \n  ContactKey,\n  CPF_CNPJ,\n  ID_PROPOSTA,\n  MobileNumber,\n  JourneyName, \n  MAX(CASE WHEN Status = 'SENT' THEN 1 ELSE 0 END) AS enviado, \n  MAX(CASE WHEN Status = 'SENT' THEN [EventDateUTC] ELSE NULL END) AS data_do_envio,\n  MAX(CASE WHEN Status = 'DELIVERED' THEN 1 ELSE 0 END) AS entregue, \n  MAX(CASE WHEN Status = 'DELIVERED' THEN [EventDateUTC] ELSE NULL END) AS data_da_entrega,\n  MAX(CASE WHEN Status = 'READ' THEN 1 ELSE 0 END) AS lido, \n  MAX(CASE WHEN Status = 'READ' THEN [EventDateUTC] ELSE NULL END) AS data_da_leitura\nFROM Tracking_Union\nGROUP BY ContactKey, CPF_CNPJ, ID_PROPOSTA, JourneyName, MobileNumber",
+  "targetName": "Tracking_Relatorio",
+  "targetKey": "79CDECFF-B89B-4F1F-A308-A0205AD75643",
+  "targetId": "fdfc60d6-f9a7-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-08T15:46:57.543",
+  "modifiedDate": "2023-03-24T08:46:29.07",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 58913,
+  "isFrozen": false
+}

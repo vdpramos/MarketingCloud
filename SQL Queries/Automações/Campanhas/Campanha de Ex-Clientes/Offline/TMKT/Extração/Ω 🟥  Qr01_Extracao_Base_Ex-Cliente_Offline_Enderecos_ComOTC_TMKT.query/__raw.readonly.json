@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "d12fcc27-9ed1-40bb-aa51-7e4e2d859a8f",
+  "name": "Qr01_Extracao_Base_Ex-Cliente_Offline_Enderecos_ComOTC_TMKT",
+  "key": "2243747b-e19b-42b5-ae89-4753cf7d865b",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  B.CPF_CNPJ AS CPF,\n  '' AS CNPJ,\n  B.CEP\nFROM\n  Tb_Base_Ex_Cliente_OTC291_Filtrada_TMKT A \n  INNER JOIN\n    Tb_Base_Ex_Cliente_ComOTC_Filtrada_TMKT B \n    ON A.CPF = B.CPF_CNPJ",
+  "targetName": "Tb_Base_Ex_Clientes_Offline_Enderecos_ComOTC_TMKT",
+  "targetKey": "98745143-59A7-4051-8719-E81F0F445D96",
+  "targetId": "2628a02f-47db-eb11-a304-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-07-02T09:34:29",
+  "modifiedDate": "2022-05-31T02:01:28.267",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 33122,
+  "isFrozen": false
+}

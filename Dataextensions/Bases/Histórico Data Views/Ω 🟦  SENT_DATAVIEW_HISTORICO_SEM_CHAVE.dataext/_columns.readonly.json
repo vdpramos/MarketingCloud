@@ -1,0 +1,134 @@
+[
+  {
+    "Name": "AccountID",
+    "FieldType": "Number",
+    "ObjectID": "05eb54eb-cec3-4e03-8bb9-f12d5265f531",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "OYBAccountID",
+    "FieldType": "Number",
+    "ObjectID": "26b06430-b79c-4fc0-929d-df07c10d10cc",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "JobID",
+    "FieldType": "Number",
+    "ObjectID": "72576cfa-e7c9-4882-90fd-b8c3b677af36",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "ListID",
+    "FieldType": "Number",
+    "ObjectID": "535fae7b-94e6-4bc9-b90a-7747f336edc3",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "BatchID",
+    "FieldType": "Number",
+    "ObjectID": "9c9e1102-8243-42b1-a9ed-2aee1d74597b",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "SubscriberID",
+    "FieldType": "Number",
+    "ObjectID": "4e3e3c87-0574-46ee-8bec-e5a482a9e6c1",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "SubscriberKey",
+    "FieldType": "Text",
+    "ObjectID": "d9163f1a-4015-4d66-945f-0606dd64407b",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "EventDate",
+    "FieldType": "Date",
+    "ObjectID": "fca8d587-69b8-4719-9542-ce70c61a8d7f",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "Domain",
+    "FieldType": "Text",
+    "ObjectID": "b27518ca-a05c-4c45-ad0e-8c8295d34dc3",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "TriggererSendDefinitionObjectID",
+    "FieldType": "Text",
+    "ObjectID": "a95592f6-74b2-4b0f-8347-ab2e10c87618",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "TriggeredSendCustomerKey",
+    "FieldType": "Text",
+    "ObjectID": "e5c284e5-0375-48a3-888b-49ba4a8238bf",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "EmailName",
+    "FieldType": "Text",
+    "ObjectID": "19942e39-d096-4533-b5c5-ba4d7e80fb93",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  }
+]

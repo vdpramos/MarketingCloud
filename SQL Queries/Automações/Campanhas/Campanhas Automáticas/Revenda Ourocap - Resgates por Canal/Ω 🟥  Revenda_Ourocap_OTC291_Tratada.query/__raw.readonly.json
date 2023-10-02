@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "065e5b23-f004-4142-83f3-cf331d1aeed5",
+  "name": "Revenda_Ourocap_OTC291_Tratada",
+  "key": "51f1248a-3626-422e-a381-ffc2bb5eac0b",
+  "description": "Guarda os contatos que foram enviados e ja temos a resposta do OTC291",
+  "queryText": "SELECT\n  B.PRIMEIRO_NOME,\n  B.SOBRENOME,\n  B.CODIGO_RNA,\n  B.VALOR_RENDIMENTOS,\n  B.TIPO_CARTEIRA,\n  B.NIVEL_RELACIONAMENTO,\n  B.FAIXA_RENDA_MENSAL,\n  B.CPF,\n  B.ALTA_RENDA,\n  A.NOME,\n  A.IDADE,\n  A.DT_NASCIMENTO,\n  A.SEXO,\n  A.TIPO_PESSOA,\n  A.DDD_TEL_01,\n  A.TEL_01,\n  A.TIPO_TEL_01,\n  A.DDD_TEL_02,\n  A.TEL_02,\n  A.DDD_TEL_03,\n  A.TEL_03,\n  A.TIPO_TEL_03,\n  A.TIPO_TEL_02,\n  A.DDD_TEL_04,\n  A.TEL_04,\n  A.TIPO_TEL_04,\n  A.DDD_TEL_05,\n  A.TEL_05,\n  A.TIPO_TEL_05,\n  A.TEL_PRINCIPAL,\n  A.ENDERECO,\n  A.CEP,\n  A.UF,\n  A.PUBLICO_ALVO,\n  A.TIPO_CAMPANHA,\n  A.PARCEIRO,\n  A.ID_CAMPANHA,\n  A.ID_PRODUTO,\n  A.ID_PRODUTO_VALOR,\n  A.ID_CLIENTE_PARCEIRO,\n  A.ID_CONTATO,\n  A.ID_CLIENTE,\n  A.DT_ULTIMO_RESGATE,\n  A.CANAL_ULTIMO_RESGATE,\n  A.TIPO_RESGATE,\n  A.VALOR_PARCELA_PRODUTO,\n  A.CPF_CNPJ,\n  A.DATA_PROXIMA_EXECUCAO,\n  A.Compra_Recente_Ourocap,\n  A.Idade_Valida,\n  A.Possui_Telefone_Ativo,\n  A.Deseja_Contato_Telefonico,\n  A.Conselheiro,\n  A.Nao_Importune,\n  A.Cliente_PEP,\n  B.CONTA_ATIVA AS Possui_Conta_Ativa,\n  A.Nao_deseja_receber_Email,\n  A.Nao_deseja_receber_Ligacoes,\n  A.Nao_deseja_receber_SMS\nFROM\n  Revenda_Ourocap_Filtrada A\nINNER JOIN TB_BASE_OTC291_TRATADA B ON A.CPF_CNPJ = B.CPF",
+  "targetName": "Revenda_Ourocap_OTC291_Tratada",
+  "targetKey": "A465C448-5C1E-4997-B214-2F0C08FF3512",
+  "targetId": "d667bf9b-dd05-ec11-a30b-48df370eabe4",
+  "targetDescription": "",
+  "createdDate": "2021-08-25T14:41:16.41",
+  "modifiedDate": "2023-08-28T15:22:09.8",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 31760,
+  "isFrozen": false
+}

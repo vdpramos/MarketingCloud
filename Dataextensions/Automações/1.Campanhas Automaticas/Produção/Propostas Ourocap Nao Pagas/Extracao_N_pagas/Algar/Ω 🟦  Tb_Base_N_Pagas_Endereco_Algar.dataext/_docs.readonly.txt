@@ -1,0 +1,8 @@
+Dataextension name: Tb_Base_N_Pagas_Endereco_Algar
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Cod_Parceiro         | Text(300)       | false    | false    |                 |
+| CPF                  | Text(300)       | false    | false    |                 |
+| CNPJ                 | Text(300)       | false    | false    |                 |
+| CEP                  | Text(300)       | false    | false    |                 |

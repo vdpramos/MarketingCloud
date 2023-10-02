@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "37553E4B-D7E4-4B95-86FA-9BB6DC79AA71"
+  ],
+  "Name": [
+    "Validacao_base_27-09_quarentena"
+  ]
+}

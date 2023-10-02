@@ -1,0 +1,200 @@
+[
+  {
+    "Name": "Id_cliente_parceiro",
+    "FieldType": "Text",
+    "ObjectID": "aa234ac8-538c-4061-9768-4a0e94018f52",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Id_cliente",
+    "FieldType": "Text",
+    "ObjectID": "4ba46ca2-219a-475b-913e-3e60885413ff",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 18
+  },
+  {
+    "Name": "Id_contato",
+    "FieldType": "Text",
+    "ObjectID": "ad6d4af3-b705-416c-a8b1-1ba723514b06",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 19
+  },
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "a06cb725-b6dc-4931-9d95-83bb7e0c3fc4",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 20
+  },
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "baa9e9f3-b7a2-4823-8423-8fb49d4c1c53",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 21
+  },
+  {
+    "Name": "Celular_1",
+    "FieldType": "Text",
+    "ObjectID": "1bd8836f-9b0b-4108-bbb0-6794c006bdbd",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 22
+  },
+  {
+    "Name": "Celular_2",
+    "FieldType": "Text",
+    "ObjectID": "a8f79337-4cb0-4c0f-9540-2b83e234c379",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 23
+  },
+  {
+    "Name": "Celular_3",
+    "FieldType": "Text",
+    "ObjectID": "90bdd821-d39f-4bcc-a689-285b9d2ab803",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 24
+  },
+  {
+    "Name": "Telefone_Brasilcap",
+    "FieldType": "Text",
+    "ObjectID": "123c3fc4-d3e9-4ad8-9d4d-4a462f0258b5",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 25
+  },
+  {
+    "Name": "Telefone_comercial",
+    "FieldType": "Text",
+    "ObjectID": "a8079542-dae6-45ba-a090-731ffe7f2983",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 26
+  },
+  {
+    "Name": "Email",
+    "FieldType": "Text",
+    "ObjectID": "b617e95e-ddc5-4aa0-b44a-e7f390e8c5da",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 27
+  },
+  {
+    "Name": "Nivel_relacionamento",
+    "FieldType": "Text",
+    "ObjectID": "757a56be-a17c-4b79-b88d-a92c18859360",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 28
+  },
+  {
+    "Name": "Tipo_pagamento",
+    "FieldType": "Text",
+    "ObjectID": "e5f33cc4-fb1f-44e4-8e2d-fb67551563ff",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 29
+  },
+  {
+    "Name": "UF",
+    "FieldType": "Text",
+    "ObjectID": "1bcafa69-541e-4c4b-98df-b90c97edbab0",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 30
+  },
+  {
+    "Name": "Idade",
+    "FieldType": "Text",
+    "ObjectID": "5cc68edf-fdf2-4ce8-81c2-597ce64445d6",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 31
+  },
+  {
+    "Name": "Data_nascimento",
+    "FieldType": "Date",
+    "ObjectID": "88685a6d-ab8b-4115-9ffa-b0e369270e81",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 32
+  },
+  {
+    "Name": "Interacao",
+    "FieldType": "Text",
+    "ObjectID": "3c3b2181-5edc-4720-9c7a-024430e740c8",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 33
+  },
+  {
+    "Name": "Nao_importune",
+    "FieldType": "Boolean",
+    "ObjectID": "ec7d364f-8660-4bae-98bf-d64dccde855e",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 34
+  }
+]

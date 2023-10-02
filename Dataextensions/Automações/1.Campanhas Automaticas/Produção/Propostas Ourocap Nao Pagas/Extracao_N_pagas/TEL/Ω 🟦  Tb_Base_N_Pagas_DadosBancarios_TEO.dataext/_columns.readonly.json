@@ -1,0 +1,112 @@
+[
+  {
+    "Name": "Cod_Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "7603be4b-1698-43d6-9511-515cc5b2abc4",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "c7d06f74-74e2-4b28-a76e-a8940f2856fc",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "117fca67-32b0-4396-8823-122c29a5c366",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Banco",
+    "FieldType": "Text",
+    "ObjectID": "2a8f10c0-4a8c-4f7a-8fa1-442f5bc0927e",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Agencia",
+    "FieldType": "Text",
+    "ObjectID": "3329108a-11eb-426f-a5cf-6a4f3aa991bd",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Digito_Verificador_Agencia",
+    "FieldType": "Text",
+    "ObjectID": "b8132d7a-e5f0-420c-931c-eb33547a5984",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "Conta_Corrente",
+    "FieldType": "Text",
+    "ObjectID": "c47dcd3d-f5d4-4b4e-a71a-e02a079b9a38",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "Digito_Verificador_Conta",
+    "FieldType": "Text",
+    "ObjectID": "2c75f75c-2aa3-4331-a6ca-7b24e84ad8f7",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "Agencia_Conta_Digito_Verificador",
+    "FieldType": "Text",
+    "ObjectID": "eb9053bb-0e3e-463a-aa24-d50431e5e241",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "Tipo_Conta",
+    "FieldType": "Text",
+    "ObjectID": "ee78e685-a95c-4aca-9507-c64d7c9e2f3b",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  }
+]

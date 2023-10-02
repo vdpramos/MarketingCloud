@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "ADB350A7-66B2-4DD9-9B46-F725A61B2E94"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_Telefones_SemOTC_Teo"
+  ]
+}

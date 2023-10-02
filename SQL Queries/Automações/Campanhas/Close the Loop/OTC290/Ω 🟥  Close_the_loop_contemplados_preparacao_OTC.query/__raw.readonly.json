@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "225042c0-7618-458e-aeee-292adeab56ef",
+  "name": "Close_the_loop_contemplados_preparacao_OTC",
+  "key": "37eb128e-f764-481f-b053-efd069c97f4b",
+  "description": "",
+  "queryText": "SELECT *,\n    'Contemplados' AS Interacao\nFROM Close_the_loop_contemplados",
+  "targetName": "Close_the_loop_preparacao_OTC_tratada",
+  "targetKey": "FCFFBBA0-F8CE-4B5B-9ADD-F136527213A4",
+  "targetId": "1b92735f-c174-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-25T13:54:51.59",
+  "modifiedDate": "2023-04-26T10:26:27.19",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 56141,
+  "isFrozen": false
+}

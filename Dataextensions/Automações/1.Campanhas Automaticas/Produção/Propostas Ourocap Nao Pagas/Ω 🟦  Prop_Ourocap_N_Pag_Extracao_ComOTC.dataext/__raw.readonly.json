@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "958F1234-8C1A-4497-A955-B6C7F640BCC1"
+  ],
+  "Name": [
+    "Prop_Ourocap_N_Pag_Extracao_ComOTC"
+  ]
+}

@@ -1,0 +1,6 @@
+SELECT DISTINCT
+    CPF,
+    ID_CAMPANHA,
+    GETDATE() AS DATA_CAMPANHA,
+    'DISCADOR' AS CANAL
+FROM Tb_Base_Ex_Cliente_OTC291_Filtrada_Algar

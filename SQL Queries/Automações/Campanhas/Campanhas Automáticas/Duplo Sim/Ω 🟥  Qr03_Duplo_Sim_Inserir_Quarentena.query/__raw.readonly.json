@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7b7f1afa-b30a-40f7-a726-1ad59bc22e50",
+  "name": "Qr03_Duplo_Sim_Inserir_Quarentena",
+  "key": "8786363c-f239-4f6b-8ba0-2ce9e2305f61",
+  "description": "",
+  "queryText": "SELECT\r\n  ID_PROPOSTA,\r\n  Getdate() as Data\r\nFROM Tb_Base_Duplo_Sim_SemOTC_Disparo",
+  "targetName": "Tb_Base_Duplo_Sim_Propostas_Comunicadas",
+  "targetKey": "8FCDD4BE-30F2-49E1-973B-2BC479F1821D",
+  "targetId": "47ba40b0-391b-ec11-a30b-48df370eabe4",
+  "targetDescription": "Propostas de contatos que ja receberam SMS",
+  "createdDate": "2021-09-21T18:41:35.11",
+  "modifiedDate": "2021-09-21T18:41:35.11",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 32389,
+  "isFrozen": false
+}

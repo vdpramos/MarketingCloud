@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "453820ee-fecd-4a21-b7d5-97977a51ed94",
+  "name": "Prospect TEO - Limpar campo integracao Serivice",
+  "key": "25698b73-a3d5-4481-99ac-1b94bc5f8df6",
+  "description": "Limpar o campo flag de envio do membro da campanha para o service",
+  "queryText": "select\ncpf,\n0 as Envio_Service_MembroCampanha \nfrom Tb_Base_Prospect_OTC291_Filtrada_Teo",
+  "targetName": "Tb_Base_Prospect_OTC291_Filtrada_Teo",
+  "targetKey": "819A77E3-D6BF-40AD-8322-DF472C215D43",
+  "targetId": "add54329-b5ab-ec11-a313-48df370ed7f5",
+  "targetDescription": "DE para envio do discador",
+  "createdDate": "2022-04-26T07:11:07.167",
+  "modifiedDate": "2022-04-26T07:11:07.167",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 48390,
+  "isFrozen": false
+}

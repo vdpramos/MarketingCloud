@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8373c1b8-5880-4c1e-ac94-3b65e37fbe46",
+  "name": "Qr_Aviso_Pagamento_Trata_Celular",
+  "key": "10703d71-0f63-485a-9dd0-f59e33840eaf",
+  "description": "Formata celular para envio de SMS",
+  "queryText": "SELECT\r\n  A.ID_CONTATO,\r\n  '55' + REPLACE(REPLACE(REPLACE(REPLACE(A.CELULAR, '(', ''), ')', ''), ' ', ''), '-', '') AS CELULAR\r\nFROM AVISO_PAGAMENTO_PUBLICO_INICIAL A\r\nWHERE CELULAR IS NOT NULL",
+  "targetName": "AVISO_PAGAMENTO_PUBLICO_INICIAL",
+  "targetKey": "433EC58E-02C6-42B0-B735-7B2093BAF571",
+  "targetId": "f8c15b6d-f71a-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Base com publico inicialmente selecionado",
+  "createdDate": "2022-08-15T02:02:27.383",
+  "modifiedDate": "2022-08-16T08:20:44.737",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 52082,
+  "isFrozen": false
+}

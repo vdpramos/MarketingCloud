@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2f19523e-db62-4a01-bfe2-8e26d2cc05bd",
+  "name": "Warmup_Div02_Sub03",
+  "key": "57ced352-b5e2-4087-a645-f98c949cd20a",
+  "description": "",
+  "queryText": "\r\nSELECT DISTINCT\r\nGmailD2S3.CPF,\r\nGmailD2S3.NOME,\r\nGmailD2S3.EMAIL,\r\nGmailD2S3.EMAIL_VALIDO,\r\nCASE\r\n\r\n  WHEN CHARINDEX(' ', GmailD2S3.NOME) = 0 THEN GmailD2S3.NOME\r\n\r\n  ELSE SUBSTRING( GmailD2S3.NOME , 1, CHARINDEX(' ', GmailD2S3.NOME) )\r\n\r\nEND AS PNOME\r\nFROM Gmail_DIV02_SUB03 GmailD2S3\r\nUNION\r\nSELECT DISTINCT\r\nMicrosodftD2S3.CPF,\r\nMicrosodftD2S3.NOME,\r\nMicrosodftD2S3.EMAIL,\r\nMicrosodftD2S3.EMAIL_VALIDO,\r\nCASE\r\n\r\n  WHEN CHARINDEX(' ', MicrosodftD2S3.NOME) = 0 THEN MicrosodftD2S3.NOME\r\n\r\n  ELSE SUBSTRING( MicrosodftD2S3.NOME , 1, CHARINDEX(' ', MicrosodftD2S3.NOME) )\r\n\r\nEND AS PNOME\r\nFROM Microsoft_DIV02_SUB03 MicrosodftD2S3\r\nUNION\r\nSELECT DISTINCT\r\nYahooD2S3.CPF,\r\nYahooD2S3.NOME,\r\nYahooD2S3.EMAIL,\r\nYahooD2S3.EMAIL_VALIDO,\r\nCASE\r\n\r\n  WHEN CHARINDEX(' ', YahooD2S3.NOME) = 0 THEN YahooD2S3.NOME\r\n\r\n  ELSE SUBSTRING( YahooD2S3.NOME , 1, CHARINDEX(' ', YahooD2S3.NOME) )\r\n\r\nEND AS PNOME\r\nFROM Yahoo_DIV02_SUB03 YahooD2S3\r\nUNION\r\nSELECT DISTINCT\r\nOutrosD2S3.CPF,\r\nOutrosD2S3.NOME,\r\nOutrosD2S3.EMAIL,\r\nOutrosD2S3.EMAIL_VALIDO,\r\nCASE\r\n\r\n  WHEN CHARINDEX(' ', OutrosD2S3.NOME) = 0 THEN OutrosD2S3.NOME\r\n\r\n  ELSE SUBSTRING( OutrosD2S3.NOME , 1, CHARINDEX(' ', OutrosD2S3.NOME) )\r\n\r\nEND AS PNOME\r\nFROM Outros_DIV02_SUB03 OutrosD2S3\r\n",
+  "targetName": "Warmup_Div02_Sub03",
+  "targetKey": "74D39566-2CF3-481F-953A-C7B7438E07D5",
+  "targetId": "000b9af8-3e35-ec11-a30b-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-10-24T22:09:25.913",
+  "modifiedDate": "2021-10-24T22:09:25.913",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 40670,
+  "isFrozen": false
+}

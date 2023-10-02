@@ -1,0 +1,10 @@
+Dataextension name: Controller_OTC290
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_CAMPANHA          | Text(50)        | true     | true     |                 |
+| NOME_CAMPANHA        | Text(50)        | false    | false    |                 |
+| PUBLICO_SEGMENTADO   | Number          | false    | false    |                 |
+| PUBLICO_DESEJADO     | Number          | false    | false    |                 |
+| OTC290_ENVIADO       | Boolean         | false    | false    |                 |
+| GERAR_PUBLICO_OTC290 | Boolean         | false    | false    |                 |

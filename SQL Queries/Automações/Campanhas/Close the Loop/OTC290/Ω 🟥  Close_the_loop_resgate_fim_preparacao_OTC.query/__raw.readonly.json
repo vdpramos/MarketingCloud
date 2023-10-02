@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ee58763d-5dff-4cb5-83eb-658ddd12b7cb",
+  "name": "Close_the_loop_resgate_fim_preparacao_OTC",
+  "key": "9b6991a9-9b75-4ccf-a3d1-78dbb6abe0ee",
+  "description": "",
+  "queryText": "SELECT x.*\nFROM\n    (\n    \tSELECT *,\n        \t'Resgate Fim' AS Interacao,\n        \tROW_NUMBER() OVER (PARTITION BY CPF_CNPJ ORDER BY Data_ultimo_resgate DESC) ranking\n    \tFROM Close_the_loop_resgate_fim\n    \tWHERE\n        \tId_contato NOT IN (\n        \t\tSELECT Id_contato FROM Close_the_loop_contemplados\n        \t)\n        \tAND Id_contato NOT IN (\n        \t\tSELECT Id_contato FROM Close_the_loop_cancelados\n        \t)\n        \tAND Id_contato NOT IN (\n        \t\tSELECT Id_contato FROM Close_the_loop_compradores\n        \t)\n        \tAND Id_contato NOT IN (\n        \t\tSELECT Id_contato FROM Close_the_loop_resgate_antecipado\n        \t)\n    ) x\nWHERE\n    x.ranking = 1",
+  "targetName": "Close_the_loop_preparacao_OTC_tratada",
+  "targetKey": "FCFFBBA0-F8CE-4B5B-9ADD-F136527213A4",
+  "targetId": "1b92735f-c174-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-25T14:11:29.08",
+  "modifiedDate": "2023-04-26T10:30:45.043",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 56141,
+  "isFrozen": false
+}

@@ -1,0 +1,7 @@
+Dataextension name: Validacao_membro_campanha_prospect_online_tmkt
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | true     | false    |                 |
+| Id_Contato           | Text(50)        | true     | false    |                 |
+| Data_criacao_membro  | Date            | false    | false    |                 |

@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "ID_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "15dd0709-f3da-402f-a438-f42ea47b4a99",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "ID_SERIE",
+    "FieldType": "Text",
+    "ObjectID": "aebe1d2a-a37f-4804-98d0-d746759477d7",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "ID_PLANO",
+    "FieldType": "Text",
+    "ObjectID": "c062f210-9762-4156-b86d-1e8c931d8056",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "ID_TITULO_SALESFORCE",
+    "FieldType": "Text",
+    "ObjectID": "e576664e-5429-40d7-a759-8ffdc7fa90a4",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "DATA_SORTEIO",
+    "FieldType": "Text",
+    "ObjectID": "5c73ed1b-20a2-4dfb-9ecc-7270345684fa",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

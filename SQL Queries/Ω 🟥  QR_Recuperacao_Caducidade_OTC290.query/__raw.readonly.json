@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a9342166-dd34-4920-844d-590e0d5f49c8",
+  "name": "QR_Recuperacao_Caducidade_OTC290",
+  "key": "A9342166-DD34-4920-844D-590E0D5F49C8",
+  "description": "",
+  "queryText": "\t\tSELECT\n\t\t  '001'+\n\t\t  REPLICATE (' ' , 9)+\n\t\t  REPLICATE ('0' , 9)+\n\t\t  '1'+\n\t\t  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, CPF_CNPJ), 15)+\n\t\t  CONVERT(VARCHAR(10), CONVERT(DATE, DT_NASCIMENTO, 103), 112)+\n\t\t  LEFT(CONVERT(VARCHAR(60), NOME) + REPLICATE(' ', 60), 60)+\n\t\t  REPLICATE (' ' , 1)+\n\t\t  REPLICATE (' ' , 2)+\n\t\t  REPLICATE (' ' , 4)+\n\t\t  REPLICATE (' ' , 10)+\n\t\t  REPLICATE (' ' , 4)+\n\t\t  REPLICATE (' ' , 10)+\n\t\t  REPLICATE (' ' , 4)+\n\t\t  REPLICATE (' ' , 10)+\n\t\t  REPLICATE (' ' , 5)+\n\t\t  REPLICATE (' ' , 2)+\n\t\t  REPLICATE (' ' , 73)+\n\t\t  REPLICATE (' ' , 70) AS BASE\n\t\tFROM\n\t\t  Tb_Recuperacao_Caducidade_Tratada\n\t    where DT_NASCIMENTO is not null",
+  "targetName": "Recuperacao_Caducidade_OTC290",
+  "targetKey": "704002BF-3FC8-44AA-ABBA-6718342DF697",
+  "targetId": "73bda98d-d03a-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2023-06-12T07:59:36.267",
+  "modifiedDate": "2023-08-22T09:35:28.44",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

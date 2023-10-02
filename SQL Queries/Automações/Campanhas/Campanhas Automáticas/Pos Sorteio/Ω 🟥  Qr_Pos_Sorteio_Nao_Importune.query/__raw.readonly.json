@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "832a5d3c-678b-4990-b96b-6efad1ba6b9b",
+  "name": "Qr_Pos_Sorteio_Nao_Importune",
+  "key": "cb0e077d-4995-4c5e-8fa9-8f485c1c85ff",
+  "description": "Marca quem estiver no Nao Importune",
+  "queryText": "SELECT\n\tA.CPF,\n\tA.ID_TITULO,\n\t1 AS NAO_IMPORTUNE\nFROM TB_POS_SORTEIO A\nINNER JOIN TB_BASE_NAO_IMPORTUNE N ON ISNULL(RIGHT(a.CELULAR, 11), '00000000000') = LTRIM(RTRIM(N.TELEFONE))\nWHERE CELULAR != NULL",
+  "targetName": "Tb_Pos_Sorteio",
+  "targetKey": "E510809D-0594-4C6E-931E-8FAD033FEEBB",
+  "targetId": "87dd0d3c-eff7-ec11-a5b6-d4f5ef66aed7",
+  "targetDescription": "Publico Inicial",
+  "createdDate": "2022-06-29T15:14:57.1",
+  "modifiedDate": "2022-06-29T15:14:57.1",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 50784,
+  "isFrozen": false
+}

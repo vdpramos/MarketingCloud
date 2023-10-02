@@ -1,0 +1,6 @@
+Dataextension name: ClienteParceiroAtualizar
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID                   | Text(50)        | false    | false    |                 |
+| HC_CLIENTE__C        | Text(50)        | false    | false    |                 |

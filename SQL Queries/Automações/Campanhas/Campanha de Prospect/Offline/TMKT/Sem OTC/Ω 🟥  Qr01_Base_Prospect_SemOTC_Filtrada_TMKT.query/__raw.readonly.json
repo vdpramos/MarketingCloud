@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "c4dc00dd-587a-4956-b75f-694e9004d571",
+  "name": "Qr01_Base_Prospect_SemOTC_Filtrada_TMKT",
+  "key": "937432ce-7a85-459c-bdf9-1a94ac949d7c",
+  "description": "",
+  "queryText": "SELECT\n  *\nFROM\n  TB_BASE_PROSPECT_SEMOTC_TRATADA_TMKT\nWHERE\n  IDADE_VALIDA = 1 \n  AND CONTA_CORRENTE = 1 \n  AND Quarentena = 0 \n  AND CONSELHEIRO = 0 \n  AND CLIENTE = 0 \n  AND VALIDA_RNA = 0",
+  "targetName": "Tb_Base_Prospect_SemOTC_Filtrada_TMKT",
+  "targetKey": "ACACB992-8AEF-4799-9B30-3497F479AC0E",
+  "targetId": "3454ae3b-2c71-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-01-27T16:29:59.167",
+  "modifiedDate": "2021-02-26T16:46:13.057",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29374,
+  "isFrozen": false
+}

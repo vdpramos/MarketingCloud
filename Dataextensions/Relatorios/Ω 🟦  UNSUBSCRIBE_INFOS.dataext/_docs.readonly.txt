@@ -1,0 +1,7 @@
+Dataextension name: UNSUBSCRIBE_INFOS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| JobID                | Number          | false    | false    |                 |
+| EventDate            | Date            | false    | false    |                 |
+| SubscriberKey        | Text(254)       | true     | true     |                 |

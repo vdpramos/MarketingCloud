@@ -1,0 +1,167 @@
+[
+  {
+    "Name": "Cod_Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "07658d89-0097-497a-b37e-b105e805a242",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "a9a4bc25-5aa2-4474-ad6e-252e5159ce56",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "43b8857e-f460-4070-bda7-45cf52a17aba",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Parceiro_Organizacao",
+    "FieldType": "Text",
+    "ObjectID": "16eed518-b8fc-4f0c-a1f3-ec1d8fc71d88",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Parceiro_Localizacao",
+    "FieldType": "Text",
+    "ObjectID": "7c9ac1d1-1fd8-498b-9bee-c30201af8bd4",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Cod_Cliente_MC",
+    "FieldType": "Text",
+    "ObjectID": "b37d9f72-b53a-4344-9e7c-1b51e87a7916",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "Nome_Completo",
+    "FieldType": "Text",
+    "ObjectID": "e351480c-6851-42d8-9766-f3a0fe15c555",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "Tipo_Pessoa",
+    "FieldType": "Text",
+    "ObjectID": "2b34f1a5-fe5a-4167-8646-882e65c31b7c",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "Data_Nascimento",
+    "FieldType": "Text",
+    "ObjectID": "c63b83ff-b8f2-4772-b564-290519ee8b56",
+    "MaxLength": "300",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 17
+  },
+  {
+    "Name": "Sexo",
+    "FieldType": "Text",
+    "ObjectID": "b727d987-8cf3-4d1d-b612-7e69eba56bf6",
+    "MaxLength": "300",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 18
+  },
+  {
+    "Name": "Cliente_Organizacao",
+    "FieldType": "Text",
+    "ObjectID": "71c4443e-b37c-4292-89e0-54b3eeec2a86",
+    "MaxLength": "300",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 19
+  },
+  {
+    "Name": "Cliente_Chave_Migracao",
+    "FieldType": "Text",
+    "ObjectID": "c32e03f1-1a7d-4837-b155-959cc0aff691",
+    "MaxLength": "300",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 20
+  },
+  {
+    "Name": "Cliente_Chage_Geral_Interna",
+    "FieldType": "Text",
+    "ObjectID": "37e3bb6b-a406-40a2-ab9e-9a498aa09fba",
+    "MaxLength": "300",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 21
+  },
+  {
+    "Name": "Cliente_Tipo_Interno",
+    "FieldType": "Text",
+    "ObjectID": "df7ca23b-7eab-4139-9455-9ac870f7be8f",
+    "MaxLength": "300",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 22
+  },
+  {
+    "Name": "Inicio_Trailler",
+    "FieldType": "Text",
+    "ObjectID": "95edb384-1d2a-43cb-965d-89838fe059c0",
+    "MaxLength": "300",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 23
+  }
+]

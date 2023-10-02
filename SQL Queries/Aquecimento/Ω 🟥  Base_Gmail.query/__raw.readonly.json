@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7f434110-7142-4a72-aa20-8035aa2d1ae7",
+  "name": "Base_Gmail",
+  "key": "bade4212-3531-4f40-ad9f-404dfeb1983f",
+  "description": "",
+  "queryText": "\nSELECT DISTINCT\nBf.CPF,\nBF.NOME,\nBF.EMAIL,\nBF.EMAIL_VALIDO\nFROM Base_Final BF\nWhere\nEmail like '%@gmail.com%'\nOR\nEmail like '%@googlemail.com%'\n",
+  "targetName": "Base_Gmail",
+  "targetKey": "D86D2824-3EF1-449E-8020-97F7864D5846",
+  "targetId": "ed4af198-d32f-ec11-a30b-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-10-17T23:29:28.86",
+  "modifiedDate": "2021-10-17T23:45:32.74",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 40397,
+  "isFrozen": false
+}

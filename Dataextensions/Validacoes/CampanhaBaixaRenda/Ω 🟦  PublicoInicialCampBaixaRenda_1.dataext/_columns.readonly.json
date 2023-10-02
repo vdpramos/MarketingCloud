@@ -1,0 +1,167 @@
+[
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "c1b4d2d4-f647-48e4-8cdd-b860512dcd28",
+    "MaxLength": "200",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "d9294712-1109-439b-83b8-cf40bb88519e",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Data_Nascimento",
+    "FieldType": "Text",
+    "ObjectID": "fc040c8e-9c0a-47f1-9073-649dcd58772d",
+    "MaxLength": "200",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Agencia",
+    "FieldType": "Text",
+    "ObjectID": "8ceb4189-2ca4-4cf1-b309-23fbefeb5f71",
+    "MaxLength": "200",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Conta",
+    "FieldType": "Text",
+    "ObjectID": "c2b636f9-9c8a-4164-9374-3efdb0505683",
+    "MaxLength": "200",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Tipo_Conta",
+    "FieldType": "Text",
+    "ObjectID": "38dc359f-e7ee-4dd0-b1b3-01cf64416653",
+    "MaxLength": "200",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "Sexo",
+    "FieldType": "Text",
+    "ObjectID": "2af219db-801a-4d77-afeb-bd0e24c2fe4b",
+    "MaxLength": "200",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "CEP",
+    "FieldType": "Text",
+    "ObjectID": "13c0d1f3-02cb-4683-86c5-11229a377a6a",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "DDD_01",
+    "FieldType": "Text",
+    "ObjectID": "416e8f0a-539b-42c2-90cf-10d39ef5110d",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "TEL_01",
+    "FieldType": "Text",
+    "ObjectID": "449bc5ff-34f5-4848-8c1d-664163041f8f",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "DDD_02",
+    "FieldType": "Text",
+    "ObjectID": "fff8e437-b32c-424c-bc42-a57cecfa6c71",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "TEL_02",
+    "FieldType": "Text",
+    "ObjectID": "06b4ba91-9771-4e3f-9901-bdddf8ba922d",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "DDD_03",
+    "FieldType": "Text",
+    "ObjectID": "d7b9fae9-ece6-4d0e-a6a1-4ab452b7c14d",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "TEL_03",
+    "FieldType": "Text",
+    "ObjectID": "381f20ba-d2d0-4cc3-97c6-437107da39e6",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "MCI",
+    "FieldType": "Text",
+    "ObjectID": "acff6895-bea7-4295-bf1e-27c5baa9f197",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 44
+  }
+]

@@ -1,0 +1,29 @@
+Dataextension name: Tb_Boas_Vindas_Doadin_Prospostas
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | true     | true     |                 |
+| Nome                 | Text(255)       | false    | false    |                 |
+| Quarentena           | Text(50)        | false    | false    |                 |
+| Id_Campanha          | Text(50)        | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| Id_Conta             | Text(50)        | false    | false    |                 |
+| Nao_Importune        | Boolean         | false    | false    | false           |
+| NAO_DESEJA_RECEBER_EMAIL | Boolean         | false    | false    |                 |
+| NAO_DESEJA_RECEBER_SMS | Boolean         | false    | false    |                 |
+| EMAIL                | EmailAddress    | false    | false    |                 |
+| EMAIL_VALIDO         | Boolean         | false    | false    |                 |
+| CELULAR              | Text(20)        | false    | false    |                 |
+| CELULAR_VALIDO       | Boolean         | false    | false    |                 |
+| Id_Proposta          | Text(20)        | true     | true     |                 |
+| TITULOS_ANTERIORES_ATIVOS | Number          | false    | false    | 0               |
+| TITULOS_ANTERIORES_INATIVOS | Number          | false    | false    | 0               |
+| CreatedDate          | Date            | false    | false    |                 |
+| FLAG_WHATSAPP        | Boolean         | false    | false    | false           |
+| DATA_ORIGEM_VENDA_AGENDADA__C | Date            | false    | false    |                 |
+| ORIGEM_VENDA_AGENDADA__C | Text(200)       | false    | false    |                 |
+| QUANTIDADE_VENDA_AGENDADA__C | Text(50)        | false    | false    |                 |
+| NUMERO_VENDA_AGENDADA__C | Text(50)        | false    | false    |                 |
+| ID_VENDA_AGENDADA__C | Text(50)        | false    | false    |                 |
+| NOME_PARCEIRO        | Text(50)        | false    | false    |                 |

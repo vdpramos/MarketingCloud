@@ -1,0 +1,9 @@
+Dataextension name: Warmup_Div04_Sub03
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | true     | true     |                 |
+| NOME                 | Text(400)       | false    | false    |                 |
+| EMAIL                | EmailAddress    | false    | false    |                 |
+| EMAIL_VALIDO         | Boolean         | false    | false    |                 |
+| PNOME                | Text(50)        | false    | false    |                 |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3717948c-ea34-4876-bd71-151cfd9c1961",
+  "name": "Qr05.1_Base_Prop_Ourocap_N_Pag_OTC291",
+  "key": "8afcc766-413e-4f1e-9f27-6457d0ab59ed",
+  "description": "Recebe resposta OTC291 e guard",
+  "queryText": "SELECT\n  A.CODIGO_PARCEIRO,\n  A.ID_CLIENTE,\n  A.CODIGO_MCI,\n  A.TIPO_PESSOA,\n  A.CODIGO_CIC,\n  A.DT_NASCIMENTO,\n  A.NOME,\n  A.SEXO,\n  A.UF_RESIDENCIAL,\n  A.DDD1,\n  A.TELEFONE1,\n  A.DDD2,\n  A.TELEFONE2,\n  A.DDD3,\n  A.TELEFONE3,\n  A.CODIGO_PLANO,\n  A.ORIGEM_SOLICITACAO,\n  A.FILLER,\n  A.CODIGO_RNA,\n  A.VALOR_RENDIMENTOS,\n  A.TIPO_CARTEIRA,\n  A.NIVEL_RELACIONAMENTO,\n  A.DATA_INFORMACAO,\n  A.FILLER2,\n  A.CPF,\n  UPPER(SUBSTRING(B.NOME, 1, CHARINDEX(' ', B.NOME) - 1)) AS PRIMEIRO_NOME,\n  UPPER(SUBSTRING(B.NOME, CHARINDEX(' ', B.NOME) + 1, LEN(B.NOME))) AS SOBRENOME,\n  A.DT_NASCIMENTO_SF,\n  CONCAT(A.CPF,'Cliente') AS CPF_TIPO_RELACIONAMENTO,\n  B.CPF_CNPJ_CODIGO_DO_PARCEIRO,\n  B.ID_CLIENTE_PARCEIRO,\n  B.Id_Contato,\n  B.ID_CAMPANHA,\n  A.FAIXA_RENDA_MENSAL,\n  A.Alta_Renda,\n  B.DATA_PROXIMA_EXECUCAO\nFROM\n  TB_BASE_OTC291_TRATADA A\nINNER JOIN Tb_Base_Prop_Ourocap_N_Pag_Filtrada B ON A.CPF = B.CPF_CNPJ",
+  "targetName": "Prop_Ourocap_N_Pag_OTC291_Tratada",
+  "targetKey": "3455CF47-98FB-4EDA-AE6A-40B6F0DA11FA",
+  "targetId": "109f15aa-9307-ec11-a30b-48df370eabe4",
+  "targetDescription": "Guarda retorno do OTC291",
+  "createdDate": "2021-08-27T18:36:52.74",
+  "modifiedDate": "2023-09-04T11:58:22.993",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 33115,
+  "isFrozen": false
+}

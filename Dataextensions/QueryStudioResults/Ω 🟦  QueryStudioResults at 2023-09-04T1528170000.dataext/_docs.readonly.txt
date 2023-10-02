@@ -1,0 +1,7 @@
+Dataextension name: QueryStudioResults at 2023-09-04T1528170000
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| automationinstancestatus | Text(255)       | false    | false    |                 |
+| activityName         | Text(255)       | false    | false    |                 |
+| activityType         | Text(255)       | false    | false    |                 |

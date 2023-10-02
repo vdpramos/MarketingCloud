@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "Id_Cliente_Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "99e7d5c2-340e-4e37-b91d-ef0ea6519691",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "91cc75d5-9f2d-480a-b326-04cc116340af",
+    "MaxLength": "200",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Data_Nascimento",
+    "FieldType": "Date",
+    "ObjectID": "0a8b6e9a-5035-4c63-8904-7908ccc0ca36",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Data_Campanha",
+    "FieldType": "Date",
+    "ObjectID": "39457f89-3758-4f49-9db2-555fd5e429a0",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GetDate()",
+    "Ordinal": 11
+  },
+  {
+    "Name": "Id_Contato",
+    "FieldType": "Text",
+    "ObjectID": "5dc88e62-76af-4b90-a624-e9df1d884231",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  }
+]

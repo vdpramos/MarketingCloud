@@ -1,0 +1,6 @@
+Dataextension name: Tb_Fornecedores_Teste
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Fornecedor           | Text(50)        | false    | false    |                 |
+| Quantidade           | Text(50)        | false    | false    |                 |

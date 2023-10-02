@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "BAF8970C-2AA7-450F-A67C-8E531ECA5850"
+  ],
+  "Name": [
+    "Tb_Base_Prop_Ourocap_N_Pag_Offline"
+  ]
+}

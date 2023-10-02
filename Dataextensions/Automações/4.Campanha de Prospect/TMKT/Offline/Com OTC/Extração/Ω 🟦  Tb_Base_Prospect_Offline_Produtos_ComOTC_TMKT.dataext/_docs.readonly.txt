@@ -1,0 +1,36 @@
+Dataextension name: Tb_Base_Prospect_Offline_Produtos_ComOTC_TMKT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Cod_Parceiro         | Text(300)       | false    | false    |                 |
+| Cod_Produto          | Text(300)       | false    | false    |                 |
+| Nome_Produto         | Text(300)       | false    | false    |                 |
+| Descricao            | Text(300)       | false    | false    |                 |
+| Num_Titulos_Serie    | Text(300)       | false    | false    |                 |
+| Dt_Inicio_Venda      | Text(300)       | false    | false    |                 |
+| Dt_Fim_Venda         | Text(300)       | false    | false    |                 |
+| Dia_Debito           | Text(300)       | false    | false    |                 |
+| Qtd_Teimosinha       | Text(300)       | false    | false    |                 |
+| Penalidade_Atraso    | Text(300)       | false    | false    |                 |
+| Num_Meses_Vigencia   | Text(300)       | false    | false    |                 |
+| Tipo_Pagamento       | Text(300)       | false    | false    |                 |
+| Num_Parcelas         | Text(300)       | false    | false    |                 |
+| Periodicidade_Reajuste | Text(300)       | false    | false    |                 |
+| Perc_Atualizacao_Saldo | Text(300)       | false    | false    |                 |
+| Perc_Bonus           | Text(300)       | false    | false    |                 |
+| Periodicidade_Extrato | Text(300)       | false    | false    |                 |
+| Prazo_Max_Prorrogacao_Vigencia | Text(300)       | false    | false    |                 |
+| Num_Meses_Caducidade | Text(300)       | false    | false    |                 |
+| Indicador_Resgate_Parcial | Text(300)       | false    | false    |                 |
+| Valor_Min_Resgate    | Text(300)       | false    | false    |                 |
+| Perc_Max_Resgate     | Text(300)       | false    | false    |                 |
+| Qtd_Min_Parcelas_Pagas_Resgate_Antecipado | Text(300)       | false    | false    |                 |
+| Mes_Resgate_Parcial_Permitido | Text(300)       | false    | false    |                 |
+| Prazo_Resgate_Final  | Text(300)       | false    | false    |                 |
+| Intervalo_Resgate_Parcial | Text(300)       | false    | false    |                 |
+| Prazo_Carencia_Resgate_Antecipado | Text(300)       | false    | false    |                 |
+| Base_Sorteio         | Text(300)       | false    | false    |                 |
+| Sorteios             | Text(300)       | false    | false    |                 |
+| Chance_Contemplacao  | Text(300)       | false    | false    |                 |
+| Tipo_Sorteio         | Text(300)       | false    | false    |                 |
+| Info_Renovacao_Automatica | Text(300)       | false    | false    |                 |

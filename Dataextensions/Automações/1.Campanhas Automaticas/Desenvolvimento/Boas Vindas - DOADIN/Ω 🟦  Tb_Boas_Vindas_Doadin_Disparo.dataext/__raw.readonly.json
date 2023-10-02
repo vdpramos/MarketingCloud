@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "172AB09A-EFB7-42B4-BC19-F5A500D462B7"
+  ],
+  "Name": [
+    "Tb_Boas_Vindas_Doadin_Disparo"
+  ]
+}

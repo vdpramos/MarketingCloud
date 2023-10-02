@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "bd7b3301-54e7-46a7-b140-97827c1abb33",
+  "name": "validar_base_boas_vindas",
+  "key": "3c0f2908-4cf9-4d29-8966-9865e50b46f9",
+  "description": "",
+  "queryText": "select top 2 *\nfrom\nTB_BOAS_VINDAS_OUROCAP_CLIENTES_E_TITULOS_FILTRO",
+  "targetName": "validar_caracteristicas",
+  "targetKey": "08B1A869-47D4-4B02-BFB1-9A1DA5A42A9F",
+  "targetId": "0eac3537-cf56-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Base com o publico para o disparo",
+  "createdDate": "2022-10-24T05:59:31.84",
+  "modifiedDate": "2022-12-07T10:54:37.94",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 37320,
+  "isFrozen": false
+}

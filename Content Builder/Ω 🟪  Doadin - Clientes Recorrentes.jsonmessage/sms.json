@@ -1,0 +1,17 @@
+{
+  "channel": "sms",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:previewbycodetype": {
+    "locale": "BR",
+    "supportsConcatenation": true
+  },
+  "display:message": "Parabens por fazer o Doadin! Estamos felizes com a doacao e na torcida para que seja um dos proximos premiados.",
+  "currentColumn": 0,
+  "display:message:display": "Parabens por fazer o Doadin! Estamos felizes com a doacao e na torcida para que seja um dos proximos premiados.",
+  "template": "sms",
+  "contents": [],
+  "shortLinks": [],
+  "uncheckedPanels": []
+}

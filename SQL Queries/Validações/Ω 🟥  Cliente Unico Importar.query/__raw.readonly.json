@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "71ba80be-f011-4f49-8a85-6d881129cdb9",
+  "name": "Cliente Unico Importar",
+  "key": "4fd62dc4-f2e6-4a69-8b32-f1eef37adb4a",
+  "description": "",
+  "queryText": "select cpf_cnpj from ClienteParceiroSemClienteUnico",
+  "targetName": "ClienteParceiroSemClienteUnico_ConsultarOrigem",
+  "targetKey": "3450090B-5281-4675-8C92-DB53BBB03899",
+  "targetId": "701b757e-aaa7-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-08T06:17:40.017",
+  "modifiedDate": "2023-02-08T06:17:40.017",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

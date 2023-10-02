@@ -1,0 +1,47 @@
+Dataextension name: AeM_propostas_n_pagas_vfinal
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| HC_Agendamento__c    | Date            | false    | false    |                 |
+| HC_Chave_CxP_Subscritor__c | Text(255)       | false    | false    |                 |
+| HC_Chave_parceiro__c | Text(255)       | false    | false    |                 |
+| HC_Codigo_do_Parceiro__c | Text(255)       | false    | false    |                 |
+| HC_Codigo_do_Produto__c | Text(50)        | false    | false    |                 |
+| HC_Data_da_Venda__c  | Date            | false    | false    |                 |
+| HC_Forma_de_Credito_Formula__c | Text(255)       | false    | false    |                 |
+| Situacao             | Text(255)       | false    | false    |                 |
+| Nome da Proposta     | Text(50)        | false    | false    |                 |
+| Tipo de Cliente      | Text(50)        | false    | false    |                 |
+| Tipo de Pessoa       | Text(50)        | false    | false    |                 |
+| Valor da Parcela     | Text(50)        | false    | false    |                 |
+| Tipo de Venda        | Text(50)        | false    | false    |                 |
+| Produto Relacionamento | Text(50)        | false    | false    |                 |
+| CPF_CNPJ             | Text(255)       | false    | false    |                 |
+| HC_Forma_de_Debito_Formula__c | Text(50)        | false    | false    |                 |
+| Id                   | Text(18)        | true     | true     |                 |
+| HC_Celular_1__c      | Phone           | false    | false    |                 |
+| Locale               | Locale          | false    | false    |                 |
+| NAO_DESEJA_RECEBER_EMAIL | Boolean         | false    | false    |                 |
+| NAO_DESEJA_RECEBER_SMS | Boolean         | false    | false    |                 |
+| NAO_IMPORTUNE        | Boolean         | false    | false    |                 |
+| Nome                 | Text(200)       | false    | false    |                 |
+| HC_Familia_do_Produto__c | Text(255)       | false    | false    |                 |
+| Ddd_Tel_01           | Text(10)        | false    | false    |                 |
+| Tel_01               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_01          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_02           | Text(10)        | false    | false    |                 |
+| Tel_02               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_02          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_03           | Text(10)        | false    | false    |                 |
+| Tel_03               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_03          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_04           | Text(10)        | false    | false    |                 |
+| Tel_04               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_04          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_05           | Text(10)        | false    | false    |                 |
+| Tel_05               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_05          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_06           | Text(10)        | false    | false    |                 |
+| Tel_06               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_06          | Text(50)        | false    | false    |                 |
+| Tel_Principal        | Text(50)        | false    | false    |                 |

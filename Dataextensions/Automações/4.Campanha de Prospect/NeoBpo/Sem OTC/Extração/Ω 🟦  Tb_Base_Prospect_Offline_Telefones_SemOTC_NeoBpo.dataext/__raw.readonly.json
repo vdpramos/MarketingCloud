@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "D70DDDE3-B200-4503-8C47-3466CE7A5CBD"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_Telefones_SemOTC_NeoBpo"
+  ]
+}

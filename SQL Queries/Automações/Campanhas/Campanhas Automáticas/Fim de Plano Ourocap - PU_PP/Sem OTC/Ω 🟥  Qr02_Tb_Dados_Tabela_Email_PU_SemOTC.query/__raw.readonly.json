@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "f4c9fe02-5552-4527-b406-67f5bec4c06f",
+  "name": "Qr02_Tb_Dados_Tabela_Email_PU_SemOTC",
+  "key": "94c9645c-da33-428c-a2c1-d161799d4723",
+  "description": "",
+  "queryText": "SELECT\nA.CPF_CNPJ,\nC.HC_Valor_Liquido__c as Valor_Resgate,\nC.NAME as Numero_do_Titulo,\nC.HC_Fim_previsto__c as Data_Credito,\nC.HC_Meio_de_Credito__c as Forma_Credito,\nD.HC_Descricao__c AS Produto\nFROM Fim_Plano_PU_semOTC_Filtrado A\nINNER JOIN HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE B ON A.CPF_CNPJ = B.HC_CPF_CNPJ__c\nINNER JOIN HC_TITULO__C_SALESFORCE C ON C.HC_CLIENTE_X_PARCEIRO__C = B.ID\nINNER JOIN HC_PRODUTO__C_SALESFORCE D ON C.HC_produtoRelacionado__c = D.ID\nINNER JOIN CAMPAIGN_SALESFORCE E ON E.HC_PARCEIRO__C = B.HC_PARCEIRO__C\nWHERE CONVERT(DATE, C.HC_Fim_previsto__c) BETWEEN HC_Data_inicial_do_periodo_de_resgate__c AND HC_Data_fim_do_periodo_de_resgate__c\nAND UPPER(D.HC_Descricao__c) not like '%POSTALCAP%'\nAND E.Id = '7016g00000075QNAAY'",
+  "targetName": "Tb_Dados_Tabela_Email_PU",
+  "targetKey": "913D333E-3819-457D-8141-8FC7C19BB338",
+  "targetId": "f78c6de5-1467-ec11-a311-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2022-01-03T16:08:44.077",
+  "modifiedDate": "2022-06-06T11:02:28.63",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 43885,
+  "isFrozen": false
+}

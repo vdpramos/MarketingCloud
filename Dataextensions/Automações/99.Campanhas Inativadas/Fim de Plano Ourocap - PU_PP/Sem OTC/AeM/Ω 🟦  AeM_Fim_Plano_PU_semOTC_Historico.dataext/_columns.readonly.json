@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "TITULO_ID",
+    "FieldType": "Text",
+    "ObjectID": "87aa1051-b8ac-458c-8621-2b5d16ff1045",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "CreatedDate",
+    "FieldType": "Date",
+    "ObjectID": "71a3a312-0e6c-4a9f-8579-7b529f3cbf8f",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GETDATE()",
+    "Ordinal": 1
+  }
+]

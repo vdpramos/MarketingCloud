@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a24130aa-8143-4577-98ae-3da917966b3e",
+  "name": "tmp_resultados_valid_recomando",
+  "key": "5731e7e4-5de0-4cf7-9527-4f1ab3037326",
+  "description": "",
+  "queryText": "select\n  q.HC_CPF_CNPJ__c,\n  q.result,\n  q.campaign_group,\n  q.HC_Valor_Liquido__c,\n  HC_Valor_minimo_a_pagar__c,\n  HC_Valor_maximo_a_pagar__c,\n  case\n    when q.[HC_Data_do_pagamento__c] is null then ''\n    else concat(\n      CONVERT(varchar(10), q.[HC_Data_do_pagamento__c], 103),\n      ' ',\n      CONVERT(varchar(8), q.[HC_Data_do_pagamento__c], 114)\n    )\n  end as [HC_Data_do_pagamento__c],\n  case\n    when [HC_Data_inicial_do_periodo_de_queda__c] is null then ''\n    else concat(\n      CONVERT(varchar(10), [HC_Data_inicial_do_periodo_de_queda__c], 103),\n      ' ',\n      CONVERT(varchar(8), [HC_Data_inicial_do_periodo_de_queda__c], 114)\n    )\n  end as [HC_Data_inicial_do_periodo_de_queda__c],\n  case\n    when [HC_Data_fim_do_periodo_de_queda__c] is null then ''\n    else concat(\n      CONVERT(varchar(10), [HC_Data_fim_do_periodo_de_queda__c], 103),\n      ' ',\n      CONVERT(varchar(8), [HC_Data_fim_do_periodo_de_queda__c], 114)\n    )\n  end as [HC_Data_fim_do_periodo_de_queda__c],\n  case \n    when (\n      camp.HC_Valor_maximo_a_pagar__c is null\n      or isnull(q.HC_Valor_Liquido__c, 0) <= camp.HC_Valor_maximo_a_pagar__c\n    ) then 1\n    else 0\n  end as Less_Than_Max,\n  case \n    when isnull(q.HC_Valor_Liquido__c, 0) >= isnull(camp.HC_Valor_minimo_a_pagar__c, 0) then 1\n    else 0\n  end as Greather_Than_Min,\n  case \n    when \n      HC_Data_do_pagamento__c is not null\n      and \n      (\n        camp.HC_Data_inicial_do_periodo_de_queda__c is null\n        or HC_Data_do_pagamento__c >= camp.HC_Data_inicial_do_periodo_de_queda__c\n      )\n    then 1\n    else 0\n  end as dt_posterior_ao_min,\n  case \n    when \n      HC_Data_do_pagamento__c is not null\n      and\n      (\n        camp.HC_Data_fim_do_periodo_de_queda__c is null\n        or HC_Data_do_pagamento__c <= camp.HC_Data_fim_do_periodo_de_queda__c\n      )\n    then 1\n    else 0\n  end as dt_anterior_ao_max\nfrom [Base] q\nleft join [base_campanhas] camp on camp.HC_CPF_CNPJ__c = q.HC_CPF_CNPJ__c and Q.campaign_group = CAMP.CAMPAIGN_GROUP",
+  "targetName": "Base_Resultados_Recomando",
+  "targetKey": "91BA574B-A5E5-4551-B21A-071D94CE74A7",
+  "targetId": "17c04ad6-609a-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-10T18:58:24.62",
+  "modifiedDate": "2021-04-10T18:58:24.62",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 28566,
+  "isFrozen": false
+}

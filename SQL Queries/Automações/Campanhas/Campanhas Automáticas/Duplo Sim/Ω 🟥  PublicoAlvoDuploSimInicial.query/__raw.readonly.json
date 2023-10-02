@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3e25aaa9-7fda-4e43-a001-e5cf15d0e444",
+  "name": "PublicoAlvoDuploSimInicial",
+  "key": "a6d62e83-2dd7-4723-9bff-925497c3e6f2",
+  "description": "",
+  "queryText": "SELECT\n    distinct B.HC_CPF_CNPJ__C AS CPF_CNPJ,\n\tC.NAME AS NOME,\n\tLEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_1__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL,\n\tSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_1__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL,\n\tLEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_2__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL1,\n\tSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_2__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL1,\n\tLEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_3__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL2,\n\tSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_3__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL2,\n    B.ID AS ID_CLIENTE_PARCEIRO,\n\tC.ID AS ID_CONTATO,\n\tB.HC_Cliente__c AS ID_CLIENTE,\n\tA.ID AS ID_CAMPANHA,\n\tCS.ID AS ID_DEMANDA,\n\tgetdate() AS Dt_Ult_Execucao,\n\tgetdate()+1 AS DATA_PROXIMA_EXECUCAO\nFROM HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE B\nINNER JOIN CONTACT_SALESFORCE C \n    ON C.HC_CPF_CNPJ__C = B.HC_CPF_CNPJ__C\nINNER JOIN CAMPAIGN_SALESFORCE A \n    ON 1 = 1\nINNER JOIN CASE_SALESFORCE CS \n    ON CS.ContactId = C.ID\nWHERE\n\tA.ID = '7016g000002O07HAAS'\n\tAND A.ISACTIVE = 1\n\tAND B.HC_Classificacao__c != 'Falecido'\n\tAND B.HC_Idade__c BETWEEN 18 AND 70\n\tAND B.HC_Nao_deseja_receber_Todos_Meios__c = 0\n\tAND B.HC_Nao_deseja_receber_SMS__c = 0\n\tAND CS.SMS_Enviado__c <> 1 \n\tAND CS.Subject = 'Venda Confirmação - Duplo Sim Pendência'\n\tAND CS.CREATEDDATE = GETDATE()\n\n",
+  "targetName": "PublicoAlvoDuploSim",
+  "targetKey": "7B315560-45EC-48A9-BEAC-0376CBB28635",
+  "targetId": "4882c9be-c465-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-22T08:03:22.277",
+  "modifiedDate": "2022-11-22T08:38:56.323",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 32389,
+  "isFrozen": false
+}

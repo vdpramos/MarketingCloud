@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "EventDate",
+    "FieldType": "Date",
+    "ObjectID": "5f39527c-a123-4003-9378-1ca4d4ecad55",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "SubscriberID",
+    "FieldType": "Number",
+    "ObjectID": "9cdf3e55-65af-4350-b2e8-1727091855ff",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "SubscriberKey",
+    "FieldType": "Text",
+    "ObjectID": "75968397-1bb1-431f-afce-4d18d8a4ab84",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "IsUnique",
+    "FieldType": "Number",
+    "ObjectID": "cc5616c5-c9ad-41b4-ac8b-af59b2c13d22",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "JobID",
+    "FieldType": "Number",
+    "ObjectID": "9fad0cba-2016-4ee6-84d5-24119ede1d82",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  }
+]

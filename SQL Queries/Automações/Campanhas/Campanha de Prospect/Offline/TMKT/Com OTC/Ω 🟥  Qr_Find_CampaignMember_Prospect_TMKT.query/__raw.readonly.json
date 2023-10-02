@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4ca9a2e6-bf7c-46e1-a624-de20a02a72da",
+  "name": "Qr_Find_CampaignMember_Prospect_TMKT",
+  "key": "5044f852-62ae-4308-bbc6-1fcf85281213",
+  "description": "Resgata o membro da campanha dos contatos que já perceorrem a jornada para atualização da data",
+  "queryText": "SELECT\n  CON.CPF,\n  CMEM.ID AS ID_MEMBRO_CAMPANHA\nFROM [Tb_Base_Prospect_OTC291_Filtrada_TMKT] CON\nLEFT JOIN CAMPAIGNMEMBER_SALESFORCE CMEM ON CMEM.CAMPAIGNID = CON.ID_CAMPANHA \n  AND CMEM.CONTACTID = CON.ID_CONTATO\nWHERE\n  CMEM.ID IS NOT NULL",
+  "targetName": "Tb_Base_Prospect_OTC291_Filtrada_TMKT",
+  "targetKey": "14B63303-9F4F-4FE5-85B5-96D2929E8120",
+  "targetId": "276ead35-39ac-ec11-a313-48df370ed7f5",
+  "targetDescription": "Público gerado para a campanha e discador",
+  "createdDate": "2022-04-16T11:14:47.407",
+  "modifiedDate": "2023-07-10T10:03:45.933",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 29373,
+  "isFrozen": false
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "D3E9C5D1-556F-456C-8B95-7C5BF9EC3DEB"
+  ],
+  "Name": [
+    "cliente_Apto__bkp0409"
+  ]
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "fa80fb91-ef06-429b-852b-5a39975efd99",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Id_Contato",
+    "FieldType": "Text",
+    "ObjectID": "50d7b58f-cdce-470c-ab38-2321660b4c8e",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Id_Cliente_Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "e3872299-a159-4c55-a195-08c966d54339",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Id_Campanha",
+    "FieldType": "Text",
+    "ObjectID": "041ae3d9-3e68-4d09-bee6-d6488213ba91",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "NAO_DESEJA_RECEBER_EMAIL",
+    "FieldType": "Boolean",
+    "ObjectID": "b92d8b23-94ec-4c19-a453-9dfd0a36d4ff",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "NAO_DESEJA_RECEBER_SMS",
+    "FieldType": "Boolean",
+    "ObjectID": "a4f12c96-2788-4591-8d4d-44663ae261db",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "EMAIL",
+    "FieldType": "EmailAddress",
+    "ObjectID": "dbe8fc27-972b-497e-918a-33e6e332ece3",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "EMAIL_VALIDO",
+    "FieldType": "Boolean",
+    "ObjectID": "732adfd1-8569-4275-8e6f-5f8651b5a74b",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "CELULAR",
+    "FieldType": "Phone",
+    "ObjectID": "937f2dc1-3cb4-4d3d-988f-9fcb6bdbae05",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "CELULAR_VALIDO",
+    "FieldType": "Boolean",
+    "ObjectID": "57919082-1ec5-4b43-bbb4-e1d13d4d55e5",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "TITULOS_ANTERIORES_ATIVOS",
+    "FieldType": "Number",
+    "ObjectID": "a071e195-1d6f-414e-98c1-168bb989e104",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "0",
+    "Ordinal": 10
+  },
+  {
+    "Name": "TITULOS_ANTERIORES_INATIVOS",
+    "FieldType": "Number",
+    "ObjectID": "22a441c8-3ddc-4ccb-ac76-13c3c78f8414",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "0",
+    "Ordinal": 11
+  },
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "451eba7d-dfc9-4f6c-ae10-9d26c2fcade7",
+    "MaxLength": "200",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "CreatedDate",
+    "FieldType": "Date",
+    "ObjectID": "29c2fe4c-132c-4c2e-9868-d89838dfe766",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "Flag_WhatsApp",
+    "FieldType": "Boolean",
+    "ObjectID": "1f9e93d1-322f-452e-9662-656f7ca3740d",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "false",
+    "Ordinal": 14
+  },
+  {
+    "Name": "locale",
+    "FieldType": "Text",
+    "ObjectID": "b4fd57bc-e910-4c8c-9b83-d1f4bbddba68",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "BR",
+    "Ordinal": 15
+  }
+]

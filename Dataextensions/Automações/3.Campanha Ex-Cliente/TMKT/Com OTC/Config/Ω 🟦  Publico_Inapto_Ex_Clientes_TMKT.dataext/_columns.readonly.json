@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "29fd3616-6b50-43d1-a112-df2f851ceb9c",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "data",
+    "FieldType": "Date",
+    "ObjectID": "cbe119fd-b3df-4c98-af0b-63a65a02b234",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GETDATE()",
+    "Ordinal": 1
+  },
+  {
+    "Name": "COMPRA_UTIMOS_30_DIAS",
+    "FieldType": "Boolean",
+    "ObjectID": "6b41e784-ac89-4349-93dd-a6fed50b6bb1",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "POSSUI_TITULO_ATIVO",
+    "FieldType": "Boolean",
+    "ObjectID": "eb31e794-891e-4803-b901-b242d9ada076",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "NAO_IMPORTUNE",
+    "FieldType": "Boolean",
+    "ObjectID": "f1f96bc0-3487-4321-ae92-3079678817bc",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "ID_CAMPANHA",
+    "FieldType": "Text",
+    "ObjectID": "60608b8a-7094-4777-8a97-59ab45c44b7b",
+    "MaxLength": "20",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

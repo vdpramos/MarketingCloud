@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "data",
+    "FieldType": "Date",
+    "ObjectID": "eef0ea85-dff7-4dc8-98c2-f1e899a01010",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GETDATE()",
+    "Ordinal": 1
+  },
+  {
+    "Name": "COMPRA_UTIMOS_30_DIAS",
+    "FieldType": "Boolean",
+    "ObjectID": "e73667a2-52e0-4d89-88bb-810dc841ab18",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "POSSUI_TITULO_ATIVO",
+    "FieldType": "Boolean",
+    "ObjectID": "3154441a-692a-4af3-aed4-e251b41559b4",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "NAO_IMPORTUNE",
+    "FieldType": "Boolean",
+    "ObjectID": "ee50083c-5173-48d2-a9a2-475460532313",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "ID_CAMPANHA",
+    "FieldType": "Text",
+    "ObjectID": "3d4be8db-8a0d-4d28-ac67-9b2df2658e23",
+    "MaxLength": "20",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "b9d59716-e79d-4586-8284-578fe79e4af0",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "Quarentena",
+    "FieldType": "Boolean",
+    "ObjectID": "1f3070c6-d4a1-4a26-a1dd-2d4c26e4cd9c",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  }
+]

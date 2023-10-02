@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "728eefcc-e322-4033-b52a-7e5a7638701a",
+  "name": "Qr06_Extracao_Base_Ex-Cliente_Offline_Campanhas_ComOTC_TMKT",
+  "key": "5cabe018-c03c-48d1-897f-2d15e658dc7e",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n    'TCBB' AS COD_PARCEIRO,\n    B.CPF,\n    '' AS CNPJ,\n\tB.Id_Campanha,\n    B.Id_Cliente_Parceiro as Id,\n    C.Id_Contato,\n    '(' + SUBSTRING(C.Ddd_Tel_01, 1, 3) + ') ' + \n           SUBSTRING(C.TEL_01, 1, 4) + '-' + \n           SUBSTRING(C.TEL_01, 5, 4) AS TEL_01,\n  '(' + SUBSTRING(C.Ddd_Tel_02, 1, 3) + ') ' + \n           SUBSTRING(C.TEL_02, 1, 4) + '-' + \n           SUBSTRING(C.TEL_02, 5, 4) AS TEL_02,\n  '(' + SUBSTRING(C.Ddd_Tel_03, 1, 3) + ') ' + \n           CASE WHEN LEN(C.TEL_03) = 9 THEN SUBSTRING(C.TEL_03, 1, 5) + '-' + \n           SUBSTRING(C.TEL_03, 6, 4)\n           ELSE SUBSTRING(C.TEL_03, 1, 4) + '-' + \n           SUBSTRING(C.TEL_03, 5, 4) END AS TEL_03,\n  '(' + SUBSTRING(C.Ddd_Tel_04, 1, 3) + ') ' + \n          CASE WHEN LEN(C.TEL_04) = 9 THEN SUBSTRING(C.TEL_04, 1, 5) + '-' + \n           SUBSTRING(C.TEL_04, 6, 4)\n           ELSE SUBSTRING(C.TEL_04, 1, 4) + '-' + \n           SUBSTRING(C.TEL_04, 5, 4) END AS TEL_04,\n           \n  '(' + SUBSTRING(C.Ddd_Tel_05, 1, 3) + ') ' + \n          CASE WHEN LEN(C.TEL_05) = 9 THEN SUBSTRING(C.TEL_05, 1, 5) + '-' + \n           SUBSTRING(C.TEL_05, 6, 4)\n           ELSE SUBSTRING(C.TEL_05, 1, 4) + '-' + \n           SUBSTRING(C.TEL_05, 5, 4) END AS TEL_05,\n           \n    '(' + SUBSTRING(C.Ddd_Tel_06, 1, 3) + ') ' + \n          CASE WHEN LEN(C.TEL_06) = 9 THEN SUBSTRING(C.TEL_06, 1, 5) + '-' + \n           SUBSTRING(C.TEL_06, 6, 4)\n           ELSE SUBSTRING(C.TEL_06, 1, 4) + '-' + \n           SUBSTRING(C.TEL_06, 5, 4) END AS TEL_06\n\nFROM\n  Tb_Base_Ex_Cliente_OTC291_Filtrada_TMKT A \n  INNER JOIN Tb_Base_Ex_Cliente_OTC291_Tratada_TMKT B ON A.CPF = B.CPF\n  INNER JOIN Tb_Base_Ex_Cliente_ComOTC_Filtrada_TMKT C on B.CPF =C.CPF_CNPJ",
+  "targetName": "Tb_Base_Ex_Clientes_Offline_Campanhas_ComOTC_TMKT",
+  "targetKey": "D5A1AC13-637A-4D59-9F96-7612CE15407E",
+  "targetId": "a08ee3df-46db-eb11-a304-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-07-02T09:30:43.09",
+  "modifiedDate": "2022-05-31T02:03:00.353",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 33122,
+  "isFrozen": false
+}

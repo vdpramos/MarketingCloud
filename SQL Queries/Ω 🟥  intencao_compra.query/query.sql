@@ -1,0 +1,1 @@
+SELECT ID FROM HC_Pagamento__c_SALESFORCE

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b352d45d-9442-4c71-be56-9b5d29659ea8",
+  "name": "QR_Base_Prospect_Online_Titulo_Recente_AeC",
+  "key": "B352D45D-9442-4C71-BE56-9B5D29659EA8",
+  "description": "",
+  "queryText": "SELECT\n    max(CASE when C.HC_CLIENTE_X_PARCEIRO__C is null then 0 WHEN DATEDIFF(DD,C.HC_CONTRATACAO__C, GETDATE()) <= 90 THEN 1 ELSE 0 END) AS Titulo_Ativo_Recente,\n    B.CPF\nFROM \tTb_Base_Prospect_ComOTC_Online_Tratada_AeC B\nLEFT JOIN HC_TITULO__C_SALESFORCE C ON B.ID_CLIENTE_PARCEIRO = C.HC_CLIENTE_X_PARCEIRO__C\nGROUP BY cpf",
+  "targetName": "Tb_Base_Prospect_ComOTC_Online_Tratada_AeC",
+  "targetKey": "958906A7-058B-40DB-9180-C1DE85CD36D5",
+  "targetId": "56fa6bdd-0b15-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-26T10:43:03.9",
+  "modifiedDate": "2023-08-08T08:07:52.103",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 1930,
+  "isFrozen": false
+}

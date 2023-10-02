@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e4154d8a-c3a6-491d-a810-f7a0c3cc09b6",
+  "name": "Qr02_Base_Contemplacao_Ourocap_Disparo",
+  "key": "c9877a20-0736-4e25-a204-f57cad758a4f",
+  "description": "",
+  "queryText": "SELECT BASE.*\nFROM Tb_Base_Contemplacao_Ourocap BASE\nWHERE Email_Valido = '1' /* OR Celular_Valido = '1' */",
+  "targetName": "Tb_Base_Contemplacao_Ourocap_Disparo",
+  "targetKey": "13D58ACA-C625-4D4D-9D4D-168F2E794186",
+  "targetId": "325c33f2-1c5a-ec11-a311-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2021-09-13T16:45:24.993",
+  "modifiedDate": "2022-11-17T14:51:19.76",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 32277,
+  "isFrozen": false
+}

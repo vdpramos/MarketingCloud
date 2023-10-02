@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "automationinstancestatus",
+    "FieldType": "Text",
+    "ObjectID": "db743380-e8b6-4f1b-99ea-1032517ebf2b",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "automationName",
+    "FieldType": "Text",
+    "ObjectID": "622c2e39-7e07-4ee2-993a-0c111c2095e2",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "activityName",
+    "FieldType": "Text",
+    "ObjectID": "423c652a-fcc6-4d19-9a8e-d276e0aeca66",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "activityType",
+    "FieldType": "Text",
+    "ObjectID": "fc52b6c7-e3be-4bf7-8d21-5f185f5d35d8",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "activityinstancestatus",
+    "FieldType": "Text",
+    "ObjectID": "d8957906-ab68-419d-a1c5-926f312e0fee",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  }
+]

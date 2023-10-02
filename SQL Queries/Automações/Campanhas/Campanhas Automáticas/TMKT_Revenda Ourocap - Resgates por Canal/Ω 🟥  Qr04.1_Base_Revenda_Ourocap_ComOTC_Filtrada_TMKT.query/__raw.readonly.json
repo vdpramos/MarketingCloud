@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1067c3c7-5adb-46ae-9781-988d69931685",
+  "name": "Qr04.1_Base_Revenda_Ourocap_ComOTC_Filtrada_TMKT",
+  "key": "1067C3C7-5ADB-46AE-9781-988D69931685",
+  "description": "",
+  "queryText": "SELECT\n  a.*\nFROM Tb_Base_Revenda_Ourocap_ComOTC_TMKT a\nWHERE\n  IDADE_VALIDA = 1 \n  AND CONSELHEIRO = 0 \n  AND CLIENTE_PEP = 0 \n  AND DESEJA_CONTATO_TELEFONICO = 0 \n  AND COMPRA_RECENTE_OUROCAP = 0 \n  /* AND POSSUI_CONTA_ATIVA = 1 */\n  AND POSSUI_TELEFONE_ATIVO = 1\n  AND QUARENTENA = 0\n  AND NAO_IMPORTUNE = 0",
+  "targetName": "Tb_Base_Revenda_Ourocap_Filtrada_TMTK",
+  "targetKey": "090DE52D-4228-47E4-B3E8-1BEDBD399196",
+  "targetId": "2767204a-5f26-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "Base com contatos filtrados para o envio para o OTC",
+  "createdDate": "2023-07-19T12:09:21.52",
+  "modifiedDate": "2023-07-20T08:59:46.443",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 66285,
+  "isFrozen": false
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "A83E11E8-F4A7-43FC-A54F-17C471238BDD"
+  ],
+  "Name": [
+    "Informe_Rendimentos_OTC291_tratada"
+  ]
+}

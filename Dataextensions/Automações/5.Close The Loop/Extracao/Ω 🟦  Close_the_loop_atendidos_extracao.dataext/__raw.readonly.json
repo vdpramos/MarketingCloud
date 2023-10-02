@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "7B342FF7-CD5D-4A14-ACAE-937038D028A9"
+  ],
+  "Name": [
+    "Close_the_loop_atendidos_extracao"
+  ]
+}

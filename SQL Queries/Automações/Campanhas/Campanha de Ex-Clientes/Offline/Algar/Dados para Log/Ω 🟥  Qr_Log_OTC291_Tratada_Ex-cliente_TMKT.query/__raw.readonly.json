@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "aed10bca-b221-4d91-b642-52f558397456",
+  "name": "Qr_Log_OTC291_Tratada_Ex-cliente_TMKT",
+  "key": "208f0bd8-e845-42e5-8312-e66e9d38270e",
+  "description": "Log de clientes nas filtradas e tratadas antes de apagar",
+  "queryText": "\r\nselect\r\nCodigo_Parceiro,\r\n Id_Cliente,\r\n Codigo_MCI,\r\n Tipo_Pessoa,\r\n Codigo_CIC,\r\n Dt_Nascimento,\r\n Nome,\r\n Sexo,\r\n UF_Residencial,\r\n Ddd1,\r\n Telefone1,\r\n Ddd2,\r\n Telefone2,\r\n Ddd3,\r\n Telefone3,\r\n Codigo_Plano,\r\n Origem_Solicitacao,\r\n Filler,\r\n Codigo_RNA,\r\n Valor_Rendimentos,\r\n Tipo_Carteira,\r\n Nivel_Relacionamento,\r\n Data_Informacao,\r\n Filler2,\r\n CPF,\r\n Primeiro_Nome,\r\n Sobrenome,\r\n Dt_Nascimento_SF,\r\n CPF_Tipo_Relacionamento,\r\n CPF_CNPJ_Codigo_do_Parceiro,\r\n Id_Cliente_Parceiro,\r\n Id_Campanha,\r\n Faixa_Renda_Mensal,\r\n Alta_Renda,\r\n CEP,\r\n Agencia,\r\n Conta_Corrente,\r\n DDD_01,\r\n TEL_01,\r\n DDD_02,\r\n TEL_02,\r\n DDD_03,\r\n TEL_03,\r\n DDD_04,\r\n TEL_04,\r\n DDD_05,\r\n TEL_05,\r\n Nome_Produto,\r\n Nome_Produto_Valor,\r\n Id_Produto,\r\n Id_Produto_Valor,\r\n 'tratada' as tipo\r\nfrom Tb_Base_Ex_Cliente_OTC291_Tratada_TMKT",
+  "targetName": "Tb_Base_Ex_Cliente_OTC291_TMKT_log",
+  "targetKey": "B41A5AFD-F652-4168-BF25-AFF748A1BB42",
+  "targetId": "3f836e60-0d68-ec11-a311-48df370eabe5",
+  "targetDescription": "Mantem historico das ultimas execuções Tb_Base_Ex_Cliente_OTC291_Tratada_TMKT",
+  "createdDate": "2021-12-28T12:52:54.387",
+  "modifiedDate": "2021-12-28T12:52:54.387",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 37069,
+  "isFrozen": false
+}

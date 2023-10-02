@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "QueryStudioResults at 2023-09-05T1454110000"
+  ],
+  "Name": [
+    "QueryStudioResults at 2023-09-05T1454110000"
+  ]
+}

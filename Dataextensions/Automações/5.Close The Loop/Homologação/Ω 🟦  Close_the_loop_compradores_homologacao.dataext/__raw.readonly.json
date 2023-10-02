@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "54EC1DA0-CCC2-49A8-8B5C-9A9A0C0B90F4"
+  ],
+  "Name": [
+    "Close_the_loop_compradores_homologacao"
+  ]
+}

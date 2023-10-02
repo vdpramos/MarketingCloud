@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "d16800ed-42bf-4a00-a6f0-5fb96c7b8082",
+  "name": "PublicoAlvo_DesistenciaRenovacaoAutomatica",
+  "key": "de22e81e-ee99-4946-b07b-d82f7b85201d",
+  "description": "Seleciona o público alvo de clientes que possuem títulos vencendo nos próximos 30 dias e possuem desistência de renovação automática.",
+  "queryText": "select HC_CPF_CNPJ_Titular__c, HC_Parceiro__c, HC_Numero_do_Titulo__c, HC_Serie__c, HC_Plano__c, HC_Fim_previsto__c\r\nfrom HC_Titulo__c_SALESFORCE\r\nwhere name = '57466 / AA / PMB48'\r\n\r\n",
+  "targetName": "PublicoAlvoDesistenciaRA",
+  "targetKey": "258ED30A-E0EA-4FD0-B05B-BE488CDF6F0B",
+  "targetId": "af7b0101-b57f-ec11-a317-48df37342c99",
+  "targetDescription": "Armazena o público alvo de clientes que possuem títulos com desitência de Renovação automática e o vencimento é nos próximos 30 dias",
+  "createdDate": "2022-01-27T15:21:41.857",
+  "modifiedDate": "2022-01-27T15:21:41.857",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 44931,
+  "isFrozen": false
+}

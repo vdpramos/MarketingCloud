@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "B6BC7123-D461-42FF-8A5E-A4738AF79B61"
+  ],
+  "Name": [
+    "TB_BOAS_VINDAS_OUROCACAP_CARACTERISTICAS_TITULOS"
+  ]
+}

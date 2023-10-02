@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "56a2dcca-4977-4854-8302-e2631e03961b",
+  "name": "Qr_SMS_Report_Atualiza_Data_Nascimento_Key_Id",
+  "key": "da84e86a-ac48-42bb-8b5b-5c5a3fda4d5a",
+  "description": "Atualiza data de nascimento no relatório de SMS para contatos com chave Id do contato",
+  "queryText": "SELECT   \r\n  ACC.MOBILEMESSAGETRACKINGID AS MOBILEMESSAGETRACKINGID,\r\n  SFAC.HC_DATA_NASCIMENTO__C AS DT_NASCIMENTO,\r\n  CON.HC_CPF_CNPJ__C AS CPF\r\nFROM SMS_INFOS_REPORT_CUMULATIVO ACC\r\nINNER JOIN CONTACT_SALESFORCE CON ON CON.ID = ACC.SUBSCRIBERKEY\r\nINNER JOIN ACCOUNT_SALESFORCE SFAC ON CON.ACCOUNTID = SFAC.ID\r\nWHERE DT_NASCIMENTO IS NULL\r\n  AND SUBSCRIBERKEY IS NOT NULL",
+  "targetName": "SMS_INFOS_REPORT_CUMULATIVO",
+  "targetKey": "92F7AEE9-7F18-4100-8AAC-A79F38CB7668",
+  "targetId": "e630be9f-951f-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Report acumulativo com SMS para reducao da query",
+  "createdDate": "2022-08-19T06:22:09.11",
+  "modifiedDate": "2022-08-19T06:22:09.11",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 52301,
+  "isFrozen": false
+}

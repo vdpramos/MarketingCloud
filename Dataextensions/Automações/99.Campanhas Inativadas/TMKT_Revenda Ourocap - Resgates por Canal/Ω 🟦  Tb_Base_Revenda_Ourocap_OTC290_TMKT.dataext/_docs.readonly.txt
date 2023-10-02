@@ -1,0 +1,5 @@
+Dataextension name: Tb_Base_Revenda_Ourocap_OTC290_TMKT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Base                 | Text(4000)      | false    | false    |                 |

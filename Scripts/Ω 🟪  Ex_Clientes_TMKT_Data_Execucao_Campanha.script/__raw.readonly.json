@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "bb41df74-c7f6-46d8-af66-f727947aadae",
+  "name": "Ex_Clientes_TMKT_Data_Execucao_Campanha",
+  "key": "4ae9bb61-c2c2-42df-b4ef-aedf54b2a9fa",
+  "description": "",
+  "script": "<script runat=\"server\">\n// Checa se está no momento de executar a campanha (datetime)\nPlatform(\"Core\", \"2.0\");\nvar Id_Campanha = '7016g000000NSIpAAO'; // Id campanha\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51885') ));\n\n</script>",
+  "categoryId": 1937,
+  "createdDate": "2022-01-26T10:26:26.6",
+  "modifiedDate": "2022-10-28T11:03:31.72"
+}

@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "c73d4fb8-0e0b-4ecf-ab8f-9c5a05af418a",
+  "name": "Src_Proposta_N_Pag_CleanDes",
+  "key": "98d56391-6eb2-4994-b887-2f99241ad4e6",
+  "description": "Limpa DEs usados",
+  "script": " <script runat=server>\r\n  Platform.Load(\"Core\", \"1.1.5\");\r\n  var api = new Script.Util.WSProxy();\r\n\r\n  var BASE_OTC290_FILTRADA = \"1ABC6D1D-5C59-4B9A-A1A6-05EA7DCBE6A4\"; // DE que enviou o OTC290\r\n  var BASE_OTC291_TRATADA = \"3455CF47-98FB-4EDA-AE6A-40B6F0DA11FA\"; // DE que recebe o OTC291 tratado\r\n\r\n  var action = \"ClearData\";\r\n  var opts = {};\r\n  var props_BASE_OTC290_FILTRADA = {\r\n    CustomerKey: BASE_OTC290_FILTRADA\r\n  };\r\n\r\n  var props_BASE_OTC291_TRATADA = {\r\n    CustomerKey: BASE_OTC291_TRATADA\r\n  };\r\n  \r\n  api.performItem(\"DataExtension\", props_BASE_OTC290_FILTRADA, action, opts);\r\n  api.performItem(\"DataExtension\", props_BASE_OTC291_TRATADA, action, opts);\r\n\r\n </script>",
+  "categoryId": 38697,
+  "createdDate": "2021-08-27T18:45:19.773",
+  "modifiedDate": "2021-08-27T18:45:19.773"
+}

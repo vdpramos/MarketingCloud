@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "0CBDECEA-FD72-44A8-979C-C58AA5583582"
+  ],
+  "Name": [
+    "Validacao_excluidos_RNA_alta_renda"
+  ]
+}

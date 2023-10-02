@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "name",
+    "FieldType": "Text",
+    "ObjectID": "96de512a-ac7f-4d74-acbc-c74688a43c5e",
+    "MaxLength": "1000",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "regPrice",
+    "FieldType": "Decimal",
+    "ObjectID": "f75a2f9a-e4f7-4093-80d2-276bdd196a3e",
+    "MaxLength": "18",
+    "Scale": "2",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "salePrice",
+    "FieldType": "Decimal",
+    "ObjectID": "fa46ef13-3aa1-420f-ae7c-bd4c3ac9f726",
+    "MaxLength": "18",
+    "Scale": "2",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Uuid",
+    "FieldType": "Text",
+    "ObjectID": "85d756f6-fa43-40f2-855f-3ab85a12a917",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "sku",
+    "FieldType": "Text",
+    "ObjectID": "a33641dd-3a79-430f-9c6c-64b2d8b459da",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "type",
+    "FieldType": "Text",
+    "ObjectID": "30401a72-ed62-4ef3-9387-473b5b08816a",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  }
+]

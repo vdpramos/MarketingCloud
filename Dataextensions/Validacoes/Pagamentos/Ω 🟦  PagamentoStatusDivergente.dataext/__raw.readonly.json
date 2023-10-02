@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "AC8A7B5B-2FA7-40C2-B703-B7D064ED93EF"
+  ],
+  "Name": [
+    "PagamentoStatusDivergente"
+  ]
+}

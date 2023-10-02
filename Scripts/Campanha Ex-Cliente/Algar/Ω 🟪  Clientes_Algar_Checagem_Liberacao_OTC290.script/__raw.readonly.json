@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "7f1985dd-cdb7-4b5b-a2a2-608f089cd3b2",
+  "name": "Clientes_Algar_Checagem_Liberacao_OTC290",
+  "key": "494b9724-34fa-4931-ad36-3bba9e496a1e",
+  "description": "Verifica se gera mais publico ou se libera a extração para OTC290\n",
+  "script": "<script runat=\"server\">\n\nPlatform(\"Core\", \"2.0\");\nvar Id_Campanha = '7016g000000NSIuAAO'; // Campanha ex  Cliente - Algar - Detalhe\nvar DE_flag_name = 'Flag_LiberarExtracao_Ex-Cliente_Algar';\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\n\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51877') ));\n\n</script>",
+  "categoryId": 38819,
+  "createdDate": "2022-01-27T08:10:33.187",
+  "modifiedDate": "2022-02-02T19:05:47.443"
+}

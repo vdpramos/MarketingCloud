@@ -1,0 +1,134 @@
+[
+  {
+    "Name": "COD_PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "6eda0c31-f0a7-42b3-881f-4fa199e1baf5",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "85077a76-cfd0-4440-882b-db5331224618",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "cd9580f5-f12b-4934-a13e-a3a039051af4",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Id_Cliente_Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "bf1e53b4-c28d-4d68-a6ac-c11f0ea37837",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Id_Campanha",
+    "FieldType": "Text",
+    "ObjectID": "be2d11e3-5a6f-4107-8604-b799ed86af22",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Id",
+    "FieldType": "Text",
+    "ObjectID": "d6938b82-442a-4ca7-bb32-440f00560859",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "Id_Contato",
+    "FieldType": "Text",
+    "ObjectID": "d065ee22-aabe-458b-b54d-3b3166c35ffe",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "TEL_01",
+    "FieldType": "Text",
+    "ObjectID": "bd406656-a730-4e3f-9dc0-3d78c509cd6a",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "TEL_02",
+    "FieldType": "Text",
+    "ObjectID": "2a67b5ee-fc4e-4abf-96c8-e53ccd61f773",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "TEL_03",
+    "FieldType": "Text",
+    "ObjectID": "cb1335d8-3cb7-4ba8-ba3e-983ce1b0464f",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "TEL_04",
+    "FieldType": "Text",
+    "ObjectID": "23d4e263-beef-4257-94c0-42b4a3101b70",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "TEL_05",
+    "FieldType": "Text",
+    "ObjectID": "6c12f203-4580-4fdb-9ccf-e2c31b30b5c3",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  }
+]

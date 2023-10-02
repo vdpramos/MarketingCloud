@@ -1,0 +1,10 @@
+Dataextension name: Relatorios_resgate_antecipado
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF _ CNPJ Subscritor | Text(255)       | false    | false    |                 |
+| Nome do Subscritor   | Text(255)       | false    | false    |                 |
+| CPF_CNPJ_Titular     | Text(255)       | false    | false    |                 |
+| Cliente              | Text(255)       | false    | false    |                 |
+| Títulos: Nome        | Text(255)       | false    | false    |                 |
+| Proposta             | Text(255)       | false    | false    |                 |

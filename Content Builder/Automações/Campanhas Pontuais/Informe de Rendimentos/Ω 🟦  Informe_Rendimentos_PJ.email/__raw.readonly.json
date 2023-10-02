@@ -1,0 +1,172 @@
+{
+  "id": 97852,
+  "customerKey": "fa53ee21-be49-4806-b0f1-69528594ebad",
+  "objectID": "997fcb8a-f2a9-4a39-87b4-4c59cf72c8d4",
+  "contentType": "application/vnd.etmc.email.Message; kind=paste",
+  "assetType": {
+    "id": 208,
+    "name": "htmlemail",
+    "displayName": "HTML Email"
+  },
+  "name": "Informe_Rendimentos_PJ",
+  "description": "",
+  "owner": {
+    "id": 713917771,
+    "email": "sergio.souza@gft.com",
+    "name": "Sergio Souza",
+    "userId": "713917771"
+  },
+  "createdDate": "2023-05-05T07:04:58.307-06:00",
+  "createdBy": {
+    "id": 713917771,
+    "email": "sergio.souza@gft.com",
+    "name": "Sergio Souza",
+    "userId": "713917771"
+  },
+  "modifiedDate": "2023-05-05T11:43:21.743-06:00",
+  "modifiedBy": {
+    "id": 713917771,
+    "email": "sergio.souza@gft.com",
+    "name": "Sergio Souza",
+    "userId": "713917771"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/97852/thumbnail"
+  },
+  "category": {
+    "id": 62478,
+    "name": "Informe de Rendimentos",
+    "parentId": 42302
+  },
+  "views": {
+    "subjectline": {
+      "contentType": "application/vnd.etmc.email.View; kind=subjectline",
+      "content": "Informe de Rendimentos",
+      "meta": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "preheader": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "html": {
+      "content": "%%[SET @fullname = Nome SET @name = Substring(@fullname,1, Subtract(IndexOf(@fullname,' '),1))]%%\n<html>\n<head>\n<title>Ourocard</title>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<style>\n/* CLIENT-SPECIFIC STYLES */\n\nbody, table, td, a {\n -webkit-text-size-adjust: 100%;\n -ms-text-size-adjust: 100%;\n -ms-line-height: exatly;\n font-family: Arial, Helvetica, sans-serif;\n color: #000000;\n} /* Prevent WebKit and Windows mobile changing default text sizes */\ntable, td {\n mso-table-lspace: 0pt;\n mso-table-rspace: 0pt;\n border-spacing: 0;\n border-collapse: collapse;\n mso-table-lspace: 0pt;\n mso-table-rspace: 0pt;\n mso-line-height: exatly;\n} /* Remove spacing between tables in Outlook 2007 and up */\nimg {\n -ms-interpolation-mode: bicubic;\n} /* Allow smoother rendering of resized image in Internet Explorer */\n/* RESET STYLES */\nimg {\n border: 0;\n line-height: 100%;\n outline: none;\n text-decoration: none;\n}\ntable {\n border-collapse: collapse !important;\n}\nbody {\n height: 100% !important;\n margin: 0 !important;\n padding: 0 !important;\n width: 100% !important;\n}\np {\n padding: 0 !important;\n margin: 0 !important;\n}\n/* iOS BLUE LINKS */\na[x-apple-data-detectors] {\n color: inherit !important;\n text-decoration: none !important;\n font-size: inherit !important;\n font-family: inherit !important;\n font-weight: inherit !important;\n line-height: inherit !important;\n}\n/* OVERRIDE GMAIL BLUE LINKS */\nu + #body a {\n color: inherit;\n text-decoration: none;\n font-size: inherit;\n font-family: inherit;\n font-weight: inherit;\n line-height: inherit;\n}\n</style>\n</head>\n<body>\n\n<table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/20a39e09-a4e9-4e59-a6f0-5f2ed0d529fa.png\" style=\"padding:0;border:none;display:block; outline:none;\" alt=\"O seu Informe de Rendimentos para o IRPJ está disponível!\">\n     </td>\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#fff100\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"650\" height=\"20\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#fff100\">\n    \n    <tr>\n     <td width=\"93\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"93\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n     <td width=\"464\" style=\"color:#201e1e;font-family:Arial, sans-serif;font-size:18px;line-height: 1.6em;\" align=\"left\">Olá, \n      <strong style=\"color:#4964fb\">%%=Propercase(@name)=%%!</strong>\n      <p style=\"color:#201e1e;font-family:Arial, sans-serif;font-size:18px;line-height: 1.6em;\">\n      Para ajudar na declaração do IR, agora você pode \n      baixar seu Informe de Rendimentos de forma bem rápida e simples. \n      </p>\n      \n     </td>\n     <td width=\"93\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"93\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#fff100\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"650\" height=\"20\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#fff100\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/d367ef26-9f33-4edd-8796-58286cda0e53.png\" width=\"650\" height=\"31\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#fff100\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/aa76395a-7f69-49c7-a809-c6023feeb5fd.png\" width=\"650\" height=\"78\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#0060ab\">\n    \n    <tr>\n     <td width=\"93\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/0ab76de5-78d8-440e-8ae7-5bea56b82b52.png\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n     <td width=\"464\">\n      <table width=\"464\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n       <tr>\n        <td width=\"43\" style=\"color:#fbfb2e;font-family:Arial, sans-serif;font-size:24px;line-height: 1.2em;\" align=\"left\">1</td>\n        <td width=\"421\" style=\"color:#ffffff;font-family:Arial, sans-serif;font-size:18px;line-height: 1.5em;\" align=\"left\">Acesse <a href=\"https://informes.brasilcap.com.br\" target=\"_blank\"><u style=\"color:#8dd7f7\">informes.brasilcap.com.br</u></a></td>\n       </tr>\n       <tr>\n        <td width=\"43\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"43\" height=\"10\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n        <td width=\"421\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"421\" height=\"10\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n       </tr>\n       <tr valign=\"top\">\n        <td width=\"43\" style=\"color:#fbfb2e;font-family:Arial, sans-serif;font-size:24px;line-height: 1.2em;\" align=\"left\">2</td>\n        <td width=\"421\" style=\"color:#ffffff;font-family:Arial, sans-serif;font-size:18px;line-height: 1.5em;\" align=\"left\">\n        Faça um cadastro rápido informando seu CNPJ, razão social, nome fantasia e os dados do controlador (CPF, data de nascimento e nome completo);</td>\n       </tr>\n       <tr>\n        <td width=\"43\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"43\" height=\"10\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n        <td width=\"421\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"421\" height=\"10\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n       </tr>\n       <tr valign=\"top\">\n        <td width=\"43\" style=\"color:#fbfb2e;font-family:Arial, sans-serif;font-size:24px;line-height: 1.2em;\" align=\"left\">3</td>\n        <td width=\"421\" style=\"color:#ffffff;font-family:Arial, sans-serif;font-size:18px;line-height: 1.5em;\" align=\"left\">Para sua segurança, será exibida uma lista com 5 produtos de capitalização. Escolha 1 produto que você possua;\n        </td>\n       </tr>\n       <tr>\n        <td width=\"43\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"43\" height=\"10\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n        <td width=\"421\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"421\" height=\"10\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n       </tr>\n       <tr valign=\"top\">\n        <td width=\"43\" style=\"color:#fbfb2e;font-family:Arial, sans-serif;font-size:24px;line-height: 1.2em;\" align=\"left\">4</td>\n        <td width=\"421\" style=\"color:#ffffff;font-family:Arial, sans-serif;font-size:18px;line-height: 1.5em;\" align=\"left\">Informe um e-mail válido e crie uma senha para acessar ao Portal;</td>\n       </tr>\n       <tr>\n        <td width=\"43\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"43\" height=\"10\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n        <td width=\"421\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"421\" height=\"10\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n       </tr>\n       <tr valign=\"top\">\n        <td width=\"43\" style=\"color:#fbfb2e;font-family:Arial, sans-serif;font-size:24px;line-height: 1.2em;\" align=\"left\">5</td>\n        <td width=\"421\" style=\"color:#ffffff;font-family:Arial, sans-serif;font-size:18px;line-height: 1.5em;\" align=\"left\">Você precisará validar seu cadastro através do e-mail informado;</td>\n       </tr>\n       <tr>\n        <td width=\"43\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"43\" height=\"10\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n        <td width=\"421\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"421\" height=\"10\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n       </tr>\n       <tr valign=\"top\">\n        <td width=\"43\" style=\"color:#fbfb2e;font-family:Arial, sans-serif;font-size:24px;line-height: 1.2em;\" align=\"left\">6</td>\n        <td width=\"421\" style=\"color:#ffffff;font-family:Arial, sans-serif;font-size:18px;line-height: 1.5em;\" align=\"left\">\nAcesse o Portal com seu login e senha, selecione o período e pronto! Seu Informe já pode ser baixado.</td>\n       </tr>\n      </table>      \n     </td>\n     <td width=\"93\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/8db4a219-b8b1-4be2-bd55-5ba05301f3d5.png\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#fff100\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/cc4ce34e-d22b-4357-9e89-394dc1798de8.png\" width=\"650\" height=\"28\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#035a9e\">\n    \n    <tr>\n     <td width=\"140\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/531eba9f-ba02-4eab-afa7-4b57da0799e6.png\" width=\"140\" height=\"76\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n     <td width=\"464\" style=\"color:#201e1e;font-family:Arial, sans-serif;font-size:15px;line-height: 1.2em;\" align=\"center\">\n      <strong style=\"color:#8dd7f7\">Atenção!</strong>\n      <p style=\"color:#8dd7f7;font-family:Arial, sans-serif;font-size:15px;line-height: 1.2em;\">\n      A senha de acesso ao arquivo são os 5 primeiros números do seu CNPJ.</p>\n      \n     </td>\n     <td width=\"140\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/1e6bdfbe-c483-4b4f-b264-128e896116ce.png\" width=\"140\" height=\"76\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#fff100\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/c131bd79-d423-40b2-8227-90a8fd58d81e.png\" width=\"650\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#fff100\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/3f9be41e-8804-47fb-937b-004037b5e3f7.png\" width=\"93\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n     <td><a href=\"https://informes.brasilcap.com.br\" target=\"_blank\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/83ec09ed-a9f4-45e9-b25e-338f679b4242.png\" width=\"464\" style=\"padding:0;border:none;display:block; outline:none;\" alt=\"Acesse seu Informe de Rendimentos\"></a>\n     </td>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/2d4d86f7-1b86-4b00-9da0-9225d339f1a4.png\" width=\"93\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#fff100\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/b086535e-ca57-4c00-a931-84960f92e61f.png\" width=\"650\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#ffffff\">\n    \n    <tr>\n     <td width=\"140\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/1c3eae05-17c5-463f-8327-bac9ba448a59.png\" width=\"140\" height=\"111\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n     <td width=\"464\" style=\"color:#343333;font-family:Arial, sans-serif;font-size:14px;line-height: 1.8em;\" align=\"center\">Se tiver dúvidas, estamos disponíveis no telefone:<br>\n0800 729 0800.<br><br>\n      <p style=\"color:#343333;font-family:Arial, sans-serif;font-size:12px;line-height: 1.2em;\">Deficientes auditivos ou de fala: 0800 729 0088.</p>\n      \n     </td>\n     <td width=\"140\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif\" width=\"140\" height=\"111\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#fff100\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/78fcfa63-e4fe-4c6c-a5de-91dbdab0b6e0.png\" width=\"650\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#fff100\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/73d18418-db37-40c6-845f-7084c3a4c83d.png\" width=\"650\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n  </td>\n </tr>\n <tr>\n  <td>\n   <table width=\"650\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#fff100\">\n    <tr>\n     <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/fbc2853a-4fd5-4f01-be40-f569587a57d7.png\" width=\"650\" style=\"padding:0;border:none;display:block; outline:none;\">\n     </td>\n    </tr>\n   </table>\n  </td>\n </tr>\n</table>\n<custom name=\"opencounter\" type=\"tracking\"/>\n</body>\n</html>",
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "text": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": "html"
+          }
+        }
+      },
+      "generateFrom": "html",
+      "modelVersion": 2
+    },
+    "viewAsAWebPage": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "subscriptioncenter": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardHTML": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardText": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    }
+  },
+  "availableViews": [
+    "subjectline",
+    "preheader",
+    "html",
+    "text",
+    "viewAsAWebPage",
+    "subscriptioncenter",
+    "forwardHTML",
+    "forwardText"
+  ],
+  "data": {
+    "email": {
+      "options": {
+        "characterEncoding": "utf-8"
+      },
+      "legacy": {
+        "legacyId": 37236,
+        "legacyKey": "fa53ee21-be49-4806-b0f1-69528594ebad",
+        "legacyType": "email",
+        "legacyCategoryId": 1944
+      }
+    }
+  },
+  "legacyData": {
+    "legacyId": 37236,
+    "legacyKey": "fa53ee21-be49-4806-b0f1-69528594ebad",
+    "legacyType": "email",
+    "legacyCategoryId": 1944
+  },
+  "modelVersion": 2
+}

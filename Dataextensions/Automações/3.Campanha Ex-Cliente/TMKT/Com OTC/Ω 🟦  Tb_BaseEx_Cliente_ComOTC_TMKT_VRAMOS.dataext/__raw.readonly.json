@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "95623037-7BFF-412D-9D8E-604884814F45"
+  ],
+  "Name": [
+    "Tb_BaseEx_Cliente_ComOTC_TMKT_VRAMOS"
+  ]
+}

@@ -1,0 +1,6 @@
+Dataextension name: StatusTitulo_PowerCenter
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| STATUS               | Text(50)        | true     | false    |                 |
+| DESCRICAO            | Text(255)       | true     | false    |                 |

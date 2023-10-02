@@ -1,0 +1,178 @@
+[
+  {
+    "Name": "SubscriberKey",
+    "FieldType": "Text",
+    "ObjectID": "47e40dbe-1064-4098-815e-5be784d4ce9b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "MobileMessageTrackingID",
+    "FieldType": "Text",
+    "ObjectID": "41ba7651-0394-4571-9629-fbd835a20a7a",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "MessageID",
+    "FieldType": "Text",
+    "ObjectID": "ea8a23a6-dd92-421a-8421-ffc3ea44cf74",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "TEL_CELULAR",
+    "FieldType": "Text",
+    "ObjectID": "f2497509-7db3-4c94-be05-0978516567a3",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "83b111cf-df85-4d6c-afd2-a8bde8343d71",
+    "MaxLength": "20",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "CAMPANHA_JORNADA",
+    "FieldType": "Text",
+    "ObjectID": "66c1ff33-3e7a-4fb2-bff8-69d808e879f9",
+    "MaxLength": "300",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "SUBJECT",
+    "FieldType": "Text",
+    "ObjectID": "974a74a3-aa13-49d9-bc78-6a4a5a3728a7",
+    "MaxLength": "300",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "DT_NASCIMENTO",
+    "FieldType": "Date",
+    "ObjectID": "52de3223-7a69-4f6b-bdb3-9bfb3cf1a482",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "DT_INICIO",
+    "FieldType": "Date",
+    "ObjectID": "2ea131df-236c-49bf-ab35-9e49ba776a06",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "DT_FIM",
+    "FieldType": "Date",
+    "ObjectID": "a621ce29-f3ae-4eab-b38a-bd4484704d35",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "DT_ENVIO",
+    "FieldType": "Date",
+    "ObjectID": "dc3e1a61-9040-46a1-9275-13d51f455a46",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "DT_ENTREGA",
+    "FieldType": "Date",
+    "ObjectID": "1cca2b7e-e930-4247-9e41-28bb613b4675",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "ENTREGUE",
+    "FieldType": "Boolean",
+    "ObjectID": "58818c6a-680f-44ea-aa62-61a6a6fce0d8",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "BOUNCE",
+    "FieldType": "Boolean",
+    "ObjectID": "2accd5e9-02e1-4719-97da-b0e839d836eb",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "OPTOUT",
+    "FieldType": "Boolean",
+    "ObjectID": "cf40e945-98ab-451f-8f58-5d7a5cd93030",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 14
+  },
+  {
+    "Name": "JBACTIVITYID",
+    "FieldType": "Text",
+    "ObjectID": "85b8f18d-daf4-49bc-b0a9-c20178d7f075",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 15
+  }
+]

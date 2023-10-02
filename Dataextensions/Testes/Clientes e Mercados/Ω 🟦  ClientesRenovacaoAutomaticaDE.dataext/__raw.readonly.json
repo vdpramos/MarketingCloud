@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "88F9EACD-C670-4712-B9F8-85BE54746F47"
+  ],
+  "Name": [
+    "ClientesRenovacaoAutomaticaDE"
+  ]
+}

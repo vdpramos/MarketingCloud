@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "COUNT",
+    "FieldType": "Text",
+    "ObjectID": "867117d3-3693-4953-81c6-2a85277313dd",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

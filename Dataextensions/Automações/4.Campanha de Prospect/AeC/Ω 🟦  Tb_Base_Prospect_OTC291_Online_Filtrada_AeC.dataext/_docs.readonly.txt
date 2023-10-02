@@ -1,0 +1,52 @@
+Dataextension name: Tb_Base_Prospect_OTC291_Online_Filtrada_AeC
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Codigo_Plano         | Text(5)         | false    | false    |                 |
+| Celular1             | Text(50)        | false    | false    |                 |
+| Telefone1            | Text(10)        | false    | false    |                 |
+| Codigo_RNA           | Text(3)         | false    | false    |                 |
+| Telefone2            | Text(10)        | false    | false    |                 |
+| Ddd1                 | Text(4)         | false    | false    |                 |
+| Codigo_Parceiro      | Text(3)         | false    | false    |                 |
+| Ddd3                 | Text(4)         | false    | false    |                 |
+| Nivel_Relacionamento | Text(5)         | false    | false    |                 |
+| Codigo_CIC           | Text(15)        | false    | false    |                 |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| CPF_Tipo_Relacionamento | Text(50)        | false    | false    |                 |
+| Tipo_Carteira        | Text(4)         | false    | false    |                 |
+| Celular2             | Text(50)        | false    | false    |                 |
+| Valor_Rendimentos    | Text(15)        | false    | false    |                 |
+| Id_Conta             | Text(50)        | false    | false    |                 |
+| Tel_Comercial        | Text(50)        | false    | false    |                 |
+| Filler               | Text(73)        | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |
+| Id_Membro_Campanha   | Text(50)        | false    | false    |                 |
+| Id_Cliente           | Text(9)         | false    | false    |                 |
+| Codigo_MCI           | Text(9)         | false    | false    |                 |
+| Filler2              | Text(17)        | false    | false    |                 |
+| Ddd2                 | Text(4)         | false    | false    |                 |
+| Id_Campanha          | Text(50)        | false    | false    |                 |
+| Data_Informacao      | Text(26)        | false    | false    |                 |
+| UF_Residencial       | Text(2)         | false    | false    |                 |
+| Dt_Nascimento_SF     | Date            | false    | false    |                 |
+| Dt_Nascimento        | Text(10)        | false    | false    |                 |
+| Sobrenome            | Text(50)        | false    | false    |                 |
+| Sexo                 | Text(1)         | false    | false    |                 |
+| Origem_Solicitacao   | Text(2)         | false    | false    |                 |
+| CPF_Codigo_Parceiro  | Text(50)        | false    | false    |                 |
+| Faixa_Renda_Mensal   | Text(50)        | false    | false    |                 |
+| Tel_Residencial      | Text(50)        | false    | false    |                 |
+| Nome                 | Text(60)        | false    | false    |                 |
+| Tipo_Pessoa          | Text(1)         | false    | false    |                 |
+| Telefone3            | Text(10)        | false    | false    |                 |
+| Primeiro_Nome        | Text(50)        | false    | false    |                 |
+| CPF                  | Text(50)        | true     | true     |                 |
+| Envio_Service_Contact | Boolean         | false    | false    | false           |
+| CPF_Codigo_Parceiro_Unico | Text(50)        | false    | false    |                 |
+| Envio_Service_ClienteParceiro | Boolean         | false    | false    | false           |
+| Envio_Service_MembroCampanha | Boolean         | false    | false    | false           |
+| Envio_Service_Account | Boolean         | false    | false    | false           |
+| Row                  | Number          | false    | false    |                 |
+| Dia_Prov             | Text(50)        | false    | false    |                 |
+| Telefone5            | Text(50)        | false    | false    |                 |

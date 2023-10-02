@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "2c7b7bc5-e49f-4160-a31e-add3f1e63e22",
+  "name": "Teste Criar Campanha",
+  "key": "185f76fb-37e6-4c8d-b31d-d36329488c66",
+  "description": "",
+  "script": "<script runat=\"server\">\n    Platform.Load(\"Core\",\"1\");\n\n    var ampscriptCode = Platform.Function.ContentBlockByKey(\"c1573cc8-853b-453e-90bb-ef72b1c3998a\");\n</script>",
+  "categoryId": 1937,
+  "createdDate": "2020-12-23T12:37:19.223",
+  "modifiedDate": "2020-12-30T16:20:09.837"
+}

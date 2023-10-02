@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "adf4bba7-248c-44e5-8ad8-64bff79bdb9b",
+  "name": "NaoCarregadosSF",
+  "key": "ADF4BBA7-248C-44E5-8AD8-64BFF79BDB9B",
+  "description": "",
+  "queryText": "select cpf.cpf as name, c.hc_cliente__c\nfrom Contemplados_CPFs_Faltando cpf\ninner join hc_relacao_cliente_parceiro__c_salesforce c\n    on cpf.cpf = c.hc_cpf_cnpj__c\nwhere not exists (select 1 from ContatosNaoSelecionados cns where cpf.cpf = cns.cpf)\n",
+  "targetName": "ContatosInexistentesNoMkt",
+  "targetKey": "EB8406E8-DF53-48E8-9290-DBCE05AC6885",
+  "targetId": "9db31142-8300-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-01T13:03:22.2",
+  "modifiedDate": "2023-06-02T05:32:28.697",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

@@ -1,0 +1,8 @@
+Dataextension name: Validacao_Prospect_TMKT_Online_GFT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(50)        | true     | false    |                 |
+| CAMPANHA             | Text(200)       | true     | false    |                 |
+| RESULTADO            | Text(100)       | true     | false    |                 |
+| DATA_REGISTRO        | Date            | true     | false    |                 |

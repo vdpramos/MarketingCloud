@@ -1,0 +1,20 @@
+Dataextension name: Tracking
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| TrackingType         | Text            | false    | false    |                 |
+| MID                  | Text            | false    | false    |                 |
+| EID                  | Text            | false    | false    |                 |
+| ContactKey           | Text            | false    | false    |                 |
+| MobileNumber         | Text(50)        | false    | false    |                 |
+| EventDateUTC         | Text(50)        | false    | false    |                 |
+| AppID                | Text            | false    | false    |                 |
+| ChannelID            | Text            | false    | false    |                 |
+| ChannelType          | Text            | false    | false    |                 |
+| ChannelName          | Text            | false    | false    |                 |
+| Status               | Text(50)        | false    | false    |                 |
+| Reason               | Text(50)        | false    | false    |                 |
+| JBDefinitionID       | Text            | false    | false    |                 |
+| SendIdentifier       | Text            | false    | false    |                 |
+| AssetID              | Text            | false    | false    |                 |
+| MessageTypeID        | Text            | false    | false    |                 |

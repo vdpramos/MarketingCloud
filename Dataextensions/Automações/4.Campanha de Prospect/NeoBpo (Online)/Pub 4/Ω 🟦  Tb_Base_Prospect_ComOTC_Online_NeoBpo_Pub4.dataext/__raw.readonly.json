@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "406574C2-FC8C-476C-8EC7-0474AA884B47"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_ComOTC_Online_NeoBpo_Pub4"
+  ]
+}

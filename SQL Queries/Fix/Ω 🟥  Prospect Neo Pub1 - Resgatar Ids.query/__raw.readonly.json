@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "5f08d4cc-0860-48d2-bb62-5a5927d1f77d",
+  "name": "Prospect Neo Pub1 - Resgatar Ids",
+  "key": "06a0393e-a772-42e4-b2a5-06d1ab77be98",
+  "description": "Query para resgatars os ids não inseridos no arquivo de saida",
+  "queryText": "select\r\n EX.DDD1,\r\n EX.TELEFONE1,\r\n EX.TIPO1,\r\n EX.DDD2,\r\n EX.TELEFONE2,\r\n EX.TIPO2,\r\n EX.DDD3,\r\n EX.TELEFONE3,\r\n EX.TIPO3,\r\n EX.DDD4,\r\n EX.TELEFONE4,\r\n EX.TIPO4,\r\n EX.DDD5,\r\n EX.TELEFONE5,\r\n EX.TIPO5,\r\n EX.PREFERENCIAL,\r\n EX.IDADE,\r\n EX.DATA_NASCIMENTO,\r\n EX.NOME_CLIENTE,\r\n EX.CEP,\r\n EX.UF,\r\n EX.TIPO_DE_PESSOA,\r\n EX.CPF_CNPJ,\r\n EX.SEXO,\r\n EX.CLASSIFICAÇAO,\r\n EX.TIPO_CAMPANHA,\r\n EX.IDCAMPANHA,\r\n REL.ID AS IDCP,\r\n CON.ID AS IDCONTATOS,\r\n EX.DATA_CRIAÇÃO,\r\n EX.DATA_UTILIZAÇÃO,\r\n EX.DATA_TERMINO\r\nfrom [Tb_Base_Prospect_Online_Extracao_ComOTC_NeoBpo_Pub1_copy] EX\r\nLEFT JOIN (\r\n  select\r\n    EX.CPF_CNPJ as CPF,\r\n    CON.ID\r\n  FROM Tb_Base_Prospect_Online_Extracao_ComOTC_NeoBpo_Pub1_copy EX\r\n  INNER JOIN [CONTACT_SALESFORCE] CON ON CON.HC_CPF_CNPJ_Tipo_de_Relacionamento__c = CONCAT(EX.CPF_CNPJ, 'CLIENTE')\r\n) CON ON EX.CPF_CNPJ = CON.CPF\r\nLEFT JOIN [HC_Relacao_Cliente_Parceiro__c_Salesforce] REL ON CONCAT(EX.CPF_CNPJ, '52') = REL.HC_CPF_CNPJ_Codigo_Parceiro_Unico__c",
+  "targetName": "Tb_Base_Prospect_Online_Extracao_ComOTC_NeoBpo_Pub1",
+  "targetKey": "47F24A54-6A82-4898-AAD3-F34171EA233D",
+  "targetId": "192bbef9-a541-ec11-a313-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2022-05-09T05:39:25.607",
+  "modifiedDate": "2022-05-09T05:39:25.607",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 48390,
+  "isFrozen": false
+}

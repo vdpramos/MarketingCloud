@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7a88b37c-9076-4ed3-8fee-0cd404d29835",
+  "name": "Qr04_Base_Boas_Vindas_Ourocap_Trata_Quarentena",
+  "key": "f2f12c20-e89d-4946-b028-49b7e90d3909",
+  "description": "",
+  "queryText": "SELECT\n\tA.CPF_CNPJ,\n\tA.Numero_do_Titulo,\n\tA.Serie_do_Titulo,\n\tA.Plano_do_Titulo,\n\tCASE WHEN Q.CPF_CNPJ IS NOT NULL THEN 1 ELSE 0 END AS QUARENTENA\nFROM\n\tTB_BOAS_VINDAS_OUROCAP_COMOTC_NEOBPO A\nLEFT JOIN TB_BOAS_VINDAS_OUROCAP_QUARENTENA Q ON A.CPF_CNPJ = Q.CPF_CNPJ\n\tAND A.NUMERO_DO_TITULO = Q.NUMERO_DO_TITULO\n\tAND A.SERIE_DO_TITULO = Q.SERIE_DO_TITULO\n\tAND A.PLANO_DO_TITULO = Q.PLANO_DO_TITULO",
+  "targetName": "Tb_Boas_Vindas_Ourocap_ComOTC_NeoBpo",
+  "targetKey": "1C37A4CA-94A9-4CFD-9E3A-DC60630CF810",
+  "targetId": "0031c80b-0411-ec11-a30b-48df370eabe4",
+  "targetDescription": "",
+  "createdDate": "2021-07-29T19:03:11.103",
+  "modifiedDate": "2022-07-12T14:14:54.68",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 51193,
+  "isFrozen": false
+}

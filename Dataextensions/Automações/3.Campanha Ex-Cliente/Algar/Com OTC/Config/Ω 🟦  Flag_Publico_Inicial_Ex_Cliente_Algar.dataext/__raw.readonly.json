@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "31830597-DF00-4F53-8A0D-1E7C9102AD40"
+  ],
+  "Name": [
+    "Flag_Publico_Inicial_Ex_Cliente_Algar"
+  ]
+}

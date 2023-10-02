@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "JobID",
+    "FieldType": "Number",
+    "ObjectID": "c78ff39d-59c1-4d3f-8379-b86d12075208",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "SchedTime",
+    "FieldType": "Date",
+    "ObjectID": "80e32827-3c69-4cac-bf26-d4474cc966ff",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "DeliveredTime",
+    "FieldType": "Date",
+    "ObjectID": "9b858f09-555d-4a79-8b05-14ddf60b40cc",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "PickupTime",
+    "FieldType": "Date",
+    "ObjectID": "08ace6c9-b0f2-403d-8a5e-2ad67e75d2fb",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "EmailName",
+    "FieldType": "Text",
+    "ObjectID": "eba32d6e-0996-4a08-be61-64f4eda4848b",
+    "MaxLength": "1000",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "EmailSubject",
+    "FieldType": "Text",
+    "ObjectID": "25c65531-87fb-4fda-95f4-a7e5e928104a",
+    "MaxLength": "1000",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "ModifiedDate",
+    "FieldType": "Date",
+    "ObjectID": "7e985bf0-5267-481e-be0f-3b6be1e6ca70",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  }
+]

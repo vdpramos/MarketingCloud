@@ -1,0 +1,5 @@
+Dataextension name: BaseMCI
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| MCI                  | Text(50)        | false    | false    |                 |

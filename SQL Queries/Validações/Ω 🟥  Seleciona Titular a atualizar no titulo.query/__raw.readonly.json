@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "c635ba3c-5c2f-4472-a24e-b01187de048e",
+  "name": "Seleciona Titular a atualizar no titulo",
+  "key": "94223928-3a83-49fa-8612-fb9e1a968ab7",
+  "description": "",
+  "queryText": "select  id_titulo AS ID, \n        id_clienteParceiro AS HC_Cliente_x_Parceiro__c \nfrom TitulosSemTitular",
+  "targetName": "Titulos_AtualizarTitular",
+  "targetKey": "1FBB5E66-77DE-4DDC-90E8-EF85B5358633",
+  "targetId": "85dbf712-2ea3-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-02T13:40:58.3",
+  "modifiedDate": "2023-02-02T13:40:58.3",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "65CF1598-6FBC-425D-8AA1-F9F692AE6ABE"
+  ],
+  "Name": [
+    "Tb_Boas_Vindas_Doadin_Prospostas"
+  ]
+}

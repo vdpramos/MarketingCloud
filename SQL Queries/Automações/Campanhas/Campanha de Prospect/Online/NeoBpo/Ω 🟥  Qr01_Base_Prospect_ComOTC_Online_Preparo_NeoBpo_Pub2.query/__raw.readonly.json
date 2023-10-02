@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "41567696-16ad-400a-8ee5-c7cfb9686b7f",
+  "name": "Qr01_Base_Prospect_ComOTC_Online_Preparo_NeoBpo_Pub2",
+  "key": "0fe8e5e7-4207-4751-a052-0fe83e306dde",
+  "description": "",
+  "queryText": "SELECT\n  '001'+\n  REPLICATE (' ' , 9)+\n  REPLICATE ('0' , 9)+\n  '1'+\n  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, CPF), 15)+\n  CONVERT(VARCHAR(10), CAST(DATA_NASCIMENTO AS DATE), 112)+\n  LEFT(CONVERT(VARCHAR(60), NOME) + REPLICATE(' ', 60), 60)+\n  REPLICATE (' ' , 1)+\n  /*REPLICATE (' ' , 2)*/REPLICATE (' ' , 1)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 5)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 73)+\n  REPLICATE (' ' , 70) AS BASE\nFROM\n  TB_BASE_PROSPECT_COMOTC_ONLINE_FILTRADA_NEOBPO_PUB2",
+  "targetName": "Tb_Base_Prospect_OTC290_Online_NeoBpo_Pub2",
+  "targetKey": "45F0DED6-ABE8-499E-A8EA-AAEBC17A3D39",
+  "targetId": "fdc74acd-db40-ec11-a313-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-11-08T18:32:34.93",
+  "modifiedDate": "2021-11-08T18:32:34.93",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 40743,
+  "isFrozen": false
+}

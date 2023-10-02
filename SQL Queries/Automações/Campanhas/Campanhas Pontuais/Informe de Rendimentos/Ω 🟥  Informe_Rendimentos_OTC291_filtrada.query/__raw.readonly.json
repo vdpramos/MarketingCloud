@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8d92e402-f735-4603-9879-ecc6251d5d20",
+  "name": "Informe_Rendimentos_OTC291_filtrada",
+  "key": "8D92E402-F735-4603-9879-ECC6251D5D20",
+  "description": "",
+  "queryText": "SELECT\n  a.CPF AS CPF_CNPJ,\n  a.Id_contato,\n  a.Id_Cliente_Parceiro,\n  a.Nome,\n  a.Dt_Nascimento AS Data_Nascimento,\n  a.Email,\n  a.Celular,\n  a.MCI,\n  a.Tipo_Carteira,\n  a.Encarteiramento\nFROM Informe_Rendimentos_OTC291_tratada a\n/* CHECAGEM SE TOODS OS CONTATOS TIVERAM O OTC TRATADO \n    LEFT OUTER JOIN ( \n      SELECT\n        COUNT(1) as CPFS_FALTANDO_NO_OTC\n      FROM Informe_rendimentos_publico_inicial ENV\n        LEFT JOIN Informe_Rendimentos_OTC291_tratada RET \n            ON ENV.CPF_CNPJ = RET.CPF\n      WHERE RET.CPF IS NULL \n    ) b ON 1 = 1*/\n    INNER JOIN Informe_rendimentos_publico_inicial c \n        ON c.CPF_CNPJ = a.CPF\nWHERE /*b.CPFS_FALTANDO_NO_OTC = 0\n SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 \n  AND*/\n  CAST(a.Tipo_Carteira AS INT) != 40",
+  "targetName": "Informe_Rendimentos_OTC291_filtrada",
+  "targetKey": "63720B42-C520-4E29-AD78-192330A97028",
+  "targetId": "8fac7aff-03e5-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-04-27T08:11:54.687",
+  "modifiedDate": "2023-08-14T11:14:04.093",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 62051,
+  "isFrozen": false
+}

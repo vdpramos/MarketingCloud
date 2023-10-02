@@ -1,0 +1,13 @@
+Dataextension name: AVISO_PAGAMENTO_HISTORICO
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_CONTATO           | Text(18)        | false    | false    |                 |
+| ID_CAMPANHA          | Text(18)        | false    | false    |                 |
+| ID_CLIENTE_PARCEIRO  | Text(18)        | false    | false    |                 |
+| ID_PROPOSTA          | Text(18)        | false    | false    |                 |
+| CPF_CNPJ             | Text(20)        | false    | false    |                 |
+| CELULAR              | Text(50)        | false    | false    |                 |
+| NAO_IMPORTUNE        | Boolean         | false    | false    |                 |
+| DATE                 | Date            | false    | false    | GetDate()       |
+| DATA_AGENDAMENTO     | Date            | false    | false    |                 |

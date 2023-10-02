@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "cd206ab3-ce4a-4670-b0da-006892b7e652",
+  "name": "Qr07_Base_Boas_Vindas_Postalcap_Dados_Personalizacao",
+  "key": "76f8e933-eb7e-4808-9b51-fb3f6341c0e7",
+  "description": "Separa dados de personalizacao para envio do email",
+  "queryText": "SELECT \r\n\tB.CPF_CNPJ,\r\n\tB.NUMERO_DO_TITULO,\r\n\tT.HC_NUMERO_DA_SORTE__C AS NUMERO_DA_SORTE,\r\n\tT.HC_VALOR_DA_PARCELA__C AS VALOR_DA_PARCELA__C,\r\n\tT.HC_TERMINO_CARENCIA__C AS TERMINO_CARENCIA,\r\n\tT.HC_FIM_PREVISTO__C AS INICIO_DA_VIGENCIA\r\nFROM TB_BOAS_VINDAS_POSTALCAP_COMOTC_FILTRADA B\r\nINNER JOIN HC_TITULO__C_SALESFORCE T WITH (NOLOCK) ON B.CPF_CNPJ = T.HC_CPF_CNPJ_Titular__c AND B.NUMERO_DO_TITULO = T.HC_NUMERO_DO_TITULO__C",
+  "targetName": "Tb_Boas_Vindas_Postalcap_Dados_Personalizacao",
+  "targetKey": "12C0664E-9054-4324-9756-C24E318C71D7",
+  "targetId": "0cb7132b-3ffa-eb11-a30d-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-08-10T20:08:15.39",
+  "modifiedDate": "2021-08-10T20:08:15.39",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 37321,
+  "isFrozen": false
+}

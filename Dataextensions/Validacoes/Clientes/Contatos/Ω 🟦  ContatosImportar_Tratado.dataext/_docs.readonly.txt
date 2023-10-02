@@ -1,0 +1,9 @@
+Dataextension name: ContatosImportar_Tratado
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| HC_Tipo_de_Relacionamento__c | Text(50)        | false    | false    |                 |
+| accountid            | Text(50)        | false    | false    |                 |
+| FirstName            | Text(255)       | false    | false    |                 |
+| HC_CPF_CNPJ__c       | Text(255)       | false    | false    |                 |
+| Name                 | Text(255)       | false    | false    |                 |

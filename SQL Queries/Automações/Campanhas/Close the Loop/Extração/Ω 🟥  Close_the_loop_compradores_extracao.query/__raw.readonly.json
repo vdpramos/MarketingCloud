@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a83e03fb-fb1e-46b2-88b2-0aa95352df21",
+  "name": "Close_the_loop_compradores_extracao",
+  "key": "c723abaa-47a4-4b79-8246-819014ca837c",
+  "description": "",
+  "queryText": "SELECT *,\n    (SELECT MAX(Onda) FROM Close_the_loop_controle_ondas) AS Onda\nFROM Close_the_loop_OTC291_filtrada\nWHERE\n    Interacao = 'Compradores'",
+  "targetName": "Close_the_loop_compradores_extracao",
+  "targetKey": "13D02F9F-771B-4AE1-B506-FF17C215CC20",
+  "targetId": "7aa1a723-ba7c-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-12-15T15:00:49.373",
+  "modifiedDate": "2023-04-26T10:38:24.113",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 56143,
+  "isFrozen": false
+}

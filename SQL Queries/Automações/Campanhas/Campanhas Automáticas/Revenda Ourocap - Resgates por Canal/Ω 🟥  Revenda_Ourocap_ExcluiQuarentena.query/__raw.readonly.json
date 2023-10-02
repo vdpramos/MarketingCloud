@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7e2c8883-a85e-4a97-a926-3b3c949f8a96",
+  "name": "Revenda_Ourocap_ExcluiQuarentena",
+  "key": "3049336f-e2e0-48f0-b33a-3624b142d9a2",
+  "description": "Filtra a base de revenda para gerar apenas o contato elegivel a ser enviado ao OTC290",
+  "queryText": "SELECT\n  a.*\nFROM Revenda_Ourocap_PublicoInicial a\nWHERE\n  QUARENTENA = 0",
+  "targetName": "Revenda_Ourocap_Filtrada",
+  "targetKey": "32456D73-AAA4-47EF-9D7C-DFAFD5179E6D",
+  "targetId": "8ab31dba-4605-ec11-a30b-48df370eabe4",
+  "targetDescription": "Base com contatos filtrados para o envio para o OTC",
+  "createdDate": "2021-08-24T19:54:45.263",
+  "modifiedDate": "2023-08-29T14:05:53.957",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 31760,
+  "isFrozen": false
+}

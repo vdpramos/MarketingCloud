@@ -1,0 +1,56 @@
+SELECT
+  BASE.*
+FROM (
+  SELECT
+    B.HC_CPF_CNPJ__C AS CPF_CNPJ,
+    replace( replace( replace( replace( replace( replace( replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (C.NAME, 'á', 'a'),'é', 'e'),'í', 'i'),'ó', 'o'),'ú', 'u'),'Á', 'A'),'É', 'E'),'Í', 'I'),'Ó', 'O'),'Ú', 'U'),'à', 'a'),'À', 'A'),'ã', 'a'),'õ', 'o'),'Ã', 'A'),  'Õ', 'O'),'â', 'a'),'ê', 'e'),'ô', 'o'),'Â', 'A'),'Ê', 'E'),'Ô', 'O'),'ç', 'c'),'Ç', 'c') , '-', '') , '+', '') , '|', '') , '$', '') , '%', '') , '&', '') AS NOME,
+    CASE
+      WHEN B.HC_EMAIL_PRINCIPAL__C = 'Brasilcap' THEN HC_EMAIL_BRASILCAP__C
+      WHEN B.HC_EMAIL_PRINCIPAL__C = 'Comercial' THEN HC_EMAIL_COMERCIAL__C
+      WHEN B.HC_EMAIL_PRINCIPAL__C = 'Pessoal' THEN HC_EMAIL_PESSOAL__C
+      WHEN B.HC_EMAIL_BRASILCAP__C IS NOT NULL THEN HC_EMAIL_BRASILCAP__C
+      WHEN B.HC_EMAIL_COMERCIAL__C IS NOT NULL THEN HC_EMAIL_COMERCIAL__C
+      WHEN B.HC_EMAIL_PESSOAL__C IS NOT NULL THEN HC_EMAIL_PESSOAL__C
+      ELSE NULL
+    END AS EMAIL,
+    A.ID AS ID_CAMPANHA, 
+    B.ID AS ID_CLIENTE_PARCEIRO,
+    C.ID AS ID_CONTATO,
+    row_number() over (PARTITION BY B.ID ORDER BY B.ID) AS ROWNO
+  FROM (
+    SELECT
+      A.ID as CAMPAIGNID,
+      B.ID AS CLIENTEPARCEIROID,
+      C.ID AS CONTACTID,
+      row_number() over (PARTITION BY B.ID ORDER BY B.ID) AS ROW
+    FROM CAMPAIGN_SALESFORCE A
+    INNER JOIN HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE B ON 1 = 1
+    INNER JOIN CONTACT_SALESFORCE C ON C.HC_CPF_CNPJ__C = B.HC_CPF_CNPJ__C
+    WHERE
+      A.PARENTID = '7016g000000Nd12AAC'
+      AND A.ISACTIVE = 1
+      /* Momento de execução da campanha */
+      AND CONVERT(VARCHAR(10), A.HC_DATA_DE_EXECUCAO__C, 101) = CONVERT(VARCHAR(10), GETDATE(), 101)
+        AND DATEPART(HH, A.HC_DATA_DE_EXECUCAO__C) = DATEPART(HH, GETDATE())
+      AND (A.HC_PARCEIRO__C = B.HC_PARCEIRO__C OR A.HC_PARCEIRO__C IS NULL)
+      AND (B.HC_TIPO_DE_PESSOA__C = A.HC_TIPO_DE_CLIENTE__C OR A.HC_TIPO_DE_CLIENTE__C = 'PF E PJ')
+      AND B.HC_CLASSIFICACAO__C = 'Cliente'
+      AND ISNULL(B.HC_PEP__C, 0) = 0
+      AND ISNULL(B.HC_CONSELHEIRO__C, 0) = 0
+      AND B.HC_IDADE__C BETWEEN 18 AND 70
+      AND B.HC_PARCEIRO__C = 'a0W6g000006R0MfEAK'
+      AND (
+        B.HC_EMAIL_BRASILCAP__C IS NOT NULL OR B.HC_EMAIL_COMERCIAL__C IS NOT NULL OR B.HC_EMAIL_PESSOAL__C IS NOT NULL
+      )
+  ) SELECTED
+  INNER JOIN CAMPAIGN_SALESFORCE A ON SELECTED.CAMPAIGNID = A.ID
+  INNER JOIN HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE B ON SELECTED.CLIENTEPARCEIROID = B.ID
+  INNER JOIN CONTACT_SALESFORCE C ON SELECTED.CONTACTID = C.ID
+  WHERE SELECTED.ROW = 1
+) BASE
+INNER JOIN
+  CAMPAIGN_SALESFORCE CAMP
+  ON BASE.ID_CAMPANHA = CAMP.ID
+WHERE
+	CAMP.HC_QUANTIDADE_DE_CONTATOS_NO_MAILING__C IS NULL
+	OR BASE.ROWNO <= (CAMP.HC_QUANTIDADE_DE_CONTATOS_NO_MAILING__C)

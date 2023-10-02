@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "4547d206-8aef-488f-8ddc-02eeed8211be",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Sexo",
+    "FieldType": "Text",
+    "ObjectID": "6667b15a-b8e3-44d9-973c-54e0d6d5fe26",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "CPF CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "6d68a3d4-9971-4e7b-8f00-4646a44c2481",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

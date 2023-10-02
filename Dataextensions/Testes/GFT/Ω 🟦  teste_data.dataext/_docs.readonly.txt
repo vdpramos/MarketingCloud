@@ -1,0 +1,6 @@
+Dataextension name: teste_data
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| id                   | Text(50)        | true     | false    |                 |
+| datas                | Date            | true     | false    |                 |

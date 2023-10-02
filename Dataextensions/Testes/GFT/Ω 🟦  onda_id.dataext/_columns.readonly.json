@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "Campanha",
+    "FieldType": "Text",
+    "ObjectID": "c1d355c4-2763-4705-89b8-e286314eb0d4",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Onda",
+    "FieldType": "Text",
+    "ObjectID": "9d3e38f9-ab8c-4178-a2ef-7a0bde88d0eb",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Data",
+    "FieldType": "Text",
+    "ObjectID": "39dc9dcd-472b-4445-955d-9055a8a19624",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

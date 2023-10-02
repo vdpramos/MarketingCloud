@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "ID_PROPOSTA",
+    "FieldType": "Text",
+    "ObjectID": "fb80dfd2-0586-4b15-b405-591e035240f6",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

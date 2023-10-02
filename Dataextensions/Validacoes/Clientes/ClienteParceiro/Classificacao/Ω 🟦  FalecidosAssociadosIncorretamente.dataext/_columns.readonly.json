@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "82179183-c039-4afd-95cc-6c957a6209b9",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "PARCEIRO_CAP",
+    "FieldType": "Text",
+    "ObjectID": "ac50e5e9-35b2-4335-b725-1a3b86b9c9c4",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "CPF_PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "d1bfbe71-67da-4db3-97f6-8468264b90c3",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

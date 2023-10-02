@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6671eb88-a6ea-4330-ae48-b12b7337960b",
+  "name": "Exclusao_contatos_backup",
+  "key": "8faf578f-6a99-494c-af07-4cc2d9ba5def",
+  "description": "",
+  "queryText": "SELECT *\nFROM Exclusao_contatos",
+  "targetName": "Exclusao_contatos_backup",
+  "targetKey": "0F53021D-70AE-4EA7-AB62-FEA804FF022E",
+  "targetId": "912bbff8-7c96-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2023-01-17T09:42:01.363",
+  "modifiedDate": "2023-04-26T10:42:57.25",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 57312,
+  "isFrozen": false
+}

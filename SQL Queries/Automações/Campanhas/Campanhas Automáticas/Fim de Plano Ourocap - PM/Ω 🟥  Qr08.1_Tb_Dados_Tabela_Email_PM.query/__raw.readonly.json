@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "9ce905c4-62f4-49de-8411-ed12222068b5",
+  "name": "Qr08.1_Tb_Dados_Tabela_Email_PM",
+  "key": "63b2b7e7-0efc-4a16-9fbc-40d3f35513b3",
+  "description": "",
+  "queryText": "SELECT\nA.CPF_CNPJ,\nC.HC_Valor_Liquido__c as Valor_Resgate,\nC.NAME as Numero_do_Titulo,\nC.HC_Fim_previsto__c as Data_Credito,\nC.HC_Meio_de_Credito__c as Forma_Credito,\nD.HC_Descricao__c AS Produto\nFROM Tb_Base_Fim_Plano_Ourocap_PM_OTC291_Filtrada_NeoBpo A\nINNER JOIN HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE B ON A.CPF_CNPJ = B.HC_CPF_CNPJ__c\nINNER JOIN HC_TITULO__C_SALESFORCE C ON C.HC_CLIENTE_X_PARCEIRO__C = B.ID\nINNER JOIN HC_PRODUTO__C_SALESFORCE D ON C.HC_produtoRelacionado__c = D.ID",
+  "targetName": "Tb_Dados_Tabela_Email_PM_comOTC",
+  "targetKey": "0D811ACF-1D44-4A1E-AECE-098611C9893B",
+  "targetId": "76acbc3c-57b2-ec11-a313-48df370ed7f5",
+  "targetDescription": "",
+  "createdDate": "2021-12-28T08:43:05.677",
+  "modifiedDate": "2022-04-02T03:03:45.84",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 33760,
+  "isFrozen": false
+}

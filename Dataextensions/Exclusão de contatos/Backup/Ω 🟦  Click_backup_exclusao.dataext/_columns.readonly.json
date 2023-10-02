@@ -1,0 +1,178 @@
+[
+  {
+    "Name": "AccountID",
+    "FieldType": "Number",
+    "ObjectID": "ba853d20-7468-4275-9473-46a6de3b8fb7",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "OYBAccountID",
+    "FieldType": "Number",
+    "ObjectID": "f2d1f66a-f7f7-483c-86b7-8475a1bbecda",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "JobID",
+    "FieldType": "Number",
+    "ObjectID": "a052ad4a-dc26-48a8-97a2-8f6736a34844",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "ListID",
+    "FieldType": "Number",
+    "ObjectID": "2eeadb5e-6691-4ede-bc7a-477aa90dd681",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "BatchID",
+    "FieldType": "Number",
+    "ObjectID": "a679229e-1893-48bd-836d-507f43f5a6b0",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "SubscriberID",
+    "FieldType": "Text",
+    "ObjectID": "15f69d19-f8fa-489f-bd32-4f1818e801de",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "SubscriberKey",
+    "FieldType": "Text",
+    "ObjectID": "9b008943-1831-44dc-b954-312c79d11241",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "EventDate",
+    "FieldType": "Date",
+    "ObjectID": "2cfbc3ca-3e19-4154-8a56-9cdceacb703b",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "Domain",
+    "FieldType": "Text",
+    "ObjectID": "ac745f38-fd77-4cc7-847e-58d1755cf017",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "URL",
+    "FieldType": "Text",
+    "ObjectID": "0c2d4cbe-f9ad-4c03-80f5-451356b6f32b",
+    "MaxLength": "900",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "LinkName",
+    "FieldType": "Text",
+    "ObjectID": "557f4190-7578-4554-a5b4-b6c5cdd23678",
+    "MaxLength": "900",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "LinkContent",
+    "FieldType": "Text",
+    "ObjectID": "0660bd42-965c-4136-bc1f-54678b481132",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "IsUnique",
+    "FieldType": "Boolean",
+    "ObjectID": "aebc46da-179c-4e4b-986d-e6ca8f8bd717",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "TriggererSendDefinitionObjectID",
+    "FieldType": "Text",
+    "ObjectID": "38ce88b2-ad36-4f97-a1ae-7283517ffbf3",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "TriggeredSendCustomerKey",
+    "FieldType": "Text",
+    "ObjectID": "02a45b0f-09be-4a60-9f2e-1729722d7b3b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 14
+  },
+  {
+    "Name": "Data_exclusao",
+    "FieldType": "Date",
+    "ObjectID": "769e2396-4a70-4441-8272-24fc0de1fa08",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GetDate()",
+    "Ordinal": 15
+  }
+]

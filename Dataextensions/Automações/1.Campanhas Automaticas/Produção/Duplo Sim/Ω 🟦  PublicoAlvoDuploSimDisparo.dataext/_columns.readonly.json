@@ -1,0 +1,123 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "f230dbc0-190a-43fd-9567-fc8802d92c67",
+    "MaxLength": "14",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "NOME",
+    "FieldType": "Text",
+    "ObjectID": "5bd044c1-81f0-42b0-be29-0d94625ac35d",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "TELEFONE",
+    "FieldType": "Phone",
+    "ObjectID": "e908d687-e5b1-4dee-91dd-c9c76433a982",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "ID_CLIENTE_PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "d6364059-a3b8-40a8-9a45-b769e323281d",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "ID_CONTATO",
+    "FieldType": "Text",
+    "ObjectID": "90706d95-a92e-42ef-9dc2-f36b750c2fac",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "ID_CLIENTE",
+    "FieldType": "Text",
+    "ObjectID": "3da25107-4e6f-4bdb-b114-e12d7896d1f4",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "ID_CAMPANHA",
+    "FieldType": "Text",
+    "ObjectID": "da5f6e61-b707-40e4-990b-cd6fbe29b78d",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "DT_ULT_EXECUCAO",
+    "FieldType": "Date",
+    "ObjectID": "fd197683-084d-4a94-a6b3-6410fbfd7da8",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "DATA_PROXIMA_EXECUCAO",
+    "FieldType": "Date",
+    "ObjectID": "96954169-aebb-4528-a66f-2c419181ccbc",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "TELEFONE_PADRONIZADO",
+    "FieldType": "Text",
+    "ObjectID": "4a59178d-5b3b-4b69-a870-97b98107f0aa",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "ID_DEMANDA",
+    "FieldType": "Text",
+    "ObjectID": "4b12162c-0166-4681-9037-37616845c24c",
+    "MaxLength": "18",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  }
+]

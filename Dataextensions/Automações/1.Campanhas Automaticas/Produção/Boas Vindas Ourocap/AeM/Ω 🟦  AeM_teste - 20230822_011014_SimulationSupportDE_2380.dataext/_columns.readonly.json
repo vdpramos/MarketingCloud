@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "6cf340e6-51a9-4f5a-8cd1-5c4fd64e3e4f",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Celular",
+    "FieldType": "Phone",
+    "ObjectID": "9c4d309b-789e-4e0a-a289-3209a73fb5b7",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Locale",
+    "FieldType": "Text",
+    "ObjectID": "1b628b6a-92dc-4254-96d9-8f2a0db2cc2c",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "BR",
+    "Ordinal": 3
+  },
+  {
+    "Name": "SimulationOverrideEmail",
+    "FieldType": "EmailAddress",
+    "ObjectID": "ec741473-ba2d-4221-8df4-aebcb7511097",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  }
+]

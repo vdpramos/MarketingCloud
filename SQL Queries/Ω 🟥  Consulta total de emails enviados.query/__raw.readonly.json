@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "23018128-3743-436f-a4f4-9c6004768463",
+  "name": "Consulta total de emails enviados",
+  "key": "47d4ff55-002a-401e-979a-c7e85f873d2f",
+  "description": "",
+  "queryText": "SELECT\nMONTH(EventDate) AS MES,\nYEAR(EventDate) AS ANO,\nCOUNT(*) AS QTD_TOTAL_EMAILS\nFROM _Sent WITH(NOLOCK)\nGROUP BY MONTH(EventDate),\nYEAR(EventDate)\n",
+  "targetName": "Volumetria_MC",
+  "targetKey": "317D182F-973F-4F77-AC6F-7AF8D3B4207E",
+  "targetId": "8b11ae58-e5a5-ec11-a313-48df370ed7f5",
+  "targetDescription": "",
+  "createdDate": "2022-03-17T07:14:00.107",
+  "modifiedDate": "2022-03-21T11:07:51.777",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 1930,
+  "isFrozen": false
+}

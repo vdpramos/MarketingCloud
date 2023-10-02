@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "9318B924-2173-4684-B0B5-EE28B845979A"
+  ],
+  "Name": [
+    "Tb_Recuperacao_Caducidade_Extracao_OTC"
+  ]
+}

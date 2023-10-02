@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "CPF _ CNPJ Subscritor",
+    "FieldType": "Text",
+    "ObjectID": "aa7b064d-9684-497f-88ff-3218ebc88095",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Nome do Subscritor",
+    "FieldType": "Text",
+    "ObjectID": "489ef203-6150-44b0-a449-4c01e31bf684",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "CPF _ CNPJ Titular",
+    "FieldType": "Text",
+    "ObjectID": "72ab3035-b2e0-4250-8c05-464bc9257719",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

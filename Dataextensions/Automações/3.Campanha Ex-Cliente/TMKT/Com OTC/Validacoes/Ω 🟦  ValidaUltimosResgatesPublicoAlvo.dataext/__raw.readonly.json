@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "60BB2913-1D51-422E-B983-1BDE8461E854"
+  ],
+  "Name": [
+    "ValidaUltimosResgatesPublicoAlvo"
+  ]
+}

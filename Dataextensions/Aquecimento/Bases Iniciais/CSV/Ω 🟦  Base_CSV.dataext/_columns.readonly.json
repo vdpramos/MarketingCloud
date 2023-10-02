@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "8fe53c1f-999a-4fcf-9117-c8647927d6a6",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "3bb80ada-db77-4338-a879-38c74d78a630",
+    "MaxLength": "400",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Email",
+    "FieldType": "EmailAddress",
+    "ObjectID": "24f0cf18-a435-444f-a851-842fdeb7c1ba",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "DT_Envio",
+    "FieldType": "Date",
+    "ObjectID": "a5e4fe06-3108-4b7d-9e5e-39e1a78aac7c",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "DT_Entregue",
+    "FieldType": "Date",
+    "ObjectID": "55e1a738-c40f-4c1c-a632-0b1da37312a7",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "DT_Aberto",
+    "FieldType": "Date",
+    "ObjectID": "44e916fe-bb10-4088-8ec2-07ca0d5bc44f",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "DT_Clicado",
+    "FieldType": "Date",
+    "ObjectID": "aaad3f5b-a74d-4ba2-a1b7-1bc4428e42f1",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  }
+]

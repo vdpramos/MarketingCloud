@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "F6E6B8CA-5EA4-40CC-AE80-28CDFE1F5A61"
+  ],
+  "Name": [
+    "Tb_Validacao_Prop_Ourocap_N_Pag"
+  ]
+}

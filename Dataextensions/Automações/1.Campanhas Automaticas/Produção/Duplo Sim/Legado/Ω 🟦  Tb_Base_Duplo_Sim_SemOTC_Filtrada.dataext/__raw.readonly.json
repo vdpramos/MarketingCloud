@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "F8C603A9-D5DB-4721-87DE-6660CC357DB2"
+  ],
+  "Name": [
+    "Tb_Base_Duplo_Sim_SemOTC_Filtrada"
+  ]
+}

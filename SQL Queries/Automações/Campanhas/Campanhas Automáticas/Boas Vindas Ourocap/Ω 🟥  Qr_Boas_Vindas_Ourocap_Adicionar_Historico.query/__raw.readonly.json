@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6a6a288b-91a9-482d-8419-8f355f26a5f4",
+  "name": "Qr_Boas_Vindas_Ourocap_Adicionar_Historico",
+  "key": "73b5af6e-5e35-49b3-ba3b-79f1f8cfb2f9",
+  "description": "Adiciona os contatos entrantes na DE de Quarentena",
+  "queryText": "SELECT \r\n  ID_PROPOSTA,\r\n  CPF_CNPJ,\r\n  ID_CONTATO,\r\n  ID_CLIENTE_PARCEIRO,\r\n  EMAIL_VALIDO,\r\n  CELULAR_VALIDO,\r\n  NAO_DESEJA_RECEBER_EMAIL,\r\n  NAO_DESEJA_RECEBER_SMS,\r\n  EMAIL,\r\n  CELULAR,\r\n  TITULOS_ANTERIORES_ATIVOS,\r\n  TITULOS_ANTERIORES_INATIVOS,\r\n  CREATEDDATE\r\nFROM TB_BOAS_VINDAS_OUROCAP_PROSPOSTAS\r\nWHERE NAO_IMPORTUNE = 0",
+  "targetName": "Boas_Vindas_Historico_Propostas",
+  "targetKey": "3BEE97B9-2E4B-4E71-8261-48E6BF25F692",
+  "targetId": "1d3298d2-0e02-ed11-a5b6-d4f5ef66aed7",
+  "targetDescription": "DE que guarda aqueles que ja entraram na jornada",
+  "createdDate": "2021-08-09T16:20:32.107",
+  "modifiedDate": "2022-09-20T13:22:33.32",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 37320,
+  "isFrozen": false
+}

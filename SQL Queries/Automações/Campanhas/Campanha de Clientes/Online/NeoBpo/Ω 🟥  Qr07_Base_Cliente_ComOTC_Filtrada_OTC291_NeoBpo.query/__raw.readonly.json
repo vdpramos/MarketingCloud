@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4eb77879-7262-49a2-b3f3-a54dc22a415c",
+  "name": "Qr07_Base_Cliente_ComOTC_Filtrada_OTC291_NeoBpo",
+  "key": "b2674856-0b0c-4d2b-9409-e3c46f7c4857",
+  "description": "",
+  "queryText": "SELECT TOP 29000 * \nFROM TB_BASE_CLIENTE_OTC291_TRATADA_NEOBPO \nWHERE CODIGO_RNA = '000' \n  AND ALTA_RENDA = 0",
+  "targetName": "Tb_Base_Cliente_OTC291_Filtrada_NeoBpo",
+  "targetKey": "067688C7-FBF9-4DF6-969D-ABA096AADE15",
+  "targetId": "6825d0cc-c498-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-03-05T16:15:54.55",
+  "modifiedDate": "2021-06-30T17:17:20.573",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 30539,
+  "isFrozen": false
+}

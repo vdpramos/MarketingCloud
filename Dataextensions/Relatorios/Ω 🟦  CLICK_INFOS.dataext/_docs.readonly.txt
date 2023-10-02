@@ -1,0 +1,9 @@
+Dataextension name: CLICK_INFOS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| SubscriberKey        | Text(50)        | true     | false    |                 |
+| EventDate            | Date            | false    | false    |                 |
+| JobID                | Number          | false    | false    |                 |
+| URL                  | Text(900)       | false    | false    |                 |
+| SubscriberID         | Text(50)        | false    | false    |                 |

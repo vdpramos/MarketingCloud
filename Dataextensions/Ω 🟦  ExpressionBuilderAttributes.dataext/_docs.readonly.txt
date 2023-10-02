@@ -1,0 +1,8 @@
+Dataextension name: ExpressionBuilderAttributes
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID                   | Number          | true     | true     |                 |
+| Category             | Text(200)       | true     | true     |                 |
+| Name                 | Text(200)       | true     | false    |                 |
+| Value                | Text(500)       | true     | false    |                 |

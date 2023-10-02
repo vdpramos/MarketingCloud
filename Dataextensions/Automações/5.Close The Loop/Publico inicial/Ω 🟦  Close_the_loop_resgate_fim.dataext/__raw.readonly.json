@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "04E5D437-F84D-46E8-B9DA-C707FCBB07E8"
+  ],
+  "Name": [
+    "Close_the_loop_resgate_fim"
+  ]
+}

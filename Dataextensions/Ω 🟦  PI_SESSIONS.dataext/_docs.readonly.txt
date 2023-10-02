@@ -1,0 +1,11 @@
+Dataextension name: PI_SESSIONS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| session_id           | Text(256)       | true     | true     |                 |
+| user_id              | Text(256)       | true     | true     |                 |
+| Batch_ID             | Text            | false    | false    |                 |
+| List_ID              | Text            | false    | false    |                 |
+| Job_ID               | Text            | false    | false    |                 |
+| Landing_URL_ID       | Text            | false    | false    |                 |
+| Subscriber_ID        | Text            | false    | false    |                 |

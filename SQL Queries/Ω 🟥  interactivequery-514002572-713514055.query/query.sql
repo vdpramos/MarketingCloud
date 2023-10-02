@@ -1,0 +1,2 @@
+SELECT rtrim(left(coalesce(CAST(A.CPF_CNPJ as char(255)),'<null>'), 255)) as CPF_CNPJ, rtrim(left(coalesce(CAST(HC_Resultado__c as char(255)),'<null>'), 255)) as HC_Resultado__c, rtrim(left(coalesce(CAST(HC_Motivo__c as char(255)),'<null>'), 255)) as HC_Motivo__c from Tb_Base_Cliente_Online_Extracao_ComOTC_NeoBpo_Teste A
+INNER JOIN CampaignMember_Salesforce B ON A.IDCONTATOS = B.ContactID

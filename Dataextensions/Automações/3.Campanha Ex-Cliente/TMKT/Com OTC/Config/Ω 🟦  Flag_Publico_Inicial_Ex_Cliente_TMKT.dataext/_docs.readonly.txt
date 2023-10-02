@@ -1,0 +1,5 @@
+Dataextension name: Flag_Publico_Inicial_Ex_Cliente_TMKT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Continue             | Boolean         | true     | false    |                 |

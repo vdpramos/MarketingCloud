@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "6BD38B1B-B61B-4093-95C0-D5EA9C9E10B1"
+  ],
+  "Name": [
+    "DE_CAMPANHA_INATIVA"
+  ]
+}

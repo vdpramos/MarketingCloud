@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "AE601CFF-7C51-488C-814E-13112E9F9F46"
+  ],
+  "Name": [
+    "DatasSorteioCAP_Verificado_1"
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "ID",
+    "FieldType": "Text",
+    "ObjectID": "13c4cea3-e36b-4438-bcef-e85f2fb9e30b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "HC_SITUACAO__C",
+    "FieldType": "Text",
+    "ObjectID": "ce45d8ae-e720-457c-83dc-15f92ea4f11c",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "HC_TITULO__C",
+    "FieldType": "Text",
+    "ObjectID": "7094eb6f-1721-40c9-85ce-8ae1d21f6bbf",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  }
+]

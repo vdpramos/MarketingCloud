@@ -1,0 +1,34 @@
+SELECT
+    distinct B.HC_CPF_CNPJ__C AS CPF_CNPJ,
+	C.NAME AS NOME,
+	LEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_1__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL,
+	SUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_1__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL,
+	LEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_2__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL1,
+	SUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_2__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL1,
+	LEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_3__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL2,
+	SUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_3__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL2,
+    B.ID AS ID_CLIENTE_PARCEIRO,
+	C.ID AS ID_CONTATO,
+	B.HC_Cliente__c AS ID_CLIENTE,
+	A.ID AS ID_CAMPANHA,
+	CS.ID AS ID_DEMANDA,
+	getdate() AS Dt_Ult_Execucao,
+	getdate()+1 AS DATA_PROXIMA_EXECUCAO
+FROM HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE B
+INNER JOIN CONTACT_SALESFORCE C 
+    ON C.HC_CPF_CNPJ__C = B.HC_CPF_CNPJ__C
+INNER JOIN CAMPAIGN_SALESFORCE A 
+    ON 1 = 1
+INNER JOIN CASE_SALESFORCE CS 
+    ON CS.ContactId = C.ID
+WHERE
+	A.ID = '7016g000002O07HAAS'
+	AND A.ISACTIVE = 1
+	AND B.HC_Classificacao__c != 'Falecido'
+	AND B.HC_Idade__c BETWEEN 18 AND 70
+	AND B.HC_Nao_deseja_receber_Todos_Meios__c = 0
+	AND B.HC_Nao_deseja_receber_SMS__c = 0
+	AND CS.SMS_Enviado__c <> 1 
+	AND CS.Subject = 'Venda Confirmação - Duplo Sim Pendência'
+	AND CS.CREATEDDATE = GETDATE()
+

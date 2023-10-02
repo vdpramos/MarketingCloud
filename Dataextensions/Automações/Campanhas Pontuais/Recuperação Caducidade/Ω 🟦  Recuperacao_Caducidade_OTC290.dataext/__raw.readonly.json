@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "704002BF-3FC8-44AA-ABBA-6718342DF697"
+  ],
+  "Name": [
+    "Recuperacao_Caducidade_OTC290"
+  ]
+}

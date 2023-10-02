@@ -1,0 +1,10 @@
+Dataextension name: UndeliverableSms_backup_exclusao
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| MobileNumber         | Phone           | true     | false    |                 |
+| Undeliverable        | Boolean         | true     | false    |                 |
+| BounceCount          | Number          | true     | false    |                 |
+| FirstBounceDate      | Date            | true     | false    |                 |
+| HoldDate             | Date            | false    | false    |                 |
+| Data_exclusao        | Date            | true     | false    | GetDate()       |

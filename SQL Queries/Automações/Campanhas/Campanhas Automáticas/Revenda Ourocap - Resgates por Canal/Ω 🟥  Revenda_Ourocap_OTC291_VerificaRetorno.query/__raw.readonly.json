@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b30e5892-8cb2-42f0-89ad-be7a0f1eaece",
+  "name": "Revenda_Ourocap_OTC291_VerificaRetorno",
+  "key": "70c60850-d35e-43df-80c2-3bcc3306feda",
+  "description": "Filtra contatos e gera base para a jornada apenas se todos os contatos estiverem na resposta do OTC291",
+  "queryText": "SELECT\n  A.*\nFROM Revenda_Ourocap_OTC291_Tratada A\n  /* CHECAGEM SE TOODS OS CONTATOS TIVERAM O OTC TRATADO */\nLEFT OUTER JOIN ( \n      SELECT\n        COUNT(1) as CPFS_FALTANDO_NO_OTC\n      FROM Revenda_Ourocap_Filtrada ENV\n      LEFT JOIN Revenda_Ourocap_OTC291_Tratada RET ON ENV.CPF_CNPJ = RET.CPF_CNPJ\n      WHERE RET.CPF_CNPJ IS NULL\n    ) B ON 1 = 1\nWHERE A.CLIENTE_PEP = 0\n        AND A.Codigo_RNA = '000'\n        AND A.Compra_Recente_Ourocap = 0\n        AND A.Conselheiro = 0\n        AND A.Idade_Valida = 1\n        AND A.Nao_deseja_receber_Ligacoes = 0\n        AND A.Possui_Conta_Ativa = 1\n        AND A.Alta_Renda = 0\n        AND A.Possui_Telefone_Ativo = 1",
+  "targetName": "Revenda_Ourocap_OTC291_Filtrada",
+  "targetKey": "E97F8E3D-3A50-4775-B5B4-BEB635784A22",
+  "targetId": "91581256-ed97-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-08-25T14:45:04.357",
+  "modifiedDate": "2023-09-05T11:37:16.177",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 31760,
+  "isFrozen": false
+}

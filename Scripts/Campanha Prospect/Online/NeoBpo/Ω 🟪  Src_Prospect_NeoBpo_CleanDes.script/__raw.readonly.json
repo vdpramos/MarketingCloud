@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "73356668-963b-400d-8012-207f251a8ea3",
+  "name": "Src_Prospect_NeoBpo_CleanDes",
+  "key": "17c0d047-9296-46ab-a57b-a6c5dd1ef192",
+  "description": "Limpa as bases na automação para evitar repetição da Jornada",
+  "script": "<script runat=server>\n  Platform.Load(\"Core\", \"1.1.5\");\n  var api = new Script.Util.WSProxy();\n\n  var BASE_OTC290_FILTRADA = \"4C6B92F3-5838-4AE1-BDF9-9866FF8D8D8A\"; // DE que enviou o OTC290\n  var BASE_OTC291_TRATADA = \"8A9CC35B-CA82-4D13-A9FF-E80893D53B20\"; // DE que recebe o OTC291 tratado\n\n  var action = \"ClearData\";\n  var opts = {};\n  var props_BASE_OTC290_FILTRADA = {\n    CustomerKey: BASE_OTC290_FILTRADA\n  };\n\n  var props_BASE_OTC291_TRATADA = {\n    CustomerKey: BASE_OTC291_TRATADA\n  };\n  \n  api.performItem(\"DataExtension\", props_BASE_OTC290_FILTRADA, action, opts);\n  api.performItem(\"DataExtension\", props_BASE_OTC291_TRATADA, action, opts);\n\n</script>",
+  "categoryId": 40741,
+  "createdDate": "2021-10-26T02:39:57.653",
+  "modifiedDate": "2021-10-26T02:51:46.303"
+}

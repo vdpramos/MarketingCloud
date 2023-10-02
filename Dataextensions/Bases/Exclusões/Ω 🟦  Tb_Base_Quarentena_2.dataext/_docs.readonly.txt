@@ -1,0 +1,7 @@
+Dataextension name: Tb_Base_Quarentena_2
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(50)        | true     | true     |                 |
+| Campanha             | Text(200)       | false    | false    |                 |
+| Data_Participacao_Campanha | Date            | false    | false    | GetDate()       |

@@ -1,0 +1,101 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "db589381-c215-46d0-90d8-6caacd5c84ab",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "PLANO_DO_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "91fe7c9f-b5eb-4788-9e90-5f5b61008d5d",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "SERIE_DO_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "8bbab482-e100-46df-9e5e-f7cf8ef8fa8d",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "NUMERO_DO_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "49245b19-3427-42b3-941f-1b3437655d57",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "ID_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "0c7f0a8b-f166-4043-9d47-5700bc60eb7a",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Date",
+    "FieldType": "Date",
+    "ObjectID": "6eda9b2d-f178-4f8c-bc1f-97848d7b2c93",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GETDATE()",
+    "Ordinal": 5
+  },
+  {
+    "Name": "ID_CONTATO",
+    "FieldType": "Text",
+    "ObjectID": "cda4e321-945c-49c6-90fc-32b14873cb0f",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "ID_CLIENTE_PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "6a486f96-1700-4ff8-bc17-ff1389e6f567",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "CreatedDate",
+    "FieldType": "Date",
+    "ObjectID": "6531bfe5-2205-4dd7-8517-e1c5157fb185",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  }
+]

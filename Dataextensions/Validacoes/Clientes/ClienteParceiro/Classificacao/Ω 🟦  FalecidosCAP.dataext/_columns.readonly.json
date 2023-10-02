@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "7cec4f38-e906-488e-bf06-b193e13690f9",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "HC_Classificacao__c",
+    "FieldType": "Text",
+    "ObjectID": "237e513f-c859-407c-8783-d86c351ee752",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

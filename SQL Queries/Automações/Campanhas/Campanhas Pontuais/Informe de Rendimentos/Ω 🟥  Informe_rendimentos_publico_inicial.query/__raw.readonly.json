@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2756bb12-4cb7-420a-8f6b-2def4fe76db4",
+  "name": "Informe_rendimentos_publico_inicial",
+  "key": "2756BB12-4CB7-420A-8F6B-2DEF4FE76DB4",
+  "description": "",
+  "queryText": "SELECT\n    a.MCI,\n    b.HC_CPF_CNPJ__c AS CPF_CNPJ,\n    b.Id AS Id_Cliente_Parceiro,\n    c.HC_Data_Nascimento__c AS Data_Nascimento,\n    d.Id AS Id_Contato,\n    REPLACE(REPLACE( REPLACE( REPLACE( REPLACE( REPLACE( REPLACE( REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (c.Name, 'á', 'a'),'é', 'e'),'í', 'i'),'ó', 'o'),'ú', 'u'),'Á', 'A'),'É', 'E'),'Í', 'I'),'Ó', 'O'),'Ú', 'U'),'à', 'a'),'À', 'A'),'ã', 'a'),'õ', 'o'),'Ã', 'A'),  'Õ', 'O'),'â', 'a'),'ê', 'e'),'ô', 'o'),'Â', 'A'),'Ê', 'E'),'Ô', 'O'),'ç', 'c'),'Ç', 'c') , '-', '') , '+', '') , '|', '') , '$', '') , '%', '') , '&', '') , '¦', '') AS Nome,\n    CASE \n        WHEN b.HC_Email_Brasilcap__c IS NOT NULL THEN b.HC_Email_Brasilcap__c\n        WHEN b.HC_Email_Pessoal__c IS NOT NULL THEN b.HC_Email_Pessoal__c\n        WHEN b.HC_Email_Comercial__c IS NOT NULL THEN b.HC_Email_Comercial__c\n        ELSE NULL\n    END AS Email,\n    CASE\n        WHEN b.HC_Celular_1__c IS NOT NULL THEN HC_Celular_1__c\n        WHEN b.HC_Celular_2__c IS NOT NULL THEN HC_Celular_2__c\n        WHEN b.HC_Celular_3__c IS NOT NULL THEN HC_Celular_3__c\n        WHEN b.HC_Celular_3_3__c IS NOT NULL THEN HC_Celular_3_3__c\n        WHEN b.HC_Celular_4__c IS NOT NULL THEN HC_Celular_4__c\n        ELSE NULL\n    END AS Celular\nFROM BaseMCI a\n    INNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce b\n        ON a.MCI = b.HC_MCI_BB_Cliente__c\n    INNER JOIN Account_Salesforce c\n        ON c.Id = b.HC_Cliente__c\n    INNER JOIN Contact_Salesforce d\n        ON d.AccountId = c.Id\nWHERE\n    c.HC_Data_Nascimento__c IS NOT NULL\n    AND\n    (\n        (\n        b.HC_Email_Brasilcap__c IS NOT NULL\n        OR\n        b.HC_Email_Pessoal__c IS NOT NULL\n        OR\n        b.HC_Email_Comercial__c IS NOT NULL\n        )\n    OR\n        (\n        HC_Celular_1__c IS NOT NULL\n        OR\n        HC_Celular_2__c IS NOT NULL\n        OR\n        HC_Celular_3__c IS NOT NULL\n        OR\n        HC_Celular_3_3__c IS NOT NULL\n        OR\n        HC_Celular_4__c IS NOT NULL\n        )\n    )\n    AND\n    c.Name IS NOT NULL",
+  "targetName": "Informe_rendimentos_publico_inicial",
+  "targetKey": "0B3D23F6-B621-4455-AA47-14166C53AB69",
+  "targetId": "a7239164-a3e3-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-04-26T08:18:30.307",
+  "modifiedDate": "2023-05-05T13:34:23.613",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 62051,
+  "isFrozen": false
+}

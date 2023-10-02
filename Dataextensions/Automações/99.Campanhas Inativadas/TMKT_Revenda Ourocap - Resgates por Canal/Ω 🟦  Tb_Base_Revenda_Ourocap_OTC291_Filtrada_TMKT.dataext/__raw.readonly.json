@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "1650A319-C9DD-4673-905B-38182B0F5DB9"
+  ],
+  "Name": [
+    "Tb_Base_Revenda_Ourocap_OTC291_Filtrada_TMKT"
+  ]
+}

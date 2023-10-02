@@ -1,0 +1,21 @@
+Dataextension name: SMS_INFOS_REPORT_MONTH
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(100)       | false    | false    |                 |
+| DT_NASCIMENTO        | Text(50)        | false    | false    |                 |
+| TEL_CELULAR          | Text(50)        | false    | false    |                 |
+| CAMPANHA_JORNADA     | Text(300)       | false    | false    |                 |
+| SUBJECT              | Text(300)       | false    | false    |                 |
+| DT_INICIO            | Text(50)        | false    | false    |                 |
+| DT_FIM               | Text(50)        | false    | false    |                 |
+| DT_ENVIO             | Text(50)        | false    | false    |                 |
+| DT_ENTREGA           | Text(50)        | false    | false    |                 |
+| ENTREGUE             | Number          | false    | false    |                 |
+| BOUNCE               | Number          | false    | false    |                 |
+| OPTOUT               | Number          | false    | false    |                 |
+| CONTATANTE           | Text(50)        | true     | false    | BRASILCAP       |
+| Produto              | Text(50)        | true     | false    | OUROCAP         |
+| Subproduto           | Text(50)        | true     | false    | Ourocap PF      |
+| Canal                | Text(50)        | true     | false    | SMS             |
+| Jornada              | Text(50)        | false    | false    |                 |

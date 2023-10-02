@@ -1,0 +1,25 @@
+Dataextension name: ClientesRenovacaoAutomaticaDE
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome                 | Text(100)       | false    | false    |                 |
+| CPF                  | Text(11)        | false    | false    |                 |
+| Agencia              | Text(50)        | false    | false    |                 |
+| Conta                | Text(50)        | false    | false    |                 |
+| TipoConta            | Text(50)        | false    | false    |                 |
+| DataNascimento       | Date            | false    | false    |                 |
+| CEP                  | Text(8)         | false    | false    |                 |
+| Celular1             | Text(30)        | false    | false    |                 |
+| Celular2             | Text(30)        | false    | false    |                 |
+| Celular3             | Text(30)        | false    | false    |                 |
+| Fixo1                | Text(30)        | false    | false    |                 |
+| Fixo2                | Text(30)        | false    | false    |                 |
+| Fixo3                | Text(30)        | false    | false    |                 |
+| DigitoConta          | Text(30)        | false    | false    |                 |
+| Sexo                 | Text(10)        | false    | false    |                 |
+| DDDCelular1          | Text(10)        | false    | false    |                 |
+| DDDCelular2          | Text(10)        | false    | false    |                 |
+| DDDCelular3          | Text(10)        | false    | false    |                 |
+| DDDFixo1             | Text(10)        | false    | false    |                 |
+| DDDFixo2             | Text(10)        | false    | false    |                 |
+| DDDFixo3             | Text(10)        | false    | false    |                 |

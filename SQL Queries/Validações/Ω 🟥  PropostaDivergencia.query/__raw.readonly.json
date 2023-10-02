@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "63d84212-903c-43f1-942c-17341c420c3f",
+  "name": "PropostaDivergencia",
+  "key": "1ebb1632-5193-45dc-a3d5-f905186ff72f",
+  "description": "Divergência de informações entre propostas que estão no CAP mas não estão no Salesforce.",
+  "queryText": "select  ID_PROPOSTA,  ID_PLANO\nfrom Propostas p\nwhere   not exists (select 1 from HC_Proposta__c_SALESFORCE d\n                        where p.id_proposta = d.Name\n                        and p.id_plano = d.HC_Codigo_do_Produto__c)\n                        ",
+  "targetName": "Propostas_ForaSFDC",
+  "targetKey": "23416AD9-1B46-42C2-B84C-CDD264E2C1D1",
+  "targetId": "fe208338-7b20-ec11-a30b-48df370eabe4",
+  "targetDescription": "Propostas que foram geradas no CAP e que não estão no Salesforce ",
+  "createdDate": "2021-09-28T15:25:07.857",
+  "modifiedDate": "2022-06-08T08:02:12.263",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7aa76772-1345-499a-a4cb-f34418853006",
+  "name": "teste_onda_id",
+  "key": "66803ef5-ca8d-41da-9c99-348fa0412fe8",
+  "description": "",
+  "queryText": "SELECT\nCampanha,\nCASE \n    WHEN Onda IS NULL THEN 1\n    ELSE MAX(Onda) + 1\nEND AS ONDA,\nGETDATE() AS Data\nFROM\nonda_id\nWHERE\nCampanha = '12345'\nGROUP BY Campanha, Onda",
+  "targetName": "onda_id",
+  "targetKey": "665154E5-ACC3-49C8-B401-64BA7CBDA4C2",
+  "targetId": "98a527b3-4c9e-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-01-27T08:27:23.937",
+  "modifiedDate": "2023-01-27T08:52:05.513",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 28566,
+  "isFrozen": false
+}

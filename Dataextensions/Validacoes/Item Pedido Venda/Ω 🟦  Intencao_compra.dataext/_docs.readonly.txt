@@ -1,0 +1,5 @@
+Dataextension name: Intencao_compra
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_INTENCAO          | Text(50)        | false    | false    |                 |

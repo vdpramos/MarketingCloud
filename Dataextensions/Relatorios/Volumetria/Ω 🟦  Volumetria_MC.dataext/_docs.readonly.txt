@@ -1,0 +1,11 @@
+Dataextension name: Volumetria_MC
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| MES                  | Text(50)        | true     | true     |                 |
+| ANO                  | Text(50)        | true     | true     |                 |
+| QTD_TOTAL_EMAILS     | Number          | false    | false    |                 |
+| QTD_TOTAL_SMS        | Number          | false    | false    |                 |
+| QTD_TOTAL_PUSH       | Number          | false    | false    |                 |
+| QTD_TOTAL_CLOUDPAG   | Text(50)        | false    | false    |                 |
+| PRINT                | Text(50)        | false    | false    | S               |

@@ -1,0 +1,5 @@
+Dataextension name: CPFs
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | true     | true     |                 |

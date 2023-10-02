@@ -1,0 +1,12 @@
+Dataextension name: _MobileLineAddressContact
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| AddressId            | Text(100)       | true     | false    |                 |
+| ContactID            | Text            | true     | false    |                 |
+| ContactKey           | Text(254)       | true     | false    |                 |
+| IsActive             | Boolean         | true     | false    | true            |
+| CreatedDate          | Date            | true     | false    |                 |
+| CreatedBy            | Text            | true     | false    |                 |
+| ModifiedDate         | Date            | false    | false    |                 |
+| ModifiedBy           | Text            | false    | false    |                 |

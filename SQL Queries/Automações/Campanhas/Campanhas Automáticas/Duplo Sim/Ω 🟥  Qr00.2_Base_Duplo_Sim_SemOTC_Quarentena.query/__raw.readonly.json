@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b3a178b9-948d-4a5a-b2b8-c1cf5aeaf1f9",
+  "name": "Qr00.2_Base_Duplo_Sim_SemOTC_Quarentena",
+  "key": "fd455c56-d764-43af-a33b-212b0a3b9e49",
+  "description": "Verifica se já não houve comunicação para essa proposta",
+  "queryText": "SELECT\r\n  B.ID_PROPOSTA,\r\n  CASE WHEN B.ID_PROPOSTA IS NOT NULL THEN 1 ELSE 0 END AS QUARENTENA\r\nFROM Tb_Base_Duplo_Sim_SemOTC_Tratada B\r\nLEFT JOIN Tb_Base_Duplo_Sim_Propostas_Comunicadas Q ON B.ID_PROPOSTA = Q.ID_PROPOSTA",
+  "targetName": "Tb_Base_Duplo_Sim_Propostas_Comunicadas",
+  "targetKey": "8FCDD4BE-30F2-49E1-973B-2BC479F1821D",
+  "targetId": "47ba40b0-391b-ec11-a30b-48df370eabe4",
+  "targetDescription": "Propostas de contatos que ja receberam SMS",
+  "createdDate": "2021-09-21T19:43:14.307",
+  "modifiedDate": "2021-09-21T19:43:14.307",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 32389,
+  "isFrozen": false
+}

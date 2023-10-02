@@ -1,0 +1,17 @@
+{
+  "channel": "sms",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:previewbycodetype": {
+    "locale": "BR",
+    "supportsConcatenation": true
+  },
+  "display:message": "OUROCAP informa:\nGuardar dinheiro deu sorte! Voce foi sorteado! Confira resultados e premios distribuidos\nhttp://bit.ly/sorteios-brasilcap",
+  "currentColumn": 0,
+  "display:message:display": "OUROCAP informa:\nGuardar dinheiro deu sorte! Voce foi sorteado! Confira resultados e premios distribuidos\nhttp://bit.ly/sorteios-brasilcap",
+  "template": "sms",
+  "contents": [],
+  "shortLinks": [],
+  "uncheckedPanels": []
+}

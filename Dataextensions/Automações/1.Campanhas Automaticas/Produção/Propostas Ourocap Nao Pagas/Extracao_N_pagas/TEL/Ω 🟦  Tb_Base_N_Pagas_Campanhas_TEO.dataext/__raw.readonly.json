@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "55738F02-6082-4B01-962C-35ADCB2D0612"
+  ],
+  "Name": [
+    "Tb_Base_N_Pagas_Campanhas_TEO"
+  ]
+}

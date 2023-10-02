@@ -1,0 +1,28 @@
+SELECT 
+  BASE.CPF_CNPJ,
+  BASE.NOME,
+  BASE.IDADE,
+  BASE.DT_NASCIMENTO,
+  BASE.SEXO,
+  BASE.TIPO_PESSOA,
+  BASE.Id_Campanha,
+  BASE.Id,
+  BASE.Id_Cliente_Parceiro,
+  BASE.Id_Contato,
+  BASE.Id_Cliente,
+  BASE.HC_Contratacao__c,
+  base.Data_da_Venda,
+  BASE.DT_LIMITE,
+  BASE.DIAS_ANTECEDENCIA,
+  BASE.Dt_Ult_Execucao,
+  BASE.HC_FORMATO__C,
+  BASE.HC_FORNECEDOR__C,
+  BASE.NUMERO_CELULAR_ATIVO,
+  base.ID_PROPOSTA,
+  'BR' AS LOCALE,
+  BASE.Agendamento as HC_Data_da_compra__c,
+  BASE.Origem_Venda as HC_Origem_da_Venda__c,
+  BASE.DATA_DISPARO,
+  DATA_PROXIMA_EXECUCAO
+FROM TB_BASE_DUPLO_SIM_SEMOTC_FILTRADA BASE
+WHERE NUMERO_CELULAR_ATIVO IS NOT NULL

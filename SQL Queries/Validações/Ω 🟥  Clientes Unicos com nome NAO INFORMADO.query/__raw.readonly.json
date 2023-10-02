@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7440eac7-e7a1-42ef-9980-e01099990011",
+  "name": "Clientes Unicos com nome NAO INFORMADO",
+  "key": "25136668-c4b4-4dec-a0cb-7fc6c8e3ac14",
+  "description": "",
+  "queryText": "SELECT  ACC.ID, t.NAME, t.hc_cpf_cnpj__c as CPF_CNPJ, t.HC_Tipo_de_Pessoa__c\nFROM ACCOUNT_SALESFORCE ACC\nINNER JOIN HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE T\n    ON ACC.HC_CPF_CNPJ_Cliente__c = T.HC_CPF_CNPJ__c\nWHERE ACC.NAME = 'NAO INFORMADO' \n    AND t.name <>  'NAO INFORMADO' and t.name not like ('NAO %')\n    and t.name not like ('- %')",
+  "targetName": "ClienteUnicoNomeNaoInformado",
+  "targetKey": "4A5E62DB-DE2B-4D5A-92C0-415811974F59",
+  "targetId": "c68e47ce-c4a3-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-03T07:13:34.13",
+  "modifiedDate": "2023-03-23T10:35:04.663",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

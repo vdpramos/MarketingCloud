@@ -1,0 +1,8 @@
+Dataextension name: Base_Yahoo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | true     | true     |                 |
+| NOME                 | Text(400)       | false    | false    |                 |
+| EMAIL                | EmailAddress    | false    | false    |                 |
+| EMAIL_VALIDO         | Boolean         | false    | false    |                 |

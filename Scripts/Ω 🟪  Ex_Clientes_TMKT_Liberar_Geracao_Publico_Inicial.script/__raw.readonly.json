@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "6bb806b2-843f-434b-85ca-d8a98331cc56",
+  "name": "Ex_Clientes_TMKT_Liberar_Geracao_Publico_Inicial",
+  "key": "37022eb0-8eb1-4064-93c5-62befdd43da5",
+  "description": "",
+  "script": "<script runat=\"server\">\n// Confere se deve continuar produzindo publico pro OTC290\nPlatform(\"Core\", \"2.0\");\nvar Id_Campanha = '7016g000000NSIpAAO'; // Campanha Online Ex-Cliente - TMKT - Detalhe\nvar DE_flag_name = 'Flag_Publico_Inicial_Ex_Cliente_TMKT'; // Flag_Publico_Inicial_Cliente_NeoBpo\nvar nameDEApto = 'Publico_Apto_Ex_Clientes_TMKT';\nvar nameDEInapto = 'Publico_Inapto_Ex_Clientes_TMKT';\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\n\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51713') ));\n\n</script>",
+  "categoryId": 1937,
+  "createdDate": "2022-01-26T10:26:56.977",
+  "modifiedDate": "2023-06-15T08:57:00.1"
+}

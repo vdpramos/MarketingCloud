@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "376b2f02-d481-4cb8-bc78-5e0325fa204b",
+  "name": "Close_the_loop_OTC291_tratada",
+  "key": "2b284ff3-1fac-433b-856a-14cdfc66da1b",
+  "description": "",
+  "queryText": "SELECT\n    a.Codigo_Parceiro,\n    a.Codigo_MCI,\n    a.Tipo_Pessoa,\n    a.Codigo_CIC,\n    a.Dt_Nascimento,\n    a.Codigo_RNA,\n    a.Valor_Rendimentos,\n    a.Tipo_Carteira,\n    CASE\n        WHEN a.Nivel_Relacionamento = 2012 THEN 'PFA'\n        WHEN a.Nivel_Relacionamento = 2112 THEN 'PFB'\n        WHEN a.Nivel_Relacionamento IN (2602,2202) THEN 'PFC'\n        WHEN a.Nivel_Relacionamento IN (2702,2302) THEN 'PFD'\n        WHEN a.Nivel_Relacionamento = 2712 THEN 'PFE'\n        ELSE 'OUTROS'\n    END AS Nivel_Relacionamento,\n    a.Data_Informacao,\n    a.Filler2,\n    a.CPF,\n    a.Dt_Nascimento_SF,\n    a.Alta_Renda,\n    b.Id_contato,\n    b.Nome,\n    b.Celular_1,\n    b.Celular_2,\n    b.Celular_3,\n    b.Telefone_Brasilcap,\n    b.Telefone_comercial,\n    b.Email,\n    b.Tipo_pagamento,\n    b.UF,\n    b.Idade,\n    b.Interacao\nFROM Tb_Base_OTC291_Tratada a\n    INNER JOIN Close_the_loop_preparacao_OTC_filtrada b \n        ON a.CPF = b.CPF_CNPJ",
+  "targetName": "Close_the_loop_OTC291_tratada",
+  "targetKey": "F7A4EDD0-8026-4C5A-8018-E9E2BB43FCC6",
+  "targetId": "297f165c-3170-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-29T16:05:06.797",
+  "modifiedDate": "2023-04-26T10:35:32.82",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 56142,
+  "isFrozen": false
+}

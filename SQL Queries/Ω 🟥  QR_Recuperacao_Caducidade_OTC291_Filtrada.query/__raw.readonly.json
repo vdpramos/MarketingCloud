@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6c7e1322-56b8-4c9b-88af-155b73fb25f5",
+  "name": "QR_Recuperacao_Caducidade_OTC291_Filtrada",
+  "key": "6C7E1322-56B8-4C9B-88AF-155B73FB25F5",
+  "description": "",
+  "queryText": "SELECT \n  A.*,\n  C.ID_CONTATO AS CONTACTID\nFROM Tb_Recuperacao_Caducidade_OTC291_Tratada A\n/* CHECAGEM SE TOODS OS CONTATOS TIVERAM O OTC TRATADO */\nLEFT OUTER JOIN ( \n  SELECT\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\n  FROM Tb_Recuperacao_Caducidade_Tratada ENV \n  LEFT JOIN TB_BASE_CLIENTE_OTC291_TRATADA_NEOBPO RET ON ENV.CPF_CNPJ = RET.CPF\n  WHERE RET.CPF IS NULL \n) B ON 1 = 1\nINNER JOIN Tb_Recuperacao_Caducidade_Tratada C ON C.CPF_CNPJ = A.CPF\nWHERE \n/* SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 */\n  /*B.CPFS_FALTANDO_NO_OTC = 0*/\n  /* VALIDAÇÕES POR CONTATO DO OTC */\n   A.CODIGO_RNA = '000'\n  AND A.ALTA_RENDA = 0\n  /* AND A.Nivel_Relacionamento  IN ('2112',  '2202', '2602', '02112',  '02202', '02602') */",
+  "targetName": "Tb_Recuperacao_Caducidade_OTC291_Filtrada",
+  "targetKey": "3AE17482-212B-4793-A717-4952DCF6EF97",
+  "targetId": "5f74e853-5009-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "Base com o publico filtrado pelo OTC291 para execução da campanha",
+  "createdDate": "2023-06-12T12:39:31.593",
+  "modifiedDate": "2023-08-24T12:55:10.54",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

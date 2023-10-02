@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "66189829-8924-43d6-b6db-a079be5b99d1",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "ac22e26f-30db-437b-a5de-fa59f0bf4c12",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "ENCARTEIRAMENTO",
+    "FieldType": "Text",
+    "ObjectID": "cd512413-56d9-489c-a8c3-8e580f2ab128",
+    "MaxLength": "60",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "7BF2024F-AB9C-4A0A-A981-9146CD8E8140"
+  ],
+  "Name": [
+    "Campanha Offline Prospect - Tmkt - detalhe"
+  ]
+}

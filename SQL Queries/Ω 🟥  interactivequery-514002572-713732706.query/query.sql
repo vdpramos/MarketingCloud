@@ -1,0 +1,4 @@
+SELECT DISTINCT rtrim(left(coalesce(CAST(st.JobID as char(255)),'<null>'), 255)) as jobid, rtrim(left(coalesce(CAST(st.EventDate as char(255)),'<null>'), 255)) as eventdate, rtrim(left(coalesce(CAST(ac.HC_Data_Nascimento__c as char(255)),'<null>'), 255)) as data_nascimento, rtrim(left(coalesce(CAST(st.SubscriberKey as char(255)),'<null>'), 255)) as subscriberkey, rtrim(left(coalesce(CAST(ac.HC_CPF_CNPJ_Cliente__c as char(255)),'<null>'), 255)) as cpf, rtrim(left(coalesce(CAST(ac.Id as char(255)),'<null>'), 255)) as id_contato, rtrim(left(coalesce(CAST(st.TriggererSendDefinitionObjectID as char(255)),'<null>'), 255)) as triggerersenddefinitionobjectid from [_Sent] st
+LEFT JOIN Account_Salesforce ac
+ON st.SubscriberKey=ac.HC_CPF_CNPJ_Cliente__c
+WHERE st.EventDate  > dateadd(d,-7,CONVERT(date, GETDATE()))

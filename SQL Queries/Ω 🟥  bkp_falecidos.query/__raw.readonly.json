@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ba17c4c4-1b9d-4e19-b943-3bc607569ac3",
+  "name": "bkp_falecidos",
+  "key": "BA17C4C4-1B9D-4E19-B943-3BC607569AC3",
+  "description": "",
+  "queryText": "select f.cpf, rc.hc_classificacao__c \nfrom FalecidosCAP f\ninner join hc_relacao_cliente_parceiro__c_salesforce rc\n    on f.cpf = rc.HC_CPF_CNPJ_Codigo_Parceiro_CAP__c",
+  "targetName": "bkp_Falecidos",
+  "targetKey": "F8C22D0A-B377-4162-934A-34EAA0223AF9",
+  "targetId": "b8f0390b-8438-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2023-08-11T14:19:32.66",
+  "modifiedDate": "2023-08-14T08:04:46.183",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

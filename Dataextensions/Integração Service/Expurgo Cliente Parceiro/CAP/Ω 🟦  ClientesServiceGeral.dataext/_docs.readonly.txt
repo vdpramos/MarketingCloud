@@ -1,0 +1,8 @@
+Dataextension name: ClientesServiceGeral
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID                   | Text(20)        | true     | true     |                 |
+| CPF_CNPJ_PARCEIRO    | Text(30)        | false    | false    |                 |
+| PARCEIRO             | Text(30)        | false    | false    |                 |
+| CPF_CNPJ             | Text(30)        | false    | false    |                 |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "c358c52c-a0e3-40c4-95dc-ea6825a7936e",
+  "name": "Qr04_Base_Cliente_Trata_Nao_Importune_Tel1_TMKT_ONLINE",
+  "key": "34d8d0fc-fb4a-4fd5-8482-a09325c53662",
+  "description": "",
+  "queryText": "SELECT\n\tA.CPF_CNPJ AS ID,\n\t1 AS NAO_IMPORTUNE\nFROM Tb_Base_Cliente_TMKT_ONLINE  A\nINNER JOIN TB_BASE_NAO_IMPORTUNE N ON ISNULL(CONCAT(A.DDD_TEL_01, A.TEL_01), '00000000000') = LTRIM(RTRIM(N.TELEFONE))",
+  "targetName": "Tb_Base_Cliente_TMKT_ONLINE",
+  "targetKey": "E2A0AE45-6856-4E17-BC19-E4A22A57431D",
+  "targetId": "3d34a76a-0798-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2023-01-19T08:55:28.81",
+  "modifiedDate": "2023-08-24T08:09:29.103",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 58189,
+  "isFrozen": false
+}

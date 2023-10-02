@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "58EFCA8B-615E-41C2-8C25-C5E85A9B166C"
+  ],
+  "Name": [
+    "Atualizacao Flag Delete Cliente Parceiro"
+  ]
+}

@@ -1,0 +1,5 @@
+Dataextension name: Recuperacao_Caducidade_OTC290
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Base                 | Text(4000)      | false    | false    |                 |

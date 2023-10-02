@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "921746b3-e888-4162-b928-e4931c89ab72",
+  "name": "Qr00.1_Base_Prospect_Filtrada_Algar",
+  "key": "b8989391-f1c4-428f-9021-25d30b07079c",
+  "description": "Fitlra base de contatos para ser preparada para extração",
+  "queryText": "SELECT\n A.*\nFROM TB_BASE_PROSPECT_COMOTC_TRATADA_ALGAR A\nWHERE IDADE_VALIDA = 1\n  AND CONTA_CORRENTE = 1\n  AND QUARENTENA = 0 \n  AND CONSELHEIRO = 0 \n  /* AND CLIENTE = 0 */\n  /*AND VALIDA_RNA = 1*/\n  AND CEP_VALIDO = 1\n  AND NAO_IMPORTUNE = 0",
+  "targetName": "Tb_Base_Prospect_ComOTC_Filtrada_Algar",
+  "targetKey": "869451B9-B9E4-4638-9415-DD9592C16586",
+  "targetId": "9823e98d-6f04-ec11-a30b-48df370eabe4",
+  "targetDescription": "",
+  "createdDate": "2021-08-23T18:10:19.637",
+  "modifiedDate": "2021-10-26T18:12:27.153",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29367,
+  "isFrozen": false
+}

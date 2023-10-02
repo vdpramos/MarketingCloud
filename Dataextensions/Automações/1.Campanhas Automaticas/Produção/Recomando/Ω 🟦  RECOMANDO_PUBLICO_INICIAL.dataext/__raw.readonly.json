@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "0CF1F0BD-C93A-44ED-90B1-C3B3D019BED3"
+  ],
+  "Name": [
+    "RECOMANDO_PUBLICO_INICIAL"
+  ]
+}

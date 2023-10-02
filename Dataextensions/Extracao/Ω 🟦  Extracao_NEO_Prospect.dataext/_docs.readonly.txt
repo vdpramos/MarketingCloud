@@ -1,0 +1,8 @@
+Dataextension name: Extracao_NEO_Prospect
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(50)        | false    | false    |                 |
+| DATA_CRIACAO         | Date            | false    | false    |                 |
+| CONTACTID            | Text(50)        | false    | false    |                 |
+| ACCOUNTID            | Text(50)        | false    | false    |                 |

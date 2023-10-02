@@ -1,0 +1,5 @@
+Dataextension name: CPFs_Verificar_Quarentena
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | false    | false    |                 |

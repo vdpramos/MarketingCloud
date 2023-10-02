@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "c4e0b870-2801-48bd-a54e-5cec452b061a",
+  "name": "AeM_Qr_Select_500_WhatsApp_PU_SemOTC",
+  "key": "0db44bc9-af83-46d0-80f5-fd0aa737193f",
+  "description": "",
+  "queryText": "SELECT\n  Idade,\n  Compra_Recente_Ourocap,\n  Cliente_PEP,\n  Nome,\n  Id,\n  Nao_Importune,\n  Possui_Conta_Ativa,\n  Id_Contato,\n  Dt_Inicio_Mailing,\n  Tipo_Pessoa,\n  Sexo,\n  Possui_Telefone_Ativo,\n  Data_Proxima_Execucao,\n  Conselheiro,\n  Deseja_Contato_Telefonico,\n  Idade_Valida,\n  Meses_Compra_Exclusao,\n  Id_Cliente_Parceiro,\n  Dt_Fim_Mailing,\n  Meses_Quarentena_Exclusao,\n  Quarentena,\n  Dt_Nascimento,\n  CPF_CNPJ,\n  Parceiro,\n  NAO_DESEJA_RECEBER_SMS,\n  NAO_DESEJA_RECEBER_EMAIL,\n  EMAIL,\n  EMAIL_VALIDO,\n  CELULAR,\n  CELULAR_VALIDO,\n  ID_CAMPANHA,\n  HC_renovacao_automatica__c,\n  TITULO_ID,\n  CreatedDate,\n  Flag_WhatsApp\n  from (\n  SELECT row_number() OVER (PARTITION BY 1 ORDER BY CreatedDate DESC) AS RANK,\n  Idade,\n  Compra_Recente_Ourocap,\n  Cliente_PEP,\n  Nome,\n  Id,\n  Nao_Importune,\n  Possui_Conta_Ativa,\n  Id_Contato,\n  Dt_Inicio_Mailing,\n  Tipo_Pessoa,\n  Sexo,\n  Possui_Telefone_Ativo,\n  Data_Proxima_Execucao,\n  Conselheiro,\n  Deseja_Contato_Telefonico,\n  Idade_Valida,\n  Meses_Compra_Exclusao,\n  Id_Cliente_Parceiro,\n  Dt_Fim_Mailing,\n  Meses_Quarentena_Exclusao,\n  Quarentena,\n  Dt_Nascimento,\n  CPF_CNPJ,\n  Parceiro,\n  NAO_DESEJA_RECEBER_SMS,\n  NAO_DESEJA_RECEBER_EMAIL,\n  EMAIL,\n  EMAIL_VALIDO,\n  CELULAR,\n  CELULAR_VALIDO,\n  ID_CAMPANHA,\n  HC_renovacao_automatica__c,\n  TITULO_ID,\n  CreatedDate,\n  REPLACE(Flag_WhatsApp, 0, 1) AS Flag_WhatsApp\nFROM\n  AeM_Fim_Plano_PU_semOTC_Filtrado\nWHERE CELULAR_VALIDO = 1) A\nWHERE RANK <= (500 - (SELECT COUNT(1) FROM AeM_Fim_Plano_PU_semOTC_Historico WHERE CONVERT(date, CreatedDate) = CONVERT(date, GETDATE())))",
+  "targetName": "AeM_Fim_Plano_PU_semOTC_Filtrado",
+  "targetKey": "DF7BF614-53F8-4B0C-894E-66D7FEDF17EA",
+  "targetId": "047f0441-1086-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Publico Alvo das comunicacoes",
+  "createdDate": "2022-12-27T18:28:55.37",
+  "modifiedDate": "2023-04-11T12:10:12.663",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 57349,
+  "isFrozen": false
+}

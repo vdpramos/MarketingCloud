@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e6f7d4f5-b33c-4627-bec6-a3632db06a80",
+  "name": "Prospect_TMKT_Restaurar_Flag_Envio_Contato",
+  "key": "a826d4a6-9933-4040-a6f9-b9a51a0a636d",
+  "description": "Restaurar Flag de Contact enviado para Service na Prospect TMKT",
+  "queryText": "select\n CPF,\n 0 as Envio_Service_Contact\nfrom Tb_Base_Prospect_OTC291_Filtrada_TMKT",
+  "targetName": "Tb_Base_Prospect_OTC291_Filtrada_TMKT",
+  "targetKey": "14B63303-9F4F-4FE5-85B5-96D2929E8120",
+  "targetId": "276ead35-39ac-ec11-a313-48df370ed7f5",
+  "targetDescription": "Público gerado para a campanha e discador",
+  "createdDate": "2022-08-26T15:59:36.77",
+  "modifiedDate": "2022-08-26T15:59:36.77",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 48390,
+  "isFrozen": false
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "144C8476-B4DA-4131-B627-D9EB50D6AFC2"
+  ],
+  "Name": [
+    "TMKT e Algar Prospect 14092021"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6d32fd90-156e-4b58-8025-c836800fe1f3",
+  "name": "Informe_rendimentos_trata_celular",
+  "key": "6D32FD90-156E-4B58-8025-C836800FE1F3",
+  "description": "",
+  "queryText": "SELECT\n    CPF_CNPJ,\n    Id_Contato,\n    Id_Cliente_Parceiro,\n    MCI,\n    CONCAT('55', REPLACE(REPLACE(REPLACE(REPLACE(Celular, '(', ''), ')', ''), ' ', ''), '-', '')) AS Celular\nFROM Informe_rendimentos_publico_inicial\nWHERE\n    Celular IS NOT NULL",
+  "targetName": "Informe_rendimentos_publico_inicial",
+  "targetKey": "0B3D23F6-B621-4455-AA47-14166C53AB69",
+  "targetId": "a7239164-a3e3-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-04-26T09:35:23.2",
+  "modifiedDate": "2023-04-27T07:50:34.11",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 62051,
+  "isFrozen": false
+}

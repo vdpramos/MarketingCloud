@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "66876CCC-D57A-4784-B27B-29059F03E8F2"
+  ],
+  "Name": [
+    "Flag_Publico_Inicial_Ex_Cliente_TMKT_ONLINE"
+  ]
+}

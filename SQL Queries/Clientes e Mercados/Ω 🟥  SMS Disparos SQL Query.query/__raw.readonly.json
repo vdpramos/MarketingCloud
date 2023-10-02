@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8f0957be-7934-4cfd-a63a-972e23a19fa7",
+  "name": "SMS Disparos SQL Query",
+  "key": "8F0957BE-7934-4CFD-A63A-972E23A19FA7",
+  "description": "Query de extração dos SMS disparados",
+  "queryText": "SELECT\r\n    S.MobileMessageTrackingID,\r\n    S.EID,\r\n    S.MID,\r\n    S.Mobile,\r\n    S.MessageID,\r\n    S.KeywordID,\r\n    S.CodeID,\r\n    S.ConversationID,\r\n    S.ConversationStateID,\r\n    S.CampaignID,\r\n    S.Sent,\r\n    S.Delivered,\r\n    S.Undelivered,\r\n    S.Outbound,\r\n    S.Inbound,\r\n    S.CreateDateTime,\r\n    S.ModifiedDateTime,\r\n    S.ActionDateTime,\r\n    REPLACE(REPLACE(S.MessageText, CHAR(13), ' '),  Char(10), ' ') AS MessageText,\r\n    S.IsTest,\r\n    S.MobileMessageRecurrenceID,\r\n    S.ResponseToMobileMessageTrackingID,\r\n    S.IsValid,\r\n    S.InvalidationCode,\r\n    S.SendID,\r\n    S.SendSplitID,\r\n    S.SendSegmentID,\r\n    S.SendJobID,\r\n    S.SendGroupID,\r\n    S.SendPersonID,\r\n    S.SubscriberID,\r\n    S.SubscriberKey,\r\n    S.SMSStandardStatusCodeId,\r\n    S.Description,\r\n    S.Name,\r\n    S.ShortCode,\r\n    S.SharedKeyword,\r\n    S.Ordinal,\r\n    S.FromName,\r\n    S.JBActivityID,\r\n    S.JBDefinitionID,\r\n    C.HC_CPF_CNPJ__c AS CPF\r\nFROM _SMSMESSAGETRACKING S\r\nLEFT JOIN Contact_Salesforce C ON C.Id = S.SubscriberKey\r\nWHERE\r\n    S.CreateDateTime >= '2023-01-01'",
+  "targetName": "SMSDisparosDE",
+  "targetKey": "5E727A05-E35F-4B9A-B0B7-3C06EA979783",
+  "targetId": "e2be9ba4-9a26-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "Lista de disparos de SMS",
+  "createdDate": "2023-07-19T19:28:58.46",
+  "modifiedDate": "2023-07-20T12:18:50.533",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 65497,
+  "isFrozen": false
+}

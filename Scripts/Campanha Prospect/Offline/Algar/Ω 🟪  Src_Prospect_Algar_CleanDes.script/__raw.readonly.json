@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "0d6cb9e0-92e9-405a-b0e3-922f21b264e9",
+  "name": "Src_Prospect_Algar_CleanDes",
+  "key": "6194f78e-8f3d-443f-a0f8-f900728cd0ee",
+  "description": "",
+  "script": "<script runat=server>\n  Platform.Load(\"Core\", \"1.1.5\");\n  var api = new Script.Util.WSProxy();\n\n  var BASE_OTC290_FILTRADA = \"869451B9-B9E4-4638-9415-DD9592C16586\"; // DE que enviou o OTC290\n  var BASE_OTC291_TRATADA = \"E20D726E-7172-4AFF-800F-718C08505D6D\"; // DE que recebe o OTC291 tratado\n\n  var action = \"ClearData\";\n  var opts = {};\n  var props_BASE_OTC290_FILTRADA = {\n    CustomerKey: BASE_OTC290_FILTRADA\n  };\n\n  var props_BASE_OTC291_TRATADA = {\n    CustomerKey: BASE_OTC291_TRATADA\n  };\n  \n  api.performItem(\"DataExtension\", props_BASE_OTC290_FILTRADA, action, opts);\n  api.performItem(\"DataExtension\", props_BASE_OTC291_TRATADA, action, opts);\n\n</script>",
+  "categoryId": 38557,
+  "createdDate": "2021-08-19T21:43:29.26",
+  "modifiedDate": "2022-04-25T19:53:33.11"
+}

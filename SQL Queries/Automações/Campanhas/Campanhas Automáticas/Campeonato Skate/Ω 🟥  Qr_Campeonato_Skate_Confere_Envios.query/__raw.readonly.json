@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7d379b6f-5130-423c-a7d9-092e733d7d64",
+  "name": "Qr_Campeonato_Skate_Confere_Envios",
+  "key": "2acf6928-4e99-4c27-a291-6968dcade9d8",
+  "description": "Valida se todos foram enviados para limpar o DE de base envio",
+  "queryText": "SELECT\r\n  QUANTIDADE_FALTANDO\r\nFROM (\r\n  SELECT\r\n    COUNT(1) AS QUANTIDADE_FALTANDO\r\n  FROM TB_CAMPEONATOSKATE_BASE_ENVIO BE\r\n  LEFT JOIN TB_CAMPEONATOSKATE_QUARENTENA_EXECUCAO Q ON Q.ID_CONTATO = BE.ID_CONTATO\r\n  WHERE Q.ID_CONTATO IS NULL\r\n) A\r\nWHERE QUANTIDADE_FALTANDO != 0",
+  "targetName": "Tb_CampeonatoSkate_Flag_Limpar_Envio",
+  "targetKey": "73F39765-9970-4CDA-B09E-578E7545756B",
+  "targetId": "385380de-772c-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "DE flag para limpar o envio quando todos da base envio ja foram comunicados",
+  "createdDate": "2022-09-04T11:42:21.61",
+  "modifiedDate": "2022-09-04T12:26:00.723",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 52821,
+  "isFrozen": false
+}

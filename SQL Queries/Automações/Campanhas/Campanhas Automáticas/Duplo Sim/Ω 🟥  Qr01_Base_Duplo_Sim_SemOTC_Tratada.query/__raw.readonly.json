@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "298250f8-2f4f-46bc-bba9-ca9b9124364c",
+  "name": "Qr01_Base_Duplo_Sim_SemOTC_Tratada",
+  "key": "10128b18-5be0-40b5-98d5-84fa769d201a",
+  "description": "",
+  "queryText": "SELECT BASE.CPF_CNPJ,\n  BASE.NOME,\n  BASE.IDADE,\n  BASE.DT_NASCIMENTO,\n  BASE.SEXO,\n  BASE.TIPO_PESSOA,\n  BASE.PARCEIRO,\n  BASE.Id_Campanha,\n  BASE.Id,\n  BASE.Id_Cliente_Parceiro,\n  BASE.Id_Contato,\n  base.Data_da_Venda,\n  BASE.Id_Cliente,\n  BASE.HC_Contratacao__c,\n  BASE.DT_LIMITE,\n  BASE.DIAS_ANTECEDENCIA,\n  BASE.Dt_Ult_Execucao,\n  BASE.HC_FORMATO__C,\n  BASE.HC_FORNECEDOR__C,\n  BASE.Origem_Venda,\n  BASE.Agendamento,\n  BASE.ID_PROPOSTA,\n  CASE WHEN BASE.DDD_TEL_06 IS NOT NULL\n          AND BASE.TEL_06 IS NOT NULL THEN CONCAT('55',BASE.DDD_TEL_06, BASE.TEL_06)\n      WHEN BASE.DDD_TEL_04 IS NOT NULL\n          AND BASE.TEL_04 IS NOT NULL THEN CONCAT('55',BASE.DDD_TEL_04, BASE.TEL_04)\n      WHEN BASE.DDD_TEL_05 IS NOT NULL\n          AND BASE.TEL_05 IS NOT NULL THEN CONCAT('55',BASE.DDD_TEL_05, BASE.TEL_05)\n  END AS NUMERO_CELULAR_ATIVO,\n  getdate() AS DATA_DISPARO,\n  BASE.DATA_PROXIMA_EXECUCAO\nFROM Tb_Base_Duplo_Sim_SemOTC_Tratada BASE\nWHERE \n  (\n    LEN(CONCAT(BASE.DDD_TEL_04, BASE.TEL_04)) = 11\n    OR LEN(CONCAT(BASE.DDD_TEL_05, BASE.TEL_05)) = 11\n    OR LEN(CONCAT(BASE.DDD_TEL_06, BASE.TEL_06)) = 11\n  )\n  AND NAO_ACEITOU = 1",
+  "targetName": "Tb_Base_Duplo_Sim_SemOTC_Filtrada",
+  "targetKey": "F8C603A9-D5DB-4721-87DE-6660CC357DB2",
+  "targetId": "33791c04-f197-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-07T16:39:16.667",
+  "modifiedDate": "2022-11-10T20:31:47.41",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 32389,
+  "isFrozen": false
+}

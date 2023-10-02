@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "24927de0-ab7f-454a-8126-c1e29480d06f",
+  "name": "CPF_Compradores",
+  "key": "24927DE0-AB7F-454A-8126-C1E29480D06F",
+  "description": "",
+  "queryText": "select a.*, c.hc_cpf_cnpj__c as CPF\nfrom Close_the_loop_compradores_extracao a\ninner join contact_salesforce c\n    on c.id = a.id_contato",
+  "targetName": "Close_the_loop_compradores_homologacao",
+  "targetKey": "54EC1DA0-CCC2-49A8-8B5C-9A9A0C0B90F4",
+  "targetId": "aaff3c9c-20ff-ed11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-05-30T13:39:01.12",
+  "modifiedDate": "2023-06-06T11:41:13.62",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

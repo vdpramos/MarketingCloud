@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "ID",
+    "FieldType": "Text",
+    "ObjectID": "a43917e5-f194-4928-8894-6d09786d02c9",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "HC_Codigo_de_Retorno_de_Erro__c",
+    "FieldType": "Text",
+    "ObjectID": "8454cea0-ba18-4e72-a173-bb37c3ddb21e",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "HC_Data_do_pagamento__c",
+    "FieldType": "Text",
+    "ObjectID": "ac2eb8b2-c515-4eb3-a0d8-106f28a6f517",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

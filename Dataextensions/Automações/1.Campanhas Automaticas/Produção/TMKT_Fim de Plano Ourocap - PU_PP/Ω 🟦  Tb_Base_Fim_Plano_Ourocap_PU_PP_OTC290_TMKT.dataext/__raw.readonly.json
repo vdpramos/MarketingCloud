@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "87B372DD-D3E3-4447-AFA5-AA485553C2CB"
+  ],
+  "Name": [
+    "Tb_Base_Fim_Plano_Ourocap_PU_PP_OTC290_TMKT"
+  ]
+}

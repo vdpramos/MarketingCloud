@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "82ddf975-f48f-4050-a176-4d6870f7890a",
+  "name": "Qr05_Renovacao_Online_Preparo_TMKT",
+  "key": "82DDF975-F48F-4050-A176-4D6870F7890A",
+  "description": "",
+  "queryText": "SELECT\n  '001'+\n  REPLICATE (' ' , 9)+\n  REPLICATE ('0' , 9)+\n  '1'+\n  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, CPF), 15)+\n  CONVERT(VARCHAR(10), CAST(DATA_NASCIMENTO AS DATE), 112)+\n  LEFT(CONVERT(VARCHAR(60), NOME) + REPLICATE(' ', 60), 60)+\n  REPLICATE (' ' , 1)+\n  /*REPLICATE (' ' , 2)*/REPLICATE (' ' , 1)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 5)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 73)+\n  REPLICATE (' ' , 70) AS BASE\nFROM\n  Renovacao_Online_Filtrada_TMKT",
+  "targetName": "Renovacao_OTC290_Online_TMKT",
+  "targetKey": "129C5268-27DD-4B9C-A03D-B44FF35475A1",
+  "targetId": "2866528b-3d47-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2023-08-30T08:00:44.19",
+  "modifiedDate": "2023-08-30T08:00:44.19",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 68066,
+  "isFrozen": false
+}

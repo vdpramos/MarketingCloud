@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a7d99dd9-e2f4-41a0-93e3-d479e7ed2cde",
+  "name": "Recomando_Base_Filtrada",
+  "key": "a105f96c-3a94-4a2a-be03-53a6e7ab78b3",
+  "description": "Gera base para a comunicacao via Jornada",
+  "queryText": "SELECT\r\n  *\r\nFROM RECOMANDO_PUBLICO_INICIAL\r\nWHERE \r\n  NAO_IMPORTUNE = 0",
+  "targetName": "RECOMANDO_BASE_FILTRADA",
+  "targetKey": "95E7ABC3-B6D5-4B60-AC3D-721F7494F238",
+  "targetId": "e93b52c5-eced-ec11-a5b6-d4f5ef66aed7",
+  "targetDescription": "Base para disparo da campanha",
+  "createdDate": "2022-06-16T21:46:21.247",
+  "modifiedDate": "2022-06-16T21:46:21.247",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 31535,
+  "isFrozen": false
+}

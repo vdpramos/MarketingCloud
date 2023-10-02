@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "8E77EB29-1FCD-43E3-9C84-9C8B54806630"
+  ],
+  "Name": [
+    "ClientesSemContaTelefoneImportar"
+  ]
+}

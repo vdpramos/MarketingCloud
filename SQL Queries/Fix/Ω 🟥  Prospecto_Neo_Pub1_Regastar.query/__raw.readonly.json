@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "5902a071-71f6-414b-a384-90cfd7eb44aa",
+  "name": "Prospecto_Neo_Pub1_Regastar",
+  "key": "a6c8ef2f-79f8-4fb4-b0bd-a91a40029872",
+  "description": "Resgata contatos da extracao para passar pela jornada e inserir no service",
+  "queryText": "select\notc291.*\nfrom Tb_Base_Prospect_Online_Extracao_ComOTC_NeoBpo_Pub1 ext\ninner join Tb_Base_Prospect_OTC291_Online_Tratada_NeoBpo_Pub1 otc291 on ext.CPF_CNPJ = otc291.CPF\nwhere otc291.CODIGO_RNA = '000'\n  and otc291.ALTA_RENDA = 0",
+  "targetName": "Tb_Base_Prospect_OTC291_Online_Filtrada_NeoBpo_Pub1",
+  "targetKey": "5B1160A9-AF61-4F65-9EE6-6790AA82BEB4",
+  "targetId": "f3d5ca63-bd3d-ec11-a313-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2022-09-16T11:55:12.887",
+  "modifiedDate": "2022-09-16T11:55:12.887",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 48390,
+  "isFrozen": false
+}

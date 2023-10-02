@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4f7ad72e-5591-45eb-909b-2d5033d56440",
+  "name": "Extrai ClienteParceiros Atualizar",
+  "key": "dfe24ae3-79f3-4d0e-8f87-04f2d60a3a67",
+  "description": "",
+  "queryText": "Select id, id_cliente as hc_cliente__c \nfrom ClienteParceiroSemClienteUnico_Atualizar",
+  "targetName": "ClienteParceiroAtualizar",
+  "targetKey": "CECE3026-5AB0-46C5-A764-AF3D4D28B906",
+  "targetId": "4d8c4501-01a3-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-02T07:54:32.9",
+  "modifiedDate": "2023-02-02T08:19:21.047",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

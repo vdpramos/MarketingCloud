@@ -1,0 +1,1 @@
+select rtrim(left(coalesce(CAST(id as char(255)),'<null>'), 255)) as id from Propostas_N_Pagas_Público_Inicial

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "3AE17482-212B-4793-A717-4952DCF6EF97"
+  ],
+  "Name": [
+    "Tb_Recuperacao_Caducidade_OTC291_Filtrada"
+  ]
+}

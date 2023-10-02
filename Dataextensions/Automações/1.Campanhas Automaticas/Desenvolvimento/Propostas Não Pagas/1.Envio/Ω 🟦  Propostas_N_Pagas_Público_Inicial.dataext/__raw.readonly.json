@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "34F48990-15EF-4492-91C3-ACBD28D29608"
+  ],
+  "Name": [
+    "Propostas_N_Pagas_Público_Inicial"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "f6455b85-977b-49fb-9479-0aa1d9fadd32",
+  "name": "Qr_Pre_Sorteio_Filtrada",
+  "key": "a32d2891-b933-4151-b741-93a5088d1a2a",
+  "description": "Filtra Publico para receber as comunicacoes",
+  "queryText": "SELECT\n  A.*\nFROM TB_PRE_SORTEIO A\nWHERE NAO_IMPORTUNE = 0",
+  "targetName": "Tb_Pre_Sorteio_Filtrada",
+  "targetKey": "5AC47818-192B-46F6-B8D8-8E4E23104A8A",
+  "targetId": "72f1d309-8cf6-ec11-a5b6-d4f5ef66aed7",
+  "targetDescription": "Base que recebe as comunicacoes",
+  "createdDate": "2022-06-08T16:06:01.2",
+  "modifiedDate": "2022-07-07T18:52:27.96",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 49965,
+  "isFrozen": false
+}

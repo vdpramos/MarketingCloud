@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "67DB5901-FFD8-4EDA-BB00-90BF118A6ADA"
+  ],
+  "Name": [
+    "Gmail_DIV02_SUB04"
+  ]
+}

@@ -1,0 +1,90 @@
+SELECT	B.HC_CPF_CNPJ__C AS CPF_CNPJ,
+		replace( replace( replace( replace( replace( replace( replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (replace (C.NAME, 'á', 'a'),'é', 'e'),'í', 'i'),'ó', 'o'),'ú', 'u'),'Á', 'A'),'É', 'E'),'Í', 'I'),'Ó', 'O'),'Ú', 'U'),'à', 'a'),'À', 'A'),'ã', 'a'),'õ', 'o'),'Ã', 'A'),  'Õ', 'O'),'â', 'a'),'ê', 'e'),'ô', 'o'),'Â', 'A'),'Ê', 'E'),'Ô', 'O'),'ç', 'c'),'Ç', 'c') , '-', '') , '+', '') , '|', '') , '$', '') , '%', '') , '&', '') as NOME,
+		HC_IDADE__C AS IDADE,
+		HC_DATA_DE_NASCIMENTO__C AS DT_NASCIMENTO,
+		HC_GENERO_DO_CLIENTE__C AS SEXO,
+		B.HC_PARCEIRO__C AS PARCEIRO,
+		CASE 
+			WHEN UPPER(B.HC_ENDERECO_PRINCIPAL__C) = 'RESIDENCIAL' THEN HC_CEP_RES__C
+			WHEN UPPER(B.HC_ENDERECO_PRINCIPAL__C) = 'COMERCIAL' THEN HC_CEP_COM__C
+			WHEN UPPER(B.HC_ENDERECO_PRINCIPAL__C) = 'CORRESPONDÊNCIA' THEN HC_CEP_COR__C
+		END AS CEP,
+		CASE 
+			WHEN UPPER(B.HC_ENDERECO_PRINCIPAL__C) = 'RESIDENCIAL' THEN HC_UF_RES__C
+			WHEN UPPER(B.HC_ENDERECO_PRINCIPAL__C) = 'COMERCIAL' THEN HC_UF_COM__C
+			WHEN UPPER(B.HC_ENDERECO_PRINCIPAL__C) = 'CORRESPONDÊNCIA' THEN HC_UF_COR__C
+		END AS UF,
+		CASE WHEN Q.CPF_CNPJ IS NOT NULL 
+        AND DATA_PARTICIPACAO_CAMPANHA > DATEADD(DD, -90, GETDATE()) THEN 1 ELSE 0 END AS QUARENTENA,
+		HC_TIPO_DE_PESSOA__C AS TIPO_PESSOA,
+		LEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_TELEFONE_RESIDENCIAL__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_01,
+		SUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_TELEFONE_RESIDENCIAL__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_01,
+		'FIXO' AS TIPO_TEL_01,
+		LEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_TELEFONE_COMERCIAL__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_02,
+		SUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_TELEFONE_COMERCIAL__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_02,
+		'FIXO' AS TIPO_TEL_02,
+		LEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_TELEFONE_OUTRO__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_03,
+		SUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_TELEFONE_OUTRO__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_03,
+		'FIXO' AS TIPO_TEL_03,
+		LEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_1__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_04,
+		SUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_1__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_04,
+		'MÓVEL' AS TIPO_TEL_04,
+		LEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_2__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_05,
+		SUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_2__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_05,
+		'MÓVEL' AS TIPO_TEL_05,
+		LEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_3__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_06,
+		SUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_3__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_06,
+		'MÓVEL' AS TIPO_TEL_06,
+		HC_TELEFONE_PRINCIPAL__C AS TEL_PRINCIPAL,
+		B.HC_CLASSIFICACAO__C AS PUBLICO_ALVO,
+		A.[TYPE] AS TIPO_CAMPANHA,
+		A.STARTDATE AS DT_INICIO_MAILING,
+		A.ENDDATE AS DT_FIM_MAILING,
+		A.HC_VALIDA_ALTA_RENDA__C AS CAMPANHA_VALIDA_ENCARTEIRAMENTO,
+		A.HC_VALIDA_NAO_IMPORTUNE__C AS CAMPANHA_NAO_IMPORTUNE,
+		A.HC_VALIDA_RNA__C AS CAMPANHA_VALIDA_RNA,
+		A.HC_PRODUTO__C AS ID_PRODUTO,
+		A.HC_PRECO_DO_PRODUTO__C AS ID_PRODUTO_VALOR,
+		B.HC_CPF_CNPJ__C AS ID,
+		A.ID AS ID_CAMPANHA, 
+		B.ID AS ID_CLIENTE_PARCEIRO,
+		C.ID AS ID_CONTATO,
+		B.HC_Cliente__c AS ID_CLIENTE,
+		B.HC_CPF_CNPJ_CODIGO_DO_PARCEIRO__C AS CPF_CNPJ_CODIGO_DO_PARCEIRO,
+        A.ID AS CAMPAIGN_ID,
+        B.ID AS RELACAO_CLIENTE_PARCEIRO_ID,
+        C.ID AS CONTACT_ID
+      
+     
+FROM CAMPAIGN_SALESFORCE A
+   JOIN HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE B 
+   ON 1 = 1
+	
+	JOIN Contact_Salesforce C 
+	ON C.HC_CPF_CNPJ__c = B.HC_CPF_CNPJ__c
+	
+	JOIN HC_Titulo__c_Salesforce T
+	ON C.HC_CPF_CNPJ__c = T.HC_CPF_CNPJ_Titular__c
+		
+		
+    LEFT JOIN HC_PROPOSTA__C_SALESFORCE P 
+    ON P.HC_CPF_CNPJ_TITULAR__C = B.HC_CPF_CNPJ__C 
+    AND DATEDIFF(DAY, CONVERT(CHAR(10), P.CREATEDDATE, 112), CONVERT(CHAR(10), GETDATE(), 112)) <= A.HC_COMPRA_RECENTE__C
+    
+    LEFT JOIN TB_BASE_QUARENTENA Q ON Q.CPF_CNPJ = B.HC_CPF_CNPJ__C 
+    AND Q.DATA_PARTICIPACAO_CAMPANHA > DATEADD(DD, -90, GETDATE())
+      
+    WHERE B.HC_CLASSIFICACAO__C = 'Ex-cliente'
+    AND convert(char(7), T.HC_Data_do_ultimo_resgate__c , 111) BETWEEN '2023/01'AND '2023/07'
+    AND T.HC_CANAL_RESGATE_OTC__c IS NULL 
+    AND T.HC_SITUACAO__C IN  ('Finalizado - Resgate Pago', 'Finalizado - Antecipado total')
+    /* verifica se possui sobrenome */
+    AND CHARINDEX(' ', C.NAME) > 0
+    /* Remove quarentena */
+    AND Q.CPF_CNPJ IS NULL
+    AND B.HC_Tipo_de_Pessoa__c = 'PF'
+    AND T.HC_Tipo_de_pagamento__c IN ('PM','PP')
+	AND A.ID = '7016g000000FfaeAAC'	
+	AND HC_DATA_DE_NASCIMENTO__C IS NOT NULL
+
+			

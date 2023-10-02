@@ -1,0 +1,172 @@
+{
+  "id": 42749,
+  "customerKey": "a63f35f2-0406-40df-9408-3cfbc6161886",
+  "objectID": "fd1a52d5-a250-4ddb-b9ad-29ee745bca04",
+  "contentType": "application/vnd.etmc.email.Message; kind=paste",
+  "assetType": {
+    "id": 208,
+    "name": "htmlemail",
+    "displayName": "HTML Email"
+  },
+  "name": "Boas Vindas Caracteristicas Novo",
+  "description": "",
+  "owner": {
+    "id": 713538740,
+    "email": "matheus.leto@harpiacloud.com.br",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "createdDate": "2021-11-07T02:51:35.887-06:00",
+  "createdBy": {
+    "id": 713538740,
+    "email": "matheus.leto@harpiacloud.com.br",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "modifiedDate": "2022-04-01T08:27:13.67-06:00",
+  "modifiedBy": {
+    "id": 713522330,
+    "email": "walter.gomes@harpiacloud.com.br",
+    "name": "Walter Gomes",
+    "userId": "713522330"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/42749/thumbnail"
+  },
+  "category": {
+    "id": 37796,
+    "name": "Boas Vindas Ourocap",
+    "parentId": 37553
+  },
+  "views": {
+    "subjectline": {
+      "contentType": "application/vnd.etmc.email.View; kind=subjectline",
+      "content": "Que tal verificar os seus produtos?",
+      "meta": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "preheader": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "html": {
+      "content": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta name=viewport content=\"width=device-width, initial-scale=1\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <title>Banco do Brasil\n    </title>\n    <style>\n      .centerwidth {\n        width: 600px;\n      }\n      @media screen and (max-width: 600px) {\n        .full-width {\n          width: 100% !important;\n        }\n      }\n      .tabelasorteio {\n        font-family: arial, sans-serif;\n        border-collapse: collapse;\n        width: 100%;\n      }\n      .tabelasorteio th {\n        font-size: 15px;\n        line-height: 20px;\n        color: #475EFF;\n        white-space: nowrap;\n      }\n      .tabelasorteio td,\n      th {\n        border: 1px solid #060606;\n        text-align: center;\n        padding: 8px;\n        white-space: normal\n      }\n      .tabelasorteio tr:nth-child(even) {\n        background-color: #dddddd;\n      }\n      .styled-table {\n        border-collapse: collapse;\n        margin: 25px 0;\n        font-size: 0.9em;\n        font-family: sans-serif;\n        word-wrap:break-word;\n        min-width: 400px;\n        width: 100%;\n        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);\n      }\n      .styled-table tbody tr {\n        border-bottom: 1px solid #dddddd;\n      }\n      .styled-table tbody tr:nth-of-type(even) {\n        background-color: #f3f3f3;\n      }\n      .styled-table tbody tr:last-of-type {\n        border-bottom: 2px solid #009879;\n      }\n      .styled-table thead tr {\n        background-color: #475EFF;\n        color: #ffffff;\n        text-align: center;\n      }\n      .styled-table th,\n      .styled-table td {\n        padding: 13px 13px;\n        word-wrap:break-word;\n        white-space: nowrap;\n        border: 1px solid #060606;\n      }\n      .styled-table tbody tr.active-row {\n        font-weight: bold;\n        color: #009879;\n      }\n      .watermark {\n        text-align: left;\n        font-size: 11px;\n        color: #324B68;\n        font-family: arial;\n        font-size: 11px;\n      }\n    </style>\n  </head>\n  <body bgcolor=\"#ffffff\">\n    <!-- %%[ \nvar @fullName,@firstName\nset @fullName = [Nome]\nif indexOf(@fullName, \" \") > 0 then \nset @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1)) \nElse\nset @firstName = [Nome]\nendif \nset @firstName = Propercase(@firstName)\n]%% -->\n    <table style=\"max-width:600px!important; \" border=\"0\" align=\"center\" cellpadding=\"0\"\n           cellspacing=\"0\" class=\"full-width\" width=\"600\">\n      <tr>\n        <td>\n          <!--Banner -->\n          <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\">\n            <tr>\n              <td valign=\"top\" align=\"center\" width=\"100%\">\n                <img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/d66800f2-bc36-47d3-a711-27126993f740.png\"\n                     alt=\"\" style=\"display: block; outline: none; max-width: 100%;\" border=\"0\" />\n              </td>\n            </tr>\n          </table>\n          <!--Banner -->\n          <!-- Bloco-bgcolor -->\n          <table bgcolor=\"#FFFFFF\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n            <tr>\n              <td>\n                <!--Text-span -->\n                <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"86%\"\n                       style=\"border: 1px solid #475EFF;border-top: none;\">\n                  <tr>\n                    <td valign=\"top\" align=\"center\" width=\"86%\"\n                        style=\"padding: 20px; font-size: 15px; text-align: left; line-height: 24px; font-family: arial;\">\n                      <b style=\"font-size: 25px; line-height: 24px; color: #475EFF;\">Olá, %%=v(@firstName)=%% \n                      </b>\n                      <!-- <b style=\"font-size: 18px; line-height: 24px; color: #475EFF;\">Toda semana temos sorteios Ourocap.</b> -->\n                      <br>\n                      <br>\n                      Parabéns por voltar a comprar o Ourocap! Estamos muito felizes de ter você como cliente novamente e separamos algumas informações importantes: \n                      <br>\n                      <br>\n                      Veja na tabela abaixo, um resumo de cada produto e o(s) número(s) da sorte aos quais concorrerá, durante a vigência de cada um deles:\n                      <br>\n                      <br>\n                      <table class=\"styled-table\">\n                        <thead>\n                          <tr>\n                            <th>Produto\n                            </th>\n                            <th>Vigência\n                            </th>\n                            <th>Valor Pagamento\n                            </th>\n                            <th>Número da Sorte\n                            </th>\n                          </tr>\n                        </thead>\n                        <tbody>\n                          %%[ \n                                    var @rows, @row, @rowCount, @origem, @counter, @nome\n                                    set @rows = LookupRows('TB_BOAS_VINDAS_OUROCACAP_CARACTERISTICAS_TITULOS', 'CPF_CNPJ', CPF_CNPJ)\n                                    set @rowCount = rowcount(@rows) if @rowCount > 0 then for @counter = 1 to @rowCount do \n                                    set @row = row(@rows, @counter) \n                                    set @Nome_produto = field(@row, 'Nome_produto') \nset @Nome_produto = ProperCase(@Nome_produto)\n                                    set @NUMERO_DA_SORTE = field(@row, 'NUMERO_DA_SORTE')\n                                    set @VALOR_DA_PARCELA = FormatNumber (field(@row, 'VALOR_PARCELA'), \"F0\")\n                                    /* set @TERMINO_CARENCIA = field(@row, 'HC_Termino_Carencia__c') */\n                                    set @FIM_PREVISTO = field(@row, 'FIM_PREVISTO')\n                                    set @INICIO = field(@row, 'INICIO')\n]%% \n                          <tr class=\"active-row\">\n                            <!-- <tr class=\"active-row\"> -->\n                            <td style=\"font-size: 14px; text-align: center;\">%%=v(@NOME_PRODUTO)=%%</td>\n                            <td>%%=DateDiff(@INICIO,@FIM_PREVISTO, 'M')=%% meses\n                            </td>\n                            <td style=\"\n                                       font-size: 14px; text-align: center;\n                                       white-space: nowrap;\n                                       \">R$ %%=v(@VALOR_DA_PARCELA)=%%</td>\n                            <td style=\"\n                                       font-size: 14px; text-align: center;\n                                       white-space: nowrap;\n                                       \">%%=v(@NUMERO_DA_SORTE)=%%</td>\n                          </tr>\n                          <!-- and so on... -->\n                          %%[ next ]%%\n                          %%[ endif ]%%\n                        </tbody>\n                      </table>\n                      <br>\n                      Ah! Mas pode ficar tranquilo. Se você for sorteado (a), entraremos em contato.\n                      <div class=\"watermark\">\n                        <p>Também é possível acompanhar os resultados dos sorteios em nosso \n                          <a href=\" https://www.brasilcap.com.br/brasilcap/apoio/resultado-de-sorteios/resultado-de-sorteios.html\">site</a> (https://www.brasilcap.com.br).\n                        </p>\n                        <p>Se tiver dúvidas, nos envie uma \n                          <a href=\"https://www.brasilcap.com.br/brasilcap/apoio/fale-conosco/fale-conosco.html\">mensagem </a>ou ligue para a gente: \n                          <strong>0800 729 0800.</strong> \n                        </p>\n                        <p>Deficientes auditivos ou de fala: \n                          <strong>0800 729 0088</strong>\n                        </p>\n                      </div>\n                      <strong>Estamos prontos para te atender e na torcida para que esteja entre os próximos\n                        sorteados!</strong>\n                    </td>\n                  </tr>\n                </table>\n                <!--Text-span -->\n                <!--Spacer-20 -->\n                <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\" height=\"25\">\n                  <tr>\n                    <td valign=\"top\" align=\"center\" width=\"100%\" height=\"25\">\n                    </td>\n                  </tr>\n                </table>\n                <!--Spacer-20 -->\n                <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"263\">\n                  <tr>\n                    <td valign=\"top\" align=\"center\" width=\"263\">\n                      <a target=\"_blank\"\n                         href=\"\n                               https://www.brasilcap.com.br\">\n                        <img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/569e86a3-f052-4ab9-a88c-78ad96c79362.png\"\n                             alt=\"\" style=\"display: block; outline: none; max-width: 263px;\" border=\"0\" />\n                      </a>\n                    </td>\n                  </tr>\n                </table>\n                <table bgcolor=\"#FFFFFF\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\">\n                  <tr>\n                    <td valign=\"top\" align=\"center\" width=\"100%\"\n                        style=\"text-align: left; font-size: 11px; color: #324B68; font-family: arial; font-size: 11px;\">\n                      <!--Spacer-20 -->\n                      <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\" height=\"20\">\n                        <tr>\n                          <td valign=\"top\" align=\"center\" width=\"100%\" height=\"20\">\n                          </td>\n                        </tr>\n                      </table>\n                      <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"80%\">\n                        <tr>\n                          <td valign=\"top\" align=\"center\" width=\"80%\">\n                            <hr style=\"background: #D6DBE1; border: 0; height: 1px;\">\n                          </td>\n                        </tr>\n                      </table>\n                      <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\" height=\"07\">\n                        <tr>\n                          <td valign=\"top\" align=\"center\" width=\"100%\" height=\"07\">\n                          </td>\n                        </tr>\n                      </table>\n                      <!--Spacer-20 -->\n                      <!--Text-span -->\n                      <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"80%\">\n                        <tr>\n                          <td valign=\"top\" align=\"center\" width=\"100%\"\n                              style=\"text-align: left; font-size: 11px; color: #324B68; font-family: arial; font-size: 11px;\">\n                            Este e-mail é automático Por favor, não responda. Em caso de dúvidas, acesse os\n                            nossos canais de atendimento.\n                          </td>\n                        </tr>\n                      </table>\n                      <!--Text-span -->\n                      <!--Spacer-07 -->\n                      <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\" height=\"07\">\n                        <tr>\n                          <td valign=\"top\" align=\"center\" width=\"100%\" height=\"07\">\n                          </td>\n                        </tr>\n                      </table>\n                      <!--Spacer-07 -->\n                      <!--Hr -->\n                      <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"80%\">\n                        <tr>\n                          <td valign=\"top\" align=\"center\" width=\"80%\">\n                            <hr style=\"background: #D6DBE1; border: 0; height: 1px;\">\n                          </td>\n                        </tr>\n                      </table>\n                      <!--Hr -->\n                      <!--Spacer-07 -->\n                      <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\" height=\"11\">\n                        <tr>\n                          <td valign=\"top\" align=\"center\" width=\"100%\" height=\"11\">\n                          </td>\n                        </tr>\n                      </table>\n                      <!--Spacer-07 -->\n                      <!--Bloco-columns-footer -->\n                      <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"80%\">\n                        <tr>\n                          <td valign=\"top\" align=\"center\" width=\"80%\">\n                            <table width=\"100%\" border=\"0\" align=\"left\" cellpadding=\"0\" cellspacing=\"0\"\n                                   bgcolor=\"#FFFFFF\">\n                              <tr>\n                                <td align=\"left\">\n                                  <table border=\"0\" align=\"left\" cellpadding=\"0\" cellspacing=\"0\">\n                                    <tr>\n                                      <td align=\"left\">\n                                        <div\n                                             style=\"display: inline-block; vertical-align: middle; padding:0px!important; margin:0px!important; max-width:50%;min-width:240px; margin:0 auto\">\n                                          <table align=\"left\" cellspacing=\"0\" cellpadding=\"0\"\n                                                 border=\"0\" width=\"260\"\n                                                 style=\"padding:0px!important; margin:0px!important; \">\n                                            <tr>\n                                              <td valign=\"middle\" align=\"left\"\n                                                  style=\"font-family: verdana; font-size: 13px; color: #707070; text-align: left; line-height: 16px;\">\n                                                Siga a Brasilcap nas redes sociais:\n                                              </td>\n                                            </tr>\n                                          </table>\n                                          <table cellspacing=\"0\" cellpadding=\"0\"\n                                                 align=\"center\" border=\"0\" width=\"100%\"\n                                                 height=\"5\">\n                                            <tr>\n                                              <td valign=\"top\" align=\"center\" width=\"100%\"\n                                                  height=\"5\">\n                                              </td>\n                                            </tr>\n                                          </table>\n                                          <table cellspacing=\"0\" cellpadding=\"0\" align=\"left\"\n                                                 border=\"0\" width=\"260\">\n                                            <tr>\n                                              <td valign=\"top\" align=\"left\">\n                                                <a href=\"https://www.facebook.com/Brasilcap\"\n                                                   title=\"\"\n                                                   style=\"text-decoration: none; outline: none; border: none;\"\n                                                   target=\"_blank\">\n                                                  <img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/c147da93-1c99-4f81-ba86-b0fde82e0828.png\"\n                                                       alt=\"\" style=\"outline: none;\"\n                                                       border=\"0\" />\n                                                </a>\n                                                <a href=\"https://twitter.com/Brasilcapbr \" title=\"\"\n                                                   style=\"text-decoration: none; outline: none; border: none;\"\n                                                   target=\"_blank\">\n                                                  <img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/be598de5-a9c6-4ba6-894c-0ef6e68f461f.png\"\n                                                       alt=\"\" style=\"outline: none;\"\n                                                       border=\"0\" />\n                                                </a>\n                                                <a href=\"https://www.instagram.com/brasilcapbr/\"\n                                                   title=\"\"\n                                                   style=\"text-decoration: none; outline: none; border: none;\"\n                                                   target=\"_blank\">\n                                                  <img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/5f6f993c-01b9-4b1f-9d05-1b86c80f90e5.png\"\n                                                       alt=\"\" style=\"outline: none;\"\n                                                       border=\"0\" />\n                                                </a>\n                                                <a href=\"https://www.linkedin.com/company/brasilcap \" title=\"\"\n                                                   style=\"text-decoration: none; outline: none; border: none;\"\n                                                   target=\"_blank\">\n                                                  <img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/7f9a0440-e887-4f72-8110-160fff21a16a.png\"\n                                                       alt=\"\" style=\"outline: none;\"\n                                                       border=\"0\" />\n                                                </a>\n                                                <a href=\"http://bit.ly/sorteios-brasilcap\"\n                                                   title=\"\"\n                                                   style=\"text-decoration: none; outline: none; border: none;\"\n                                                   target=\"_blank\">\n                                                  <img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/46eb71f8-3a54-4db0-9472-23a745686c79.png\"\n                                                       alt=\"\" style=\"outline: none;\"\n                                                       border=\"0\" />\n                                                </a>\n                                              </td>\n                                            </tr>\n                                          </table>\n                                        </div>\n                                        <!--[if (gte mso 9)|(IE)]></td><td><![endif]-->\n                                        <div\n                                             style=\"display: inline-block; vertical-align: middle; padding:0px!important; margin:0px!important; max-width:50%;min-width:240px; margin:0 auto\">\n                                          <table align=\"center\" cellspacing=\"0\"\n                                                 cellpadding=\"0\" border=\"0\" width=\"260\"\n                                                 style=\"padding:0px!important; margin:0px!important;\">\n                                            <tr>\n                                              <td width=\"260\" align=\"center\"\n                                                  valign=\"middle\">\n                                                <table cellspacing=\"0\" cellpadding=\"0\"\n                                                       align=\"left\" border=\"0\" width=\"260\">\n                                                  <tr>\n                                                    <td valign=\"top\" align=\"center\"\n                                                        width=\"260\"\n                                                        style=\"font-family: verdana; font-size: 13px; color: #707070; text-align: left; line-height: 16px;\">\n                                                      Baixe o app do Banco do\n                                                      Brasil:\n                                                    </td>\n                                                  </tr>\n                                                </table>\n                                                <table cellspacing=\"0\" cellpadding=\"0\"\n                                                       align=\"center\" border=\"0\"\n                                                       width=\"100%\" height=\"5\">\n                                                  <tr>\n                                                    <td valign=\"top\" align=\"center\"\n                                                        width=\"100%\" height=\"5\">\n                                                    </td>\n                                                  </tr>\n                                                </table>\n                                                <table width=\"260\" align=\"left\"\n                                                       cellspacing=\"0\" cellpadding=\"0\"\n                                                       border=\"0\">\n                                                  <tr>\n                                                    <td width=\"260\">\n                                                      <a href=\"https://play.google.com/store/apps/details?id=br.com.bb.android&hl=pt_BR&gl=US\"\n                                                         title=\"\"\n                                                         style=\" text-decoration: none; outline: none; border: none;\"\n                                                         target=\"_blank\">\n                                                        <img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/b0e8ee86-822e-48c5-ad17-125f1b9c32f9.png\"\n                                                             alt=\"\"\n                                                             style=\" outline: none;\"\n                                                             border=\"0\" />\n                                                      </a>\n                                                      <a href=\"https://apps.apple.com/br/app/banco-do-brasil/id330984271\"\n                                                         title=\"\"\n                                                         style=\" text-decoration: none; outline: none; border: none;\"\n                                                         target=\"_blank\">\n                                                        <img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/c3a6f68f-741e-4f63-96fa-3fc9ecafcbe0.png\"\n                                                             alt=\"\"\n                                                             style=\" outline: none;\"\n                                                             border=\"0\" />\n                                                      </a>\n                                                    </td>\n                                                  </tr>\n                                                </table>\n                                              </td>\n                                            </tr>\n                                          </table>\n                                        </div>\n                                      </td>\n                                    </tr>\n                                  </table>\n                                </td>\n                              </tr>\n                            </table>\n                          </td>\n                        </tr>\n                      </table>\n                      <!--Bloco-columns-footer -->\n                      <!--Spacer-08 -->\n                      <!--Text-span -->\n                      <!--Spacer-30 -->\n                      <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\" height=\"10\">\n                        <tr>\n                          <td valign=\"top\" align=\"center\" width=\"100%\" height=\"10\">\n                          </td>\n                        </tr>\n                      </table>\n                      <!--Spacer-30 -->\n                    </td>\n                  </tr>\n                </table>\n              </td>\n            </tr>\n          </table>\n          <!-- Bloco-bgcolor -->\n          <!--Text-span -->\n          <table bgcolor=\"#FFFFFF\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\">\n            <tr>\n              <td valign=\"top\" align=\"center\" width=\"100%\"\n                  style=\"font-family: arial; font-size: 13px; color: #707070; padding: 10px; line-height: 16px;\">\n                Caso não queira mais receber nossos e-mails, \n                <a href=\"%%unsub_center_url%%\" title=\"Unsubscribe\"\n                   style=\" outline: none; border: none; color: #707070; text-decoration: none;\"\n                   target=\"_blank\">clique aqui</a>\n              </td>\n            </tr>\n            <tr>\n              <td valign=\"top\" align=\"center\" width=\"100%\"\n                  style=\"font-family: arial; font-size: 11px; color: #707070; padding: 3px; line-height: 16px;\">\n                This email was sent by: \n                <b>%%Member_Busname%%\n                </b>\n                <br>%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%\n                <br>\n                <br>\n              </td>\n            </tr>\n            <tr>\n              <td valign=\"top\" align=\"center\" width=\"100%\"\n                  style=\"font-family: arial; font-size: 11px; color: #707070; padding: 3px; line-height: 5px;\">\n                <a href=\"%%profile_center_url%%\" title=\"Centro de preferencias\"\n                   style=\" outline: none; border: none; color: #707070; text-decoration: none;\"\n                   target=\"_blank\">Centro de preferências</a>\n              </td>\n            </tr>\n          </table>\n          <!--Text-span -->\n          <!--Spacer-10 -->\n          <!--Spacer-10 -->\n        </td>\n      </tr>\n    </table>\n    <custom name=\"opencounter\" type=\"tracking\"/>\n  </body>\n</html>",
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "text": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": "html"
+          }
+        }
+      },
+      "generateFrom": "html",
+      "modelVersion": 2
+    },
+    "viewAsAWebPage": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "subscriptioncenter": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardHTML": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardText": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    }
+  },
+  "availableViews": [
+    "subjectline",
+    "preheader",
+    "html",
+    "text",
+    "viewAsAWebPage",
+    "subscriptioncenter",
+    "forwardHTML",
+    "forwardText"
+  ],
+  "data": {
+    "email": {
+      "options": {
+        "characterEncoding": "utf-8"
+      },
+      "legacy": {
+        "legacyId": 15845,
+        "legacyKey": "a63f35f2-0406-40df-9408-3cfbc6161886",
+        "legacyType": "email",
+        "legacyCategoryId": 1944
+      }
+    }
+  },
+  "legacyData": {
+    "legacyId": 15845,
+    "legacyKey": "a63f35f2-0406-40df-9408-3cfbc6161886",
+    "legacyType": "email",
+    "legacyCategoryId": 1944
+  },
+  "modelVersion": 2
+}

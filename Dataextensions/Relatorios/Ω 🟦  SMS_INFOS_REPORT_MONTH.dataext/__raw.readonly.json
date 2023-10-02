@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "7F77EFD8-07BA-43AB-929F-90ACB2C22DB7"
+  ],
+  "Name": [
+    "SMS_INFOS_REPORT_MONTH"
+  ]
+}

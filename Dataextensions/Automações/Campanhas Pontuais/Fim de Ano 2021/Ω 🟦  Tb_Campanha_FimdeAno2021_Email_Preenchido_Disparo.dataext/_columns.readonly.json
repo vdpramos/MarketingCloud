@@ -1,0 +1,156 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "2aecf288-b9ab-4fbe-b7ec-4ad5c41a441e",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "dd93a768-9835-4e92-84d9-72f5e467fb3c",
+    "MaxLength": "200",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Id_Campanha",
+    "FieldType": "Text",
+    "ObjectID": "de05bfa8-4109-4d94-9b4a-1307d755c108",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 25
+  },
+  {
+    "Name": "Id_Cliente_Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "753f4895-f0b9-4fa8-a79b-9decd62e9efd",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 28
+  },
+  {
+    "Name": "Id_Contato",
+    "FieldType": "Text",
+    "ObjectID": "91352681-06c3-4f76-a844-276cec2b95ed",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 30
+  },
+  {
+    "Name": "Id_Cliente",
+    "FieldType": "Text",
+    "ObjectID": "40d09185-589c-47b0-aab6-b348030f0d5f",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 31
+  },
+  {
+    "Name": "Nao_Deseja_Receber_Email",
+    "FieldType": "Boolean",
+    "ObjectID": "0c2ea227-a891-4d78-a185-63b0bdfb63a2",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 33
+  },
+  {
+    "Name": "Nao_Deseja_Receber_SMS",
+    "FieldType": "Boolean",
+    "ObjectID": "1b5c0741-d986-4c28-a08f-a692840799c3",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 34
+  },
+  {
+    "Name": "Email_Valido",
+    "FieldType": "Boolean",
+    "ObjectID": "7e88a22b-b75e-4866-aeda-4eed1e7cbf47",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 36
+  },
+  {
+    "Name": "Celular_Valido",
+    "FieldType": "Boolean",
+    "ObjectID": "8f28037e-128c-4175-aece-8aa9fbc5a1ec",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 38
+  },
+  {
+    "Name": "HC_Data_Nascimento__c",
+    "FieldType": "Date",
+    "ObjectID": "0cc48d25-0d35-4c4f-838a-532ca40f7364",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 44
+  },
+  {
+    "Name": "EMAILADDRESS",
+    "FieldType": "EmailAddress",
+    "ObjectID": "e294d87b-d3cd-4a49-bac7-fa4d4c1b9ea1",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 47
+  },
+  {
+    "Name": "MOBILEPHONE",
+    "FieldType": "Phone",
+    "ObjectID": "b84bd56c-94b9-4698-990c-a66faa961fca",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 49
+  },
+  {
+    "Name": "LOCALE",
+    "FieldType": "Locale",
+    "ObjectID": "e137fb21-90a0-433f-955e-df9c8c5859c8",
+    "MaxLength": "5",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 50
+  }
+]

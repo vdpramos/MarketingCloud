@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "819A77E3-D6BF-40AD-8322-DF472C215D43"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_OTC291_Filtrada_Teo"
+  ]
+}

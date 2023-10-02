@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "d551f5a9-1fda-4798-832c-08de44986684",
+  "name": "Pagamento_AtualizaMsgRetornoErro",
+  "key": "D551F5A9-1FDA-4798-832C-08DE44986684",
+  "description": "",
+  "queryText": "select id, HC_Codigo_de_Retorno_de_Erro__c\nfrom hc_pagamento__c_salesforce\nwhere HC_Codigo_de_Retorno_de_Erro__c is not null and len(HC_Codigo_de_Retorno_de_Erro__c)<=50",
+  "targetName": "PagamentosAtualizarMsgRetornoErro",
+  "targetKey": "C7524FDF-6BD2-438F-8ACA-8E0F2DDC48FB",
+  "targetId": "f345b629-d2b9-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-03T08:48:46.177",
+  "modifiedDate": "2023-03-03T09:19:43.487",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

@@ -1,0 +1,6 @@
+Dataextension name: bkp_Falecidos
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| cpf                  | Text(50)        | true     | false    |                 |
+| hc_classificacao__c  | Text(255)       | true     | false    |                 |

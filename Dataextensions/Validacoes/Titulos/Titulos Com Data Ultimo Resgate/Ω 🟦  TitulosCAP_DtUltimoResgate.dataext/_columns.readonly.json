@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "id_titulo",
+    "FieldType": "Text",
+    "ObjectID": "635bc8bb-9044-4d5c-9f54-a200422550b6",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Id_Serie",
+    "FieldType": "Text",
+    "ObjectID": "cb9082ab-1ad2-4497-8d58-0865f7012e00",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "id_plano",
+    "FieldType": "Text",
+    "ObjectID": "a120a0e5-c6ce-47ad-88de-57efcca808c5",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Data_Pagamento_Resgate",
+    "FieldType": "Text",
+    "ObjectID": "70f23147-4abe-408e-b783-454db0dd4f15",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "CHAVE_CLIENTE_SIEBEL",
+    "FieldType": "Text",
+    "ObjectID": "fb85fe5c-845b-47b9-a329-0b3e8812c715",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "d9b8119d-2118-45fa-8430-49e223f8c26e",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "COD_PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "2182dc29-1e0b-4e02-a1da-515e7160eea2",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "c24b7c1c-5855-45d5-aeaa-39ec60c39852",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

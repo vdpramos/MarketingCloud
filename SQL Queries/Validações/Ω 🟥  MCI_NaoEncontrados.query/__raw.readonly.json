@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4a7c7594-7fe0-4deb-8703-6b2741cb223e",
+  "name": "MCI_NaoEncontrados",
+  "key": "4A7C7594-7FE0-4DEB-8703-6B2741CB223E",
+  "description": "",
+  "queryText": "SELECT MCI\nFROM BaseMCI RC\nWHERE not exists(\n                    Select 1 \n                    from HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE m \n                    where RC.MCI = M.HC_MCI_BB_Cliente__c)",
+  "targetName": "MCI_NaoEncontrados",
+  "targetKey": "FDDFA724-87E1-474B-BF44-F888EED9B384",
+  "targetId": "cefa013d-73e3-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-04-25T08:13:34.593",
+  "modifiedDate": "2023-04-25T08:19:44.537",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

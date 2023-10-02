@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "id",
+    "FieldType": "Text",
+    "ObjectID": "345631e2-45f6-4f15-8c46-143c5e3f9e07",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "name",
+    "FieldType": "Text",
+    "ObjectID": "4ef837b7-f8f6-4246-8c8d-6c5901c0ee11",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

@@ -1,0 +1,6 @@
+Dataextension name: ImportProposta
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| PROPOSTA             | Text(50)        | true     | true     |                 |
+| PLANO                | Text(50)        | true     | true     |                 |

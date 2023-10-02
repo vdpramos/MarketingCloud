@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a2fa697e-1b0b-40f0-bb2c-2d63872673d6",
+  "name": "Publico Sem Canal OTC",
+  "key": "A2FA697E-1B0B-40F0-BB2C-2D63872673D6",
+  "description": "",
+  "queryText": "SELECT  DISTINCT B.HC_CPF_CNPJ__C AS CPF,  B.HC_Nome_Parceiro__c\nFROM  HC_Titulo__c_salesforce t \nINNER JOIN HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE B\n    on t.HC_Cliente_x_Parceiro__c = b.id\nLEFT JOIN Contact_Salesforce C \n    ON C.HC_CPF_CNPJ__c = B.HC_CPF_CNPJ__c\nWHERE \n\tt.HC_Meio_de_Debito__c in ('Conta Corrente', 'Conta Poupança')\n\tand t.HC_CANAL_RESGATE_OTC__c is null\n\tAND B.HC_Tipo_de_Pessoa__c = 'PF'\n\tand b.hc_classificacao__c = 'Ex-cliente'\n\tand month(t.HC_Data_do_ultimo_resgate__c) in ('01', '02') \n    and year(t.HC_Data_do_ultimo_resgate__c) = '2023'",
+  "targetName": "TitulosSemCanalOTC",
+  "targetKey": "5789B936-1516-4743-BFD5-AD4B9CD14F8E",
+  "targetId": "5e473d30-13cf-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-30T09:56:19.093",
+  "modifiedDate": "2023-03-30T09:56:19.093",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

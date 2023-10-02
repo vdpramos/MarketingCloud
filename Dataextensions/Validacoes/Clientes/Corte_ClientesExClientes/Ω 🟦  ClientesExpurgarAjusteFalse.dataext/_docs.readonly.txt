@@ -1,0 +1,6 @@
+Dataextension name: ClientesExpurgarAjusteFalse
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID                   | Text(50)        | true     | false    |                 |
+| HC_CustomerToBeDeleted_Flg__c | Text(50)        | true     | false    |                 |

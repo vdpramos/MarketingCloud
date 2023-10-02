@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "33fb437e-f407-450a-bbd2-61f5eaacc248",
+  "name": "Qr_Conta_Total_Obtidos_ultimaExec_Cliente_Algar",
+  "key": "9a52fb24-c868-47b6-9dbb-75c86cc1bfd2",
+  "description": "Conta a quantidade de clientes obtidos na ultima execução da automação\n",
+  "queryText": "select\n  b.ID_CAMPANHA,\n  count(1) as QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290\nfrom Tb_Base_Ex_Cliente_ComOTC_Algar a\ninner join CONTROLE_AUTOMACOES_CAMPANHAS b on b.ID_CAMPANHA = '7016g000000NSIuAAO'\ngroup by  b.ID_CAMPANHA",
+  "targetName": "CONTROLE_AUTOMACOES_CAMPANHAS",
+  "targetKey": "04B8390F-4FDE-47E3-9CB8-092965B5D94D",
+  "targetId": "3af1ba23-8d70-ec11-a311-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2021-03-11T11:11:41.407",
+  "modifiedDate": "2022-01-27T08:08:13.937",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 30784,
+  "isFrozen": false
+}

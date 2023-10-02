@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2b8c8388-64d0-4f16-811c-cfae8d1bcd05",
+  "name": "UndeliverableSms_backup_exclusao",
+  "key": "c0402f3c-4948-463b-8a25-0cdf06c41b02",
+  "description": "",
+  "queryText": "SELECT\n    a.SubscriberKey,\n    b.MobileNumber,\n    b.Undeliverable,\n    b.BounceCount,\n    b.FirstBounceDate,\n    b.HoldDate\nFROM SMSmessagetracking_backup_exclusao a\n    INNER JOIN _UndeliverableSms b \n        ON a.Mobile = b.MobileNumber",
+  "targetName": "UndeliverableSms_backup_exclusao",
+  "targetKey": "E0C4324F-9201-49F9-A25D-9B3B518C4D25",
+  "targetId": "7524b1b3-2f85-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-12-26T09:59:35.35",
+  "modifiedDate": "2023-04-26T10:46:32.377",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 57312,
+  "isFrozen": false
+}

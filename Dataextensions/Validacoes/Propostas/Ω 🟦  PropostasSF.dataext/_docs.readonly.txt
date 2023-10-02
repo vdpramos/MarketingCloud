@@ -1,0 +1,5 @@
+Dataextension name: PropostasSF
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_PROPOSTA          | Text(50)        | false    | false    |                 |

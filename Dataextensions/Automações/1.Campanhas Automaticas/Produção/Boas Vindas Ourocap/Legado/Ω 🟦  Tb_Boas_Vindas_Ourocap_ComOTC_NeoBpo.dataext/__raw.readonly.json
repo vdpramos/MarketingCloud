@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "1C37A4CA-94A9-4CFD-9E3A-DC60630CF810"
+  ],
+  "Name": [
+    "Tb_Boas_Vindas_Ourocap_ComOTC_NeoBpo"
+  ]
+}

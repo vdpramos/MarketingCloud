@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "983cdfd6-e09c-40a8-bdfe-c151b836bde4",
+  "name": "ClienteParceiroSemClienteUnicoComTitulo",
+  "key": "a66973fa-f5ad-47d6-8c44-1a29aa8c87b8",
+  "description": "",
+  "queryText": "select distinct  c.id, \n        c.cpf_cnpj, \n        c.nomecompleto, \n        t.HC_CPF_CNPJ_Titular__c as cpf_titular, \n        t1.HC_CPF_CNPJ_Subscritor__c as cpf_subscritor,\n        t.hc_cliente__c as id_cliente\nfrom ClienteParceiroSemClienteUnico c\nleft join hc_titulo__c_salesforce t\n    on c.cpf_cnpj = t.HC_CPF_CNPJ_Titular__c\nleft join hc_titulo__c_salesforce t1\n    on c.cpf_cnpj = t1.HC_CPF_CNPJ_Subscritor__c \nwhere not exists (select 1 from ClienteParceiroSemClienteUnicoSemTitulo t where c.cpf_cnpj = t.cpf_cnpj )\n",
+  "targetName": "ClienteParceiroSemClienteUnicoComTitulo",
+  "targetKey": "99546C33-E6DE-4652-A157-5989B242351E",
+  "targetId": "92873ad0-739e-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-01-27T12:54:41.21",
+  "modifiedDate": "2023-01-27T16:22:58.277",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

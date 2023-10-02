@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "be45cb4d-8e0c-4931-b3f9-b6c0d380656b",
+  "name": "Bounce_backup_exclusao",
+  "key": "39aacde5-59a1-43cc-8db2-98bb76779712",
+  "description": "",
+  "queryText": "SELECT\n    a.SubscriberKey,\n    b.AccountID,\n    b.OYBAccountID,\n    b.JobID,\n    b.ListID,\n    b.BatchID,\n    b.SubscriberID,\n    b.EventDate,\n    b.IsUnique,\n    b.Domain,\n    b.BounceCategoryID,\n    b.BounceCategory,\n    b.BounceSubcategoryID,\n    b.BounceSubcategory,\n    b.BounceTypeID,\n    b.BounceType,\n    b.SMTPBounceReason,\n    b.SMTPMessage,\n    b.SMTPCode,\n    b.TriggererSendDefinitionObjectID,\n    b.TriggeredSendCustomerKey\nFROM Exclusao_contatos a\n    INNER JOIN _bounce b \n        ON a.SubscriberKey = b.SubscriberKey",
+  "targetName": "Bounce_backup_exclusao",
+  "targetKey": "9805181B-583C-4452-9AEF-428E4A39A861",
+  "targetId": "199acdda-0f83-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-12-26T09:29:52.737",
+  "modifiedDate": "2023-04-26T10:44:16.313",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 57312,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "25318800-b476-49e0-b9ef-b63a9bf99617",
+  "name": "Qr_Conta_Total_Obtidos_ultimaExec_Nao_Pagas",
+  "key": "d174035f-4d26-4529-8803-5ab2330fb709",
+  "description": "Conta a quantidade obtida de Publico Inicial na ultima execução da automação, para validação no Script",
+  "queryText": "select\n  b.ID_CAMPANHA,\n  count(1) as QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290\nfrom Tb_Base_Prop_Ourocap_N_Pag a\ninner join CONTROLE_AUTOMACOES_CAMPANHAS b on b.ID_CAMPANHA = '7016g000002O08TAAS'\ngroup by  b.ID_CAMPANHA",
+  "targetName": "CONTROLE_AUTOMACOES_CAMPANHAS",
+  "targetKey": "04B8390F-4FDE-47E3-9CB8-092965B5D94D",
+  "targetId": "3af1ba23-8d70-ec11-a311-48df370eabe5",
+  "targetDescription": "DE para controlar steps das campanhas",
+  "createdDate": "2022-02-12T16:54:03.54",
+  "modifiedDate": "2022-02-12T16:54:03.54",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 33115,
+  "isFrozen": false
+}

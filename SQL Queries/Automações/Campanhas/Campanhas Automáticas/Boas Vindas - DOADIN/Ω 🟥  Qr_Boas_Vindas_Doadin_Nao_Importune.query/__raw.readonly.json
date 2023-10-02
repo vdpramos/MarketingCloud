@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "13fdc19a-9b7d-4943-87a4-5daf003d4ddb",
+  "name": "Qr_Boas_Vindas_Doadin_Nao_Importune",
+  "key": "13FDC19A-9B7D-4943-87A4-5DAF003D4DDB",
+  "description": "",
+  "queryText": "SELECT\n\tA.CPF_CNPJ,\n\tA.ID_PROPOSTA,\n\t1 AS NAO_IMPORTUNE\nFROM Tb_Boas_Vindas_Doadin_Prospostas A\nINNER JOIN TB_BASE_NAO_IMPORTUNE N ON ISNULL(RIGHT(A.CELULAR, 11), '00000000000') = LTRIM(RTRIM(N.TELEFONE))\nINNER JOIN CAMPAIGN_SALESFORCE CMP ON CMP.ID = A.ID_CAMPANHA\nWHERE CELULAR IS NOT NULL AND CMP.HC_VALIDA_NAO_IMPORTUNE__C = 1 ",
+  "targetName": "Tb_Boas_Vindas_Doadin_Prospostas",
+  "targetKey": "65CF1598-6FBC-425D-8AA1-F9F692AE6ABE",
+  "targetId": "c814037d-353c-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "Publico Inicial - Propostas elegiveis para campanha de boas vindas Doadin",
+  "createdDate": "2023-08-18T13:10:22.003",
+  "modifiedDate": "2023-08-21T07:39:16.087",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 67330,
+  "isFrozen": false
+}

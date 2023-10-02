@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ea3a936b-c8b2-4df1-b3d8-4961b7fa6385",
+  "name": "Qr_Nome_produto_boas_vindas",
+  "key": "df2f97f3-2a40-462c-ac2a-55f8d12dc2c0",
+  "description": "",
+  "queryText": "select\n  ID_TITULO,\n  CPF_CNPJ,\n  prd.Name as Nome_Produto\nfrom TB_BOAS_VINDAS_OUROCACAP_CARACTERISTICAS_TITULOS\ninner join HC_Titulo__c_Salesforce tit on tit.Id = ID_TITULO\ninner join HC_Produto__c_Salesforce prd on tit.HC_produtoRelacionado__c = prd.Id",
+  "targetName": "TB_BOAS_VINDAS_OUROCACAP_CARACTERISTICAS_TITULOS",
+  "targetKey": "B6BC7123-D461-42FF-8A5E-A4738AF79B61",
+  "targetId": "7cba21b4-f63f-ec11-a313-48df37342c99",
+  "targetDescription": "Base com o publico para o disparo",
+  "createdDate": "2021-12-09T18:13:15.057",
+  "modifiedDate": "2022-01-15T14:39:56.17",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 41120,
+  "isFrozen": false
+}

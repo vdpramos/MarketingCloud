@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "JobID",
+    "FieldType": "Number",
+    "ObjectID": "fb0fbb8d-b6da-4767-8288-ef6516150b90",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "EventDate",
+    "FieldType": "Date",
+    "ObjectID": "b98282f8-722c-4720-a613-1b5f00a42df4",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "SubscriberKey",
+    "FieldType": "Text",
+    "ObjectID": "e04be998-15b3-43c4-8724-fd35a12e89cf",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "5c998d4e-4f15-4d96-9d3d-621275800e16",
+  "name": "Qr03.1_Base_Prospect_Filtrada_Online_NeoBpo_Pub2",
+  "key": "79792d7f-84a8-484b-b003-04eb5c830630",
+  "description": "",
+  "queryText": "SELECT\n  A.*\nFROM Tb_Base_Prospect_OTC291_Online_Tratada_NeoBpo_Pub2 A\nLEFT OUTER JOIN ( \n  SELECT\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\n  FROM Tb_Base_Prospect_ComOTC_Online_Filtrada_NeoBpo_Pub2 ENV\n  LEFT JOIN Tb_Base_Prospect_OTC291_Online_Tratada_NeoBpo_Pub2 RET ON ENV.CPF = RET.CPF\n  WHERE RET.CPF IS NULL\n) B ON 1 = 1\nWHERE B.CPFS_FALTANDO_NO_OTC = 0 /* SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 */\n  /* VALIDAÇÕES POR CONTATO DO OTC */\n  AND A.CODIGO_RNA = '000'\n  AND A.ALTA_RENDA = 0",
+  "targetName": "Tb_Base_Prospect_OTC291_Online_Filtrada_NeoBpo_Pub2",
+  "targetKey": "DD29B26D-04F1-4894-A24D-893A4CE1A144",
+  "targetId": "7f470485-ae43-ec11-a313-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-11-08T16:03:13.647",
+  "modifiedDate": "2021-11-13T02:28:37.883",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 40743,
+  "isFrozen": false
+}

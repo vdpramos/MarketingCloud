@@ -1,0 +1,90 @@
+[
+  {
+    "Name": "VersionID",
+    "FieldType": "Text",
+    "ObjectID": "a78c84c0-282a-466e-bc97-c76273f53026",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "JourneyID",
+    "FieldType": "Text",
+    "ObjectID": "da511eb4-0548-4c04-a946-dc384cf8f960",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "JourneyName",
+    "FieldType": "Text",
+    "ObjectID": "881b9240-daf4-4332-92b0-e248c3051079",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "VersionNumber",
+    "FieldType": "Number",
+    "ObjectID": "533553fb-0121-4dc7-abbf-c4bfc1acd646",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "CreatedDate",
+    "FieldType": "Date",
+    "ObjectID": "303bcf3b-a06f-4c1c-ace9-705be8bf4225",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "LastPublishedDate",
+    "FieldType": "Date",
+    "ObjectID": "0a93b19d-30d7-4042-b022-69297ed07bc0",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "ModifiedDate",
+    "FieldType": "Date",
+    "ObjectID": "64f76f96-7832-4626-8b9e-1b80b749d3e6",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "JourneyStatus",
+    "FieldType": "Text",
+    "ObjectID": "79a8ea8c-9003-45c7-a69b-4d7b830ac297",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  }
+]

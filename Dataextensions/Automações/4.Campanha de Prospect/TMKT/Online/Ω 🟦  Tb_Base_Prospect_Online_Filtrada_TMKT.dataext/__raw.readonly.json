@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "AF5F1E32-0907-406A-B6F7-03B9EF6EB653"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Online_Filtrada_TMKT"
+  ]
+}

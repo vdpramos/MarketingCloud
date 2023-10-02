@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "0475a21f-8e47-40b7-ad7f-7b8a06589af5",
+  "name": "Qr03_Base_Cliente_ComOTC_Trata_Quarentena_NeoBpo",
+  "key": "d0069722-c182-4b36-b531-b0cbb0cc07af",
+  "description": "",
+  "queryText": "SELECT\n    A.CPF_CNPJ AS ID,\n\tCASE WHEN Q.CPF_CNPJ IS NOT NULL THEN 1 ELSE 0 END AS QUARENTENA\nFROM\n\tTB_BASE_CLIENTE_COMOTC_NEOBPO A\nLEFT JOIN TB_BASE_QUARENTENA Q ON A.CPF_CNPJ = Q.CPF_CNPJ\nAND Q.DATA_PARTICIPACAO_CAMPANHA > DATEADD(DD, -90, GETDATE())",
+  "targetName": "Tb_Base_Cliente_ComOTC_NeoBpo",
+  "targetKey": "90B7C433-45B1-4BB7-856E-B7BE7F243120",
+  "targetId": "bcb1198b-7050-eb11-a2f7-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-03-05T15:35:47.863",
+  "modifiedDate": "2021-11-10T17:56:08.103",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 30539,
+  "isFrozen": false
+}

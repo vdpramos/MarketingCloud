@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "5AD74DE8-77DE-4E4A-9921-DD6D89F676B8"
+  ],
+  "Name": [
+    "Tb_Base_N_Pagas_Clientes_Algar"
+  ]
+}

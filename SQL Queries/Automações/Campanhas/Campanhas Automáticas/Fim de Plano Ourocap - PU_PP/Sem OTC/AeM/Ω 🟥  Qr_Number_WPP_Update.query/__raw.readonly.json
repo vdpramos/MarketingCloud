@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7c2681a6-8c77-4869-881f-45ab1fb9fff6",
+  "name": "Qr_Number_WPP_Update",
+  "key": "5116b7a4-eaa0-400f-81d5-ef92082c4af3",
+  "description": "",
+  "queryText": "SELECT\n  A.ID,\n  '55' + REPLACE(REPLACE(REPLACE(REPLACE(A.CELULAR, '(', ''), ')', ''), ' ', ''), '-', '') AS CELULAR\nFROM AeM_Fim_Plano_PU_semOTC_Filtrado A\nWHERE CELULAR IS NOT NULL",
+  "targetName": "AeM_Fim_Plano_PU_semOTC_Filtrado",
+  "targetKey": "DF7BF614-53F8-4B0C-894E-66D7FEDF17EA",
+  "targetId": "047f0441-1086-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Publico Alvo das comunicacoes",
+  "createdDate": "2022-12-29T10:28:10.203",
+  "modifiedDate": "2022-12-29T10:28:10.203",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 57349,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "35761251-6978-4140-b719-7ab82a6dc60f",
+  "name": "Qr04.1_Base_Fim_Plano_Ourocap_PU_PP_ComOTC_OTC290_NeoBpo_Filtrad",
+  "key": "a5f12d68-8856-473a-b352-909702c27cda",
+  "description": "Gera publico filtrado para envio do OTC290",
+  "queryText": "SELECT\r\n  A.*\r\nFROM\r\n  TB_BASE_FIM_PLANO_OUROCAP_PU_PP_COMOTC_NEOBPO A\r\nWHERE\r\n  IDADE_VALIDA = 1 \r\n  AND CONSELHEIRO = 0 \r\n  AND CLIENTE_PEP = 0 \r\n  AND DESEJA_CONTATO_TELEFONICO = 0 \r\n  AND COMPRA_RECENTE_OUROCAP = 0 \r\n  AND POSSUI_CONTA_ATIVA = 1\r\n  AND POSSUI_TELEFONE_ATIVO = 1\r\n  AND QUARENTENA = 0\r\n  AND NAO_IMPORTUNE = 0",
+  "targetName": "Tb_Base_Fim_Plano_Ourocap_PU_PP_ComOTC_NeoBpo_Filtrada",
+  "targetKey": "EE98F17D-35EE-49F6-A834-7D9E4E2E76DB",
+  "targetId": "c716b061-df09-ec11-a30b-48df370eabe4",
+  "targetDescription": "Publico que vai ser enviado para o OTC290",
+  "createdDate": "2021-08-30T16:14:36.177",
+  "modifiedDate": "2021-10-25T17:17:50.323",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 32463,
+  "isFrozen": false
+}

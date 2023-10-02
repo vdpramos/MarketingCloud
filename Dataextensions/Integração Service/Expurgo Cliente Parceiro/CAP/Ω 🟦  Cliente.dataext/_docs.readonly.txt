@@ -1,0 +1,8 @@
+Dataextension name: Cliente
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ_PARCEIRO    | Text(255)       | true     | true     |                 |
+| CLASSIFICACAO        | Text(255)       | true     | false    |                 |
+| PARCEIRO             | Text(255)       | true     | false    |                 |
+| CPF_CNPJ             | Text(255)       | true     | false    |                 |

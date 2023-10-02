@@ -1,0 +1,90 @@
+[
+  {
+    "Name": "nome_parceiro",
+    "FieldType": "Text",
+    "ObjectID": "e2048ece-bb48-44a6-82de-36abdd239285",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "id_proposta",
+    "FieldType": "Text",
+    "ObjectID": "331b192f-bd9b-4ff9-82e4-858706ab474c",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "CREATEDDATE",
+    "FieldType": "Text",
+    "ObjectID": "6f74115a-af5f-4464-b3bb-52ac61b14b0f",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "DATA_ORIGEM_VENDA_AGENDADA__C",
+    "FieldType": "Text",
+    "ObjectID": "3579282a-8204-49c3-ae34-b91afc38b65a",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "ORIGEM_VENDA_AGENDADA__C",
+    "FieldType": "Text",
+    "ObjectID": "7d1f4807-bca5-4193-a7d4-4515cdf87132",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "QUANTIDADE_VENDA_AGENDADA__C",
+    "FieldType": "Text",
+    "ObjectID": "33eb8179-3506-4d3e-9072-0defdad4bb33",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "NUMERO_VENDA_AGENDADA__C",
+    "FieldType": "Text",
+    "ObjectID": "a9761229-e67c-4e43-b309-373fc7d211cc",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "ID_VENDA_AGENDADA__C",
+    "FieldType": "Text",
+    "ObjectID": "1e13840a-e693-48be-a059-c7f1ebb7fcb4",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  }
+]

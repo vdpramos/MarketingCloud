@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "AddressId",
+    "FieldType": "Text",
+    "ObjectID": "fa0716f3-9bcb-426d-8c37-c494b761e0a2",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Profile",
+    "FieldType": "Text",
+    "ObjectID": "5de3b34f-8de3-4eed-b570-3d07a31602ba",
+    "MaxLength": "-1",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "CreatedDate",
+    "FieldType": "Date",
+    "ObjectID": "d90a32bb-cd19-4a91-b5b6-70fed86a2ebe",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "CreatedBy",
+    "FieldType": "Text",
+    "ObjectID": "15f4ecb4-a25c-4926-96ee-025850dd7586",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "ModifiedDate",
+    "FieldType": "Date",
+    "ObjectID": "6ed9ae53-cc0e-403c-abb9-989481a149b9",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "ModifiedBy ",
+    "FieldType": "Text",
+    "ObjectID": "d6051868-5397-4dfc-a1c7-8de0e20f40ab",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  }
+]

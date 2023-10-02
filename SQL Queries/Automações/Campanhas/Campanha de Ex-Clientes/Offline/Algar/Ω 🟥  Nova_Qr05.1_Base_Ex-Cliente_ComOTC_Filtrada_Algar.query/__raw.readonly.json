@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7dbcf9d5-609e-4c2a-b2cf-156e36a17609",
+  "name": "Nova_Qr05.1_Base_Ex-Cliente_ComOTC_Filtrada_Algar",
+  "key": "b88641a2-3b62-4c4d-b2f5-18d72c4b4187",
+  "description": "Filtra publico para envio do OTC290\n",
+  "queryText": "SELECT\n  A.*\nFROM\n  Tb_Base_Ex_Cliente_ComOTC_Algar A\nWHERE\n    IDADE_VALIDA = 1\nAND CONSELHEIRO = 0\nAND CLIENTE_PEP = 0\nAND DESEJA_CONTATO_TELEFONICO = 0\nAND POSSUI_TELEFONE_ATIVO = 1\nAND POSSUI_CONTA_CORRENTE = 1\nAND QUARENTENA = 0\nAND NAO_IMPORTUNE = 0\n/*AND ULTIMO_RESGATE = 1\nAND SITUACAO_RESGATE = 1*/\nAND NOME_VALIDA = 1",
+  "targetName": "Tb_Base_Ex_Cliente_ComOTC_Algar_Filtrada",
+  "targetKey": "75F0EDA9-BE08-4B5D-85B3-3B12819EBAAA",
+  "targetId": "0213948e-b80a-ec11-a30b-48df370eabe4",
+  "targetDescription": "Base com contatos filtrados para o envio do OTC290",
+  "createdDate": "2022-01-26T10:09:11.46",
+  "modifiedDate": "2022-01-26T10:09:11.46",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 30784,
+  "isFrozen": false
+}

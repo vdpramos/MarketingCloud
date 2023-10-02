@@ -1,0 +1,62 @@
+[
+  {
+    "_CustomObjectKey": "15",
+    "STATUS": "A",
+    "DESCRICAO": "Ativo"
+  },
+  {
+    "_CustomObjectKey": "16",
+    "STATUS": "B",
+    "DESCRICAO": "Finalizado - Resgate Pago"
+  },
+  {
+    "_CustomObjectKey": "17",
+    "STATUS": "C",
+    "DESCRICAO": "Finalizado - Caducou"
+  },
+  {
+    "_CustomObjectKey": "18",
+    "STATUS": "D",
+    "DESCRICAO": "Finalizado - Cancelado"
+  },
+  {
+    "_CustomObjectKey": "19",
+    "STATUS": "F",
+    "DESCRICAO": "Em processo de Finalização"
+  },
+  {
+    "_CustomObjectKey": "20",
+    "STATUS": "O",
+    "DESCRICAO": "Finalizado - Óbito"
+  },
+  {
+    "_CustomObjectKey": "21",
+    "STATUS": "R",
+    "DESCRICAO": "Pendente - Solicitação em andamento"
+  },
+  {
+    "_CustomObjectKey": "22",
+    "STATUS": "S",
+    "DESCRICAO": "Suspenso"
+  },
+  {
+    "_CustomObjectKey": "23",
+    "STATUS": "T",
+    "DESCRICAO": "Finalizado - Fim de plano"
+  },
+  {
+    "_CustomObjectKey": "24",
+    "STATUS": "V",
+    "DESCRICAO": "Suspenso"
+  },
+  {
+    "_CustomObjectKey": "25",
+    "STATUS": "W",
+    "DESCRICAO": "Em processo de Reativação"
+  },
+  {
+    "_CustomObjectKey": "26",
+    "STATUS": "X",
+    "DESCRICAO": "Estornado"
+  }
+]

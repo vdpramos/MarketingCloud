@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "d9a1b98d-7475-4e4f-8bc4-3123272801bb",
+  "name": "Quantidade de clientes sem data de nascimento no salesforce",
+  "key": "fca5f62b-9bd7-4fbe-a236-78fa179f8324",
+  "description": "",
+  "queryText": "select HC_CPF_CNPJ_CLIENTE__C as CPF\nfrom Account_salesforce \nwhere HC_Data_Nascimento__c is null \n        and HC_Tipo_de_Pessoa__c = 'PF'\n        and Name <> 'NAO INFORMADO'",
+  "targetName": "ClienteUnicoSemDataNascimento",
+  "targetKey": "3D71EF20-6A7D-43EA-8CC2-3C47E41E6FC7",
+  "targetId": "031944d0-01c9-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-08T07:57:40.53",
+  "modifiedDate": "2023-03-22T18:16:11.14",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

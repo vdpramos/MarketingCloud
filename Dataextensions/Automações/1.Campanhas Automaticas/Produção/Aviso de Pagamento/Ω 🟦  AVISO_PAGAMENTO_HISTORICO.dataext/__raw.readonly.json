@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "2FB229D5-F0A3-428A-9B72-1AFB3F6F3A79"
+  ],
+  "Name": [
+    "AVISO_PAGAMENTO_HISTORICO"
+  ]
+}

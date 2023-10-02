@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "7A1A36B2-0AF7-448C-BC5A-0D07FEC2542B"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_Telefones_ComOTC_Algar"
+  ]
+}

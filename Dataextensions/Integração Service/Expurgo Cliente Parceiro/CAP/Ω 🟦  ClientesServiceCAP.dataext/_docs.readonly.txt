@@ -1,0 +1,8 @@
+Dataextension name: ClientesServiceCAP
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID                   | Text(18)        | true     | true     |                 |
+| CPF_CNPJ_PARCEIRO    | Text(20)        | false    | false    |                 |
+| PARCEIRO             | Text(10)        | true     | false    |                 |
+| CPF_CNPJ             | Text(30)        | true     | false    |                 |

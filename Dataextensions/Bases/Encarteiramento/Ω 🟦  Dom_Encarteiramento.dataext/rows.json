@@ -1,0 +1,3287 @@
+[
+  {
+    "_CustomObjectKey": "660",
+    "ID_ENCARTEIRAMENTO": "27",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "661",
+    "ID_ENCARTEIRAMENTO": "26",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "662",
+    "ID_ENCARTEIRAMENTO": "61",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "663",
+    "ID_ENCARTEIRAMENTO": "30",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "664",
+    "ID_ENCARTEIRAMENTO": "71",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "665",
+    "ID_ENCARTEIRAMENTO": "10",
+    "DESC_ENCARTEIRAMENTO": "ESTILO"
+  },
+  {
+    "_CustomObjectKey": "666",
+    "ID_ENCARTEIRAMENTO": "21",
+    "DESC_ENCARTEIRAMENTO": "EXCLUSIVO"
+  },
+  {
+    "_CustomObjectKey": "667",
+    "ID_ENCARTEIRAMENTO": "23",
+    "DESC_ENCARTEIRAMENTO": "PREFERENCIAL"
+  },
+  {
+    "_CustomObjectKey": "668",
+    "ID_ENCARTEIRAMENTO": "24",
+    "DESC_ENCARTEIRAMENTO": "PESSOA FISICA"
+  },
+  {
+    "_CustomObjectKey": "669",
+    "ID_ENCARTEIRAMENTO": "40",
+    "DESC_ENCARTEIRAMENTO": "PRIVATE"
+  },
+  {
+    "_CustomObjectKey": "670",
+    "ID_ENCARTEIRAMENTO": "80",
+    "DESC_ENCARTEIRAMENTO": "GRUPO OUTROS TIT"
+  },
+  {
+    "_CustomObjectKey": "671",
+    "ID_ENCARTEIRAMENTO": "81",
+    "DESC_ENCARTEIRAMENTO": "GRUPO CTA MOV LIM"
+  },
+  {
+    "_CustomObjectKey": "672",
+    "ID_ENCARTEIRAMENTO": "82",
+    "DESC_ENCARTEIRAMENTO": "GRUPO CTA BLOQUEADA"
+  },
+  {
+    "_CustomObjectKey": "673",
+    "ID_ENCARTEIRAMENTO": "83",
+    "DESC_ENCARTEIRAMENTO": "GRUPO COOPERADOS"
+  },
+  {
+    "_CustomObjectKey": "674",
+    "ID_ENCARTEIRAMENTO": "84",
+    "DESC_ENCARTEIRAMENTO": "GRUPO POUP N CORRENT"
+  },
+  {
+    "_CustomObjectKey": "675",
+    "ID_ENCARTEIRAMENTO": "85",
+    "DESC_ENCARTEIRAMENTO": "GRUPO BENEF SOCIAIS"
+  },
+  {
+    "_CustomObjectKey": "676",
+    "ID_ENCARTEIRAMENTO": "86",
+    "DESC_ENCARTEIRAMENTO": "GRUPO CLIENTE PRODUT"
+  },
+  {
+    "_CustomObjectKey": "677",
+    "ID_ENCARTEIRAMENTO": "87",
+    "DESC_ENCARTEIRAMENTO": "GRUPO OUTRAS AGENC"
+  },
+  {
+    "_CustomObjectKey": "678",
+    "ID_ENCARTEIRAMENTO": "88",
+    "DESC_ENCARTEIRAMENTO": "FALECIDOS COM OPER"
+  },
+  {
+    "_CustomObjectKey": "679",
+    "ID_ENCARTEIRAMENTO": "89",
+    "DESC_ENCARTEIRAMENTO": "GRUPO INADIMPLENTES"
+  },
+  {
+    "_CustomObjectKey": "680",
+    "ID_ENCARTEIRAMENTO": "90",
+    "DESC_ENCARTEIRAMENTO": "DESENC DIREV"
+  },
+  {
+    "_CustomObjectKey": "681",
+    "ID_ENCARTEIRAMENTO": "150",
+    "DESC_ENCARTEIRAMENTO": "BB EMPRESARIAL"
+  },
+  {
+    "_CustomObjectKey": "682",
+    "ID_ENCARTEIRAMENTO": "160",
+    "DESC_ENCARTEIRAMENTO": "USUARIOS"
+  },
+  {
+    "_CustomObjectKey": "683",
+    "ID_ENCARTEIRAMENTO": "170",
+    "DESC_ENCARTEIRAMENTO": "IMPEDIDOS"
+  },
+  {
+    "_CustomObjectKey": "684",
+    "ID_ENCARTEIRAMENTO": "180",
+    "DESC_ENCARTEIRAMENTO": "RELACIONAMENTO"
+  },
+  {
+    "_CustomObjectKey": "685",
+    "ID_ENCARTEIRAMENTO": "300",
+    "DESC_ENCARTEIRAMENTO": "EMPRESAS"
+  },
+  {
+    "_CustomObjectKey": "686",
+    "ID_ENCARTEIRAMENTO": "301",
+    "DESC_ENCARTEIRAMENTO": "GRUPO MICROEMPRESAS"
+  },
+  {
+    "_CustomObjectKey": "687",
+    "ID_ENCARTEIRAMENTO": "380",
+    "DESC_ENCARTEIRAMENTO": "GRUPO USUARIOS"
+  },
+  {
+    "_CustomObjectKey": "688",
+    "ID_ENCARTEIRAMENTO": "381",
+    "DESC_ENCARTEIRAMENTO": "GRUPO GOVERNO"
+  },
+  {
+    "_CustomObjectKey": "689",
+    "ID_ENCARTEIRAMENTO": "382",
+    "DESC_ENCARTEIRAMENTO": "GRUPO ENTIDADES"
+  },
+  {
+    "_CustomObjectKey": "690",
+    "ID_ENCARTEIRAMENTO": "383",
+    "DESC_ENCARTEIRAMENTO": "GRUPO NAO RENTABILIZ"
+  },
+  {
+    "_CustomObjectKey": "691",
+    "ID_ENCARTEIRAMENTO": "384",
+    "DESC_ENCARTEIRAMENTO": "GRUPO CADASTRO"
+  },
+  {
+    "_CustomObjectKey": "692",
+    "ID_ENCARTEIRAMENTO": "400",
+    "DESC_ENCARTEIRAMENTO": "GOVERNO"
+  },
+  {
+    "_CustomObjectKey": "693",
+    "ID_ENCARTEIRAMENTO": "410",
+    "DESC_ENCARTEIRAMENTO": "INFORMATIVA"
+  },
+  {
+    "_CustomObjectKey": "694",
+    "ID_ENCARTEIRAMENTO": "420",
+    "DESC_ENCARTEIRAMENTO": "USUARIOS"
+  },
+  {
+    "_CustomObjectKey": "695",
+    "ID_ENCARTEIRAMENTO": "430",
+    "DESC_ENCARTEIRAMENTO": "RELACIONAMENTO"
+  },
+  {
+    "_CustomObjectKey": "696",
+    "ID_ENCARTEIRAMENTO": "500",
+    "DESC_ENCARTEIRAMENTO": "CORPORATE"
+  },
+  {
+    "_CustomObjectKey": "697",
+    "ID_ENCARTEIRAMENTO": "96",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "698",
+    "ID_ENCARTEIRAMENTO": "51",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "699",
+    "ID_ENCARTEIRAMENTO": "97",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "700",
+    "ID_ENCARTEIRAMENTO": "0",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "701",
+    "ID_ENCARTEIRAMENTO": "302",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "702",
+    "ID_ENCARTEIRAMENTO": "20",
+    "DESC_ENCARTEIRAMENTO": "UNIVERSITARIOS"
+  },
+  {
+    "_CustomObjectKey": "703",
+    "ID_ENCARTEIRAMENTO": "78",
+    "DESC_ENCARTEIRAMENTO": "GRUPO CTA S/ CONFORM"
+  },
+  {
+    "_CustomObjectKey": "704",
+    "ID_ENCARTEIRAMENTO": "95",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "705",
+    "ID_ENCARTEIRAMENTO": "93",
+    "DESC_ENCARTEIRAMENTO": "GRUPO REST CADASTRAL"
+  },
+  {
+    "_CustomObjectKey": "706",
+    "ID_ENCARTEIRAMENTO": "304",
+    "DESC_ENCARTEIRAMENTO": "POTENCIAL PJ"
+  },
+  {
+    "_CustomObjectKey": "707",
+    "ID_ENCARTEIRAMENTO": "99",
+    "DESC_ENCARTEIRAMENTO": "GRUPO JOVEM"
+  },
+  {
+    "_CustomObjectKey": "708",
+    "ID_ENCARTEIRAMENTO": "387",
+    "DESC_ENCARTEIRAMENTO": "GRUPO PRODUTO PJ"
+  },
+  {
+    "_CustomObjectKey": "709",
+    "ID_ENCARTEIRAMENTO": "303",
+    "DESC_ENCARTEIRAMENTO": "EMPRESAS I"
+  },
+  {
+    "_CustomObjectKey": "710",
+    "ID_ENCARTEIRAMENTO": "305",
+    "DESC_ENCARTEIRAMENTO": "ATENDIMENTO PJ"
+  },
+  {
+    "_CustomObjectKey": "711",
+    "ID_ENCARTEIRAMENTO": "306",
+    "DESC_ENCARTEIRAMENTO": "GOVERNO COM NEGOCIOS"
+  },
+  {
+    "_CustomObjectKey": "712",
+    "ID_ENCARTEIRAMENTO": "388",
+    "DESC_ENCARTEIRAMENTO": "GOVERNO CADASTRO"
+  },
+  {
+    "_CustomObjectKey": "713",
+    "ID_ENCARTEIRAMENTO": "386",
+    "DESC_ENCARTEIRAMENTO": "GRUPO CTA INTEGRACAO"
+  },
+  {
+    "_CustomObjectKey": "714",
+    "ID_ENCARTEIRAMENTO": "50",
+    "DESC_ENCARTEIRAMENTO": "RURAL ESTILO"
+  },
+  {
+    "_CustomObjectKey": "715",
+    "ID_ENCARTEIRAMENTO": "25",
+    "DESC_ENCARTEIRAMENTO": "PERSONALIZADO I"
+  },
+  {
+    "_CustomObjectKey": "716",
+    "ID_ENCARTEIRAMENTO": "92",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "717",
+    "ID_ENCARTEIRAMENTO": "79",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "718",
+    "ID_ENCARTEIRAMENTO": "385",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "719",
+    "ID_ENCARTEIRAMENTO": "18",
+    "DESC_ENCARTEIRAMENTO": "VAREJO I"
+  },
+  {
+    "_CustomObjectKey": "720",
+    "ID_ENCARTEIRAMENTO": "16",
+    "DESC_ENCARTEIRAMENTO": "PERSONALIZADO"
+  },
+  {
+    "_CustomObjectKey": "721",
+    "ID_ENCARTEIRAMENTO": "15",
+    "DESC_ENCARTEIRAMENTO": "GRUPO COMERCIAL"
+  },
+  {
+    "_CustomObjectKey": "722",
+    "ID_ENCARTEIRAMENTO": "19",
+    "DESC_ENCARTEIRAMENTO": "VAREJO II"
+  },
+  {
+    "_CustomObjectKey": "723",
+    "ID_ENCARTEIRAMENTO": "315",
+    "DESC_ENCARTEIRAMENTO": "EMPRESAS II"
+  },
+  {
+    "_CustomObjectKey": "724",
+    "ID_ENCARTEIRAMENTO": "17",
+    "DESC_ENCARTEIRAMENTO": "POTENCIAL PF"
+  },
+  {
+    "_CustomObjectKey": "725",
+    "ID_ENCARTEIRAMENTO": "550",
+    "DESC_ENCARTEIRAMENTO": "LARGE CORPORATE"
+  },
+  {
+    "_CustomObjectKey": "726",
+    "ID_ENCARTEIRAMENTO": "402",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "727",
+    "ID_ENCARTEIRAMENTO": "422",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "728",
+    "ID_ENCARTEIRAMENTO": "335",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "729",
+    "ID_ENCARTEIRAMENTO": "5009",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "730",
+    "ID_ENCARTEIRAMENTO": "445",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "731",
+    "ID_ENCARTEIRAMENTO": "310",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "732",
+    "ID_ENCARTEIRAMENTO": "669",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "733",
+    "ID_ENCARTEIRAMENTO": "5095",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "734",
+    "ID_ENCARTEIRAMENTO": "5093",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "735",
+    "ID_ENCARTEIRAMENTO": "5125",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "736",
+    "ID_ENCARTEIRAMENTO": "591",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "737",
+    "ID_ENCARTEIRAMENTO": "534",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "738",
+    "ID_ENCARTEIRAMENTO": "5087",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "739",
+    "ID_ENCARTEIRAMENTO": "5121",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "740",
+    "ID_ENCARTEIRAMENTO": "415",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "741",
+    "ID_ENCARTEIRAMENTO": "503",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "742",
+    "ID_ENCARTEIRAMENTO": "579",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "743",
+    "ID_ENCARTEIRAMENTO": "70",
+    "DESC_ENCARTEIRAMENTO": "BANCO POSTAL PF"
+  },
+  {
+    "_CustomObjectKey": "744",
+    "ID_ENCARTEIRAMENTO": "200",
+    "DESC_ENCARTEIRAMENTO": "MIDDLE"
+  },
+  {
+    "_CustomObjectKey": "745",
+    "ID_ENCARTEIRAMENTO": "667",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "746",
+    "ID_ENCARTEIRAMENTO": "366",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "747",
+    "ID_ENCARTEIRAMENTO": "590",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "748",
+    "ID_ENCARTEIRAMENTO": "538",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "749",
+    "ID_ENCARTEIRAMENTO": "340",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "750",
+    "ID_ENCARTEIRAMENTO": "75",
+    "DESC_ENCARTEIRAMENTO": "USU GERENC FINANC"
+  },
+  {
+    "_CustomObjectKey": "751",
+    "ID_ENCARTEIRAMENTO": "404",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "752",
+    "ID_ENCARTEIRAMENTO": "577",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "753",
+    "ID_ENCARTEIRAMENTO": "515",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "754",
+    "ID_ENCARTEIRAMENTO": "5115",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "755",
+    "ID_ENCARTEIRAMENTO": "403",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "756",
+    "ID_ENCARTEIRAMENTO": "691",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "757",
+    "ID_ENCARTEIRAMENTO": "369",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "758",
+    "ID_ENCARTEIRAMENTO": "409",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "759",
+    "ID_ENCARTEIRAMENTO": "572",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "760",
+    "ID_ENCARTEIRAMENTO": "5109",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "761",
+    "ID_ENCARTEIRAMENTO": "5114",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "762",
+    "ID_ENCARTEIRAMENTO": "5111",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "763",
+    "ID_ENCARTEIRAMENTO": "456",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "764",
+    "ID_ENCARTEIRAMENTO": "594",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "765",
+    "ID_ENCARTEIRAMENTO": "414",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "766",
+    "ID_ENCARTEIRAMENTO": "593",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "767",
+    "ID_ENCARTEIRAMENTO": "411",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "768",
+    "ID_ENCARTEIRAMENTO": "327",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "769",
+    "ID_ENCARTEIRAMENTO": "47",
+    "DESC_ENCARTEIRAMENTO": "PRIVATE MISTA"
+  },
+  {
+    "_CustomObjectKey": "770",
+    "ID_ENCARTEIRAMENTO": "342",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "771",
+    "ID_ENCARTEIRAMENTO": "5011",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "772",
+    "ID_ENCARTEIRAMENTO": "5020",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "773",
+    "ID_ENCARTEIRAMENTO": "279",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "774",
+    "ID_ENCARTEIRAMENTO": "455",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "775",
+    "ID_ENCARTEIRAMENTO": "323",
+    "DESC_ENCARTEIRAMENTO": "MICROEMPRESA REMOTA"
+  },
+  {
+    "_CustomObjectKey": "776",
+    "ID_ENCARTEIRAMENTO": "5055",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "777",
+    "ID_ENCARTEIRAMENTO": "4",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "778",
+    "ID_ENCARTEIRAMENTO": "59",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "779",
+    "ID_ENCARTEIRAMENTO": "5080",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "780",
+    "ID_ENCARTEIRAMENTO": "241",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "781",
+    "ID_ENCARTEIRAMENTO": "5050",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "782",
+    "ID_ENCARTEIRAMENTO": "5073",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "783",
+    "ID_ENCARTEIRAMENTO": "5089",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "784",
+    "ID_ENCARTEIRAMENTO": "5083",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "785",
+    "ID_ENCARTEIRAMENTO": "250",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "786",
+    "ID_ENCARTEIRAMENTO": "233",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "787",
+    "ID_ENCARTEIRAMENTO": "5059",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "788",
+    "ID_ENCARTEIRAMENTO": "5058",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "789",
+    "ID_ENCARTEIRAMENTO": "312",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "790",
+    "ID_ENCARTEIRAMENTO": "408",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "791",
+    "ID_ENCARTEIRAMENTO": "351",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "792",
+    "ID_ENCARTEIRAMENTO": "274",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "793",
+    "ID_ENCARTEIRAMENTO": "272",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "794",
+    "ID_ENCARTEIRAMENTO": "226",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "795",
+    "ID_ENCARTEIRAMENTO": "502",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "796",
+    "ID_ENCARTEIRAMENTO": "354",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "797",
+    "ID_ENCARTEIRAMENTO": "299",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "798",
+    "ID_ENCARTEIRAMENTO": "483",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "799",
+    "ID_ENCARTEIRAMENTO": "5071",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "800",
+    "ID_ENCARTEIRAMENTO": "275",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "801",
+    "ID_ENCARTEIRAMENTO": "5054",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "802",
+    "ID_ENCARTEIRAMENTO": "5072",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "803",
+    "ID_ENCARTEIRAMENTO": "313",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "804",
+    "ID_ENCARTEIRAMENTO": "5061",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "805",
+    "ID_ENCARTEIRAMENTO": "5070",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "806",
+    "ID_ENCARTEIRAMENTO": "296",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "807",
+    "ID_ENCARTEIRAMENTO": "60",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "808",
+    "ID_ENCARTEIRAMENTO": "521",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "809",
+    "ID_ENCARTEIRAMENTO": "67",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "810",
+    "ID_ENCARTEIRAMENTO": "5084",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "811",
+    "ID_ENCARTEIRAMENTO": "329",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "812",
+    "ID_ENCARTEIRAMENTO": "94",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "813",
+    "ID_ENCARTEIRAMENTO": "444",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "814",
+    "ID_ENCARTEIRAMENTO": "5046",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "815",
+    "ID_ENCARTEIRAMENTO": "481",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "816",
+    "ID_ENCARTEIRAMENTO": "356",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "817",
+    "ID_ENCARTEIRAMENTO": "298",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "818",
+    "ID_ENCARTEIRAMENTO": "5076",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "819",
+    "ID_ENCARTEIRAMENTO": "278",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "820",
+    "ID_ENCARTEIRAMENTO": "556",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "821",
+    "ID_ENCARTEIRAMENTO": "5062",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "822",
+    "ID_ENCARTEIRAMENTO": "331",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "823",
+    "ID_ENCARTEIRAMENTO": "5081",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "824",
+    "ID_ENCARTEIRAMENTO": "5075",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "825",
+    "ID_ENCARTEIRAMENTO": "5007",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "826",
+    "ID_ENCARTEIRAMENTO": "333",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "827",
+    "ID_ENCARTEIRAMENTO": "5100",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "828",
+    "ID_ENCARTEIRAMENTO": "5001",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "829",
+    "ID_ENCARTEIRAMENTO": "39",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "830",
+    "ID_ENCARTEIRAMENTO": "325",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "831",
+    "ID_ENCARTEIRAMENTO": "5074",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "832",
+    "ID_ENCARTEIRAMENTO": "307",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "833",
+    "ID_ENCARTEIRAMENTO": "367",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "834",
+    "ID_ENCARTEIRAMENTO": "378",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "835",
+    "ID_ENCARTEIRAMENTO": "101",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "836",
+    "ID_ENCARTEIRAMENTO": "314",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "837",
+    "ID_ENCARTEIRAMENTO": "5068",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "838",
+    "ID_ENCARTEIRAMENTO": "343",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "839",
+    "ID_ENCARTEIRAMENTO": "5104",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "840",
+    "ID_ENCARTEIRAMENTO": "398",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "841",
+    "ID_ENCARTEIRAMENTO": "5082",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "842",
+    "ID_ENCARTEIRAMENTO": "565",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "843",
+    "ID_ENCARTEIRAMENTO": "288",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "844",
+    "ID_ENCARTEIRAMENTO": "240",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "845",
+    "ID_ENCARTEIRAMENTO": "462",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "846",
+    "ID_ENCARTEIRAMENTO": "6",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "847",
+    "ID_ENCARTEIRAMENTO": "452",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "848",
+    "ID_ENCARTEIRAMENTO": "5097",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "849",
+    "ID_ENCARTEIRAMENTO": "5012",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "850",
+    "ID_ENCARTEIRAMENTO": "5060",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "851",
+    "ID_ENCARTEIRAMENTO": "269",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "852",
+    "ID_ENCARTEIRAMENTO": "260",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "853",
+    "ID_ENCARTEIRAMENTO": "317",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "854",
+    "ID_ENCARTEIRAMENTO": "449",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "855",
+    "ID_ENCARTEIRAMENTO": "5078",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "856",
+    "ID_ENCARTEIRAMENTO": "5067",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "857",
+    "ID_ENCARTEIRAMENTO": "5091",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "858",
+    "ID_ENCARTEIRAMENTO": "405",
+    "DESC_ENCARTEIRAMENTO": "JUDICIARIO(GOV)"
+  },
+  {
+    "_CustomObjectKey": "859",
+    "ID_ENCARTEIRAMENTO": "190",
+    "DESC_ENCARTEIRAMENTO": "DESENVOLVER"
+  },
+  {
+    "_CustomObjectKey": "860",
+    "ID_ENCARTEIRAMENTO": "271",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "861",
+    "ID_ENCARTEIRAMENTO": "49",
+    "DESC_ENCARTEIRAMENTO": "PRIVATE MISTA 3"
+  },
+  {
+    "_CustomObjectKey": "862",
+    "ID_ENCARTEIRAMENTO": "198",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "863",
+    "ID_ENCARTEIRAMENTO": "451",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "864",
+    "ID_ENCARTEIRAMENTO": "421",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "865",
+    "ID_ENCARTEIRAMENTO": "237",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "866",
+    "ID_ENCARTEIRAMENTO": "55",
+    "DESC_ENCARTEIRAMENTO": "ESCRITORIO EXCLUSIVO"
+  },
+  {
+    "_CustomObjectKey": "867",
+    "ID_ENCARTEIRAMENTO": "176",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "868",
+    "ID_ENCARTEIRAMENTO": "362",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "869",
+    "ID_ENCARTEIRAMENTO": "239",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "870",
+    "ID_ENCARTEIRAMENTO": "63",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "871",
+    "ID_ENCARTEIRAMENTO": "244",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "872",
+    "ID_ENCARTEIRAMENTO": "251",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "873",
+    "ID_ENCARTEIRAMENTO": "215",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "874",
+    "ID_ENCARTEIRAMENTO": "5027",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "875",
+    "ID_ENCARTEIRAMENTO": "324",
+    "DESC_ENCARTEIRAMENTO": "COOPERATIVA REMOTA"
+  },
+  {
+    "_CustomObjectKey": "876",
+    "ID_ENCARTEIRAMENTO": "235",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "877",
+    "ID_ENCARTEIRAMENTO": "5023",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "878",
+    "ID_ENCARTEIRAMENTO": "5029",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "879",
+    "ID_ENCARTEIRAMENTO": "5045",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "880",
+    "ID_ENCARTEIRAMENTO": "5041",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "881",
+    "ID_ENCARTEIRAMENTO": "337",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "882",
+    "ID_ENCARTEIRAMENTO": "5039",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "883",
+    "ID_ENCARTEIRAMENTO": "5022",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "884",
+    "ID_ENCARTEIRAMENTO": "5044",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "885",
+    "ID_ENCARTEIRAMENTO": "5034",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "886",
+    "ID_ENCARTEIRAMENTO": "5015",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "887",
+    "ID_ENCARTEIRAMENTO": "5026",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "888",
+    "ID_ENCARTEIRAMENTO": "107",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "889",
+    "ID_ENCARTEIRAMENTO": "5032",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "890",
+    "ID_ENCARTEIRAMENTO": "225",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "891",
+    "ID_ENCARTEIRAMENTO": "5040",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "892",
+    "ID_ENCARTEIRAMENTO": "285",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "893",
+    "ID_ENCARTEIRAMENTO": "424",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "894",
+    "ID_ENCARTEIRAMENTO": "5018",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "895",
+    "ID_ENCARTEIRAMENTO": "217",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "896",
+    "ID_ENCARTEIRAMENTO": "5048",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "897",
+    "ID_ENCARTEIRAMENTO": "5028",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "898",
+    "ID_ENCARTEIRAMENTO": "5036",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "899",
+    "ID_ENCARTEIRAMENTO": "5037",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "900",
+    "ID_ENCARTEIRAMENTO": "5047",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "901",
+    "ID_ENCARTEIRAMENTO": "5025",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "902",
+    "ID_ENCARTEIRAMENTO": "3",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "903",
+    "ID_ENCARTEIRAMENTO": "505",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "904",
+    "ID_ENCARTEIRAMENTO": "77",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "905",
+    "ID_ENCARTEIRAMENTO": "347",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "906",
+    "ID_ENCARTEIRAMENTO": "5019",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "907",
+    "ID_ENCARTEIRAMENTO": "41",
+    "DESC_ENCARTEIRAMENTO": "PRIVATE AFLUENTE"
+  },
+  {
+    "_CustomObjectKey": "908",
+    "ID_ENCARTEIRAMENTO": "578",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "909",
+    "ID_ENCARTEIRAMENTO": "5003",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "910",
+    "ID_ENCARTEIRAMENTO": "308",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "911",
+    "ID_ENCARTEIRAMENTO": "393",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "912",
+    "ID_ENCARTEIRAMENTO": "454",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "913",
+    "ID_ENCARTEIRAMENTO": "536",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "914",
+    "ID_ENCARTEIRAMENTO": "5092",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "915",
+    "ID_ENCARTEIRAMENTO": "332",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "916",
+    "ID_ENCARTEIRAMENTO": "376",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "917",
+    "ID_ENCARTEIRAMENTO": "5103",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "918",
+    "ID_ENCARTEIRAMENTO": "9",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "919",
+    "ID_ENCARTEIRAMENTO": "5113",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "920",
+    "ID_ENCARTEIRAMENTO": "697",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "921",
+    "ID_ENCARTEIRAMENTO": "360",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "922",
+    "ID_ENCARTEIRAMENTO": "552",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "923",
+    "ID_ENCARTEIRAMENTO": "104",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "924",
+    "ID_ENCARTEIRAMENTO": "5024",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "925",
+    "ID_ENCARTEIRAMENTO": "171",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "926",
+    "ID_ENCARTEIRAMENTO": "5056",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "927",
+    "ID_ENCARTEIRAMENTO": "5031",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "928",
+    "ID_ENCARTEIRAMENTO": "5016",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "929",
+    "ID_ENCARTEIRAMENTO": "5030",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "930",
+    "ID_ENCARTEIRAMENTO": "5042",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "931",
+    "ID_ENCARTEIRAMENTO": "253",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "932",
+    "ID_ENCARTEIRAMENTO": "258",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "933",
+    "ID_ENCARTEIRAMENTO": "5017",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "934",
+    "ID_ENCARTEIRAMENTO": "5035",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "935",
+    "ID_ENCARTEIRAMENTO": "370",
+    "DESC_ENCARTEIRAMENTO": "BANCO POSTAL PJ"
+  },
+  {
+    "_CustomObjectKey": "936",
+    "ID_ENCARTEIRAMENTO": "5043",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "937",
+    "ID_ENCARTEIRAMENTO": "5086",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "938",
+    "ID_ENCARTEIRAMENTO": "5052",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "939",
+    "ID_ENCARTEIRAMENTO": "64",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "940",
+    "ID_ENCARTEIRAMENTO": "33",
+    "DESC_ENCARTEIRAMENTO": "PRIVATE JUNIOR"
+  },
+  {
+    "_CustomObjectKey": "941",
+    "ID_ENCARTEIRAMENTO": "5090",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "942",
+    "ID_ENCARTEIRAMENTO": "36",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "943",
+    "ID_ENCARTEIRAMENTO": "5066",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "944",
+    "ID_ENCARTEIRAMENTO": "46",
+    "DESC_ENCARTEIRAMENTO": "PRIVATE FAMILY OFFIC"
+  },
+  {
+    "_CustomObjectKey": "945",
+    "ID_ENCARTEIRAMENTO": "450",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "946",
+    "ID_ENCARTEIRAMENTO": "5051",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "947",
+    "ID_ENCARTEIRAMENTO": "29",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "948",
+    "ID_ENCARTEIRAMENTO": "353",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "949",
+    "ID_ENCARTEIRAMENTO": "207",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "950",
+    "ID_ENCARTEIRAMENTO": "5014",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "951",
+    "ID_ENCARTEIRAMENTO": "5021",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "952",
+    "ID_ENCARTEIRAMENTO": "5127",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "953",
+    "ID_ENCARTEIRAMENTO": "399",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "954",
+    "ID_ENCARTEIRAMENTO": "292",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "955",
+    "ID_ENCARTEIRAMENTO": "261",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "956",
+    "ID_ENCARTEIRAMENTO": "5038",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "957",
+    "ID_ENCARTEIRAMENTO": "5069",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "958",
+    "ID_ENCARTEIRAMENTO": "5013",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "959",
+    "ID_ENCARTEIRAMENTO": "38",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "960",
+    "ID_ENCARTEIRAMENTO": "56",
+    "DESC_ENCARTEIRAMENTO": "EXCLUSIVO REMOTO"
+  },
+  {
+    "_CustomObjectKey": "961",
+    "ID_ENCARTEIRAMENTO": "5033",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "962",
+    "ID_ENCARTEIRAMENTO": "35",
+    "DESC_ENCARTEIRAMENTO": "SPECIAL"
+  },
+  {
+    "_CustomObjectKey": "963",
+    "ID_ENCARTEIRAMENTO": "262",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "964",
+    "ID_ENCARTEIRAMENTO": "270",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "965",
+    "ID_ENCARTEIRAMENTO": "5049",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "966",
+    "ID_ENCARTEIRAMENTO": "5053",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "967",
+    "ID_ENCARTEIRAMENTO": "232",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "968",
+    "ID_ENCARTEIRAMENTO": "268",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "969",
+    "ID_ENCARTEIRAMENTO": "5064",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "970",
+    "ID_ENCARTEIRAMENTO": "43",
+    "DESC_ENCARTEIRAMENTO": "PRIVATE SOFISTICADO"
+  },
+  {
+    "_CustomObjectKey": "971",
+    "ID_ENCARTEIRAMENTO": "102",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "972",
+    "ID_ENCARTEIRAMENTO": "5002",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "973",
+    "ID_ENCARTEIRAMENTO": "5063",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "974",
+    "ID_ENCARTEIRAMENTO": "213",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "975",
+    "ID_ENCARTEIRAMENTO": "5088",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "976",
+    "ID_ENCARTEIRAMENTO": "5057",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "977",
+    "ID_ENCARTEIRAMENTO": "246",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "978",
+    "ID_ENCARTEIRAMENTO": "5010",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "979",
+    "ID_ENCARTEIRAMENTO": "352",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "980",
+    "ID_ENCARTEIRAMENTO": "5065",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "981",
+    "ID_ENCARTEIRAMENTO": "224",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "982",
+    "ID_ENCARTEIRAMENTO": "284",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "983",
+    "ID_ENCARTEIRAMENTO": "280",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "984",
+    "ID_ENCARTEIRAMENTO": "316",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "985",
+    "ID_ENCARTEIRAMENTO": "428",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "986",
+    "ID_ENCARTEIRAMENTO": "535",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "987",
+    "ID_ENCARTEIRAMENTO": "336",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "988",
+    "ID_ENCARTEIRAMENTO": "309",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "989",
+    "ID_ENCARTEIRAMENTO": "559",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "990",
+    "ID_ENCARTEIRAMENTO": "371",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "991",
+    "ID_ENCARTEIRAMENTO": "345",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "992",
+    "ID_ENCARTEIRAMENTO": "368",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "993",
+    "ID_ENCARTEIRAMENTO": "249",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "994",
+    "ID_ENCARTEIRAMENTO": "423",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "995",
+    "ID_ENCARTEIRAMENTO": "425",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "996",
+    "ID_ENCARTEIRAMENTO": "283",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "997",
+    "ID_ENCARTEIRAMENTO": "5",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "998",
+    "ID_ENCARTEIRAMENTO": "349",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "999",
+    "ID_ENCARTEIRAMENTO": "339",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1000",
+    "ID_ENCARTEIRAMENTO": "448",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1001",
+    "ID_ENCARTEIRAMENTO": "357",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1002",
+    "ID_ENCARTEIRAMENTO": "5099",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1003",
+    "ID_ENCARTEIRAMENTO": "396",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1004",
+    "ID_ENCARTEIRAMENTO": "582",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1005",
+    "ID_ENCARTEIRAMENTO": "289",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1006",
+    "ID_ENCARTEIRAMENTO": "5077",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1007",
+    "ID_ENCARTEIRAMENTO": "375",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1008",
+    "ID_ENCARTEIRAMENTO": "5085",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1009",
+    "ID_ENCARTEIRAMENTO": "395",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1010",
+    "ID_ENCARTEIRAMENTO": "506",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1011",
+    "ID_ENCARTEIRAMENTO": "510",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1012",
+    "ID_ENCARTEIRAMENTO": "5105",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1013",
+    "ID_ENCARTEIRAMENTO": "5112",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1014",
+    "ID_ENCARTEIRAMENTO": "334",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1015",
+    "ID_ENCARTEIRAMENTO": "350",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1016",
+    "ID_ENCARTEIRAMENTO": "5116",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1017",
+    "ID_ENCARTEIRAMENTO": "5126",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1018",
+    "ID_ENCARTEIRAMENTO": "5008",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1019",
+    "ID_ENCARTEIRAMENTO": "348",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1020",
+    "ID_ENCARTEIRAMENTO": "379",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1021",
+    "ID_ENCARTEIRAMENTO": "507",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1022",
+    "ID_ENCARTEIRAMENTO": "419",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1023",
+    "ID_ENCARTEIRAMENTO": "8",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1024",
+    "ID_ENCARTEIRAMENTO": "709",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1025",
+    "ID_ENCARTEIRAMENTO": "5102",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1026",
+    "ID_ENCARTEIRAMENTO": "562",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1027",
+    "ID_ENCARTEIRAMENTO": "431",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1028",
+    "ID_ENCARTEIRAMENTO": "5122",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1029",
+    "ID_ENCARTEIRAMENTO": "435",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1030",
+    "ID_ENCARTEIRAMENTO": "5079",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1031",
+    "ID_ENCARTEIRAMENTO": "392",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1032",
+    "ID_ENCARTEIRAMENTO": "694",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1033",
+    "ID_ENCARTEIRAMENTO": "5134",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1034",
+    "ID_ENCARTEIRAMENTO": "5004",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1035",
+    "ID_ENCARTEIRAMENTO": "574",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1036",
+    "ID_ENCARTEIRAMENTO": "286",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1037",
+    "ID_ENCARTEIRAMENTO": "446",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1038",
+    "ID_ENCARTEIRAMENTO": "359",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1039",
+    "ID_ENCARTEIRAMENTO": "389",
+    "DESC_ENCARTEIRAMENTO": "GOVERNO PRODUTO"
+  },
+  {
+    "_CustomObjectKey": "1040",
+    "ID_ENCARTEIRAMENTO": "373",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1041",
+    "ID_ENCARTEIRAMENTO": "433",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1042",
+    "ID_ENCARTEIRAMENTO": "412",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1043",
+    "ID_ENCARTEIRAMENTO": "341",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1044",
+    "ID_ENCARTEIRAMENTO": "488",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1045",
+    "ID_ENCARTEIRAMENTO": "372",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1046",
+    "ID_ENCARTEIRAMENTO": "426",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1047",
+    "ID_ENCARTEIRAMENTO": "447",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1048",
+    "ID_ENCARTEIRAMENTO": "441",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1049",
+    "ID_ENCARTEIRAMENTO": "592",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1050",
+    "ID_ENCARTEIRAMENTO": "520",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1051",
+    "ID_ENCARTEIRAMENTO": "5098",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1052",
+    "ID_ENCARTEIRAMENTO": "666",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1053",
+    "ID_ENCARTEIRAMENTO": "5101",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1054",
+    "ID_ENCARTEIRAMENTO": "664",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1055",
+    "ID_ENCARTEIRAMENTO": "413",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1056",
+    "ID_ENCARTEIRAMENTO": "665",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1057",
+    "ID_ENCARTEIRAMENTO": "417",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1058",
+    "ID_ENCARTEIRAMENTO": "5117",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1059",
+    "ID_ENCARTEIRAMENTO": "453",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1060",
+    "ID_ENCARTEIRAMENTO": "344",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1061",
+    "ID_ENCARTEIRAMENTO": "5110",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1062",
+    "ID_ENCARTEIRAMENTO": "5118",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1063",
+    "ID_ENCARTEIRAMENTO": "363",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1064",
+    "ID_ENCARTEIRAMENTO": "361",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1065",
+    "ID_ENCARTEIRAMENTO": "461",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1066",
+    "ID_ENCARTEIRAMENTO": "687",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1067",
+    "ID_ENCARTEIRAMENTO": "539",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1068",
+    "ID_ENCARTEIRAMENTO": "585",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1069",
+    "ID_ENCARTEIRAMENTO": "74",
+    "DESC_ENCARTEIRAMENTO": "EX CLIENTES"
+  },
+  {
+    "_CustomObjectKey": "1070",
+    "ID_ENCARTEIRAMENTO": "72",
+    "DESC_ENCARTEIRAMENTO": "FALECIDOS SEM OPER"
+  },
+  {
+    "_CustomObjectKey": "1071",
+    "ID_ENCARTEIRAMENTO": "76",
+    "DESC_ENCARTEIRAMENTO": "PROSPECCAO"
+  },
+  {
+    "_CustomObjectKey": "1072",
+    "ID_ENCARTEIRAMENTO": "73",
+    "DESC_ENCARTEIRAMENTO": "SEM MOVIMENTO"
+  },
+  {
+    "_CustomObjectKey": "1073",
+    "ID_ENCARTEIRAMENTO": "527",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1074",
+    "ID_ENCARTEIRAMENTO": "504",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1075",
+    "ID_ENCARTEIRAMENTO": "5124",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1076",
+    "ID_ENCARTEIRAMENTO": "5123",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1077",
+    "ID_ENCARTEIRAMENTO": "374",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1078",
+    "ID_ENCARTEIRAMENTO": "355",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1079",
+    "ID_ENCARTEIRAMENTO": "377",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1080",
+    "ID_ENCARTEIRAMENTO": "5094",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1081",
+    "ID_ENCARTEIRAMENTO": "397",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1082",
+    "ID_ENCARTEIRAMENTO": "563",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1083",
+    "ID_ENCARTEIRAMENTO": "513",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1084",
+    "ID_ENCARTEIRAMENTO": "429",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1085",
+    "ID_ENCARTEIRAMENTO": "571",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1086",
+    "ID_ENCARTEIRAMENTO": "364",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1087",
+    "ID_ENCARTEIRAMENTO": "210",
+    "DESC_ENCARTEIRAMENTO": "UPPER MIDDLE"
+  },
+  {
+    "_CustomObjectKey": "1088",
+    "ID_ENCARTEIRAMENTO": "53",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1089",
+    "ID_ENCARTEIRAMENTO": "120",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1090",
+    "ID_ENCARTEIRAMENTO": "127",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1091",
+    "ID_ENCARTEIRAMENTO": "146",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1092",
+    "ID_ENCARTEIRAMENTO": "133",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1093",
+    "ID_ENCARTEIRAMENTO": "109",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1094",
+    "ID_ENCARTEIRAMENTO": "44",
+    "DESC_ENCARTEIRAMENTO": "PRIVATE ULTRA-HIGH"
+  },
+  {
+    "_CustomObjectKey": "1095",
+    "ID_ENCARTEIRAMENTO": "196",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1096",
+    "ID_ENCARTEIRAMENTO": "159",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1097",
+    "ID_ENCARTEIRAMENTO": "139",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1098",
+    "ID_ENCARTEIRAMENTO": "214",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1099",
+    "ID_ENCARTEIRAMENTO": "118",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1100",
+    "ID_ENCARTEIRAMENTO": "147",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1101",
+    "ID_ENCARTEIRAMENTO": "135",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1102",
+    "ID_ENCARTEIRAMENTO": "174",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1103",
+    "ID_ENCARTEIRAMENTO": "209",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1104",
+    "ID_ENCARTEIRAMENTO": "123",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1105",
+    "ID_ENCARTEIRAMENTO": "311",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1106",
+    "ID_ENCARTEIRAMENTO": "117",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1107",
+    "ID_ENCARTEIRAMENTO": "122",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1108",
+    "ID_ENCARTEIRAMENTO": "112",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1109",
+    "ID_ENCARTEIRAMENTO": "57",
+    "DESC_ENCARTEIRAMENTO": "ESTILO REMOTO"
+  },
+  {
+    "_CustomObjectKey": "1110",
+    "ID_ENCARTEIRAMENTO": "116",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1111",
+    "ID_ENCARTEIRAMENTO": "182",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1112",
+    "ID_ENCARTEIRAMENTO": "204",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1113",
+    "ID_ENCARTEIRAMENTO": "113",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1114",
+    "ID_ENCARTEIRAMENTO": "164",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1115",
+    "ID_ENCARTEIRAMENTO": "255",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1116",
+    "ID_ENCARTEIRAMENTO": "114",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1117",
+    "ID_ENCARTEIRAMENTO": "187",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1118",
+    "ID_ENCARTEIRAMENTO": "149",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1119",
+    "ID_ENCARTEIRAMENTO": "121",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1120",
+    "ID_ENCARTEIRAMENTO": "202",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1121",
+    "ID_ENCARTEIRAMENTO": "191",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1122",
+    "ID_ENCARTEIRAMENTO": "229",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1123",
+    "ID_ENCARTEIRAMENTO": "218",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1124",
+    "ID_ENCARTEIRAMENTO": "100",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1125",
+    "ID_ENCARTEIRAMENTO": "205",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1126",
+    "ID_ENCARTEIRAMENTO": "165",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1127",
+    "ID_ENCARTEIRAMENTO": "184",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1128",
+    "ID_ENCARTEIRAMENTO": "162",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1129",
+    "ID_ENCARTEIRAMENTO": "62",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1130",
+    "ID_ENCARTEIRAMENTO": "125",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1131",
+    "ID_ENCARTEIRAMENTO": "166",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1132",
+    "ID_ENCARTEIRAMENTO": "98",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1133",
+    "ID_ENCARTEIRAMENTO": "134",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1134",
+    "ID_ENCARTEIRAMENTO": "140",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1135",
+    "ID_ENCARTEIRAMENTO": "223",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1136",
+    "ID_ENCARTEIRAMENTO": "48",
+    "DESC_ENCARTEIRAMENTO": "PRIVATE MISTA 2"
+  },
+  {
+    "_CustomObjectKey": "1137",
+    "ID_ENCARTEIRAMENTO": "131",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1138",
+    "ID_ENCARTEIRAMENTO": "489",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1139",
+    "ID_ENCARTEIRAMENTO": "220",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1140",
+    "ID_ENCARTEIRAMENTO": "65",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1141",
+    "ID_ENCARTEIRAMENTO": "137",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1142",
+    "ID_ENCARTEIRAMENTO": "328",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1143",
+    "ID_ENCARTEIRAMENTO": "295",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1144",
+    "ID_ENCARTEIRAMENTO": "152",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1145",
+    "ID_ENCARTEIRAMENTO": "294",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1146",
+    "ID_ENCARTEIRAMENTO": "192",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1147",
+    "ID_ENCARTEIRAMENTO": "320",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1148",
+    "ID_ENCARTEIRAMENTO": "163",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1149",
+    "ID_ENCARTEIRAMENTO": "259",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1150",
+    "ID_ENCARTEIRAMENTO": "177",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1151",
+    "ID_ENCARTEIRAMENTO": "185",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1152",
+    "ID_ENCARTEIRAMENTO": "143",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1153",
+    "ID_ENCARTEIRAMENTO": "242",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1154",
+    "ID_ENCARTEIRAMENTO": "167",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1155",
+    "ID_ENCARTEIRAMENTO": "129",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1156",
+    "ID_ENCARTEIRAMENTO": "45",
+    "DESC_ENCARTEIRAMENTO": "PRIVATE PRODUTOR RUR"
+  },
+  {
+    "_CustomObjectKey": "1157",
+    "ID_ENCARTEIRAMENTO": "169",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1158",
+    "ID_ENCARTEIRAMENTO": "231",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1159",
+    "ID_ENCARTEIRAMENTO": "276",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1160",
+    "ID_ENCARTEIRAMENTO": "194",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1161",
+    "ID_ENCARTEIRAMENTO": "12",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1162",
+    "ID_ENCARTEIRAMENTO": "142",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1163",
+    "ID_ENCARTEIRAMENTO": "238",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1164",
+    "ID_ENCARTEIRAMENTO": "203",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1165",
+    "ID_ENCARTEIRAMENTO": "178",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1166",
+    "ID_ENCARTEIRAMENTO": "212",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1167",
+    "ID_ENCARTEIRAMENTO": "136",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1168",
+    "ID_ENCARTEIRAMENTO": "216",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1169",
+    "ID_ENCARTEIRAMENTO": "228",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1170",
+    "ID_ENCARTEIRAMENTO": "132",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1171",
+    "ID_ENCARTEIRAMENTO": "394",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1172",
+    "ID_ENCARTEIRAMENTO": "66",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1173",
+    "ID_ENCARTEIRAMENTO": "119",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1174",
+    "ID_ENCARTEIRAMENTO": "330",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1175",
+    "ID_ENCARTEIRAMENTO": "195",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1176",
+    "ID_ENCARTEIRAMENTO": "188",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1177",
+    "ID_ENCARTEIRAMENTO": "110",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1178",
+    "ID_ENCARTEIRAMENTO": "153",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1179",
+    "ID_ENCARTEIRAMENTO": "206",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1180",
+    "ID_ENCARTEIRAMENTO": "138",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1181",
+    "ID_ENCARTEIRAMENTO": "52",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1182",
+    "ID_ENCARTEIRAMENTO": "273",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1183",
+    "ID_ENCARTEIRAMENTO": "175",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1184",
+    "ID_ENCARTEIRAMENTO": "130",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1185",
+    "ID_ENCARTEIRAMENTO": "22",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1186",
+    "ID_ENCARTEIRAMENTO": "172",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1187",
+    "ID_ENCARTEIRAMENTO": "58",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1188",
+    "ID_ENCARTEIRAMENTO": "7",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1189",
+    "ID_ENCARTEIRAMENTO": "69",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1190",
+    "ID_ENCARTEIRAMENTO": "281",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1191",
+    "ID_ENCARTEIRAMENTO": "144",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1192",
+    "ID_ENCARTEIRAMENTO": "168",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1193",
+    "ID_ENCARTEIRAMENTO": "254",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1194",
+    "ID_ENCARTEIRAMENTO": "227",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1195",
+    "ID_ENCARTEIRAMENTO": "265",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1196",
+    "ID_ENCARTEIRAMENTO": "111",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1197",
+    "ID_ENCARTEIRAMENTO": "158",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1198",
+    "ID_ENCARTEIRAMENTO": "54",
+    "DESC_ENCARTEIRAMENTO": "GRUPO NEG PRIVATE"
+  },
+  {
+    "_CustomObjectKey": "1199",
+    "ID_ENCARTEIRAMENTO": "290",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1200",
+    "ID_ENCARTEIRAMENTO": "148",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1201",
+    "ID_ENCARTEIRAMENTO": "124",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1202",
+    "ID_ENCARTEIRAMENTO": "186",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1203",
+    "ID_ENCARTEIRAMENTO": "126",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1204",
+    "ID_ENCARTEIRAMENTO": "173",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1205",
+    "ID_ENCARTEIRAMENTO": "183",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1206",
+    "ID_ENCARTEIRAMENTO": "199",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1207",
+    "ID_ENCARTEIRAMENTO": "482",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1208",
+    "ID_ENCARTEIRAMENTO": "293",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1209",
+    "ID_ENCARTEIRAMENTO": "277",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1210",
+    "ID_ENCARTEIRAMENTO": "145",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1211",
+    "ID_ENCARTEIRAMENTO": "263",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1212",
+    "ID_ENCARTEIRAMENTO": "257",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1213",
+    "ID_ENCARTEIRAMENTO": "105",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1214",
+    "ID_ENCARTEIRAMENTO": "108",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1215",
+    "ID_ENCARTEIRAMENTO": "318",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1216",
+    "ID_ENCARTEIRAMENTO": "34",
+    "DESC_ENCARTEIRAMENTO": "PREMIUM"
+  },
+  {
+    "_CustomObjectKey": "1217",
+    "ID_ENCARTEIRAMENTO": "401",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1218",
+    "ID_ENCARTEIRAMENTO": "141",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1219",
+    "ID_ENCARTEIRAMENTO": "267",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1220",
+    "ID_ENCARTEIRAMENTO": "297",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1221",
+    "ID_ENCARTEIRAMENTO": "91",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1222",
+    "ID_ENCARTEIRAMENTO": "42",
+    "DESC_ENCARTEIRAMENTO": "PRIVATE SUPERIOR"
+  },
+  {
+    "_CustomObjectKey": "1223",
+    "ID_ENCARTEIRAMENTO": "321",
+    "DESC_ENCARTEIRAMENTO": "EMPRESA REMOTA"
+  },
+  {
+    "_CustomObjectKey": "1224",
+    "ID_ENCARTEIRAMENTO": "13",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1225",
+    "ID_ENCARTEIRAMENTO": "32",
+    "DESC_ENCARTEIRAMENTO": "PRIVATE PLENO"
+  },
+  {
+    "_CustomObjectKey": "1226",
+    "ID_ENCARTEIRAMENTO": "338",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1227",
+    "ID_ENCARTEIRAMENTO": "128",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1228",
+    "ID_ENCARTEIRAMENTO": "197",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1229",
+    "ID_ENCARTEIRAMENTO": "230",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1230",
+    "ID_ENCARTEIRAMENTO": "14",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1231",
+    "ID_ENCARTEIRAMENTO": "161",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1232",
+    "ID_ENCARTEIRAMENTO": "1",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1233",
+    "ID_ENCARTEIRAMENTO": "37",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1234",
+    "ID_ENCARTEIRAMENTO": "156",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1235",
+    "ID_ENCARTEIRAMENTO": "157",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1236",
+    "ID_ENCARTEIRAMENTO": "252",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1237",
+    "ID_ENCARTEIRAMENTO": "221",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1238",
+    "ID_ENCARTEIRAMENTO": "189",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1239",
+    "ID_ENCARTEIRAMENTO": "319",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1240",
+    "ID_ENCARTEIRAMENTO": "248",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1241",
+    "ID_ENCARTEIRAMENTO": "155",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1242",
+    "ID_ENCARTEIRAMENTO": "151",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1243",
+    "ID_ENCARTEIRAMENTO": "2",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1244",
+    "ID_ENCARTEIRAMENTO": "115",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1245",
+    "ID_ENCARTEIRAMENTO": "346",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1246",
+    "ID_ENCARTEIRAMENTO": "219",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1247",
+    "ID_ENCARTEIRAMENTO": "211",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1248",
+    "ID_ENCARTEIRAMENTO": "179",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1249",
+    "ID_ENCARTEIRAMENTO": "106",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1250",
+    "ID_ENCARTEIRAMENTO": "291",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1251",
+    "ID_ENCARTEIRAMENTO": "326",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1252",
+    "ID_ENCARTEIRAMENTO": "154",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1253",
+    "ID_ENCARTEIRAMENTO": "322",
+    "DESC_ENCARTEIRAMENTO": "PEQ EMPRESA REMOTA"
+  },
+  {
+    "_CustomObjectKey": "1254",
+    "ID_ENCARTEIRAMENTO": "201",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1255",
+    "ID_ENCARTEIRAMENTO": "31",
+    "DESC_ENCARTEIRAMENTO": "PRIVATE SENIOR"
+  },
+  {
+    "_CustomObjectKey": "1256",
+    "ID_ENCARTEIRAMENTO": "181",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1257",
+    "ID_ENCARTEIRAMENTO": "28",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1258",
+    "ID_ENCARTEIRAMENTO": "68",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1259",
+    "ID_ENCARTEIRAMENTO": "222",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1260",
+    "ID_ENCARTEIRAMENTO": "287",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1261",
+    "ID_ENCARTEIRAMENTO": "264",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1262",
+    "ID_ENCARTEIRAMENTO": "234",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1263",
+    "ID_ENCARTEIRAMENTO": "208",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1264",
+    "ID_ENCARTEIRAMENTO": "103",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1265",
+    "ID_ENCARTEIRAMENTO": "193",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1266",
+    "ID_ENCARTEIRAMENTO": "256",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1267",
+    "ID_ENCARTEIRAMENTO": "243",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1268",
+    "ID_ENCARTEIRAMENTO": "245",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1269",
+    "ID_ENCARTEIRAMENTO": "266",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1270",
+    "ID_ENCARTEIRAMENTO": "282",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1271",
+    "ID_ENCARTEIRAMENTO": "247",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1272",
+    "ID_ENCARTEIRAMENTO": "236",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1273",
+    "ID_ENCARTEIRAMENTO": "575",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1274",
+    "ID_ENCARTEIRAMENTO": "692",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1275",
+    "ID_ENCARTEIRAMENTO": "516",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1276",
+    "ID_ENCARTEIRAMENTO": "5006",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1277",
+    "ID_ENCARTEIRAMENTO": "416",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1278",
+    "ID_ENCARTEIRAMENTO": "390",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1279",
+    "ID_ENCARTEIRAMENTO": "436",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1280",
+    "ID_ENCARTEIRAMENTO": "358",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1281",
+    "ID_ENCARTEIRAMENTO": "457",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1282",
+    "ID_ENCARTEIRAMENTO": "5005",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1283",
+    "ID_ENCARTEIRAMENTO": "546",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1284",
+    "ID_ENCARTEIRAMENTO": "576",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1285",
+    "ID_ENCARTEIRAMENTO": "391",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1286",
+    "ID_ENCARTEIRAMENTO": "688",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1287",
+    "ID_ENCARTEIRAMENTO": "553",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1288",
+    "ID_ENCARTEIRAMENTO": "533",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1289",
+    "ID_ENCARTEIRAMENTO": "509",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1290",
+    "ID_ENCARTEIRAMENTO": "438",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1291",
+    "ID_ENCARTEIRAMENTO": "5130",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1292",
+    "ID_ENCARTEIRAMENTO": "566",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1293",
+    "ID_ENCARTEIRAMENTO": "695",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1294",
+    "ID_ENCARTEIRAMENTO": "547",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1295",
+    "ID_ENCARTEIRAMENTO": "685",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1296",
+    "ID_ENCARTEIRAMENTO": "693",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1297",
+    "ID_ENCARTEIRAMENTO": "439",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1298",
+    "ID_ENCARTEIRAMENTO": "468",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1299",
+    "ID_ENCARTEIRAMENTO": "443",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1300",
+    "ID_ENCARTEIRAMENTO": "569",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1301",
+    "ID_ENCARTEIRAMENTO": "549",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1302",
+    "ID_ENCARTEIRAMENTO": "427",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1303",
+    "ID_ENCARTEIRAMENTO": "517",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1304",
+    "ID_ENCARTEIRAMENTO": "698",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1305",
+    "ID_ENCARTEIRAMENTO": "5133",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1306",
+    "ID_ENCARTEIRAMENTO": "418",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1307",
+    "ID_ENCARTEIRAMENTO": "440",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1308",
+    "ID_ENCARTEIRAMENTO": "568",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1309",
+    "ID_ENCARTEIRAMENTO": "686",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1310",
+    "ID_ENCARTEIRAMENTO": "407",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1311",
+    "ID_ENCARTEIRAMENTO": "434",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1312",
+    "ID_ENCARTEIRAMENTO": "704",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1313",
+    "ID_ENCARTEIRAMENTO": "406",
+    "DESC_ENCARTEIRAMENTO": "PLATAFORMA(GOV)"
+  },
+  {
+    "_CustomObjectKey": "1314",
+    "ID_ENCARTEIRAMENTO": "551",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1315",
+    "ID_ENCARTEIRAMENTO": "365",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  },
+  {
+    "_CustomObjectKey": "1316",
+    "ID_ENCARTEIRAMENTO": "501",
+    "DESC_ENCARTEIRAMENTO": "NAO CADASTRADA"
+  }
+]

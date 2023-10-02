@@ -1,0 +1,39 @@
+Dataextension name: Juridico
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| PROTOCOLO            | Text(255)       | false    | false    |                 |
+| RECEBIDO_EM          | Text(255)       | false    | false    |                 |
+| NOME_ARQUIVO         | Text(255)       | false    | false    |                 |
+| OFICIO               | Text(255)       | false    | false    |                 |
+| PROCESSO             | Text(255)       | false    | false    |                 |
+| TIPO_ORDEM           | Text(255)       | false    | false    |                 |
+| RESPOSTA_NEGATIVA    | Text(255)       | false    | false    |                 |
+| DATA_OFICIO          | Text(255)       | false    | false    |                 |
+| PAGINA_INICIAL       | Text(255)       | false    | false    |                 |
+| PAGINA_FINAL         | Text(255)       | false    | false    |                 |
+| CPF_CNPJ             | Text(255)       | false    | false    |                 |
+| TIPO_PESSOA          | Text(255)       | false    | false    |                 |
+| NOMEPESSOA           | Text(255)       | false    | false    |                 |
+| NOME_JUIZ            | Text(255)       | false    | false    |                 |
+| JUIZO                | Text(255)       | false    | false    |                 |
+| TRIBUNAL             | Text(255)       | false    | false    |                 |
+| ENDERECO             | Text(255)       | false    | false    |                 |
+| NUMERO               | Text(255)       | false    | false    |                 |
+| BAIRRO               | Text(255)       | false    | false    |                 |
+| CEP                  | Text(255)       | false    | false    |                 |
+| NOMECIDADE           | Text(255)       | false    | false    |                 |
+| UF                   | Text(255)       | false    | false    |                 |
+| E-mail               | Text(255)       | false    | false    |                 |
+| Previdencia Privada  | Text(255)       | false    | false    |                 |
+| Titulo de Capitalizacao | Text(255)       | false    | false    |                 |
+| Seguros              | Text(255)       | false    | false    |                 |
+| Consorcio            | Text(255)       | false    | false    |                 |
+| Outros               | Text(255)       | false    | false    |                 |
+| Aplicacao Financeira | Text(255)       | false    | false    |                 |
+| Endereco cadastrado  | Text(255)       | false    | false    |                 |
+| Grandes Devedores    | Text(255)       | false    | false    |                 |
+| Processo Físico      | Text(255)       | false    | false    |                 |
+| Processo Digital     | Text(255)       | false    | false    |                 |
+| Responder por E-mail | Text(255)       | false    | false    |                 |
+| Cliente              | Text(255)       | false    | false    |                 |

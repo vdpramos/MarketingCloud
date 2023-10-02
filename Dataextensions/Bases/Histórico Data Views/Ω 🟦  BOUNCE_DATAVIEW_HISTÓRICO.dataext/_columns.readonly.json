@@ -1,0 +1,200 @@
+[
+  {
+    "Name": "AccountID",
+    "FieldType": "Number",
+    "ObjectID": "d48aa0f7-f523-4867-8dd0-50e10244429b",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "OYBAccountID",
+    "FieldType": "Number",
+    "ObjectID": "7c7699f0-bb2d-45e3-aa7e-8a592af61b51",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "JobID",
+    "FieldType": "Number",
+    "ObjectID": "ace1119c-9ed4-4460-b079-efb31359031b",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "ListID",
+    "FieldType": "Number",
+    "ObjectID": "b59221db-85c6-40d7-95fe-d271745de94a",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "BatchID",
+    "FieldType": "Number",
+    "ObjectID": "4334fe09-ce39-4e59-b6f0-580ef7a19de1",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "SubscriberID",
+    "FieldType": "Number",
+    "ObjectID": "2137dced-214a-4ad2-a492-dfeae3d3595a",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "SubscriberKey",
+    "FieldType": "Text",
+    "ObjectID": "65042c9c-1a61-461f-85ef-6e41b36ac837",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "EventDate",
+    "FieldType": "Date",
+    "ObjectID": "29344e3f-9a01-4503-81c7-8cf5b9c9301b",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "IsUnique",
+    "FieldType": "Boolean",
+    "ObjectID": "92c170e1-8149-4ba7-a169-c64fb5f61c06",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "Domain",
+    "FieldType": "Text",
+    "ObjectID": "b12d17d7-e356-43e7-9a60-0f34cc7ada73",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "BounceCategoryID",
+    "FieldType": "Number",
+    "ObjectID": "00f185f6-3f76-45f3-8cf5-19bfbc651179",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "BounceCategory",
+    "FieldType": "Text",
+    "ObjectID": "b9de907a-81d3-4843-9e0d-6c4b7bc50a2c",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "BounceSubcategoryID",
+    "FieldType": "Number",
+    "ObjectID": "f1219c83-2be6-4747-b02d-b6e44a64a04b",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "BounceSubcategory",
+    "FieldType": "Text",
+    "ObjectID": "e22d6b9b-024c-4968-b305-e7157048ec76",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "BounceTypeID",
+    "FieldType": "Number",
+    "ObjectID": "19ff35f4-3b55-4610-8701-79da00b0c5e3",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 14
+  },
+  {
+    "Name": "BounceType",
+    "FieldType": "Text",
+    "ObjectID": "f99bdbb7-671b-4755-9884-668029882aaf",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 15
+  },
+  {
+    "Name": "TriggererSendDefinitionObjectID",
+    "FieldType": "Text",
+    "ObjectID": "f2b64ab7-ab14-4f09-9c99-b27027a3ee5c",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 16
+  },
+  {
+    "Name": "TriggeredSendCustomerKey",
+    "FieldType": "Text",
+    "ObjectID": "dab5468b-9a99-4b4e-99b1-6a47eba38174",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 17
+  }
+]

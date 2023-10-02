@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4ae2f147-a36d-477b-8908-ea373105b39d",
+  "name": "Falecidos Atualizados Incorretamente",
+  "key": "4AE2F147-A36D-477B-8908-EA373105B39D",
+  "description": "",
+  "queryText": "select  b.cpf as HC_CPF_CNPJ__C,\n        concat(b.cpf, a.parceiro_cap) as HC_CPF_CNPJ_PARCEIRO_ORIGEM__C, \n        b.hc_classificacao__c, \n        c.id\nfrom \tFalecidosAssociadosIncorretamente a\ninner join bkp_Falecidos b\n    on b.cpf = RIGHT(REPLICATE ('0' , 11)+CONVERT(VARCHAR, a.cpf), 11) \ninner join hc_relacao_cliente_parceiro__c_salesforce c\n    on concat(b.cpf, a.parceiro_cap) = c.HC_CPF_CNPJ_Codigo_Parceiro_CAP__c\nwhere c.hc_classificacao__c = 'Falecido'",
+  "targetName": "FalecidosIncorretosResgateBackup",
+  "targetKey": "3994D0CD-4B22-471D-9C87-B3AA60EA96B6",
+  "targetId": "6ba3f50d-a73b-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2023-08-16T05:49:06.517",
+  "modifiedDate": "2023-08-16T06:12:27.307",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

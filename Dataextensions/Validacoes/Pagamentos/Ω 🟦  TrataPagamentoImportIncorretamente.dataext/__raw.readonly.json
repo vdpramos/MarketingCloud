@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "B3407B2C-8DF1-43D6-99C7-0C89ABE8A60D"
+  ],
+  "Name": [
+    "TrataPagamentoImportIncorretamente"
+  ]
+}

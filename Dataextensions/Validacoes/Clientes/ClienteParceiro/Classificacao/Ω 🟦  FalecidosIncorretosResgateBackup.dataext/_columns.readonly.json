@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "HC_CPF_CNPJ__C",
+    "FieldType": "Text",
+    "ObjectID": "8ea8f312-c241-43a3-982f-3932204ca854",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C",
+    "FieldType": "Text",
+    "ObjectID": "a7e93e0d-65af-45b2-bc5a-38bf7d948fed",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "HC_CLASSIFICACAO__C",
+    "FieldType": "Text",
+    "ObjectID": "c9d6dff0-617f-4a8b-9708-92f01666c7e5",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "ID",
+    "FieldType": "Text",
+    "ObjectID": "6af14650-e052-466e-93f5-7abbddb10d1e",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

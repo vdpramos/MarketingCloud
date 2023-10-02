@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "836bd058-6f9b-4593-99fe-002ee385e488",
+  "name": "Qr_Renovacao_Online_TMKT_Historico",
+  "key": "836BD058-6F9B-4593-99FE-002EE385E488",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n    CPF AS CPF,\n    ID_CAMPANHA,\n    GETDATE() AS DATA_CAMPANHA,\n    'DISCADOR' AS CANAL\nFROM Renovacao_OTC291_Online_Filtrada_TMKT",
+  "targetName": "Tb_Campanhas_Prospect_Historico",
+  "targetKey": "8CBC59B1-3114-4045-A13F-B4D4D25B4EF8",
+  "targetId": "fbcc626f-6c44-eb11-a2f2-48df370ed7f4",
+  "targetDescription": "",
+  "createdDate": "2023-08-30T09:38:09.53",
+  "modifiedDate": "2023-08-30T09:38:09.53",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 68066,
+  "isFrozen": false
+}

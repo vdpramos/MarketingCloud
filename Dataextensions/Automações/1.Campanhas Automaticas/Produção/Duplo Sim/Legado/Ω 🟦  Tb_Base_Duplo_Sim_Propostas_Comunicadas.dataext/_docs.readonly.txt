@@ -1,0 +1,6 @@
+Dataextension name: Tb_Base_Duplo_Sim_Propostas_Comunicadas
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_PROPOSTA          | Text(20)        | true     | true     |                 |
+| Data                 | Date            | false    | false    | GETDATE()       |

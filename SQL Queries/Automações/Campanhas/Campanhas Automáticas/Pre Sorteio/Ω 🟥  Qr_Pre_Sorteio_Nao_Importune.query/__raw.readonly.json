@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e35cef90-9156-46b3-b0ce-54332ea0e960",
+  "name": "Qr_Pre_Sorteio_Nao_Importune",
+  "key": "2e300ad7-d0e4-4d12-a5cf-66a07fc2fc0f",
+  "description": "Marca quem estiver no Nao Importune",
+  "queryText": "SELECT\n\tA.CPF,\n\tA.ID_TITULO,\n\t1 AS NAO_IMPORTUNE\nFROM TB_PRE_SORTEIO A\nINNER JOIN TB_BASE_NAO_IMPORTUNE N ON ISNULL(RIGHT(a.CELULAR, 11), '00000000000') = LTRIM(RTRIM(N.TELEFONE))\nINNER JOIN CAMPAIGN_SALESFORCE CMP ON CMP.ID = A.ID_CAMPANHA\nWHERE CELULAR != NULL AND CMP.HC_VALIDA_NAO_IMPORTUNE__C = 1",
+  "targetName": "Tb_Pre_Sorteio",
+  "targetKey": "5751CC41-869F-41A8-A667-BF308E367F43",
+  "targetId": "c1dac7de-8bf6-ec11-a5b6-d4f5ef66aed7",
+  "targetDescription": "Publico Inicial",
+  "createdDate": "2022-06-08T15:59:03.15",
+  "modifiedDate": "2022-07-08T02:57:43.933",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 49965,
+  "isFrozen": false
+}

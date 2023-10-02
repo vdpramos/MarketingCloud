@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "cpf_cnpj",
+    "FieldType": "Text",
+    "ObjectID": "8fe24d4c-0543-496d-8243-24755f284b3f",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

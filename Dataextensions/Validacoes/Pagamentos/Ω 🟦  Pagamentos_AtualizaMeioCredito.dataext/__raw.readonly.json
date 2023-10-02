@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "AFB1A80B-65D1-4669-8276-F747239D6919"
+  ],
+  "Name": [
+    "Pagamentos_AtualizaMeioCredito"
+  ]
+}

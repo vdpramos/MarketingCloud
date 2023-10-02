@@ -1,0 +1,122 @@
+[
+  {
+    "_CustomObjectKey": "2",
+    "id_proposta": "a0g6g000008QI4mAAG",
+    "CREATEDDATE": "Sep  4 2023  1:19PM",
+    "DATA_ORIGEM_VENDA_AGENDADA__C": "Nov 30 2022 12:00AM",
+    "ORIGEM_VENDA_AGENDADA__C": "3667818",
+    "QUANTIDADE_VENDA_AGENDADA__C": "12",
+    "NUMERO_VENDA_AGENDADA__C": "9",
+    "ID_VENDA_AGENDADA__C": "120"
+  },
+  {
+    "_CustomObjectKey": "3",
+    "id_proposta": "a0g6g000008QICBAA4",
+    "CREATEDDATE": "Sep  4 2023  1:19PM",
+    "DATA_ORIGEM_VENDA_AGENDADA__C": "Jan 31 2023 12:00AM",
+    "ORIGEM_VENDA_AGENDADA__C": "3667819",
+    "QUANTIDADE_VENDA_AGENDADA__C": "12",
+    "NUMERO_VENDA_AGENDADA__C": "7",
+    "ID_VENDA_AGENDADA__C": "184"
+  },
+  {
+    "_CustomObjectKey": "4",
+    "id_proposta": "a0g6g000008QIBnAAO",
+    "CREATEDDATE": "Sep  4 2023  1:19PM",
+    "DATA_ORIGEM_VENDA_AGENDADA__C": "Jun 28 2023 12:00AM",
+    "ORIGEM_VENDA_AGENDADA__C": "3667820",
+    "QUANTIDADE_VENDA_AGENDADA__C": "12",
+    "NUMERO_VENDA_AGENDADA__C": "2",
+    "ID_VENDA_AGENDADA__C": "278"
+  },
+  {
+    "_CustomObjectKey": "5",
+    "id_proposta": "a0g6g000008QICGAA4",
+    "CREATEDDATE": "Sep  4 2023  1:20PM",
+    "DATA_ORIGEM_VENDA_AGENDADA__C": "Dec 27 2022 12:00AM",
+    "ORIGEM_VENDA_AGENDADA__C": "3667608",
+    "QUANTIDADE_VENDA_AGENDADA__C": "12",
+    "NUMERO_VENDA_AGENDADA__C": "8",
+    "ID_VENDA_AGENDADA__C": "158"
+  },
+  {
+    "_CustomObjectKey": "6",
+    "id_proposta": "a0g6g000008QICLAA4",
+    "CREATEDDATE": "Sep  4 2023  1:20PM",
+    "DATA_ORIGEM_VENDA_AGENDADA__C": "May 27 2023 12:00AM",
+    "ORIGEM_VENDA_AGENDADA__C": "3667609",
+    "QUANTIDADE_VENDA_AGENDADA__C": "3",
+    "NUMERO_VENDA_AGENDADA__C": "3",
+    "ID_VENDA_AGENDADA__C": "276"
+  },
+  {
+    "_CustomObjectKey": "7",
+    "id_proposta": "a0g6g000008QICVAA4",
+    "CREATEDDATE": "Sep  4 2023  1:20PM",
+    "DATA_ORIGEM_VENDA_AGENDADA__C": "May 23 2023 12:00AM",
+    "ORIGEM_VENDA_AGENDADA__C": "3656916",
+    "QUANTIDADE_VENDA_AGENDADA__C": "12",
+    "NUMERO_VENDA_AGENDADA__C": "3",
+    "ID_VENDA_AGENDADA__C": "264"
+  },
+  {
+    "_CustomObjectKey": "8",
+    "id_proposta": "a0g6g000008QICaAAO",
+    "CREATEDDATE": "Sep  4 2023  1:20PM",
+    "DATA_ORIGEM_VENDA_AGENDADA__C": "Dec 18 2022 12:00AM",
+    "ORIGEM_VENDA_AGENDADA__C": "3642660",
+    "QUANTIDADE_VENDA_AGENDADA__C": "12",
+    "NUMERO_VENDA_AGENDADA__C": "8",
+    "ID_VENDA_AGENDADA__C": "143"
+  },
+  {
+    "_CustomObjectKey": "9",
+    "id_proposta": "a0g6g000008QICkAAO",
+    "CREATEDDATE": "Sep  4 2023  1:21PM",
+    "DATA_ORIGEM_VENDA_AGENDADA__C": "Dec 15 2022 12:00AM",
+    "ORIGEM_VENDA_AGENDADA__C": "3627992",
+    "QUANTIDADE_VENDA_AGENDADA__C": "12",
+    "NUMERO_VENDA_AGENDADA__C": "8",
+    "ID_VENDA_AGENDADA__C": "131"
+  },
+  {
+    "_CustomObjectKey": "10",
+    "id_proposta": "a0g6g000008QICuAAO",
+    "CREATEDDATE": "Sep  4 2023  1:21PM",
+    "DATA_ORIGEM_VENDA_AGENDADA__C": "Mar 14 2023 12:00AM",
+    "ORIGEM_VENDA_AGENDADA__C": "3623284",
+    "QUANTIDADE_VENDA_AGENDADA__C": "12",
+    "NUMERO_VENDA_AGENDADA__C": "5",
+    "ID_VENDA_AGENDADA__C": "218"
+  },
+  {
+    "_CustomObjectKey": "11",
+    "id_proposta": "a0g6g000008QID4AAO",
+    "CREATEDDATE": "Sep  4 2023  1:21PM",
+    "DATA_ORIGEM_VENDA_AGENDADA__C": "Feb  8 2023 12:00AM",
+    "ORIGEM_VENDA_AGENDADA__C": "3611778",
+    "QUANTIDADE_VENDA_AGENDADA__C": "12",
+    "NUMERO_VENDA_AGENDADA__C": "6",
+    "ID_VENDA_AGENDADA__C": "198"
+  },
+  {
+    "_CustomObjectKey": "12",
+    "id_proposta": "a0g6g000008QIBTAA4",
+    "CREATEDDATE": "Sep  4 2023  1:21PM",
+    "DATA_ORIGEM_VENDA_AGENDADA__C": "Nov  5 2022 12:00AM",
+    "ORIGEM_VENDA_AGENDADA__C": "3609533",
+    "QUANTIDADE_VENDA_AGENDADA__C": "12",
+    "NUMERO_VENDA_AGENDADA__C": "9",
+    "ID_VENDA_AGENDADA__C": "66"
+  },
+  {
+    "_CustomObjectKey": "13",
+    "id_proposta": "a0g6g000008QIDEAA4",
+    "CREATEDDATE": "Sep  4 2023  1:21PM",
+    "DATA_ORIGEM_VENDA_AGENDADA__C": "Nov 30 2022 12:00AM",
+    "ORIGEM_VENDA_AGENDADA__C": "3591598",
+    "QUANTIDADE_VENDA_AGENDADA__C": "12",
+    "NUMERO_VENDA_AGENDADA__C": "8",
+    "ID_VENDA_AGENDADA__C": "119"
+  }
+]

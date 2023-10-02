@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "30505dcb-6b45-4610-93e2-159cf1590968",
+  "name": "Qr_Separacao_Publico_Apto_OTC290_ExClientes_Algar",
+  "key": "df1ef146-64e4-48d4-9214-07c9cdde16ae",
+  "description": "Separa publico apto para ser enviado ao OTC290\n",
+  "queryText": "SELECT\n  A.*\nFROM Tb_Base_Ex_Cliente_ComOTC_Algar A\nWHERE\n  /* IDADE_VALIDA = 1 */\n  /* AND CONSELHEIRO = 0 */\n  /* AND CLIENTE_PEP = 0 */\n  /* AND DESEJA_CONTATO_TELEFONICO = 0 */\n  /* AND POSSUI_TELEFONE_ATIVO = 1 */\n  /* AND POSSUI_CONTA_CORRENTE = 1 */\n  COMPRA_UTIMOS_30_DIAS = 0\n  AND POSSUI_TITULO_ATIVO = 0\n  /* AND QUARENTENA = 0 */\n  AND NAO_IMPORTUNE = 0\n  AND CONTA_APTA = 1",
+  "targetName": "Publico_Apto_Ex_Clientes_Algar",
+  "targetKey": "B9D72A89-3B0C-400A-A6AB-3BD60C06A2C9",
+  "targetId": "33fa5c1c-ce7e-ec11-a317-48df37342c99",
+  "targetDescription": "Publico que pode ser separado para campanha OTC 290",
+  "createdDate": "2022-01-26T14:56:21.4",
+  "modifiedDate": "2022-02-28T09:58:50.087",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 30784,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1e4a5ee2-2de8-4897-bf1c-21003aa438be",
+  "name": "Qr07.1_Base_Renovacao_Filtrada_OTC291_TMKT_ONLINE",
+  "key": "1E4A5EE2-2DE8-4897-BF1C-21003AA438BE",
+  "description": "",
+  "queryText": "SELECT /* top 4200 */\n  A.*,\n  C.ID_CONTATO AS CONTACTID\nFROM Renovacao_OTC291_Tratada_TMKT_ONLINE A\n/* CHECAGEM SE TOODS OS CONTATOS TIVERAM O OTC TRATADO */\nLEFT OUTER JOIN ( \n  SELECT\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\n  FROM Tb_Base_Cliente_Filtrada_Renovacao_TMKT_ONLINE ENV\n  LEFT JOIN Renovacao_OTC291_Tratada_TMKT_ONLINE RET ON ENV.CPF_CNPJ = RET.CPF\n  WHERE RET.CPF IS NULL \n) B ON 1 = 1\nINNER JOIN Tb_Base_Cliente_Filtrada_Renovacao_TMKT_ONLINE  C ON C.CPF_CNPJ = A.CPF\nWHERE \n/* SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 */\n  B.CPFS_FALTANDO_NO_OTC = 0\n  /* VALIDAÇÕES POR CONTATO DO OTC */\n  AND A.CODIGO_RNA = '000'\n  AND A.ALTA_RENDA = 0\n  /* AND A.Nivel_Relacionamento  IN ('2112',  '2202', '2602', '02112',  '02202', '02602') */",
+  "targetName": "Renovacao_OTC291_Filtrada_TMKT_ONLINE",
+  "targetKey": "DEC3AE39-296B-4E6C-9F2C-6A1B79C844A7",
+  "targetId": "cb03a3de-6b46-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2023-08-29T07:00:14.127",
+  "modifiedDate": "2023-08-29T07:00:14.127",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 68066,
+  "isFrozen": false
+}

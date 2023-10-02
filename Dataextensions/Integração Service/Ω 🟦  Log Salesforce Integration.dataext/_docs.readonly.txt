@@ -1,0 +1,8 @@
+Dataextension name: Log Salesforce Integration
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Log                  | Text(100)       | false    | false    |                 |
+| Data_Sent            | Text(3000)      | false    | false    |                 |
+| Response             | Text(3000)      | false    | false    |                 |
+| Date                 | Date            | false    | false    | GETDATE()       |

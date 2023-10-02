@@ -1,0 +1,36 @@
+Dataextension name: QueryStudioResults at 2023-09-05T1611270000
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ddd1                 | Text(255)       | false    | false    |                 |
+| telefone1            | Text(255)       | false    | false    |                 |
+| tipo1                | Text(255)       | false    | false    |                 |
+| ddd2                 | Text(255)       | false    | false    |                 |
+| telefone2            | Text(255)       | false    | false    |                 |
+| tipo2                | Text(255)       | false    | false    |                 |
+| ddd3                 | Text(255)       | false    | false    |                 |
+| telefone3            | Text(255)       | false    | false    |                 |
+| tipo3                | Text(255)       | false    | false    |                 |
+| ddd4                 | Text(255)       | false    | false    |                 |
+| telefone4            | Text(255)       | false    | false    |                 |
+| tipo4                | Text(255)       | false    | false    |                 |
+| ddd5                 | Text(255)       | false    | false    |                 |
+| telefone5            | Text(255)       | false    | false    |                 |
+| tipo5                | Text(255)       | false    | false    |                 |
+| preferencial         | Text(255)       | false    | false    |                 |
+| IDADE                | Text(255)       | false    | false    |                 |
+| data_nascimento      | Text(255)       | false    | false    |                 |
+| nome_cliente         | Text(255)       | false    | false    |                 |
+| CEP                  | Text(255)       | false    | false    |                 |
+| UF                   | Text(255)       | false    | false    |                 |
+| tipo_de_pessoa       | Text(255)       | false    | false    |                 |
+| CPF_CNPJ             | Text(255)       | false    | false    |                 |
+| SEXO                 | Text(255)       | false    | false    |                 |
+| classificacao        | Text(255)       | false    | false    |                 |
+| TIPO_CAMPANHA        | Text(255)       | false    | false    |                 |
+| data_criacao         | Text(255)       | false    | false    |                 |
+| data_utilizacao      | Text(255)       | false    | false    |                 |
+| data_termino         | Text(255)       | false    | false    |                 |
+| idcampanha           | Text(255)       | false    | false    |                 |
+| idcontatos           | Text(255)       | false    | false    |                 |
+| idcp                 | Text(255)       | false    | false    |                 |

@@ -1,0 +1,147 @@
+{
+  "display:message:format": "text",
+  "display:languages:content": {
+    "pT_BR": {
+      "display:components": [
+        "message"
+      ],
+      "display:message": "*${1}*, o WhatsApp da Brasilcap tá on! 🤩\n\nUma nova jornada de atendimento, uma nova experiência para nossos clientes. ✨\n\nMais uma entrega em 2022, mais uma conquista de todos nós! 💪Parabéns!",
+      "display:message:parameters": {
+        "1": {
+          "display:argument:name": "1",
+          "display:argument:format": "text",
+          "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+        }
+      }
+    }
+  },
+  "channel": "whatsapptemplate",
+  "showTemplatePicker": false,
+  "templateName": "mensagem_festa_funcionarios",
+  "collapsedPanels": [],
+  "display:lang": "PT_BR",
+  "stack": "S11",
+  "display:components": [
+    "message"
+  ],
+  "display:message": "*${1}*, o WhatsApp da Brasilcap tá on! 🤩\n\nUma nova jornada de atendimento, uma nova experiência para nossos clientes. ✨\n\nMais uma entrega em 2022, mais uma conquista de todos nós! 💪Parabéns!",
+  "currentColumn": 0,
+  "selectedTemplate": {
+    "display:components": [
+      "message"
+    ],
+    "display:message": "*${1}*, o WhatsApp da Brasilcap tá on! 🤩\n\nUma nova jornada de atendimento, uma nova experiência para nossos clientes. ✨\n\nMais uma entrega em 2022, mais uma conquista de todos nós! 💪Parabéns!",
+    "display:message:parameters": {
+      "1": {
+        "display:argument:name": "1",
+        "display:argument:format": "text",
+        "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+      }
+    }
+  },
+  "display:message:parameters": {
+    "1": {
+      "display:argument:name": "1",
+      "display:argument:format": "text",
+      "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+    }
+  },
+  "template": {
+    "modifiedBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "customerKey": "05b62981-4c83-4b63-8385-4b0f0cf64725",
+    "availableViews": [
+      "whatsAppTemplate"
+    ],
+    "model": {
+      "id": 235,
+      "fileExtension": "",
+      "name": "JSON Message Template",
+      "key": "jsonmessagetemplate",
+      "parentAssetTypeID": 4,
+      "createdDate": "2020-06-29T15:25:11Z",
+      "modifiedDate": "2020-06-29T15:25:11Z",
+      "isCDNPublishable": false
+    },
+    "assetType": {
+      "id": 235,
+      "name": "jsonmessagetemplate",
+      "displayName": "jsonmessagetemplate"
+    },
+    "name": "WHATSAPP-mensagem_festa_funcionarios",
+    "thumbnail": {
+      "thumbnailUrl": "/v1/assets/82795/thumbnail"
+    },
+    "views": {
+      "whatsAppTemplate": {
+        "content": "",
+        "meta": {
+          "options": {
+            "customBlockData": {
+              "display:languages:content": {
+                "pT_BR": {
+                  "display:components": [
+                    "message"
+                  ],
+                  "display:message": "*${1}*, o WhatsApp da Brasilcap tá on! 🤩\n\nUma nova jornada de atendimento, uma nova experiência para nossos clientes. ✨\n\nMais uma entrega em 2022, mais uma conquista de todos nós! 💪Parabéns!",
+                  "display:message:parameters": {
+                    "1": {
+                      "display:argument:name": "1",
+                      "display:argument:format": "text",
+                      "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+                    }
+                  }
+                }
+              },
+              "channel": "WHATSAPP",
+              "templateName": "mensagem_festa_funcionarios",
+              "display:lang": "PT_BR",
+              "display:languages:approved": [
+                "PT_BR"
+              ],
+              "template": "template",
+              "containerId": "106212288893473",
+              "category": "MARKETING"
+            }
+          }
+        },
+        "modelVersion": 2
+      }
+    },
+    "modelVersion": 2,
+    "status": {
+      "id": 1,
+      "name": "Draft"
+    },
+    "owner": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "memberId": 514002572,
+    "createdDate": "2022-12-07T13:45:47-06:00",
+    "modifiedDate": "2022-12-07T13:45:47-06:00",
+    "objectID": "97c3c9ae-8421-4454-8d99-10c93f6b27ee",
+    "id": 82795,
+    "enterpriseId": 514002572,
+    "category": {
+      "id": 1942,
+      "name": "Content Builder",
+      "parentId": 0
+    },
+    "createdBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    }
+  },
+  "contents": [],
+  "uncheckedPanels": [],
+  "category": "MARKETING"
+}

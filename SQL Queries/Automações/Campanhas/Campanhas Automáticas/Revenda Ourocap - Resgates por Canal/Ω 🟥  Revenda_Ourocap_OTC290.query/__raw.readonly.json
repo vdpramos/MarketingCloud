@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b961e47f-6d64-4d95-902f-22b8d06e7532",
+  "name": "Revenda_Ourocap_OTC290",
+  "key": "52816a4b-51c4-404c-a489-3e4ca97fc9c2",
+  "description": "",
+  "queryText": "SELECT\n  '001'+\n  REPLICATE (' ' , 9)+\n  REPLICATE ('0' , 9)+\n  '1'+\n  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, CPF_CNPJ), 15)+\n  CONVERT(VARCHAR(10), CONVERT(DATE, DT_NASCIMENTO, 103), 112)+\n  LEFT(CONVERT(VARCHAR(60), NOME) + REPLICATE(' ', 60), 60)+\n  REPLICATE (' ' , 1)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 5)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 73)+\n  REPLICATE (' ' , 70) AS BASE\nFROM\n  \tRevenda_Ourocap_Filtrada\nWHERE DT_NASCIMENTO IS NOT NULL",
+  "targetName": "Revenda_Ourocap_OTC290",
+  "targetKey": "9967CD99-9F93-4D22-B86D-694F6B71C46C",
+  "targetId": "b84099c7-2c96-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-06T17:41:25.6",
+  "modifiedDate": "2023-08-31T12:19:17.673",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 31760,
+  "isFrozen": false
+}

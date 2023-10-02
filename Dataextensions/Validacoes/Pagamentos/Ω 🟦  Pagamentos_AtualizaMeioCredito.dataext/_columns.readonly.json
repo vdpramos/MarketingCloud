@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "Name",
+    "FieldType": "Text",
+    "ObjectID": "9244fa6b-a197-43ff-bad6-ce60ce013e8a",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "HC_Status_do_Pagamento__c",
+    "FieldType": "Text",
+    "ObjectID": "0fc8204e-93f7-4c32-b16a-6a5c15a1b41a",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "HC_Numero_da_Conta_Corrente__c",
+    "FieldType": "Text",
+    "ObjectID": "f024d57e-e8d6-4136-87ac-ad75df438f7c",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "HC_Numero_da_Agencia__c",
+    "FieldType": "Text",
+    "ObjectID": "7332f15b-091d-4cd1-99f5-2cb1933e1839",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "HC_Meio_de_credito__c",
+    "FieldType": "Text",
+    "ObjectID": "4bad4737-5642-426e-b940-57d7b3f71b5c",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "id",
+    "FieldType": "Text",
+    "ObjectID": "6d7117e0-0616-4759-8b3a-44e1ee7e8a9b",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 14
+  }
+]

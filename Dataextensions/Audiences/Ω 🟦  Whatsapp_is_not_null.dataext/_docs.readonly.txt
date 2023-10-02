@@ -1,0 +1,18 @@
+Dataextension name: Whatsapp_is_not_null
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| SubscriberKey        | Text(254)       | true     | true     |                 |
+| CustomerKey          | Text(256)       | true     | false    |                 |
+| AudienceId           | Text            | true     | false    |                 |
+| TrackingCode         | Text(256)       | true     | false    |                 |
+| AudienceCode         | Text(64)        | true     | false    |                 |
+| SegmentCode          | Text(64)        | true     | false    | EmptyString()   |
+| SegmentName          | Text(128)       | true     | false    | EmptyString()   |
+| Priority             | Number          | true     | false    |                 |
+| SegmentID            | Text            | true     | false    |                 |
+| SplitID              | Text            | true     | false    |                 |
+| SplitName            | Text(128)       | true     | false    | EmptyString()   |
+| SplitCode            | Text(64)        | true     | false    | EmptyString()   |
+| SendGroupID          | Text            | true     | true     |                 |
+| Mobile Number        | Phone           | false    | false    |                 |

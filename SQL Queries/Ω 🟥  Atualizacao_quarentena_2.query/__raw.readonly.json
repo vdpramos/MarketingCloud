@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "5b813c57-9040-4fe5-95f9-701bceab75aa",
+  "name": "Atualizacao_quarentena_2",
+  "key": "c3a6c505-ad78-47e3-945f-0b56e74282fb",
+  "description": "",
+  "queryText": "SELECT\n    *\nFROM\n    Exclusão_contatos_quarentena_2",
+  "targetName": "Tb_Base_Quarentena",
+  "targetKey": "F713140F-08AB-4520-9CD5-346BDED8D642",
+  "targetId": "296dac3b-2a6b-eb11-a2fc-48df37342c98",
+  "targetDescription": "Base com contatos que participaram de campanhas nos ultimos 90 dias",
+  "createdDate": "2021-12-01T10:14:25.19",
+  "modifiedDate": "2021-12-01T10:14:25.19",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

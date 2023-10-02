@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "88E52444-8350-49ED-B545-C5EB72C84B26"
+  ],
+  "Name": [
+    "Tb_Base_N_Pagas_telefones_TEO"
+  ]
+}

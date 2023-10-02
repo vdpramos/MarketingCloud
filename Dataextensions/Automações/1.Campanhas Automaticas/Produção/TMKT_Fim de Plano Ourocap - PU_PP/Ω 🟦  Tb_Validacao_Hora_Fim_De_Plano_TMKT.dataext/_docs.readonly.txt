@@ -1,0 +1,5 @@
+Dataextension name: Tb_Validacao_Hora_Fim_De_Plano_TMKT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Hora                 | Boolean         | false    | false    |                 |

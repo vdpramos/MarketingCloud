@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1f5793ab-7c1c-470b-ac5b-7bc1601cde53",
+  "name": "ConsultaQuedasRA",
+  "key": "c727ef0d-d960-41a2-8672-3a926f935669",
+  "description": "Consulta Quedas de Renovação Automática",
+  "queryText": "SELECT \n    B.HC_CPF_CNPJ__C AS CPF_CNPJ,\n\tC.NAME AS NOME,\n\tHC_IDADE__C AS IDADE,\n\tHC_DATA_DE_NASCIMENTO__C AS DT_NASCIMENTO,\n\tHC_GENERO_DO_CLIENTE__C AS SEXO,\n\tCASE \n\t\tWHEN UPPER(B.HC_ENDERECO_PRINCIPAL__C) = 'RESIDENCIAL' THEN HC_CEP_RES__C\n\t\tWHEN UPPER(B.HC_ENDERECO_PRINCIPAL__C) = 'COMERCIAL' THEN HC_CEP_COM__C\n\t\tWHEN UPPER(B.HC_ENDERECO_PRINCIPAL__C) = 'CORRESPONDÊNCIA' THEN HC_CEP_COR__C\n\tEND AS CEP,\n\tHC_TIPO_DE_PESSOA__C AS TIPO_PESSOA,\n\tLEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_TELEFONE_RESIDENCIAL__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_01,\n\tSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_TELEFONE_RESIDENCIAL__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_01,\n\t'FIXO' AS TIPO_TEL_01,\n\tLEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_TELEFONE_COMERCIAL__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_02,\n\tSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_TELEFONE_COMERCIAL__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_02,\n\t'FIXO' AS TIPO_TEL_02,\n\tLEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_TELEFONE_OUTRO__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_03,\n\tSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_TELEFONE_OUTRO__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_03,\n\t'FIXO' AS TIPO_TEL_03,\n    LEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_1__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_04,\n\tSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_1__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_04,\n\t'MÓVEL' AS TIPO_TEL_04,\n\tLEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_2__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_05,\n\tSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_2__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_05,\n\t'MÓVEL' AS TIPO_TEL_05,\n\tLEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_3__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_06,\n\tSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_3__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_06,\n\t'MÓVEL' AS TIPO_TEL_06,\n\tHC_TELEFONE_PRINCIPAL__C AS TEL_PRINCIPAL,\n\tHC_CLASSIFICACAO__C AS PUBLICO_ALVO,\n\tB.HC_CPF_CNPJ__C AS ID,\n\tB.ID AS ID_CLIENTE_PARCEIRO,\n\tC.ID AS ID_CONTATO,\n\tB.HC_CPF_CNPJ_CODIGO_DO_PARCEIRO__C AS CPF_CNPJ_CODIGO_DO_PARCEIRO\nFROM HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE B\nINNER JOIN Contact_Salesforce C ON C.HC_CPF_CNPJ__c = B.HC_CPF_CNPJ__c\nINNER JOIN Opportunity_Salesforce P ON P.HC_CPF_CNPJ__c = c.HC_CPF_CNPJ__c\nWHERE P.StageName = 'Queda' and P.Type = 'Renovação Automática'",
+  "targetName": "Tb_Quedas_RA",
+  "targetKey": "3C0294E5-9D49-48D6-903C-F8E547A2F96C",
+  "targetId": "b1b8d8a0-3601-ec11-a30d-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-08-19T16:00:50.09",
+  "modifiedDate": "2021-08-19T16:00:50.09",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 28566,
+  "isFrozen": false
+}

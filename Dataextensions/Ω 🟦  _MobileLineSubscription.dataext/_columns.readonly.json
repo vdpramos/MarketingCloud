@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "AddressId",
+    "FieldType": "Text",
+    "ObjectID": "8ec24bad-f6fa-4a23-b430-9e3ced7f373b",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "ChannelId",
+    "FieldType": "Text",
+    "ObjectID": "e120e210-fb7e-414d-9302-15ee40984fc3",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "IsSubscribed",
+    "FieldType": "Boolean",
+    "ObjectID": "a4602f61-7f92-467d-be91-20091796cd47",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "false",
+    "Ordinal": 3
+  },
+  {
+    "Name": "CreatedDate",
+    "FieldType": "Date",
+    "ObjectID": "1444ed60-9a41-4438-aaed-58e12a19e1db",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "CreatedBy",
+    "FieldType": "Text",
+    "ObjectID": "7e334351-a453-4486-9f11-facf1ac05d22",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "ModifiedDate",
+    "FieldType": "Date",
+    "ObjectID": "5b67646d-7f2c-4c2f-8473-5f88e3c13a3e",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "ModifiedBy ",
+    "FieldType": "Text",
+    "ObjectID": "60f0d82e-3e08-406f-8d88-b5addeb2fae3",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a3d25fa0-8837-4aea-bd4f-ee57e37aa785",
+  "name": "Informe_Rendimentos_Historico",
+  "key": "A3D25FA0-8837-4AEA-BD4F-EE57E37AA785",
+  "description": "",
+  "queryText": "SELECT *\nFROM Informe_Rendimentos_Envio",
+  "targetName": "Informe_Rendimentos_Historico",
+  "targetKey": "C7B70130-F97E-4125-A5DA-247973F4D7C2",
+  "targetId": "f901400a-0be5-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-04-27T08:53:56.297",
+  "modifiedDate": "2023-05-05T11:59:48.157",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 62051,
+  "isFrozen": false
+}

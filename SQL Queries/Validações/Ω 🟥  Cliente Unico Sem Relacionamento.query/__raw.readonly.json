@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "d12900bd-d189-427f-9b83-3c585be49d1e",
+  "name": "Cliente Unico Sem Relacionamento",
+  "key": "818d1557-1b59-4c07-bf72-01211e05c92a",
+  "description": "",
+  "queryText": "select acc.id\nfrom account_salesforce acc\nwhere not exists(select 1 from hc_relacao_cliente_parceiro__c_salesforce cp \n                 where acc.HC_CPF_CNPJ_Cliente__c = cp.HC_CPF_CNPJ__c)",
+  "targetName": "ClienteUnicoSemRelacionamento",
+  "targetKey": "29F66511-24DC-41E8-87B0-815D0B26CBD2",
+  "targetId": "0c702562-c0a3-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-03T06:47:08.44",
+  "modifiedDate": "2023-02-07T16:41:15.76",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

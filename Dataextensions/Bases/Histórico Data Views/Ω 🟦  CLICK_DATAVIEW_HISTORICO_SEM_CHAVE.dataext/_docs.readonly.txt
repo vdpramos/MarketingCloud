@@ -1,0 +1,20 @@
+Dataextension name: CLICK_DATAVIEW_HISTORICO_SEM_CHAVE
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| AccountID            | Number          | false    | false    |                 |
+| OYBAccountID         | Number          | false    | false    |                 |
+| JobID                | Number          | false    | false    |                 |
+| ListID               | Number          | false    | false    |                 |
+| BatchID              | Number          | false    | false    |                 |
+| SubscriberID         | Number          | false    | false    |                 |
+| SubscriberKey        | Text(400)       | false    | false    |                 |
+| EventDate            | Date            | false    | false    |                 |
+| IsUnique             | Boolean         | false    | false    |                 |
+| Domain               | Text(1000)      | false    | false    |                 |
+| TriggererSendDefinitionObjectID | Text(1000)      | false    | false    |                 |
+| TriggeredSendCustomerKey | Text(1000)      | false    | false    |                 |
+| URL                  | Text(1000)      | false    | false    |                 |
+| LinkName             | Text(1000)      | false    | false    |                 |
+| LinkContent          | Text(1000)      | false    | false    |                 |
+| EmailName            | Text(400)       | false    | false    |                 |

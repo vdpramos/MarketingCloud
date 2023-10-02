@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "38943BFA-DB95-4236-8A5E-D8C4FFF5DF11"
+  ],
+  "Name": [
+    "Microsoft_DIV03_SUB02"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "54D8860E-5925-4B61-AD37-F672C5C0B683"
+  ],
+  "Name": [
+    "Close_the_loop_OTC291_filtrada"
+  ]
+}

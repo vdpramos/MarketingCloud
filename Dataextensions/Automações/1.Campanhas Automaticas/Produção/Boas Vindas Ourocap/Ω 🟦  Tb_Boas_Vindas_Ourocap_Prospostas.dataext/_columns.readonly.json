@@ -1,0 +1,200 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "288ba1f6-9c99-4747-a272-48256736279b",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "08e517db-a968-4bd8-8518-64d67ff69068",
+    "MaxLength": "200",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Quarentena",
+    "FieldType": "Text",
+    "ObjectID": "0ca2d4a5-719a-4d33-a201-6adfe65b9a87",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Id_Campanha",
+    "FieldType": "Text",
+    "ObjectID": "05d1cbe6-a208-4dbe-9c7c-c2da8352d04d",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Id_Contato",
+    "FieldType": "Text",
+    "ObjectID": "d810b06c-3e18-42b2-8025-0e088b3e0177",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Id_Cliente_Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "48fe44a7-1ffe-4b17-adb0-240535868624",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "Id_Conta",
+    "FieldType": "Text",
+    "ObjectID": "55d5c774-2ba1-453d-b8c9-a3173ce0f383",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "Nao_Importune",
+    "FieldType": "Boolean",
+    "ObjectID": "81634fe5-2f80-4304-a98e-68bc04b84180",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "False",
+    "Ordinal": 7
+  },
+  {
+    "Name": "NAO_DESEJA_RECEBER_EMAIL",
+    "FieldType": "Boolean",
+    "ObjectID": "2fed5e3c-6d90-4dcf-a9c6-61765ea349da",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "NAO_DESEJA_RECEBER_SMS",
+    "FieldType": "Boolean",
+    "ObjectID": "27909ec1-5430-47a8-b464-1acfd2fa5db3",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "EMAIL",
+    "FieldType": "EmailAddress",
+    "ObjectID": "ec1a1cba-73ab-420b-91e5-a301f08bacb0",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "EMAIL_VALIDO",
+    "FieldType": "Boolean",
+    "ObjectID": "f20b6fcf-6dde-4a4c-85c9-91d09f4a6381",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "CELULAR",
+    "FieldType": "Text",
+    "ObjectID": "6cf1c0fe-90b4-4b8d-8f78-0d71b8d1f9e3",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "CELULAR_VALIDO",
+    "FieldType": "Boolean",
+    "ObjectID": "e8bb0562-fb5b-43bd-9755-135717546c8b",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "Id_Proposta",
+    "FieldType": "Text",
+    "ObjectID": "3c29b6aa-49f3-4174-891b-30da021fe167",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 14
+  },
+  {
+    "Name": "TITULOS_ANTERIORES_ATIVOS",
+    "FieldType": "Number",
+    "ObjectID": "3976416c-27b3-431b-b900-32b925b72824",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "0",
+    "Ordinal": 15
+  },
+  {
+    "Name": "TITULOS_ANTERIORES_INATIVOS",
+    "FieldType": "Number",
+    "ObjectID": "8e66a15b-c573-4625-a3a8-b865ee9fe64f",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "0",
+    "Ordinal": 16
+  },
+  {
+    "Name": "CreatedDate",
+    "FieldType": "Date",
+    "ObjectID": "a9bd4aa8-f0e2-4719-8c49-8adf3bdfbca0",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GETDATE()",
+    "Ordinal": 17
+  }
+]

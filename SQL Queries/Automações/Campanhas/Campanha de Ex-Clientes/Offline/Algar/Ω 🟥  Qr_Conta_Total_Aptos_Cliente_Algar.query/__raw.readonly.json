@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "624e1533-167f-49fc-8309-b85480f09e34",
+  "name": "Qr_Conta_Total_Aptos_Cliente_Algar",
+  "key": "96b60391-32f8-4179-b610-aede9e66b002",
+  "description": "Conta a quantidade de publico apto para o otc290 separado pela campanha de clientes NeoBpo\n",
+  "queryText": "select\n  b.ID_CAMPANHA,\n  count(1) as QUANTIDADE_ATUAL_290\nfrom Publico_Apto_Ex_Clientes_Algar a\ninner join CONTROLE_AUTOMACOES_CAMPANHAS b on b.ID_CAMPANHA = '7016g000000NSIuAAO'\ngroup by  b.ID_CAMPANHA",
+  "targetName": "CONTROLE_AUTOMACOES_CAMPANHAS",
+  "targetKey": "04B8390F-4FDE-47E3-9CB8-092965B5D94D",
+  "targetId": "3af1ba23-8d70-ec11-a311-48df370eabe5",
+  "targetDescription": "DE para controlar steps das campanhas",
+  "createdDate": "2022-01-27T08:04:35.263",
+  "modifiedDate": "2022-01-27T08:04:35.263",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 30784,
+  "isFrozen": false
+}

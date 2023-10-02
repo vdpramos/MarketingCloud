@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "38aa4663-a36e-462f-bbe9-811a8aa10479",
+  "name": "teste_onda",
+  "key": "5f1cb182-f482-4e53-8994-29448d4091cd",
+  "description": "",
+  "queryText": "SELECT\nCASE \n    WHEN COUNT(*) = 0 THEN 1\n    ELSE MAX(Onda) + 1\nEND AS ONDA\nFROM\nteste_onda",
+  "targetName": "teste_onda",
+  "targetKey": "ADF8E2BE-C3EA-4A14-B1A6-58BEA326970E",
+  "targetId": "c0f6ae41-fa9b-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2023-01-25T09:26:58.627",
+  "modifiedDate": "2023-01-26T10:56:04.19",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 28566,
+  "isFrozen": false
+}

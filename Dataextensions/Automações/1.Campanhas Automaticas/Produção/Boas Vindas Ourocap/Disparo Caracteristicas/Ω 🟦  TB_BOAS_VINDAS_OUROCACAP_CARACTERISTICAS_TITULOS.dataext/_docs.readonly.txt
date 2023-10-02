@@ -1,0 +1,14 @@
+Dataextension name: TB_BOAS_VINDAS_OUROCACAP_CARACTERISTICAS_TITULOS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | true     | true     |                 |
+| ID_TITULO            | Text(20)        | true     | true     |                 |
+| SERIE_DO_TITULO      | Text(255)       | false    | false    |                 |
+| PLANO_DO_TITULO      | Text(255)       | false    | false    |                 |
+| VALOR_PARCELA        | Decimal(20,2)   | false    | false    |                 |
+| NUMERO_DA_SORTE      | Text(3000)      | false    | false    |                 |
+| FIM_PREVISTO         | Date            | false    | false    |                 |
+| INICIO               | Date            | false    | false    |                 |
+| Name                 | Text(80)        | false    | false    |                 |
+| Nome_Produto         | Text(254)       | false    | false    |                 |

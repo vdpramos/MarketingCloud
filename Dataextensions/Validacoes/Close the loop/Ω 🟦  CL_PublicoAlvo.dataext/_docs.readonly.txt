@@ -1,0 +1,21 @@
+Dataextension name: CL_PublicoAlvo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| IdCliente            | Text(18)        | true     | false    |                 |
+| Nomecompleto         | Text(255)       | true     | false    |                 |
+| Celular1             | Phone           | true     | false    |                 |
+| Celular2             | Phone           | true     | false    |                 |
+| TelefoneBrasilcap    | Phone           | true     | false    |                 |
+| TelefoneComercial    | Phone           | true     | false    |                 |
+| Record_Count         | Text(50)        | true     | false    |                 |
+| NívelRelacionamento  | Text(50)        | true     | false    |                 |
+| TipoPagamento        | Text(50)        | true     | false    |                 |
+| NC                   | Text(50)        | true     | false    |                 |
+| UF                   | Text(50)        | true     | false    |                 |
+| Idade                | Text(50)        | true     | false    |                 |
+| Categoria            | Text(255)       | true     | false    |                 |
+| Tipo                 | Text(255)       | true     | false    |                 |
+| Subtipo              | Text(255)       | true     | false    |                 |
+| DataAbertura         | Text(255)       | true     | false    |                 |
+| IdAtendimento        | Text(18)        | true     | false    |                 |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "5812f5a0-a9b2-4483-b5f5-2a3f9ddfc629",
+  "name": "Qr02_Base_Aniversariantes_Trata_Nao_Importune",
+  "key": "62bfe0fa-82a5-42c2-a7ec-f77ddc051e3c",
+  "description": "",
+  "queryText": "SELECT\r\n\tA.CPF_CNPJ,\r\n\t1 AS NAO_IMPORTUNE\r\nFROM TB_CAMPANHA_ANIVERSARIANTES_BASE A\r\nINNER JOIN TB_BASE_NAO_IMPORTUNE N ON ISNULL(RIGHT(A.CELULAR, 11), '00000000000') = LTRIM(RTRIM(N.TELEFONE))",
+  "targetName": "Tb_Campanha_Aniversariantes_Base",
+  "targetKey": "9E854E75-9577-4C9B-B053-58DEE287AB99",
+  "targetId": "69d4ceb4-c953-ec11-a313-48df37342c99",
+  "targetDescription": "Base com o publico inicial",
+  "createdDate": "2021-12-02T18:52:46.807",
+  "modifiedDate": "2022-09-21T18:47:31.137",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 42259,
+  "isFrozen": false
+}

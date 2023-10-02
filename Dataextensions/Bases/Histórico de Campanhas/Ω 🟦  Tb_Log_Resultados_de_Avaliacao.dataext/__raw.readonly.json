@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "88231EFF-D3C6-4EF4-BE12-BA0197BC551D"
+  ],
+  "Name": [
+    "Tb_Log_Resultados_de_Avaliacao"
+  ]
+}

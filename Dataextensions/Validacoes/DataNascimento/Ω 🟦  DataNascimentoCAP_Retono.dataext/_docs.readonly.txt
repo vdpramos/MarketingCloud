@@ -1,0 +1,7 @@
+Dataextension name: DataNascimentoCAP_Retono
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | true     | false    |                 |
+| DATA_NASCIMENTO      | Text(50)        | true     | false    |                 |
+| SEXO                 | Text(50)        | true     | false    |                 |

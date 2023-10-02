@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "9543E1BE-1408-44C6-8533-50A3149DC93F"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_OTC290_Teo"
+  ]
+}

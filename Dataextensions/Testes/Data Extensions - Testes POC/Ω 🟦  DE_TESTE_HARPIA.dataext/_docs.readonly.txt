@@ -1,0 +1,39 @@
+Dataextension name: DE_TESTE_HARPIA
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| TP_CLIENTE           | Text(255)       | false    | false    |                 |
+| ID_PRODUTO           | Text(255)       | false    | false    |                 |
+| NOME_COMPLETO        | Text(255)       | false    | false    |                 |
+| DATA_REG_OBITO       | Text(255)       | false    | false    |                 |
+| CNPJ                 | Text(50)        | false    | false    |                 |
+| SEXO                 | Text(50)        | false    | false    |                 |
+| DATA_NASCIMENTO      | Date            | false    | false    |                 |
+| ID_SUBSCRITOR        | Text(255)       | false    | false    |                 |
+| ID_TITULAR           | Text(255)       | false    | false    |                 |
+| ID_PROPOSTA          | Text(255)       | false    | false    |                 |
+| ID_PLANO             | Text(255)       | false    | false    |                 |
+| DATA_PROPOSTA        | Date            | false    | false    |                 |
+| STATUS_PROPOSTA      | Text(255)       | false    | false    |                 |
+| DESC_STATUS_PROPOSTA | Text(255)       | false    | false    |                 |
+| ID_TITULO            | Text(255)       | false    | false    |                 |
+| STATUS_TITULO        | Text(255)       | false    | false    |                 |
+| DESC_STATUS_TITULO   | Text(255)       | false    | false    |                 |
+| CONTA_CORRENTE       | Text(255)       | false    | false    |                 |
+| CANAL_OTC            | Text(255)       | false    | false    |                 |
+| NOME_CANAL           | Text(255)       | false    | false    |                 |
+| TIPO_REGISTRO        | Text(255)       | false    | false    |                 |
+| DESC_TIPO_REGISTRO   | Text(255)       | false    | false    |                 |
+| DATA_SOLICITACAO_RESGATE | Date            | false    | false    |                 |
+| EMAIL                | EmailAddress    | false    | false    |                 |
+| ID_ENCARTEIRAMENTO   | Text(255)       | false    | false    |                 |
+| DESC_ENCARTEIRAMENTO | Text(255)       | false    | false    |                 |
+| FUNCIONARIO_BRASILCAP | Text(255)       | false    | false    |                 |
+| STATUS CLIENTE       | Text(255)       | false    | false    |                 |
+| DATA_ULTIMA_CAMPANHA | Date            | false    | false    |                 |
+| NOME_ULTIMA_CAMPANHA | Text(255)       | false    | false    |                 |
+| CELULAR              | Phone           | false    | false    |                 |
+| LOCALE               | Text(50)        | false    | false    |                 |
+| ID_PPE               | Boolean         | true     | false    | false           |
+| CPF                  | Text(50)        | true     | true     |                 |
+| PARCEIRO             | Text(50)        | true     | true     |                 |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "c9b60092-6243-47bf-ba5a-d0202955da7b",
+  "name": "Base_Outros",
+  "key": "b00e5b56-ebe7-4632-9f0e-c55dd7e5f436",
+  "description": "",
+  "queryText": "\nSELECT DISTINCT\nBf.CPF,\nBF.NOME,\nBF.EMAIL,\nBF.EMAIL_VALIDO\nFROM Base_Final BF\nleft join Base_Gmail BG ON BF.CPF=BG.CPF\nleft join Base_Microsoft BM ON BF.CPF=BM.CPF\nleft join Base_Yahoo BYa ON BF.CPF=BYa.CPF\nWHERE\nBG.CPF IS NULL \nAND \nBM.CPF IS NULL \nAND\nBYa.CPF IS NULL ",
+  "targetName": "Base_Outros",
+  "targetKey": "9C52E9B7-DD28-45A2-8D45-D0569F2A7C32",
+  "targetId": "4a1181cb-d32f-ec11-a30b-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-10-17T23:52:21.52",
+  "modifiedDate": "2021-10-17T23:52:21.52",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 40397,
+  "isFrozen": false
+}

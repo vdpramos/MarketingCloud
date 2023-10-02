@@ -1,0 +1,24 @@
+Dataextension name: _MobileAddress
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| _ContactID           | Text            | true     | false    |                 |
+| _MobileNumber        | Text(15)        | true     | false    |                 |
+| _Status              | Text            | false    | false    |                 |
+| _Source              | Text            | false    | false    |                 |
+| _SourceObjectId      | Text(200)       | false    | false    |                 |
+| _Priority            | Text            | false    | false    | 1               |
+| _Channel             | Text(20)        | false    | false    |                 |
+| _CarrierID           | Text            | true     | false    | 0               |
+| _CountryCode         | Text(2)         | true     | false    |                 |
+| _CreatedDate         | Date            | true     | false    | GETDATE()       |
+| _CreatedBy           | Text            | false    | false    |                 |
+| _ModifiedDate        | Date            | true     | false    | GETDATE()       |
+| _ModifiedBy          | Text            | false    | false    |                 |
+| _City                | Text(200)       | false    | false    |                 |
+| _State               | Text(200)       | false    | false    |                 |
+| _ZipCode             | Text(20)        | false    | false    |                 |
+| _FirstName           | Text(100)       | false    | false    |                 |
+| _LastName            | Text(100)       | false    | false    |                 |
+| _UTCOffset           | Decimal(4,2)    | false    | false    | 0               |
+| _IsHonorDST          | Boolean         | false    | false    | false           |

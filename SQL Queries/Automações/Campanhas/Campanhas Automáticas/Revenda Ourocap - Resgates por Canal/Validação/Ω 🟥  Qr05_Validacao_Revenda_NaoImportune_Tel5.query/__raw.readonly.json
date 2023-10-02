@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e0c38ea4-efa8-4614-818e-a27bb37612cb",
+  "name": "Qr05_Validacao_Revenda_NaoImportune_Tel5",
+  "key": "74aa98f2-46da-4d1e-97bd-1580793b7450",
+  "description": "Check if nao importune",
+  "queryText": "/* Não importune 1 */\r\nSELECT\r\n  HC_CPF_CNPJ__C,\r\n  ID_PRODUTO,\r\n  ID_TITULO,\r\n  case\r\n    when N.TELEFONE IS NOT NULL then 1\r\n    ELSE NAO_IMPORTUNE\r\n  end as NAO_IMPORTUNE\r\nFROM [Base_Revenda_Homolog_v2]\r\nLEFT JOIN TB_BASE_NAO_IMPORTUNE N on LTRIM(RTRIM(N.TELEFONE)) = TEL_05\r\nwhere TEL_05 is not null\r\n  and N.TELEFONE is not null",
+  "targetName": "Base_Revenda_Homolog_v2",
+  "targetKey": "1930E02A-2B0E-4629-8585-7609A4009D9B",
+  "targetId": "0e21ac9d-219d-eb11-a2fc-48df37342b91",
+  "targetDescription": "Geracao de Base para homologacao",
+  "createdDate": "2021-04-14T07:18:59.617",
+  "modifiedDate": "2021-04-14T07:18:59.617",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 32715,
+  "isFrozen": false
+}

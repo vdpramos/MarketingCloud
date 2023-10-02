@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "2934670E-577F-40AB-BCFA-321C9E04907B"
+  ],
+  "Name": [
+    "Inbound Chat - 2022-12-26T102932434"
+  ]
+}

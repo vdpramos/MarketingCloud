@@ -1,0 +1,13 @@
+{
+  "channel": "sms",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:message": "Ourocap informa, seu Titulo %%=V(@PLANO)%% foi emitido, seu(s) numero(s) da sorte: %%=v(@NUMERO_DA_SORTE)%%. Para maiores informações acesse www.brasilcap.com.br",
+  "currentColumn": 0,
+  "display:message:display": "Ourocap informa, seu Titulo %%=V(@PLANO)%% foi emitido, seu(s) numero(s) da sorte: %%=v(@NUMERO_DA_SORTE)%%. Para maiores informações acesse www.brasilcap.com.br",
+  "template": "sms",
+  "contents": [],
+  "shortLinks": [],
+  "uncheckedPanels": []
+}

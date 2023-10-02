@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "6C104F78-7953-44C3-9403-22AF6E807BCA"
+  ],
+  "Name": [
+    "EMAIL_INFOS_REPORT_7DIAS_v2"
+  ]
+}

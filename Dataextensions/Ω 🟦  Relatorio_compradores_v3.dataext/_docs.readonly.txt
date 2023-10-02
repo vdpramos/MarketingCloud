@@ -1,0 +1,8 @@
+Dataextension name: Relatorio_compradores_v3
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ_Subscritor  | Text(255)       | false    | false    |                 |
+| Cliente              | Text(255)       | false    | false    |                 |
+| Títulos: Nome        | Text(255)       | false    | false    |                 |
+| Produto relacionado  | Text(255)       | false    | false    |                 |

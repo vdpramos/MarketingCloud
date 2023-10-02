@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "C47BCC84-F97D-4A5F-8810-3C8F56B39BFE"
+  ],
+  "Name": [
+    "Flag_Horario_Aviso_De_Pagamento"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "9ef93d60-0d61-47f7-a9be-bad5567421b6",
+  "name": "CPF_Cancelados",
+  "key": "9EF93D60-0D61-47F7-A9BE-BAD5567421B6",
+  "description": "",
+  "queryText": "select a.*, c.hc_cpf_cnpj__c as CPF\nfrom Close_the_loop_cancelados_extracao a\ninner join contact_salesforce c\n    on c.id = a.id_contato",
+  "targetName": "Close_the_loop_cancelados_homologacao",
+  "targetKey": "DC54341E-085E-4320-836D-A62570103239",
+  "targetId": "1d09cc48-c0ff-ed11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-05-31T08:45:56.91",
+  "modifiedDate": "2023-05-31T08:45:56.91",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

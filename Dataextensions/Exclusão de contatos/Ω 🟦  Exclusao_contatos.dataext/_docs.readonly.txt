@@ -1,0 +1,5 @@
+Dataextension name: Exclusao_contatos
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| SubscriberKey        | Text(100)       | true     | false    |                 |

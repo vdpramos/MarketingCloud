@@ -1,0 +1,222 @@
+[
+  {
+    "Name": "Plano",
+    "FieldType": "Text",
+    "ObjectID": "3e674e65-a1a5-4fa6-90c4-5400e18a63e4",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Sorteio",
+    "FieldType": "Text",
+    "ObjectID": "a290acee-7252-4faf-85b3-2780d3366372",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Dia da semana",
+    "FieldType": "Text",
+    "ObjectID": "7d1c9418-2619-4b7c-9888-23289a86ef2f",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Semanalmente",
+    "FieldType": "Boolean",
+    "ObjectID": "cd5d54a6-b9d5-4313-8cd6-c7b15f13e358",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Dispara dias antes",
+    "FieldType": "Number",
+    "ObjectID": "2b9350d7-8109-46aa-b049-ccbc415c0983",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Ocorre_Apenas_Na_Primeira_Semana",
+    "FieldType": "Boolean",
+    "ObjectID": "92aa01ea-3e0d-47d5-851e-61ebd03f6e98",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "Janeiro",
+    "FieldType": "Boolean",
+    "ObjectID": "6f1055ee-a25c-47e4-9ab7-c1ff61f0f448",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "Fevereiro",
+    "FieldType": "Boolean",
+    "ObjectID": "87508b28-10ea-4cc8-a99f-4baee0d4d1ff",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "Marco",
+    "FieldType": "Boolean",
+    "ObjectID": "1d6c5109-a509-4555-987a-f5870f62fe83",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "Abril",
+    "FieldType": "Boolean",
+    "ObjectID": "cbd8ea6b-66a1-410b-b10a-ceed65441e99",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "Maio",
+    "FieldType": "Boolean",
+    "ObjectID": "d679036d-9d0c-42b8-88fc-e2cb9d2f1a0d",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "Junho",
+    "FieldType": "Boolean",
+    "ObjectID": "2dc54fd2-ce2e-4d8f-953a-e7077c138dcb",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "Julho",
+    "FieldType": "Boolean",
+    "ObjectID": "d44284ba-8bf9-4f0f-81fc-b3ee2575eb80",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "Agosto",
+    "FieldType": "Boolean",
+    "ObjectID": "337a49d9-b111-4477-85f3-38b5fccb498e",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 14
+  },
+  {
+    "Name": "Setembro",
+    "FieldType": "Boolean",
+    "ObjectID": "c03e9905-ba96-412f-ad97-e8fa8ed535ee",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 15
+  },
+  {
+    "Name": "Outubro",
+    "FieldType": "Boolean",
+    "ObjectID": "1cad9e90-4f8f-41cd-8ef4-0d85f66aa8ef",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 16
+  },
+  {
+    "Name": "Novembro",
+    "FieldType": "Boolean",
+    "ObjectID": "b56e73d2-3db9-44f4-88b5-46932b434636",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 17
+  },
+  {
+    "Name": "Dezembro",
+    "FieldType": "Boolean",
+    "ObjectID": "84237705-9e50-4c64-a305-e7beb25f7017",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 18
+  },
+  {
+    "Name": "Premio_Email",
+    "FieldType": "Text",
+    "ObjectID": "0566ef1a-bf97-4155-a465-396efe490c08",
+    "MaxLength": "200",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 19
+  },
+  {
+    "Name": "Descricao",
+    "FieldType": "Text",
+    "ObjectID": "25ed4a42-43a9-4d78-9aa7-080795dd3427",
+    "MaxLength": "250",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 20
+  }
+]

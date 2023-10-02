@@ -1,0 +1,8 @@
+Dataextension name: Base_envio_SMS_Tratada_Mulheres
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome                 | Text(300)       | false    | false    |                 |
+| Telefone             | Phone           | true     | false    |                 |
+| ID                   | Text(200)       | true     | true     |                 |
+| locale               | Locale          | true     | false    |                 |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e67465cd-053e-4898-8419-4c3fb9cc8faf",
+  "name": "Prospects_AtualizarClassificacao",
+  "key": "4fe68adf-9c76-45e5-ae79-23938714118c",
+  "description": "",
+  "queryText": "select id, 'Cliente Potencial' as HC_Classificacao__c from ProspectsClassificadosIncorretamente",
+  "targetName": "ProspectsAtualizar",
+  "targetKey": "48D2BE1C-9F33-49E9-9129-C09B89CF5FF5",
+  "targetId": "1e0f10a7-51a6-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-06T13:12:18.423",
+  "modifiedDate": "2023-02-06T13:12:18.423",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "E0C4324F-9201-49F9-A25D-9B3B518C4D25"
+  ],
+  "Name": [
+    "UndeliverableSms_backup_exclusao"
+  ]
+}

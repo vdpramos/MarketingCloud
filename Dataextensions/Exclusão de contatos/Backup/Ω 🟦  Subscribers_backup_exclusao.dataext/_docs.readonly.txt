@@ -1,0 +1,16 @@
+Dataextension name: Subscribers_backup_exclusao
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| SubscriberID         | Text(50)        | true     | false    |                 |
+| DateUndeliverable    | Date            | false    | false    |                 |
+| DateJoined           | Date            | false    | false    |                 |
+| DateUnsubscribed     | Date            | false    | false    |                 |
+| Domain               | Text(254)       | false    | false    |                 |
+| EmailAddress         | EmailAddress    | true     | false    |                 |
+| BounceCount          | Number          | true     | false    |                 |
+| SubscriberKey        | Text(100)       | true     | false    |                 |
+| SubscriberType       | Text(100)       | true     | false    |                 |
+| Status               | Text(50)        | false    | false    |                 |
+| Locale               | Locale          | false    | false    |                 |
+| Data_exclusao        | Date            | true     | false    | GetDate()       |

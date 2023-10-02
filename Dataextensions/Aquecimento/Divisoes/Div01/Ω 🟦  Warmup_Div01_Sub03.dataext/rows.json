@@ -1,0 +1,6266 @@
+[
+  {
+    "_CustomObjectKey": "21",
+    "CPF": "00053584341",
+    "NOME": "MARCILIO DE CARVALHO GONDIM",
+    "EMAIL": "marc.gondim@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCILIO "
+  },
+  {
+    "_CustomObjectKey": "23",
+    "CPF": "00058620001",
+    "NOME": "GENILCE RIZZON",
+    "EMAIL": "genilcerizzon2@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GENILCE "
+  },
+  {
+    "_CustomObjectKey": "34",
+    "CPF": "00098781731",
+    "NOME": "JOSE CARLOS RODRIGUES ALCANTARA",
+    "EMAIL": "jose55carlosrodrigues@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "47",
+    "CPF": "00143203800",
+    "NOME": "ADRIANA SATO IHA",
+    "EMAIL": "asatoiha@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADRIANA "
+  },
+  {
+    "_CustomObjectKey": "62",
+    "CPF": "00251961117",
+    "NOME": "RHAILEY JOSE SOARES",
+    "EMAIL": "rhaileyjava@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RHAILEY "
+  },
+  {
+    "_CustomObjectKey": "89",
+    "CPF": "00356847047",
+    "NOME": "DANIELA FRISON",
+    "EMAIL": "danielafrison@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DANIELA "
+  },
+  {
+    "_CustomObjectKey": "110",
+    "CPF": "00431099774",
+    "NOME": "NIXON REY CARNEIRO",
+    "EMAIL": "nixonselva@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NIXON "
+  },
+  {
+    "_CustomObjectKey": "112",
+    "CPF": "00455411913",
+    "NOME": "GENI BECHER",
+    "EMAIL": "genibecher@seed.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GENI "
+  },
+  {
+    "_CustomObjectKey": "121",
+    "CPF": "00499662865",
+    "NOME": "MARIA APARECIDA DE MELO HEBLING",
+    "EMAIL": "mariahebling@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "140",
+    "CPF": "00574102833",
+    "NOME": "JOSE MARCOS JULIO FERREIRA",
+    "EMAIL": "josemarcosjferreira@outlook.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "149",
+    "CPF": "00605918384",
+    "NOME": "AMARILIO RODRIGUES DE OLIVEIRA NETO",
+    "EMAIL": "amariliohonda@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AMARILIO "
+  },
+  {
+    "_CustomObjectKey": "170",
+    "CPF": "00657677051",
+    "NOME": "JOICE COSTA",
+    "EMAIL": "joiceflorc@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOICE "
+  },
+  {
+    "_CustomObjectKey": "172",
+    "CPF": "00666679681",
+    "NOME": "RUBEM FRANCISCO SILVA",
+    "EMAIL": "rubemfranciscogit@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RUBEM "
+  },
+  {
+    "_CustomObjectKey": "197",
+    "CPF": "00771267932",
+    "NOME": "JOAO DANIEL FERREIRA RIBAS",
+    "EMAIL": "joaoribasmedvet@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOAO "
+  },
+  {
+    "_CustomObjectKey": "199",
+    "CPF": "00777217643",
+    "NOME": "ANA CLAUDIA SANTANA RAMALHO",
+    "EMAIL": "anaclaudiasr1974@outlook.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "207",
+    "CPF": "00792959914",
+    "NOME": "ADRIANA CRISTINA TUSSI",
+    "EMAIL": "dritussi@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADRIANA "
+  },
+  {
+    "_CustomObjectKey": "210",
+    "CPF": "00800920040",
+    "NOME": "TIAGO EUGENIO CORDOVA",
+    "EMAIL": "tecordova@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TIAGO "
+  },
+  {
+    "_CustomObjectKey": "211",
+    "CPF": "00815396902",
+    "NOME": "CLEIDE LUISA NOVAK STEFANON",
+    "EMAIL": "luisa926011@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CLEIDE "
+  },
+  {
+    "_CustomObjectKey": "221",
+    "CPF": "00856759112",
+    "NOME": "DENIS AUGUSTO TEIXEIRA",
+    "EMAIL": "augustoteixeirad@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DENIS "
+  },
+  {
+    "_CustomObjectKey": "232",
+    "CPF": "00902182137",
+    "NOME": "GIORDANA NEIVA SILVA",
+    "EMAIL": "gior.nana@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GIORDANA "
+  },
+  {
+    "_CustomObjectKey": "266",
+    "CPF": "01022957350",
+    "NOME": "ALDESINO LOPES DO COUTO",
+    "EMAIL": "aldesinolopes@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALDESINO "
+  },
+  {
+    "_CustomObjectKey": "271",
+    "CPF": "01042061360",
+    "NOME": "ANDREYA KAROLYNE SANTOS VIEIRA",
+    "EMAIL": "deyakarol@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANDREYA "
+  },
+  {
+    "_CustomObjectKey": "273",
+    "CPF": "01042795169",
+    "NOME": "CAMILA CYNARA LIMA DE ALMEIDA",
+    "EMAIL": "camila_cynara@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CAMILA "
+  },
+  {
+    "_CustomObjectKey": "284",
+    "CPF": "01084032465",
+    "NOME": "INDRIS CAROLINA PINHEIRO",
+    "EMAIL": "indriscarol@aol.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "INDRIS "
+  },
+  {
+    "_CustomObjectKey": "301",
+    "CPF": "01157160921",
+    "NOME": "JEAN D OLIVEIRA",
+    "EMAIL": "jean.doliver@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JEAN "
+  },
+  {
+    "_CustomObjectKey": "308",
+    "CPF": "01189615436",
+    "NOME": "ADEILSA DA SILVA GABRIEL",
+    "EMAIL": "gabrieladeilsa2@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADEILSA "
+  },
+  {
+    "_CustomObjectKey": "326",
+    "CPF": "01261131819",
+    "NOME": "SUELI GONDO",
+    "EMAIL": "sueligondo@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SUELI "
+  },
+  {
+    "_CustomObjectKey": "332",
+    "CPF": "01280722703",
+    "NOME": "NAZARE CRISTINA SOARES DE OLIVEIRA",
+    "EMAIL": "nazare@sinalbusiness.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NAZARE "
+  },
+  {
+    "_CustomObjectKey": "352",
+    "CPF": "01366402812",
+    "NOME": "MARIA CRISTINA AUGUSTO FERREIRA DRAGO",
+    "EMAIL": "macris.drago@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "364",
+    "CPF": "01435025571",
+    "NOME": "GILDO DOS SANTOS OLIVEIRA",
+    "EMAIL": "gildosantos9@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GILDO "
+  },
+  {
+    "_CustomObjectKey": "378",
+    "CPF": "01509191585",
+    "NOME": "JULIANA ANASTACIA DA SILVA",
+    "EMAIL": "juanastacia@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JULIANA "
+  },
+  {
+    "_CustomObjectKey": "387",
+    "CPF": "01542682835",
+    "NOME": "SILVANA ABRUNHOSA",
+    "EMAIL": "jcms.santos@terra.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SILVANA "
+  },
+  {
+    "_CustomObjectKey": "397",
+    "CPF": "01577884159",
+    "NOME": "AGEU ASSIS DE PAULA",
+    "EMAIL": "ageuassis97@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AGEU "
+  },
+  {
+    "_CustomObjectKey": "418",
+    "CPF": "01679692852",
+    "NOME": "NILTON DOS SANTOS GUEDES",
+    "EMAIL": "niltonsguedes@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NILTON "
+  },
+  {
+    "_CustomObjectKey": "430",
+    "CPF": "01718357516",
+    "NOME": "MARIA NEIDE DOS SANTOS",
+    "EMAIL": "luanacostaah1234@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "438",
+    "CPF": "01736585398",
+    "NOME": "ROSA FREITAS",
+    "EMAIL": "rosafreitas.g@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROSA "
+  },
+  {
+    "_CustomObjectKey": "453",
+    "CPF": "01800010869",
+    "NOME": "LAINE TOLEDO FERNANDES",
+    "EMAIL": "dara.fredy@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LAINE "
+  },
+  {
+    "_CustomObjectKey": "456",
+    "CPF": "01812399146",
+    "NOME": "HILIARA DE OLIVEIRA NASCIMENTO",
+    "EMAIL": "hiliara.eng@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "HILIARA "
+  },
+  {
+    "_CustomObjectKey": "484",
+    "CPF": "01894718917",
+    "NOME": "JERUSA FONTANIVE HOGE",
+    "EMAIL": "jerusa@chocoleite.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JERUSA "
+  },
+  {
+    "_CustomObjectKey": "523",
+    "CPF": "02129580629",
+    "NOME": "ROBERTA FERNANDES DE SOUZA SILVA",
+    "EMAIL": "betaglkr@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROBERTA "
+  },
+  {
+    "_CustomObjectKey": "549",
+    "CPF": "02229742906",
+    "NOME": "GILMAR PEREIRA",
+    "EMAIL": "gilmarp1976@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GILMAR "
+  },
+  {
+    "_CustomObjectKey": "550",
+    "CPF": "02230898345",
+    "NOME": "ELISRAY ALESONN RIBEIRO SA",
+    "EMAIL": "elisray@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELISRAY "
+  },
+  {
+    "_CustomObjectKey": "552",
+    "CPF": "02237398801",
+    "NOME": "MARCOS ANTONIO MARTINS DA SILVA",
+    "EMAIL": "marcosgw@uol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCOS "
+  },
+  {
+    "_CustomObjectKey": "568",
+    "CPF": "02295285704",
+    "NOME": "WANDERSON SOUZA",
+    "EMAIL": "wandersonsilvabdesouza@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "WANDERSON "
+  },
+  {
+    "_CustomObjectKey": "570",
+    "CPF": "02295586909",
+    "NOME": "JOAO CARLOS TOLEDO JUNIOR",
+    "EMAIL": "jctoledojr23@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOAO "
+  },
+  {
+    "_CustomObjectKey": "580",
+    "CPF": "02324747294",
+    "NOME": "EZEQUIEL GOMES ANDRADE",
+    "EMAIL": "ezequielandrade00@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EZEQUIEL "
+  },
+  {
+    "_CustomObjectKey": "582",
+    "CPF": "02336708906",
+    "NOME": "JULIANA FRONZA",
+    "EMAIL": "julianafronza.2010@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JULIANA "
+  },
+  {
+    "_CustomObjectKey": "589",
+    "CPF": "02359115189",
+    "NOME": "RODRIGO CAVALIERI DE MIRANDA",
+    "EMAIL": "leiloeirorodrigomiranda@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RODRIGO "
+  },
+  {
+    "_CustomObjectKey": "603",
+    "CPF": "02410448470",
+    "NOME": "VIVIANE SANTOS BARBOSA",
+    "EMAIL": "vivianesbarbosa@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VIVIANE "
+  },
+  {
+    "_CustomObjectKey": "616",
+    "CPF": "02474006109",
+    "NOME": "RICARDO ALEXANDRE BENEDITO DE LIMA",
+    "EMAIL": "kakaalex12@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RICARDO "
+  },
+  {
+    "_CustomObjectKey": "619",
+    "CPF": "02488118273",
+    "NOME": "SAMARA BORGES DA SILVA",
+    "EMAIL": "samaraborgessil@outlook.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SAMARA "
+  },
+  {
+    "_CustomObjectKey": "631",
+    "CPF": "02534629590",
+    "NOME": "ANILDO SANTANA DOS SANTOS",
+    "EMAIL": "anildosantana865@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANILDO "
+  },
+  {
+    "_CustomObjectKey": "640",
+    "CPF": "02574257480",
+    "NOME": "TEODULO SOUSA",
+    "EMAIL": "teoduloteotonio2014@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TEODULO "
+  },
+  {
+    "_CustomObjectKey": "646",
+    "CPF": "02617180379",
+    "NOME": "MAX SILVA",
+    "EMAIL": "mazsa12@live.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MAX "
+  },
+  {
+    "_CustomObjectKey": "649",
+    "CPF": "02628357461",
+    "NOME": "ELENICIO NUNES RAMOS",
+    "EMAIL": "elenicior@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELENICIO "
+  },
+  {
+    "_CustomObjectKey": "675",
+    "CPF": "02733742906",
+    "NOME": "ALESSANDRA SILVEIRA BASTOS",
+    "EMAIL": "alesilveirabastos@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALESSANDRA "
+  },
+  {
+    "_CustomObjectKey": "696",
+    "CPF": "02840035499",
+    "NOME": "FABIO PEREIRA LIMA",
+    "EMAIL": "fabio.p.lima@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FABIO "
+  },
+  {
+    "_CustomObjectKey": "704",
+    "CPF": "02877149420",
+    "NOME": "TITO ANGELO LOBAO CRUZ",
+    "EMAIL": "faxdetito@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TITO "
+  },
+  {
+    "_CustomObjectKey": "709",
+    "CPF": "02902465637",
+    "NOME": "VALDIRENE COSTA",
+    "EMAIL": "valdirene.costa@muz.ifsuldeminas.edu.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VALDIRENE "
+  },
+  {
+    "_CustomObjectKey": "724",
+    "CPF": "02966039965",
+    "NOME": "JOELMA APARECIDA DE MELO",
+    "EMAIL": "joelmamelo210@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOELMA "
+  },
+  {
+    "_CustomObjectKey": "743",
+    "CPF": "03082309224",
+    "NOME": "MIKAEL VILHENA FARIAS",
+    "EMAIL": "mikaelfarias17@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MIKAEL "
+  },
+  {
+    "_CustomObjectKey": "747",
+    "CPF": "03093695686",
+    "NOME": "MARCOS BRUM RIBAS",
+    "EMAIL": "marcosbrumribas@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCOS "
+  },
+  {
+    "_CustomObjectKey": "755",
+    "CPF": "03112490355",
+    "NOME": "CICERO LUIZ DE SOUSA SILVA",
+    "EMAIL": "cicerosilva84a@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CICERO "
+  },
+  {
+    "_CustomObjectKey": "784",
+    "CPF": "03228188426",
+    "NOME": "JOSE EXPEDITO ALVES DE OLIVEIRA",
+    "EMAIL": "dedeboymonica@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "818",
+    "CPF": "03421323933",
+    "NOME": "MELISSA RAQUEL KITTLAUS DE LIMA",
+    "EMAIL": "mkitilausdelima@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MELISSA "
+  },
+  {
+    "_CustomObjectKey": "822",
+    "CPF": "03442091136",
+    "NOME": "LETICIA KUDIESS GRIMM CAVALCANTE",
+    "EMAIL": "leticiagrimm@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LETICIA "
+  },
+  {
+    "_CustomObjectKey": "827",
+    "CPF": "03463539470",
+    "NOME": "ALBERTO FIGUEIREDO LIMEIRA",
+    "EMAIL": "alberto3030@bol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALBERTO "
+  },
+  {
+    "_CustomObjectKey": "831",
+    "CPF": "03493119518",
+    "NOME": "ISAEL LEITE DOS SANTOS",
+    "EMAIL": "isael.leite123@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ISAEL "
+  },
+  {
+    "_CustomObjectKey": "835",
+    "CPF": "03517978400",
+    "NOME": "LUCIA DE FATIMA ALBUQUERQUE FREIRE",
+    "EMAIL": "luciafreire313@hotmail.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUCIA "
+  },
+  {
+    "_CustomObjectKey": "842",
+    "CPF": "03568001640",
+    "NOME": "AGUEDA FERREIRA",
+    "EMAIL": "aguedanery@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AGUEDA "
+  },
+  {
+    "_CustomObjectKey": "843",
+    "CPF": "03579351877",
+    "NOME": "MARINES DEZORDI ANGELO",
+    "EMAIL": "marines_dezordi@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARINES "
+  },
+  {
+    "_CustomObjectKey": "864",
+    "CPF": "03685309498",
+    "NOME": "FREDERICO AUGUSTO PIRES ZELAYA",
+    "EMAIL": "fredzelaya@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FREDERICO "
+  },
+  {
+    "_CustomObjectKey": "876",
+    "CPF": "03714859594",
+    "NOME": "DANIEL ALVES SOARES JUNIOR",
+    "EMAIL": "danielalvescorreio@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DANIEL "
+  },
+  {
+    "_CustomObjectKey": "885",
+    "CPF": "03768092992",
+    "NOME": "MAYARA CRISTIANA STANGER",
+    "EMAIL": "mayara.stanger@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MAYARA "
+  },
+  {
+    "_CustomObjectKey": "887",
+    "CPF": "03781819809",
+    "NOME": "DORCELINA DA CONCEICAO GONCALVES PINTO",
+    "EMAIL": "dorcelinaian@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DORCELINA "
+  },
+  {
+    "_CustomObjectKey": "920",
+    "CPF": "03926537965",
+    "NOME": "ANA LUIZA POLETINE PEROBELI",
+    "EMAIL": "aluizapoletine@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "921",
+    "CPF": "03928505165",
+    "NOME": "VANDEHARLEI SOUZA MORAES",
+    "EMAIL": "vandoboikaa@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VANDEHARLEI "
+  },
+  {
+    "_CustomObjectKey": "938",
+    "CPF": "03988557579",
+    "NOME": "JAINE DE JESUS BRITO",
+    "EMAIL": "jainebrito2010@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JAINE "
+  },
+  {
+    "_CustomObjectKey": "951",
+    "CPF": "04014951910",
+    "NOME": "LUIS PINHO",
+    "EMAIL": "cariocca@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUIS "
+  },
+  {
+    "_CustomObjectKey": "953",
+    "CPF": "04023462896",
+    "NOME": "NAIR MINEKO TAIRA",
+    "EMAIL": "nair.taira57@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NAIR "
+  },
+  {
+    "_CustomObjectKey": "954",
+    "CPF": "04027229657",
+    "NOME": "LUCIANO LELLIS PEREIRA VERSIEUX",
+    "EMAIL": "luciano.versieux@usiminas.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUCIANO "
+  },
+  {
+    "_CustomObjectKey": "959",
+    "CPF": "04056697558",
+    "NOME": "FABIANA GOMES DE OLIVEIRA",
+    "EMAIL": "fabianagomes8243@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FABIANA "
+  },
+  {
+    "_CustomObjectKey": "962",
+    "CPF": "04067944993",
+    "NOME": "GREICE LEMKE",
+    "EMAIL": "cezar.lemke@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GREICE "
+  },
+  {
+    "_CustomObjectKey": "967",
+    "CPF": "04085001825",
+    "NOME": "AERCIA ROSA DOS SANTOS",
+    "EMAIL": "aercinha-2012@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AERCIA "
+  },
+  {
+    "_CustomObjectKey": "975",
+    "CPF": "04123121152",
+    "NOME": "SERGIO TORRES DOS SANTOS",
+    "EMAIL": "sergio.cnptorres@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SERGIO "
+  },
+  {
+    "_CustomObjectKey": "977",
+    "CPF": "04127272694",
+    "NOME": "PATRICIA JUNQUEIRA DE MELO",
+    "EMAIL": "patiadv@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PATRICIA "
+  },
+  {
+    "_CustomObjectKey": "1022",
+    "CPF": "04304380362",
+    "NOME": "CECILIA IRENE DE ARAUJO",
+    "EMAIL": "ceciliairenne@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CECILIA "
+  },
+  {
+    "_CustomObjectKey": "1069",
+    "CPF": "04541032988",
+    "NOME": "RAQUIEL MAIA",
+    "EMAIL": "raquelgarciamaia@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RAQUIEL "
+  },
+  {
+    "_CustomObjectKey": "1073",
+    "CPF": "04564827413",
+    "NOME": "FRANCISCO JOSE NOGUEIRA CORDEIRO",
+    "EMAIL": "fjcordeiro6@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCISCO "
+  },
+  {
+    "_CustomObjectKey": "1074",
+    "CPF": "04571280386",
+    "NOME": "SAUANA LUZ ARAUJO",
+    "EMAIL": "saviluzaraujo1@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SAUANA "
+  },
+  {
+    "_CustomObjectKey": "1076",
+    "CPF": "04591919692",
+    "NOME": "HAMILTON JOSE DE CARVALHO JUNIOR",
+    "EMAIL": "hjtom82@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "HAMILTON "
+  },
+  {
+    "_CustomObjectKey": "1083",
+    "CPF": "04633789627",
+    "NOME": "ROSIANE DOS SANTOS CARNEIRO",
+    "EMAIL": "rosiane-ac@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROSIANE "
+  },
+  {
+    "_CustomObjectKey": "1084",
+    "CPF": "04633866478",
+    "NOME": "ANA PAULA NUNES FERREIRA SALLES",
+    "EMAIL": "nunedes@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "1086",
+    "CPF": "04638902804",
+    "NOME": "MARGARETE MARTINS COSTA IAMAMOTO",
+    "EMAIL": "margarete.iamamoto@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARGARETE "
+  },
+  {
+    "_CustomObjectKey": "1117",
+    "CPF": "04784349448",
+    "NOME": "NECY DA SILVA FERRAZ",
+    "EMAIL": "necyferraz9@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NECY "
+  },
+  {
+    "_CustomObjectKey": "1175",
+    "CPF": "05049304512",
+    "NOME": "MARIA SANTANA",
+    "EMAIL": "julialevygel@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "1176",
+    "CPF": "05056286940",
+    "NOME": "FERNANDA VASQUES DE PAULA",
+    "EMAIL": "dradepaula@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FERNANDA "
+  },
+  {
+    "_CustomObjectKey": "1179",
+    "CPF": "05082289802",
+    "NOME": "TANIA TEROLESE TEIXEIRA",
+    "EMAIL": "tania.terolezit@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TANIA "
+  },
+  {
+    "_CustomObjectKey": "1197",
+    "CPF": "05205487364",
+    "NOME": "WENYA PALACIO XAVIER DE MELO",
+    "EMAIL": "wenyapalacio@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "WENYA "
+  },
+  {
+    "_CustomObjectKey": "1219",
+    "CPF": "05349330926",
+    "NOME": "DIOGO MONTES VIDAL",
+    "EMAIL": "diogomvidal@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DIOGO "
+  },
+  {
+    "_CustomObjectKey": "1233",
+    "CPF": "05381976844",
+    "NOME": "JOAO OSCAR BELCHIOR AMARAL",
+    "EMAIL": "lucasbelchior.bataglia@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOAO "
+  },
+  {
+    "_CustomObjectKey": "1235",
+    "CPF": "05385680540",
+    "NOME": "MARIA CLARA DA SILVA CASTRO",
+    "EMAIL": "mcscastro2009@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "1240",
+    "CPF": "05401654847",
+    "NOME": "GISLAINE CAMARGO FRANCELINO",
+    "EMAIL": "gc.francelino63@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GISLAINE "
+  },
+  {
+    "_CustomObjectKey": "1254",
+    "CPF": "05461432964",
+    "NOME": "FERNANDA TESSARI DE MELLO",
+    "EMAIL": "fernandatm_88@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FERNANDA "
+  },
+  {
+    "_CustomObjectKey": "1260",
+    "CPF": "05492859706",
+    "NOME": "LUIZ DAVID ABSALAO",
+    "EMAIL": "absalao@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUIZ "
+  },
+  {
+    "_CustomObjectKey": "1274",
+    "CPF": "05538404951",
+    "NOME": "DANIELE GOTO",
+    "EMAIL": "danigoto@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DANIELE "
+  },
+  {
+    "_CustomObjectKey": "1288",
+    "CPF": "05610927617",
+    "NOME": "KARLA COSTA",
+    "EMAIL": "karlacosta.si@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "KARLA "
+  },
+  {
+    "_CustomObjectKey": "1304",
+    "CPF": "05679056755",
+    "NOME": "ELISA MAIA DOS SANTOS",
+    "EMAIL": "elisamaia80@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELISA "
+  },
+  {
+    "_CustomObjectKey": "1320",
+    "CPF": "05749756599",
+    "NOME": "MATEUS SANTOS DA CRUZ",
+    "EMAIL": "mateus_drielle14@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MATEUS "
+  },
+  {
+    "_CustomObjectKey": "1335",
+    "CPF": "05809943683",
+    "NOME": "RODRIGO GIACOMINI GUIMARAES",
+    "EMAIL": "rodrigoguimaraes1036@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RODRIGO "
+  },
+  {
+    "_CustomObjectKey": "1346",
+    "CPF": "05880834450",
+    "NOME": "MATHEUS DOS SANTOS SOARES",
+    "EMAIL": "matheus_ssoares@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MATHEUS "
+  },
+  {
+    "_CustomObjectKey": "1350",
+    "CPF": "05910274376",
+    "NOME": "RAFAEL CACAU DE ALENCAR",
+    "EMAIL": "rafael.cacau@outlook.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RAFAEL "
+  },
+  {
+    "_CustomObjectKey": "1363",
+    "CPF": "05986382706",
+    "NOME": "JUAN PABLO MONDINI",
+    "EMAIL": "juanpablomondini@yahoo.com.ar",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JUAN "
+  },
+  {
+    "_CustomObjectKey": "1373",
+    "CPF": "06073282826",
+    "NOME": "MARCILENE OLIMPIA PEREIRA DOS SANTOS",
+    "EMAIL": "meneolimpia@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCILENE "
+  },
+  {
+    "_CustomObjectKey": "1392",
+    "CPF": "06228842803",
+    "NOME": "MAGALI ROBERTA GONCALVES FONSECA",
+    "EMAIL": "magaliroberta@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MAGALI "
+  },
+  {
+    "_CustomObjectKey": "1397",
+    "CPF": "06246542816",
+    "NOME": "IVANIRA SCARMIN IZIDORO",
+    "EMAIL": "ivanira.scarmin@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "IVANIRA "
+  },
+  {
+    "_CustomObjectKey": "1429",
+    "CPF": "06441452260",
+    "NOME": "DERLEY SOUSA E SOUSA",
+    "EMAIL": "derley067@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DERLEY "
+  },
+  {
+    "_CustomObjectKey": "1432",
+    "CPF": "06469109810",
+    "NOME": "MAGDA ALBERTIN",
+    "EMAIL": "mag3363@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MAGDA "
+  },
+  {
+    "_CustomObjectKey": "1450",
+    "CPF": "06555377836",
+    "NOME": "LUIZ CARLOS DE OLIVEIRA",
+    "EMAIL": "luizcarlosoliveira@uol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUIZ "
+  },
+  {
+    "_CustomObjectKey": "1510",
+    "CPF": "06935906709",
+    "NOME": "ELIANO DONATO SANTANA",
+    "EMAIL": "leandrotiti6@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELIANO "
+  },
+  {
+    "_CustomObjectKey": "1511",
+    "CPF": "06936501338",
+    "NOME": "LUCAS NUNES CAVALCANTE",
+    "EMAIL": "lcavalcanti@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUCAS "
+  },
+  {
+    "_CustomObjectKey": "1557",
+    "CPF": "07197447763",
+    "NOME": "JANAINA SILVA DE ALMEIDA MALIZIA",
+    "EMAIL": "janas_almeida@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JANAINA "
+  },
+  {
+    "_CustomObjectKey": "1563",
+    "CPF": "07225864424",
+    "NOME": "LEANDRO MANGUEIRA DE OLIVEIRA",
+    "EMAIL": "drleandromangueira@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LEANDRO "
+  },
+  {
+    "_CustomObjectKey": "1575",
+    "CPF": "07281671822",
+    "NOME": "REINALDO MONZANI",
+    "EMAIL": "rmonzani@sabesp.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "REINALDO "
+  },
+  {
+    "_CustomObjectKey": "1580",
+    "CPF": "07309097866",
+    "NOME": "MARY ROSEANE DE SOUZA",
+    "EMAIL": "maryroseane@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARY "
+  },
+  {
+    "_CustomObjectKey": "1592",
+    "CPF": "07379017802",
+    "NOME": "MARTA CUSTODIO RODRIGUES PEREIRA",
+    "EMAIL": "martinha6178@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARTA "
+  },
+  {
+    "_CustomObjectKey": "1603",
+    "CPF": "07441317401",
+    "NOME": "PLINIO HENRIQUE DA SILVA",
+    "EMAIL": "pliniohenriquepl@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PLINIO "
+  },
+  {
+    "_CustomObjectKey": "1608",
+    "CPF": "07490151368",
+    "NOME": "RUI ALCIDES DOS SANTOS",
+    "EMAIL": "rui.santos@sls.incra.gov.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RUI "
+  },
+  {
+    "_CustomObjectKey": "1617",
+    "CPF": "07541408492",
+    "NOME": "LANA MARA DE SOUZA CABRAL",
+    "EMAIL": "lanna-cabral@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LANA "
+  },
+  {
+    "_CustomObjectKey": "1620",
+    "CPF": "07546732603",
+    "NOME": "TATIALE CHAVES",
+    "EMAIL": "tatychaves_@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TATIALE "
+  },
+  {
+    "_CustomObjectKey": "1636",
+    "CPF": "07650673405",
+    "NOME": "CARMEM JULIANA PACHECO ALVES DA SILVA",
+    "EMAIL": "carmenjulianapacheco@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CARMEM "
+  },
+  {
+    "_CustomObjectKey": "1683",
+    "CPF": "07961116850",
+    "NOME": "ROSELI APARECIDA ELEUTERIO",
+    "EMAIL": "roseli.eleuterio@ig.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROSELI "
+  },
+  {
+    "_CustomObjectKey": "1691",
+    "CPF": "07993344727",
+    "NOME": "PABLO FERREIRA BIASUTTI",
+    "EMAIL": "pablobiasutti@casadoadubo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PABLO "
+  },
+  {
+    "_CustomObjectKey": "1703",
+    "CPF": "08072158643",
+    "NOME": "PRISCILA SALVATI",
+    "EMAIL": "prisalvati@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PRISCILA "
+  },
+  {
+    "_CustomObjectKey": "1717",
+    "CPF": "08161595801",
+    "NOME": "KATIA KATSUMI SAKOMURA DE MATOS",
+    "EMAIL": "katiaks4@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "KATIA "
+  },
+  {
+    "_CustomObjectKey": "1740",
+    "CPF": "08384779686",
+    "NOME": "DOUGLAS LIMA AGUIAR CAMPOS",
+    "EMAIL": "douglaslaguiar.dg@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DOUGLAS "
+  },
+  {
+    "_CustomObjectKey": "1756",
+    "CPF": "08491968253",
+    "NOME": "LEANDRO SILVA DE BRITO",
+    "EMAIL": "leandrosilvab001@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LEANDRO "
+  },
+  {
+    "_CustomObjectKey": "1766",
+    "CPF": "08537472964",
+    "NOME": "GESSICA LUZIA NUNES DO AMARAL",
+    "EMAIL": "ge_amaral04@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GESSICA "
+  },
+  {
+    "_CustomObjectKey": "1779",
+    "CPF": "08613768628",
+    "NOME": "CLAUDIO VANDERLEY DE ARAUJO",
+    "EMAIL": "claudioenf2010@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CLAUDIO "
+  },
+  {
+    "_CustomObjectKey": "1793",
+    "CPF": "08706684807",
+    "NOME": "MARY TIEMI MURAKAMI SUGIMOTO",
+    "EMAIL": "mati100.ms@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARY "
+  },
+  {
+    "_CustomObjectKey": "1821",
+    "CPF": "08914324850",
+    "NOME": "ADEMEIA BELLINI DE SOUZA",
+    "EMAIL": "adimeiabellini@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADEMEIA "
+  },
+  {
+    "_CustomObjectKey": "1850",
+    "CPF": "09162321234",
+    "NOME": "LINA ROSA MACIEL",
+    "EMAIL": "rosa5959@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LINA "
+  },
+  {
+    "_CustomObjectKey": "1861",
+    "CPF": "09283112873",
+    "NOME": "ELENITA CARLA MARTINS GOMES",
+    "EMAIL": "elenita_carla@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELENITA "
+  },
+  {
+    "_CustomObjectKey": "1892",
+    "CPF": "09481130657",
+    "NOME": "HIGOR PRATES REIS",
+    "EMAIL": "anajuliacarvalhoprates@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "HIGOR "
+  },
+  {
+    "_CustomObjectKey": "1915",
+    "CPF": "09672259654",
+    "NOME": "JULIA RUAS SILVA",
+    "EMAIL": "juliaruas@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JULIA "
+  },
+  {
+    "_CustomObjectKey": "1920",
+    "CPF": "09690852906",
+    "NOME": "MATHEUS FELYPE LACERDA MARTINS DE SOUZA",
+    "EMAIL": "matheusfelypelacerda@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MATHEUS "
+  },
+  {
+    "_CustomObjectKey": "1938",
+    "CPF": "09832025591",
+    "NOME": "ANTONIO COTINGUIBA NETO",
+    "EMAIL": "cotineto@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANTONIO "
+  },
+  {
+    "_CustomObjectKey": "1954",
+    "CPF": "09991202803",
+    "NOME": "SUELY MARIKO YAMADA",
+    "EMAIL": "marioetereza@msn.com1",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SUELY "
+  },
+  {
+    "_CustomObjectKey": "1965",
+    "CPF": "10098510711",
+    "NOME": "ANA GABRIELA BARBOSA PRADO",
+    "EMAIL": "gabiprad@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "2045",
+    "CPF": "10429566859",
+    "NOME": "ANTONIO EDUARDO MARTELATO",
+    "EMAIL": "dumartelato@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANTONIO "
+  },
+  {
+    "_CustomObjectKey": "2052",
+    "CPF": "10450553442",
+    "NOME": "LICINHA LOPES DE LIMA",
+    "EMAIL": "davilicinha1716@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LICINHA "
+  },
+  {
+    "_CustomObjectKey": "2095",
+    "CPF": "10626293880",
+    "NOME": "CARLOS WAGNER CAMOLEZ",
+    "EMAIL": "necocamolez@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CARLOS "
+  },
+  {
+    "_CustomObjectKey": "2096",
+    "CPF": "10630535442",
+    "NOME": "MARCONE ANTONIO GONCALVES",
+    "EMAIL": "marconeantonio941@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCONE "
+  },
+  {
+    "_CustomObjectKey": "2112",
+    "CPF": "10674887824",
+    "NOME": "NIVALDO NATAL LORENZETTO",
+    "EMAIL": "nivaldo.lorenzeto@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NIVALDO "
+  },
+  {
+    "_CustomObjectKey": "2127",
+    "CPF": "10721278817",
+    "NOME": "MARIA CREUZA DA SILVA",
+    "EMAIL": "maria.creuzadas@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "2142",
+    "CPF": "10780629191",
+    "NOME": "CORNELIO BRAGA",
+    "EMAIL": "braga5000@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CORNELIO "
+  },
+  {
+    "_CustomObjectKey": "2151",
+    "CPF": "10827394640",
+    "NOME": "JESSICA VITOI TEIXEIRA RAMALHO",
+    "EMAIL": "jessicavitoi@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JESSICA "
+  },
+  {
+    "_CustomObjectKey": "2160",
+    "CPF": "10887504434",
+    "NOME": "ANGELA MARIA BRAGA OLIVEIRA",
+    "EMAIL": "angelabocg@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANGELA "
+  },
+  {
+    "_CustomObjectKey": "2176",
+    "CPF": "10965879801",
+    "NOME": "CHRISTIAN EUGENIO RIBEIRO",
+    "EMAIL": "ceugenioribeiro@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CHRISTIAN "
+  },
+  {
+    "_CustomObjectKey": "2195",
+    "CPF": "11062698886",
+    "NOME": "MARCOS SABIO",
+    "EMAIL": "marcos.lidia@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCOS "
+  },
+  {
+    "_CustomObjectKey": "2214",
+    "CPF": "11217489452",
+    "NOME": "AUGUSTO ANTONIO BRITO",
+    "EMAIL": "augustoantoniobrito1@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AUGUSTO "
+  },
+  {
+    "_CustomObjectKey": "2222",
+    "CPF": "11255767820",
+    "NOME": "ADRIANA MARIA LOPES MORALES CARAVIERI",
+    "EMAIL": "dripax2@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADRIANA "
+  },
+  {
+    "_CustomObjectKey": "2240",
+    "CPF": "11328130851",
+    "NOME": "WILSON FERREIRA DOS SANTOS JUNIOR",
+    "EMAIL": "wfjunior0611@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "WILSON "
+  },
+  {
+    "_CustomObjectKey": "2254",
+    "CPF": "11386556866",
+    "NOME": "LUCIMEIRE DA SILVA RAMOS",
+    "EMAIL": "luartebela@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUCIMEIRE "
+  },
+  {
+    "_CustomObjectKey": "2265",
+    "CPF": "11434219658",
+    "NOME": "CELIO SERAFIM DE ALMEIDA JUNIOR",
+    "EMAIL": "junior.redemaq@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CELIO "
+  },
+  {
+    "_CustomObjectKey": "2281",
+    "CPF": "11527536220",
+    "NOME": "ENEDINA GONCALVES GOMES",
+    "EMAIL": "enedina.gomes@saude.gov.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ENEDINA "
+  },
+  {
+    "_CustomObjectKey": "2289",
+    "CPF": "11608633187",
+    "NOME": "MARCIA RUBIA LEVY MIQUETTE",
+    "EMAIL": "marcia.miquete@cultura.gov.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCIA "
+  },
+  {
+    "_CustomObjectKey": "2303",
+    "CPF": "11701796651",
+    "NOME": "ROGER SABATTO DOS SANTOS DEL DUCCA",
+    "EMAIL": "rogersabatto@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROGER "
+  },
+  {
+    "_CustomObjectKey": "2322",
+    "CPF": "11779558813",
+    "NOME": "FABIO NAKAMURA",
+    "EMAIL": "nakamura2010fabio@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FABIO "
+  },
+  {
+    "_CustomObjectKey": "2333",
+    "CPF": "11867348764",
+    "NOME": "CASSIA RIBEIRO",
+    "EMAIL": "cassia.mezadri@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CASSIA "
+  },
+  {
+    "_CustomObjectKey": "2334",
+    "CPF": "11872629865",
+    "NOME": "AUGUSTO SHIGUEMI YONEMOTO JUNIOR",
+    "EMAIL": "asyjr@terra.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AUGUSTO "
+  },
+  {
+    "_CustomObjectKey": "2351",
+    "CPF": "11984534866",
+    "NOME": "FABIANA DE LIMA PEREIRA",
+    "EMAIL": "fabiana_838@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FABIANA "
+  },
+  {
+    "_CustomObjectKey": "2364",
+    "CPF": "12044841630",
+    "NOME": "ALAN VITAL",
+    "EMAIL": "alanmarciovital@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALAN "
+  },
+  {
+    "_CustomObjectKey": "2373",
+    "CPF": "12133132520",
+    "NOME": "JORGE LUIZ DE JESUS",
+    "EMAIL": "jorgeluiz.jb@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JORGE "
+  },
+  {
+    "_CustomObjectKey": "2374",
+    "CPF": "12133271643",
+    "NOME": "ANA CLARA PINHEIRO CARVALHO SILVA",
+    "EMAIL": "anacs_pinheiro@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "2397",
+    "CPF": "12315200865",
+    "NOME": "JOSE ANTONIO DA SILVA",
+    "EMAIL": "josejsa@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "2399",
+    "CPF": "12323711814",
+    "NOME": "GILTON GUION LORENZONI",
+    "EMAIL": "glservice@terra.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GILTON "
+  },
+  {
+    "_CustomObjectKey": "2405",
+    "CPF": "12358343870",
+    "NOME": "PAULO SAMPAIO",
+    "EMAIL": "paulo.sampaio@incesis.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PAULO "
+  },
+  {
+    "_CustomObjectKey": "2407",
+    "CPF": "12364955866",
+    "NOME": "MARIA APARECIDA SIQUEIRA BAUMGARTNER",
+    "EMAIL": "mariabaumgartner06@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "2418",
+    "CPF": "12435019874",
+    "NOME": "MARIA DA CONCEICAO MOISES NUNES",
+    "EMAIL": "concitasales@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "2442",
+    "CPF": "12583162349",
+    "NOME": "JOSE JORGE FIGUEIREDO DOS ANJOS",
+    "EMAIL": "josejfanjos@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "2443",
+    "CPF": "12583248812",
+    "NOME": "VALTER FRANCA JUNIOR",
+    "EMAIL": "franca_walterph@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VALTER "
+  },
+  {
+    "_CustomObjectKey": "2489",
+    "CPF": "12819575854",
+    "NOME": "ANA CANDIDA MARTINS RODRIGUES",
+    "EMAIL": "acmr@ufscar.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "2528",
+    "CPF": "13045138748",
+    "NOME": "TAYANA DA SILVA MOURA GARCIA",
+    "EMAIL": "tayanasilvamoura@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TAYANA "
+  },
+  {
+    "_CustomObjectKey": "2611",
+    "CPF": "13481993773",
+    "NOME": "PATRICK PINTO",
+    "EMAIL": "patrickbuzios@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PATRICK "
+  },
+  {
+    "_CustomObjectKey": "2645",
+    "CPF": "13754098837",
+    "NOME": "DEVANETE SANTOS",
+    "EMAIL": "deva.amoavida@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DEVANETE "
+  },
+  {
+    "_CustomObjectKey": "2659",
+    "CPF": "13805819234",
+    "NOME": "PEDRO SENHORINHA DE ALENCAR",
+    "EMAIL": "alencar7pedro@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PEDRO "
+  },
+  {
+    "_CustomObjectKey": "2665",
+    "CPF": "13831887268",
+    "NOME": "MARIA ZILME ARANTES LIMA",
+    "EMAIL": "zillme@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "2682",
+    "CPF": "13948941807",
+    "NOME": "ROSELAINE BIANCARDI",
+    "EMAIL": "roselainebiancardi@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROSELAINE "
+  },
+  {
+    "_CustomObjectKey": "2701",
+    "CPF": "14129313800",
+    "NOME": "MARISE SILVA NEIVA",
+    "EMAIL": "tiamarise@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARISE "
+  },
+  {
+    "_CustomObjectKey": "2717",
+    "CPF": "14216530605",
+    "NOME": "JULIA PAIVA MORAIS",
+    "EMAIL": "julia.1049@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JULIA "
+  },
+  {
+    "_CustomObjectKey": "2718",
+    "CPF": "14221694726",
+    "NOME": "WESLLEY XAVIER ROSA MEIRELES",
+    "EMAIL": "weslley.eb@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "WESLLEY "
+  },
+  {
+    "_CustomObjectKey": "2721",
+    "CPF": "14232504869",
+    "NOME": "ISMAEL JUSTO DE ALMEIDA FILHO",
+    "EMAIL": "ismaeljustto@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ISMAEL "
+  },
+  {
+    "_CustomObjectKey": "2742",
+    "CPF": "14384387881",
+    "NOME": "HELEN DORAMY ARAUJO DE MELO",
+    "EMAIL": "helendoramyaraujo@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "HELEN "
+  },
+  {
+    "_CustomObjectKey": "2768",
+    "CPF": "14502643874",
+    "NOME": "ELIANE OLIVEIRA RENO MANHANI",
+    "EMAIL": "elianereno@policiamilitar.sp.gov.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELIANE "
+  },
+  {
+    "_CustomObjectKey": "2770",
+    "CPF": "14530201104",
+    "NOME": "MARIA DE LOURDES BARBOSA MAGALHAES",
+    "EMAIL": "maryyslourdes@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "2791",
+    "CPF": "14694239015",
+    "NOME": "IVETE PESSIN",
+    "EMAIL": "ivetepessin@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "IVETE "
+  },
+  {
+    "_CustomObjectKey": "2816",
+    "CPF": "14918200125",
+    "NOME": "NIVALDO MARTINS DE LIMA",
+    "EMAIL": "nivaldomlima@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NIVALDO "
+  },
+  {
+    "_CustomObjectKey": "2825",
+    "CPF": "14959261846",
+    "NOME": "PAULO RICARDO CORREA MENEGHETI",
+    "EMAIL": "paulomenegheti@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PAULO "
+  },
+  {
+    "_CustomObjectKey": "2847",
+    "CPF": "15101100110",
+    "NOME": "ARLINDO DA COSTA ALMEIDA",
+    "EMAIL": "arlindoalmeida1@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ARLINDO "
+  },
+  {
+    "_CustomObjectKey": "2854",
+    "CPF": "15132579191",
+    "NOME": "MAURINALVA COSTA LIMA",
+    "EMAIL": "maurinalva.lima@accenture.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MAURINALVA "
+  },
+  {
+    "_CustomObjectKey": "2862",
+    "CPF": "15210237869",
+    "NOME": "CINTIA VIEIRA",
+    "EMAIL": "cdvieira@jfsp.jus.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CINTIA "
+  },
+  {
+    "_CustomObjectKey": "2885",
+    "CPF": "15339318796",
+    "NOME": "ADEMAR LUIZ SEPULCRO JUNIOR",
+    "EMAIL": "luizjuniorsepulcro1@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADEMAR "
+  },
+  {
+    "_CustomObjectKey": "2895",
+    "CPF": "15394840253",
+    "NOME": "MARIA TERESA PIRES DE DEUS",
+    "EMAIL": "mtpdeus@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "2939",
+    "CPF": "15632118827",
+    "NOME": "ANGELA PEREIRA",
+    "EMAIL": "angela_montec@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANGELA "
+  },
+  {
+    "_CustomObjectKey": "2974",
+    "CPF": "15869907802",
+    "NOME": "ROSELI RODRIGUES DE OLIVEIRA",
+    "EMAIL": "bellamodas.roupas@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROSELI "
+  },
+  {
+    "_CustomObjectKey": "2985",
+    "CPF": "15977974809",
+    "NOME": "EDEVANIA APARECIDA FREIRE",
+    "EMAIL": "edvniafreire@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EDEVANIA "
+  },
+  {
+    "_CustomObjectKey": "2986",
+    "CPF": "15980537287",
+    "NOME": "FRANCISCO FERREIRA GURGEL",
+    "EMAIL": "gurgelff60@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCISCO "
+  },
+  {
+    "_CustomObjectKey": "2990",
+    "CPF": "15994271845",
+    "NOME": "MARIA APARECIDA PEPEU",
+    "EMAIL": "mariapepeu1@gamil.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "3124",
+    "CPF": "16883545816",
+    "NOME": "LEILA LIMA",
+    "EMAIL": "leilaaguiar@yahoo.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LEILA "
+  },
+  {
+    "_CustomObjectKey": "3138",
+    "CPF": "17012832800",
+    "NOME": "SOLANGE ARAUJO",
+    "EMAIL": "solangehio@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SOLANGE "
+  },
+  {
+    "_CustomObjectKey": "3159",
+    "CPF": "17141800182",
+    "NOME": "JERSON DA SILVA",
+    "EMAIL": "jersondasilva58@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JERSON "
+  },
+  {
+    "_CustomObjectKey": "3167",
+    "CPF": "17207517491",
+    "NOME": "MARILENE VENANCIO DA SILVA",
+    "EMAIL": "marilene_venancio@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARILENE "
+  },
+  {
+    "_CustomObjectKey": "3171",
+    "CPF": "17212753718",
+    "NOME": "JOANA COSTA",
+    "EMAIL": "joanamarcelina145@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOANA "
+  },
+  {
+    "_CustomObjectKey": "3187",
+    "CPF": "17314941653",
+    "NOME": "ANACLETO JOSE BAIAO",
+    "EMAIL": "ajbaiao@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANACLETO "
+  },
+  {
+    "_CustomObjectKey": "3216",
+    "CPF": "17588820420",
+    "NOME": "EDNA FERNANDES SILVERIO",
+    "EMAIL": "edna.silverios@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EDNA "
+  },
+  {
+    "_CustomObjectKey": "3225",
+    "CPF": "17676070678",
+    "NOME": "MARIA VIRGINIA ALVARES E SOUZA",
+    "EMAIL": "alvaresesouza@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "3230",
+    "CPF": "17761440743",
+    "NOME": "ABRAAO CORDEIRO",
+    "EMAIL": "abraaocordeiro3@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ABRAAO "
+  },
+  {
+    "_CustomObjectKey": "3234",
+    "CPF": "17792247880",
+    "NOME": "ANA PAULA NUNES CAMARGO DA SILVA",
+    "EMAIL": "anadaee@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "3266",
+    "CPF": "18045489871",
+    "NOME": "WILSON JOSE RIBEIRO MARTINS",
+    "EMAIL": "wilsinhoproj@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "WILSON "
+  },
+  {
+    "_CustomObjectKey": "3267",
+    "CPF": "18067817863",
+    "NOME": "CRISTINA MIOTTO",
+    "EMAIL": "chitachitachita46@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CRISTINA "
+  },
+  {
+    "_CustomObjectKey": "3285",
+    "CPF": "18145148804",
+    "NOME": "AISLAM SANTOS",
+    "EMAIL": "santosgrupo32@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AISLAM "
+  },
+  {
+    "_CustomObjectKey": "3296",
+    "CPF": "18213855191",
+    "NOME": "IVONE BORGES BARACAT",
+    "EMAIL": "ivonebaracat@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "IVONE "
+  },
+  {
+    "_CustomObjectKey": "3311",
+    "CPF": "18306013859",
+    "NOME": "LUCI ROSA SANTOS LOMANTO ALMEIDA",
+    "EMAIL": "lucilomanto87@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUCI "
+  },
+  {
+    "_CustomObjectKey": "3315",
+    "CPF": "18329918572",
+    "NOME": "PAULO ROBERTO TEIXEIRA DALTRO",
+    "EMAIL": "prtdaltro@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PAULO "
+  },
+  {
+    "_CustomObjectKey": "3321",
+    "CPF": "18365426315",
+    "NOME": "DEUSELINA RODRIGUES DA SILVA",
+    "EMAIL": "deuselinarodrigues8@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DEUSELINA "
+  },
+  {
+    "_CustomObjectKey": "3347",
+    "CPF": "18562312835",
+    "NOME": "ANNA HIROMI SOGABE",
+    "EMAIL": "kitty_sogata@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANNA "
+  },
+  {
+    "_CustomObjectKey": "3368",
+    "CPF": "18680410004",
+    "NOME": "REGIA EICHENBERG",
+    "EMAIL": "regiae@unisc.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "REGIA "
+  },
+  {
+    "_CustomObjectKey": "3375",
+    "CPF": "18734197249",
+    "NOME": "ANA MARTINS",
+    "EMAIL": "analuzia3034@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "3389",
+    "CPF": "18953891000",
+    "NOME": "ANTONIO CARLOS FRIZZO TAMBARA",
+    "EMAIL": "noemimariatambara@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANTONIO "
+  },
+  {
+    "_CustomObjectKey": "3409",
+    "CPF": "19131127304",
+    "NOME": "MONICA DODT",
+    "EMAIL": "monica_dodt@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MONICA "
+  },
+  {
+    "_CustomObjectKey": "3422",
+    "CPF": "19245343472",
+    "NOME": "SERGIO PEREIRA DE MELO FILHO",
+    "EMAIL": "complacas@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SERGIO "
+  },
+  {
+    "_CustomObjectKey": "3439",
+    "CPF": "19416474649",
+    "NOME": "ODALEA MARIA DE OLIVEIRA RIBEIRO",
+    "EMAIL": "odaleaoliveira@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ODALEA "
+  },
+  {
+    "_CustomObjectKey": "3441",
+    "CPF": "19424450672",
+    "NOME": "MARIZA DA ROCHA COSTA DE CASTRO",
+    "EMAIL": "mzcastro1928@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIZA "
+  },
+  {
+    "_CustomObjectKey": "3447",
+    "CPF": "19524889234",
+    "NOME": "RAIMUNDO CELSO PIMENTEL BORGES",
+    "EMAIL": "celsoborges140@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RAIMUNDO "
+  },
+  {
+    "_CustomObjectKey": "3510",
+    "CPF": "20000502049",
+    "NOME": "JANETE MENDONCA FRAGA",
+    "EMAIL": "mendoncajanetefagra@outlook.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JANETE "
+  },
+  {
+    "_CustomObjectKey": "3526",
+    "CPF": "20093837020",
+    "NOME": "MARIA DE LOURDES GRAPIGLIA DALLE LASTE",
+    "EMAIL": "malu.laste@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "3586",
+    "CPF": "20469691204",
+    "NOME": "MAURICIO BUENO CORREA",
+    "EMAIL": "mbuenocorrea@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MAURICIO "
+  },
+  {
+    "_CustomObjectKey": "3605",
+    "CPF": "20650507215",
+    "NOME": "SONIA LUCIA ALFAIA DE BARROS BATISTA",
+    "EMAIL": "sonialuciabarros@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SONIA "
+  },
+  {
+    "_CustomObjectKey": "3618",
+    "CPF": "20786832304",
+    "NOME": "NELSON SABINO BEZERRA FILHO",
+    "EMAIL": "seuhelio@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NELSON "
+  },
+  {
+    "_CustomObjectKey": "3623",
+    "CPF": "20880820934",
+    "NOME": "NORMA PRACZ",
+    "EMAIL": "npracz@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NORMA "
+  },
+  {
+    "_CustomObjectKey": "3634",
+    "CPF": "20969244487",
+    "NOME": "JOAO BATISTA PEIXOTO DE OMENA",
+    "EMAIL": "joao58omena@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOAO "
+  },
+  {
+    "_CustomObjectKey": "3635",
+    "CPF": "20970072600",
+    "NOME": "ERNESTO ALVARES DE CAMPOS CORDEIRO",
+    "EMAIL": "eralco65@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ERNESTO "
+  },
+  {
+    "_CustomObjectKey": "3652",
+    "CPF": "21114919691",
+    "NOME": "JOSE LUIZ DE MIRANDA",
+    "EMAIL": "demirandajl@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "3658",
+    "CPF": "21245231120",
+    "NOME": "MARIA NEUSA LIMA BATISTA",
+    "EMAIL": "m-neusa.batista@agu.gov.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "3677",
+    "CPF": "21338370359",
+    "NOME": "MARIA LUSIA RODRIGUES CAVALCANTE",
+    "EMAIL": "lusiat2011@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "3701",
+    "CPF": "21468879820",
+    "NOME": "PRISCILA AKEMI OGASAWARA SAKO",
+    "EMAIL": "prikanut@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PRISCILA "
+  },
+  {
+    "_CustomObjectKey": "3708",
+    "CPF": "21500355615",
+    "NOME": "JORGE LUIZ AVELLAR BOGARIM",
+    "EMAIL": "jbuga@terra.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JORGE "
+  },
+  {
+    "_CustomObjectKey": "3719",
+    "CPF": "21586979892",
+    "NOME": "ANA PAULA SILVA VILLARI",
+    "EMAIL": "nanavillari@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "3722",
+    "CPF": "21608624870",
+    "NOME": "EDUARDO GUIMARAES",
+    "EMAIL": "tuckeguimaraes@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EDUARDO "
+  },
+  {
+    "_CustomObjectKey": "3732",
+    "CPF": "21661951805",
+    "NOME": "INACIO SARAIVA DA SILVA FILHO",
+    "EMAIL": "inaciosar@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "INACIO "
+  },
+  {
+    "_CustomObjectKey": "3756",
+    "CPF": "21765740525",
+    "NOME": "ELIANA CARVALHO",
+    "EMAIL": "eliana.santos@planejamento.gov.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELIANA "
+  },
+  {
+    "_CustomObjectKey": "3758",
+    "CPF": "21800847149",
+    "NOME": "JOSE PEQUENO",
+    "EMAIL": "senapequeno@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "3760",
+    "CPF": "21811857949",
+    "NOME": "MOZART LUIZ VIEIRA",
+    "EMAIL": "mozartlvieira@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MOZART "
+  },
+  {
+    "_CustomObjectKey": "3793",
+    "CPF": "22052615334",
+    "NOME": "SANDRA DE OLIVEIRA HOLANDA",
+    "EMAIL": "sandraholanda3@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SANDRA "
+  },
+  {
+    "_CustomObjectKey": "3796",
+    "CPF": "22075837830",
+    "NOME": "CHRISTIANE DE FREITAS MOISES QUEIROZ",
+    "EMAIL": "christianefmk@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CHRISTIANE "
+  },
+  {
+    "_CustomObjectKey": "3803",
+    "CPF": "22110403810",
+    "NOME": "JOSEFA APARECIDA SILVA DOS SANTOS",
+    "EMAIL": "josefacidacilva2017@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSEFA "
+  },
+  {
+    "_CustomObjectKey": "3810",
+    "CPF": "22149239850",
+    "NOME": "MANUELA CAROLINE FERREIRA LIMA",
+    "EMAIL": "manuelaf001@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MANUELA "
+  },
+  {
+    "_CustomObjectKey": "3842",
+    "CPF": "22379032807",
+    "NOME": "PATRICIA GOMES PIMENTA FAVERO",
+    "EMAIL": "papimenta0982@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PATRICIA "
+  },
+  {
+    "_CustomObjectKey": "3852",
+    "CPF": "22454299828",
+    "NOME": "ANA MARIA DOS SANTOS",
+    "EMAIL": "amsantos386@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "3855",
+    "CPF": "22460748353",
+    "NOME": "MARIA JOSE PESTANA CHAVES FERREIRA",
+    "EMAIL": "mjpcf10@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "3902",
+    "CPF": "22788760310",
+    "NOME": "ANA LUCIA LIMA DA SILVA",
+    "EMAIL": "anaaranha2006@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "3909",
+    "CPF": "22849644862",
+    "NOME": "ALEXANDRE DE ASSIS DA SILVA",
+    "EMAIL": "ale.silva2012@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALEXANDRE "
+  },
+  {
+    "_CustomObjectKey": "3929",
+    "CPF": "23027363387",
+    "NOME": "FRANCISCO JOSE FREIRE GONDIM",
+    "EMAIL": "fransegondim@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCISCO "
+  },
+  {
+    "_CustomObjectKey": "3936",
+    "CPF": "23090650487",
+    "NOME": "EDILSON SEVERIANO DE MEDEIROS",
+    "EMAIL": "edilson.02@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EDILSON "
+  },
+  {
+    "_CustomObjectKey": "3970",
+    "CPF": "23391880244",
+    "NOME": "LINDA MYRIAN DE OLIVEIRA",
+    "EMAIL": "lindamyrian@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LINDA "
+  },
+  {
+    "_CustomObjectKey": "3971",
+    "CPF": "23416061802",
+    "NOME": "ANDERSON LINO DE MATOS",
+    "EMAIL": "andersonlorraynematos@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANDERSON "
+  },
+  {
+    "_CustomObjectKey": "3975",
+    "CPF": "23437251368",
+    "NOME": "MARTA EDINA CAMPELO SEGUNDO",
+    "EMAIL": "martacampel@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARTA "
+  },
+  {
+    "_CustomObjectKey": "3999",
+    "CPF": "23706783487",
+    "NOME": "MARIA DA CONCEICAO LIMA MAIA",
+    "EMAIL": "conceicaolimamaia@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "4013",
+    "CPF": "23846046272",
+    "NOME": "FRANCISCO PINHEIRO DE BARROS",
+    "EMAIL": "xikobar@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCISCO "
+  },
+  {
+    "_CustomObjectKey": "4034",
+    "CPF": "23969334268",
+    "NOME": "EMIDIO SERGIO PINHEIRO DA COSTA",
+    "EMAIL": "decassia8@bol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EMIDIO "
+  },
+  {
+    "_CustomObjectKey": "4043",
+    "CPF": "24074950391",
+    "NOME": "AFONSO CELSO PEREIRA DA SILVA",
+    "EMAIL": "afonso.acps@bps.gov.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AFONSO "
+  },
+  {
+    "_CustomObjectKey": "4050",
+    "CPF": "24133485572",
+    "NOME": "ELSON CALDAS DOS SANTOS",
+    "EMAIL": "elson.caldas@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELSON "
+  },
+  {
+    "_CustomObjectKey": "4065",
+    "CPF": "24342882000",
+    "NOME": "GISELDA CAIAFFO AMBROS",
+    "EMAIL": "gicaambros@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GISELDA "
+  },
+  {
+    "_CustomObjectKey": "4086",
+    "CPF": "24606535814",
+    "NOME": "DANIELSON GASPAR FERNANDES",
+    "EMAIL": "danifgaspar@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DANIELSON "
+  },
+  {
+    "_CustomObjectKey": "4176",
+    "CPF": "25186476862",
+    "NOME": "ROBERTA VASQUES",
+    "EMAIL": "robertavasques@correios.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROBERTA "
+  },
+  {
+    "_CustomObjectKey": "4190",
+    "CPF": "25288360820",
+    "NOME": "MARCEL FORSTER TERENCE",
+    "EMAIL": "marcelterence@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCEL "
+  },
+  {
+    "_CustomObjectKey": "4192",
+    "CPF": "25299115920",
+    "NOME": "GERALDO VALLE",
+    "EMAIL": "geraldovallee@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GERALDO "
+  },
+  {
+    "_CustomObjectKey": "4194",
+    "CPF": "25306180892",
+    "NOME": "ALEXANDRO MARIANO DA SILVA",
+    "EMAIL": "alexmarianosilva@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALEXANDRO "
+  },
+  {
+    "_CustomObjectKey": "4198",
+    "CPF": "25327607968",
+    "NOME": "KARIN LEITZKE",
+    "EMAIL": "karinleitzke30@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "KARIN "
+  },
+  {
+    "_CustomObjectKey": "4209",
+    "CPF": "25429969893",
+    "NOME": "CLEUSA APARECIDA DUARTE DA COSTA",
+    "EMAIL": "cleusaaduarte@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CLEUSA "
+  },
+  {
+    "_CustomObjectKey": "4231",
+    "CPF": "25580060378",
+    "NOME": "JOAO DAVID VERAS JUNIOR",
+    "EMAIL": "jrveras@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOAO "
+  },
+  {
+    "_CustomObjectKey": "4234",
+    "CPF": "25585037668",
+    "NOME": "SILAS SANTOS",
+    "EMAIL": "silassantos50@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SILAS "
+  },
+  {
+    "_CustomObjectKey": "4238",
+    "CPF": "25614484876",
+    "NOME": "JULIANA MACHADO",
+    "EMAIL": "jliana-m2013@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JULIANA "
+  },
+  {
+    "_CustomObjectKey": "4246",
+    "CPF": "25663700870",
+    "NOME": "AGNALDO SANTOS",
+    "EMAIL": "agnaldosanguebom@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AGNALDO "
+  },
+  {
+    "_CustomObjectKey": "4290",
+    "CPF": "26057315880",
+    "NOME": "EDIVALDO KENJI HIROTUCA",
+    "EMAIL": "eddiedica@outlook.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EDIVALDO "
+  },
+  {
+    "_CustomObjectKey": "4312",
+    "CPF": "26240033120",
+    "NOME": "LUIZ ZANELLA",
+    "EMAIL": "emanuellezanella@terra.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUIZ "
+  },
+  {
+    "_CustomObjectKey": "4334",
+    "CPF": "26455357809",
+    "NOME": "AQUILA ALVES DA SILVA PANTOJA",
+    "EMAIL": "aquilaalvespantoja@prsp.mpf.gov.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AQUILA "
+  },
+  {
+    "_CustomObjectKey": "4367",
+    "CPF": "26770695553",
+    "NOME": "MANOEL LUIZ OLIVEIRA SALES DE CAMPOS",
+    "EMAIL": "manoelcamposlukito@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MANOEL "
+  },
+  {
+    "_CustomObjectKey": "4368",
+    "CPF": "26784564391",
+    "NOME": "LOURIVAL RODRIGUES PORTELA JUNIOR",
+    "EMAIL": "portellajunior@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LOURIVAL "
+  },
+  {
+    "_CustomObjectKey": "4369",
+    "CPF": "26795703835",
+    "NOME": "ERICA REGINA DOS SANTOS DA SILVA",
+    "EMAIL": "ericaregin@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ERICA "
+  },
+  {
+    "_CustomObjectKey": "4405",
+    "CPF": "27079058520",
+    "NOME": "PEDRO FIGUEIREDO DOS SANTOS FILHO",
+    "EMAIL": "pedrofgrdo@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PEDRO "
+  },
+  {
+    "_CustomObjectKey": "4412",
+    "CPF": "27148838851",
+    "NOME": "RITA DE CASSIA ALVES DE ARAUJO",
+    "EMAIL": "ritalaryelora@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RITA "
+  },
+  {
+    "_CustomObjectKey": "4416",
+    "CPF": "27196584805",
+    "NOME": "YARA THEOPHILO",
+    "EMAIL": "yara.lms@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "YARA "
+  },
+  {
+    "_CustomObjectKey": "4423",
+    "CPF": "27232204272",
+    "NOME": "LUZIA DINORA VIEIRA AUGUSTO DOS SANTOS",
+    "EMAIL": "dinoraopo@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUZIA "
+  },
+  {
+    "_CustomObjectKey": "4478",
+    "CPF": "27634432814",
+    "NOME": "FERNANDO DA SILVA KOMURA",
+    "EMAIL": "fernando.komura@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FERNANDO "
+  },
+  {
+    "_CustomObjectKey": "4500",
+    "CPF": "27718506053",
+    "NOME": "ELIDA LIONCO",
+    "EMAIL": "elidali@ig.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELIDA "
+  },
+  {
+    "_CustomObjectKey": "4510",
+    "CPF": "27784037015",
+    "NOME": "VILMAR TEDESCO",
+    "EMAIL": "vilmar@mga.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VILMAR "
+  },
+  {
+    "_CustomObjectKey": "4515",
+    "CPF": "27808750387",
+    "NOME": "MANOEL NONATO DE SOUZA",
+    "EMAIL": "mnsn25@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MANOEL "
+  },
+  {
+    "_CustomObjectKey": "4519",
+    "CPF": "27837394453",
+    "NOME": "CELIA LUCENA DOS SANTOS",
+    "EMAIL": "adilabatista3@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CELIA "
+  },
+  {
+    "_CustomObjectKey": "4522",
+    "CPF": "27850684672",
+    "NOME": "DORA LUCIA FORTINI",
+    "EMAIL": "dora.fortini@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DORA "
+  },
+  {
+    "_CustomObjectKey": "4525",
+    "CPF": "27880940278",
+    "NOME": "MARLY SOARES DA COSTA",
+    "EMAIL": "marlycosta@ifma.edu.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARLY "
+  },
+  {
+    "_CustomObjectKey": "4526",
+    "CPF": "27890075863",
+    "NOME": "MARCOS MASSAKAZU NISHIMORI",
+    "EMAIL": "jpamori@htomail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCOS "
+  },
+  {
+    "_CustomObjectKey": "4527",
+    "CPF": "27890700830",
+    "NOME": "RENATA FRANCA MARTINS DE OLIVEIRA",
+    "EMAIL": "renata.fmoliveira@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RENATA "
+  },
+  {
+    "_CustomObjectKey": "4535",
+    "CPF": "27942554368",
+    "NOME": "MARIA DO PERPETUO SOCORRO RIBEIRO MENDONCA",
+    "EMAIL": "socorrocoroata@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "4539",
+    "CPF": "27955244818",
+    "NOME": "KELEN CRISTINA CRUZ",
+    "EMAIL": "kelenkra@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "KELEN "
+  },
+  {
+    "_CustomObjectKey": "4542",
+    "CPF": "27966020444",
+    "NOME": "GEOVANE DA SILVA BRITO",
+    "EMAIL": "geovane73@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GEOVANE "
+  },
+  {
+    "_CustomObjectKey": "4547",
+    "CPF": "27999777668",
+    "NOME": "JOSELIA CANDIDA DA CUNHA MAURICIO",
+    "EMAIL": "joseliacandida@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSELIA "
+  },
+  {
+    "_CustomObjectKey": "4571",
+    "CPF": "28168240120",
+    "NOME": "ROBERTO DOS SANTOS FERNANDES",
+    "EMAIL": "robertoprojetohistoria@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROBERTO "
+  },
+  {
+    "_CustomObjectKey": "4593",
+    "CPF": "28284359898",
+    "NOME": "REGINA LUCIA SOARES DA SILVA",
+    "EMAIL": "reginalucia1101@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "REGINA "
+  },
+  {
+    "_CustomObjectKey": "4605",
+    "CPF": "28402634320",
+    "NOME": "FRANCISCO JOSE OLIVEIRA DE ARAUJO",
+    "EMAIL": "franze_araujo@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCISCO "
+  },
+  {
+    "_CustomObjectKey": "4609",
+    "CPF": "28434501520",
+    "NOME": "CELESTE MARIA SOTELO FRANCA",
+    "EMAIL": "sotelo_celeste@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CELESTE "
+  },
+  {
+    "_CustomObjectKey": "4631",
+    "CPF": "28670487888",
+    "NOME": "ATANAELMA ALMEIDA SIMAS",
+    "EMAIL": "atanaelma@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ATANAELMA "
+  },
+  {
+    "_CustomObjectKey": "4653",
+    "CPF": "28809146808",
+    "NOME": "MARCOS YUTAKA SHIINO",
+    "EMAIL": "marcosshiino@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCOS "
+  },
+  {
+    "_CustomObjectKey": "4654",
+    "CPF": "28824927823",
+    "NOME": "ALTAIR ALVES DE MACEDO",
+    "EMAIL": "altair.alt@ig.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALTAIR "
+  },
+  {
+    "_CustomObjectKey": "4663",
+    "CPF": "28868606895",
+    "NOME": "VANESSA CAROLINE DE CAMARGO TRISTAO",
+    "EMAIL": "vanessa.tristao@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VANESSA "
+  },
+  {
+    "_CustomObjectKey": "4668",
+    "CPF": "28909062053",
+    "NOME": "SONIA REGINA LOPES DA SILVA",
+    "EMAIL": "soniasrlssilva@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SONIA "
+  },
+  {
+    "_CustomObjectKey": "4678",
+    "CPF": "28966252672",
+    "NOME": "MARIA VIEIRA",
+    "EMAIL": "mariafatima.ovieira@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "4690",
+    "CPF": "29018676934",
+    "NOME": "FRANCISCO JAIME GOMES",
+    "EMAIL": "franciscojaimegomes@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCISCO "
+  },
+  {
+    "_CustomObjectKey": "4695",
+    "CPF": "29053418822",
+    "NOME": "VALERIA IVERS GACHET BARBOSA",
+    "EMAIL": "vaiversgachet@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VALERIA "
+  },
+  {
+    "_CustomObjectKey": "4716",
+    "CPF": "29189388828",
+    "NOME": "ALINE FERNANDA FERREIRA",
+    "EMAIL": "alineferreira05@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALINE "
+  },
+  {
+    "_CustomObjectKey": "4764",
+    "CPF": "29585703807",
+    "NOME": "DANIELA CERQUEIRA LEITE BELLO",
+    "EMAIL": "danbelloc@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DANIELA "
+  },
+  {
+    "_CustomObjectKey": "4773",
+    "CPF": "29692311821",
+    "NOME": "DANILO DE OLIVEIRA GARCIA",
+    "EMAIL": "dogarcia@ibest.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DANILO "
+  },
+  {
+    "_CustomObjectKey": "4777",
+    "CPF": "29724910091",
+    "NOME": "ANA MARIA DA SILVEIRA TEIXEIRA",
+    "EMAIL": "anamariasilveirateixeira@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "4785",
+    "CPF": "29775310920",
+    "NOME": "PAULO HENZ",
+    "EMAIL": "pauloh.ph@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PAULO "
+  },
+  {
+    "_CustomObjectKey": "4808",
+    "CPF": "29974186900",
+    "NOME": "MOACIR MIOR",
+    "EMAIL": "moacirmior@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MOACIR "
+  },
+  {
+    "_CustomObjectKey": "4822",
+    "CPF": "30076811034",
+    "NOME": "LUIZ FERNANDO DE OLIVEIRA",
+    "EMAIL": "luizfernandodeoliveira03@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUIZ "
+  },
+  {
+    "_CustomObjectKey": "4824",
+    "CPF": "30094393850",
+    "NOME": "UMBELINA IZILDA DE CARVALHO SANTOS",
+    "EMAIL": "linaizilda.carvalho@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "UMBELINA "
+  },
+  {
+    "_CustomObjectKey": "4825",
+    "CPF": "30097579807",
+    "NOME": "CHARLES ALBERT GOMES FERREIRA",
+    "EMAIL": "albert.pc.net@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CHARLES "
+  },
+  {
+    "_CustomObjectKey": "4832",
+    "CPF": "30155266934",
+    "NOME": "ALTINO CARLOS BORGES RODRIGUES",
+    "EMAIL": "acarlos.borgesrodrigues44@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALTINO "
+  },
+  {
+    "_CustomObjectKey": "4848",
+    "CPF": "30248564803",
+    "NOME": "PAULA GONZALEZ DA ROSA",
+    "EMAIL": "paula.darosa@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PAULA "
+  },
+  {
+    "_CustomObjectKey": "4856",
+    "CPF": "30332737004",
+    "NOME": "IRINEU LUDTKE",
+    "EMAIL": "ludtkeirineu@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "IRINEU "
+  },
+  {
+    "_CustomObjectKey": "4866",
+    "CPF": "30437873404",
+    "NOME": "VINA LUCIA CARVALHO RIBEIRO",
+    "EMAIL": "vinaribeiro@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VINA "
+  },
+  {
+    "_CustomObjectKey": "4886",
+    "CPF": "30572240163",
+    "NOME": "MARA IGLAIR ELIAS ARECO",
+    "EMAIL": "maracorretora25@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARA "
+  },
+  {
+    "_CustomObjectKey": "4895",
+    "CPF": "30699937884",
+    "NOME": "RODRIGO HIDEHARU KATO",
+    "EMAIL": "rk.gtierp@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RODRIGO "
+  },
+  {
+    "_CustomObjectKey": "4898",
+    "CPF": "30714516449",
+    "NOME": "RICARDO WILLIAN DA SILVA",
+    "EMAIL": "rwilliansilva@bol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RICARDO "
+  },
+  {
+    "_CustomObjectKey": "4928",
+    "CPF": "30922542449",
+    "NOME": "VALDICELIO WANDERLEY E SILVA",
+    "EMAIL": "lilicelio@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VALDICELIO "
+  },
+  {
+    "_CustomObjectKey": "4987",
+    "CPF": "31349986968",
+    "NOME": "IEDA GOMES",
+    "EMAIL": "iadah@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "IEDA "
+  },
+  {
+    "_CustomObjectKey": "4988",
+    "CPF": "31361641487",
+    "NOME": "ILZA MONICA DE ARAUJO STADLER",
+    "EMAIL": "ima0211@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ILZA "
+  },
+  {
+    "_CustomObjectKey": "4998",
+    "CPF": "31444745840",
+    "NOME": "KELLY APARECIDA DE SOUZA",
+    "EMAIL": "aaparecida2011@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "KELLY "
+  },
+  {
+    "_CustomObjectKey": "5004",
+    "CPF": "31499314876",
+    "NOME": "DIEGO COSTA MARTINS",
+    "EMAIL": "diegocosta.m@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DIEGO "
+  },
+  {
+    "_CustomObjectKey": "5012",
+    "CPF": "31543375391",
+    "NOME": "FRANCISCO ROBERIO MONTEIRO TAVARES",
+    "EMAIL": "frmtavares25@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCISCO "
+  },
+  {
+    "_CustomObjectKey": "5036",
+    "CPF": "31775586120",
+    "NOME": "ELOA DE CARVALHO LOURENCO",
+    "EMAIL": "eloafamiliacarvalho@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELOA "
+  },
+  {
+    "_CustomObjectKey": "5041",
+    "CPF": "31813534934",
+    "NOME": "DEUSUITA LYRIO",
+    "EMAIL": "deusuita2015@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DEUSUITA "
+  },
+  {
+    "_CustomObjectKey": "5052",
+    "CPF": "31959526880",
+    "NOME": "LETICIA MAJUSTE",
+    "EMAIL": "leticiammajuste@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LETICIA "
+  },
+  {
+    "_CustomObjectKey": "5072",
+    "CPF": "32126601803",
+    "NOME": "MARCUS VINICIUS MARIANO DE SOUZA",
+    "EMAIL": "marcusjaba@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCUS "
+  },
+  {
+    "_CustomObjectKey": "5082",
+    "CPF": "32286430268",
+    "NOME": "ELISANGELA AMORIM MENDONCA",
+    "EMAIL": "elisangelamendona@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELISANGELA "
+  },
+  {
+    "_CustomObjectKey": "5105",
+    "CPF": "32492570797",
+    "NOME": "NELSON TEIXEIRA DE CASTRO",
+    "EMAIL": "nelson.texeira@terra.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NELSON "
+  },
+  {
+    "_CustomObjectKey": "5106",
+    "CPF": "32497997187",
+    "NOME": "ROSEMARIA PEREIRA",
+    "EMAIL": "rosemariacpereira@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROSEMARIA "
+  },
+  {
+    "_CustomObjectKey": "5115",
+    "CPF": "32553714653",
+    "NOME": "WANESSA DE ALMEIDA COSTA",
+    "EMAIL": "wanessa59@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "WANESSA "
+  },
+  {
+    "_CustomObjectKey": "5120",
+    "CPF": "32577788134",
+    "NOME": "TEREZINHA IZABEL BRIZOT",
+    "EMAIL": "terebrizot@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TEREZINHA "
+  },
+  {
+    "_CustomObjectKey": "5127",
+    "CPF": "32654006387",
+    "NOME": "RAIMUNDO LUIZ DOS SANTOS",
+    "EMAIL": "velkarlocadora@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RAIMUNDO "
+  },
+  {
+    "_CustomObjectKey": "5133",
+    "CPF": "32678576272",
+    "NOME": "LEONI PEREIRA GOMES",
+    "EMAIL": "leoni_dayane@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LEONI "
+  },
+  {
+    "_CustomObjectKey": "5143",
+    "CPF": "32758820315",
+    "NOME": "EDILEUZA FERNANDES CHAVES",
+    "EMAIL": "edileuzachaves@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EDILEUZA "
+  },
+  {
+    "_CustomObjectKey": "5154",
+    "CPF": "32848277653",
+    "NOME": "AUSIER PENHOLATI",
+    "EMAIL": "ausier@globo.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AUSIER "
+  },
+  {
+    "_CustomObjectKey": "5166",
+    "CPF": "32927508810",
+    "NOME": "MARCELO AIOBER COSTA",
+    "EMAIL": "marceloaiober@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCELO "
+  },
+  {
+    "_CustomObjectKey": "5192",
+    "CPF": "33159272869",
+    "NOME": "ANTONIO CARLOS DOS SANTOS FERREIRA",
+    "EMAIL": "carlosantonio8064@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANTONIO "
+  },
+  {
+    "_CustomObjectKey": "5200",
+    "CPF": "33221847068",
+    "NOME": "ROSA MARIA WYPYSZYNSKI",
+    "EMAIL": "rosamaria.wypy@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROSA "
+  },
+  {
+    "_CustomObjectKey": "5210",
+    "CPF": "33335998804",
+    "NOME": "ELCEN NOCERA SIMAO",
+    "EMAIL": "enocera@uol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELCEN "
+  },
+  {
+    "_CustomObjectKey": "5223",
+    "CPF": "33449740334",
+    "NOME": "EVANDRO CRUZ",
+    "EMAIL": "cruz2010ferreira@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EVANDRO "
+  },
+  {
+    "_CustomObjectKey": "5238",
+    "CPF": "33561620809",
+    "NOME": "TALLES GONCALVES DA COSTA",
+    "EMAIL": "marcelaenetinho@terra.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TALLES "
+  },
+  {
+    "_CustomObjectKey": "5240",
+    "CPF": "33565961015",
+    "NOME": "DENISE ANTUNES CROSSETTI",
+    "EMAIL": "dacrossetti@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DENISE "
+  },
+  {
+    "_CustomObjectKey": "5245",
+    "CPF": "33613087715",
+    "NOME": "JOEL CARMO DA FRANCA",
+    "EMAIL": "joeldefranca@uol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOEL "
+  },
+  {
+    "_CustomObjectKey": "5255",
+    "CPF": "33707324168",
+    "NOME": "NEUZA VENANCIA DA SILVA",
+    "EMAIL": "gustavovm_@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NEUZA "
+  },
+  {
+    "_CustomObjectKey": "5266",
+    "CPF": "33768526852",
+    "NOME": "MARIA BEATRIZ DE ARRUDA FULAN",
+    "EMAIL": "biafulan@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "5276",
+    "CPF": "33865698972",
+    "NOME": "LEOCADIA DE OLIVEIRA MENDES",
+    "EMAIL": "leocadiamendes@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LEOCADIA "
+  },
+  {
+    "_CustomObjectKey": "5279",
+    "CPF": "33893496858",
+    "NOME": "RAFAEL JUNIOR OLIVEIRA",
+    "EMAIL": "rafael_lars@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RAFAEL "
+  },
+  {
+    "_CustomObjectKey": "5294",
+    "CPF": "34005454810",
+    "NOME": "MONISE PANOSSO GALANTE",
+    "EMAIL": "m0nise@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MONISE "
+  },
+  {
+    "_CustomObjectKey": "5296",
+    "CPF": "34014403300",
+    "NOME": "ANTONIO CLEVES BARBOSA E SILVA",
+    "EMAIL": "cleves_barbosa@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANTONIO "
+  },
+  {
+    "_CustomObjectKey": "5330",
+    "CPF": "34290958320",
+    "NOME": "JOSIFRAN VIEIRA",
+    "EMAIL": "jmarinho404@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSIFRAN "
+  },
+  {
+    "_CustomObjectKey": "5335",
+    "CPF": "34319573404",
+    "NOME": "LUIZ SALES",
+    "EMAIL": "luizhbsales@uol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUIZ "
+  },
+  {
+    "_CustomObjectKey": "5349",
+    "CPF": "34415547877",
+    "NOME": "CRISTIANO GERALDO MAXIMO",
+    "EMAIL": "ccrismaximo86@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CRISTIANO "
+  },
+  {
+    "_CustomObjectKey": "5361",
+    "CPF": "34493652829",
+    "NOME": "SIDINEIA REIS CASTRO",
+    "EMAIL": "lili_neia@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SIDINEIA "
+  },
+  {
+    "_CustomObjectKey": "5372",
+    "CPF": "34587667587",
+    "NOME": "NOE JOAO DOS SANTOS",
+    "EMAIL": "noesantos65@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NOE "
+  },
+  {
+    "_CustomObjectKey": "5379",
+    "CPF": "34632719668",
+    "NOME": "LUISA GUERRERO",
+    "EMAIL": "luisaroqueguerrero@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUISA "
+  },
+  {
+    "_CustomObjectKey": "5397",
+    "CPF": "34813783864",
+    "NOME": "MONICA GOMES DE SOUSA",
+    "EMAIL": "qualidade_@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MONICA "
+  },
+  {
+    "_CustomObjectKey": "5402",
+    "CPF": "34849278876",
+    "NOME": "PAULO EMILIO BONACIN",
+    "EMAIL": "paulobonacin@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PAULO "
+  },
+  {
+    "_CustomObjectKey": "5428",
+    "CPF": "35100764864",
+    "NOME": "RITA MARIA SANTANA DA COSTA",
+    "EMAIL": "ritasantana530@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RITA "
+  },
+  {
+    "_CustomObjectKey": "5440",
+    "CPF": "35187443801",
+    "NOME": "LETICIA MARIA MELENCHION",
+    "EMAIL": "mleticia@policiamilitar.sp.gov.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LETICIA "
+  },
+  {
+    "_CustomObjectKey": "5443",
+    "CPF": "35197404604",
+    "NOME": "JUSCELINO OLIVEIRA",
+    "EMAIL": "juscelinogo@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JUSCELINO "
+  },
+  {
+    "_CustomObjectKey": "5462",
+    "CPF": "35340592120",
+    "NOME": "IRANY FRANCISCA MELO DE SOUZA",
+    "EMAIL": "irany.fms@outlook.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "IRANY "
+  },
+  {
+    "_CustomObjectKey": "5466",
+    "CPF": "35358840559",
+    "NOME": "ROSANGELA SOARES NERES",
+    "EMAIL": "roneres28@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROSANGELA "
+  },
+  {
+    "_CustomObjectKey": "5476",
+    "CPF": "35490390778",
+    "NOME": "JULIETA DE CARVALHO COSTA FANELLI",
+    "EMAIL": "silmaracbarros@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JULIETA "
+  },
+  {
+    "_CustomObjectKey": "5478",
+    "CPF": "35497527841",
+    "NOME": "ADENILSON ALVES DOS SANTOS SOUZA",
+    "EMAIL": "nenerivaldo@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADENILSON "
+  },
+  {
+    "_CustomObjectKey": "5481",
+    "CPF": "35535504653",
+    "NOME": "MONICA DE FATIMA DINIZ",
+    "EMAIL": "monica.f.diniz@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MONICA "
+  },
+  {
+    "_CustomObjectKey": "5490",
+    "CPF": "35610436826",
+    "NOME": "LUCIANA CRISTINA CASO",
+    "EMAIL": "luciana_caso@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUCIANA "
+  },
+  {
+    "_CustomObjectKey": "5491",
+    "CPF": "35621923200",
+    "NOME": "EDINALDO MACIEL DE CRISTO",
+    "EMAIL": "edinaldodecristo9@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EDINALDO "
+  },
+  {
+    "_CustomObjectKey": "5501",
+    "CPF": "35705485115",
+    "NOME": "NIVANA ROQUE MONTEIRO",
+    "EMAIL": "nivanamonteiro@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NIVANA "
+  },
+  {
+    "_CustomObjectKey": "5512",
+    "CPF": "35796472615",
+    "NOME": "RICARDO LUIZ CAMPOS",
+    "EMAIL": "ricardocampos06@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RICARDO "
+  },
+  {
+    "_CustomObjectKey": "5516",
+    "CPF": "35834307515",
+    "NOME": "RILDO SINFRONIO DA SILVA",
+    "EMAIL": "rildo.s.silva@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RILDO "
+  },
+  {
+    "_CustomObjectKey": "5523",
+    "CPF": "35863102691",
+    "NOME": "MARIA DO ROSARIO SANTOS SANCHEZ",
+    "EMAIL": "mrssanchez@sabesp.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "5544",
+    "CPF": "36032050491",
+    "NOME": "ALVARO AUGUSTO CAMPOS",
+    "EMAIL": "alvaroaugustocampos@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALVARO "
+  },
+  {
+    "_CustomObjectKey": "5575",
+    "CPF": "36262609920",
+    "NOME": "ILDA YASSUKO KIKUCHI ABREU",
+    "EMAIL": "ilykabreu@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ILDA "
+  },
+  {
+    "_CustomObjectKey": "5585",
+    "CPF": "36381217049",
+    "NOME": "SANDRA DALVA LAIMER",
+    "EMAIL": "slaimer14@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SANDRA "
+  },
+  {
+    "_CustomObjectKey": "5591",
+    "CPF": "36416509768",
+    "NOME": "JANETE ANASTACIO PROCOPIO",
+    "EMAIL": "deteniniz@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JANETE "
+  },
+  {
+    "_CustomObjectKey": "5594",
+    "CPF": "36447786801",
+    "NOME": "DIEGO HENRIQUE ROSSI",
+    "EMAIL": "diego_biorossi@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DIEGO "
+  },
+  {
+    "_CustomObjectKey": "5596",
+    "CPF": "36469555896",
+    "NOME": "ANDREIA APARECIDA DE ARAUJO",
+    "EMAIL": "andreiaaraujo116@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANDREIA "
+  },
+  {
+    "_CustomObjectKey": "5607",
+    "CPF": "36543264802",
+    "NOME": "TATIANA SILVA",
+    "EMAIL": "thyanadiastro@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TATIANA "
+  },
+  {
+    "_CustomObjectKey": "5608",
+    "CPF": "36551331890",
+    "NOME": "JAQUELINE APARECIDA FERREIRA DA SILVA",
+    "EMAIL": "jaquesilvaadm@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JAQUELINE "
+  },
+  {
+    "_CustomObjectKey": "5657",
+    "CPF": "36972489873",
+    "NOME": "FABIANA ALVES BARBOSA SANTOS",
+    "EMAIL": "fabiana.a.b@live.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FABIANA "
+  },
+  {
+    "_CustomObjectKey": "5699",
+    "CPF": "37399848807",
+    "NOME": "PRISCILLA GAGLIARDI DONATO",
+    "EMAIL": "priscilla_gagliardi@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PRISCILLA "
+  },
+  {
+    "_CustomObjectKey": "5701",
+    "CPF": "37418610734",
+    "NOME": "FRANCISCO FERREIRA DA SILVA",
+    "EMAIL": "franciscoferreiradas@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCISCO "
+  },
+  {
+    "_CustomObjectKey": "5723",
+    "CPF": "37593447553",
+    "NOME": "CARMO NUNES DE SOUZA",
+    "EMAIL": "baumarceneiro@live.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CARMO "
+  },
+  {
+    "_CustomObjectKey": "5738",
+    "CPF": "37706691420",
+    "NOME": "SONIA COSTA",
+    "EMAIL": "sonia_melo45@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SONIA "
+  },
+  {
+    "_CustomObjectKey": "5773",
+    "CPF": "38101742700",
+    "NOME": "DELIO MADEIRA MELLO",
+    "EMAIL": "deliomacae@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DELIO "
+  },
+  {
+    "_CustomObjectKey": "5790",
+    "CPF": "38271346768",
+    "NOME": "MARIA DO CEU MOUTINHO DA COSTA",
+    "EMAIL": "mariadoceumc@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "5807",
+    "CPF": "38489265801",
+    "NOME": "ANA LEAL",
+    "EMAIL": "ana.medeirosleal@outlook.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "5814",
+    "CPF": "38535882987",
+    "NOME": "NEUZETE HENRIQUE",
+    "EMAIL": "zeteschmidt123@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NEUZETE "
+  },
+  {
+    "_CustomObjectKey": "5815",
+    "CPF": "38540150700",
+    "NOME": "BRUNO ALVES DE CASTRO",
+    "EMAIL": "brunomarini@uol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "BRUNO "
+  },
+  {
+    "_CustomObjectKey": "5842",
+    "CPF": "38745259100",
+    "NOME": "SIMONE SOUZA AMORIM",
+    "EMAIL": "simone@ilion.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SIMONE "
+  },
+  {
+    "_CustomObjectKey": "5846",
+    "CPF": "38794853134",
+    "NOME": "INES CHENET",
+    "EMAIL": "inchenet@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "INES "
+  },
+  {
+    "_CustomObjectKey": "5871",
+    "CPF": "39033368153",
+    "NOME": "ANA LUIZA OLIVEIRA SILVA",
+    "EMAIL": "adv.analuz@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "5882",
+    "CPF": "39198669753",
+    "NOME": "RHODSON FERREIRA DA SILVA",
+    "EMAIL": "rhodsonferreira@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RHODSON "
+  },
+  {
+    "_CustomObjectKey": "5887",
+    "CPF": "39216080400",
+    "NOME": "MARIA HELENA DA SILVA SOARES",
+    "EMAIL": "tendencias.l@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "5889",
+    "CPF": "39228010649",
+    "NOME": "REGINA DE ABREU VIANNA",
+    "EMAIL": "reginajjs@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "REGINA "
+  },
+  {
+    "_CustomObjectKey": "5898",
+    "CPF": "39329062091",
+    "NOME": "EUNICE MONTEIRO SANTOS",
+    "EMAIL": "santosmonteiroeunice@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EUNICE "
+  },
+  {
+    "_CustomObjectKey": "5906",
+    "CPF": "39386376687",
+    "NOME": "ALICE AMARAL DA SILVA",
+    "EMAIL": "alicesnatura@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALICE "
+  },
+  {
+    "_CustomObjectKey": "5907",
+    "CPF": "39413098620",
+    "NOME": "LUCIANA MARTINS RODRIGUES",
+    "EMAIL": "lucianajunho@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUCIANA "
+  },
+  {
+    "_CustomObjectKey": "5914",
+    "CPF": "39500020491",
+    "NOME": "MAGDIEL INACIO RODRIGUES",
+    "EMAIL": "rodrigues_magui@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MAGDIEL "
+  },
+  {
+    "_CustomObjectKey": "5929",
+    "CPF": "39623955634",
+    "NOME": "MARIA LUIZA ROBERTO",
+    "EMAIL": "mlrobertto@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "5948",
+    "CPF": "39842908291",
+    "NOME": "MARIA SOCORRO SILVA TEIXEIRA",
+    "EMAIL": "teixeira.socorro@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "5964",
+    "CPF": "40040453987",
+    "NOME": "RUBENS ANTONIO PIVOTTO",
+    "EMAIL": "rubensapivotto22@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RUBENS "
+  },
+  {
+    "_CustomObjectKey": "5970",
+    "CPF": "40080170625",
+    "NOME": "BALTAZAR MENDES DE CARVALHO",
+    "EMAIL": "bmcarvalhos@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "BALTAZAR "
+  },
+  {
+    "_CustomObjectKey": "5975",
+    "CPF": "40152364838",
+    "NOME": "DANILO MENDES RODRIGUES",
+    "EMAIL": "danilo.m.ds@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DANILO "
+  },
+  {
+    "_CustomObjectKey": "5985",
+    "CPF": "40310027934",
+    "NOME": "KATIA REGINA VIEIRA DIAS",
+    "EMAIL": "katiadias.dias@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "KATIA "
+  },
+  {
+    "_CustomObjectKey": "5998",
+    "CPF": "40418383987",
+    "NOME": "NICOLAU JOSE EL TAUIL",
+    "EMAIL": "nicolau.tauil@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NICOLAU "
+  },
+  {
+    "_CustomObjectKey": "6002",
+    "CPF": "40447952315",
+    "NOME": "ANTONIO DE PADUA COELHO BARBOSA",
+    "EMAIL": "padua_coelho@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANTONIO "
+  },
+  {
+    "_CustomObjectKey": "6012",
+    "CPF": "40529333899",
+    "NOME": "DANIELE APARECIDA PEREIRA DE OLIVEIRA",
+    "EMAIL": "danieleaparecida58@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DANIELE "
+  },
+  {
+    "_CustomObjectKey": "6080",
+    "CPF": "41258207320",
+    "NOME": "ROGERIO CAMPOS ROCHA",
+    "EMAIL": "rogericamposrocha@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROGERIO "
+  },
+  {
+    "_CustomObjectKey": "6104",
+    "CPF": "41538048787",
+    "NOME": "FRANCISCO MARTINS PEREIRA",
+    "EMAIL": "franciscofmp55@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCISCO "
+  },
+  {
+    "_CustomObjectKey": "6127",
+    "CPF": "41780434987",
+    "NOME": "IVONETE RODRIGUES",
+    "EMAIL": "elisapac10@outlook.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "IVONETE "
+  },
+  {
+    "_CustomObjectKey": "6151",
+    "CPF": "42077109300",
+    "NOME": "EDILBERTO DE FREITAS MOREIRA",
+    "EMAIL": "edilberto.moreira@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EDILBERTO "
+  },
+  {
+    "_CustomObjectKey": "6152",
+    "CPF": "42081076934",
+    "NOME": "JADE JOSE CARVALHO DE OLIVEIRA",
+    "EMAIL": "jade.seca@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JADE "
+  },
+  {
+    "_CustomObjectKey": "6162",
+    "CPF": "42135427934",
+    "NOME": "DILSON KOHLER",
+    "EMAIL": "dikohler@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DILSON "
+  },
+  {
+    "_CustomObjectKey": "6172",
+    "CPF": "42234794072",
+    "NOME": "ROSANGELA INES WAYHS",
+    "EMAIL": "wayhsri@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROSANGELA "
+  },
+  {
+    "_CustomObjectKey": "6174",
+    "CPF": "42237076391",
+    "NOME": "MONICA SAMPAIO MENDES SILVA",
+    "EMAIL": "monicasmsilva@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MONICA "
+  },
+  {
+    "_CustomObjectKey": "6190",
+    "CPF": "42389020925",
+    "NOME": "JAIME BECKER OENING",
+    "EMAIL": "jaimemoveis@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JAIME "
+  },
+  {
+    "_CustomObjectKey": "6199",
+    "CPF": "42464641715",
+    "NOME": "TANIA CORDEIRO VARJAO",
+    "EMAIL": "taniacvarjao@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TANIA "
+  },
+  {
+    "_CustomObjectKey": "6207",
+    "CPF": "42548012620",
+    "NOME": "EDNA DUARTE PRAZERES DOS SANTOS",
+    "EMAIL": "ednaduarteprazeres@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EDNA "
+  },
+  {
+    "_CustomObjectKey": "6214",
+    "CPF": "42658683634",
+    "NOME": "DEODATO FRANCISCO SOBRAL",
+    "EMAIL": "deodatosobral@bol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DEODATO "
+  },
+  {
+    "_CustomObjectKey": "6222",
+    "CPF": "42794129600",
+    "NOME": "MARCELO DE OLIVEIRA MALUF",
+    "EMAIL": "marcelololiveiramaluf@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCELO "
+  },
+  {
+    "_CustomObjectKey": "6224",
+    "CPF": "42816262200",
+    "NOME": "DALVA HELENE DA SILVA ALBUQUERQUE",
+    "EMAIL": "dalva.helene@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DALVA "
+  },
+  {
+    "_CustomObjectKey": "6229",
+    "CPF": "42840244691",
+    "NOME": "MARISA ANDRADE",
+    "EMAIL": "marisacandrade59@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARISA "
+  },
+  {
+    "_CustomObjectKey": "6233",
+    "CPF": "42896347020",
+    "NOME": "HUMBERTO SANDRINI DE MENEZES",
+    "EMAIL": "sandrinihm@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "HUMBERTO "
+  },
+  {
+    "_CustomObjectKey": "6250",
+    "CPF": "43038768871",
+    "NOME": "VITORIA DE FARIA COUTINHO",
+    "EMAIL": "viiicoutinho@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VITORIA "
+  },
+  {
+    "_CustomObjectKey": "6262",
+    "CPF": "43150900000",
+    "NOME": "DANIELA DANTAS DE OLIVEIRA",
+    "EMAIL": "querlidasilvasantos@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DANIELA "
+  },
+  {
+    "_CustomObjectKey": "6299",
+    "CPF": "43618790449",
+    "NOME": "SIMONE TORRES LINS DE GOUVEA",
+    "EMAIL": "simone@aquiteto.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SIMONE "
+  },
+  {
+    "_CustomObjectKey": "6316",
+    "CPF": "43756580881",
+    "NOME": "LEONARDO CARVALHO LOBO",
+    "EMAIL": "leonardocarvalho.lobo@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LEONARDO "
+  },
+  {
+    "_CustomObjectKey": "6320",
+    "CPF": "43784544835",
+    "NOME": "ALEXSANDRO ROCHA SANTOS",
+    "EMAIL": "sandrorochaterraplanagem@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALEXSANDRO "
+  },
+  {
+    "_CustomObjectKey": "6341",
+    "CPF": "44074204304",
+    "NOME": "HELENIRA ANTONIA CUNHA DO NASCIMENTO",
+    "EMAIL": "heleniracn@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "HELENIRA "
+  },
+  {
+    "_CustomObjectKey": "6343",
+    "CPF": "44084919268",
+    "NOME": "LUCINEY NASCIMENTO DE SOUZA",
+    "EMAIL": "lucineysouza2@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUCINEY "
+  },
+  {
+    "_CustomObjectKey": "6358",
+    "CPF": "44322895972",
+    "NOME": "JULITA TESTONI",
+    "EMAIL": "juli.c.testoni@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JULITA "
+  },
+  {
+    "_CustomObjectKey": "6359",
+    "CPF": "44341938487",
+    "NOME": "MARIA VILLACA",
+    "EMAIL": "louravvillaca@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "6383",
+    "CPF": "44646127687",
+    "NOME": "LUZIMAR MEYRIVONE SANTOS",
+    "EMAIL": "anaclarassilva@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUZIMAR "
+  },
+  {
+    "_CustomObjectKey": "6385",
+    "CPF": "44667212896",
+    "NOME": "EDUARDA PEREIRA BARTHOLO DA SILVA CARVALHO",
+    "EMAIL": "dudabartholo@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EDUARDA "
+  },
+  {
+    "_CustomObjectKey": "6409",
+    "CPF": "45056056472",
+    "NOME": "MAINE VIRGINIA CAVALCANTI DE CARVALHO",
+    "EMAIL": "mainevc@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MAINE "
+  },
+  {
+    "_CustomObjectKey": "6415",
+    "CPF": "45146845468",
+    "NOME": "ADRIANA FALCAO DO REGO",
+    "EMAIL": "arego@tce.pb.gov.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADRIANA "
+  },
+  {
+    "_CustomObjectKey": "6450",
+    "CPF": "45455031449",
+    "NOME": "VALDECINA AMELIA DE LIMA",
+    "EMAIL": "onezimojr@bb.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VALDECINA "
+  },
+  {
+    "_CustomObjectKey": "6456",
+    "CPF": "45526087620",
+    "NOME": "SONIA MARIA AMARAL GURGEL",
+    "EMAIL": "sonia_gurgel@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SONIA "
+  },
+  {
+    "_CustomObjectKey": "6465",
+    "CPF": "45583129972",
+    "NOME": "MARILENA APPOLONIO",
+    "EMAIL": "marilenaappolonio13@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARILENA "
+  },
+  {
+    "_CustomObjectKey": "6474",
+    "CPF": "45639183500",
+    "NOME": "DALME GOMES DE SOUZA",
+    "EMAIL": "dalmepajeu65@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DALME "
+  },
+  {
+    "_CustomObjectKey": "6500",
+    "CPF": "46005587668",
+    "NOME": "JOSE SILVA",
+    "EMAIL": "jdelcy6@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "6530",
+    "CPF": "46337121953",
+    "NOME": "ESTELA REGINA FOGACA",
+    "EMAIL": "estelars07@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ESTELA "
+  },
+  {
+    "_CustomObjectKey": "6559",
+    "CPF": "46664360900",
+    "NOME": "ROSEANE MARTINS MOREIRA",
+    "EMAIL": "rmm62@outllok.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROSEANE "
+  },
+  {
+    "_CustomObjectKey": "6570",
+    "CPF": "46790080325",
+    "NOME": "VALDILENE FARIAS LIRA",
+    "EMAIL": "valflira@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VALDILENE "
+  },
+  {
+    "_CustomObjectKey": "6579",
+    "CPF": "46853650115",
+    "NOME": "VANILTO NOGUEIRA FIXINA",
+    "EMAIL": "vaniltofixina@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VANILTO "
+  },
+  {
+    "_CustomObjectKey": "6581",
+    "CPF": "46877614968",
+    "NOME": "JANETE NAKATANI",
+    "EMAIL": "saudejan@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JANETE "
+  },
+  {
+    "_CustomObjectKey": "6582",
+    "CPF": "46895078720",
+    "NOME": "VANDILEA ALEKSITCH",
+    "EMAIL": "vandilea@terra.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VANDILEA "
+  },
+  {
+    "_CustomObjectKey": "6585",
+    "CPF": "46929789020",
+    "NOME": "JOEL DORIGAN",
+    "EMAIL": "joeldorigan@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOEL "
+  },
+  {
+    "_CustomObjectKey": "6592",
+    "CPF": "47055170320",
+    "NOME": "CARLOS EUGENIO PORTELA BANDEIRA",
+    "EMAIL": "carloseugenio.sousabandeira@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CARLOS "
+  },
+  {
+    "_CustomObjectKey": "6623",
+    "CPF": "47550597472",
+    "NOME": "MILTON BARBOSA DE FREITAS",
+    "EMAIL": "milton.bfreitas@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MILTON "
+  },
+  {
+    "_CustomObjectKey": "6641",
+    "CPF": "47874988191",
+    "NOME": "HOZANIA COSTA VIEIRA",
+    "EMAIL": "hozaniacostavieira72@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "HOZANIA "
+  },
+  {
+    "_CustomObjectKey": "6677",
+    "CPF": "48284939053",
+    "NOME": "LEDA INES LAZZARI",
+    "EMAIL": "lazzarileda@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LEDA "
+  },
+  {
+    "_CustomObjectKey": "6686",
+    "CPF": "48388467620",
+    "NOME": "LUIS CLAUDIO DE MELO GUERRA",
+    "EMAIL": "comercializacao@agbomsucesso.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUIS "
+  },
+  {
+    "_CustomObjectKey": "6694",
+    "CPF": "48492337320",
+    "NOME": "CARLOS EDUARDO ALVES PEREIRA",
+    "EMAIL": "cearaduardo@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CARLOS "
+  },
+  {
+    "_CustomObjectKey": "6710",
+    "CPF": "48675881649",
+    "NOME": "MARCOS CARVALHO",
+    "EMAIL": "marmorebh@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCOS "
+  },
+  {
+    "_CustomObjectKey": "6722",
+    "CPF": "48864005900",
+    "NOME": "ARLINDO JOSE CORREA",
+    "EMAIL": "correaarlindo@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ARLINDO "
+  },
+  {
+    "_CustomObjectKey": "6739",
+    "CPF": "48992305400",
+    "NOME": "JOAO JUNIOR",
+    "EMAIL": "jefjr16@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOAO "
+  },
+  {
+    "_CustomObjectKey": "6742",
+    "CPF": "49022318915",
+    "NOME": "MILENE DOLINSKI",
+    "EMAIL": "mila.dolinski@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MILENE "
+  },
+  {
+    "_CustomObjectKey": "6751",
+    "CPF": "49086413315",
+    "NOME": "OZIEL SANTIAGO",
+    "EMAIL": "oziel.j.santiago@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "OZIEL "
+  },
+  {
+    "_CustomObjectKey": "6754",
+    "CPF": "49161148334",
+    "NOME": "GLAIDSON SANTOS DA PENHA",
+    "EMAIL": "glaidsonpiloto@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GLAIDSON "
+  },
+  {
+    "_CustomObjectKey": "6794",
+    "CPF": "49841530325",
+    "NOME": "LINDOMAR DE MACEDO SILVA",
+    "EMAIL": "lindomarlanny73@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LINDOMAR "
+  },
+  {
+    "_CustomObjectKey": "6818",
+    "CPF": "50205504850",
+    "NOME": "JENIFER PRADO OLIVEIRA",
+    "EMAIL": "pietrojunior161@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JENIFER "
+  },
+  {
+    "_CustomObjectKey": "6833",
+    "CPF": "50390120120",
+    "NOME": "REGIANE FERREIRA DE MAGALHAES",
+    "EMAIL": "regipievivi@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "REGIANE "
+  },
+  {
+    "_CustomObjectKey": "6847",
+    "CPF": "50584642687",
+    "NOME": "RICARDO VILELA DE FREITAS",
+    "EMAIL": "rv-freitas@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RICARDO "
+  },
+  {
+    "_CustomObjectKey": "6856",
+    "CPF": "50759680159",
+    "NOME": "MARIA ELIENE BARBOSA DIAS",
+    "EMAIL": "elieneacc@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "6896",
+    "CPF": "51269791834",
+    "NOME": "JONATAS SOARES DE CASTRO",
+    "EMAIL": "dr.jonatas.castro@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JONATAS "
+  },
+  {
+    "_CustomObjectKey": "6898",
+    "CPF": "51318334853",
+    "NOME": "APARECIDA DE LURDES BERNAL GONCALEZ RIBEIRO",
+    "EMAIL": "dudi0504@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "APARECIDA "
+  },
+  {
+    "_CustomObjectKey": "6902",
+    "CPF": "51374099791",
+    "NOME": "JOAO LUIZ CARDOSO SERRENHO",
+    "EMAIL": "serrenho@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOAO "
+  },
+  {
+    "_CustomObjectKey": "6925",
+    "CPF": "51673886787",
+    "NOME": "SYLVIA REGINA VASCONCELOS DE AGUIAR",
+    "EMAIL": "rmfaguiar@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SYLVIA "
+  },
+  {
+    "_CustomObjectKey": "6928",
+    "CPF": "51690098015",
+    "NOME": "VALMORIO DUTRA MACHADO FILHO",
+    "EMAIL": "valmorio@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VALMORIO "
+  },
+  {
+    "_CustomObjectKey": "6941",
+    "CPF": "51962055949",
+    "NOME": "KLEVERSON LUZ DA SILVA",
+    "EMAIL": "kleluz@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "KLEVERSON "
+  },
+  {
+    "_CustomObjectKey": "6948",
+    "CPF": "52005399604",
+    "NOME": "ADAO PEREIRA DA SILVA",
+    "EMAIL": "daozim84@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADAO "
+  },
+  {
+    "_CustomObjectKey": "6949",
+    "CPF": "52015831649",
+    "NOME": "ABGAIL MARIA ATAIDE MARQUES DIAS",
+    "EMAIL": "abgailataide@yahoo.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ABGAIL "
+  },
+  {
+    "_CustomObjectKey": "6950",
+    "CPF": "52027937900",
+    "NOME": "MARIA INES NOVADZKI BAUER",
+    "EMAIL": "bauernan@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "7040",
+    "CPF": "53267478715",
+    "NOME": "GUILHERDIANA MARIA DA SILVA",
+    "EMAIL": "guilheruff@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GUILHERDIANA "
+  },
+  {
+    "_CustomObjectKey": "7073",
+    "CPF": "53842901534",
+    "NOME": "JOSE GERALDO DOS SANTOS",
+    "EMAIL": "geraldocipgd@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "7085",
+    "CPF": "54027411072",
+    "NOME": "LOIVA MARGARETH CARRILHO BARCELLOS",
+    "EMAIL": "margarethcbarcellos@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LOIVA "
+  },
+  {
+    "_CustomObjectKey": "7089",
+    "CPF": "54060265691",
+    "NOME": "VITOR MARCIO DINIZ FIGUEIREDO",
+    "EMAIL": "vitormdfigueiredo@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VITOR "
+  },
+  {
+    "_CustomObjectKey": "7098",
+    "CPF": "54193095991",
+    "NOME": "MARJORIE MERCER",
+    "EMAIL": "marjoriemercer62@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARJORIE "
+  },
+  {
+    "_CustomObjectKey": "7124",
+    "CPF": "54443172734",
+    "NOME": "ANA CRISTINA VIEIRA RIBEIRO DE SA",
+    "EMAIL": "anac.fa@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "7136",
+    "CPF": "54595959915",
+    "NOME": "LUIZ NADIR DA SILVA",
+    "EMAIL": "luiznadir.contato@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUIZ "
+  },
+  {
+    "_CustomObjectKey": "7147",
+    "CPF": "54772087249",
+    "NOME": "LUAN DA SILVA GARCIA",
+    "EMAIL": "ls549722@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUAN "
+  },
+  {
+    "_CustomObjectKey": "7151",
+    "CPF": "54883288900",
+    "NOME": "SILVIA DIAS",
+    "EMAIL": "silviasandoli2010@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SILVIA "
+  },
+  {
+    "_CustomObjectKey": "7160",
+    "CPF": "55028071934",
+    "NOME": "CIRINEU PEDRO AGUIAR",
+    "EMAIL": "cirineuaguiar@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CIRINEU "
+  },
+  {
+    "_CustomObjectKey": "7161",
+    "CPF": "55049524768",
+    "NOME": "THEREZA CRISTINA GAGLIANONE",
+    "EMAIL": "thcris@ig.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "THEREZA "
+  },
+  {
+    "_CustomObjectKey": "7184",
+    "CPF": "55397913120",
+    "NOME": "CLEANA ALVES PEREIRA MOURA",
+    "EMAIL": "cleanaalvesmoura@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CLEANA "
+  },
+  {
+    "_CustomObjectKey": "7191",
+    "CPF": "55482988104",
+    "NOME": "CLAUDIA DE CARVALHO BITTENCOURT",
+    "EMAIL": "bittencourt2800@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CLAUDIA "
+  },
+  {
+    "_CustomObjectKey": "7202",
+    "CPF": "55593569304",
+    "NOME": "ELIZANGELA PEREIRA GOMES",
+    "EMAIL": "epgh17@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELIZANGELA "
+  },
+  {
+    "_CustomObjectKey": "7209",
+    "CPF": "55725813991",
+    "NOME": "ADAIR SILVIO GRASEL",
+    "EMAIL": "adairgrasel@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADAIR "
+  },
+  {
+    "_CustomObjectKey": "7233",
+    "CPF": "55967744991",
+    "NOME": "AMAURI DIAS",
+    "EMAIL": "amauri.diasr@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AMAURI "
+  },
+  {
+    "_CustomObjectKey": "7258",
+    "CPF": "56334532049",
+    "NOME": "VALMIR SANTOS DE LIMA",
+    "EMAIL": "valmirlima612@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VALMIR "
+  },
+  {
+    "_CustomObjectKey": "7288",
+    "CPF": "56590911720",
+    "NOME": "MARIA MARTINS",
+    "EMAIL": "genteluci70@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "7291",
+    "CPF": "56653131572",
+    "NOME": "ROGERIA CARVALHO DE MIRANDA",
+    "EMAIL": "rogeria.miranda@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROGERIA "
+  },
+  {
+    "_CustomObjectKey": "7294",
+    "CPF": "56700229553",
+    "NOME": "SILVANA SOARES COSTA RIBEIRO",
+    "EMAIL": "silvanar@ufba.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SILVANA "
+  },
+  {
+    "_CustomObjectKey": "7301",
+    "CPF": "56805632587",
+    "NOME": "ALBERTO DE LIMA BORGES",
+    "EMAIL": "borges385@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALBERTO "
+  },
+  {
+    "_CustomObjectKey": "7321",
+    "CPF": "57026408291",
+    "NOME": "MARIA RAULINA RIBEIRO DA COSTA",
+    "EMAIL": "mariaraulina12@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "7340",
+    "CPF": "57311021553",
+    "NOME": "RUTH ALVES DOS SANTOS",
+    "EMAIL": "rutila.ras@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RUTH "
+  },
+  {
+    "_CustomObjectKey": "7343",
+    "CPF": "57363668191",
+    "NOME": "ANTONIO CARLOS DA COSTA MATTOS",
+    "EMAIL": "antonio.mattos@tjdft.jus.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANTONIO "
+  },
+  {
+    "_CustomObjectKey": "7356",
+    "CPF": "57564450134",
+    "NOME": "CELIO ANTONIO DA SILVA",
+    "EMAIL": "celioantoniodasilva43786@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CELIO "
+  },
+  {
+    "_CustomObjectKey": "7362",
+    "CPF": "57608490934",
+    "NOME": "LUIZ ROBERTO BORTONCELLO",
+    "EMAIL": "xaxim@adfrural.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUIZ "
+  },
+  {
+    "_CustomObjectKey": "7364",
+    "CPF": "57671290610",
+    "NOME": "ALISSON DE FARIA BRAGA",
+    "EMAIL": "alissonfaria@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALISSON "
+  },
+  {
+    "_CustomObjectKey": "7379",
+    "CPF": "57878544204",
+    "NOME": "JOSE NILSON DA COSTA JUNIOR",
+    "EMAIL": "soundexpress@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "7385",
+    "CPF": "57913277904",
+    "NOME": "NAILDE DOS SANTOS GARCIA",
+    "EMAIL": "nailde.garcia@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NAILDE "
+  },
+  {
+    "_CustomObjectKey": "7394",
+    "CPF": "57960356220",
+    "NOME": "HERES LIMA DE SOUSA SANTOS",
+    "EMAIL": "hereslima@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "HERES "
+  },
+  {
+    "_CustomObjectKey": "7395",
+    "CPF": "57965110920",
+    "NOME": "FABIO MACHADO",
+    "EMAIL": "fabiomachado3001@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FABIO "
+  },
+  {
+    "_CustomObjectKey": "7405",
+    "CPF": "58044990330",
+    "NOME": "FRANCISCA DANIELLE ARAUJO DE SOUZA",
+    "EMAIL": "dannimoda@ufpi.edu.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCISCA "
+  },
+  {
+    "_CustomObjectKey": "7429",
+    "CPF": "58411992934",
+    "NOME": "TAILOR CLOSS",
+    "EMAIL": "innovarmoveisplanejado@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TAILOR "
+  },
+  {
+    "_CustomObjectKey": "7436",
+    "CPF": "58490639515",
+    "NOME": "RONALDO ALVES SANTOS",
+    "EMAIL": "nossoamigo1990multimarcas@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RONALDO "
+  },
+  {
+    "_CustomObjectKey": "7445",
+    "CPF": "58666940000",
+    "NOME": "EVANDRO CUSTODIO STEFANELLO",
+    "EMAIL": "marquesrosilany@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EVANDRO "
+  },
+  {
+    "_CustomObjectKey": "7451",
+    "CPF": "58719180772",
+    "NOME": "GERSON FABIO DE BRITO",
+    "EMAIL": "gfbrito1958@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GERSON "
+  },
+  {
+    "_CustomObjectKey": "7474",
+    "CPF": "59033711834",
+    "NOME": "MARCOLINA APARECIDA DO NASCIMENTO",
+    "EMAIL": "profesmarcolina@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCOLINA "
+  },
+  {
+    "_CustomObjectKey": "7476",
+    "CPF": "59046708934",
+    "NOME": "GIANINI MARIA DE LUCA",
+    "EMAIL": "gigidelucca@casan.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GIANINI "
+  },
+  {
+    "_CustomObjectKey": "7480",
+    "CPF": "59059117034",
+    "NOME": "RICARDO ADILO PELIZZER",
+    "EMAIL": "ricardopelizzer@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RICARDO "
+  },
+  {
+    "_CustomObjectKey": "7492",
+    "CPF": "59180382649",
+    "NOME": "MARILANE GABRIG HERINGER",
+    "EMAIL": "marilanegh@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARILANE "
+  },
+  {
+    "_CustomObjectKey": "7494",
+    "CPF": "59220457504",
+    "NOME": "JULIVANA PESSOA BADARO",
+    "EMAIL": "julivanap@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JULIVANA "
+  },
+  {
+    "_CustomObjectKey": "7510",
+    "CPF": "59469668634",
+    "NOME": "CELIA MARIA DE PINHO BERTO",
+    "EMAIL": "bertopinho@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CELIA "
+  },
+  {
+    "_CustomObjectKey": "7521",
+    "CPF": "59583495700",
+    "NOME": "HUMBERTO ESTEVAO DA SILVA",
+    "EMAIL": "rosaehumberto@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "HUMBERTO "
+  },
+  {
+    "_CustomObjectKey": "7526",
+    "CPF": "59652683787",
+    "NOME": "MANOEL BRAGA DA SILVA",
+    "EMAIL": "manobio50@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MANOEL "
+  },
+  {
+    "_CustomObjectKey": "7542",
+    "CPF": "59859539987",
+    "NOME": "NATALINA MORAES",
+    "EMAIL": "qvistarianina@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NATALINA "
+  },
+  {
+    "_CustomObjectKey": "7560",
+    "CPF": "60059192704",
+    "NOME": "EUGENIA JIZETTI ALVES BEZERRA SEPULVEDA",
+    "EMAIL": "aadvocaciaconsultoriajur@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EUGENIA "
+  },
+  {
+    "_CustomObjectKey": "7564",
+    "CPF": "60128925787",
+    "NOME": "MARIA BERNADETE ALVES",
+    "EMAIL": "bernadete.alves10@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "7572",
+    "CPF": "60261552104",
+    "NOME": "MARCOS BISPO DA PAZ",
+    "EMAIL": "marquinhosbispo@yahoo.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCOS "
+  },
+  {
+    "_CustomObjectKey": "7603",
+    "CPF": "60706970225",
+    "NOME": "SUELY DA COSTA SILVA",
+    "EMAIL": "suelysilva1976@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SUELY "
+  },
+  {
+    "_CustomObjectKey": "7608",
+    "CPF": "60771372949",
+    "NOME": "JOSE ADILSON STOEBERL",
+    "EMAIL": "jastoeberl@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "7609",
+    "CPF": "60795760906",
+    "NOME": "ELIS REGINA CLAUCIO PADILHA",
+    "EMAIL": "elisrclaucio@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELIS "
+  },
+  {
+    "_CustomObjectKey": "7645",
+    "CPF": "61214566120",
+    "NOME": "NELY CORREIA PEDROSA ALVES DE MATOS",
+    "EMAIL": "nelycorreia@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NELY "
+  },
+  {
+    "_CustomObjectKey": "7656",
+    "CPF": "61459224353",
+    "NOME": "LIA RACHEL CLEMENTINO SANTOS DE CASTRO",
+    "EMAIL": "liarachelreis@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LIA "
+  },
+  {
+    "_CustomObjectKey": "7675",
+    "CPF": "61748960725",
+    "NOME": "WILMA DA CONCEICAO FRANCISCO ROSA",
+    "EMAIL": "grazirosaoliveira@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "WILMA "
+  },
+  {
+    "_CustomObjectKey": "7700",
+    "CPF": "62051210349",
+    "NOME": "FABIO SANTIAGO RODRIGUES",
+    "EMAIL": "fabiosanro@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FABIO "
+  },
+  {
+    "_CustomObjectKey": "7707",
+    "CPF": "62129384234",
+    "NOME": "ROGERIO MARCONDES SANTANA",
+    "EMAIL": "rogeriomarcondessfg@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROGERIO "
+  },
+  {
+    "_CustomObjectKey": "7718",
+    "CPF": "62315978220",
+    "NOME": "ADAILDO DOS SANTOS SILVA",
+    "EMAIL": "hyanmarck@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADAILDO "
+  },
+  {
+    "_CustomObjectKey": "7720",
+    "CPF": "62332260153",
+    "NOME": "ANTONIO NUNES DA SILVA",
+    "EMAIL": "toninhonunes867@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANTONIO "
+  },
+  {
+    "_CustomObjectKey": "7728",
+    "CPF": "62476017353",
+    "NOME": "DEISE DE SOUZA CORTEZ",
+    "EMAIL": "deisecortezzzz@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DEISE "
+  },
+  {
+    "_CustomObjectKey": "7730",
+    "CPF": "62494643449",
+    "NOME": "JANAINA AUGUSTA DE LIMA AIROLA",
+    "EMAIL": "janainaairola@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JANAINA "
+  },
+  {
+    "_CustomObjectKey": "7733",
+    "CPF": "62578170649",
+    "NOME": "HAROLDO BREDER DE CARVALHO",
+    "EMAIL": "hbrederc@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "HAROLDO "
+  },
+  {
+    "_CustomObjectKey": "7745",
+    "CPF": "62864866072",
+    "NOME": "TANIA VARGAS",
+    "EMAIL": "taniajoia@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TANIA "
+  },
+  {
+    "_CustomObjectKey": "7750",
+    "CPF": "62923250672",
+    "NOME": "JOESSE MARIA DE ASSIS TEIXEIRA",
+    "EMAIL": "joesseteixeira@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOESSE "
+  },
+  {
+    "_CustomObjectKey": "7764",
+    "CPF": "63233258534",
+    "NOME": "ZORAIDE CARDOSO GOMES NUNES",
+    "EMAIL": "hgomesn@gamil.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ZORAIDE "
+  },
+  {
+    "_CustomObjectKey": "7772",
+    "CPF": "63335840615",
+    "NOME": "ALOISIO ANTONIO BERION SALGADO",
+    "EMAIL": "aloisioberion@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALOISIO "
+  },
+  {
+    "_CustomObjectKey": "7782",
+    "CPF": "63551721220",
+    "NOME": "VILZA COSTA",
+    "EMAIL": "souvilza@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VILZA "
+  },
+  {
+    "_CustomObjectKey": "7834",
+    "CPF": "64368840330",
+    "NOME": "EVERALDO SANTOS",
+    "EMAIL": "everaldodupt@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EVERALDO "
+  },
+  {
+    "_CustomObjectKey": "7848",
+    "CPF": "64630757953",
+    "NOME": "JOSE FERNANDES COSTA",
+    "EMAIL": "jofercos1@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "7852",
+    "CPF": "64655962968",
+    "NOME": "ANDREIA SANTOS",
+    "EMAIL": "andreiagodinho.ss@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANDREIA "
+  },
+  {
+    "_CustomObjectKey": "7863",
+    "CPF": "64842363800",
+    "NOME": "MARIO HIDEO KAMEI",
+    "EMAIL": "mariokamei@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIO "
+  },
+  {
+    "_CustomObjectKey": "7865",
+    "CPF": "64856208187",
+    "NOME": "RENILSON PEREIRA VILA NOVA",
+    "EMAIL": "renilsonpv@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RENILSON "
+  },
+  {
+    "_CustomObjectKey": "7869",
+    "CPF": "64905632587",
+    "NOME": "ALEXNALDO FERREIRA DA CRUZ",
+    "EMAIL": "lecovencedor@gmail.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALEXNALDO "
+  },
+  {
+    "_CustomObjectKey": "7873",
+    "CPF": "64949443020",
+    "NOME": "MARILURDES JACOBI",
+    "EMAIL": "marijacobi@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARILURDES "
+  },
+  {
+    "_CustomObjectKey": "7879",
+    "CPF": "65096096220",
+    "NOME": "RENATA ANTUNES DA ROCHA DA SILVA",
+    "EMAIL": "renatajoaojr@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RENATA "
+  },
+  {
+    "_CustomObjectKey": "7918",
+    "CPF": "65771869287",
+    "NOME": "ANA BORGES",
+    "EMAIL": "f0724234@bb.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "7922",
+    "CPF": "65785703572",
+    "NOME": "MARIA DA PAIXAO NUNES DA SILVA NASCIMENTO",
+    "EMAIL": "paixaomda@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "7933",
+    "CPF": "65918118934",
+    "NOME": "JOSE VILMAR PEREIRA",
+    "EMAIL": "zevilp@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "7967",
+    "CPF": "66496578168",
+    "NOME": "ENOQUE DA CONCEICAO ARAUJO",
+    "EMAIL": "dedesoundcar@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ENOQUE "
+  },
+  {
+    "_CustomObjectKey": "7971",
+    "CPF": "66558611287",
+    "NOME": "ANIFRAN SOUZA",
+    "EMAIL": "anifranfsouza@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANIFRAN "
+  },
+  {
+    "_CustomObjectKey": "7972",
+    "CPF": "66562678820",
+    "NOME": "MARIO ROBERTO BEDUSCHI",
+    "EMAIL": "bedischitaxi@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIO "
+  },
+  {
+    "_CustomObjectKey": "7995",
+    "CPF": "67001343153",
+    "NOME": "BIANCA VALENTE",
+    "EMAIL": "bicvalente@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "BIANCA "
+  },
+  {
+    "_CustomObjectKey": "8000",
+    "CPF": "67088244691",
+    "NOME": "MIRTES SANTOS",
+    "EMAIL": "mirtessantosmoc@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MIRTES "
+  },
+  {
+    "_CustomObjectKey": "8015",
+    "CPF": "67289215591",
+    "NOME": "MARIA DAS GRACAS CONCEICAO PITANGA",
+    "EMAIL": "graca201031@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "8037",
+    "CPF": "67618863334",
+    "NOME": "LUCIANA MAIA CHAVES DE ANDRADE",
+    "EMAIL": "luciana_1209@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUCIANA "
+  },
+  {
+    "_CustomObjectKey": "8075",
+    "CPF": "68100949620",
+    "NOME": "MYLENE PILO",
+    "EMAIL": "mariachiquinhabrasil@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MYLENE "
+  },
+  {
+    "_CustomObjectKey": "8079",
+    "CPF": "68157924472",
+    "NOME": "ERISVALDO LEAL",
+    "EMAIL": "jgabrielguedes@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ERISVALDO "
+  },
+  {
+    "_CustomObjectKey": "8083",
+    "CPF": "68192843068",
+    "NOME": "ELIAS RICARDO DE MOURA BORGES",
+    "EMAIL": "elias@audoraluminios.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELIAS "
+  },
+  {
+    "_CustomObjectKey": "8105",
+    "CPF": "68616996400",
+    "NOME": "MARIA GORETE FERREIRA CAVALCANTI",
+    "EMAIL": "gobarbol@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "8122",
+    "CPF": "68911017191",
+    "NOME": "LELYA BENEDICTA DE ARRUDA BARROS CUNHA",
+    "EMAIL": "lelya_@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LELYA "
+  },
+  {
+    "_CustomObjectKey": "8124",
+    "CPF": "68943350953",
+    "NOME": "SIRLENE SALETE DANI",
+    "EMAIL": "saletedani@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SIRLENE "
+  },
+  {
+    "_CustomObjectKey": "8159",
+    "CPF": "69459380182",
+    "NOME": "JUCINEI RABELO CORREA",
+    "EMAIL": "jucineiamtt@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JUCINEI "
+  },
+  {
+    "_CustomObjectKey": "8169",
+    "CPF": "69677972804",
+    "NOME": "MARIA RODRIGUES DE CARVALHO PERROTI",
+    "EMAIL": "mpnoturna@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "8173",
+    "CPF": "69747105691",
+    "NOME": "EDNA APARECIDA CALDEIRA BRANDAO RODRIGUES",
+    "EMAIL": "edna.caldeira@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EDNA "
+  },
+  {
+    "_CustomObjectKey": "8188",
+    "CPF": "69973458753",
+    "NOME": "AIDE SILVA",
+    "EMAIL": "aide_meire@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AIDE "
+  },
+  {
+    "_CustomObjectKey": "8215",
+    "CPF": "70165485205",
+    "NOME": "JOABE SANTOS DO CARMO",
+    "EMAIL": "joabesantos@hotmail.fr",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOABE "
+  },
+  {
+    "_CustomObjectKey": "8224",
+    "CPF": "70325111120",
+    "NOME": "RHAFAELA THOME DE ANDRADE",
+    "EMAIL": "rhafathome@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RHAFAELA "
+  },
+  {
+    "_CustomObjectKey": "8234",
+    "CPF": "70487081072",
+    "NOME": "SILVIA SANTOS",
+    "EMAIL": "silviaconsantos@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SILVIA "
+  },
+  {
+    "_CustomObjectKey": "8251",
+    "CPF": "70663165172",
+    "NOME": "JOYCE PARABA",
+    "EMAIL": "joycesparaba5@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOYCE "
+  },
+  {
+    "_CustomObjectKey": "8277",
+    "CPF": "71025065700",
+    "NOME": "ELIANE TEIXEIRA FIGUEIREDO",
+    "EMAIL": "elianefig@terra.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELIANE "
+  },
+  {
+    "_CustomObjectKey": "8280",
+    "CPF": "71032681691",
+    "NOME": "FLAVIO MARCIO FERREIRA DA SILVA",
+    "EMAIL": "flaviomfsilva@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FLAVIO "
+  },
+  {
+    "_CustomObjectKey": "8281",
+    "CPF": "71046500759",
+    "NOME": "IVANY PAIXAO DA VITORIA",
+    "EMAIL": "ivanypaixaodavitoria@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "IVANY "
+  },
+  {
+    "_CustomObjectKey": "8308",
+    "CPF": "71493573349",
+    "NOME": "FRANCISCO DAS CHAGAS DOS SANTOS",
+    "EMAIL": "chgssantos@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCISCO "
+  },
+  {
+    "_CustomObjectKey": "8315",
+    "CPF": "71587071215",
+    "NOME": "MARIA ALBENIZE FARIAS MALCHER",
+    "EMAIL": "volmalcher@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "8330",
+    "CPF": "71817441604",
+    "NOME": "LAVINIA MARIA LOPES RAAD",
+    "EMAIL": "laviniaraad@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LAVINIA "
+  },
+  {
+    "_CustomObjectKey": "8332",
+    "CPF": "71874046204",
+    "NOME": "LEA MELLO GOMES",
+    "EMAIL": "leamgomes@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LEA "
+  },
+  {
+    "_CustomObjectKey": "8341",
+    "CPF": "71998373800",
+    "NOME": "ADAO JOSE PIVA",
+    "EMAIL": "adao-piva@uol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADAO "
+  },
+  {
+    "_CustomObjectKey": "8349",
+    "CPF": "72120746834",
+    "NOME": "MARIA APARECIDA FERRAZ",
+    "EMAIL": "mferraz79@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "8375",
+    "CPF": "72505974934",
+    "NOME": "ELOIZA HENEQUIN",
+    "EMAIL": "eloizahene@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELOIZA "
+  },
+  {
+    "_CustomObjectKey": "8377",
+    "CPF": "72541024215",
+    "NOME": "SONIA MARIA DA SILVA LOPES",
+    "EMAIL": "sonialopesstn@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SONIA "
+  },
+  {
+    "_CustomObjectKey": "8391",
+    "CPF": "72695307772",
+    "NOME": "JOAO DE OLIVEIRA",
+    "EMAIL": "locaoesperanca@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOAO "
+  },
+  {
+    "_CustomObjectKey": "8395",
+    "CPF": "72760290425",
+    "NOME": "IREMAR LIMA",
+    "EMAIL": "iremarcl@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "IREMAR "
+  },
+  {
+    "_CustomObjectKey": "8396",
+    "CPF": "72794232649",
+    "NOME": "VIVIANY PINTO",
+    "EMAIL": "oliveirapinto_adv@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VIVIANY "
+  },
+  {
+    "_CustomObjectKey": "8397",
+    "CPF": "72796510620",
+    "NOME": "PAULO MOREIRA",
+    "EMAIL": "paulohsmoreira@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PAULO "
+  },
+  {
+    "_CustomObjectKey": "8400",
+    "CPF": "72847441549",
+    "NOME": "EVERALDO SALES DE SANTANA",
+    "EMAIL": "everaldosan@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EVERALDO "
+  },
+  {
+    "_CustomObjectKey": "8403",
+    "CPF": "72880600634",
+    "NOME": "CARMELITA VAZ DA COSTA",
+    "EMAIL": "carmelitavaz30@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CARMELITA "
+  },
+  {
+    "_CustomObjectKey": "8408",
+    "CPF": "72981482149",
+    "NOME": "RAMON PIMENTA CUNHA",
+    "EMAIL": "pimentaramon@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RAMON "
+  },
+  {
+    "_CustomObjectKey": "8413",
+    "CPF": "73044318904",
+    "NOME": "ANGELO CARLOTO NETO",
+    "EMAIL": "joelmads@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANGELO "
+  },
+  {
+    "_CustomObjectKey": "8421",
+    "CPF": "73182907700",
+    "NOME": "GISLENI PASSABAO DA CONCEICAO",
+    "EMAIL": "gislenipassabao2010@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GISLENI "
+  },
+  {
+    "_CustomObjectKey": "8424",
+    "CPF": "73203840944",
+    "NOME": "BIGARELHA NEVES",
+    "EMAIL": "bigarelaneves@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "BIGARELHA "
+  },
+  {
+    "_CustomObjectKey": "8446",
+    "CPF": "73519740044",
+    "NOME": "CASSIO COPETTI",
+    "EMAIL": "cassiocopetti@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CASSIO "
+  },
+  {
+    "_CustomObjectKey": "8448",
+    "CPF": "73536350615",
+    "NOME": "MARIA MENDONCA",
+    "EMAIL": "mariabetaniasam@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "8451",
+    "CPF": "73580783815",
+    "NOME": "TSURUE MANABE TEIXEIRA",
+    "EMAIL": "estherteixeira@trevisocc.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TSURUE "
+  },
+  {
+    "_CustomObjectKey": "8464",
+    "CPF": "73828041868",
+    "NOME": "PAULO DOS SANTOS",
+    "EMAIL": "sintia.dir@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PAULO "
+  },
+  {
+    "_CustomObjectKey": "8470",
+    "CPF": "73999458968",
+    "NOME": "VALDELICE APARECIDA NEUMAM OLIVEIRA",
+    "EMAIL": "valdeneumam@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VALDELICE "
+  },
+  {
+    "_CustomObjectKey": "8477",
+    "CPF": "74072021849",
+    "NOME": "CARLOS ERNESTO MANTOVANI",
+    "EMAIL": "cemtv55@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CARLOS "
+  },
+  {
+    "_CustomObjectKey": "8483",
+    "CPF": "74155407272",
+    "NOME": "FABIO JOSE NASCIMENTO DA SILVA",
+    "EMAIL": "fabio_jns@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FABIO "
+  },
+  {
+    "_CustomObjectKey": "8503",
+    "CPF": "74572121672",
+    "NOME": "ALEXANDRE CUSTODIO FRANCELINO",
+    "EMAIL": "francelinocdm@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALEXANDRE "
+  },
+  {
+    "_CustomObjectKey": "8537",
+    "CPF": "75011905268",
+    "NOME": "DEBORAH NANAMI MOREIRA QUEIROZ",
+    "EMAIL": "deborahnanami@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DEBORAH "
+  },
+  {
+    "_CustomObjectKey": "8543",
+    "CPF": "75083892120",
+    "NOME": "KAMILA COELHO DA SILVA",
+    "EMAIL": "kamila.quimica@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "KAMILA "
+  },
+  {
+    "_CustomObjectKey": "8579",
+    "CPF": "75770520000",
+    "NOME": "JORGE AUGUSTO DA COSTA",
+    "EMAIL": "augustojorge1@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JORGE "
+  },
+  {
+    "_CustomObjectKey": "8600",
+    "CPF": "76042529749",
+    "NOME": "IRENE LIMA DA SILVA",
+    "EMAIL": "irenels1960@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "IRENE "
+  },
+  {
+    "_CustomObjectKey": "8616",
+    "CPF": "76260860404",
+    "NOME": "EDSON MAIA GOMES",
+    "EMAIL": "edsonmaia1971@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EDSON "
+  },
+  {
+    "_CustomObjectKey": "8617",
+    "CPF": "76269574749",
+    "NOME": "THEREZINHA MARIA NUNES ROCHA",
+    "EMAIL": "celbarcellos@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "THEREZINHA "
+  },
+  {
+    "_CustomObjectKey": "8621",
+    "CPF": "76329470863",
+    "NOME": "GILSON SANTOS TEIXEIRA",
+    "EMAIL": "gilson.piolho@bol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GILSON "
+  },
+  {
+    "_CustomObjectKey": "8628",
+    "CPF": "76431215168",
+    "NOME": "NILTON DA SILVA SANTOS",
+    "EMAIL": "niltondasilvasanto@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NILTON "
+  },
+  {
+    "_CustomObjectKey": "8634",
+    "CPF": "76552985134",
+    "NOME": "OTACILIO RICARDO BORGES",
+    "EMAIL": "otaricges@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "OTACILIO "
+  },
+  {
+    "_CustomObjectKey": "8648",
+    "CPF": "76829995353",
+    "NOME": "MARIO OLIVEIRA",
+    "EMAIL": "sergio.piaui@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIO "
+  },
+  {
+    "_CustomObjectKey": "8677",
+    "CPF": "77134982653",
+    "NOME": "AUGUSTA MARIA DOS SANTOS FERREIRA",
+    "EMAIL": "augustasantos13@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AUGUSTA "
+  },
+  {
+    "_CustomObjectKey": "8682",
+    "CPF": "77176570825",
+    "NOME": "MARIA ANGELA FARAH D ANGELO",
+    "EMAIL": "mangedan@uol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "8688",
+    "CPF": "77274210149",
+    "NOME": "FABIO ROCHA",
+    "EMAIL": "fabiorer19@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FABIO "
+  },
+  {
+    "_CustomObjectKey": "8689",
+    "CPF": "77281640668",
+    "NOME": "LEONARDO DE OLIVEIRA REZENDE",
+    "EMAIL": "lorezende@uol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LEONARDO "
+  },
+  {
+    "_CustomObjectKey": "8694",
+    "CPF": "77385926649",
+    "NOME": "FLAVIO STIGERT DE OLIVEIRA",
+    "EMAIL": "fla126@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FLAVIO "
+  },
+  {
+    "_CustomObjectKey": "8695",
+    "CPF": "77418620225",
+    "NOME": "ANTONIO CARLOS BARBOSA NOGUEIRA FILHO",
+    "EMAIL": "ty_filho@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANTONIO "
+  },
+  {
+    "_CustomObjectKey": "8704",
+    "CPF": "77594380363",
+    "NOME": "FRANCISCO GILSON DO CARMO FILHO",
+    "EMAIL": "gilson-carmo@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCISCO "
+  },
+  {
+    "_CustomObjectKey": "8707",
+    "CPF": "77641728804",
+    "NOME": "MARIA APARECIDA PAGLIARI DE SOUZA",
+    "EMAIL": "mariapalhare@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "8726",
+    "CPF": "77889533420",
+    "NOME": "GERLANE CRISTINA DA SILVA",
+    "EMAIL": "gerlaneepb@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GERLANE "
+  },
+  {
+    "_CustomObjectKey": "8728",
+    "CPF": "77917952649",
+    "NOME": "ALEXANDRE BRAZ",
+    "EMAIL": "hanaqnbrazini@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALEXANDRE "
+  },
+  {
+    "_CustomObjectKey": "8731",
+    "CPF": "77979109791",
+    "NOME": "CLAUDIO CESAR NABTI FELIX",
+    "EMAIL": "claudiobiocesar@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CLAUDIO "
+  },
+  {
+    "_CustomObjectKey": "8733",
+    "CPF": "77982037100",
+    "NOME": "RENIVALDO COSTA TAVARES",
+    "EMAIL": "renedftavares@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RENIVALDO "
+  },
+  {
+    "_CustomObjectKey": "8738",
+    "CPF": "78057973668",
+    "NOME": "EDINA CONCEICAO DE RESENDE BARBOSA",
+    "EMAIL": "dininharesende@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EDINA "
+  },
+  {
+    "_CustomObjectKey": "8753",
+    "CPF": "78236533115",
+    "NOME": "LUCIANO SOUZA",
+    "EMAIL": "lucianp.marrone@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUCIANO "
+  },
+  {
+    "_CustomObjectKey": "8758",
+    "CPF": "78278457468",
+    "NOME": "VIVIANE MESQUITA SILVA",
+    "EMAIL": "vivianemesquitasilva@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VIVIANE "
+  },
+  {
+    "_CustomObjectKey": "8771",
+    "CPF": "78428629668",
+    "NOME": "ADRIANO PEIXOTO FRANCO",
+    "EMAIL": "adrianopeixoto@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADRIANO "
+  },
+  {
+    "_CustomObjectKey": "8772",
+    "CPF": "78465273120",
+    "NOME": "MARCOS HENRIQUE DA SILVA",
+    "EMAIL": "mhenrique77@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCOS "
+  },
+  {
+    "_CustomObjectKey": "8780",
+    "CPF": "78575192515",
+    "NOME": "AIANE JANAINA ROCHA MALVAR",
+    "EMAIL": "aianerocha@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AIANE "
+  },
+  {
+    "_CustomObjectKey": "8782",
+    "CPF": "78625173772",
+    "NOME": "JORGE EVANDRO DE OLIVEIRA",
+    "EMAIL": "jorgeevandroaeronautica@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JORGE "
+  },
+  {
+    "_CustomObjectKey": "8786",
+    "CPF": "78701805134",
+    "NOME": "MARIA CLEIDINALDA RODRIGUES DA SILVA",
+    "EMAIL": "mariacleidinaldarodrigues@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "8796",
+    "CPF": "78758319620",
+    "NOME": "ADRIANO DE SENNA RAMOS",
+    "EMAIL": "gruposennaramos@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADRIANO "
+  },
+  {
+    "_CustomObjectKey": "8807",
+    "CPF": "78894166449",
+    "NOME": "MARIA DAS MERCES DA SILVA",
+    "EMAIL": "marcosmaria588@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "8812",
+    "CPF": "78934370149",
+    "NOME": "HERCULANO MORAES DOS SANTOS NETO",
+    "EMAIL": "herculanomoraes@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "HERCULANO "
+  },
+  {
+    "_CustomObjectKey": "8831",
+    "CPF": "79151850710",
+    "NOME": "MARIA APARECIDA DOS SANTOS FINOTTI",
+    "EMAIL": "cida-finnot@yahho.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "8854",
+    "CPF": "79669182972",
+    "NOME": "LAERCIO RAMOS DO PRADO",
+    "EMAIL": "laercioprado@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LAERCIO "
+  },
+  {
+    "_CustomObjectKey": "8858",
+    "CPF": "79740570682",
+    "NOME": "MARIA DA GLORIA SILVA",
+    "EMAIL": "wedsonpereira10@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "8868",
+    "CPF": "79873430563",
+    "NOME": "FABIANE DA SILVA PACHECO",
+    "EMAIL": "fabianepacheco@bol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FABIANE "
+  },
+  {
+    "_CustomObjectKey": "8905",
+    "CPF": "80504043072",
+    "NOME": "SABRINA SEVERO DA SILVA",
+    "EMAIL": "sabrinaseverosilva@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SABRINA "
+  },
+  {
+    "_CustomObjectKey": "8908",
+    "CPF": "80552528153",
+    "NOME": "CARLOS ROBERTO HIGINO RODRIGUES",
+    "EMAIL": "ginoag.91@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CARLOS "
+  },
+  {
+    "_CustomObjectKey": "8909",
+    "CPF": "80561470472",
+    "NOME": "MARIA ROCHA",
+    "EMAIL": "cartorioteixeira_@hotmail.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "8910",
+    "CPF": "80573789134",
+    "NOME": "IVANI FERREIRA DE MACEDO",
+    "EMAIL": "ivoninha.macedo@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "IVANI "
+  },
+  {
+    "_CustomObjectKey": "8915",
+    "CPF": "80658555391",
+    "NOME": "ANA CARINA MOREIRA DOS SANTOS",
+    "EMAIL": "aniracmoreira@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "8938",
+    "CPF": "81044283734",
+    "NOME": "TANIA RODRIGUES DA SILVA",
+    "EMAIL": "emaildataniaa@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TANIA "
+  },
+  {
+    "_CustomObjectKey": "8940",
+    "CPF": "81057415553",
+    "NOME": "ADALGILENE SOARES",
+    "EMAIL": "dalsoares_2@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ADALGILENE "
+  },
+  {
+    "_CustomObjectKey": "8953",
+    "CPF": "81280076968",
+    "NOME": "WILSON GEIDELIS JUNIOR",
+    "EMAIL": "wilson@ggconsultoria.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "WILSON "
+  },
+  {
+    "_CustomObjectKey": "8961",
+    "CPF": "81369026153",
+    "NOME": "DELMA GONCALVES",
+    "EMAIL": "delma_gonsalves@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "DELMA "
+  },
+  {
+    "_CustomObjectKey": "8966",
+    "CPF": "81454228687",
+    "NOME": "MARIA ELIZABETH SOARES MARQUES",
+    "EMAIL": "bethmarques15@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "8985",
+    "CPF": "81771037334",
+    "NOME": "JULIANA AGUILA MACIEL",
+    "EMAIL": "julianaaguila@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JULIANA "
+  },
+  {
+    "_CustomObjectKey": "9010",
+    "CPF": "82176531000",
+    "NOME": "ROBERTA LAUSER COLETTO DE AZEVEDO",
+    "EMAIL": "robertacoletto@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROBERTA "
+  },
+  {
+    "_CustomObjectKey": "9026",
+    "CPF": "82499772891",
+    "NOME": "ANTONIO SHIN ITI KAZEDANI",
+    "EMAIL": "antoniokazedani@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANTONIO "
+  },
+  {
+    "_CustomObjectKey": "9028",
+    "CPF": "82531749853",
+    "NOME": "MARISA APARECIDA GODOY",
+    "EMAIL": "marisagod11@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARISA "
+  },
+  {
+    "_CustomObjectKey": "9037",
+    "CPF": "82657661815",
+    "NOME": "MARLENE DURIGAN",
+    "EMAIL": "aline@netx.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARLENE "
+  },
+  {
+    "_CustomObjectKey": "9042",
+    "CPF": "82782695134",
+    "NOME": "MARCELO CHAVES DE FARIA",
+    "EMAIL": "marcelobarao46@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCELO "
+  },
+  {
+    "_CustomObjectKey": "9045",
+    "CPF": "82852910225",
+    "NOME": "MARIXANDRA SILVA DE LIMA",
+    "EMAIL": "xandrarabelolau@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIXANDRA "
+  },
+  {
+    "_CustomObjectKey": "9048",
+    "CPF": "82879001315",
+    "NOME": "FLAVIA NOBRE",
+    "EMAIL": "flanpsi@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FLAVIA "
+  },
+  {
+    "_CustomObjectKey": "9059",
+    "CPF": "83049207868",
+    "NOME": "CARLOS ROBERTO TEIXEIRA",
+    "EMAIL": "carlos_piratininga@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CARLOS "
+  },
+  {
+    "_CustomObjectKey": "9060",
+    "CPF": "83054618668",
+    "NOME": "MARCELO DA COSTA MISCOLI",
+    "EMAIL": "miscolibm@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCELO "
+  },
+  {
+    "_CustomObjectKey": "9070",
+    "CPF": "83342664800",
+    "NOME": "ABILIO MAION JUNIOR",
+    "EMAIL": "abiliomaion@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ABILIO "
+  },
+  {
+    "_CustomObjectKey": "9072",
+    "CPF": "83349359515",
+    "NOME": "ROSALINE MASCARENHAS",
+    "EMAIL": "rosalislramos@yaoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROSALINE "
+  },
+  {
+    "_CustomObjectKey": "9094",
+    "CPF": "83882022191",
+    "NOME": "JOAQUIM PAULINO DA SILVA",
+    "EMAIL": "joaquim_eng@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOAQUIM "
+  },
+  {
+    "_CustomObjectKey": "9119",
+    "CPF": "84277025153",
+    "NOME": "FABRICIO CARVALHO CARDOSO",
+    "EMAIL": "nfabriciocardoso@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FABRICIO "
+  },
+  {
+    "_CustomObjectKey": "9120",
+    "CPF": "84282533315",
+    "NOME": "ANA FERREIRA",
+    "EMAIL": "prof.ana.alf@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "9129",
+    "CPF": "84428007787",
+    "NOME": "GEILSON ARAUJO DE LIMA",
+    "EMAIL": "gep400@hotmal.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "GEILSON "
+  },
+  {
+    "_CustomObjectKey": "9137",
+    "CPF": "84585730087",
+    "NOME": "FRANCIELE SOUZA SANTOS",
+    "EMAIL": "fraanciele.souza.santos@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCIELE "
+  },
+  {
+    "_CustomObjectKey": "9144",
+    "CPF": "84643110368",
+    "NOME": "MAGNA MARIA DE AGUIAR",
+    "EMAIL": "magnaguiar@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MAGNA "
+  },
+  {
+    "_CustomObjectKey": "9149",
+    "CPF": "84736488891",
+    "NOME": "MARIA INES DOS SANTOS",
+    "EMAIL": "mines.sants@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "9161",
+    "CPF": "84903082334",
+    "NOME": "HELIO SILVA",
+    "EMAIL": "heliomds@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "HELIO "
+  },
+  {
+    "_CustomObjectKey": "9185",
+    "CPF": "85413038372",
+    "NOME": "MESSIANO LADISLAU NOGUEIRA DE SOUSA",
+    "EMAIL": "messianoladislau@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MESSIANO "
+  },
+  {
+    "_CustomObjectKey": "9186",
+    "CPF": "85434400178",
+    "NOME": "EUNICE PLACIDO ZOCH",
+    "EMAIL": "eunice.placido@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EUNICE "
+  },
+  {
+    "_CustomObjectKey": "9199",
+    "CPF": "85797723115",
+    "NOME": "ANDERSON VINICIUS DA SILVA OSHIRO",
+    "EMAIL": "viny.1978@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANDERSON "
+  },
+  {
+    "_CustomObjectKey": "9225",
+    "CPF": "86225545204",
+    "NOME": "ROSIVALDO SANTANA DA SILVA",
+    "EMAIL": "rosivaldosantana83@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ROSIVALDO "
+  },
+  {
+    "_CustomObjectKey": "9233",
+    "CPF": "86343670882",
+    "NOME": "LOURDES BERTOLOTE TAGLIADELO",
+    "EMAIL": "bertolote.lourdes@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LOURDES "
+  },
+  {
+    "_CustomObjectKey": "9238",
+    "CPF": "86441698404",
+    "NOME": "JOSE VIEIRA DO NASCIMENTO",
+    "EMAIL": "jvieirinha@outlook.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "9253",
+    "CPF": "86691910672",
+    "NOME": "MARIA SILVIA MAGALHAES NEVES",
+    "EMAIL": "msilvianeves@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "9270",
+    "CPF": "86914308934",
+    "NOME": "ANA FLAVIA MORSELLI BORDIM SILVA",
+    "EMAIL": "paulor7@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "9276",
+    "CPF": "87005441400",
+    "NOME": "MARIA DOS PRAZERES DA SILVA BRANDAO",
+    "EMAIL": "prazeres52@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "9297",
+    "CPF": "87451590178",
+    "NOME": "JOAO SAUTCHUK",
+    "EMAIL": "msjoaomiguel@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOAO "
+  },
+  {
+    "_CustomObjectKey": "9315",
+    "CPF": "87754592487",
+    "NOME": "COSMO ALEXANDRE DA SILVA",
+    "EMAIL": "cosmoalexandre@ig.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "COSMO "
+  },
+  {
+    "_CustomObjectKey": "9330",
+    "CPF": "87941082187",
+    "NOME": "FABIANO NAVA",
+    "EMAIL": "fnava@terra.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FABIANO "
+  },
+  {
+    "_CustomObjectKey": "9333",
+    "CPF": "88019365168",
+    "NOME": "TAIS CRISTINA PEREIRA DA SILVA",
+    "EMAIL": "tcp-silva@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "TAIS "
+  },
+  {
+    "_CustomObjectKey": "9347",
+    "CPF": "88161773149",
+    "NOME": "KAREN HOFFMANN APOSTOLOVA",
+    "EMAIL": "apostolovak@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "KAREN "
+  },
+  {
+    "_CustomObjectKey": "9356",
+    "CPF": "88355292715",
+    "NOME": "LUIZA COSTA RIBEIRO",
+    "EMAIL": "luiza20121@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUIZA "
+  },
+  {
+    "_CustomObjectKey": "9362",
+    "CPF": "88444449504",
+    "NOME": "MARCIA CRISTINA DANTAS DE ANDRADE",
+    "EMAIL": "mcdandrade@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCIA "
+  },
+  {
+    "_CustomObjectKey": "9363",
+    "CPF": "88445046934",
+    "NOME": "MARTHA MAYUMI HIGARASHI",
+    "EMAIL": "martha.higarashi@embrapa.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARTHA "
+  },
+  {
+    "_CustomObjectKey": "9370",
+    "CPF": "88620905872",
+    "NOME": "AGUINALDO GOMES DE FIGUEIREDO TAVARES",
+    "EMAIL": "agft1958@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AGUINALDO "
+  },
+  {
+    "_CustomObjectKey": "9373",
+    "CPF": "88660605934",
+    "NOME": "SANDRA MARA FRANCELINO",
+    "EMAIL": "sandra.francelino@multilog.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SANDRA "
+  },
+  {
+    "_CustomObjectKey": "9380",
+    "CPF": "88707792891",
+    "NOME": "JOSE FRANCISCO DE CASTRO LEITE",
+    "EMAIL": "jfcl2000@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "9398",
+    "CPF": "88969703853",
+    "NOME": "ELISA FURTADO GARCIA",
+    "EMAIL": "elisafurtadogarcia@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELISA "
+  },
+  {
+    "_CustomObjectKey": "9405",
+    "CPF": "89020332953",
+    "NOME": "MARISETI TEREZINHA COELHO",
+    "EMAIL": "mariseti.pereira@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARISETI "
+  },
+  {
+    "_CustomObjectKey": "9406",
+    "CPF": "89029461500",
+    "NOME": "JOSENILSO DE JESUS SANTOS",
+    "EMAIL": "josenilso_85@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSENILSO "
+  },
+  {
+    "_CustomObjectKey": "9422",
+    "CPF": "89386019272",
+    "NOME": "VANESSA GONCALVES LIMA",
+    "EMAIL": "vanessaaiasse@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VANESSA "
+  },
+  {
+    "_CustomObjectKey": "9430",
+    "CPF": "89481607615",
+    "NOME": "RENATO FRANCO MONTEIRO PRADO",
+    "EMAIL": "renatofmpradogouveia@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RENATO "
+  },
+  {
+    "_CustomObjectKey": "9436",
+    "CPF": "89574303187",
+    "NOME": "JANINE MOREIRA FRAGA CAIXETA",
+    "EMAIL": "janinefraga@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JANINE "
+  },
+  {
+    "_CustomObjectKey": "9440",
+    "CPF": "89620747291",
+    "NOME": "SILAS DE PINHO GONCALVES",
+    "EMAIL": "silas_victor7@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SILAS "
+  },
+  {
+    "_CustomObjectKey": "9448",
+    "CPF": "89703782272",
+    "NOME": "VAILSON BARBOSA CUSTODIO",
+    "EMAIL": "custodiovailson@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VAILSON "
+  },
+  {
+    "_CustomObjectKey": "9454",
+    "CPF": "89786980182",
+    "NOME": "SANDRA SOUZA CAMPOS DE MORAES",
+    "EMAIL": "sandracampus@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SANDRA "
+  },
+  {
+    "_CustomObjectKey": "9461",
+    "CPF": "89905644172",
+    "NOME": "LILIAN KARLA CAETANO AZEVEDO",
+    "EMAIL": "dralkca1@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LILIAN "
+  },
+  {
+    "_CustomObjectKey": "9471",
+    "CPF": "90128680920",
+    "NOME": "LUIZ FERNANDO DOS SANTOS",
+    "EMAIL": "afg_1976@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUIZ "
+  },
+  {
+    "_CustomObjectKey": "9484",
+    "CPF": "90412699168",
+    "NOME": "JOSE PEDRO DE SOUSA",
+    "EMAIL": "josepedro.sousa@terra.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "9495",
+    "CPF": "90527640778",
+    "NOME": "WILLIAM RONALDO ROSA GUIMARAES",
+    "EMAIL": "wrrgbotafogo@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "WILLIAM "
+  },
+  {
+    "_CustomObjectKey": "9514",
+    "CPF": "90863062172",
+    "NOME": "ERIKA FERNANDA VILLAMAYOR GARCIA",
+    "EMAIL": "erikavet5@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ERIKA "
+  },
+  {
+    "_CustomObjectKey": "9523",
+    "CPF": "91149304049",
+    "NOME": "CINTIA PORAZZI PEREIRA",
+    "EMAIL": "cien_gos@yahoo.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CINTIA "
+  },
+  {
+    "_CustomObjectKey": "9532",
+    "CPF": "91292344334",
+    "NOME": "JORGE ALMEIDA",
+    "EMAIL": "jorge-almeidasd@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JORGE "
+  },
+  {
+    "_CustomObjectKey": "9533",
+    "CPF": "91293030368",
+    "NOME": "CARLOS GOMES",
+    "EMAIL": "jorgegomes659@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CARLOS "
+  },
+  {
+    "_CustomObjectKey": "9535",
+    "CPF": "91297281853",
+    "NOME": "CAMILO DE LELIS BARBOSA",
+    "EMAIL": "lelisb19@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CAMILO "
+  },
+  {
+    "_CustomObjectKey": "9547",
+    "CPF": "91587514320",
+    "NOME": "JOSE ALBERTO DOS SANTOS CARVALHO",
+    "EMAIL": "jjaassccv@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "9567",
+    "CPF": "91938813200",
+    "NOME": "RAYZZA DA SILVA MATOS",
+    "EMAIL": "rayzza_mattos@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RAYZZA "
+  },
+  {
+    "_CustomObjectKey": "9574",
+    "CPF": "92133150315",
+    "NOME": "BENTO FILHO",
+    "EMAIL": "behntoanthonio@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "BENTO "
+  },
+  {
+    "_CustomObjectKey": "9589",
+    "CPF": "92361951568",
+    "NOME": "SIMONE BLANCO DOS SANTOS",
+    "EMAIL": "simoneb10@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "SIMONE "
+  },
+  {
+    "_CustomObjectKey": "9593",
+    "CPF": "92423345291",
+    "NOME": "JOAO RUGGERI FELIPE LIMA DA SILVA",
+    "EMAIL": "joaoruggerifelipe@bb.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOAO "
+  },
+  {
+    "_CustomObjectKey": "9595",
+    "CPF": "92431160700",
+    "NOME": "JOAO LUIZ MORATI",
+    "EMAIL": "joaoluizmorati@gmail.comm",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOAO "
+  },
+  {
+    "_CustomObjectKey": "9596",
+    "CPF": "92443125815",
+    "NOME": "FRANCISCO ANTONIO MONSERRAT ESTEVES",
+    "EMAIL": "fatal@terra.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCISCO "
+  },
+  {
+    "_CustomObjectKey": "9600",
+    "CPF": "92582052868",
+    "NOME": "EDGARD SALVIANO DE OLIVEIRA",
+    "EMAIL": "edgard.salviano@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EDGARD "
+  },
+  {
+    "_CustomObjectKey": "9611",
+    "CPF": "92794068768",
+    "NOME": "ALEXANDRE TAHAN ABDU BARBOSA",
+    "EMAIL": "atatahan@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALEXANDRE "
+  },
+  {
+    "_CustomObjectKey": "9612",
+    "CPF": "92841864715",
+    "NOME": "AMARO BARRETO SILVA",
+    "EMAIL": "amaro_barreto@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AMARO "
+  },
+  {
+    "_CustomObjectKey": "9614",
+    "CPF": "92851797115",
+    "NOME": "ITAMAR RIBEIRO DOS SANTOS",
+    "EMAIL": "itamarribeiro36@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ITAMAR "
+  },
+  {
+    "_CustomObjectKey": "9619",
+    "CPF": "92894747268",
+    "NOME": "NANDERSON DOS SANTOS DA SILVA",
+    "EMAIL": "nandersondossantos@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NANDERSON "
+  },
+  {
+    "_CustomObjectKey": "9626",
+    "CPF": "93113943604",
+    "NOME": "CARLA APARECIDA FERNANDES MARTINS",
+    "EMAIL": "caufernandessouza@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CARLA "
+  },
+  {
+    "_CustomObjectKey": "9637",
+    "CPF": "93255900930",
+    "NOME": "ANDREA XAVIER DE AGUIAR",
+    "EMAIL": "andrea.aguiar@prof.tmf.fc.gov.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANDREA "
+  },
+  {
+    "_CustomObjectKey": "9638",
+    "CPF": "93258100187",
+    "NOME": "AILTON ALVES",
+    "EMAIL": "agro.ailton@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "AILTON "
+  },
+  {
+    "_CustomObjectKey": "9652",
+    "CPF": "93378610204",
+    "NOME": "JONHY HERBERT AVALOS WENDLAND",
+    "EMAIL": "jjonhy@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JONHY "
+  },
+  {
+    "_CustomObjectKey": "9661",
+    "CPF": "93530072591",
+    "NOME": "ANIBAL CICERO COSTA FERREIRA",
+    "EMAIL": "anibalcicero@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANIBAL "
+  },
+  {
+    "_CustomObjectKey": "9663",
+    "CPF": "93579004972",
+    "NOME": "VILMA RABELLO CITADIN",
+    "EMAIL": "mirojc2@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VILMA "
+  },
+  {
+    "_CustomObjectKey": "9666",
+    "CPF": "93587384304",
+    "NOME": "ANA BARBARA LISBOA SILVA",
+    "EMAIL": "ablisboas@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANA "
+  },
+  {
+    "_CustomObjectKey": "9684",
+    "CPF": "93904932187",
+    "NOME": "VOLMIR KLAGENBERG",
+    "EMAIL": "klagenberg2008@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VOLMIR "
+  },
+  {
+    "_CustomObjectKey": "9687",
+    "CPF": "93976232572",
+    "NOME": "KARINE VELOSO SANTANA",
+    "EMAIL": "santanaveloso@ig.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "KARINE "
+  },
+  {
+    "_CustomObjectKey": "9706",
+    "CPF": "94464839053",
+    "NOME": "PAULO JOSE LIBARDONI",
+    "EMAIL": "libardoniadv@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "PAULO "
+  },
+  {
+    "_CustomObjectKey": "9707",
+    "CPF": "94476497772",
+    "NOME": "ACILENE RICARDO FERREIRA",
+    "EMAIL": "acilenericardo@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ACILENE "
+  },
+  {
+    "_CustomObjectKey": "9710",
+    "CPF": "94532958091",
+    "NOME": "MAURICIO SCHUCK",
+    "EMAIL": "mauskk@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MAURICIO "
+  },
+  {
+    "_CustomObjectKey": "9714",
+    "CPF": "94550158387",
+    "NOME": "FRANCISCO MORAIS",
+    "EMAIL": "helsonadm@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "FRANCISCO "
+  },
+  {
+    "_CustomObjectKey": "9716",
+    "CPF": "94567476034",
+    "NOME": "ELISA FRUHAUF GARCIA",
+    "EMAIL": "elisafg@terra.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELISA "
+  },
+  {
+    "_CustomObjectKey": "9722",
+    "CPF": "94711950800",
+    "NOME": "JOSE PEDRO SOBRINHO",
+    "EMAIL": "zepedrosobrinho337@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "9731",
+    "CPF": "94804427287",
+    "NOME": "NATHALIA FERNANDA MARTINS E SILVA",
+    "EMAIL": "dra.nathaliam@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "NATHALIA "
+  },
+  {
+    "_CustomObjectKey": "9736",
+    "CPF": "94878404434",
+    "NOME": "MARINETE VIEIRA",
+    "EMAIL": "vieiramarinete28@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARINETE "
+  },
+  {
+    "_CustomObjectKey": "9749",
+    "CPF": "95066799168",
+    "NOME": "MOISES FRANCISCO BATISTA",
+    "EMAIL": "moisespamela28@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MOISES "
+  },
+  {
+    "_CustomObjectKey": "9750",
+    "CPF": "95097554868",
+    "NOME": "JANIRA RIBEIRO PARANHOS",
+    "EMAIL": "jribeiroparanhos@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JANIRA "
+  },
+  {
+    "_CustomObjectKey": "9753",
+    "CPF": "95147241000",
+    "NOME": "JOSANA ROSOLEN RIVOLI",
+    "EMAIL": "josana@caleffivanin.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSANA "
+  },
+  {
+    "_CustomObjectKey": "9760",
+    "CPF": "95267506400",
+    "NOME": "MARCIO LUCIO ALVES",
+    "EMAIL": "marciotrezeano@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCIO "
+  },
+  {
+    "_CustomObjectKey": "9780",
+    "CPF": "95662308349",
+    "NOME": "ELIAS BEZERRA DE QUEIROZ JUNIOR",
+    "EMAIL": "juniorelias30@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ELIAS "
+  },
+  {
+    "_CustomObjectKey": "9791",
+    "CPF": "95913998200",
+    "NOME": "CLEIDE CARAPININHA",
+    "EMAIL": "cleide@casadalavoura.net.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CLEIDE "
+  },
+  {
+    "_CustomObjectKey": "9819",
+    "CPF": "96420014387",
+    "NOME": "LILIANE RODRIGUES",
+    "EMAIL": "lilianerodrigues0482@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LILIANE "
+  },
+  {
+    "_CustomObjectKey": "9827",
+    "CPF": "96517328491",
+    "NOME": "LUZINETE SILVA",
+    "EMAIL": "luzineteneide@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUZINETE "
+  },
+  {
+    "_CustomObjectKey": "9830",
+    "CPF": "96543582715",
+    "NOME": "RODRIGO COELHO",
+    "EMAIL": "rrmmcoelho@yahoo.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "RODRIGO "
+  },
+  {
+    "_CustomObjectKey": "9845",
+    "CPF": "96741198504",
+    "NOME": "MARIA DE FATIMA RODRIGUES COSTA",
+    "EMAIL": "mariarodrigues.02@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARIA "
+  },
+  {
+    "_CustomObjectKey": "9847",
+    "CPF": "96814721953",
+    "NOME": "VANDERLEI ALVES DO NASCIMENTO",
+    "EMAIL": "alvesfaixapreta@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VANDERLEI "
+  },
+  {
+    "_CustomObjectKey": "9850",
+    "CPF": "96902094187",
+    "NOME": "JADER SIQUEIRA INACIO",
+    "EMAIL": "jaderinacio@bb.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JADER "
+  },
+  {
+    "_CustomObjectKey": "9851",
+    "CPF": "96902850500",
+    "NOME": "HELIO FERREIRA MENDES",
+    "EMAIL": "helio.casal@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "HELIO "
+  },
+  {
+    "_CustomObjectKey": "9872",
+    "CPF": "97291889634",
+    "NOME": "MARCILIO BATISTA DE SOUZA",
+    "EMAIL": "deltatil@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "MARCILIO "
+  },
+  {
+    "_CustomObjectKey": "9882",
+    "CPF": "97640093015",
+    "NOME": "JERONIMO MESSAGE DUTRA",
+    "EMAIL": "jeromd@terra.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JERONIMO "
+  },
+  {
+    "_CustomObjectKey": "9887",
+    "CPF": "97776831115",
+    "NOME": "VANIA DE FARIA",
+    "EMAIL": "fariavania@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "VANIA "
+  },
+  {
+    "_CustomObjectKey": "9891",
+    "CPF": "97955701291",
+    "NOME": "JOYCE ELAINE MONTEIRO DE SOUSA DA SILVA",
+    "EMAIL": "joyceelaine271@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOYCE "
+  },
+  {
+    "_CustomObjectKey": "9903",
+    "CPF": "98188305120",
+    "NOME": "LEIDIANE SOARES PIMENTEL",
+    "EMAIL": "pimentelleidi@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LEIDIANE "
+  },
+  {
+    "_CustomObjectKey": "9949",
+    "CPF": "99076870063",
+    "NOME": "LUIS FERNANDO LANFREDI",
+    "EMAIL": "eng.lanfredi@bol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "LUIS "
+  },
+  {
+    "_CustomObjectKey": "9961",
+    "CPF": "99432200230",
+    "NOME": "CARLOS FREDERICO PINTO RIBEIRO",
+    "EMAIL": "carlos.fredericostm@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CARLOS "
+  },
+  {
+    "_CustomObjectKey": "9964",
+    "CPF": "99441128104",
+    "NOME": "ANNAMARIA TREVISOL",
+    "EMAIL": "annaunb@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ANNAMARIA "
+  },
+  {
+    "_CustomObjectKey": "9976",
+    "CPF": "99569930772",
+    "NOME": "ALEXSANDRO LOPES FERREIRA",
+    "EMAIL": "alexlopesf2@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALEXSANDRO "
+  },
+  {
+    "_CustomObjectKey": "9978",
+    "CPF": "99631997120",
+    "NOME": "ALESSANDRA FRANCOIZE DE OLIVEIRA",
+    "EMAIL": "alessandra.cuiabamt@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "ALESSANDRA "
+  },
+  {
+    "_CustomObjectKey": "9986",
+    "CPF": "99776430678",
+    "NOME": "CARLA DA SILVA SOUZA TORRES",
+    "EMAIL": "souzacarlas@bol.com.br",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "CARLA "
+  },
+  {
+    "_CustomObjectKey": "9987",
+    "CPF": "99807831849",
+    "NOME": "REGINA CELESTE GIROLDO AQUINO",
+    "EMAIL": "rcg.aquino@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "REGINA "
+  },
+  {
+    "_CustomObjectKey": "9991",
+    "CPF": "99842521320",
+    "NOME": "JOSE VICTOR MADEIRA SOARES",
+    "EMAIL": "victorsoares1983@gmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "JOSE "
+  },
+  {
+    "_CustomObjectKey": "9995",
+    "CPF": "99898578149",
+    "NOME": "EVALDO JOSE FERNANDES FILHO",
+    "EMAIL": "evaldoffilho83@hotmail.com",
+    "EMAIL_VALIDO": "True",
+    "PNOME": "EVALDO "
+  }
+]

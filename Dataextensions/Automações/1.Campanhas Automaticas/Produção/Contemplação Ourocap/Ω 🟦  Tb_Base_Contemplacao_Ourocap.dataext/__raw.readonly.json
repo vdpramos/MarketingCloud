@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "1D8AA341-C8B5-4799-B9CA-C0E6C0BC859A"
+  ],
+  "Name": [
+    "Tb_Base_Contemplacao_Ourocap"
+  ]
+}

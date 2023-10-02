@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "0E57B36B-42AB-4146-AE25-25A6515C1DD6"
+  ],
+  "Name": [
+    "Jihad_Tb_Campanha_FimdeAno2021_Disparo - 20220106_111650"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "d3a6564e-996c-40bb-8866-5362b3d9224c",
+  "name": "Qr05_Renovacao_Filtrada_Online_TMKT",
+  "key": "D3A6564E-996C-40BB-8866-5362B3D9224C",
+  "description": "",
+  "queryText": "SELECT\n A.*\nFROM Renovacao_Online_Tratada_TMKT A\nWHERE QUARENTENA = 0\n   ",
+  "targetName": "Renovacao_Online_Filtrada_TMKT",
+  "targetKey": "4A33BC1A-17B5-4BFA-9AD4-A46F16BBBD5A",
+  "targetId": "fe3173fa-3c47-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "Base com contatos filtrados para o envio do OTC290",
+  "createdDate": "2023-08-30T07:57:27.493",
+  "modifiedDate": "2023-09-05T12:23:24.87",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 68066,
+  "isFrozen": false
+}

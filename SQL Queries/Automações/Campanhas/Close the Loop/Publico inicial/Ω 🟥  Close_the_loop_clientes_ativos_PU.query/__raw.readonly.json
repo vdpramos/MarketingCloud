@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "69a0d5aa-56c1-45af-b57f-88be64dbeaf7",
+  "name": "Close_the_loop_clientes_ativos_PU",
+  "key": "5c8c7029-13d6-411a-ac94-a887f4134d36",
+  "description": "",
+  "queryText": "SELECT\n    sub.Id_contato,\n    sub.Id_cliente_parceiro,\n    sub.Nome,\n    sub.Celular_1,\n    sub.Celular_2,\n    sub.Telefone_Brasilcap,\n    sub.Telefone_comercial,\n    sub.Nivel_relacionamento,\n    sub.Tipo_pagamento,\n    sub.UF,\n    sub.Idade,\n    sub.CPF_CNPJ,\n    sub.Id_cliente\nFROM\n(\n    SELECT \n    Id_contato,\n    Id_cliente_parceiro,\n    Nome,\n    Celular_1,\n    Celular_2,\n    Telefone_Brasilcap,\n    Telefone_comercial,\n    Nivel_relacionamento,\n    Tipo_pagamento,\n    UF,\n    Idade,\n    CPF_CNPJ,\n    Id_cliente,\n    ROW_NUMBER() OVER (PARTITION BY Id_contato ORDER BY Id_titulo ASC) ranking\n    FROM\n    Close_the_loop_clientes_ativos_titulos\n    WHERE\n    Tipo_pagamento = 'PU'\n) sub\nWHERE\n    sub.ranking = 1",
+  "targetName": "Close_the_loop_clientes_ativos",
+  "targetKey": "3EEA31D2-CF76-4B88-A797-7DE2D8C0FF7E",
+  "targetId": "7a3ca576-236f-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-28T07:54:24.953",
+  "modifiedDate": "2023-06-26T08:47:11.513",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 56140,
+  "isFrozen": false
+}

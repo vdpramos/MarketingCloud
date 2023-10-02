@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "84A69980-1802-46CA-B3C2-9674AAD593BA"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_Enderecos_ComOTC_Algar"
+  ]
+}

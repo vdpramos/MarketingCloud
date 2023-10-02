@@ -1,0 +1,6 @@
+Dataextension name: ContatosCriar
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| HC_CPF_CNPJ__c       | Text(50)        | true     | false    |                 |
+| Contato_no_Marketing__c | Text(50)        | true     | false    |                 |

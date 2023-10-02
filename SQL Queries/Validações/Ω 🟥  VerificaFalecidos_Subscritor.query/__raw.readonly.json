@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "c688adab-fc2f-4684-83c7-4d177bd35880",
+  "name": "VerificaFalecidos_Subscritor",
+  "key": "a1c159a9-ac9d-4e54-b647-0a45d2b133e7",
+  "description": "",
+  "queryText": "select id, hc_classificacao__c from hc_relacao_cliente_parceiro__c_salesforce cp\nwhere cp.hc_classificacao__c = 'Falecido' and\n        not exists(select 1 from hc_titulo__c_salesforce  t where cp.id = t.hc_subscritor__c and t.hc_situacao__c = 'Finalizado - Óbito')",
+  "targetName": "BatimentoObitosSubscritor",
+  "targetKey": "2FD9B964-DE50-4869-8408-6B1B5F324162",
+  "targetId": "52a0eaa8-12a7-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-07T12:11:02.757",
+  "modifiedDate": "2023-02-07T12:15:04.413",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

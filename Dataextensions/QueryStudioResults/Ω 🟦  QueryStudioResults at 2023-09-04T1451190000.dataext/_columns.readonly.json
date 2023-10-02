@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "automationinstancestatus",
+    "FieldType": "Text",
+    "ObjectID": "4d537827-f7d5-4549-b5a3-cf0448abb946",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

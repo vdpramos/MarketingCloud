@@ -1,0 +1,5 @@
+Dataextension name: Tb_Base_Fim_Plano_Ourocap_PU_PP_OTC291_NeoBpo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Retorno              | Text(4000)      | false    | false    |                 |

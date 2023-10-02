@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "0c2a7d1e-48d3-4b10-bbdc-d164ba2d1133",
+  "name": "Qr01_Extracao_Base_Prospect_Offline_Enderecos_SemOTC_TMKT",
+  "key": "dd625ffe-d21d-45d4-a10a-c61b34c4f7cd",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  CPF,\n  '' AS CNPJ,\n  CEP\nFROM\n  TB_BASE_PROSPECT_SEMOTC_TRATADA_TMKT",
+  "targetName": "Tb_Base_Prospect_Offline_Enderecos_SemOTC_TMKT",
+  "targetKey": "1D3741C7-184C-47D4-84B5-C2B4B5275516",
+  "targetId": "78e12124-2d71-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-26T13:32:34.93",
+  "modifiedDate": "2021-03-03T14:54:32.05",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29382,
+  "isFrozen": false
+}

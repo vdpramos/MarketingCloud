@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "68da8bae-db0c-4f48-ad34-c8c2a9c50961",
+  "name": "Nao_Pagas_Finalizar",
+  "key": "97031ef5-c604-47bd-a9a9-2b7130ed8ca2",
+  "description": "Finaliza a execução da campanha",
+  "script": "<script runat=server>\nPlatform(\"Core\", \"2.0\");\nvar api = new Script.Util.WSProxy();\nvar Id_Campanha = '7016g000002O08TAAS'; // Id campanha\n// Colocar no dos DES de aptos e inaptos \nvar dataExtensionsName = ['Publico_Apto_Nao_Pagas', 'Publico_Inapto_Nao_Pagas']; // DE que enviou o OTC290\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51909') ));\n\n</script>",
+  "categoryId": 38697,
+  "createdDate": "2022-02-13T05:25:14.37",
+  "modifiedDate": "2022-02-13T05:25:14.37"
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "D51FC26D-EACA-49B9-B179-3F48DA4FF882"
+  ],
+  "Name": [
+    "Pre_Sorteio_Relacao_Planos"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "44ce16c8-6cf9-49e2-9b9f-f8e579d904bf",
+  "name": "Qr02_Base_Fim_Plano_Ourocap_PU_PP_ComOTC_Trata_Titulo_NeoBpo",
+  "key": "41c0312f-ae17-4f75-9217-314394696426",
+  "description": "",
+  "queryText": "SELECT \n    B.ID,\n    b.CPF_CNPJ,\n    CASE WHEN DATEDIFF(DD,MAX(C.HC_CONTRATACAO__C), GETDATE()) <= B.MESES_COMPRA_EXCLUSAO /*AND UPPER(D.HC_FAMILIA_DO_PRODUTO__C) = 'OUROCAP'*/ THEN 1 ELSE 0 END AS COMPRA_RECENTE_OUROCAP\nFROM TB_BASE_FIM_PLANO_OUROCAP_PU_PP_COMOTC_NEOBPO B\nINNER JOIN HC_TITULO__C_SALESFORCE C ON B.ID_CLIENTE_PARCEIRO = C.HC_CLIENTE_X_PARCEIRO__C\nGROUP BY B.ID, b.cpf_cnpj, B.MESES_COMPRA_EXCLUSAO",
+  "targetName": "Tb_Base_Fim_Plano_Ourocap_PU_PP_ComOTC_NeoBpo",
+  "targetKey": "44EB32A5-019A-46A4-85F3-AFA3E3416992",
+  "targetId": "5fd6e2d2-c298-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-08T17:46:46.597",
+  "modifiedDate": "2023-07-19T11:49:01.583",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 32463,
+  "isFrozen": false
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "CB13D25F-FDDA-4CC4-ACCF-C01BDDAE206D"
+  ],
+  "Name": [
+    "Extracao_NEO_Prospect"
+  ]
+}

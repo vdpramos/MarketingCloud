@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "61894f36-b69f-4747-b82d-0510b849d817",
+  "name": "Titulo Status Divergente Darwin",
+  "key": "61894F36-B69F-4747-B82D-0510B849D817",
+  "description": "",
+  "queryText": "select d.id, t.hc_situacao__c\nfrom TitulosDarwin T\ninner join HC_Titulo__c_SALESFORCE d\n    on rtrim(ltrim(t.id_titulo))  = d.hc_titulo__c\n    and rtrim(ltrim(t.hc_situacao__c)) <> rtrim(ltrim(d.hc_situacao__c))\nWhere \n    d.hc_origem__c = 'Darwin'",
+  "targetName": "TitulosStatusDivergentesDarwin",
+  "targetKey": "C8632211-7435-407D-AB8C-BDF0959BCBAE",
+  "targetId": "6c841128-1112-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-23T16:04:44.803",
+  "modifiedDate": "2023-06-26T13:47:46.567",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

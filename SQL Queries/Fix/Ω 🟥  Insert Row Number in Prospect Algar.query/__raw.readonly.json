@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "0e7f5426-6318-4c63-aa3c-1d2f858537ab",
+  "name": "Insert Row Number in Prospect Algar",
+  "key": "d92f64b1-d681-431e-bf34-e88f69f4e6d0",
+  "description": "Insert Row Number in Prospect Algar otc291 filtrada",
+  "queryText": "select\na.cpf,\nrow_number() over(order by a.cpf) as row\nfrom Tb_Base_Prospect_OTC291_Filtrada_Algar a",
+  "targetName": "Tb_Base_Prospect_OTC291_Filtrada_Algar",
+  "targetKey": "0502A300-1DE7-48D0-8B02-4DBABAFEF7A7",
+  "targetId": "2d4dde26-14a5-ec11-a313-48df370ed7f5",
+  "targetDescription": "DE para insercao de contatos no Service e extracao para discador",
+  "createdDate": "2022-04-26T04:51:09.94",
+  "modifiedDate": "2022-04-26T04:51:09.94",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 48390,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "fa114b88-7509-4bda-8c9c-78be153f0ca6",
+  "name": "Propostas_N_Pagas_PúblicoInicial",
+  "key": "c79c909f-2e48-4304-9d29-d362624e3a6a",
+  "description": "",
+  "queryText": "SELECT DISTINCT\na.Id,\na.HC_Agendamento__c,\na.HC_Chave_CxP_Subscritor__c,\na.HC_Codigo_do_Parceiro__c,\na.HC_Codigo_do_Produto__c, \na.HC_Data_da_Venda__c, \na.HC_Forma_de_Credito_Formula__c, \na.HC_Situacao__c,\na.HC_Valor__c AS Valor_da_Parcela,\nb.HC_Classificacao__c AS Tipo_de_Cliente,\nb.HC_Nao_deseja_receber_Email__c  AS NAO_DESEJA_RECEBER_EMAIL,\nb.HC_Nao_Importune__c AS NAO_IMPORTUNE,\nb.HC_Nao_deseja_receber_SMS__c AS NAO_DESEJA_RECEBER_SMS,\nb.CPF_CNPJ_Cliente__c AS CPF_CNPJ,\nb.HC_Celular_1__c AS HC_Celular_1__c,\nLEFT(REPLACE(REPLACE(REPLACE(REPLACE(b.HC_TELEFONE_RESIDENCIAL__c, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_01,\nSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(b.HC_TELEFONE_RESIDENCIAL__c, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_01,\n'FIXO' AS TIPO_TEL_01,\nLEFT(REPLACE(REPLACE(REPLACE(REPLACE(b.HC_TELEFONE_COMERCIAL__c, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_02,\nSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(b.HC_TELEFONE_COMERCIAL__c, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_02,\n'FIXO' AS TIPO_TEL_02,\nLEFT(REPLACE(REPLACE(REPLACE(REPLACE(b.HC_TELEFONE_OUTRO__c, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_03,\nSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(b.HC_TELEFONE_OUTRO__c, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_03,\n'FIXO' AS TIPO_TEL_03,\nLEFT(REPLACE(REPLACE(REPLACE(REPLACE(b.HC_CELULAR_1__c, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_04,\nSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(b.HC_CELULAR_1__c, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_04,\n'MÓVEL' AS TIPO_TEL_04,\nLEFT(REPLACE(REPLACE(REPLACE(REPLACE(b.HC_CELULAR_2__c, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_05,\nSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(b.HC_CELULAR_2__c, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_05,\n'MÓVEL' AS TIPO_TEL_05,\nLEFT(REPLACE(REPLACE(REPLACE(REPLACE(b.HC_CELULAR_3__c, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_06,\nSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(b.HC_CELULAR_3__c, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_06,\n'MÓVEL' AS TIPO_TEL_06,\nb.HC_Status_Celular_1__c,\nb.HC_Status_Celular_2__c,\nb.HC_Status_Celular_3__c,\nb.HC_Nome_Cliente__c AS Nome,\nb.HC_IDADE__C AS Idade,\nb.HC_CONSELHEIRO__C AS Conselheiro,\nb.HC_PEP__C AS Cliente_PEP,\nc.HC_Familia_do_Produto__c,\nc.Name,\n\n'Br' AS LOCALE\n\nFROM HC_Proposta__c_Salesforce A\nJOIN HC_Relacao_Cliente_Parceiro__c_Salesforce B\nON a.HC_Titular__c = b.Id\nJOIN HC_Produto__c_Salesforce C\nON a.HC_Produto_Relacionado__c = c.Id\n\nWHERE c.HC_Familia_do_Produto__c = 'Ourocap'\nAND a.HC_Situacao__c = 'Não Paga'\nAND a.CreatedDate >= DATEADD(DAY, -60, GETDATE())\n",
+  "targetName": "Propostas_N_Pagas_Público_Inicial",
+  "targetKey": "34F48990-15EF-4492-91C3-ACBD28D29608",
+  "targetId": "770371de-9c46-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2021-04-02T10:45:34.253",
+  "modifiedDate": "2023-09-05T14:21:17.467",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 31534,
+  "isFrozen": false
+}

@@ -1,0 +1,8 @@
+Dataextension name: TitulosCAP_1
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| STATUS               | Text(255)       | false    | false    |                 |
+| ID_TITULO            | Text(255)       | false    | false    |                 |
+| ID_PLANO             | Text(255)       | false    | false    |                 |
+| ID_SERIE             | Text(255)       | false    | false    |                 |

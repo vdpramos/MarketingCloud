@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "8d614c9a-b8e8-41b4-b6d7-917800f67b6c",
+    "MaxLength": "11",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "FormaPagamento",
+    "FieldType": "Text",
+    "ObjectID": "4d80cf62-8c34-4559-9e3f-35f7f67a5851",
+    "MaxLength": "2",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "EXTRACAO",
+    "FieldType": "Boolean",
+    "ObjectID": "601bd5c0-98df-48cb-80ae-4d6286b5a926",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

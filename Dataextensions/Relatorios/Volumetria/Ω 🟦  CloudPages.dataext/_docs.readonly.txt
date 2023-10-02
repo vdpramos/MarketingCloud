@@ -1,0 +1,8 @@
+Dataextension name: CloudPages
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Name                 | Text(50)        | false    | false    |                 |
+| Page ID              | Text(50)        | false    | false    |                 |
+| Impressions          | Text(50)        | false    | false    |                 |
+| Data                 | Date            | false    | false    |                 |

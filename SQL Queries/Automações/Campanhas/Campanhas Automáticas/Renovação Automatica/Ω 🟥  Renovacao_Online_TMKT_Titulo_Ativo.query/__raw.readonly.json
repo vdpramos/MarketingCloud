@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "33fcf65e-41a9-4c1c-9cca-73aabe206e02",
+  "name": "Renovacao_Online_TMKT_Titulo_Ativo",
+  "key": "33FCF65E-41A9-4C1C-9CCA-73AABE206E02",
+  "description": "",
+  "queryText": "SELECT\n    max(CASE    when C.HC_CLIENTE_X_PARCEIRO__C is null then \n                    0 \n                WHEN DATEDIFF(DD,C.HC_CONTRATACAO__C, GETDATE()) <= 90 THEN    \n                    1 \n                ELSE \n                    0 \n                END) AS Titulo_Ativo_Recente,\n    B.CPF\nFROM Renovacao_Online_Tratada_TMKT B\nLEFT JOIN HC_TITULO__C_SALESFORCE C \n    ON B.ID_CLIENTE_PARCEIRO = C.HC_CLIENTE_X_PARCEIRO__C\ngroup by cpf",
+  "targetName": "Renovacao_Online_Tratada_TMKT",
+  "targetKey": "4D11873F-4EC3-4C05-ADD2-7DA76B00E6CD",
+  "targetId": "e8669d16-3547-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2023-08-30T07:43:31.063",
+  "modifiedDate": "2023-08-30T07:43:31.063",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 68066,
+  "isFrozen": false
+}

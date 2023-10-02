@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "38DE9766-94EB-4F6D-B8B9-8E80A78673A0"
+  ],
+  "Name": [
+    "Contemplados_CPFs_Faltando"
+  ]
+}

@@ -1,0 +1,50 @@
+Dataextension name: Tb_Base_Fim_Plano_Ourocap_PU_PP_OTC291_Tratada_NeoBpo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Codigo_Parceiro      | Text(3)         | false    | false    | 001             |
+| Id_Cliente           | Text(9)         | false    | false    |                 |
+| Codigo_MCI           | Text(9)         | false    | false    |                 |
+| Tipo_Pessoa          | Text(1)         | false    | false    |                 |
+| Codigo_CIC           | Text(15)        | false    | false    |                 |
+| Dt_Nascimento        | Text(10)        | false    | false    |                 |
+| Nome                 | Text(150)       | false    | false    |                 |
+| Sexo                 | Text(1)         | false    | false    |                 |
+| UF_Residencial       | Text(2)         | false    | false    |                 |
+| Ddd1                 | Text(4)         | false    | false    |                 |
+| Telefone1            | Text(10)        | false    | false    |                 |
+| Ddd2                 | Text(4)         | false    | false    |                 |
+| Telefone2            | Text(10)        | false    | false    |                 |
+| Ddd3                 | Text(4)         | false    | false    |                 |
+| Telefone3            | Text(10)        | false    | false    |                 |
+| Codigo_Plano         | Text(5)         | false    | false    |                 |
+| Origem_Solicitacao   | Text(2)         | false    | false    |                 |
+| Filler               | Text(150)       | false    | false    |                 |
+| Codigo_RNA           | Text(3)         | false    | false    |                 |
+| Valor_Rendimentos    | Text(15)        | false    | false    |                 |
+| Tipo_Carteira        | Text(4)         | false    | false    |                 |
+| Nivel_Relacionamento | Text(5)         | false    | false    |                 |
+| Data_Informacao      | Text(26)        | false    | false    |                 |
+| Filler2              | Text(17)        | false    | false    |                 |
+| CPF                  | Text(50)        | true     | true     |                 |
+| Primeiro_Nome        | Text(150)       | false    | false    |                 |
+| Sobrenome            | Text(150)       | false    | false    |                 |
+| Dt_Nascimento_SF     | Date            | false    | false    |                 |
+| Faixa_Renda_Mensal   | Decimal(16,2)   | false    | false    |                 |
+| Alta_Renda           | Boolean         | false    | false    |                 |
+| Ddd4                 | Text(4)         | false    | false    |                 |
+| Telefone4            | Text(10)        | false    | false    |                 |
+| Ddd5                 | Text(4)         | false    | false    |                 |
+| Telefone5            | Text(10)        | false    | false    |                 |
+| Ddd6                 | Text(4)         | false    | false    |                 |
+| Telefone6            | Text(10)        | false    | false    |                 |
+| Tipo_Tel_01          | Text(10)        | false    | false    |                 |
+| Tipo_Tel_02          | Text(10)        | false    | false    |                 |
+| Tipo_Tel_03          | Text(10)        | false    | false    |                 |
+| Tipo_Tel_04          | Text(10)        | false    | false    |                 |
+| Tipo_Tel_05          | Text(10)        | false    | false    |                 |
+| Tipo_Tel_06          | Text(10)        | false    | false    |                 |
+| Tipo_Campanha        | Text(150)       | false    | false    |                 |
+| Id_Campanha          | Text(50)        | false    | false    |                 |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |

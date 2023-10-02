@@ -1,0 +1,9 @@
+Dataextension name: DatasSorteioCAP_Verificado_1
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_TITULO            | Text(50)        | false    | false    |                 |
+| ID_SERIE             | Text(50)        | false    | false    |                 |
+| ID_PLANO             | Text(50)        | false    | false    |                 |
+| ID_TITULO_SALESFORCE | Text(255)       | false    | false    |                 |
+| DATA_SORTEIO         | Text(255)       | false    | false    |                 |

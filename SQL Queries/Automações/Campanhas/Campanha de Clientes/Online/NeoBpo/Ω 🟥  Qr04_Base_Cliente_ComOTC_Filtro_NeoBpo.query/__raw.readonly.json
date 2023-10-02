@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1aedfccd-fba8-41a1-b9ed-297a8362793f",
+  "name": "Qr04_Base_Cliente_ComOTC_Filtro_NeoBpo",
+  "key": "c2e64afd-7ff3-4720-82ba-d282403d88de",
+  "description": "",
+  "queryText": "SELECT TOP 50000\n*\nFROM\n  TB_BASE_CLIENTE_COMOTC_NEOBPO \nWHERE\n  IDADE_VALIDA = 1 \n  AND CONSELHEIRO = 0 \n  AND CLIENTE_PEP = 0 \n  AND DESEJA_CONTATO_TELEFONICO = 0 \n  AND POSSUI_TELEFONE_ATIVO = 1 \n  AND POSSUI_CONTA_CORRENTE = 1 \n  AND COMPRA_UTIMOS_30_DIAS = 0 \n  AND POSSUI_TITULO_ATIVO = 1 \n  AND QUARENTENA = 0",
+  "targetName": "Tb_Base_Cliente_Filtrada_ComOTC_NeoBpo",
+  "targetKey": "875A6B66-86B7-4ACD-95E5-769433595A18",
+  "targetId": "4bfe6836-30a4-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-23T06:39:33.08",
+  "modifiedDate": "2021-05-28T14:03:02.84",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 30539,
+  "isFrozen": false
+}

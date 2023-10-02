@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4412d757-5267-4dd3-8edd-93039cdafdef",
+  "name": "Close_the_loop_clientes_ativos_titulos",
+  "key": "01d0c6b1-6e28-4e31-a3f0-1413792aff9f",
+  "description": "",
+  "queryText": "SELECT\n    b.Id AS Id_contato,\n    REPLACE(REPLACE( REPLACE( REPLACE( REPLACE( REPLACE( REPLACE( REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (REPLACE (b.Name, 'á', 'a'),'é', 'e'),'í', 'i'),'ó', 'o'),'ú', 'u'),'Á', 'A'),'É', 'E'),'Í', 'I'),'Ó', 'O'),'Ú', 'U'),'à', 'a'),'À', 'A'),'ã', 'a'),'õ', 'o'),'Ã', 'A'),  'Õ', 'O'),'â', 'a'),'ê', 'e'),'ô', 'o'),'Â', 'A'),'Ê', 'E'),'Ô', 'O'),'ç', 'c'),'Ç', 'c') , '-', '') , '+', '') , '|', '') , '$', '') , '%', '') , '&', '') , '¦', '') AS Nome,\n    b.HC_CPF_CNPJ__c as CPF_CNPJ,\n    c.Id AS Id_cliente,\n    d.Id AS Id_cliente_parceiro,\n    d.HC_Celular_1__c AS Celular_1,\n    d.HC_Celular_2__c AS Celular_2,\n    d.HC_Idade__c AS Idade,\n    e.Id AS Id_titulo,\n    e.HC_Tipo_de_pagamento__c AS Tipo_pagamento\nFROM HC_Titulo__c_Salesforce e\n    INNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce d\n        ON d.Id = e.HC_Subscritor__c /*e.HC_Cliente_x_Parceiro__c*/\n    INNER JOIN Campaign_Salesforce a\n        ON 1 = 1\n    INNER JOIN Account_Salesforce c\n        ON c.Id = d.HC_Cliente__c\n    INNER JOIN Contact_Salesforce b\n        ON b.AccountId = c.Id \nWHERE\n    a.Id = '7016g000000NhziAAC'\n    AND\n    a.IsActive = 1\n    AND\n    (\n        e.HC_Situacao__c = 'Ativo'\n        OR\n        e.HC_Situacao__c = 'Em processo de finalização'\n        OR\n        e.HC_Situacao__c = 'Em processo de Reativação'\n        OR\n        e.HC_Situacao__c = 'Pendente - Solicitação em andamento'\n        OR\n        e.HC_Situacao__c = 'Suspenso'\n    )\n    /* MOMENTO DE EXECUÇÃO DA CAMPANHA */\n    /* AND \n    CONVERT(VARCHAR(10), a.HC_Data_de_Execucao__c, 101) = CONVERT(VARCHAR(10), GETDATE(), 101)\n    AND \n    DATEPART(HH, a.HC_Data_de_Execucao__c) = DATEPART(HH, GETDATE())\n    AND \n    b.HC_Tipo_de_Relacionamento__c = 'Cliente' */\n    \n    ",
+  "targetName": "Close_the_loop_clientes_ativos_titulos",
+  "targetKey": "D52C7E4E-5796-428F-BD88-71ADB86B26C1",
+  "targetId": "e5f57191-1e61-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-25T09:39:13.84",
+  "modifiedDate": "2023-06-14T07:48:58.68",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 56140,
+  "isFrozen": false
+}

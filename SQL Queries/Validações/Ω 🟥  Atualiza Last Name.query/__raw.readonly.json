@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2e5bbecb-42b7-48d5-83f2-acefaf65c457",
+  "name": "Atualiza Last Name",
+  "key": "2E5BBECB-42B7-48D5-83F2-ACEFAF65C457",
+  "description": "",
+  "queryText": "select  HC_Tipo_de_Relacionamento__c, \n        accountid,\n        HC_CPF_CNPJ__c,\n        firstName,\n        Substring(Name, charindex(' ',name)+1, len(name)) as LastName\nfrom ContatosImportar_Tratado",
+  "targetName": "ContatosImportar_Tratado1",
+  "targetKey": "9B070FF8-60A6-4B19-9C77-25DDD997BA05",
+  "targetId": "349f96be-dfc8-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-22T12:36:52.22",
+  "modifiedDate": "2023-06-06T07:54:15.807",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "content_id",
+    "FieldType": "Text",
+    "ObjectID": "9c45c449-4c1d-4f81-b947-2f9473ea852c",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "availability",
+    "FieldType": "Boolean",
+    "ObjectID": "3b3177df-4914-4d2f-b449-c6b93e8fe3e1",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "title",
+    "FieldType": "Text",
+    "ObjectID": "9a798d63-bc24-4f88-bfa8-46e53a59c537",
+    "MaxLength": "1000",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "uuid",
+    "FieldType": "Text",
+    "ObjectID": "6df230fd-dda6-44dd-b475-0e652198d75c",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 4
+  }
+]

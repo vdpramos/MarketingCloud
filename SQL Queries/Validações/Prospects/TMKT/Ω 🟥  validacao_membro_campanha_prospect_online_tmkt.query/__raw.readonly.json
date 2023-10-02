@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "75df819a-39b4-465e-ae66-1daa4781953a",
+  "name": "validacao_membro_campanha_prospect_online_tmkt",
+  "key": "5cb20c6d-dc86-4557-adee-3eb80b394b03",
+  "description": "",
+  "queryText": "select\na.CPF,\nc.Id as Id_Contato,\nCM.CreatedDate as Data_criacao_membro\nfrom\nTb_Base_Prospect_OTC291_Online_Filtrada_TMKT a\nINNER JOIN CONTACT_SALESFORCE C ON C.HC_CPF_CNPJ__C = A.CPF\nINNER JOIN HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE CP ON CP.HC_CPF_CNPJ__C = A.CPF  AND CP.HC_Chave_Parceiro__c = '52'\nINNER JOIN CampaignMember_SALESFORCE CM ON CM.CONTACTID = C.ID AND CM.CampaignId = '7016g000000NiyOAAS'\nleft join Tb_Base_Prospect_Extracao_Online_TMKT ext on a.CPF = ext.CPF_CNPJ\nwhere\next.CPF_CNPJ is null",
+  "targetName": "Validacao_membro_campanha_prospect_online_tmkt",
+  "targetKey": "F8A46532-BEF6-4EAD-B4B0-124E33312A6A",
+  "targetId": "3cdf1195-798c-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2023-01-04T15:50:24.18",
+  "modifiedDate": "2023-01-05T07:25:00.137",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 54102,
+  "isFrozen": false
+}

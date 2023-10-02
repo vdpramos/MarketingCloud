@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "0a9baeea-7590-4310-b838-f7ecd4bd4b27",
+  "name": "BuscaIdClienteDataNascimento",
+  "key": "2cacb97c-0f2e-4f73-965a-c42014b4cc04",
+  "description": "",
+  "queryText": "select A.ID, d.CPF, d.NOME, d.DATA_NASCIMENTO, d.SEXO \nfrom DataNascimentoDar d\ninner join account_SALESFORCE a\n    on d.CPF = a.HC_CPF_CNPJ_Cliente__c\nwhere d.DATA_NASCIMENTO <> A.HC_Data_Nascimento__c",
+  "targetName": "DataNascimentoComId",
+  "targetKey": "14C0BB07-A48D-4C14-ADA1-18B9F2B8D31F",
+  "targetId": "7dd8546c-ee7e-ec11-a317-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2022-01-26T15:25:31.643",
+  "modifiedDate": "2022-07-25T13:19:53.357",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

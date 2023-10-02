@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "09da4adf-002a-40e3-9eca-97857f024d06",
+  "name": "Qr06.1_Base_Fim_Plano_Ourocap_PU_PP_ComOTC_Tratada_OTC291_NeoBpo",
+  "key": "6468dbf5-ff48-43f0-a36e-a6838c07f669",
+  "description": "Atualiza publico já recebido no OTC291",
+  "queryText": "SELECT\n  A.CODIGO_PARCEIRO,\n  A.ID_CLIENTE,\n  A.CODIGO_MCI,\n  A.TIPO_PESSOA,\n  A.CODIGO_CIC,\n  A.DT_NASCIMENTO,\n  A.NOME,\n  left(B.SEXO, 1) as SEXO,\n  left(B.UF, 2) as UF_RESIDENCIAL,\n  left(B.Ddd_Tel_01, 4) as Ddd1,\n  left(B.Tel_01, 10) as Telefone1,\n  left(B.Tipo_Tel_01, 10) as Tipo_Tel_01,\n  left(B.Ddd_Tel_02, 4) as Ddd2,\n  left(B.Tel_02, 10) as Telefone2,\n  left(B.Tipo_Tel_02, 10) as Tipo_Tel_02,\n  left(B.Ddd_Tel_03, 4) as Ddd3,\n  left(B.Tel_03, 10) as Telefone3,\n  left(B.Tipo_Tel_03, 10) as Tipo_Tel_03,\n  left(B.Ddd_Tel_04, 4) as Ddd4,\n  left(B.Tel_04, 10) as Telefone4,\n  left(B.Tipo_Tel_04, 10) as Tipo_Tel_04,\n  left(B.Ddd_Tel_05, 4) as Ddd5,\n  left(B.Tel_05, 10) as Telefone5,\n  left(B.Tipo_Tel_05, 10) as Tipo_Tel_05,\n  left(B.Ddd_Tel_06, 4) as Ddd6,\n  left(B.Tel_06, 10) as Telefone6,\n  left(B.Tipo_Tel_06, 10) as Tipo_Tel_06,\n  A.CODIGO_PLANO,\n  A.ORIGEM_SOLICITACAO,\n  A.FILLER,\n  A.CODIGO_RNA,\n  A.VALOR_RENDIMENTOS,\n  A.TIPO_CARTEIRA,\n  A.NIVEL_RELACIONAMENTO,\n  A.DATA_INFORMACAO,\n  A.FILLER2,\n  A.CPF,\n  left(UPPER(SUBSTRING(B.NOME, 1, CHARINDEX(' ', B.NOME) - 1)), 50) AS PRIMEIRO_NOME,\n  left(UPPER(SUBSTRING(B.NOME, CHARINDEX(' ', B.NOME) + 1, LEN(B.NOME))), 50) AS SOBRENOME,\n  A.DT_NASCIMENTO_SF,\n  /*CONCAT(CONVERT(INT, SUBSTRING(RETORNO, 234, 13)),'.',RIGHT(SUBSTRING(RETORNO, 234, 15), 2)) AS FAIXA_RENDA_MENSAL,*/\n  A.ALTA_RENDA,\n  B.Tipo_Campanha,\n  B.Id_Campanha,\n  B.Id_Cliente_Parceiro,\n  B.Id_Contato\nFROM\n  Tb_Base_OTC291_Tratada A\nINNER JOIN TB_BASE_FIM_PLANO_OUROCAP_PU_PP_COMOTC_NEOBPO_FILTRADA B ON A.CPF = B.CPF_CNPJ",
+  "targetName": "Tb_Base_Fim_Plano_Ourocap_PU_PP_OTC291_Tratada_NeoBpo",
+  "targetKey": "DCA08357-8EBE-4E64-B3B5-2DB0EA6111B6",
+  "targetId": "6e67a4d9-e009-ec11-a30b-48df370eabe4",
+  "targetDescription": "Base com publico ja recebido na Base de resposta do OTC291",
+  "createdDate": "2021-08-30T16:23:59.107",
+  "modifiedDate": "2023-07-25T08:15:37.867",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 32463,
+  "isFrozen": false
+}

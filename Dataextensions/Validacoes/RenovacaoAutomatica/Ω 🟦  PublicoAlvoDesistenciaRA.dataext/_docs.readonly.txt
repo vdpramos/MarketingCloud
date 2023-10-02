@@ -1,0 +1,14 @@
+Dataextension name: PublicoAlvoDesistenciaRA
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_TITULO_SF         | Text(50)        | true     | true     |                 |
+| PARCEIRO             | Text(50)        | false    | false    |                 |
+| SERIE                | Text(2)         | false    | false    |                 |
+| PLANO                | Text(6)         | false    | false    |                 |
+| FIM_VIGENCIA         | Date            | false    | false    |                 |
+| ID_CLIENTE_SF        | Text(50)        | true     | true     |                 |
+| TELEFONE_PRINCIPAL   | Phone           | false    | false    |                 |
+| ID_TITULO            | Text(50)        | false    | false    |                 |
+| NOME_CLIENTE         | Text(100)       | false    | false    |                 |
+| ID_CONTATO           | Text(50)        | false    | false    |                 |

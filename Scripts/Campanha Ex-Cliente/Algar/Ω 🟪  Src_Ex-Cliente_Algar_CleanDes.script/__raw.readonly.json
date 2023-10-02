@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "ab879dde-f7ab-412c-8132-be0dbb8ae135",
+  "name": "Src_Ex-Cliente_Algar_CleanDes",
+  "key": "78098b0c-88ba-477d-9990-6cc0d8aa476d",
+  "description": "Limpar DEs para impedir duplicada da campanha",
+  "script": "<script runat=server>\r\n  Platform.Load(\"Core\", \"1.1.5\");\r\n  var api = new Script.Util.WSProxy();\r\n\r\n  var BASE_OTC290_FILTRADA = \"75F0EDA9-BE08-4B5D-85B3-3B12819EBAAA\"; // DE que enviou o OTC290\r\n  var BASE_OTC291_TRATADA = \"EE9E0A26-E279-48F4-BA46-91C687E5F0E1\"; // DE que recebe o OTC291 tratado\r\n\r\n  var action = \"ClearData\";\r\n  var opts = {};\r\n  var props_BASE_OTC290_FILTRADA = {\r\n    CustomerKey: BASE_OTC290_FILTRADA\r\n  };\r\n\r\n  var props_BASE_OTC291_TRATADA = {\r\n    CustomerKey: BASE_OTC291_TRATADA\r\n  };\r\n  \r\n  api.performItem(\"DataExtension\", props_BASE_OTC290_FILTRADA, action, opts);\r\n  api.performItem(\"DataExtension\", props_BASE_OTC291_TRATADA, action, opts);\r\n\r\n</script>",
+  "categoryId": 38819,
+  "createdDate": "2021-08-31T18:38:13.103",
+  "modifiedDate": "2021-08-31T18:38:13.103"
+}

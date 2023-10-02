@@ -1,0 +1,6 @@
+Dataextension name: ContatosInexistentesNoMkt
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Name                 | Text(50)        | false    | false    |                 |
+| hc_cliente__c        | Text(50)        | false    | false    |                 |

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "01554682-FB3B-491A-905C-F9EA5167B127"
+  ],
+  "Name": [
+    "Tb_Base_OTC291_Tratada_Historico"
+  ]
+}

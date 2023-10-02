@@ -1,0 +1,22 @@
+{
+  "channel": "sms",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:previewbycodetype": {
+    "locale": "BR",
+    "supportsConcatenation": true
+  },
+  "display:message": "Ola! Nos, da Brasilcap, disponibilizamos seu informe de rendimentos 2022 para declaracao do IRPJ.\n\nCadastre-se aqui e acesse o documento.\nhttps://bit.ly/42j7amC",
+  "currentColumn": 0,
+  "display:message:display": "Ola! Nos, da Brasilcap, disponibilizamos seu informe de rendimentos 2022 para declaracao do IRPJ.\n\nCadastre-se aqui e acesse o documento.\nhttps://bit.ly/42j7amC",
+  "template": "sms",
+  "contents": [],
+  "shortLinks": [
+    {
+      "originalUrl": "https://informes.brasilcap.com.br/#/cadastro",
+      "shortUrl": "https://bit.ly/42j7amC"
+    }
+  ],
+  "uncheckedPanels": []
+}

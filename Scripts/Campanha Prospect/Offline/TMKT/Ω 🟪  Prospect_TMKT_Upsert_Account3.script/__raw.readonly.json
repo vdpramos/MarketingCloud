@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "bca96826-a230-4da9-a3ef-5b235e79aa96",
+  "name": "Prospect_TMKT_Upsert_Account3",
+  "key": "e4c70dc8-7759-49e5-8276-15b9f4613582",
+  "description": "Faz o upsert da Account com os dados da DE OTC291 Filtrado",
+  "script": "<script runat=\"server\">\r\nPlatform(\"Core\", \"2.0\");\r\nvar api = new Script.Util.WSProxy();\r\nvar urlToUpsert = 'https://brasilcap.my.salesforce.com/services/data/v52.0/composite/sobjects/Account/HC_CPF_CNPJ_Cliente__c';\r\nvar nameDE = 'Tb_Base_Prospect_OTC291_Filtrada_TMKT';\r\nvar idCampanha = '7016g000002O0CEAA0';\r\nvar attributeType = 'Account'; // Objeto para inserir\r\nvar BATCH_SIZE = 200; // 1 a 2500\r\n// Colocar como está o nome do campo no Data Extension (de) como atributo (esquerdo) e com qual nome deve ser enviado para o Service (para)\r\n// no lado direito como valor\r\nvar deparaCampos = {\r\n  \"CPF\": \"HC_CPF_CNPJ_Cliente__c\",\r\n  \"Nome\": \"Name\",\r\n  \"Dt_Nascimento_SF\": \"HC_Data_Nascimento__c\"\r\n}\r\n\r\n// DE OTC291 filtrado\r\nvar campoIdNoDEParaAtualizar = 'Id_Conta';\r\nvar campoPKNoDEParaAtualizar = 'CPF';\r\n\r\n// Formatar campos de data para formato YYYY-MM-DD\r\n// Usar lado direito no caso do objeto deparaCampos\r\nvar dateFieldsToFormat = [\r\n  'HC_Data_Nascimento__c'\r\n];\r\n\r\n// Aplicar um filtro para trazer do DE apenas linhas desejadas\r\nvar applyFilterRetrieve = true; // flag para usar o filtro \"filterRetrieveRows\"\r\n// Campo para atualizar o DE informando que um contato já teve a tentativa de disparo\r\n// Para caso o Script precise ser executado novamente\r\nvar flagEnvioParaService = 'Envio_Service_Account';\r\nvar filterRetrieveRows = {\r\n  LeftOperand:{\r\n    Property: flagEnvioParaService,\r\n    SimpleOperator: 'equals',\r\n    Value: false\r\n  },\r\n  LogicalOperator:\"AND\",\r\n  RightOperand:{\r\n    Property: 'Row',\r\n    SimpleOperator: 'greaterThan', \r\n    Value: 150000\r\n  }\r\n}\r\n\r\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('56360') ));\r\n</script>",
+  "categoryId": 38837,
+  "createdDate": "2022-04-16T13:46:19.97",
+  "modifiedDate": "2022-04-16T13:46:19.97"
+}

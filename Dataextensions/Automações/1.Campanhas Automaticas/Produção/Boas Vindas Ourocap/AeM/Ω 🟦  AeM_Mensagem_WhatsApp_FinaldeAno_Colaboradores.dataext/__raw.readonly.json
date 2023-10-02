@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "B768FD25-C52F-4195-B893-F5A698E7A810"
+  ],
+  "Name": [
+    "AeM_Mensagem_WhatsApp_FinaldeAno_Colaboradores"
+  ]
+}

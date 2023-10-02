@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "cd6dbeb2-1c41-4842-b997-193d70220603",
+  "name": "QR_Recuperacao_Caducidade_NaoImportune_5",
+  "key": "CD6DBEB2-1C41-4842-B997-193D70220603",
+  "description": "",
+  "queryText": "SELECT\n\tA.CPF_CNPJ AS ID,\n\t1 AS NAO_IMPORTUNE\nFROM Tb_Recuperacao_Caducidade_publico_Inicial A\nINNER JOIN TB_BASE_NAO_IMPORTUNE N ON ISNULL(CONCAT(A.DDD_TEL_05, A.TEL_05), '00000000000') = LTRIM(RTRIM(N.TELEFONE))",
+  "targetName": "Tb_Recuperacao_Caducidade_Publico_Inicial",
+  "targetKey": "EDB52CFC-F74D-4D07-823D-0627FCF59FF3",
+  "targetId": "07bbce28-e203-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-05T12:42:45.55",
+  "modifiedDate": "2023-06-09T07:56:25.66",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 1930,
+  "isFrozen": false
+}

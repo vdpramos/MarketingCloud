@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "CPF_CNPJ_PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "ea5244b9-ad97-43a4-a75a-f8ec59083608",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

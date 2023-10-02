@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "9906ba35-ec96-4164-b37b-cbf125879c91",
+  "name": "Close_the_loop_cancelados_extracao",
+  "key": "bf9b43a7-ba11-452b-9c9d-84abdb8e002a",
+  "description": "",
+  "queryText": "SELECT *,\n    (SELECT MAX(Onda) FROM Close_the_loop_controle_ondas) AS Onda\nFROM Close_the_loop_OTC291_filtrada\nWHERE\n    Interacao = 'Cancelados'",
+  "targetName": "Close_the_loop_cancelados_extracao",
+  "targetKey": "1F34B1F0-804D-4B2A-A103-EF63124F3567",
+  "targetId": "99ba3c0d-e370-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-29T17:04:48.083",
+  "modifiedDate": "2023-04-26T10:38:07.64",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 56143,
+  "isFrozen": false
+}

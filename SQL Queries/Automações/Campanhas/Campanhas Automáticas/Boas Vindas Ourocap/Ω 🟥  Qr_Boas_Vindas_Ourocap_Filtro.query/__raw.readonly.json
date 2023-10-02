@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "075aba68-db7f-4beb-9e3c-fad132df5ef7",
+  "name": "Qr_Boas_Vindas_Ourocap_Filtro",
+  "key": "ab0a48ba-a84e-44ba-be00-6d868b3cbcf3",
+  "description": "Filtra os contato para a Jornada de boas vindas",
+  "queryText": "SELECT \r\n\tId_Contato,\r\n\tMAX(CPF_CNPJ) AS CPF_CNPJ,\r\n\tMAX(Nome) AS Nome,\r\n\tMAX(Id_Campanha) AS Id_Campanha,\r\n\tMAX(Id_Cliente_Parceiro) AS Id_Cliente_Parceiro,\r\n\tMAX(CONVERT(INTEGER, NAO_DESEJA_RECEBER_EMAIL)) AS NAO_DESEJA_RECEBER_EMAIL,\r\n\tMAX(CONVERT(INTEGER, NAO_DESEJA_RECEBER_SMS)) AS NAO_DESEJA_RECEBER_SMS,\r\n\tMAX(EMAIL) AS EMAIL,\r\n\tMAX(CONVERT(INTEGER, EMAIL_VALIDO)) AS EMAIL_VALIDO,\r\n\tMAX(CELULAR) AS CELULAR,\r\n\tMAX(CONVERT(INTEGER, CELULAR_VALIDO)) AS CELULAR_VALIDO,\r\n\tMAX(TITULOS_ANTERIORES_ATIVOS) AS TITULOS_ANTERIORES_ATIVOS,\r\n\tMAX(TITULOS_ANTERIORES_INATIVOS) AS TITULOS_ANTERIORES_INATIVOS,\r\n\tMAX(CREATEDDATE) AS CREATEDDATE\r\nFROM TB_BOAS_VINDAS_OUROCAP_PROSPOSTAS\r\nWHERE NAO_IMPORTUNE = 0\r\nGROUP BY ID_CONTATO",
+  "targetName": "Boas_Vindas_Disparo",
+  "targetKey": "D463B07A-6AAD-4B93-82E8-116D0C69AE54",
+  "targetId": "98ff3a8c-2002-ed11-a5b6-d4f5ef66aed7",
+  "targetDescription": "DE usada para Jornada",
+  "createdDate": "2021-08-03T18:51:41.65",
+  "modifiedDate": "2022-09-20T13:22:10.54",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 37320,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "bf027997-8713-436f-9154-841709e087ba",
+  "name": "Titulos sem cliente único associados",
+  "key": "3d1349cf-d23e-49c7-954f-39c2d7d90413",
+  "description": "",
+  "queryText": "select  t.id as id_titulo, \n        t.HC_Cliente_x_Parceiro__c as id_titular, \n        t.HC_Subscritor__c as id_subscritor, \n        acc.id as id_cliente,\n        t.HC_Numero_do_Titulo__c as num_titulo,  \n        t.HC_Serie__c as serie, \n        t.HC_Plano__c as plano, \n        t.HC_Origem__c as origem, \n        t.HC_Titulo__c as id_titulo_darwin\nfrom hc_titulo__c_salesforce t\nleft join account_salesforce acc   \n        on t.HC_CPF_CNPJ_Titular__c = acc.HC_CPF_CNPJ_Cliente__c\nwhere /*t.HC_Cliente_x_Parceiro__c is null or t.HC_Subscritor__c is null or */\n        acc.id is not null and t.HC_Cliente__c is null",
+  "targetName": "TitulosSemClienteUnico",
+  "targetKey": "D417A3BE-13C6-40F3-993E-25F1ABC1C416",
+  "targetId": "9cce9088-95a2-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-01T19:06:33.34",
+  "modifiedDate": "2023-02-02T12:46:15.1",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

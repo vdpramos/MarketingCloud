@@ -1,0 +1,134 @@
+[
+  {
+    "Name": "AccountID",
+    "FieldType": "Number",
+    "ObjectID": "6686163e-774d-44d3-bfe0-8483c3428e5b",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "OYBAccountID",
+    "FieldType": "Number",
+    "ObjectID": "8aa97b14-0d49-439c-9c50-886e5546a3ac",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "JobID",
+    "FieldType": "Number",
+    "ObjectID": "2fa348dd-56ac-482a-97d8-9905af1462e2",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "ListID",
+    "FieldType": "Number",
+    "ObjectID": "78554522-b259-4775-8d4e-254fbb22aa55",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "BatchID",
+    "FieldType": "Number",
+    "ObjectID": "8db27252-ae58-4308-a01c-53a1aca3acce",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "SubscriberID",
+    "FieldType": "Text",
+    "ObjectID": "5184d17f-adc7-4809-a18e-9a24279e89e6",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "SubscriberKey",
+    "FieldType": "Text",
+    "ObjectID": "05816d17-5f84-4e5e-bc6d-07d7e45e8d7b",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "EventDate",
+    "FieldType": "Date",
+    "ObjectID": "a3d7640c-50a9-4e20-8a34-1a2fdcfb1dc1",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "Domain",
+    "FieldType": "Text",
+    "ObjectID": "e529e6fc-fd01-4cca-a381-fc8deb9b41e2",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "TriggererSendDefinitionObjectID",
+    "FieldType": "Text",
+    "ObjectID": "81c406e1-c44d-4483-abfc-fd1f35e6c959",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "TriggeredSendCustomerKey",
+    "FieldType": "Text",
+    "ObjectID": "a4901d98-43a7-4d26-bb86-4fda925c7aaa",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "Data_exclusao",
+    "FieldType": "Date",
+    "ObjectID": "66c8fbd4-574e-4b58-b294-1cbb0817b01f",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GetDate()",
+    "Ordinal": 11
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "channel": "sms",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:previewbycodetype": {
+    "locale": "BR",
+    "supportsConcatenation": true
+  },
+  "display:message": "OUROCAP INFORMA: \nGuardar dinheiro da sorte! Em 8 meses %%HC_Quantidade_de_clientes_sorteados__c%%  ganhadores e %%HC_Valor_do_premio__c%% milhoes em premios! Confira em http://bit.ly/sorteios-brasilcap        \n\n",
+  "currentColumn": 0,
+  "display:message:display": "OUROCAP INFORMA: \nGuardar dinheiro da sorte! Em 8 meses %%HC_Quantidade_de_clientes_sorteados__c%%  ganhadores e %%HC_Valor_do_premio__c%% milhoes em premios! Confira em http://bit.ly/sorteios-brasilcap        \n\n",
+  "template": "sms",
+  "contents": [],
+  "shortLinks": [],
+  "uncheckedPanels": []
+}

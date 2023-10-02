@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "A530ED2B-7377-4D7A-8DFF-0F06C7C415D3"
+  ],
+  "Name": [
+    "AeM_Boas_Vindas_Whatsapp_Historico"
+  ]
+}

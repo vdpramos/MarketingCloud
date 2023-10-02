@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "edc4d7e0-3427-41fb-9a30-30f6c1c56c18",
+  "name": "AtualizaContatoDuploSim",
+  "key": "dc32f6e4-6013-4ebb-8131-3835d0f51dfc",
+  "description": "",
+  "queryText": "select c.id as id_contato, \n       p.cpf_cnpj\nfrom contact_salesforce c\ninner join  PublicoAlvoDuploSim p\n    on p.CPF_CNPJ = c.hc_cpf_cnpj__c",
+  "targetName": "PublicoAlvoDuploSim",
+  "targetKey": "7B315560-45EC-48A9-BEAC-0376CBB28635",
+  "targetId": "4882c9be-c465-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-22T14:59:26.657",
+  "modifiedDate": "2022-11-22T14:59:26.657",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 1930,
+  "isFrozen": false
+}

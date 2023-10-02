@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ade4091a-212e-41e5-87f3-a97ad215b02a",
+  "name": "Qr_Boas_Vindas_Pesquisa_SMS_Trata_Celular",
+  "key": "9fe6c8bc-2a58-4991-98f5-07b7fa7c59f0",
+  "description": "",
+  "queryText": "SELECT\n  A.CPF_CNPJ,\n  A.ID_PROPOSTA,\n  '55' + REPLACE(REPLACE(REPLACE(REPLACE(A.CELULAR, '(', ''), ')', ''), ' ', ''), '-', '') AS CELULAR\nFROM TB_BOAS_VINDAS_PESQUISA_SMS A\nWHERE CELULAR IS NOT NULL",
+  "targetName": "Tb_Boas_Vindas_Pesquisa_SMS",
+  "targetKey": "5441ED26-86D7-4B47-BA59-DF24F79EC3F1",
+  "targetId": "45551c84-c139-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Publico Inicial - Propostas elegiveis para campanha",
+  "createdDate": "2022-09-21T11:33:01.543",
+  "modifiedDate": "2022-09-21T11:55:23.437",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 53495,
+  "isFrozen": false
+}

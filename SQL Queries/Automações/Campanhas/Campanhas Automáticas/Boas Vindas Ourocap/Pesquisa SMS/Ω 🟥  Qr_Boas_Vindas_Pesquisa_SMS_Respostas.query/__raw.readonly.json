@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4904981f-1f85-4010-b868-df907693f253",
+  "name": "Qr_Boas_Vindas_Pesquisa_SMS_Respostas",
+  "key": "fcf13863-b8ec-49b0-93bc-4af3ef064e4d",
+  "description": "",
+  "queryText": "SELECT DISTINCT\r\nA.Mobile AS Celular,\r\nA.MessageText AS Resposta,\r\nA.CreateDateTime AS Data,\r\nB.Id_Contato,\r\nB.CPF_CNPJ,\r\nB.Nome\r\nFROM\r\n_smsmessagetracking A\r\nINNER JOIN Boas_Vindas_Pesquisa_SMS_Historico B ON A.Mobile = B.CELULAR\r\nWHERE\r\nCONVERT(VARCHAR, DATEADD(DD, 1, A.CreateDateTime), 101) = CONVERT(VARCHAR, GETDATE(), 101)\r\nAND\r\nA.Name = 'Boas_Vindas_Resposta'\r\nAND\r\nA.Inbound = 1",
+  "targetName": "Boas_Vindas_Respostas_SMS",
+  "targetKey": "08ABAC4F-0A0A-465A-A7EE-F52916F35FB8",
+  "targetId": "5c7a628b-f039-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2022-09-21T15:29:17.943",
+  "modifiedDate": "2023-03-20T09:22:16.617",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 53495,
+  "isFrozen": false
+}

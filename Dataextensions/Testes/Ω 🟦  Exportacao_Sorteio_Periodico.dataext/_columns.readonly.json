@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "SubscriberKey",
+    "FieldType": "Text",
+    "ObjectID": "f63b09b2-122b-4e0c-84b8-d80ab62e47c9",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Dia",
+    "FieldType": "Text",
+    "ObjectID": "be1efc69-b081-4108-849a-8525faf85c11",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Tipo_Contato",
+    "FieldType": "Text",
+    "ObjectID": "c5b8bc11-298b-4613-8ceb-8a5e3746cb6c",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Contato",
+    "FieldType": "Text",
+    "ObjectID": "403c781a-a129-4221-938c-3d0aaa1da2e2",
+    "MaxLength": "350",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

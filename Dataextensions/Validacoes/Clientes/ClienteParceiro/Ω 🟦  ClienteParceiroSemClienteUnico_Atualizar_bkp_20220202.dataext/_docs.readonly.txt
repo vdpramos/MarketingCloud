@@ -1,0 +1,10 @@
+Dataextension name: ClienteParceiroSemClienteUnico_Atualizar_bkp_20220202
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| id                   | Text(50)        | false    | false    |                 |
+| cpf_cnpj             | Text(50)        | false    | false    |                 |
+| NomeCompleto         | Text(100)       | false    | false    |                 |
+| Parceiro             | Text(50)        | false    | false    |                 |
+| Id_cliente           | Text(50)        | false    | false    |                 |
+| Nome_ClienteUnico    | Text(100)       | false    | false    |                 |

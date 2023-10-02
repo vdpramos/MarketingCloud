@@ -1,0 +1,10 @@
+Dataextension name: Tb_Excluidos
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | true     | true     |                 |
+| Id_Procon            | Text(50)        | false    | false    |                 |
+| Flag_Nao_Importune   | Boolean         | false    | false    |                 |
+| DAta_Insercao        | Date            | false    | false    |                 |
+| Flag_Base            | Boolean         | false    | false    |                 |
+| Flag_Fornecedor      | Boolean         | false    | false    |                 |

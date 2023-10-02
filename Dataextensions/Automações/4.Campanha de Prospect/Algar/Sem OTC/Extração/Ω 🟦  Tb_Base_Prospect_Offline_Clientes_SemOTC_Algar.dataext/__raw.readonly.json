@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "060ACF98-C39A-4D38-9A0F-D4F932692CE1"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_Clientes_SemOTC_Algar"
+  ]
+}

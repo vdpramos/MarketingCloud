@@ -1,0 +1,13 @@
+Dataextension name: TitulosSemTitular
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| id_titulo            | Text(50)        | false    | false    |                 |
+| id_titular           | Text(50)        | false    | false    |                 |
+| id_subscritor        | Text(50)        | false    | false    |                 |
+| id_clienteParceiro   | Text(50)        | false    | false    |                 |
+| num_titulo           | Text(50)        | false    | false    |                 |
+| serie                | Text(50)        | false    | false    |                 |
+| plano                | Text(50)        | false    | false    |                 |
+| origem               | Text(50)        | false    | false    |                 |
+| id_titulo_darwin     | Text(50)        | false    | false    |                 |

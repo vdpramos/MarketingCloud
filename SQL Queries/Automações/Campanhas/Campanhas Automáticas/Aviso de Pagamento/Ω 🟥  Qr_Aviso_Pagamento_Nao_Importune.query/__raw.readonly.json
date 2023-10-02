@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3b22aed2-da7d-481d-b874-894478d6f2a5",
+  "name": "Qr_Aviso_Pagamento_Nao_Importune",
+  "key": "3a43e263-1b96-4430-b45f-074b732997d9",
+  "description": "Verifica Nao Importune",
+  "queryText": "SELECT\r\n\tA.ID_CONTATO,\r\n\t1 AS NAO_IMPORTUNE\r\nFROM AVISO_PAGAMENTO_PUBLICO_INICIAL A\r\nINNER JOIN TB_BASE_NAO_IMPORTUNE N ON ISNULL(RIGHT(A.CELULAR, 11), '00000000000') = LTRIM(RTRIM(N.TELEFONE))\r\nINNER JOIN CAMPAIGN_SALESFORCE CMP ON CMP.ID = A.ID_CAMPANHA\r\nWHERE CELULAR IS NOT NULL AND CMP.HC_VALIDA_NAO_IMPORTUNE__C = 1",
+  "targetName": "AVISO_PAGAMENTO_PUBLICO_INICIAL",
+  "targetKey": "433EC58E-02C6-42B0-B735-7B2093BAF571",
+  "targetId": "f8c15b6d-f71a-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Base com publico inicialmente selecionado",
+  "createdDate": "2022-08-15T02:06:01.1",
+  "modifiedDate": "2022-08-15T02:06:01.1",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 52082,
+  "isFrozen": false
+}

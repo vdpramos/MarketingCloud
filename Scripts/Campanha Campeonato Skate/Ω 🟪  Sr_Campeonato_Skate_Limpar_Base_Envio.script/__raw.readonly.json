@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "2fa60653-310c-4c2a-bea7-df917a888881",
+  "name": "Sr_Campeonato_Skate_Limpar_Base_Envio",
+  "key": "a6074ae5-171a-4e5b-967a-97cf15a75de8",
+  "description": "Limpa DE com a base para envio",
+  "script": "<script runat=\"server\">\nPlatform(\"Core\", \"2.0\");\n\nvar api = new Script.Util.WSProxy();\nvar dataExtensionsName = ['Tb_CampeonatoSkate_Base_Envio', 'Tb_CampeonatoSkate_Quarentena_Execucao'];\n\ntry {\n  \n\n\nvar clearObject = [];\nfor (var i = 0; i < dataExtensionsName.length; i++) {\n  clearObject.push({\n    CustomerKey: retrieveDECustomerKeyFromName(api, dataExtensionsName[i])\n  });\n}\n\napi.performBatch(\"DataExtension\", clearObject, \"ClearData\");\n\n} catch (error) {\nWrite('error' + '\\n');\nWrite(Stringify(error) + '\\n\\n');   \n}\n\n/* aux functions */\nfunction retrieveDECustomerKeyFromName(api, dataExtensionName){\n  var simpleFilter = {\n    Property: 'Name',\n    SimpleOperator: 'equals',\n    Value: dataExtensionName\n  }\n  var result = api.retrieve('DataExtension', ['CustomerKey'], simpleFilter);\n  if(result.Status != 'OK' || result.Results.length < 1){\n    return null\n  }else{\n    return result.Results[0].CustomerKey;\n  }\n}\n\n</script>",
+  "categoryId": 52936,
+  "createdDate": "2022-09-04T11:47:59.147",
+  "modifiedDate": "2022-09-04T12:27:11.513"
+}

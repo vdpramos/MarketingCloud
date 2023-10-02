@@ -1,0 +1,37 @@
+SELECT
+  Id_Cliente_Parceiro,
+  TITULOS_ANTERIORES_INATIVOS,
+  TITULOS_ANTERIORES_ATIVOS,
+  Id_Contato,
+  EMAIL,
+  NAO_DESEJA_RECEBER_SMS,
+  CPF_CNPJ,
+  EMAIL_VALIDO,
+  Nome,
+  NAO_DESEJA_RECEBER_EMAIL,
+  CELULAR,
+  Id_Campanha,
+  CreatedDate,
+  CELULAR_VALIDO,
+  Flag_WhatsApp
+  from (
+  SELECT row_number() OVER (PARTITION BY 1 ORDER BY CreatedDate DESC) AS RANK,
+  Id_Cliente_Parceiro,
+  TITULOS_ANTERIORES_INATIVOS,
+  TITULOS_ANTERIORES_ATIVOS,
+  Id_Contato,
+  EMAIL,
+  NAO_DESEJA_RECEBER_SMS,
+  CPF_CNPJ,
+  EMAIL_VALIDO,
+  Nome,
+  NAO_DESEJA_RECEBER_EMAIL,
+  CELULAR,
+  Id_Campanha,
+  CreatedDate,
+  CELULAR_VALIDO,
+  REPLACE(Flag_WhatsApp, 0, 1) AS Flag_WhatsApp
+FROM
+  AeM_Boas_Vindas_Disparo
+WHERE CELULAR_VALIDO = 1) A
+WHERE RANK <= (500 - (SELECT COUNT(1) FROM AeM_Boas_Vindas_Whatsapp_Historico WHERE CONVERT(date, CreatedDate) = CONVERT(date, GETDATE())))

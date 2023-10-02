@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "attribName",
+    "FieldType": "Text",
+    "ObjectID": "d7029760-2317-4d1c-af19-f32cf6e42f77",
+    "MaxLength": "1000",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "attribValue",
+    "FieldType": "Text",
+    "ObjectID": "bd253925-7bfa-4c3d-a949-a6534ae80327",
+    "MaxLength": "1000",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "sku",
+    "FieldType": "Text",
+    "ObjectID": "622a218e-3157-46d9-90e1-ddf1e93268a3",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "updated_at",
+    "FieldType": "Date",
+    "ObjectID": "c93e308c-3ac3-4109-a2ae-041e435ee2db",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "attributeValueIndex",
+    "FieldType": "Number",
+    "ObjectID": "7606369f-d0b3-40cc-93a4-ff9abb793ff7",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

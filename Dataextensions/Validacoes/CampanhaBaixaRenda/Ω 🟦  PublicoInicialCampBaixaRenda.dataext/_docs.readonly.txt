@@ -1,0 +1,19 @@
+Dataextension name: PublicoInicialCampBaixaRenda
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| mci                  | Text(50)        | false    | false    |                 |
+| Nome_Completo        | Text(255)       | false    | false    |                 |
+| Prefixo_CC           | Text(50)        | false    | false    |                 |
+| Conta                | Text(50)        | false    | false    |                 |
+| Tipo_Conta           | Text(50)        | false    | false    |                 |
+| Sexo                 | Text(50)        | false    | false    |                 |
+| CPF                  | Text(50)        | false    | false    |                 |
+| CEP                  | Text(50)        | false    | false    |                 |
+| DDD_Fone_01          | Text(50)        | false    | false    |                 |
+| DDD_Fone_02          | Text(50)        | false    | false    |                 |
+| DDD_Fone_03          | Text(50)        | false    | false    |                 |
+| Data_Nascimento      | Text(50)        | false    | false    |                 |
+| publico              | Text(50)        | false    | false    |                 |
+| DDD_Fone_04          | Text(50)        | false    | false    |                 |
+| DDD_Fone_05          | Text(50)        | false    | false    |                 |

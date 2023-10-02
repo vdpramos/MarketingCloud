@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4b2b1477-6853-4201-b070-1150b6e22656",
+  "name": "Qr02_Base_Ex-Cliente_ComOTC_TMKT",
+  "key": "113b81c1-a890-4463-ac87-d9c968ac422c",
+  "description": "",
+  "queryText": "SELECT CASE WHEN C.HC_SITUACAO__C = 'Ativo' THEN 1 ELSE 0 END AS Possui_Titulo_Ativo,\n       CASE WHEN DATEDIFF(DD,C.HC_CONTRATACAO__C, GETDATE()) <= 30 THEN 1 ELSE 0 END AS Compra_Utimos_30_Dias,\n        B.ID\nFROM Tb_Base_Ex_Cliente_ComOTC_TMKT B\nINNER JOIN HC_TITULO__C_SALESFORCE C ON B.ID = C.HC_CPF_CNPJ_Titular__C\n",
+  "targetName": "Tb_Base_Ex_Cliente_ComOTC_TMKT",
+  "targetKey": "EE20370A-C9B9-4E72-AE05-789F84BD99EF",
+  "targetId": "2a7431fa-bda3-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-22T17:01:03.373",
+  "modifiedDate": "2021-06-01T11:54:16.587",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 33121,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1d39676e-19ab-4089-9300-1c5822f71baf",
+  "name": "Qr_Boas_Vindas_Ourocap_Nao_Importune_AeM",
+  "key": "f73c3c8e-2186-4f7d-aaa8-ffb7b902d6ba",
+  "description": "Verifica e flag Nao Importune",
+  "queryText": "SELECT\n\tA.CPF_CNPJ,\n\tA.ID_PROPOSTA,\n\t1 AS NAO_IMPORTUNE\nFROM AeM_Tb_Boas_Vindas_Ourocap_Prospostas A\nINNER JOIN TB_BASE_NAO_IMPORTUNE N ON ISNULL(RIGHT(A.CELULAR, 11), '00000000000') = LTRIM(RTRIM(N.TELEFONE))\nINNER JOIN CAMPAIGN_SALESFORCE CMP ON CMP.ID = A.ID_CAMPANHA\nWHERE CELULAR IS NOT NULL AND CMP.HC_VALIDA_NAO_IMPORTUNE__C = 1",
+  "targetName": "AeM_Tb_Boas_Vindas_Ourocap_Prospostas",
+  "targetKey": "4C6832B7-23E5-46FF-B283-32F1EA268620",
+  "targetId": "7553b3cb-bb50-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Publico Inicial - Propostas elegiveis para campanha",
+  "createdDate": "2022-10-21T12:08:29.75",
+  "modifiedDate": "2023-08-18T13:12:56.907",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 54649,
+  "isFrozen": false
+}

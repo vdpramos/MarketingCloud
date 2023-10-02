@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "BC218FB4-AEDD-4161-ABE8-2B7772FE64C3"
+  ],
+  "Name": [
+    "Contas de Clientes Sexo Masculino"
+  ]
+}

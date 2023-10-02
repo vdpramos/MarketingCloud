@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "A15D83CE-FC2F-495F-8FE2-9723082FC9FA"
+  ],
+  "Name": [
+    "Tb_Campanha_FimdeAno2021_Base"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "decba9bc-cfcf-4738-9715-8289baca1172",
+  "name": "Qr05.1_Base_Prop_Ourocap_N_Pag_OTC291_TESTE",
+  "key": "64e934f2-f8c1-4a33-8a1a-5a9c7ab73ecb",
+  "description": "Recebe resposta OTC291 e guard",
+  "queryText": "SELECT\n  A.CODIGO_PARCEIRO,\n  A.ID_CLIENTE,\n  A.CODIGO_MCI,\n  A.TIPO_PESSOA,\n  A.CODIGO_CIC,\n  A.DT_NASCIMENTO,\n  A.NOME,\n  A.SEXO,\n  A.UF_RESIDENCIAL,\n  A.DDD1,\n  A.TELEFONE1,\n  A.DDD2,\n  A.TELEFONE2,\n  A.DDD3,\n  A.TELEFONE3,\n  A.CODIGO_PLANO,\n  A.ORIGEM_SOLICITACAO,\n  A.FILLER,\n  A.CODIGO_RNA,\n  A.VALOR_RENDIMENTOS,\n  A.TIPO_CARTEIRA,\n  A.NIVEL_RELACIONAMENTO,\n  A.DATA_INFORMACAO,\n  A.FILLER2,\n  A.CPF,\n  UPPER(SUBSTRING(B.NOME, 1, CHARINDEX(' ', B.NOME) - 1)) AS PRIMEIRO_NOME,\n  UPPER(SUBSTRING(B.NOME, CHARINDEX(' ', B.NOME) + 1, LEN(B.NOME))) AS SOBRENOME,\n  A.DT_NASCIMENTO_SF,\n  CONCAT(A.CPF,'Cliente') AS CPF_TIPO_RELACIONAMENTO,\n  B.CPF_CNPJ_CODIGO_DO_PARCEIRO,\n  B.ID_CLIENTE_PARCEIRO,\n  B.ID_CONTATO,\n  B.ID_CAMPANHA,\n  A.FAIXA_RENDA_MENSAL,\n  A.Alta_Renda,\n  B.DATA_PROXIMA_EXECUCAO\nFROM\n  Prop_Ourocap_N_Pag_OTC291_Tratada A\nINNER JOIN Tb_Base_Prop_Ourocap_N_Pag_Filtrada_TESTE B ON A.CPF = B.CPF_CNPJ\nWHERE HC_Origem_da_Venda__c  not IN ('TIVIT - Vendas Diretas',\n                                'TIVIT - Venda Nova',\n                                'TIVIT - Revenda',\n                                'TIVIT - Revenda',\n                                'TIVIT - Venda Nova',\n                                'TIVIT - Revenda',\n                                'BrasilCap - Venda Nova',\n                                'Brasilcap - Tivit Variável',\n                                'BRASILCAP - VENDAS DIRETAS')",
+  "targetName": "Prop_Ourocap_N_Pag_OTC291_Tratada_TESTE",
+  "targetKey": "29816E63-915B-4C7A-89A3-55408603C2CC",
+  "targetId": "8d386eaf-d682-ec11-a317-48df37342c99",
+  "targetDescription": "Guarda retorno do OTC291",
+  "createdDate": "2022-01-31T14:30:41.64",
+  "modifiedDate": "2022-01-31T15:05:57.273",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 33115,
+  "isFrozen": false
+}

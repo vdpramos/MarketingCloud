@@ -1,0 +1,178 @@
+[
+  {
+    "Name": "TrackingType",
+    "FieldType": "Text",
+    "ObjectID": "a151519a-cd8c-4d0a-a7b7-57f4486ff32d",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "MID",
+    "FieldType": "Text",
+    "ObjectID": "f644cc93-4a9a-4efc-b472-6407cd750c3a",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "EID",
+    "FieldType": "Text",
+    "ObjectID": "85d7e9c8-aba9-4f43-9856-f41cd5e4d73b",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "ContactKey",
+    "FieldType": "Text",
+    "ObjectID": "e6c36d3b-bae5-45de-9413-9ff1720dcf85",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "MobileNumber",
+    "FieldType": "Text",
+    "ObjectID": "a109dd93-2c0e-4e26-b136-da50582deca9",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "EventDateUTC",
+    "FieldType": "Text",
+    "ObjectID": "2bee70c6-bd6d-4d88-a2fc-076f096ea1db",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "AppID",
+    "FieldType": "Text",
+    "ObjectID": "2fee01dc-86f9-4218-942c-abd1f0fad6f9",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "ChannelID",
+    "FieldType": "Text",
+    "ObjectID": "6ba8c1cc-4480-404b-b8e8-6a0d26ce56a5",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "ChannelType",
+    "FieldType": "Text",
+    "ObjectID": "85802af1-3968-4098-8ff3-2cda2805e0ce",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "ChannelName",
+    "FieldType": "Text",
+    "ObjectID": "fbc12790-3ab8-4755-b53d-8f93a1c38fd9",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "Status",
+    "FieldType": "Text",
+    "ObjectID": "112a6d0e-1d20-491a-b984-a51e15e885d5",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "Reason",
+    "FieldType": "Text",
+    "ObjectID": "7c500b04-899f-44dd-9b54-546c009d785a",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "JBDefinitionID",
+    "FieldType": "Text",
+    "ObjectID": "c9c28e01-b523-4a45-b515-6aced6e265a0",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "SendIdentifier",
+    "FieldType": "Text",
+    "ObjectID": "408f42ad-1623-48b8-adf1-04b6bdce2682",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "AssetID",
+    "FieldType": "Text",
+    "ObjectID": "f10442c7-7e71-41bf-8d9b-9f5c2eb5eb34",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 14
+  },
+  {
+    "Name": "MessageTypeID",
+    "FieldType": "Text",
+    "ObjectID": "5e333eb1-76f4-49ad-b650-b93c7d2df87d",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 15
+  }
+]

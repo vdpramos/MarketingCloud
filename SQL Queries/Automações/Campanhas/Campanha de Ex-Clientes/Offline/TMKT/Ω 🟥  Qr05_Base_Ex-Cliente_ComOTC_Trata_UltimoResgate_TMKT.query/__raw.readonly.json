@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3a8610da-0873-421f-9f80-abf62179b8dc",
+  "name": "Qr05_Base_Ex-Cliente_ComOTC_Trata_UltimoResgate_TMKT",
+  "key": "7d6da1a0-9b96-4557-aa15-d8d7d5c2ebe4",
+  "description": "",
+  "queryText": "SELECT\n    HC_CPF_CNPJ_Titular__c AS ID,\n\tCASE WHEN DATEDIFF(MM, MAX(HC_Data_do_ultimo_resgate__c), GETDATE()) BETWEEN 3 AND 48 THEN 1 ELSE 0 END AS ULTIMO_RESGATE,\n\tCASE WHEN HC_Situacao__c = 'Finalizado - Resgate Pago' THEN 1 ELSE 0 END AS SITUACAO_RESGATE\nFROM\n\tTB_BASE_EX_CLIENTE_COMOTC_TMKT A\nINNER JOIN HC_Titulo__c_Salesforce B\nON A.CPF_CNPJ = B.HC_CPF_CNPJ_Titular__c\nGROUP BY HC_CPF_CNPJ_Titular__c,\n         HC_Data_do_ultimo_resgate__c,\n         HC_Situacao__c",
+  "targetName": "Tb_Base_Ex_Cliente_ComOTC_TMKT",
+  "targetKey": "EE20370A-C9B9-4E72-AE05-789F84BD99EF",
+  "targetId": "2a7431fa-bda3-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-23T06:58:22.813",
+  "modifiedDate": "2021-08-26T05:48:04.927",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 33121,
+  "isFrozen": false
+}

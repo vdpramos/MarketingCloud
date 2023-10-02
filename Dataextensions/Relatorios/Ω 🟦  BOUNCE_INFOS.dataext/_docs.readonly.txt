@@ -1,0 +1,8 @@
+Dataextension name: BOUNCE_INFOS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| SubscriberKey        | Text(50)        | true     | true     |                 |
+| JobID                | Number          | true     | true     |                 |
+| EventDate            | Date            | false    | false    |                 |
+| BounceType           | Text(200)       | false    | false    |                 |

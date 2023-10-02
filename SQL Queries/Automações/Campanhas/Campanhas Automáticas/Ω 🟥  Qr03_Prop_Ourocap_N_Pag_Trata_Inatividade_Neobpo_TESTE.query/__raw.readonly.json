@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "591c5704-608b-4856-9000-dd2cb61cedfd",
+  "name": "Qr03_Prop_Ourocap_N_Pag_Trata_Inatividade_Neobpo_TESTE",
+  "key": "28c4c249-f0de-4673-bd42-d67b4c6433c2",
+  "description": "",
+  "queryText": "SELECT\n    A.CPF_CNPJ AS ID,\n    CASE WHEN DATEDIFF(MM, MAX(HC_Data_do_ultimo_resgate__c), GETDATE()) BETWEEN 3 AND 48 \n    AND q.HC_Situacao__c = 'Finalizado - Resgate Pago' THEN 1 ELSE 0 END AS Inatividade\nFROM\n\tTb_Base_Prop_Ourocap_N_Pag_TESTE A\nLEFT JOIN HC_Titulo__c_Salesforce Q ON A.CPF_CNPJ = Q.HC_CPF_CNPJ_Titular__c\nGROUP BY CPF_CNPJ,\n         HC_Data_do_ultimo_resgate__c,\n         q.HC_Situacao__c",
+  "targetName": "Tb_Base_Prop_Ourocap_N_Pag_TESTE",
+  "targetKey": "7E837417-26A2-4C48-B95C-29095B04CC9A",
+  "targetId": "4b567221-9e82-ec11-a317-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2022-01-31T12:52:26.473",
+  "modifiedDate": "2022-01-31T12:52:26.473",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 31534,
+  "isFrozen": false
+}

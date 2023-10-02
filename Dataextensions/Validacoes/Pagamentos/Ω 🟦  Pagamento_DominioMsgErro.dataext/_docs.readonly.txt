@@ -1,0 +1,6 @@
+Dataextension name: Pagamento_DominioMsgErro
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| HC_Codigo_de_Retorno_de_Erro__c | Text(50)        | true     | false    |                 |
+| Descricao_do_Retorno_de_Erro__c | Text(255)       | true     | false    |                 |

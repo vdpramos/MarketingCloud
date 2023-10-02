@@ -1,0 +1,17 @@
+{
+  "channel": "sms",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:previewbycodetype": {
+    "locale": "BR",
+    "supportsConcatenation": true
+  },
+  "display:message": "Lembre-se: sua economia programada com o OUROCAP comeca dia %%DATA_AGENDAMENTO_FORMATADA%%. Boa Sorte!",
+  "currentColumn": 0,
+  "display:message:display": "Lembre-se: sua economia programada com o OUROCAP comeca dia %%DATA_AGENDAMENTO_FORMATADA%%. Boa Sorte!",
+  "template": "sms",
+  "contents": [],
+  "shortLinks": [],
+  "uncheckedPanels": []
+}

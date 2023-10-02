@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "F74BED9E-146C-443C-8FA7-BF7046425445"
+  ],
+  "Name": [
+    "Tb_Base_Fim_Plano_Ourocap_PM_ComOTC_Filtrada"
+  ]
+}

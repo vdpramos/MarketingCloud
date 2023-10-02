@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "920c2280-fb5c-496c-b30b-c0edcb2140ba",
+  "name": "Qr03_Prop_Ourocap_N_Pag_Trata_Quarentena",
+  "key": "8c4cb3e1-16ce-4c4a-9525-e3819e0cd4b1",
+  "description": "",
+  "queryText": "SELECT\n    A.CPF_CNPJ AS ID,\n\tCASE WHEN DATEDIFF(MM, Data_Campanha, GETDATE()) IS NOT NULL AND DATEDIFF(DD, Data_Campanha, GETDATE()) <= 60 THEN 1 ELSE 0 END AS QUARENTENA\nFROM\n\tTb_Base_Prop_Ourocap_N_Pag A\nLEFT JOIN Tb_Campanhas_Proposta_Historico Q ON A.CPF_CNPJ = Q.CPF",
+  "targetName": "Tb_Base_Prop_Ourocap_N_Pag",
+  "targetKey": "201CC285-77BB-400D-A5C5-FE5478F92202",
+  "targetId": "56119b8e-d193-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-03T13:38:43.477",
+  "modifiedDate": "2022-11-03T10:24:14.27",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 31534,
+  "isFrozen": false
+}

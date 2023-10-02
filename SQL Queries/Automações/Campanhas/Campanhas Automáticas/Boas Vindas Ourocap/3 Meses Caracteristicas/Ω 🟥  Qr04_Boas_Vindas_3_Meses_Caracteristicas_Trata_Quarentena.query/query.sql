@@ -1,0 +1,14 @@
+SELECT
+	A.CPF_CNPJ,
+	A.Numero_do_Titulo,
+	A.Serie_do_Titulo,
+	A.Plano_do_Titulo,
+	A.Id_Titulo,
+	CASE WHEN Q.CPF_CNPJ IS NOT NULL THEN 1 ELSE 0 END AS QUARENTENA
+FROM
+	Tb_Boas_Vindas_3_Meses_Clientes_E_Titulos A
+LEFT JOIN Tb_Boas_Vindas_3_Meses_Caracteristicas_Quarentena Q ON A.CPF_CNPJ = Q.CPF_CNPJ
+	AND A.NUMERO_DO_TITULO = Q.NUMERO_DO_TITULO
+	AND A.SERIE_DO_TITULO = Q.SERIE_DO_TITULO
+	AND A.PLANO_DO_TITULO = Q.PLANO_DO_TITULO
+	AND A.ID_TITULO = Q.ID_TITULO

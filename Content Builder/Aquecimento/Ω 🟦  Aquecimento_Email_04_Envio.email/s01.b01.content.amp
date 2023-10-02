@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=viewport content="width=device-width, initial-scale=1">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Banco do Brasil</title>
+        <style>
+        .centerwidth {
+        width: 600px;
+        }
+        @media screen and (max-width: 600px) {
+        .full-width {
+        width: 100% !important;
+        }
+        }
+        </style>
+
+    </head>
+    <body bgcolor="#ffffff">
+        <table width="650" border="0" align="center" cellpadding="0" cellspacing="0">
+            <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color:#ffffff" bgcolor="white">
+                <tr>
+                    <td align="center" valign="top" bgcolor="#ffffff" style="padding:10px 0 10px 0;">
+                        <table role="presentation" width="530px" border="0" align="center" cellpadding="15px" cellspacing="0">
+                            <tr>
+                                <td width="33%" align="left" style="font-size: 10px; font-family:Verdana, Arial, sans-serif; color: #acacac; text-decoration:none;">
+                                    Marque este remetente como confiável
+                                </td>
+                                
+                                <td width="33%" align="center" style="font-size: 10px; font-family:Verdana, Arial, sans-serif; color: #acacac; text-decoration:none;">
+                                    <a href="%%view_email_url%%" target="_blank" style="color: #acacac;;text-decoration:none;">
+                                    Visualize no navegador</a>
+                                </td>
+                                
+                                <td width="33%" align="right" style="font-size: 10px; font-family:Verdana, Arial, sans-serif; color: #acacac; text-decoration:none;">
+                                    <a href="%%unsub_center_url%%" target="_blank" style="color:#acacac;text-decoration:none;">
+                                    Descadastrar</a>
+                                </td>
+                                
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            
+            <table style="max-width:600px!important; " border="0" align="center" cellpadding="0"
+                cellspacing="0" class="full-width" width="600">
+                <tr>
+                    <td>
+                        
+                        <!--Banner -->
+                        <table cellspacing="0" cellpadding="0" align="center" border="0" width="100%">
+                            <tr>
+                                <td valign="top" align="center" width="100%">
+                                    
+                                    <img src="https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/73f998b4-442c-48e1-b946-2bc729c26e7c.png"
+                                    alt="" style="display: block; outline: none; max-width: 100%;" border="0" />
+                                    
+                                </td>
+                            </tr>
+                        </table>
+                        <!--Banner -->
+                        <!-- Bloco-bgcolor -->
+                        <table  bgcolor="#FFFFFF" border="0" align="center" cellpadding="0"
+                            cellspacing="0" width="100%">
+                            <tr>
+                                <td>
+                                    
+                                      <!--Text-span -->
+                            <table cellspacing="0" cellpadding="0" align="center" border="0" width="86%" style="border: 1px solid #475EFF;border-top: none;">
+                                <tr>
+                                    <td valign="top" align="center" width="86%" style="padding: 20px; font-size: 15px; text-align: left; line-height: 24px; font-family: arial;">
+                                     
+                                        <b style="font-size: 25px; line-height: 24px; color: #475EFF;">Olá, </b>
+                                       
+                                        
+                                        <br><br>
+Com o Ourocap você pode juntar um pouquinho a cada mês ou de uma vez só, guardando aquela graninha extra do décimo terceiro.
+
+
+
+
+
+
+
+
+
+    <br><br>
+Só neste ano, já foram 13.345 títulos Ourocap sorteados e mais de R$ 35,6 milhões em prêmios em todo o Brasil. Agora, no dia 01/12, 
+acontece o sorteio especial do Ourocap, onde você pode se tornar o próximo milionário, concorrendo ao maior prêmio do mercado de capitalização: R$ 25 milhões!
+
+    <br><br>
+
+Aproveite essa chance de começar novos planos e, quem sabe, antecipá-los.
+Afinal, com o Ourocap guardar dinheiro dá sorte!
+
+                                                                            <a                                      href="https://www.brasilcap.com/brasilcap/produtos/ourocap/novo-ourocap.html"
+                                                                               </a>
+                                        <br><br>
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                            <!--Text-span -->
+
+                            <table cellspacing="0" cellpadding="0" align="center" border="0" width="263">
+                                
+                                    
+                                    <!--Spacer-20 -->
+                                    <table cellspacing="0" cellpadding="0" align="center" border="0" width="100%" height="25">
+                                        <tr>
+                                            <td valign="top" align="center" width="100%" height="25"></td>
+                                        </tr>
+                                    </table>
+                                    <!--Spacer-20 -->
+                                    <table cellspacing="0" cellpadding="0" align="center" border="0" width="263">
+                                        <tr>
+                                            <td valign="top" align="center" width="263">
+                                                <a target="_blank" href=""https://www.brasilcap.com/brasilcap/produtos/ourocap/novo-ourocap.html"">
+                                                    <img src="https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/12f1f9ed-6be3-407a-920a-85569a077c3f.png"
+                                                    alt="" style="display: block; outline: none; max-width: 263px;" border="0" />
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    
+                                    
+                                    
+                                    <table bgcolor="#FFFFFF" cellspacing="0" cellpadding="0" align="center" border="0" width="100%">
+                                        <tr>
+                                            <td valign="top" align="center" width="100%"
+                                                style="text-align: left; font-size: 12px; color: #324B68; font-family: arial; font-size: 12px;">
+                                                
+                                                
+                                                
+                                                <!--Spacer-20 -->
+                                                <table cellspacing="0" cellpadding="0" align="center" border="0" width="100%" height="20">
+                                                    <tr>
+                                                        <td valign="top" align="center" width="100%" height="20">
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <table cellspacing="0" cellpadding="0" align="center" border="0" width="80%">
+                                                    <tr>
+                                                        <td valign="top" align="center" width="80%">
+                                                            <hr style="background: #D6DBE1; border: 0; height: 1px;">
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <table cellspacing="0" cellpadding="0" align="center" border="0" width="100%" height="07">
+                                                    <tr>
+                                                        <td valign="top" align="center" width="100%" height="07"></td>
+                                                    </tr>
+                                                </table>
+                                                <!--Spacer-20 -->
+                                                <!--Text-span -->
+                                                <table cellspacing="0" cellpadding="0" align="center" border="0" width="80%">
+                                                    <tr>
+                                                        <td valign="top" align="center" width="100%"
+                                                            style="text-align: left; font-size: 12px; color: #324B68; font-family: arial; font-size: 12px;">
+                                                            Este e-mail é automático Por favor, não responda. Em caso de dúvidas, acesse os nossos canais de atendimento.
+                                                            
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!--Text-span -->
+                                                <!--Spacer-07 -->
+                                                <table cellspacing="0" cellpadding="0" align="center" border="0" width="100%" height="07">
+                                                    <tr>
+                                                        <td valign="top" align="center" width="100%" height="07"></td>
+                                                    </tr>
+                                                </table>
+                                                <!--Spacer-07 -->
+                                                <!--Hr -->
+                                                <table cellspacing="0" cellpadding="0" align="center" border="0" width="80%">
+                                                    <tr>
+                                                        <td valign="top" align="center" width="80%">
+                                                            <hr style="background: #D6DBE1; border: 0; height: 1px;">
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!--Hr -->
+                                                <!--Spacer-07 -->
+                                                <table cellspacing="0" cellpadding="0" align="center" border="0" width="100%" height="11">
+                                                    <tr>
+                                                        <td valign="top" align="center" width="100%" height="11"></td>
+                                                    </tr>
+                                                </table>
+                                                
+                                                
+                                                <!--Text-span -->
+                                                <!--Spacer-30 -->
+                                                <table cellspacing="0" cellpadding="0" align="center" border="0" width="100%" height="10">
+                                                    <tr>
+                                                        <td valign="top" align="center" width="100%" height="10"></td>
+                                                    </tr>
+                                                </table>
+                                                <!--Spacer-30 -->
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- Bloco-bgcolor -->
+                        <!--Bloco-columns-footer -->
+                        <table cellspacing="0" cellpadding="0" align="center" border="0" width="80%">
+                            <tr>
+                                <td valign="top" align="center" width="80%">
+                                    <table width="100%" border="0" align="left" cellpadding="0" cellspacing="0"
+                                        bgcolor="#FFFFFF">
+                                        <tr>
+                                            <td align="left">
+                                                <table border="0" align="left" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td align="left">
+                                                            <div
+                                                                style="display: inline-block; vertical-align: middle; padding:0px!important; margin:0px!important; max-width:50%;min-width:240px; margin:0 auto">
+                                                                <table align="left" cellspacing="0" cellpadding="0"
+                                                                    border="0" width="260"
+                                                                    style="padding:0px!important; margin:0px!important; ">
+                                                                    <tr>
+                                                                        <td valign="middle" align="left"
+                                                                            style="font-family: verdana; font-size: 13px; color: #707070; text-align: left; line-height: 16px;">
+                                                                            Siga a Brasilcap nas redes sociais:
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                                <table cellspacing="0" cellpadding="0"
+                                                                    align="center" border="0" width="100%"
+                                                                    height="5">
+                                                                    <tr>
+                                                                        <td valign="top" align="center" width="100%"
+                                                                        height="5"></td>
+                                                                    </tr>
+                                                                </table>
+                                                                <table cellspacing="0" cellpadding="0" align="left"
+                                                                    border="0" width="260">
+                                                                    <tr>
+                                                                        <td valign="top" align="left">
+                                                                            <a href="https://www.facebook.com/Brasilcap"
+                                                                                title="Facebook"
+                                                                                style="text-decoration: none; outline: none; border: none;"
+                                                                                target="_blank">
+                                                                                <img src="https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/5e8fafd0-9bfe-4d6b-92c8-ee64baf24a5a.png"
+                                                                                alt="" style="outline: none;"
+                                                                                border="0" />
+                                                                            </a>
+                                                                            <a href="https://twitter.com/Brasilcapbr" title="Twiter"
+                                                                                style="text-decoration: none; outline: none; border: none;"
+                                                                                target="_blank">
+                                                                                <img src="https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/41de7599-1da4-4865-9911-2f61a971f17a.png"
+                                                                                alt="" style="outline: none;"
+                                                                                border="0" />
+                                                                            </a>
+                                                                            <a href="https://www.instagram.com/brasilcapbr"
+                                                                                title="Instagram"
+                                                                                style="text-decoration: none; outline: none; border: none;"
+                                                                                target="_blank">
+                                                                                <img src="https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/db62b431-d9cd-4d9b-921d-8fb57f11c3f2.png"
+                                                                                alt="" style="outline: none;"
+                                                                                border="0" />
+                                                                            </a>
+                                                                            <a href="https://www.linkedin.com/company/brasilcap;" title="Linkedin"
+                                                                                style="text-decoration: none; outline: none; border: none;"
+                                                                                target="_blank">
+                                                                                <img src="https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/53e2d72e-2720-4066-b7fc-be5eec88f029.png"
+                                                                                alt="" style="outline: none;"
+                                                                                border="0" />
+                                                                            </a>
+                                                                            <a href="https://www.youtube.com/user/BrasilcapBr"
+                                                                                title="Youtube"
+                                                                                style="text-decoration: none; outline: none; border: none;"
+                                                                                target="_blank">
+                                                                                <img src="https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/ab11d0a7-4145-4727-9439-c4d39b771407.png"
+                                                                                alt="" style="outline: none;"
+                                                                                border="0" />
+                                                                            </a>
+                                                                            
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                                </div><!--[if (gte mso 9)|(IE)]></td><td><![endif]--><div
+                                                                style="display: inline-block; vertical-align: middle; padding:0px!important; margin:0px!important; max-width:50%;min-width:240px; margin:0 auto">
+                                                                <table align="center" cellspacing="0"
+                                                                    cellpadding="0" border="0" width="260"
+                                                                    style="padding:0px!important; margin:0px!important;">
+                                                                    <tr>
+                                                                        <td width="260" align="center"
+                                                                            valign="middle">
+                                                                            <table cellspacing="0" cellpadding="0"
+                                                                                align="left" border="0" width="260">
+                                                                                <tr>
+                                                                                    <td valign="top" align="center"
+                                                                                        width="260"
+                                                                                        style="font-family: verdana; font-size: 13px; color: #707070; text-align: left; line-height: 16px;">
+                                                                                        Baixe o app do Banco do Brasil:
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                            <table cellspacing="0" cellpadding="0"
+                                                                                align="center" border="0"
+                                                                                width="100%" height="5">
+                                                                                <tr>
+                                                                                    <td valign="top" align="center"
+                                                                                        width="100%" height="5">
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                            <table width="260" align="left"
+                                                                                cellspacing="0" cellpadding="0"
+                                                                                border="0">
+                                                                                <tr>
+                                                                                    <td width="260">
+                                                                                        <a href="https://play.google.com/store/apps/details?id=br.com.bb.android&hl=pt_BR&gl=US"
+                                                                                            title="Play Store"
+                                                                                            style=" text-decoration: none; outline: none; border: none;"
+                                                                                            target="_blank">
+                                                                                            <img src="https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/24ff7276-fea1-49ba-b137-6b28de8a6c24.png"
+                                                                                            alt=""
+                                                                                            style=" outline: none;"
+                                                                                            border="0" />
+                                                                                        </a>
+                                                                                        <a href="https://apps.apple.com/br/app/banco-do-brasil/id330984271"
+                                                                                            title="Apple Store"
+                                                                                            style=" text-decoration: none; outline: none; border: none;"
+                                                                                            target="_blank">
+                                                                                            <img src="https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/e5870d4b-3c55-4266-be55-7f2cfd0d155d.png"
+                                                                                            alt=""
+                                                                                            style=" outline: none;"
+                                                                                            border="0" />
+                                                                                        </a>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!--Bloco-columns-footer -->
+                        
+                        
+                        <!--Text-span -->
+                        <!--Spacer-30 -->
+                        <table cellspacing="0" cellpadding="0" align="center" border="0" width="100%" height="10">
+                            <tr>
+                                <td valign="top" align="center" width="100%" height="10"></td>
+                            </tr>
+                        </table>
+                        <!--Spacer-30 -->
+
+                        <table bgcolor="#FFFFFF" cellspacing="0" cellpadding="0" align="center" border="0" width="100%">
+                                <tr>
+                                      <td valign="top" align="center" width="100%"
+                                           style="font-family: arial; font-size: 13px; color: #707070; padding: 10px; line-height: 16px;">
+                                             Caso não queira mais receber nossos e-mails, <a href="%%profile_center_url%%" title=""
+                                           style=" outline: none; border: none; color: #707070; text-decoration: none;"
+                                            target="_blank">clique aqui</a>
+                                         </td>
+                         <table style="display:hidden;padding: 0% 10% 0% 10%;text-align:center;" cellpadding="2" cellspacing="0" align="center" border="0" width="100%" >
+                                <tr>
+                                    <td>
+                                        <font face="verdana" size="1" color="#444444">Este e-mail foi enviado por: <b>%%Member_Busname%%</b>
+                                            <br>
+                                            %%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%
+                                            <br>
+                                            <br>
+                                        </font>
+                                    </td>
+                                </tr>
+                         </table>
+                             </tr>
+                         </table>
+                    </td>
+                </tr>
+            </table>
+
+
+       
+    <!--Text-span -->
+
+<!--Text-span -->
+</table>
+<!-- Bloco-bgcolor -->
+
+<custom name="opencounter" type="tracking"/>
+<!--Spacer-10 -->
+
+
+
+
+</body>
+</html>

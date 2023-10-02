@@ -1,0 +1,7 @@
+Dataextension name: Backup_status_titulos_20230623
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID                   | Text(50)        | true     | false    |                 |
+| HC_SITUACAO__C       | Text(50)        | true     | false    |                 |
+| HC_TITULO__C         | Text(50)        | true     | false    |                 |

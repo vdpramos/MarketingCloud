@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "ID",
+    "FieldType": "Text",
+    "ObjectID": "e151ce69-4c54-4c95-9fcc-abdf57bb8a76",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "HC_CustomerToBeDeleted_Flg__c",
+    "FieldType": "Text",
+    "ObjectID": "a97d5d16-9b01-4609-80b6-969bc04ba2fa",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

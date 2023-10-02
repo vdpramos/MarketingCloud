@@ -1,0 +1,7 @@
+Dataextension name: Tb_boas_vindas_nome_produto
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(254)       | true     | true     |                 |
+| Plano_do_Titulo      | Text(254)       | false    | false    |                 |
+| Nome_produto         | Text(254)       | false    | false    |                 |

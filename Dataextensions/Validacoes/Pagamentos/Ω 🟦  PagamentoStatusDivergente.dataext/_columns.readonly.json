@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "ID_PAGAMENTO",
+    "FieldType": "Text",
+    "ObjectID": "0ed9e4a8-5a87-4c74-afba-5341be7cd1a9",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "ID_PROPOSTA",
+    "FieldType": "Text",
+    "ObjectID": "c7b79a64-fdfe-4d77-84c1-08aeb8df61d2",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "ID_PLANO",
+    "FieldType": "Text",
+    "ObjectID": "26185308-ffcf-4fc4-9f2f-4057c9bfdd4c",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "DATA_ULT_AGENDAMENTO",
+    "FieldType": "Text",
+    "ObjectID": "b4e7f6de-3d27-454d-91bd-8c53275e1444",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "DESC_STATUS_PAGAMENTO",
+    "FieldType": "Text",
+    "ObjectID": "37775975-eeed-4acd-9df8-382de3484c71",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "STATUS_SF",
+    "FieldType": "Text",
+    "ObjectID": "ea7fa0d3-307a-4545-ac86-7c0e22770ae9",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

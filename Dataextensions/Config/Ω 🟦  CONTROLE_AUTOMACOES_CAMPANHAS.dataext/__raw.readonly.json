@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "04B8390F-4FDE-47E3-9CB8-092965B5D94D"
+  ],
+  "Name": [
+    "CONTROLE_AUTOMACOES_CAMPANHAS"
+  ]
+}

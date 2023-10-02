@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "d473b437-ac6b-424c-b0a9-b50a49e58c1a",
+  "name": "Src_Ex-Cliente_TMKT_CleanDes",
+  "key": "d4416cdd-1252-4216-abd9-ea41027a0c15",
+  "description": "Limpa DEs",
+  "script": " <script runat=server>\n  Platform.Load(\"Core\", \"1.1.5\");\n  var api = new Script.Util.WSProxy();\n\n  var BASE_OTC290_FILTRADA = \"CC7EDC31-8557-4AEF-9CD1-0A67C1542721\"; // DE que enviou o OTC290\n  var BASE_OTC291_TRATADA = \"8826F141-6DA9-4A9A-A79A-B4775AF960D3\"; // DE que recebe o OTC291 tratado\n\n  var action = \"ClearData\";\n  var opts = {};\n  var props_BASE_OTC290_FILTRADA = {\n    CustomerKey: BASE_OTC290_FILTRADA\n  };\n\n  var props_BASE_OTC291_TRATADA = {\n    CustomerKey: BASE_OTC291_TRATADA\n  };\n  \n  api.performItem(\"DataExtension\", props_BASE_OTC290_FILTRADA, action, opts);\n  api.performItem(\"DataExtension\", props_BASE_OTC291_TRATADA, action, opts);\n\n </script>",
+  "categoryId": 38642,
+  "createdDate": "2021-08-26T18:50:24.663",
+  "modifiedDate": "2021-12-28T12:57:09"
+}

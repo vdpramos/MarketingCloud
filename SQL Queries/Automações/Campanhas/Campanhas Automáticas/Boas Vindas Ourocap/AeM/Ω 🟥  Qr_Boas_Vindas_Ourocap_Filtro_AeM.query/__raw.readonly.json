@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "74cfcb5e-7d8a-46ca-a1ce-e44b4813555c",
+  "name": "Qr_Boas_Vindas_Ourocap_Filtro_AeM",
+  "key": "1ea8b032-2ef8-498d-a9a8-4aa5be3ebdd1",
+  "description": "Filtra os contato para a Jornada de boas vindas",
+  "queryText": "SELECT \n\tId_Contato,\n\tMAX(CPF_CNPJ) AS CPF_CNPJ,\n\tMAX(Nome) AS Nome,\n\tMAX(Id_Campanha) AS Id_Campanha,\n\tMAX(Id_Cliente_Parceiro) AS Id_Cliente_Parceiro,\n\tMAX(CONVERT(INTEGER, NAO_DESEJA_RECEBER_EMAIL)) AS NAO_DESEJA_RECEBER_EMAIL,\n\tMAX(CONVERT(INTEGER, NAO_DESEJA_RECEBER_SMS)) AS NAO_DESEJA_RECEBER_SMS,\n\tMAX(EMAIL) AS EMAIL,\n\tMAX(CONVERT(INTEGER, EMAIL_VALIDO)) AS EMAIL_VALIDO,\n\tMAX(CELULAR) AS CELULAR,\n\tMAX(CONVERT(INTEGER, CELULAR_VALIDO)) AS CELULAR_VALIDO,\n\tMAX(TITULOS_ANTERIORES_ATIVOS) AS TITULOS_ANTERIORES_ATIVOS,\n\tMAX(TITULOS_ANTERIORES_INATIVOS) AS TITULOS_ANTERIORES_INATIVOS,\n\tMAX(CREATEDDATE) AS CREATEDDATE,\n\tMAX(CONVERT(INTEGER, FLAG_WHATSAPP)) AS FLAG_WHATSAPP\nFROM AeM_Tb_Boas_Vindas_Ourocap_Prospostas\nWHERE NAO_IMPORTUNE = 0\nGROUP BY ID_CONTATO",
+  "targetName": "AeM_Boas_Vindas_Disparo",
+  "targetKey": "6835A876-120E-463B-874F-67592591B5B6",
+  "targetId": "703abb9f-d34f-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "DE para disparo com WhatsApp AlvarezeMarsal",
+  "createdDate": "2022-10-21T12:16:22.437",
+  "modifiedDate": "2023-02-08T14:54:55.48",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 54649,
+  "isFrozen": false
+}

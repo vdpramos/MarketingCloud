@@ -1,0 +1,6 @@
+Dataextension name: Clientes_BB_Fora_MktCloud
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| HC_CPF_CNPJ__C       | Text(50)        | true     | false    |                 |
+| Contato_no_Marketing__c | Boolean         | true     | false    |                 |

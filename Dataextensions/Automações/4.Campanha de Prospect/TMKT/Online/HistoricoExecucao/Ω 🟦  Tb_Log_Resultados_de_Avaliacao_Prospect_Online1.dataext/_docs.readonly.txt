@@ -1,0 +1,9 @@
+Dataextension name: Tb_Log_Resultados_de_Avaliacao_Prospect_Online1
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(50)        | false    | false    |                 |
+| CAMPANHA             | Text(255)       | false    | false    |                 |
+| IDADE                | Text(50)        | false    | false    |                 |
+| RESULTADO            | Text(255)       | false    | false    |                 |
+| DATA_REGISTRO        | Date            | false    | false    |                 |

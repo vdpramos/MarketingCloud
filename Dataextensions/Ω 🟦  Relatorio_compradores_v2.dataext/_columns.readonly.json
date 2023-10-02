@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "CPF _ CNPJ Subscritor",
+    "FieldType": "Text",
+    "ObjectID": "942908bf-11e7-4900-a4e6-cb7e61c0bbbf",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Cliente",
+    "FieldType": "Text",
+    "ObjectID": "70980e6a-40cd-491b-a3d2-ba07375de521",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Títulos: Nome",
+    "FieldType": "Text",
+    "ObjectID": "828dca92-cee7-4f75-880f-27348f9677f5",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Produto relacionado",
+    "FieldType": "Text",
+    "ObjectID": "22f0ec13-9f02-4dd1-9e95-5d996fc7b967",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

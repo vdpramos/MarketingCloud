@@ -1,0 +1,31 @@
+Dataextension name: NPSCompradoresDE
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ClienteID            | Text(50)        | false    | false    |                 |
+| CPF                  | Text(15)        | false    | false    |                 |
+| Nome                 | Text(255)       | false    | false    |                 |
+| DataNascimento       | Date            | false    | false    |                 |
+| Cidade               | Text(255)       | false    | false    |                 |
+| CEP                  | Text(50)        | false    | false    |                 |
+| UF                   | Text(50)        | false    | false    |                 |
+| TipoPessoa           | Text(50)        | false    | false    |                 |
+| ChaveTitulo          | Text(50)        | false    | false    |                 |
+| StatusTitulo         | Text(50)        | false    | false    |                 |
+| InicioVigencia       | Date            | false    | false    |                 |
+| FimVigencia          | Date            | false    | false    |                 |
+| ValorParcela         | Decimal(10,2)   | false    | false    |                 |
+| NumeroProposta       | Text(50)        | false    | false    |                 |
+| OrigemVenda          | Text(100)       | false    | false    |                 |
+| TipoPagamento        | Text(50)        | false    | false    |                 |
+| Celular1             | Text(50)        | false    | false    |                 |
+| Celular2             | Text(50)        | false    | false    |                 |
+| Celular3             | Text(50)        | false    | false    |                 |
+| Fixo1                | Text(50)        | false    | false    |                 |
+| Fixo2                | Text(50)        | false    | false    |                 |
+| Fixo3                | Text(50)        | false    | false    |                 |
+| EMailBrasilcap       | Text(150)       | false    | false    |                 |
+| EmailPessoal         | Text(150)       | false    | false    |                 |
+| EmailComercial       | Text(150)       | false    | false    |                 |
+| EmailPrincipal       | Text(255)       | false    | false    |                 |
+| NaoReceberEmail      | Boolean         | false    | false    |                 |

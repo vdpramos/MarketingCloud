@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "55fac669-f9e4-4baa-b5a8-62dde8fe879e",
+  "name": "Qr_Sorteio_Formata_Celular",
+  "key": "9c978bec-f5b3-4ee3-866e-09b9ff001789",
+  "description": "Formata campo de celular para envio do SMS",
+  "queryText": "SELECT\r\n  ID,\r\n  REPLACE(REPLACE(REPLACE(REPLACE(CELULAR, '(', ''), ')', ''), ' ', ''), '-', '') AS CELULAR\r\nFROM TB_SORTEIOPERIODICO \r\nWHERE CELULAR IS NOT NULL",
+  "targetName": "Tb_SorteioPeriodico",
+  "targetKey": "2AA8BDAF-20B6-4AF9-927D-76428F521D83",
+  "targetId": "ed054452-6af5-eb11-a30d-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2022-05-04T16:10:26.54",
+  "modifiedDate": "2022-05-04T16:10:26.54",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 37898,
+  "isFrozen": false
+}

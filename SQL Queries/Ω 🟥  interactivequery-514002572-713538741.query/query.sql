@@ -1,0 +1,3 @@
+select  rtrim(left(coalesce(CAST(RESULTADO as char(255)),'<null>'), 255)) as RESULTADO, rtrim(left(coalesce(CAST(CODIGO_RNA as char(255)),'<null>'), 255)) as CODIGO_RNA, rtrim(left(coalesce(CAST(NAO_IMPORTUNE as char(255)),'<null>'), 255)) as NAO_IMPORTUNE, rtrim(left(coalesce(CAST(Data_Participacao_Campanha as char(255)),'<null>'), 255)) as Data_Participacao_Campanha, rtrim(left(coalesce(CAST(DATA_REGISTRO as char(255)),'<null>'), 255)) as DATA_REGISTRO from Tb_Log_Resultados_de_Avaliacao 
+where campanha = 'Campanha Offline PROSPECT - NEO - PUB 1 - detalhe'
+and data_registro >= '01/09/2022 00:00:00'

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "dc2f6927-ffcb-4f39-828e-921a50490700",
+  "name": "Close_the_loop_resgate_fim_PM",
+  "key": "6103336c-284c-407e-b886-a3e121e180dd",
+  "description": "",
+  "queryText": "SELECT\n    a.Id_contato,\n    a.Nome,\n    b.Id as Id_cliente_parceiro,\n    b.HC_CPF_CNPJ__c AS CPF_CNPJ,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Celular_1__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Celular_1,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Celular_2__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Celular_2,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Celular_3__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Celular_3,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Telefone_Outro__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Telefone_Brasilcap,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Telefone_Comercial__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Telefone_comercial,\n    CASE \n    \tWHEN b.HC_Email_Brasilcap__c IS NOT NULL THEN b.HC_Email_Brasilcap__c\n    \tWHEN b.HC_Email_Pessoal__c IS NOT NULL THEN b.HC_Email_Pessoal__c\n    \tWHEN b.HC_Email_Comercial__c IS NOT NULL THEN b.HC_Email_Comercial__c\n    \tELSE NULL\n    END AS Email,\n    CASE \n    \tWHEN UPPER(b.HC_Endereco_Principal__c) = 'RESIDENCIAL' THEN b.HC_UF_Res__c\n    \tWHEN UPPER(b.HC_Endereco_Principal__c) = 'COMERCIAL' THEN b.HC_UF_Com__c\n    \tWHEN UPPER(b.HC_Endereco_Principal__c) = 'CORRESPONDÊNCIA' THEN b.HC_UF_Cor__c\n    END AS UF,\n    b.HC_Idade__c AS Idade,\n    b.HC_Data_de_Nascimento__c AS Data_nascimento,\n    c.Id AS Id_titulo,\n    c.HC_Tipo_de_pagamento__c AS Tipo_pagamento,\n    c.HC_Data_do_ultimo_resgate__c AS Data_ultimo_resgate\nFROM Close_the_loop_clientes_ativos a\n    INNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce b\n        ON a.Id_cliente = b.HC_Cliente__c\n    INNER JOIN HC_Titulo__c_Salesforce c\n        ON b.Id = c.hc_subscritor__c\nWHERE\n    b.HC_Tipo_de_Pessoa__c = 'PF'\n    AND\n    b.HC_Nao_deseja_receber_Ligacoes__c = 'False'\n    AND\n    b.HC_Nao_deseja_receber_Todos_Meios__c = 'False'\n    AND\n    (\n        b.HC_Id_Parceiro_Cap__c = 'TCBB'\n        OR\n        b.HC_Id_Parceiro_Darwin__c = '1'\n    )\n    AND\n    c.HC_Situacao__c != 'Ativo'\n    AND\n    c.HC_Situacao__c != 'Em processo de finalização'\n    AND\n    c.HC_Situacao__c != 'Em processo de Reativação'\n    AND\n    c.HC_Situacao__c != 'Estornado'\n    AND\n    c.HC_Situacao__c != 'Finalizado - Antecipado total'\n    AND\n    c.HC_Situacao__c != 'Finalizado - Caducou'\n    AND\n    c.HC_Situacao__c != 'Finalizado - Cancelado'\n    AND\n    c.HC_Situacao__c != 'Finalizado - Óbito'\n    AND\n    c.HC_Situacao__c != 'Finalizado - Resgate Pago'\n    AND\n    c.HC_Situacao__c != 'Pendente - Falha no pagamento'\n    AND\n    c.HC_Situacao__c != 'Pendente - Solicitação em andamento'\n    AND\n    c.HC_Situacao__c != 'Suspenso'\n    AND\n    c.HC_Tipo_de_pagamento__c IN ('PM', 'PP')\n    AND\n    c.HC_Data_do_ultimo_resgate__c BETWEEN DATEADD(DD, 21, EOMONTH(GETDATE(),-3)) AND DATEADD(DD, 20, EOMONTH(GETDATE(),-2))",
+  "targetName": "Close_the_loop_resgate_fim",
+  "targetKey": "04E5D437-F84D-46E8-B9DA-C707FCBB07E8",
+  "targetId": "fc80e3d8-9366-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-25T09:59:37.407",
+  "modifiedDate": "2023-04-26T10:20:42.143",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 56140,
+  "isFrozen": false
+}

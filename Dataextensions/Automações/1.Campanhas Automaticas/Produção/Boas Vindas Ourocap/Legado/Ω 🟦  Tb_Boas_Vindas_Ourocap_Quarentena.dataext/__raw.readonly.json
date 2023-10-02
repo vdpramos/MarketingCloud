@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "34BA81DA-65CB-4CE2-B0C8-8A4F9D3B2DCC"
+  ],
+  "Name": [
+    "Tb_Boas_Vindas_Ourocap_Quarentena"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "4D5B642B-C748-4FC7-A4A7-94C579D1492B"
+  ],
+  "Name": [
+    "Flag_LiberarExtracao_Ex-Cliente_Algar"
+  ]
+}

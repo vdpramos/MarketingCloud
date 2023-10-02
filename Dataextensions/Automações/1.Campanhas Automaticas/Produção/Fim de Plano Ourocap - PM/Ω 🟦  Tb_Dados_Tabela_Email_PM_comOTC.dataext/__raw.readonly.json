@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "0D811ACF-1D44-4A1E-AECE-098611C9893B"
+  ],
+  "Name": [
+    "Tb_Dados_Tabela_Email_PM_comOTC"
+  ]
+}

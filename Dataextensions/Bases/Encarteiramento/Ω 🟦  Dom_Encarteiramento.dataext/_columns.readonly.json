@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "ID_ENCARTEIRAMENTO",
+    "FieldType": "Text",
+    "ObjectID": "6b88cf29-6c02-4b3f-be25-20bf7cc79319",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "DESC_ENCARTEIRAMENTO",
+    "FieldType": "Text",
+    "ObjectID": "1b4b1dbc-814d-4fcc-bd7d-b46e2472c91e",
+    "MaxLength": "256",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

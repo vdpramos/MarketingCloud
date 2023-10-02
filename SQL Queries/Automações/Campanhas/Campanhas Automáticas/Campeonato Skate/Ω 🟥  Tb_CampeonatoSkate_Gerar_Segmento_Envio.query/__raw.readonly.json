@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "37507a38-c76a-4a23-b8ef-a9e2adce6670",
+  "name": "Tb_CampeonatoSkate_Gerar_Segmento_Envio",
+  "key": "78e55a06-adb0-433b-9cab-06cc91ed3096",
+  "description": "Coloca em uma base para ser segmentada e enviada",
+  "queryText": "SELECT TOP 150000\n  B.*\nFROM TB_CAMPEONATOSKATE_BASE_ENVIO B\nLEFT JOIN TB_CAMPEONATOSKATE_QUARENTENA_EXECUCAO Q ON Q.ID_CONTATO = B.ID_CONTATO\nWHERE Q.ID_CONTATO IS NULL",
+  "targetName": "Tb_CampeonatoSkate_Envio_Fragmentado",
+  "targetKey": "AA985F21-B68C-43D7-8B87-26A429F5188C",
+  "targetId": "5bebe476-2e2b-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Segmento para envio no dia",
+  "createdDate": "2022-09-02T21:02:12.89",
+  "modifiedDate": "2022-09-05T12:40:09.093",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 52821,
+  "isFrozen": false
+}

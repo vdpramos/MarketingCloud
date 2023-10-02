@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "AddressId",
+    "FieldType": "Text",
+    "ObjectID": "1334cf74-1a41-44d1-83e7-7a49efa7fbc0",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "ContactID",
+    "FieldType": "Text",
+    "ObjectID": "79f406b5-74fe-42e8-b135-e1c2328e19d6",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "ContactKey",
+    "FieldType": "Text",
+    "ObjectID": "87fccba6-068e-443d-8a79-3cd80f529185",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Source",
+    "FieldType": "Text",
+    "ObjectID": "7e3bfc7b-38e1-4522-8fd4-574fe340bed4",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "CreatedDate",
+    "FieldType": "Date",
+    "ObjectID": "5b0369fa-65d3-44f0-967f-abd9cbe2e4f0",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GETDATE()",
+    "Ordinal": 4
+  },
+  {
+    "Name": "CreatedBy",
+    "FieldType": "Text",
+    "ObjectID": "cf02703a-e0e3-4973-a387-4d84bd380849",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

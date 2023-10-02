@@ -1,0 +1,233 @@
+[
+  {
+    "Name": "Codigo_Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "a07bbb04-46d5-47d4-b912-62c5eec0983b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Codigo_MCI",
+    "FieldType": "Text",
+    "ObjectID": "2cd1e5ef-63fb-495e-8980-4253335c9778",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Tipo_Pessoa",
+    "FieldType": "Text",
+    "ObjectID": "0bc923ab-053f-4e8c-91d3-9733c99c2899",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Codigo_CIC",
+    "FieldType": "Text",
+    "ObjectID": "7992bd55-1b5e-45ba-8267-12271c64fcf0",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Dt_Nascimento",
+    "FieldType": "Text",
+    "ObjectID": "61f7d623-6e40-4bd6-953d-d95ade7876d0",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "a6bbc8b4-7916-4a1a-affd-27630c1a3575",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "Codigo_RNA",
+    "FieldType": "Text",
+    "ObjectID": "db0190b3-3636-48c6-b509-af0ab567ded9",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "Valor_Rendimentos",
+    "FieldType": "Text",
+    "ObjectID": "c4135521-c09c-4142-b37d-8b09df021006",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "Tipo_Carteira",
+    "FieldType": "Text",
+    "ObjectID": "a5b4f05d-6389-4a93-82c7-a6e48caf2eb4",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "Nivel_Relacionamento",
+    "FieldType": "Text",
+    "ObjectID": "249852e3-4d97-49f9-bf67-537e4d0d8cee",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "Data_Informacao",
+    "FieldType": "Text",
+    "ObjectID": "2d01d08a-2622-4c8f-b1cb-bdb45c8472f3",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "Filler2",
+    "FieldType": "Text",
+    "ObjectID": "6843761d-dd58-4647-81e2-9ead0301f487",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "f68f0bd1-3cd7-422e-85f8-ba7cf351afbe",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "Dt_Nascimento_SF",
+    "FieldType": "Date",
+    "ObjectID": "12092c9e-3f15-4e77-b7ed-6faa05c44d97",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "Alta_Renda",
+    "FieldType": "Boolean",
+    "ObjectID": "f708c520-4d82-4ac6-ab02-a4561ca60804",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 14
+  },
+  {
+    "Name": "Id_Contato",
+    "FieldType": "Text",
+    "ObjectID": "b51367ea-2088-46f2-9b0b-0973f424fbd7",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 15
+  },
+  {
+    "Name": "Id_Cliente_Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "fa0ea9a0-be03-48a7-a2ef-3e40f61983f2",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 16
+  },
+  {
+    "Name": "Email",
+    "FieldType": "Text",
+    "ObjectID": "d1d38398-0df5-4f29-a1d3-54e224ec91f2",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 26
+  },
+  {
+    "Name": "Celular",
+    "FieldType": "Text",
+    "ObjectID": "bb399d69-2aef-4f50-b957-9bf3e3f6ddc1",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 27
+  },
+  {
+    "Name": "MCI",
+    "FieldType": "Text",
+    "ObjectID": "4346db08-e178-49ff-8e59-d979d2f09cef",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 28
+  },
+  {
+    "Name": "Encarteiramento",
+    "FieldType": "Text",
+    "ObjectID": "898f83e4-8960-42cd-817e-977cee552f78",
+    "MaxLength": "200",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 29
+  }
+]

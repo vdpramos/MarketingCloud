@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "23596BAE-958D-40A2-A667-B538D980C9B7"
+  ],
+  "Name": [
+    "JOURNEY_DATAVIEW_HISTORICO_SEM_CHAVE"
+  ]
+}

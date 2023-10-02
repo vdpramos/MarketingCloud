@@ -1,0 +1,28 @@
+Dataextension name: Fornecedor NeoBpo DE filtrada
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome da campanha     | Text(255)       | false    | false    |                 |
+| Produto: Nome de Produto | Text(255)       | false    | false    |                 |
+| Valor Total          | Text(255)       | false    | false    |                 |
+| Valor da Parcela     | Text(255)       | false    | false    |                 |
+| Proprietário da oportunidade: Nome completo | Text(255)       | false    | false    |                 |
+| Número               | Text(255)       | false    | false    |                 |
+| Data_Hora de abertura | Text(255)       | false    | false    |                 |
+| Data de Débito       | Text(255)       | false    | false    |                 |
+| CPF_CNPJ Titular     | Text(255)       | false    | false    |                 |
+| Parceiro             | Text(255)       | false    | false    |                 |
+| Titular: Cliente - Parceiro | Text(255)       | false    | false    |                 |
+| Número da Proposta   | Text(255)       | false    | false    |                 |
+| Situação             | Text(255)       | false    | false    |                 |
+| Data da Venda        | Text(255)       | false    | false    |                 |
+| Fase                 | Text(255)       | false    | false    |                 |
+| Resultado            | Text(255)       | false    | false    |                 |
+| Motivo               | Text(255)       | false    | false    |                 |
+| Canal da Campanha    | Text(255)       | false    | false    |                 |
+| Supervisor           | Text(255)       | false    | false    |                 |
+| Id Pedido de Venda   | Text(255)       | false    | false    |                 |
+| Status               | Text(255)       | false    | false    |                 |
+| Campanha pai: Nome da campanha | Text(255)       | false    | false    |                 |
+| Fornecedor           | Text(255)       | false    | false    |                 |
+| Tipo                 | Text(255)       | false    | false    |                 |

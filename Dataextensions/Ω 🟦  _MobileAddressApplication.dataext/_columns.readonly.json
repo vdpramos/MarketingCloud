@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "_ContactID",
+    "FieldType": "Text",
+    "ObjectID": "ec7d1f4a-4dc0-4932-944a-5ec5a3a7d739",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "_MobileNumber",
+    "FieldType": "Text",
+    "ObjectID": "0aaab194-d39f-4d50-aa9d-bfcfdb4d5ce5",
+    "MaxLength": "15",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "_MobileApplicationID",
+    "FieldType": "Text",
+    "ObjectID": "aeaea947-c15c-4e34-9684-c26afd50ba69",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "_CreatedDate",
+    "FieldType": "Date",
+    "ObjectID": "276a045f-f971-4005-ac18-f4f72ac1699c",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GETDATE()",
+    "Ordinal": 4
+  },
+  {
+    "Name": "_CreatedBy",
+    "FieldType": "Text",
+    "ObjectID": "9d409c9d-49a7-4736-ab56-d76f5a884032",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

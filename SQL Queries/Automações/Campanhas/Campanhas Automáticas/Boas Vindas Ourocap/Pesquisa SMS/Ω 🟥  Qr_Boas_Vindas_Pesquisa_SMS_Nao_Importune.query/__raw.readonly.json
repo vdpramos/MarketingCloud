@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "864685de-8db0-47b9-9cfb-1de2df0fa7ab",
+  "name": "Qr_Boas_Vindas_Pesquisa_SMS_Nao_Importune",
+  "key": "6339b5cb-8ce9-4122-93c1-e320511abacb",
+  "description": "",
+  "queryText": "SELECT\n\tA.CPF_CNPJ,\n\tA.ID_PROPOSTA,\n\t1 AS NAO_IMPORTUNE\nFROM TB_BOAS_VINDAS_PESQUISA_SMS A\nINNER JOIN TB_BASE_NAO_IMPORTUNE N ON ISNULL(RIGHT(A.CELULAR, 11), '00000000000') = LTRIM(RTRIM(N.TELEFONE))\nINNER JOIN CAMPAIGN_SALESFORCE CMP ON CMP.ID = A.ID_CAMPANHA\nWHERE CELULAR IS NOT NULL AND CMP.HC_VALIDA_NAO_IMPORTUNE__C = 1",
+  "targetName": "Tb_Boas_Vindas_Pesquisa_SMS",
+  "targetKey": "5441ED26-86D7-4B47-BA59-DF24F79EC3F1",
+  "targetId": "45551c84-c139-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Publico Inicial - Propostas elegiveis para campanha",
+  "createdDate": "2022-09-21T11:35:02.757",
+  "modifiedDate": "2022-09-21T11:55:51.977",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 53495,
+  "isFrozen": false
+}

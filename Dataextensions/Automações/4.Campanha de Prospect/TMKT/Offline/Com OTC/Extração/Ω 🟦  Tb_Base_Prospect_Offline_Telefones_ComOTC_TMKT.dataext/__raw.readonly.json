@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "E9B53D1B-1F27-46BF-8B41-A7840887792A"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_Telefones_ComOTC_TMKT"
+  ]
+}

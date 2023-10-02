@@ -1,0 +1,6 @@
+Dataextension name: teste_extract
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Email                | Text(50)        | true     | false    |                 |
+| Onda                 | Text(50)        | true     | false    |                 |

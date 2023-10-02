@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "30ba9f0d-a025-479b-ad00-c0018b3ef708",
+  "name": "Qr_Campeonato_Skate_Publico_Envio",
+  "key": "f892751a-3bb9-4550-97c2-442f16930af1",
+  "description": "Coloca em uma base para ser segmentada e enviada",
+  "queryText": "select\r\n  *\r\nfrom TB_CAMPEONATOSKATE_PUBLICO_INICIAL",
+  "targetName": "Tb_CampeonatoSkate_Base_Envio",
+  "targetKey": "43BFD914-ECEA-46A5-8D26-897E9CBE6504",
+  "targetId": "e3628fc9-312b-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Base com todos os contatos que devem ser segmentados para envio",
+  "createdDate": "2022-09-02T20:51:45.213",
+  "modifiedDate": "2022-09-02T20:51:45.213",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 52821,
+  "isFrozen": false
+}

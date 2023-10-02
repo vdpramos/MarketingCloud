@@ -1,0 +1,24 @@
+Dataextension name: Tb_Base_Prospect_SemOTC_TMKT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(20)        | true     | true     |                 |
+| Nome                 | Text(300)       | false    | false    |                 |
+| Agencia              | Text(200)       | false    | false    |                 |
+| Conta                | Text(200)       | false    | false    |                 |
+| Tipo_Conta           | Text(200)       | false    | false    |                 |
+| Data_Nascimento      | Text(200)       | false    | false    |                 |
+| Sexo                 | Text(50)        | false    | false    |                 |
+| CEP                  | Text(50)        | false    | false    |                 |
+| DDD_01               | Text(50)        | false    | false    |                 |
+| TEL_01               | Text(50)        | false    | false    |                 |
+| DDD_02               | Text(50)        | false    | false    |                 |
+| TEL_02               | Text(50)        | false    | false    |                 |
+| DDD_03               | Text(50)        | false    | false    |                 |
+| TEL_03               | Text(50)        | false    | false    |                 |
+| DDD_04               | Text(50)        | false    | false    |                 |
+| TEL_04               | Text(50)        | false    | false    |                 |
+| DDD_05               | Text(50)        | false    | false    |                 |
+| TEL_05               | Text(50)        | false    | false    |                 |
+| Data_Arquivo         | Date            | false    | false    | GetDate()       |
+| Fornecedor           | Text(50)        | false    | false    | TMKT            |

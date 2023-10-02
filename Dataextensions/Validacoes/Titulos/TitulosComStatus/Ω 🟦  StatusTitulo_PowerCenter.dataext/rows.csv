@@ -1,0 +1,13 @@
+_CustomObjectKey,STATUS,DESCRICAO
+15,A,Ativo
+16,B,Finalizado - Resgate Pago
+17,C,Finalizado - Caducou
+18,D,Finalizado - Cancelado
+19,F,Em processo de Finalização
+20,O,Finalizado - Óbito
+21,R,Pendente - Solicitação em andamento
+22,S,Suspenso
+23,T,Finalizado - Fim de plano
+24,V,Suspenso
+25,W,Em processo de Reativação
+26,X,Estornado

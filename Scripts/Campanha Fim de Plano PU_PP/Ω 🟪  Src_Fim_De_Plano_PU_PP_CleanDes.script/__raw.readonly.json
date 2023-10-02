@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "998cbecc-b975-4f4f-8e31-8b7ad9ed0cc4",
+  "name": "Src_Fim_De_Plano_PU_PP_CleanDes",
+  "key": "687e8b7f-d44b-4d80-a07a-1072cd23c40c",
+  "description": "Limpar as bases para impedir a duplicação da campanha (já foi executada)",
+  "script": " <script runat=server>\n  Platform.Load(\"Core\", \"1.1.5\");\n  var api = new Script.Util.WSProxy();\n\n  var BASE_OTC290_FILTRADA = \"EE98F17D-35EE-49F6-A834-7D9E4E2E76DB\"; // DE que enviou o OTC290\n  var BASE_OTC291_TRATADA = \"DCA08357-8EBE-4E64-B3B5-2DB0EA6111B6\"; // DE que recebe o OTC291 tratado\n\n  var action = \"ClearData\";\n  var opts = {};\n  var props_BASE_OTC290_FILTRADA = {\n    CustomerKey: BASE_OTC290_FILTRADA\n  };\n\n  var props_BASE_OTC291_TRATADA = {\n    CustomerKey: BASE_OTC291_TRATADA\n  };\n  \n  api.performItem(\"DataExtension\", props_BASE_OTC290_FILTRADA, action, opts);\n  api.performItem(\"DataExtension\", props_BASE_OTC291_TRATADA, action, opts);\n\n </script>",
+  "categoryId": 38757,
+  "createdDate": "2021-08-30T16:36:36.853",
+  "modifiedDate": "2023-07-25T08:33:43.947"
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e537cced-bb5e-4dd2-ac8c-6a7f8f69ae19",
+  "name": "Insert Row Number in Prospect TEO",
+  "key": "230ad4e8-9134-4d38-9f0e-c64279f3561d",
+  "description": "Insert Row Number in Prospect TEO otc291 filtrada",
+  "queryText": "select\na.cpf,\nrow_number() over(order by a.cpf) as row\nfrom Tb_Base_Prospect_OTC291_Filtrada_Teo a",
+  "targetName": "Tb_Base_Prospect_OTC291_Filtrada_Teo",
+  "targetKey": "819A77E3-D6BF-40AD-8322-DF472C215D43",
+  "targetId": "add54329-b5ab-ec11-a313-48df370ed7f5",
+  "targetDescription": "DE para envio do discador",
+  "createdDate": "2022-04-26T03:47:07.55",
+  "modifiedDate": "2022-04-26T03:47:07.55",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 48390,
+  "isFrozen": false
+}

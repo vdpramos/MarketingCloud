@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "f7745eca-b5ef-4188-b8bb-b066ed4e1db4",
+  "name": "Qr06.1_Base_Ex-Cliente_OTC291_Filtrada_Algar",
+  "key": "1c6af553-f365-4045-8133-8d523f0a3243",
+  "description": "Filtra contatos com restrição e gera base para a campanha apenas se todos os contatos estiverem na resposta do OTC291",
+  "queryText": "SELECT\n  A.*\nFROM Tb_Base_Ex_Cliente_OTC291_Tratada_Algar A\n/* CHECAGEM SE TOODS OS CONTATOS TIVERAM O OTC TRATADO */\nLEFT OUTER JOIN ( \n  SELECT\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\n  FROM Tb_Base_Ex_Cliente_ComOTC_Algar_Filtrada ENV\n  LEFT JOIN TB_BASE_Ex_CLIENTE_OTC291_TRATADA_Algar RET ON ENV.CPF_CNPJ = RET.CPF\n  WHERE RET.CPF IS NULL\n) B ON 1 = 1\nWHERE B.CPFS_FALTANDO_NO_OTC <= 2\n/* SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 */\n  /* VALIDAÇÕES POR CONTATO DO OTC */\n  AND A.CODIGO_RNA = '000'\n  AND A.ALTA_RENDA = 0",
+  "targetName": "Tb_Base_Ex_Cliente_OTC291_Filtrada_Algar",
+  "targetKey": "DD765A6F-B296-4992-93E8-2AF928AD1B4A",
+  "targetId": "71a78b80-d4e1-ec11-a5b6-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2021-08-31T18:31:55.64",
+  "modifiedDate": "2022-06-01T12:01:54.093",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 30784,
+  "isFrozen": false
+}

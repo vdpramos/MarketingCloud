@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2f17b85b-26eb-46fd-b5cb-1e89c16f07d4",
+  "name": "Clientes Classificados Incorretamente",
+  "key": "f3d7ca81-0ad7-41bf-a4c1-aa1bf5b668c2",
+  "description": "",
+  "queryText": "select c.id, c.hc_cpf_cnpj__c as CPF_CNPJ, hc_classificacao__c as classificacao, c.hc_cliente__c as id_cliente\nfrom hc_relacao_cliente_parceiro__c_salesforce c\nwhere hc_classificacao__c not in ('Cliente', 'Falecido', 'Funcionário')\nand exists (select 1 from hc_titulo__c_salesforce t \n            where c.id = t.HC_Cliente_x_Parceiro__c\n                and HC_Situacao__c in ('Ativo', 'Em processo de finalização', 'Em processo de Reativação', 'Suspenso'))",
+  "targetName": "ClienteClassificadoIncorretamente",
+  "targetKey": "4FFBCA02-7F32-4773-8ABF-E7096C9A2320",
+  "targetId": "4b4e4779-0ba7-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-01-31T14:34:19.103",
+  "modifiedDate": "2023-08-14T08:21:05.05",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

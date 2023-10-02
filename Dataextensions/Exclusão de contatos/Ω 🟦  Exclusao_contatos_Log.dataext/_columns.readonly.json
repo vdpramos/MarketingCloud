@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Data",
+    "FieldType": "Date",
+    "ObjectID": "70567a98-4d72-4050-a7a5-9fd862aeec9b",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GetDate()",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Resultado",
+    "FieldType": "Text",
+    "ObjectID": "8a400e21-15d3-4ae4-bb30-6e6fc8eb08ba",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "RowCount",
+    "FieldType": "Number",
+    "ObjectID": "b4b71d8a-5ba0-4c03-8da9-ee7b7db1e4f5",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "OperationID",
+    "FieldType": "Text",
+    "ObjectID": "6049d125-e544-4b9b-9bed-b7f40d3acf3c",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

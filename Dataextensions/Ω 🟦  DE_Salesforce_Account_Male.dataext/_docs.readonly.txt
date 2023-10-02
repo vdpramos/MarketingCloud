@@ -1,0 +1,7 @@
+Dataextension name: DE_Salesforce_Account_Male
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome                 | Text(254)       | false    | false    |                 |
+| Sexo                 | Text(254)       | false    | false    |                 |
+| CPF CNPJ             | Text(254)       | false    | false    |                 |

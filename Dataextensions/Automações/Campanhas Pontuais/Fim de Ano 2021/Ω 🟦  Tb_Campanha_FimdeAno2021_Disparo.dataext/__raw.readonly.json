@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "C01BE83C-2505-4551-9434-28669AE9FF85"
+  ],
+  "Name": [
+    "Tb_Campanha_FimdeAno2021_Disparo"
+  ]
+}

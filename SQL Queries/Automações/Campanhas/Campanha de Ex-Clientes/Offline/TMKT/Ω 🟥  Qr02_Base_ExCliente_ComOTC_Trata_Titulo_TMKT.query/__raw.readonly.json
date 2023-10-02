@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "5de9fdc3-2a65-4299-93e6-08167de38c07",
+  "name": "Qr02_Base_ExCliente_ComOTC_Trata_Titulo_TMKT",
+  "key": "81784b3d-725b-4fac-ba7e-a87537cc5bc3",
+  "description": "",
+  "queryText": "SELECT  CASE WHEN C.HC_SITUACAO__C = 'Ativo' THEN 1 ELSE 0 END AS Possui_Titulo_Ativo,\n        CASE when C.HC_CLIENTE_X_PARCEIRO__C is null then 0 WHEN DATEDIFF(DD,C.HC_CONTRATACAO__C, GETDATE()) <= 30 THEN 1 ELSE 0 END AS Compra_Utimos_30_Dias,\n        CASE when   ((D.HC_Tipo_da_Conta_1__c = 'Conta Corrente' and D.HC_Numero_da_Conta_1__c != '000000000000') or\n                    (HC_Tipo_da_Conta_2__c = 'Conta Corrente' and D.HC_Numero_da_Conta_2__c != '000000000000')) THEN 1 ELSE 0 END AS Conta_Apta, \n        B.ID\nFROM Tb_Base_Ex_Cliente_ComOTC_TMKT B\nLEFT JOIN HC_TITULO__C_SALESFORCE C ON B.ID_CLIENTE_PARCEIRO = C.HC_CLIENTE_X_PARCEIRO__C\nLEFT JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce D ON B.ID_CLIENTE_PARCEIRO = D.ID\n",
+  "targetName": "Tb_Base_Ex_Cliente_ComOTC_TMKT",
+  "targetKey": "EE20370A-C9B9-4E72-AE05-789F84BD99EF",
+  "targetId": "2a7431fa-bda3-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-22T16:59:38.057",
+  "modifiedDate": "2023-06-15T08:46:34.563",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 33121,
+  "isFrozen": false
+}

@@ -1,0 +1,378 @@
+{
+  "id": 98853,
+  "customerKey": "5fff9b59-6d62-43d4-b92e-1363bcb24dbc",
+  "objectID": "b013fadd-1af3-465f-8680-03e44ad516c2",
+  "contentType": "application/vnd.etmc.email.Message; kind=template",
+  "assetType": {
+    "id": 207,
+    "name": "templatebasedemail",
+    "displayName": "Template-Based Email"
+  },
+  "fileProperties": {
+    "fileName": "Email Campanha Aniversario - teste"
+  },
+  "name": "Email Campanha Aniversario - teste",
+  "description": "",
+  "owner": {
+    "id": 714094961,
+    "email": "kakaiorb@gmail.com",
+    "name": "Kaio Rodrigues",
+    "userId": "714094961"
+  },
+  "createdDate": "2023-05-15T11:21:27.443-06:00",
+  "createdBy": {
+    "id": 714094961,
+    "email": "kakaiorb@gmail.com",
+    "name": "Kaio Rodrigues",
+    "userId": "714094961"
+  },
+  "modifiedDate": "2023-05-15T11:21:27.443-06:00",
+  "modifiedBy": {
+    "id": 714094961,
+    "email": "kakaiorb@gmail.com",
+    "name": "Kaio Rodrigues",
+    "userId": "714094961"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/98853/thumbnail"
+  },
+  "category": {
+    "id": 42294,
+    "name": "Aniversariantes",
+    "parentId": 37553
+  },
+  "meta": {
+    "globalStyles": {
+      "isLocked": false,
+      "template": {
+        "background-color": "#FFFFFF",
+        "border-color": "",
+        "border-width": "0px",
+        "border-style": "solid"
+      },
+      "body": {
+        "background-color": "#FFFFFF",
+        "font-family": "Arial,helvetica,sans-serif",
+        "font-size": "16px",
+        "color": "#000000",
+        "line-height": 1,
+        "margin": "0px",
+        "padding": "0px",
+        "content-padding-top": "0px",
+        "content-padding-right": "0px",
+        "content-padding-bottom": "0px",
+        "content-padding-left": "0px"
+      },
+      "h1": {
+        "font-family": "Arial,helvetica,sans-serif",
+        "font-size": "28px",
+        "color": "#808080",
+        "line-height": 1,
+        "font-weight": "bold",
+        "font-style": "normal"
+      },
+      "h2": {
+        "font-family": "Arial,helvetica,sans-serif",
+        "font-size": "22px",
+        "color": "#808080",
+        "line-height": 1,
+        "font-weight": "bold",
+        "font-style": "normal"
+      },
+      "h3": {
+        "font-family": "Arial,helvetica,sans-serif",
+        "font-size": "20px",
+        "color": "#808080",
+        "line-height": 1,
+        "font-weight": "bold",
+        "font-style": "normal"
+      },
+      "links": {
+        "font-weight": "normal",
+        "color": "#808080",
+        "text-decoration": "none"
+      },
+      "buttons": {
+        "font-family": "Arial,helvetica,sans-serif",
+        "font-size": "16px",
+        "color": "#FFFFFF",
+        "background-color": "#5D5D5D",
+        "border-radius": "3px",
+        "padding": "10px",
+        "border-color": "#5D5D5D",
+        "border-width": "1px",
+        "border-style": "solid"
+      },
+      "mobile": {
+        "body": {
+          "padding": "0px",
+          "font-size": "16px",
+          "line-height": 1.5
+        },
+        "h1": {
+          "font-size": "22px",
+          "line-height": 1
+        },
+        "h2": {
+          "font-size": "20px",
+          "line-height": 1
+        },
+        "h3": {
+          "font-size": "18px",
+          "line-height": 1
+        },
+        "buttons": {
+          "font-family": "Arial,helvetica,sans-serif",
+          "font-size": "16px",
+          "color": "#FFFFFF",
+          "padding": "10px"
+        }
+      }
+    }
+  },
+  "views": {
+    "subjectline": {
+      "contentType": "application/vnd.etmc.email.View; kind=subjectline",
+      "thumbnail": {},
+      "content": "Ourocap deseja um Feliz Aniversário",
+      "meta": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "preheader": {
+      "thumbnail": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "html": {
+      "thumbnail": {},
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<html>\n  <head><style data-id=\"imagecarouselblock\" type=\"text/css\">@media screen and (-webkit-min-device-pixel-ratio:0){body{-webkit-animation:bugfix infinite 1s}@-webkit-keyframes bugfix{from,to{padding:0}}#MessageViewBody .mc-carousel-fallback,body.MsgBody .mc-carousel-fallback{display:block}#MessageViewBody .mc-carousel,body.MsgBody .mc-carousel{display:none!important} [class].mc-carousel-fallback{display:none} [class].mc-carousel{display:block!important;max-height:none!important;position:relative}.mc-carousel span{display:block;overflow:hidden;position:absolute;top:0;left:0;opacity:1;width:100%}.mc-carousel span:nth-child(1){position:relative}.mc-carousel-frames img{display:block!important;width:100%!important}.mc-carousel .mc-carousel-radio:checked~.mc-carousel-container,.mc-carousel .mc-carousel-radio:checked~.mc-carousel-container *{-webkit-animation:none!important}.mc-carousel .mc-carousel-radio:checked~.mc-carousel-container .mc-carousel-frames{position:relative;left:0;top:0;width:500%!important;transition:left 1s}.mc-carousel .mc-carousel-radio:checked~.mc-carousel-container .mc-carousel-frames span{width:20%}.mc-carousel .mc-carousel-radio:checked~.mc-carousel-container .mc-carousel-frames span:nth-child(5){position:absolute;top:0;left:80%}.mc-carousel .mc-carousel-radio:checked~.mc-carousel-container .mc-carousel-frames span:nth-child(4){position:absolute;top:0;left:60%}.mc-carousel .mc-carousel-radio:checked~.mc-carousel-container .mc-carousel-frames span:nth-child(3){position:absolute;top:0;left:40%}.mc-carousel .mc-carousel-radio:checked~.mc-carousel-container .mc-carousel-frames span:nth-child(2){position:absolute;top:0;left:20%}.mc-carousel .mc-carousel-check-support:checked~.mc-carousel-container .mc-carousel-nav-1{display:block}.mc-carousel-nav{z-index:100;display:none;width:10%;height:100%;position:absolute;background-color:transparent;top:0;cursor:pointer}.mc-carousel-nav i{border:solid gray;border-width:0 3px 3px 0;display:inline-block;padding:10px;margin:20px}.mc-carousel .mc-carousel-radio-1:checked~.mc-carousel-container .mc-carousel-controls .mc-carousel-nav-1,.mc-carousel .mc-carousel-radio-2:checked~.mc-carousel-container .mc-carousel-controls .mc-carousel-nav-2,.mc-carousel .mc-carousel-radio-3:checked~.mc-carousel-container .mc-carousel-controls .mc-carousel-nav-3,.mc-carousel .mc-carousel-radio-4:checked~.mc-carousel-container .mc-carousel-controls .mc-carousel-nav-4,.mc-carousel .mc-carousel-radio-5:checked~.mc-carousel-container .mc-carousel-controls .mc-carousel-nav-5{display:block}.mc-carousel-nav-left{left:0}.mc-carousel-nav-left i{transform:rotate(135deg);-webkit-transform:rotate(135deg)}.mc-carousel-nav-right{right:0}.mc-carousel-nav-right i{transform:rotate(-45deg);-webkit-transform:rotate(-45deg)}.mc-carousel .mc-carousel-radio-5:checked~.mc-carousel-container .mc-carousel-frames{left:-400%}.mc-carousel .mc-carousel-radio-4:checked~.mc-carousel-container .mc-carousel-frames{left:-300%}.mc-carousel .mc-carousel-radio-3:checked~.mc-carousel-container .mc-carousel-frames{left:-200%}.mc-carousel .mc-carousel-radio-2:checked~.mc-carousel-container .mc-carousel-frames{left:-100%}.mc-carousel .mc-carousel-radio-1:checked~.mc-carousel-container .mc-carousel-frames{left:0}.mc-carousel-5 span{-webkit-animation:mc-carousel-slide-anim-5 25s linear infinite}.mc-carousel-5 span:nth-child(5){-webkit-animation-delay:-6s}.mc-carousel-5 span:nth-child(4){-webkit-animation-delay:-11s}.mc-carousel-5 span:nth-child(3){-webkit-animation-delay:-16s}.mc-carousel-5 span:nth-child(2){-webkit-animation-delay:-21s}.mc-carousel-5 span:nth-child(1){-webkit-animation-delay:-26s}@-webkit-keyframes mc-carousel-slide-anim-5{0%{margin-left:100%}20%,5%{margin-left:0}100%,25%{margin-left:-100%}}.mc-carousel-4 span{-webkit-animation:mc-carousel-slide-anim-4 20s linear infinite}.mc-carousel-4 span:nth-child(4){-webkit-animation-delay:-6s}.mc-carousel-4 span:nth-child(3){-webkit-animation-delay:-11s}.mc-carousel-4 span:nth-child(2){-webkit-animation-delay:-16s}.mc-carousel-4 span:nth-child(1){-webkit-animation-delay:-21s}@-webkit-keyframes mc-carousel-slide-anim-4{0%{margin-left:100%}25%,5%{margin-left:0}100%,30%{margin-left:-100%}}.mc-carousel-3 span{-webkit-animation:mc-carousel-slide-anim-3 15s linear infinite}.mc-carousel-3 span:nth-child(3){-webkit-animation-delay:-6s}.mc-carousel-3 span:nth-child(2){-webkit-animation-delay:-11s}.mc-carousel-3 span:nth-child(1){-webkit-animation-delay:-16s}@-webkit-keyframes mc-carousel-slide-anim-3{0%{margin-left:100%}33.33333333%,5%{margin-left:0}100%,38.33333333%{margin-left:-100%}}.mc-carousel-2 span{-webkit-animation:mc-carousel-slide-anim-2 10s linear infinite}.mc-carousel-2 span:nth-child(2){-webkit-animation-delay:-6s}.mc-carousel-2 span:nth-child(1){-webkit-animation-delay:-11s}@-webkit-keyframes mc-carousel-slide-anim-2{0%{margin-left:100%}5%,50%{margin-left:0}100%,55%{margin-left:-100%}}}@media screen and (max-width:480px){.mc-carousel{width:100%!important}}</style>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0\" />\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n    <style type=\"text/css\">\n      ReadMsgBody{ width: 100%;}\n      .ExternalClass {width: 100%;}\n      .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}\n      body {-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;margin:0 !important;}\n      p { margin: 1em 0;}\n      table td { border-collapse: collapse;}\n      img {outline:0;}\n      a img {border:none;}\n      @-ms-viewport{ width: device-width;}\n    </style>\n    <style type=\"text/css\">\n      @media only screen and (max-width: 480px) {\n        .container {width: 100% !important;}\n        .footer { width:auto !important; margin-left:0; }\n        .mobile-hidden { display:none !important; }\n        .logo { display:block !important; padding:0 !important; }\n        img { max-width:100% !important; height:auto !important; max-height:auto !important;}\n        .header img{max-width:100% !important;height:auto !important; max-height:auto !important;}\n        .photo img { width:100% !important; max-width:100% !important; height:auto !important;}\n        .drop { display:block !important; width: 100% !important; float:left; clear:both;}\n        .footerlogo { display:block !important; width: 100% !important; padding-top:15px; float:left; clear:both;}\n        .nav4, .nav5, .nav6 { display: none !important; }\n        .tableBlock {width:100% !important;}\n        .responsive-td {width:100% !important; display:block !important; padding:0 !important; }\n        .fluid, .fluid-centered {\n          width: 100% !important;\n          max-width: 100% !important;\n          height: auto !important;\n          margin-left: auto !important;\n          margin-right: auto !important;\n        }\n        .fluid-centered {\n          margin-left: auto !important;\n          margin-right: auto !important;\n        }\n        /* MOBILE GLOBAL STYLES - DO NOT CHANGE */\n        body { padding: 0px !important; font-size: 16px !important; line-height: 150% !important;}\n        h1 { font-size: 22px !important; line-height: normal !important;}\n        h2 { font-size: 20px !important; line-height: normal !important;}\n        h3 { font-size: 18px !important; line-height: normal !important;}\n        .buttonstyles {\n          font-family:arial,helvetica,sans-serif !important;\n          font-size: 16px !important;\n          color: #FFFFFF !important;\n          padding: 10px !important;\n        }\n        /* END OF MOBILE GLOBAL STYLES - DO NOT CHANGE */\n      }\n      @media only screen and (max-width: 640px) {\n        .container { width:100% !important; }\n        .mobile-hidden { display:none !important; }\n        .logo { display:block !important; padding:0 !important; }\n        .photo img { width:100% !important; height:auto !important;}\n        .nav5, .nav6 { display: none !important;}\n        .fluid, .fluid-centered {\n          width: 100% !important;\n          max-width: 100% !important;\n          height: auto !important;\n          margin-left: auto !important;\n          margin-right: auto !important;\n        }\n        .fluid-centered {\n          margin-left: auto !important;\n          margin-right: auto !important;\n        }\n      }\n    </style>\n    <!--[if mso]>\n      <style type=\"text/css\">\n          /* Begin Outlook Font Fix */\n          body, table, td {\n              font-family: Arial, Helvetica, sans-serif ;\n              font-size:16px;\n              color:#000000;\n              line-height:1;\n          }\n          /* End Outlook Font Fix */\n      </style>\n    <![endif]-->\n  </head>\n  <body bgcolor=\"#ffffff\" text=\"#000000\" style=\"background-color: #ffffff; color: #000000; padding: 0px; -webkit-text-size-adjust:none; font-size: 16px; font-family:arial,helvetica,sans-serif;\">\n    <div style=\"font-size:0; line-height:0;\"><custom name=\"opencounter\" type=\"tracking\"><custom name=\"usermatch\" type=\"tracking\" /></div>\n    <table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" align=\"center\">\n      <tr>\n        <td align=\"center\" valign=\"top\">\n          <custom type=\"header\"/>\n        </td>\n      </tr>\n      <tr>\n        <td align=\"center\">\n          <table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"600\" class=\"container\" align=\"center\">\n            <tr>\n              <td>\n                <table class=\"tb_properties border_style\" style=\"background-color:#FFFFFF;\" cellspacing=\"0\" cellpadding=\"0\" bgcolor=\"#ffffff\" width=\"100%\">\n                  <tr>\n                    <td align=\"center\" valign=\"top\">\n                      <table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n                        <tr>\n                          <!-- added padding here -->\n                          <td class=\"content_padding\" style=\"\">\n                            <!-- end of comment -->\n                            <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n                              <tr> <!-- top slot -->\n                                <td align=\"center\" class=\"header\" valign=\"top\">\n                                  <table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n                                    <tbody>\n                                        <tr>\n                                          <td align=\"left\" valign=\"top\">\n                                            <table cellspacing=\"0\" cellpadding=\"0\" style=\"width:100%\">\n                                              <tbody>\n                                              <tr>\n                                                <td class=\"responsive-td\" valign=\"top\" style=\"width: 100%;\">\n                                                  <div data-type=\"slot\" data-key=\"banner\">\n\t\t\t\t\t\t\t\t\t\t\t\t  </div>\n                                                </td>\n                                              </tr>\n                                              </tbody>\n                                            </table>\n                                          </td>\n                                        </tr>\n                                    </tbody>\n                                  </table>\n                                </td>\n                              </tr>\n                            </table>\n                          </td>\n                        </tr>\n                      </table>\n                    </td>\n                  </tr>\n                </table>\n              </td>\n            </tr>\n          </table>\n        </td>\n      </tr>\n      <tr>\n        <td valign=\"top\">\n          <custom type=\"footer\" />\n        </td>\n      </tr>\n    </table>\n  </body>\n</html>\n",
+      "availableViews": [],
+      "slots": {
+        "banner": {
+          "content": "<div data-type=\"block\" data-key=\"y2dni9pr9fa\"></div><div data-type=\"block\" data-key=\"bnckm237s6b\"></div>",
+          "design": "<p style=\"font-family:Arial;color:#ccc;font-size:12px;text-align:center;vertical-align:middle;font-weight:bold;height:150px;display:flex;flex-direction:column;justify-content:center;padding:10px;margin:0;border: #cccccc dashed 1px;\">Solte os blocos ou o conteúdo aqui</p>",
+          "availableViews": [],
+          "blocks": {
+            "bnckm237s6b": {
+              "assetType": {
+                "id": 197,
+                "name": "htmlblock"
+              },
+              "content": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\">\n\n<title>Ourocap</title>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<style>\n/* CLIENT-SPECIFIC STYLES */\n\nbody, table, td, a {\n -webkit-text-size-adjust: 100%;\n -ms-text-size-adjust: 100%;\n -ms-line-height: exatly;\n font-family: Arial, Helvetica, sans-serif;\n color: #000000;\n} /* Prevent WebKit and Windows mobile changing default text sizes */\ntable, td {\n mso-table-lspace: 0pt;\n mso-table-rspace: 0pt;\n border-spacing: 0;\n border-collapse: collapse;\n mso-table-lspace: 0pt;\n mso-table-rspace: 0pt;\n mso-line-height: exatly;\n} /* Remove spacing between tables in Outlook 2007 and up */\nimg {\n -ms-interpolation-mode: bicubic;\n} /* Allow smoother rendering of resized image in Internet Explorer */\n/* RESET STYLES */\nimg {\n border: 0;\n line-height: 100%;\n outline: none;\n text-decoration: none;\n}\ntable {\n border-collapse: collapse !important;\n}\nbody {\n height: 100% !important;\n margin: 0 !important;\n padding: 0 !important;\n width: 100% !important;\n}\np {\n padding: 0 !important;\n margin: 0 !important;\n}\n/* iOS BLUE LINKS */\na[x-apple-data-detectors] {\n color: inherit !important;\n text-decoration: none !important;\n font-size: inherit !important;\n font-family: inherit !important;\n font-weight: inherit !important;\n line-height: inherit !important;\n}\n/* OVERRIDE GMAIL BLUE LINKS */\nu + #body a {\n color: inherit;\n text-decoration: none;\n font-size: inherit;\n font-family: inherit;\n font-weight: inherit;\n line-height: inherit;\n}\n</style>\n\n<a href=\"https://www.brasilcap.com.br/brasilcap/apoio/fale-conosco/fale-conosco.html\"></a><table width=\"600\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n <tr>\n  <td>\n   <table width=\"600\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#EDEDED\" style=\"background-color:#FFFFFF;\">\n    <tr>\n     <td>\n      <table width=\"600\" height=\"235\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n        <tr style=\"background-color:#ffffff;\">\n         <td width=\"448\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/820f78f0-ba1d-46bd-80de-0144ccd14a92.png\" width=\"448\" height=\"235\" alt=\"\"></td>\n         <td>\n          <table width=\"87\" height=\"235\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n           <tr style=\"background-color:#ffffff ;\">\n            <td width=\"87\" height=\"28\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/01b0744b-802a-47c6-b47c-49ddd7f11825.gif\" width=\"1\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n          </tr>\n          <tr style=\"background-color:#465eff;\">\n            <td height=\"20\" style=\"color:#fbfb2f;font-family:Arial, sans-serif;font-size:12px;\" align=\"center\">Capitalização</td>\n           </tr>\n           <tr style=\"background-color:#ffffff;\">\n             <td height=\"20\" style=\"color:#465eff;font-family:Arial, sans-serif;font-size:12px;\" align=\"center\">Dental</td>\n           </tr>\n           <tr style=\"background-color:#ffffff;\">\n             <td height=\"20\" style=\"color:#465eff;font-family:Arial, sans-serif;font-size:12px;\" align=\"center\">Previdência</td>\n           </tr>\n           <tr style=\"background-color:#ffffff;\">\n             <td height=\"20\" style=\"color:#465eff;font-family:Arial, sans-serif;font-size:12px;\" align=\"center\">Seguro</td>\n           </tr>\n           <tr>\n             <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/bb95d79f-8bf3-463f-aa41-c1de68b124c5.png\" width=\"87\" height=\"127\" alt=\"\"></td>\n           </tr>\n          </table>\n          </td>\n         <td width=\"65\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/01b0744b-802a-47c6-b47c-49ddd7f11825.gif\" width=\"1\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n        </tr>\n       </table>\n      </td>\n     </tr>\n    </table>\n    <!-- ESPAÇO -->\n     </td></tr><tr>\n      <td>\n       <table width=\"600\" height=\"40\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n         <tr style=\"background-color:#FFFFFF;\">\n          <td width=\"600\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/01b0744b-802a-47c6-b47c-49ddd7f11825.gif\" width=\"1\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n        </tr>\n       </table>\n      </td>\n     </tr>\n\n     <!-- TEXTO -->\n\n     <tr>\n      <td>\n       <table width=\"600\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n         <tr style=\"background-color:#FFFFFF;\">\n          <td width=\"55\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/01b0744b-802a-47c6-b47c-49ddd7f11825.gif\" width=\"1\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n          <td>\n           <p style=\"color:#465eff;font-family:Arial, sans-serif;font-size:23px; line-height:130%; font-weight: bold;\" align=\"left\">\n           O maior prêmio de hoje\n           <br>\n          é poder cantar parabéns.</p>\n           <br><br>\n           <p style=\"color:#000000;font-family:Arial, sans-serif;font-size:19px; line-height:110%;\" align=\"left\">Parabéns, <font color=\"#465ef\">%%=v(@firstName)=%%</font>!\n            <br><br>\n           </p>\n           <p style=\"color:#000000;font-family:Arial, sans-serif;font-size:16px; line-height:110%;\" align=\"left\">\n           Hoje é um dia mais do que especial. A gente deseja para você um ciclo de muitas conquistas e muito sucesso, repleto de bons momentos e grandes experiências. Torcemos para que você tenha muitas alegrias ao lado de pessoas especiais na sua vida.\n           <br><br>\n           Muitas felicidades,\n           <br>\n           <strong>Brasilcap.</strong></p>\n          </td>\n          <td width=\"55\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/01b0744b-802a-47c6-b47c-49ddd7f11825.gif\" width=\"1\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n        </tr>\n       </table>\n      </td>\n     </tr>\n                            \n                        \n\n                            \n                           \n                            </table><table bgcolor=\"#FFFFFF\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\">\n                                <tr>\n                                    <td valign=\"top\" align=\"center\" width=\"100%\" style=\"text-align: left; font-size: 12px; color: #324B68; font-family: arial; font-size: 12px;\">\n\n                          \n                            \n                           \n                                        <!--Spacer-20 -->\n                                        <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\" height=\"20\">\n                                            <tr>\n                                                <td valign=\"top\" align=\"center\" width=\"100%\" height=\"20\">\n\n                                                </td>\n                                            </tr>\n                                        </table>\n\n                                        <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"80%\">\n                                            <tr>\n                                                <td valign=\"top\" align=\"center\" width=\"80%\">\n                                                    <hr style=\"background: #D6DBE1; border: 0; height: 1px;\">\n                                                </td>\n                                            </tr>\n                                        </table>\n\n                                        <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\" height=\"07\">\n                                            <tr>\n                                                <td valign=\"top\" align=\"center\" width=\"100%\" height=\"07\"></td>\n                                            </tr>\n                                        </table>\n     <!-- ESPAÇO -->\n     \n     </td></tr><tr>\n      <td>\n       <table width=\"600\" height=\"40\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n         <tr style=\"background-color:#FFFFFF;\">\n          <td width=\"600\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/01b0744b-802a-47c6-b47c-49ddd7f11825.gif\" width=\"1\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n        </tr>\n       </table>\n      </td>\n     </tr>\n     <tr>\n      <td>\n       <table width=\"600\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"background-color:#fcfc30;\">\n        <tr>\n          <td height=\"24\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/01b0744b-802a-47c6-b47c-49ddd7f11825.gif\" width=\"1\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n         </tr>\n         <tr>\n          <td><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/01b0744b-802a-47c6-b47c-49ddd7f11825.gif\" width=\"1\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n          <td>\n           <table width=\"542\" height=\"27\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n            <tr style=\"background-color:#fcfc30;\">\n             <td><a href=\"https://www.facebook.com/Brasilcap\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/b077ced8-6216-4a1c-9e82-7b0ee55f2393.png\" width=\"30\" height=\"27\" alt=\"\"></a></td>\n            <td><a href=\"https://www.instagram.com/brasilcapbr\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/4f11078d-dc6b-4fc9-ace6-5869c6348a22.png\" width=\"29\" height=\"27\" alt=\"\"></a></td>\n            <td><a href=\"https://www.linkedin.com/company/brasilcap\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/2d937909-8109-4ae0-b4d4-e5bd68ff186e.png\" width=\"29\" height=\"27\" alt=\"\"></a></td>\n            <td><a href=\"https://twitter.com/brasilcapbr\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/602607f3-120a-4e54-b326-ce5b7da1bcf9.png\" width=\"29\" height=\"27\" alt=\"\"></a></td>\n            <td><a href=\"https://www.youtube.com/brasilcapbr\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/ca4ae3c1-9b86-48f0-a203-f3e7f0c91455.png\" width=\"38\" height=\"27\" alt=\"\"></a></td>\n             <td style=\"color:#000000;font-family:Arial, sans-serif;font-size:11px;\" align=\"left\" width=\"106\">Siga a Brasilcap<br>nas redes sociais</td>\n             <td><a href=\"https://play.google.com/store/apps/details?id=br.com.bb.android&hl=pt_BR&gl=US\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/232258d2-ae9d-4d45-aa64-8c6148c0dc8a.png\" width=\"90\" height=\"27\" alt=\"\"></a></td>\n            <td><a href=\"https://apps.apple.com/br/app/banco-do-brasil/id330984271\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/55e42c5d-3422-491d-8816-ae50ea514c58.png\" width=\"99\" height=\"27\" alt=\"\"></a></td>\n            <td style=\"color:#000000;font-family:Arial, sans-serif;font-size:11px;\" align=\"left\">Baixe o app do<br>Banco do Brasil</td>\n           </tr>\n          </table>\n          </td>\n          <td width=\"22\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/01b0744b-802a-47c6-b47c-49ddd7f11825.gif\" width=\"1\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n        </tr>\n        <tr>\n         <td width=\"36\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/01b0744b-802a-47c6-b47c-49ddd7f11825.gif\" width=\"1\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n         <td width=\"542\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/baa44451-2a40-43a5-a425-0f4f9b3ef97b.png\" width=\"542\" height=\"34\" alt=\"\"></td> \n         <td width=\"22\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/01b0744b-802a-47c6-b47c-49ddd7f11825.gif\" width=\"1\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n        </tr>\n        <tr>\n          <td width=\"36\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/01b0744b-802a-47c6-b47c-49ddd7f11825.gif\" width=\"1\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n          <td width=\"542\" style=\"color:#000000;font-family:Arial, sans-serif;font-size:11px;\" align=\"center\"><strong>Dica:</strong> cadastre nosso e-mail em seus contatos para receber todas as informações<br>e atualizações referentes ao seu Ourocap</td>\n          <td width=\"22\" height=\"24\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/01b0744b-802a-47c6-b47c-49ddd7f11825.gif\" width=\"1\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n         </tr>\n         <tr>\n          <td height=\"15\"><img src=\"http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/01b0744b-802a-47c6-b47c-49ddd7f11825.gif\" width=\"1\" height=\"1\" style=\"padding:0;border:none;display:block; outline:none;\"></td>\n         </tr>\n       </table>\n      </td>\n     </tr>\n     <tr>\n      <td>\n       <table width=\"600\" height=\"51\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n         <tr style=\"background-color:#fc7869;\">\n          <td style=\"color:#ffffff;font-family:Arial, sans-serif;font-size:11px;\" align=\"center\" width=\"106\">Caso não queira mais receber nossos e-mails, <a href=\"https://cl.s11.exct.net/unsub_center.aspx?qs=38381f95d6112bce5a917be2176d377503673433d6ba9b0961898490f9081bc57fce228b3c74d1dea93b338b98f844f9a60f90690733300a3cfd49f344de29812776edfe94d4f567\" style=\"color:#ffffff;font-family:Arial, sans-serif;font-size:11px;\">clique aqui</a></td>\n           </tr></table><table cellpadding=\"2\" cellspacing=\"0\" width=\"600\" id=\"Table5\" border=\"0\"><tr><td><font face=\"verdana\" size=\"1\" color=\"#444444\">This email was sent by: <b>%%Member_Busname%%</b><br>%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%<br><br></font></td>\n                    </tr>\n\n                    <tr>\n                        <td valign=\"top\" align=\"center\" width=\"100%\" style=\"font-family: arial; font-size: 11px; color: #707070; padding: 3px; line-height: 5px;\">\n                            <a href=\"%%profile_center_url%%\" title=\"Centro de preferencias\" style=\" outline: none; border: none; color: #707070; text-decoration: none;\" target=\"_blank\">Centro de preferências</a>\n                        </td>\n                    </tr>\n                </table>\n                <!--Text-span -->\n                \n                <!--Spacer-10 -->\n                \n                <!--Spacer-10 -->\n            </td>\n        </tr>\n    </table>\n    <custom name=\"opencounter\" type=\"tracking\">\n\n\n\n      \n     \n    \n  \n \n\n\n</custom></td></tr></table>",
+              "design": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\"><div class=\"default-design\"><div style=\"width:100%;height:150px;background: url(data:image/png;base64,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) repeat-x 0 0\"></div></div></td></tr></table>",
+              "meta": {
+                "wrapperStyles": {
+                  "mobile": {
+                    "visible": true
+                  },
+                  "styling": {}
+                }
+              },
+              "availableViews": [],
+              "blocks": {},
+              "slots": {},
+              "data": {
+                "email": {
+                  "options": {
+                    "generateFrom": ""
+                  }
+                }
+              },
+              "modelVersion": 2
+            },
+            "y2dni9pr9fa": {
+              "assetType": {
+                "id": 197,
+                "name": "htmlblock"
+              },
+              "content": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\"><!-- %%[ \nvar @fullName,@firstName\n\nset @fullName = [Nome]\nif indexOf(@fullName, \" \") > 0 then \nset @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1)) \nElse\nset @firstName = [Nome]\nendif \n\nset @firstName = Propercase(@firstName)\n\n]%% -->\n</td></tr></table>",
+              "design": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\"><div class=\"default-design\"><div style=\"width:100%;height:150px;background: url(data:image/png;base64,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) repeat-x 0 0\"></div></div></td></tr></table>",
+              "meta": {
+                "wrapperStyles": {
+                  "mobile": {
+                    "visible": true
+                  },
+                  "styling": {}
+                }
+              },
+              "availableViews": [],
+              "data": {
+                "email": {
+                  "options": {
+                    "generateFrom": ""
+                  }
+                }
+              },
+              "modelVersion": 2
+            }
+          },
+          "slots": {},
+          "data": {
+            "email": {
+              "options": {
+                "generateFrom": ""
+              }
+            }
+          },
+          "modelVersion": 2
+        }
+      },
+      "template": {
+        "id": 48172,
+        "assetType": {
+          "id": 4,
+          "name": "template",
+          "displayName": "Template"
+        },
+        "name": "Camapanha Aniversario - Modelo - 2021.22.12",
+        "content": "",
+        "meta": {
+          "contentHash": 42785878
+        },
+        "availableViews": [],
+        "slots": {
+          "banner": {
+            "locked": false,
+            "availableViews": [],
+            "data": {
+              "email": {
+                "options": {
+                  "generateFrom": ""
+                }
+              }
+            },
+            "modelVersion": 2
+          }
+        },
+        "data": {
+          "email": {
+            "options": {
+              "generateFrom": ""
+            }
+          }
+        },
+        "modelVersion": 2
+      },
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "text": {
+      "thumbnail": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": "html"
+          }
+        }
+      },
+      "generateFrom": "html",
+      "modelVersion": 2
+    },
+    "viewAsAWebPage": {
+      "thumbnail": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "subscriptioncenter": {
+      "thumbnail": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardHTML": {
+      "thumbnail": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardText": {
+      "thumbnail": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    }
+  },
+  "availableViews": [
+    "subjectline",
+    "preheader",
+    "html",
+    "text",
+    "viewAsAWebPage",
+    "subscriptioncenter",
+    "forwardHTML",
+    "forwardText"
+  ],
+  "data": {
+    "email": {
+      "options": {
+        "characterEncoding": "utf-8"
+      },
+      "legacy": {
+        "legacyId": 37597,
+        "legacyKey": "5fff9b59-6d62-43d4-b92e-1363bcb24dbc",
+        "legacyType": "email",
+        "legacyCategoryId": 1944
+      }
+    }
+  },
+  "legacyData": {
+    "legacyId": 37597,
+    "legacyKey": "5fff9b59-6d62-43d4-b92e-1363bcb24dbc",
+    "legacyType": "email",
+    "legacyCategoryId": 1944
+  },
+  "modelVersion": 2
+}

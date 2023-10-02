@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "MCI",
+    "FieldType": "Text",
+    "ObjectID": "b91df2ed-3712-49ce-9c73-6afd76fd06d2",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

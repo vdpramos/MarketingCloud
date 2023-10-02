@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1d57a064-3a4c-4b0e-b679-bc31ef510590",
+  "name": "Qr_Campeonato_Skate_Guarda_Historico",
+  "key": "531c4566-f74d-4432-810a-034a8b39fe56",
+  "description": "Guarda informação (log) de historico, quando foi feita essa execução (envio)",
+  "queryText": "SELECT\r\n  F.*\r\nFROM TB_CAMPEONATOSKATE_ENVIO_FRAGMENTADO F",
+  "targetName": "Tb_CampeonatoSkate_Historico",
+  "targetKey": "122FB230-92DB-4A95-A6C4-3757A0A9BA92",
+  "targetId": "e2797692-2f2b-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Historico de quem foi enviado para nao ter repeticao",
+  "createdDate": "2022-09-02T21:09:32.82",
+  "modifiedDate": "2022-09-02T21:09:32.82",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 52821,
+  "isFrozen": false
+}

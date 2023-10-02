@@ -1,0 +1,112 @@
+[
+  {
+    "Name": "Id_Procon",
+    "FieldType": "Text",
+    "ObjectID": "ea6ec901-9719-459b-af06-9d256116920a",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Telefone",
+    "FieldType": "Text",
+    "ObjectID": "290ba0af-4ba4-4292-8f6e-80cf4e9c3db1",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Dt_Inclusao",
+    "FieldType": "Text",
+    "ObjectID": "4a07a8ef-9c74-4d41-8526-952a26c3a670",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Situacao",
+    "FieldType": "Text",
+    "ObjectID": "8002fce7-663c-4b4c-a0d8-8a072eeeb136",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "Dt_Situacao",
+    "FieldType": "Text",
+    "ObjectID": "19b2d955-4f9c-47b5-a133-e9070fcfac09",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "CPF_Solicitante",
+    "FieldType": "Text",
+    "ObjectID": "5679d80a-58b2-4f04-9fcb-310a9aacae68",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "Nome_Solicitante",
+    "FieldType": "Text",
+    "ObjectID": "cde0bf8c-b701-4dbc-824c-d21d4677a1f9",
+    "MaxLength": "300",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "Dt_Atualizacao",
+    "FieldType": "Text",
+    "ObjectID": "32597495-e17a-4559-ace5-3aa4672cbde6",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "Nome_Arquivo_Origem",
+    "FieldType": "Text",
+    "ObjectID": "5c6f05cf-5cbf-446d-a659-9e7aae080d5d",
+    "MaxLength": "500",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 14
+  },
+  {
+    "Name": "Dt_Carga",
+    "FieldType": "Date",
+    "ObjectID": "b392dca8-70b0-44c2-9e29-ebc98cf3bce3",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GetDate()",
+    "Ordinal": 15
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "021E8A92-529E-4EDF-B839-19F31A0F37E9"
+  ],
+  "Name": [
+    "Fim_Plano_PU_semOTC_Publico_Inicial"
+  ]
+}

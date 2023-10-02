@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "ee127ad7-d959-40f7-96e0-7c0dad2e8d6b",
+  "name": "Clientes_NeoBpo_Checagem_Liberacao_OTC290",
+  "key": "9897fa38-9c54-4f8f-b932-ec2bdddf3284",
+  "description": "Verifica se gera mais publico ou se libera a extração para OTC290",
+  "script": "<script runat=\"server\">\n\nPlatform(\"Core\", \"2.0\");\nvar Id_Campanha = '7016g000002O089AAC'; // Campanha Online Cliente - Neobpo - Detalhe\nvar DE_flag_name = 'Flag_LiberarExtracao_Cliente_NeoBpo';\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\n\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51877') ));\n\n\n</script>",
+  "categoryId": 38816,
+  "createdDate": "2022-01-20T20:11:10.87",
+  "modifiedDate": "2022-02-03T07:39:15.54"
+}

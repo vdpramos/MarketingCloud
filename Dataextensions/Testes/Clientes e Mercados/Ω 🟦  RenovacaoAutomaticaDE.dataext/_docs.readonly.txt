@@ -1,0 +1,5 @@
+Dataextension name: RenovacaoAutomaticaDE
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(15)        | false    | false    |                 |

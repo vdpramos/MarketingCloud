@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "58394df3-7ab7-4228-80c2-bc3832c56ec5",
+  "name": "Ex_Clientes_NeoBpo_Finalizar",
+  "key": "504fa429-37b2-4d2b-8776-23fd7b3d1d12",
+  "description": "",
+  "script": "<script runat=server>\nPlatform(\"Core\", \"2.0\");\nvar api = new Script.Util.WSProxy();\nvar Id_Campanha = '7016g000002NzuZAAS'; // Id campanha\n// DEs: tratada a resposta do otc291 e filtrada de envio do otc290\nvar dataExtensionsName = ['Tb_Base_Ex_Cliente_OTC291_Tratada_NeoBpo', 'Tb_Base_Ex_Cliente_ComOTC_Filtrada_NeoBpo'];\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51909') ));\n\n</script>",
+  "categoryId": 40152,
+  "createdDate": "2022-02-08T19:20:14.647",
+  "modifiedDate": "2022-02-25T15:02:03.47"
+}

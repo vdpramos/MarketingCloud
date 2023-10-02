@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "95E7ABC3-B6D5-4B60-AC3D-721F7494F238"
+  ],
+  "Name": [
+    "RECOMANDO_BASE_FILTRADA"
+  ]
+}

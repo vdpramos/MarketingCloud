@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "31799c00-c9e4-4d7c-8215-3f28f6be9af8",
+  "name": "Src_Revenda_ComOTC_CleanDes",
+  "key": "30a52377-f70c-4be9-8c37-525fd3bed0ba",
+  "description": "",
+  "script": "<script runat=server>\n  Platform.Load(\"Core\", \"1.1.5\");\n  var api = new Script.Util.WSProxy();\n\n  var BASE_OTC290_FILTRADA = \"090DE52D-4228-47E4-B3E8-1BEDBD399196\"; // DE que enviou o OTC290\n  var BASE_OTC291_TRATADA = \"2900644E-8D46-4059-BB29-39AAA5297619\"; // DE que recebe o OTC291 tratado\n\n  var action = \"ClearData\";\n  var opts = {};\n  var props_BASE_OTC290_FILTRADA = {\n    CustomerKey: BASE_OTC290_FILTRADA\n  };\n\n  var props_BASE_OTC291_TRATADA = {\n    CustomerKey: BASE_OTC291_TRATADA\n  };\n  \n  api.performItem(\"DataExtension\", props_BASE_OTC290_FILTRADA, action, opts);\n  api.performItem(\"DataExtension\", props_BASE_OTC291_TRATADA, action, opts);\n\n</script>",
+  "categoryId": 38619,
+  "createdDate": "2021-08-25T14:33:22.267",
+  "modifiedDate": "2023-08-17T12:26:40.22"
+}

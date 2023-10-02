@@ -1,0 +1,178 @@
+[
+  {
+    "Name": "CreatedById",
+    "FieldType": "Text",
+    "ObjectID": "6768cef4-efe2-4c60-b330-238cfcfef3b2",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "HC_CPF_CNPJ__c",
+    "FieldType": "Text",
+    "ObjectID": "3ba39ac7-4c11-49f8-85a2-704792fbebd3",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "HC_Data_Nascimento__c",
+    "FieldType": "Text",
+    "ObjectID": "51c552b6-a33b-43b6-852f-5bd5bb9bea23",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "HC_Id_Plano__c",
+    "FieldType": "Text",
+    "ObjectID": "a0b080bf-6eb3-4fb7-83c4-44346fc0c83f",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "HC_Id_Produto__c",
+    "FieldType": "Text",
+    "ObjectID": "a434c873-602e-4dbd-bc57-66c85867cbf5",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "HC_Id_Proposta__c",
+    "FieldType": "Text",
+    "ObjectID": "4c6c52fb-d527-4d7a-b4dc-dcf40da1a544",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "HC_Id_Serie__c",
+    "FieldType": "Text",
+    "ObjectID": "4b16f981-be2a-4ac9-9057-5b581f2c40db",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "HC_Id_Titulo__c",
+    "FieldType": "Text",
+    "ObjectID": "8243b434-2afe-4a19-bdcf-bc7ba8da58ae",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "HC_Sexo__c",
+    "FieldType": "Text",
+    "ObjectID": "763ccde2-bc8f-4573-9cfc-e5f7e0710e3b",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "HC_Tipo_Cliente__c",
+    "FieldType": "Text",
+    "ObjectID": "f718e231-8480-4108-8d1a-c44fd3fb26a4",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "Id",
+    "FieldType": "Text",
+    "ObjectID": "42c80e3f-333c-4c50-907d-4c124eda6dd0",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "LastModifiedById",
+    "FieldType": "Text",
+    "ObjectID": "d551eb87-20fd-4cc0-b1f2-501260633f8b",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "MasterRecordId",
+    "FieldType": "Text",
+    "ObjectID": "e013144f-3f61-4c0e-8bc8-c5df8ae1daec",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "Name",
+    "FieldType": "Text",
+    "ObjectID": "5f8c635c-6356-4e2c-822e-dd63c39fcedf",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 14
+  },
+  {
+    "Name": "OwnerId",
+    "FieldType": "Text",
+    "ObjectID": "bcbf8dde-79db-4d38-ae34-eee5d076575d",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 15
+  },
+  {
+    "Name": "ParentId",
+    "FieldType": "Text",
+    "ObjectID": "28122e4a-e980-4138-9ce6-acd4111f8f99",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 16
+  }
+]

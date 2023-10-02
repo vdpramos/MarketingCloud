@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6a59c253-c15a-469e-b656-bf42cb4ba0d7",
+  "name": "PublicoAlvoDuploSimDisparo",
+  "key": "8ebb0bf4-3819-4fdd-a3d9-db88e2b750b2",
+  "description": "",
+  "queryText": "select \n    distinct CPF_CNPJ,\n\tNOME,\n    CONCAT('55',DDD_TEL, TEL) AS TELEFONE,\n    CONCAT('55',DDD_TEL, TEL) AS TELEFONE_PADRONIZADO,\n    ID_CLIENTE_PARCEIRO,\n\tID_CONTATO,\n\tID_CLIENTE,\n\tID_CAMPANHA,\n\tID_DEMANDA,\n\tDt_Ult_Execucao,\n\tDATA_PROXIMA_EXECUCAO\nfrom PublicoAlvoDuploSim\nwhere \n    LEN(CONCAT(DDD_TEL, TEL)) = 11\n    OR LEN(CONCAT(DDD_TEL1, TEL1)) = 11\n    OR LEN(CONCAT(DDD_TEL2, TEL2)) = 11\n  ",
+  "targetName": "PublicoAlvoDuploSimDisparo",
+  "targetKey": "F956C4AA-F7DB-4EB5-BCBA-544C8C1086E3",
+  "targetId": "f6984ea0-dc69-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-21T14:47:00.63",
+  "modifiedDate": "2022-11-22T15:24:57.61",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 32389,
+  "isFrozen": false
+}

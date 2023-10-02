@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "bda7ecc7-7d8e-4052-9170-8dc0e81b8941",
+  "name": "Ex_Clientes_NeoBpo_Liberar_Geracao_Publico_Inicial",
+  "key": "5f97ace8-0a72-409d-88b0-f8ed4ac0f113",
+  "description": "",
+  "script": "<script runat=\"server\">\n// Confere se deve continuar produzindo publico pro OTC290\nPlatform(\"Core\", \"2.0\");\nvar Id_Campanha = '7016g000002NzuZAAS'; // Campanha Online Cliente - Neobpo - Detalhe\nvar DE_flag_name = 'Flag_Publico_Inicial_Ex_Cliente_NeoBpo'; // Flag_Publico_Inicial_Ex_Cliente_NeoBpo\nvar nameDEApto = 'Publico_Apto_Ex_Clientes_NeoBpo';\nvar nameDEInapto = 'Publico_Inapto_Ex_Clientes_NeoBpo';\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\n\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51713') ));\n\n</script>",
+  "categoryId": 40152,
+  "createdDate": "2022-01-26T10:21:39.1",
+  "modifiedDate": "2022-02-25T14:44:56.697"
+}

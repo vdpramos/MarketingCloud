@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "c290c953-7abe-43cd-92eb-46436ec853c6",
+  "name": "ClientesServiceGeral",
+  "key": "751337d4-cb46-4a7b-bd6c-ae3db6203e23",
+  "description": "",
+  "queryText": "SELECT ID, CONCAT(HC_CPF_CNPJ__c, HC_Id_Parceiro_Cap__c) AS CPF_CNPJ_PARCEIRO , HC_Id_Parceiro_Cap__c AS PARCEIRO, HC_CPF_CNPJ__c AS CPF_CNPJ\nFROM HC_Relacao_Cliente_Parceiro__c_salesforce",
+  "targetName": "ClientesServiceGeral",
+  "targetKey": "3D387220-992D-480B-9F06-794B567AEFD9",
+  "targetId": "e5045ce5-51a1-ec11-a313-48df370ed7f5",
+  "targetDescription": "Inclui as informações dos clientes CAP que estão na nuvem do service cloud pois fazendo a query diretamente está dando timeout",
+  "createdDate": "2022-03-11T09:43:20.767",
+  "modifiedDate": "2022-06-22T13:31:50.737",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

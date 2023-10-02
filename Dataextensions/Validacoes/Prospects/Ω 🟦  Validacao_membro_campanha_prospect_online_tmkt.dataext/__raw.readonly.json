@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "F8A46532-BEF6-4EAD-B4B0-124E33312A6A"
+  ],
+  "Name": [
+    "Validacao_membro_campanha_prospect_online_tmkt"
+  ]
+}

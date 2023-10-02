@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "content_id",
+    "FieldType": "Text",
+    "ObjectID": "71054a48-1c51-49e7-8bd6-66888e31b2d3",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "user_Id",
+    "FieldType": "Text",
+    "ObjectID": "00685857-df5b-4e17-be17-a6690f26c520",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "session_id",
+    "FieldType": "Text",
+    "ObjectID": "a86e8bcc-9e16-408f-98a8-73a389cfb2ab",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Search",
+    "FieldType": "Text",
+    "ObjectID": "576e294b-9ce2-4c5b-9703-1aa263727406",
+    "MaxLength": "1000",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Timestamp",
+    "FieldType": "Date",
+    "ObjectID": "402c221b-b056-4fc9-a1e1-a4785a688611",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

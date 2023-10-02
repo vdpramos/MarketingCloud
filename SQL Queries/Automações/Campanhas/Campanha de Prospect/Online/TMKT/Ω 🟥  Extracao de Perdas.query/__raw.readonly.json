@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "dbd03894-bea3-435a-b5bd-48ff8657d3d5",
+  "name": "Extracao de Perdas",
+  "key": "87fc53bc-f14f-4e6f-9a46-9870e004d196",
+  "description": "",
+  "queryText": "select CPF_CNPJ, CAMPANHA, IDADE, RESULTADO, DATA_REGISTRO\n from Tb_Log_Resultados_de_Avaliacao LOG\n where log.campanha = 'Campanha Online PROSPECT - TMKT' \n and format(DATA_REGISTRO,'dd/MM/yyyy') = '05/01/2023'",
+  "targetName": "Tb_Log_Resultados_de_Avaliacao_Prospect_Online1",
+  "targetKey": "9D2F516F-D333-48C0-B9CF-A0F3947B9749",
+  "targetId": "a6206e26-fc90-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Resultados de contatos que nao foram aptos para entrar na jornada",
+  "createdDate": "2023-01-10T06:20:31.66",
+  "modifiedDate": "2023-01-10T09:34:09.107",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 55868,
+  "isFrozen": false
+}

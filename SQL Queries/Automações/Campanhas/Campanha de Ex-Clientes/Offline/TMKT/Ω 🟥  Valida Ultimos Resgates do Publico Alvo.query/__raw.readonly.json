@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "54708949-4f19-47a8-84e8-1bc44f668125",
+  "name": "Valida Ultimos Resgates do Publico Alvo",
+  "key": "54708949-4F19-47A8-84E8-1BC44F668125",
+  "description": "",
+  "queryText": "select be.cpf_cnpj, max(t.HC_Data_do_ultimo_resgate__c) AS ultimo_resgate\nfrom Tb_Base_Ex_Cliente_ComOTC_Filtrada_TMKT be\ninner join hc_titulo__c_salesforce t\n    on be.cpf_cnpj = HC_CPF_CNPJ_Titular__c\ngroup by CPF_CNPJ",
+  "targetName": "ValidaUltimosResgatesPublicoAlvo",
+  "targetKey": "60BB2913-1D51-422E-B983-1BDE8461E854",
+  "targetId": "1f4bec3c-3215-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-27T15:34:09.847",
+  "modifiedDate": "2023-06-27T15:35:13.943",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 33121,
+  "isFrozen": false
+}

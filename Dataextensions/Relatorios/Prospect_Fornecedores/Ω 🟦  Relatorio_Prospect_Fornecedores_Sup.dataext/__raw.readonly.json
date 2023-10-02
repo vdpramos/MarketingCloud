@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "3A2F0D87-7B58-42E0-ADC3-91622FF97986"
+  ],
+  "Name": [
+    "Relatorio_Prospect_Fornecedores_Sup"
+  ]
+}

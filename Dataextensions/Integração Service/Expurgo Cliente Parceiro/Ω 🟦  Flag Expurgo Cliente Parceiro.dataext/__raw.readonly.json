@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "9FDA7149-F877-4D9F-B49E-C894D11F150A"
+  ],
+  "Name": [
+    "Flag Expurgo Cliente Parceiro"
+  ]
+}

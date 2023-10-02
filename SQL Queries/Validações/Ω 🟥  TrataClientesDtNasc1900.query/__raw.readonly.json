@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "fb110e8b-8736-4613-9283-1959c3d161a5",
+  "name": "TrataClientesDtNasc1900",
+  "key": "FB110E8B-8736-4613-9283-1959C3D161A5",
+  "description": "",
+  "queryText": "select base from PublicoEnvioOTC290CampBaixaRenda \nwhere substring(base, 38, 8) <> '19000101'",
+  "targetName": "PublicoEnvioOTC290CampBaixaRenda_1",
+  "targetKey": "5B9E8CC1-AF15-4302-B236-85205069DE7D",
+  "targetId": "49e1eb62-dcfb-ed11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-05-26T09:46:29.93",
+  "modifiedDate": "2023-05-26T09:46:29.93",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

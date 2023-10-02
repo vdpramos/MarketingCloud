@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "c41ea95e-a815-4010-8502-31f206efe9a2",
+  "name": "Resultados_Excluidos_Revenda_Ourocap",
+  "key": "bf5502a8-8a6a-433b-b1f4-72b0190286dc",
+  "description": "Geração de log de resultados dos contatos excluidos pelo OTC 291",
+  "queryText": "SELECT\n  OTC291.CPF_CNPJ,\n  OTC291.Id_Campanha AS CAMPANHA,\n  CONVERT(INTEGER, OTC291.IDADE) AS  IDADE,\n  OTC291.CONSELHEIRO,\n  OTC291.CLIENTE_PEP,\n  OTC291.DESEJA_CONTATO_TELEFONICO AS NAO_DESEJA_RECEBER_LIGACOES,\n  OTC291.POSSUI_TELEFONE_ATIVO,\n  OTC291.POSSUI_CONTA_ATIVA,\n  OTC291.COMPRA_RECENTE_OUROCAP,\n  OTC291.NAO_IMPORTUNE,\n  OTC291.CODIGO_RNA,\n  OTC291.ALTA_RENDA,\n  CASE\n    WHEN OTC291.CODIGO_RNA IS NULL OR OTC291.CODIGO_RNA != '000' THEN 'EXCLUIDO RNA'\n    WHEN OTC291.ALTA_RENDA IS NULL OR OTC291.ALTA_RENDA != 0 THEN 'ALTA RENDA'\n  END AS RESULTADO\nFROM Revenda_Ourocap_OTC291_Filtrada OTC291\nWHERE \n  OTC291.Ind_MembroCampanha = 0",
+  "targetName": "Tb_Log_Resultados_de_Avaliacao",
+  "targetKey": "88231EFF-D3C6-4EF4-BE12-BA0197BC551D",
+  "targetId": "57b988f5-a2e5-eb11-a304-48df37342b90",
+  "targetDescription": "Resultados de contatos que nao foram aptos para entrar na jornada",
+  "createdDate": "2021-07-16T16:00:24.153",
+  "modifiedDate": "2023-08-29T12:58:40.843",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 37101,
+  "isFrozen": false
+}

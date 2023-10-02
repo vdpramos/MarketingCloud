@@ -1,0 +1,8 @@
+Dataextension name: Tb_Campanhas_Cliente_Historico
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | true     | true     |                 |
+| Id_Campanha          | Text(50)        | false    | false    |                 |
+| Data_Campanha        | Date            | false    | false    | GetDate()       |
+| Canal                | Text(100)       | false    | false    |                 |

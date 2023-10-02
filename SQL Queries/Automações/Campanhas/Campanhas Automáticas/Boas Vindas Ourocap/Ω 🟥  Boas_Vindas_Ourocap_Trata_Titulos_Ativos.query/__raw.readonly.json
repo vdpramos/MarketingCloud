@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "d7ca9dc7-f161-4a5f-970c-ceb3ddf6d63d",
+  "name": "Boas_Vindas_Ourocap_Trata_Titulos_Ativos",
+  "key": "02b18334-c6ea-4afd-aaff-4f785f4160c0",
+  "description": "Verifica a quantidade de titulos ativos e inativos",
+  "queryText": "SELECT\n\tB.CPF_CNPJ,\n\tB.ID_PROPOSTA,\n\tSUM(CASE WHEN T.HC_SITUACAO__C = 'Ativo' THEN 1 ELSE 0 END) AS TITULOS_ANTERIORES_ATIVOS,\n\tSUM(CASE WHEN T.HC_SITUACAO__C IS NULL OR T.HC_SITUACAO__C != 'Ativo' THEN 1 ELSE 0 END) AS TITULOS_ANTERIORES_INATIVOS\nFROM TB_BOAS_VINDAS_OUROCAP_PROSPOSTAS B\nINNER JOIN CAMPAIGN_SALESFORCE CS ON CS.ID = B.ID_CAMPANHA\nINNER JOIN HC_TITULO__C_SALESFORCE T ON T.HC_CLIENTE_X_PARCEIRO__C = B.ID_CLIENTE_PARCEIRO\nWHERE\n\tT.HC_CONTRATACAO__C < CS.HC_DATA_INICIAL_DE_COMPRA__C\n\t/* PARCEIRO TCBB PARA OUROCAP */\n\tAND T.HC_CODIGO_DO_PARCEIRO_NA_ORIGEM__C = 'TCBB'\nGROUP BY B.CPF_CNPJ,\n\tB.ID_PROPOSTA",
+  "targetName": "Tb_Boas_Vindas_Ourocap_Prospostas",
+  "targetKey": "D6CD34FE-8448-44F1-96E7-D96C39E4117E",
+  "targetId": "abf37f26-f001-ed11-a5b6-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2021-07-29T19:02:07.917",
+  "modifiedDate": "2022-10-21T11:42:38.657",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 37320,
+  "isFrozen": false
+}

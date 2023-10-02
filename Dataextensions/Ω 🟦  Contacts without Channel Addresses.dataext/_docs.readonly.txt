@@ -1,0 +1,8 @@
+Dataextension name: Contacts without Channel Addresses
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| MID                  | Text            | false    | false    |                 |
+| ContactTypeID        | Number          | false    | false    |                 |
+| ContactID            | Text            | false    | false    |                 |
+| ContactKey           | Text(254)       | false    | false    |                 |

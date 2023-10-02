@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "e5dfe36a-8f30-4a6a-8bf0-1964361a407b",
+  "name": "Libera Integracao Prospect TMKT",
+  "key": "10c010f0-33bb-491b-9f76-354379100ac0",
+  "description": "Insere registro do DE flag para liberar integracao",
+  "script": "<script runat=\"server\">\r\n  Platform(\"Core\", \"2.0\");\r\n  var api = new Script.Util.WSProxy();\r\n  var DEName = 'Flag_Integracao_Prospect_TMKT';\r\n  \r\n  // create record to allow integration to continue\r\n  insertRecordInDE(api, {INTEGRACAO: true}, retrieveDECustomerKeyFromName(api, DEName));\r\n    \r\n  // aux functions\r\n  function insertRecordInDE(api, record, customerKey){\r\n    if(!api) Platform.Function.RaiseError('Api param is required');\r\n    var props = [];\r\n    for(prop in record){\r\n      props.push( {Name: prop, Value: record[prop] } );\r\n    }\r\n    var data = {\r\n      CustomerKey: customerKey,\r\n      Properties: props\r\n    }\r\n    return api.createItem('DataExtensionObject', data);\r\n  }\r\n\r\n  function retrieveDECustomerKeyFromName(api, dataExtensionName){\r\n    var simpleFilter = {\r\n      Property: 'Name',\r\n      SimpleOperator: 'equals',\r\n      Value: dataExtensionName\r\n    }\r\n    var result = api.retrieve('DataExtension', ['CustomerKey'], simpleFilter);\r\n    if(result.Status != 'OK' || result.Results.length < 1){\r\n      return null\r\n    }else{\r\n      return result.Results[0].CustomerKey;\r\n    }\r\n  }\r\n</script>",
+  "categoryId": 38837,
+  "createdDate": "2022-06-29T21:22:24.373",
+  "modifiedDate": "2022-06-29T21:22:24.373"
+}

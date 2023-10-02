@@ -1,0 +1,60 @@
+{
+  "id": 16718,
+  "customerKey": "c1573cc8-853b-453e-90bb-ef72b1c3998a",
+  "objectID": "9bc4e7bc-73f1-4dc3-ade5-b7654cfaccb5",
+  "assetType": {
+    "id": 197,
+    "name": "htmlblock",
+    "displayName": "HTML Block"
+  },
+  "fileProperties": {
+    "fileName": "Criar Nova Campanha"
+  },
+  "name": "Criar Nova Campanha",
+  "owner": {
+    "id": 713428608,
+    "email": "jorge.briner@harpiacloud.com.br",
+    "name": "Jorge Briner",
+    "userId": "713428608"
+  },
+  "createdDate": "2020-12-23T12:30:25.653-06:00",
+  "createdBy": {
+    "id": 713428608,
+    "email": "jorge.briner@harpiacloud.com.br",
+    "name": "Jorge Briner",
+    "userId": "713428608"
+  },
+  "modifiedDate": "2020-12-30T16:26:06.927-06:00",
+  "modifiedBy": {
+    "id": 713428608,
+    "email": "jorge.briner@harpiacloud.com.br",
+    "name": "Jorge Briner",
+    "userId": "713428608"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/16718/thumbnail"
+  },
+  "category": {
+    "id": 28624,
+    "name": "Content Block",
+    "parentId": 1942
+  },
+  "content": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\">%%[\n    \n var @clientId, @clientSecret, @username, @password, @response, @responseRows, @payload\n    \n set @clientId = '3MVG9dCCPs.KiE4QxOS5TDIFGGgcE4Y_a6QQOzfR988xgqp6XG2cniJhEag2Az4xQp.IU64kRGp7pwguTWePC'\n    set @clientSecret = 'C254861B416469660B07A3726BB418DC9EC131170DDB323F08FAE8EAB3102984'\n    set @username = 'integration.user@harpiacloud.com.br.bbcap.dev'\n    set @password = 'brasilcap2020'\n\n    set @payload = Concat('grant_type=password&client_id=', @clientId, '&client_secret=', @clientSecret, '&username=', @username, '&password=', @password)\n\n    set @postrequest = HTTPPost2(\"https://brasilcap--dev.my.salesforce.com/services/oauth2/token\",\"application/x-www-form-urlencoded\", @payload, true, @response, @responseRows)\n \n  ]%% \n\n<script runat=\"server\">\n    Platform.Load(\"Core\", \"1\")\n     var str = Variable.GetValue(\"@response\");\n     var obj = Platform.Function.ParseJSON(str);\n     var val = obj.access_token;\n     Variable.SetValue(\"@apitoken\",val);\n </script>\n\n%%[\n var @accessToken, @instanceURL, @id, @payloadCampaign, @campaignRequest, @urlCampaign, @campaignName, @campaignDescription, @campaignTipo, @data, @responseCampaign, @statusCode\n \n set @systemDate = Now(1)\n set @data = SystemDateToLocalDate(@systemDate)\n set @data = Concat(FormatDate(@data,\"ddMMyyyy\"),\"_\",FormatDate(@data,\"\", \"HHmm\"))\n set @accessToken = Concat('Bearer ', @apitoken)\n set @campaignName = Concat('Campanha_API_Teste_', @data)\n set @campaignDescription = 'Campanha Teste API'\n set @campaignTipo = 'Cliente'\n \n if @postrequest == \"200\" then\n  \n  set @payloadCampaign = Concat('{\"name\": \"', @campaignName ,'\",\"description\": \"', @campaignDescription ,'\",\"tipo\": \"', @campaignTipo ,'\"}')\n          \n  set @campaignRequest = HTTPPost2(\"https://brasilcap--dev.my.salesforce.com/services/apexrest/CriarCampanha\",\"application/json\",@payloadCampaign,false,@statusCode, @responseCampaign, \"Authorization\", @accessToken)\n endif\n\n]%%\n\n<script runat=\"server\">\n    Platform.Load(\"Core\", \"1\")\n     var str = Variable.GetValue(\"@statusCode\");\n     var obj = Platform.Function.ParseJSON(str);\n     var val = obj.IdCampanha;\n     Variable.SetValue(\"@idCampanha\",val);\n </script>\n \n%%[ InsertDE('Tb_Campanhas_Criadas_Service','Id_Campanha',@idCampanha,'Token',@apitoken) ]%%</td></tr></table>",
+  "design": "",
+  "meta": {
+    "wrapperStyles": {
+      "mobile": {
+        "visible": true
+      },
+      "styling": {}
+    }
+  },
+  "availableViews": [],
+  "modelVersion": 2
+}

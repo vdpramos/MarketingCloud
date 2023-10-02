@@ -1,0 +1,8 @@
+Dataextension name: Importar_Casos
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CaseNumber           | Text(30)        | false    | false    |                 |
+| HC_Enviar_Protocolo_via_SMS__c | Text(255)       | false    | false    |                 |
+| HC_Numero_para_SMS__c | Text(18)        | false    | false    |                 |
+| HC_Texto_SMS__c      | Text(1300)      | false    | false    |                 |

@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Cod_Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "a46b061c-bdf8-4a92-8e30-21ee7ff0b47f",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Codigo",
+    "FieldType": "Text",
+    "ObjectID": "f2a532ad-8140-4292-a793-890fd9dffb7d",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Valor",
+    "FieldType": "Text",
+    "ObjectID": "841a374b-5def-44d6-9d3d-80ecea808861",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Cod_Tipo_Plano",
+    "FieldType": "Text",
+    "ObjectID": "1d796ff8-1e34-4490-a4d0-2c68a11343d2",
+    "MaxLength": "300",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

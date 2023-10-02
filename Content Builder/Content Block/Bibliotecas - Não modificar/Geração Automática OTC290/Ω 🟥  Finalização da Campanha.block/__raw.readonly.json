@@ -1,0 +1,52 @@
+{
+  "id": 51909,
+  "customerKey": "258e9692-1176-4ec2-9a52-c2a551ebcf57",
+  "objectID": "9a4367f4-9050-4ac0-9c13-0a3b66d69437",
+  "assetType": {
+    "id": 220,
+    "name": "codesnippetblock",
+    "displayName": "Code Snippet Block"
+  },
+  "fileProperties": {
+    "fileName": "Finalização da Campanha"
+  },
+  "name": "Finalização da Campanha",
+  "description": "Faz as ultimas tratativas após a campanha ser finalizada",
+  "owner": {
+    "id": 713538740,
+    "email": "matheus.leto@harpiacloud.com.br",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "createdDate": "2022-02-03T07:25:32.077-06:00",
+  "createdBy": {
+    "id": 713538740,
+    "email": "matheus.leto@harpiacloud.com.br",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "modifiedDate": "2022-02-25T15:22:57.703-06:00",
+  "modifiedBy": {
+    "id": 713538740,
+    "email": "matheus.leto@harpiacloud.com.br",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/51909/thumbnail"
+  },
+  "category": {
+    "id": 45099,
+    "name": "Geração Automática OTC290",
+    "parentId": 45122
+  },
+  "content": "// var Id_Campanha;\nvar api = new Script.Util.WSProxy();\nvar DE_Controller_Name = 'CONTROLE_AUTOMACOES_CAMPANHAS'\nvar DE_Controller = retrieveDECustomerKeyFromName(api, DE_Controller_Name);\n\ntry{\n  var dataExtensionsCustomerKeysToClear = retrieveDEsCustomerKeyByName(dataExtensionsName);\n  var clearObject = [];\n  for (var i = 0; i < dataExtensionsCustomerKeysToClear.length; i++) {\n    clearObject.push({\n      CustomerKey: dataExtensionsCustomerKeysToClear[i].CustomerKey\n    });\n  }\n  var res = api.performBatch(\"DataExtension\", clearObject, \"ClearData\");\n\n  // Atulizar com finalização da campanha\n  var updateStatusInRecord = { STATUS_AUTOMACAO: 'FINALIZADA', ID_CAMPANHA : Id_Campanha };\n  var upsertResult = upsertRecordInDE(api, updateStatusInRecord, DE_Controller);\n\n}catch(error){\n  var props = [\n    {\n      Name: 'STATUS_AUTOMACAO',\n      Value: 'ERRO: ALGO DEU ERRADO NA FINALIZACAO DA CAMPANHA'\n    }, \n    { Name: 'ID_CAMPANHA', Value: Id_Campanha }\n  ];\n  var updateData = {\n    CustomerKey: DE_Controller,\n    Properties: props\n  }\n  var updateOptions = {SaveOptions: [{'PropertyName': '*', SaveAction: 'UpdateAdd'}]};\n  var res = api.updateItem('DataExtensionObject', updateData, updateOptions);\n  Platform.Function.RaiseError('Something went wrong');\n}\n\nfunction retrieveDEsCustomerKeyByName(DEname){\n  var filter = {\n    Property: \"Name\",\n    Value: DEname\n  };\n  \n  if( isArray(DEname) && DEname.length > 1 ){\n    filter.SimpleOperator = \"IN\";\n  }\n  else if(isArray(DEname) && DEname.length == 1){\n    filter.SimpleOperator = \"equals\";\n    filter.Value = DEname[0];\n  }else{\n    filter.SimpleOperator = \"equals\";\n    filter.Value = DEname;\n  }\n  \n  var req = api.retrieve(\"DataExtension\", [\"Name\", \"CustomerKey\"], filter);\n  return req.Results;\n}\n\nfunction isArray(a) {\n  return (!!a) && Object.prototype.toString.call(a) == '[object Array]'\n};\n\nfunction retrieveDECustomerKeyFromName(api, dataExtensionName){\n  var simpleFilter = {\n    Property: 'Name',\n    SimpleOperator: 'equals',\n    Value: dataExtensionName\n  }\n  var result = api.retrieve(\"DataExtension\", [\"CustomerKey\"], simpleFilter);\n  if(result.Status != 'OK' || result.Results.length < 1){\n    return null\n  }else{\n    return result.Results[0].CustomerKey;\n  }\n}\n\nfunction upsertRecordInDE(api, record, customerKey){\n  if(!api) Platform.Function.RaiseError('Api param is required');\n  var props = [];\n  for(prop in record){\n    props.push( {Name: prop, Value: record[prop] } );\n  }\n  var data = {\n    CustomerKey: customerKey,\n    Properties: props\n  }\n  return api.updateItem('DataExtensionObject', data, {SaveOptions: [{'PropertyName': '*', SaveAction: 'UpdateAdd'}]});\n}",
+  "availableViews": [],
+  "modelVersion": 2
+}

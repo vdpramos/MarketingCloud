@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "08be2564-1878-4fad-8eab-613ab729e4d6",
+  "name": "ValidaMCI",
+  "key": "08BE2564-1878-4FAD-8EAB-613AB729E4D6",
+  "description": "",
+  "queryText": "SELECT HC_MCI_BB_Cliente__c as MCI\nFROM HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE\nWHERE HC_MCI_BB_Cliente__c IN (Select MCI from BaseMCI)",
+  "targetName": "BaseMCI_Tratada",
+  "targetKey": "B5F006CB-C113-4475-A87D-838064A8541C",
+  "targetId": "575068d3-6de3-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-04-25T06:55:18.2",
+  "modifiedDate": "2023-04-25T07:48:15.5",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

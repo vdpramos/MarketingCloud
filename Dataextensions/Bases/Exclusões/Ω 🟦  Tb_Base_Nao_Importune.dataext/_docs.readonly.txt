@@ -1,0 +1,14 @@
+Dataextension name: Tb_Base_Nao_Importune
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Id_Procon            | Text(100)       | false    | false    |                 |
+| Telefone             | Text(100)       | true     | true     |                 |
+| Dt_Inclusao          | Text(100)       | false    | false    |                 |
+| Situacao             | Text(100)       | false    | false    |                 |
+| Dt_Situacao          | Text(100)       | false    | false    |                 |
+| CPF_Solicitante      | Text(50)        | false    | false    |                 |
+| Nome_Solicitante     | Text(300)       | false    | false    |                 |
+| Dt_Atualizacao       | Text(100)       | false    | false    |                 |
+| Nome_Arquivo_Origem  | Text(500)       | false    | false    |                 |
+| Dt_Carga             | Date            | false    | false    | GetDate()       |

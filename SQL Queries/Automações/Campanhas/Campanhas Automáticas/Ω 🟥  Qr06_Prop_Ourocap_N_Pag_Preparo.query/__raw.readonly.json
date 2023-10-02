@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3fa2b7b8-cce7-4c51-bb13-102a6b7ca833",
+  "name": "Qr06_Prop_Ourocap_N_Pag_Preparo",
+  "key": "58f2e734-3d29-42d1-8e97-e7900857319f",
+  "description": "",
+  "queryText": "SELECT\n  '001'+\n  REPLICATE (' ' , 9)+\n  REPLICATE ('0' , 9)+\n  '1'+\n  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, CPF_CNPJ), 15)+\n  CONVERT(VARCHAR(10), CONVERT(DATE, DT_NASCIMENTO, 103), 112)+\n  LEFT(CONVERT(VARCHAR, NOME) + REPLICATE(' ', 60), 60)+\n  REPLICATE (' ' , 1)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 5)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 73)+\n  REPLICATE (' ' , 70) AS BASE\nFROM\n  Tb_Base_Prop_Ourocap_N_Pag_Filtrada",
+  "targetName": "Prop_Ourocap_N_Pag_OTC290",
+  "targetKey": "7169FEC2-E777-4638-A5A3-A111FDDD8F93",
+  "targetId": "9fabd91a-a794-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-03T13:45:22.76",
+  "modifiedDate": "2022-11-01T17:34:06.46",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 31534,
+  "isFrozen": false
+}

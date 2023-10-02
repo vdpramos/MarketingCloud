@@ -1,0 +1,24 @@
+Dataextension name: QueryStudioResults at 2023-09-04T1945090000
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| cpf_cnpj             | Text(255)       | false    | false    |                 |
+| nome                 | Text(255)       | false    | false    |                 |
+| email                | Text(255)       | false    | false    |                 |
+| email_valido         | Text(255)       | false    | false    |                 |
+| celular              | Text(255)       | false    | false    |                 |
+| celular_valido       | Text(255)       | false    | false    |                 |
+| nao_deseja_receber_sms | Text(255)       | false    | false    |                 |
+| nao_deseja_receber_email | Text(255)       | false    | false    |                 |
+| id_campanha          | Text(255)       | false    | false    |                 |
+| id_campanha_pai      | Text(255)       | false    | false    |                 |
+| id_cliente_parceiro  | Text(255)       | false    | false    |                 |
+| id_contato           | Text(255)       | false    | false    |                 |
+| nome_parceiro        | Text(255)       | false    | false    |                 |
+| id_proposta          | Text(255)       | false    | false    |                 |
+| CREATEDDATE          | Text(255)       | false    | false    |                 |
+| DATA_ORIGEM_VENDA_AGENDADA__C | Text(255)       | false    | false    |                 |
+| ORIGEM_VENDA_AGENDADA__C | Text(255)       | false    | false    |                 |
+| QUANTIDADE_VENDA_AGENDADA__C | Text(255)       | false    | false    |                 |
+| NUMERO_VENDA_AGENDADA__C | Text(255)       | false    | false    |                 |
+| ID_VENDA_AGENDADA__C | Text(255)       | false    | false    |                 |

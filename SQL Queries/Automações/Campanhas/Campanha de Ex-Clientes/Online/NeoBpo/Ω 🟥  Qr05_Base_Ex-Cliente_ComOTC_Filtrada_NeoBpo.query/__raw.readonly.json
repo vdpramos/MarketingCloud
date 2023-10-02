@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "97927d7a-54a6-4213-bdc2-94b227df1928",
+  "name": "Qr05_Base_Ex-Cliente_ComOTC_Filtrada_NeoBpo",
+  "key": "a85d7b3d-9ced-44f4-b671-707b0114956a",
+  "description": "Filtra publico que vai para o OTC290",
+  "queryText": "SELECT\n  A.*\nFROM (\n  SELECT\n    A.*,\n    A.CPF_CNPJ as Id,\n    ROW_NUMBER() OVER ( PARTITION BY 1 ORDER BY CPF_CNPJ) AS NUM_REGISTRO\n  FROM Publico_Apto_Ex_Clientes_NeoBpo A\n) A\n/* Garante seleção de contatos até a quantidade desejado no parametro da campanha OTC */\nLEFT JOIN CONTROLE_AUTOMACOES_CAMPANHAS CONT ON CONT.ID_CAMPANHA = '7016g000002NzuZAAS'\nWHERE NUM_REGISTRO <= QUANTIDADE_DESEJADA_OTC290",
+  "targetName": "Tb_Base_Ex_Cliente_ComOTC_Filtrada_NeoBpo",
+  "targetKey": "552D8160-2EF5-4AD8-84B3-519491484CD5",
+  "targetId": "37de758d-0d27-ec11-a30b-48df37342b90",
+  "targetDescription": "Base com o publico inicial filtrado para envio do otc290",
+  "createdDate": "2021-10-07T18:14:46.497",
+  "modifiedDate": "2022-01-27T11:56:02.87",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 30771,
+  "isFrozen": false
+}

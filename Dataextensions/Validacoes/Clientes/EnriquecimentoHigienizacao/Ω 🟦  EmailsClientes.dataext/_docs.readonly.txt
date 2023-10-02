@@ -1,0 +1,10 @@
+Dataextension name: EmailsClientes
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| HC_Id_Parceiro_Cap__c | Text(255)       | false    | false    |                 |
+| HC_CPF_CNPJ__c       | Text(255)       | false    | false    |                 |
+| HC_Email_Brasilcap__c | Text(255)       | false    | false    |                 |
+| HC_Email_Comercial__c | Text(255)       | false    | false    |                 |
+| HC_Email_Pessoal__c  | Text(255)       | false    | false    |                 |
+| HC_Email_Principal__c | Text(255)       | false    | false    |                 |

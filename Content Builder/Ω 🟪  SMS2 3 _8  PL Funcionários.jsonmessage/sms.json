@@ -1,0 +1,17 @@
+{
+  "channel": "sms",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:previewbycodetype": {
+    "locale": "BR",
+    "supportsConcatenation": true
+  },
+  "display:message": "BRASILCAP INFORMA: VEJA NA INTRANET UMA GRANDE NOTICIA PRA VOCE!",
+  "currentColumn": 0,
+  "display:message:display": "BRASILCAP INFORMA: VEJA NA INTRANET UMA GRANDE NOTICIA PRA VOCE!",
+  "template": "sms",
+  "contents": [],
+  "shortLinks": [],
+  "uncheckedPanels": []
+}

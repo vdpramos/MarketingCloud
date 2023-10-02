@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "1c7e3e7c-4006-4ec6-9a0b-cb60d67f3050",
+  "name": "Ex_Clientes_Offline_TMKT_Finalizar",
+  "key": "bd0318d7-5937-49c8-89d5-884229f54c0d",
+  "description": "",
+  "script": "<script runat=server>\nPlatform(\"Core\", \"2.0\");\nvar api = new Script.Util.WSProxy();\nvar Id_Campanha = '7016g000000NSIpAAO'; // Id campanha\n// Colocar no dos DES de aptos e inaptos \nvar dataExtensionsName = ['Tb_Base_Ex_Cliente_ComOTC_Filtrada_TMKT', 'Tb_Base_Ex_Cliente_OTC291_Tratada_TMKT'] // DE que enviou o OTC290\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51909') ));\n\n</script>",
+  "categoryId": 38642,
+  "createdDate": "2022-02-04T11:20:38.193",
+  "modifiedDate": "2022-10-31T08:29:59.89"
+}

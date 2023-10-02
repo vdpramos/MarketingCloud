@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "4B7C9922-070E-4E76-83D2-C3D8BC3F723D"
+  ],
+  "Name": [
+    "RNA e Alta Renda Verdadeiros"
+  ]
+}

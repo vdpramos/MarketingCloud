@@ -1,0 +1,2887 @@
+[
+  {
+    "_CustomObjectKey": "3165831",
+    "ID": "a0i6g00000H7UFOAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165832",
+    "ID": "a0i6g00000EhViqAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165833",
+    "ID": "a0i6g00000H7VCjAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165834",
+    "ID": "a0i6g00000H7VCAAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165835",
+    "ID": "a0i6g00000H7VCFAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165836",
+    "ID": "a0i6g00000H7UxPAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165837",
+    "ID": "a0i6g00000H7UxZAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165838",
+    "ID": "a0i6g00000By6DNAAZ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165839",
+    "ID": "a0i6g0000089QGXAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165840",
+    "ID": "a0i6g0000089QGiAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165841",
+    "ID": "a0i6g0000089QGxAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165842",
+    "ID": "a0i6g0000089QHHAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165843",
+    "ID": "a0i6g0000089QHPAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165844",
+    "ID": "a0i6g0000089QHQAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165845",
+    "ID": "a0i6g0000089QbEAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165846",
+    "ID": "a0i6g0000089QbGAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165847",
+    "ID": "a0i6g0000089QbPAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165848",
+    "ID": "a0i6g0000089QbaAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165849",
+    "ID": "a0i6g0000089QbiAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165850",
+    "ID": "a0i6g0000089QbjAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165851",
+    "ID": "a0i6g0000089Qc2AAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165852",
+    "ID": "a0i6g0000089QcCAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165853",
+    "ID": "a0i6g0000089QcDAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165854",
+    "ID": "a0i6g0000089QcFAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165855",
+    "ID": "a0i6g0000089QcLAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165856",
+    "ID": "a0i6g00000Eh7ILAAZ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165857",
+    "ID": "a0i6g0000089QFfAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165858",
+    "ID": "a0i6g00000H7UVLAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165859",
+    "ID": "a0i6g00000H7UXMAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165860",
+    "ID": "a0i6g00000H7UWxAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165861",
+    "ID": "a0i6g00000H7GT3AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165862",
+    "ID": "a0i6g00000EhhQhAAJ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165863",
+    "ID": "a0i6g00000H7UijAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165864",
+    "ID": "a0i6g00000H7UjhAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165865",
+    "ID": "a0i6g00000H7UjwAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165866",
+    "ID": "a0i6g00000H7PzkAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165867",
+    "ID": "a0i6g00000H7TLlAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165868",
+    "ID": "a0i6g00000H7UmXAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165869",
+    "ID": "a0i6g00000H7UnPAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165870",
+    "ID": "a0i6g00000H7UmrAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165871",
+    "ID": "a0i6g00000H7UnoAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165872",
+    "ID": "a0i6g00000H7UpBAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165873",
+    "ID": "a0i6g00000H7UocAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165874",
+    "ID": "a0i6g00000H7Uq9AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165875",
+    "ID": "a0i6g00000H7UqOAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165876",
+    "ID": "a0i6g00000H7IrQAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165877",
+    "ID": "a0i6g00000H7IyHAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165878",
+    "ID": "a0i6g00000H7MQtAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165879",
+    "ID": "a0i6g00000H7MkqAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165880",
+    "ID": "a0i6g0000089QZrAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165881",
+    "ID": "a0i6g0000089QZsAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165882",
+    "ID": "a0i6g00000H7RUHAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165883",
+    "ID": "a0i6g00000HvxIDAAZ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165884",
+    "ID": "a0i6g00000H7SaiAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165885",
+    "ID": "a0i6g00000H7SaoAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165886",
+    "ID": "a0i6g00000H7SapAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165887",
+    "ID": "a0i6g00000H7SSgAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165888",
+    "ID": "a0i6g00000H7SStAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165889",
+    "ID": "a0i6g000008qW6GAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165890",
+    "ID": "a0i6g00000H5RNLAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165891",
+    "ID": "a0i6g00000H7TkHAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165892",
+    "ID": "a0i6g0000089QPzAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165893",
+    "ID": "a0i6g0000089QQ1AAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165894",
+    "ID": "a0i6g00000H7TyNAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165895",
+    "ID": "a0i6g00000H7UtIAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165896",
+    "ID": "a0i6g00000H7Uu6AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165897",
+    "ID": "a0i6g00000H7UupAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165898",
+    "ID": "a0i6g00000H7U5jAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165899",
+    "ID": "a0i6g00000H7U5kAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165900",
+    "ID": "a0i6g00000H7U5mAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165901",
+    "ID": "a0i6g00000H7T2oAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165902",
+    "ID": "a0i6g00000H7T67AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165903",
+    "ID": "a0i6g00000H7T6HAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165904",
+    "ID": "a0i6g00000H7T7oAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165905",
+    "ID": "a0i6g00000H7T7yAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165906",
+    "ID": "a0i6g000006EZ5TAAW",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165907",
+    "ID": "a0i6g00000H7T8NAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165908",
+    "ID": "a0i6g00000H7T9VAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165909",
+    "ID": "a0i6g00000H7TAOAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165910",
+    "ID": "a0i6g00000H7UwlAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165911",
+    "ID": "a0i6g00000H7GT1AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165912",
+    "ID": "a0i6g00000H7Sn3AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165913",
+    "ID": "a0i6g00000AkELGAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165914",
+    "ID": "a0i6g00000H7SR5AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165915",
+    "ID": "a0i6g00000H7SVVAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165916",
+    "ID": "a0i6g00000H7SVWAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165917",
+    "ID": "a0i6g00000H7SVXAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165918",
+    "ID": "a0i6g00000H7SR7AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165919",
+    "ID": "a0i6g00000H7SR9AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165920",
+    "ID": "a0i6g00000H7SRAAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165921",
+    "ID": "a0i6g00000H7SRCAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165922",
+    "ID": "a0i6g00000H7SRDAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165923",
+    "ID": "a0i6g00000H7SRGAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165924",
+    "ID": "a0i6g00000H7ShfAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165925",
+    "ID": "a0i6g0000089QPMAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165926",
+    "ID": "a0i6g0000089QPfAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165927",
+    "ID": "a0i6g0000089QQ8AAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165928",
+    "ID": "a0i6g0000089QQAAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165929",
+    "ID": "a0i6g0000089QQDAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165930",
+    "ID": "a0i6g00000H7TKJAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165931",
+    "ID": "a0i6g00000H7TKnAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165932",
+    "ID": "a0i6g00000H7TKsAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165933",
+    "ID": "a0i6g000008BpLIAA0",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165934",
+    "ID": "a0i6g00000H7TC0AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165935",
+    "ID": "a0i6g00000H7TCjAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165936",
+    "ID": "a0i6g00000H7TDXAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165937",
+    "ID": "a0i6g00000H7TavAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165938",
+    "ID": "a0i6g00000H7TbKAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165939",
+    "ID": "a0i6g00000H7TcSAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165940",
+    "ID": "a0i6g00000H7TcXAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165941",
+    "ID": "a0i6g00000H7Tm0AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165942",
+    "ID": "a0i6g00000H7TmeAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165943",
+    "ID": "a0i6g00000H7TrRAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165944",
+    "ID": "a0i6g00000H7Tr3AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165945",
+    "ID": "a0i6g0000089QRcAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165946",
+    "ID": "a0i6g0000089QYIAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165947",
+    "ID": "a0i6g0000089QYJAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165948",
+    "ID": "a0i6g0000089QYPAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165949",
+    "ID": "a0i6g0000089QYfAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165950",
+    "ID": "a0i6g00000H7TunAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165951",
+    "ID": "a0i6g00000H7THjAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165952",
+    "ID": "a0i6g00000H7TIwAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165953",
+    "ID": "a0i6g00000H7TJ6AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165954",
+    "ID": "a0i6g00000H7TJBAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165955",
+    "ID": "a0i6g00000H7TJGAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165956",
+    "ID": "a0i6g00000BvweyAAB",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165957",
+    "ID": "a0i6g00000H7USCAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165958",
+    "ID": "a0i6g00000H7USMAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165959",
+    "ID": "a0i6g00000H7SxFAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165960",
+    "ID": "a0i6g00000H6lmeAAB",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165961",
+    "ID": "a0i6g00000H77JAAAZ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165962",
+    "ID": "a0i6g00000H7Ne9AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165963",
+    "ID": "a0i6g000006GvApAAK",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165964",
+    "ID": "a0i6g00000H7UbiAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165965",
+    "ID": "a0i6g00000H7F1WAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165966",
+    "ID": "a0i6g00000AkF2UAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165967",
+    "ID": "a0i6g00000BDzOvAAL",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165968",
+    "ID": "a0i6g0000089QQeAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165969",
+    "ID": "a0i6g0000089QQnAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165970",
+    "ID": "a0i6g0000089QRGAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165971",
+    "ID": "a0i6g00000AurORAAZ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165972",
+    "ID": "a0i6g00000H7SQkAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165973",
+    "ID": "a0i6g00000H7SV9AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165974",
+    "ID": "a0i6g00000H7SVDAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165975",
+    "ID": "a0i6g00000H7SVcAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165976",
+    "ID": "a0i6g00000H7SVdAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165977",
+    "ID": "a0i6g00000H7SVeAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165978",
+    "ID": "a0i6g0000089QHgAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165979",
+    "ID": "a0i6g0000089QI7AAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165980",
+    "ID": "a0i6g0000089QcXAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165981",
+    "ID": "a0i6g0000089Qd3AAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165982",
+    "ID": "a0i6g0000089QRWAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165983",
+    "ID": "a0i6g00000H7HekAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165984",
+    "ID": "a0i6g00000H7HhtAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165985",
+    "ID": "a0i6g000005mtUfAAI",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165986",
+    "ID": "a0i6g000006N352AAC",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165987",
+    "ID": "a0i6g00000H7Lb2AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165988",
+    "ID": "a0i6g00000H6ktwAAB",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165989",
+    "ID": "a0i6g00000H7V9VAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165990",
+    "ID": "a0i6g00000H7VATAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165991",
+    "ID": "a0i6g00000H7VAnAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165992",
+    "ID": "a0i6g00000H7VB2AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165993",
+    "ID": "a0i6g00000H7VBHAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165994",
+    "ID": "a0i6g00000H7VBbAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165995",
+    "ID": "a0i6g00000H7NyEAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165996",
+    "ID": "a0i6g00000BE1VrAAL",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165997",
+    "ID": "a0i6g00000BS0sCAAT",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165998",
+    "ID": "a0i6g00000EhSOxAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3165999",
+    "ID": "a0i6g00000H7TqLAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166000",
+    "ID": "a0i6g00000H7TptAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166001",
+    "ID": "a0i6g00000H7TvnAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166002",
+    "ID": "a0i6g00000H7Tw9AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166003",
+    "ID": "a0i6g00000H7TwAAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166004",
+    "ID": "a0i6g00000H7TwBAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166005",
+    "ID": "a0i6g00000H7TwDAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166006",
+    "ID": "a0i6g00000H7TwEAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166007",
+    "ID": "a0i6g000008q4pvAAA",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166008",
+    "ID": "a0i6g00000H7UB7AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166009",
+    "ID": "a0i6g00000H7UAGAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166010",
+    "ID": "a0i6g00000H7UAJAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166011",
+    "ID": "a0i6g00000H7UAKAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166012",
+    "ID": "a0i6g00000H7UALAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166013",
+    "ID": "a0i6g00000H7UAMAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166014",
+    "ID": "a0i6g00000H7UANAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166015",
+    "ID": "a0i6g00000H7UAOAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166016",
+    "ID": "a0i6g00000H7UAPAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166017",
+    "ID": "a0i6g000009iptUAAQ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166018",
+    "ID": "a0i6g000006GuEZAA0",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166019",
+    "ID": "a0i6g000009kiMvAAI",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166020",
+    "ID": "a0i6g000006OcxTAAS",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166021",
+    "ID": "a0i6g0000089QPSAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166022",
+    "ID": "a0i6g0000089QPaAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166023",
+    "ID": "a0i6g0000089QPsAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166024",
+    "ID": "a0i6g0000089QQHAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166025",
+    "ID": "a0i6g0000089QQbAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166026",
+    "ID": "a0i6g0000089QQcAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166027",
+    "ID": "a0i6g0000089QQjAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166028",
+    "ID": "a0i6g0000089QQsAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166029",
+    "ID": "a0i6g0000089QQvAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166030",
+    "ID": "a0i6g00000AB2cEAAT",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166031",
+    "ID": "a0i6g00000AE6O6AAL",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166032",
+    "ID": "a0i6g00000AE6X2AAL",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166033",
+    "ID": "a0i6g00000AEWhQAAX",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166034",
+    "ID": "a0i6g00000AF0CXAA1",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166035",
+    "ID": "a0i6g00000AF9HPAA1",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166036",
+    "ID": "a0i6g0000089QRIAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166037",
+    "ID": "a0i6g0000089QRJAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166038",
+    "ID": "a0i6g0000089QYlAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166039",
+    "ID": "a0i6g0000089QZJAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166040",
+    "ID": "a0i6g0000089Qa9AAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166041",
+    "ID": "a0i6g00000AFK7yAAH",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166042",
+    "ID": "a0i6g0000089QHlAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166043",
+    "ID": "a0i6g0000089QHtAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166044",
+    "ID": "a0i6g0000089QHwAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166045",
+    "ID": "a0i6g0000089QbmAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166046",
+    "ID": "a0i6g0000089QbpAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166047",
+    "ID": "a0i6g0000089QbxAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166048",
+    "ID": "a0i6g0000089QbzAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166049",
+    "ID": "a0i6g0000089Qc6AAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166050",
+    "ID": "a0i6g0000089Qc8AAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166051",
+    "ID": "a0i6g0000089QcGAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166052",
+    "ID": "a0i6g0000089QcRAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166053",
+    "ID": "a0i6g0000089QcSAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166054",
+    "ID": "a0i6g0000089QcTAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166055",
+    "ID": "a0i6g0000089QcbAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166056",
+    "ID": "a0i6g0000089zOKAAY",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166057",
+    "ID": "a0i6g0000089zOUAAY",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166058",
+    "ID": "a0i6g0000089zOXAAY",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166059",
+    "ID": "a0i6g000008BqW2AAK",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166060",
+    "ID": "a0i6g00000AENlEAAX",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166061",
+    "ID": "a0i6g000006LErAAAW",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166062",
+    "ID": "a0i6g00000AHNSlAAP",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166063",
+    "ID": "a0i6g00000BRYhWAAX",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166064",
+    "ID": "a0i6g00000Atrz6AAB",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166065",
+    "ID": "a0i6g00000H7J5XAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166066",
+    "ID": "a0i6g00000BShSmAAL",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166067",
+    "ID": "a0i6g00000H7TL2AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166068",
+    "ID": "a0i6g00000H7TKxAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166069",
+    "ID": "a0i6g00000H7TMPAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166070",
+    "ID": "a0i6g00000H7TN3AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166071",
+    "ID": "a0i6g00000H7TNIAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166072",
+    "ID": "a0i6g00000H7TNmAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166073",
+    "ID": "a0i6g00000H7TNwAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166074",
+    "ID": "a0i6g0000089QQQAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166075",
+    "ID": "a0i6g000009zKTOAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166076",
+    "ID": "a0i6g00000H7Q48AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166077",
+    "ID": "a0i6g00000AHbRaAAL",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166078",
+    "ID": "a0i6g00000A5XQqAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166079",
+    "ID": "a0i6g00000AMFYIAA5",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166080",
+    "ID": "a0i6g000005fmuzAAA",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166081",
+    "ID": "a0i6g0000089QaiAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166082",
+    "ID": "a0i6g00000AMCwLAAX",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166083",
+    "ID": "a0i6g000009SGPvAAO",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166084",
+    "ID": "a0i6g00000AmX1XAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166085",
+    "ID": "a0i6g00000BxpM3AAJ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166086",
+    "ID": "a0i6g00000H7NjEAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166087",
+    "ID": "a0i6g00000H7PcRAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166088",
+    "ID": "a0i6g00000H7SMfAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166089",
+    "ID": "a0i6g00000H7SMYAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166090",
+    "ID": "a0i6g00000BTyQuAAL",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166091",
+    "ID": "a0i6g00000BwJ4aAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166092",
+    "ID": "a0i6g000006QT3oAAG",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166093",
+    "ID": "a0i6g00000AmGeXAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166094",
+    "ID": "a0i6g00000H7GT2AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166095",
+    "ID": "a0i6g00000H7010AAB",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166096",
+    "ID": "a0i6g00000EiSc3AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166097",
+    "ID": "a0i6g00000H7TnHAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166098",
+    "ID": "a0i6g00000H7TnKAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166099",
+    "ID": "a0i6g00000H7TnUAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166100",
+    "ID": "a0i6g00000BUeBpAAL",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166101",
+    "ID": "a0i6g00000H7U6KAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166102",
+    "ID": "a0i6g00000H7U7IAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166103",
+    "ID": "a0i6g00000H7U7JAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166104",
+    "ID": "a0i6g00000H7U7LAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166105",
+    "ID": "a0i6g00000H7U7MAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166106",
+    "ID": "a0i6g00000H7U7NAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166107",
+    "ID": "a0i6g00000H7U7OAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166108",
+    "ID": "a0i6g00000H7U7RAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166109",
+    "ID": "a0i6g00000H7U7UAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166110",
+    "ID": "a0i6g0000089QctAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166111",
+    "ID": "a0i6g00000H7UsZAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166112",
+    "ID": "a0i6g00000H7UrqAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166113",
+    "ID": "a0i6g00000H7Us5AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166114",
+    "ID": "a0i6g00000H7T5sAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166115",
+    "ID": "a0i6g00000ANz7LAAT",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166116",
+    "ID": "a0i6g00000BTYCPAA5",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166117",
+    "ID": "a0i6g00000AtnnWAAR",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166118",
+    "ID": "a0i6g000009S034AAC",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166119",
+    "ID": "a0i6g00000Ap9PyAAJ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166120",
+    "ID": "a0i6g000008egM6AAI",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166121",
+    "ID": "a0i6g00000BTuJvAAL",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166122",
+    "ID": "a0i6g00000EhqBNAAZ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166123",
+    "ID": "a0i6g00000H7UCkAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166124",
+    "ID": "a0i6g00000H7UClAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166125",
+    "ID": "a0i6g00000H7UCmAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166126",
+    "ID": "a0i6g00000H7UCnAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166127",
+    "ID": "a0i6g00000H7UCoAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166128",
+    "ID": "a0i6g00000H7UCpAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166129",
+    "ID": "a0i6g00000H7UCqAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166130",
+    "ID": "a0i6g00000H7UCrAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166131",
+    "ID": "a0i6g00000H7UCsAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166132",
+    "ID": "a0i6g00000H7UCtAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166133",
+    "ID": "a0i6g00000H7UCQAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166134",
+    "ID": "a0i6g000005nJWwAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166135",
+    "ID": "a0i6g000008etGjAAI",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166136",
+    "ID": "a0i6g000009RxzaAAC",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166137",
+    "ID": "a0i6g00000H7SaSAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166138",
+    "ID": "a0i6g00000H7SaVAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166139",
+    "ID": "a0i6g00000H7UewAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166140",
+    "ID": "a0i6g00000H7UehAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166141",
+    "ID": "a0i6g00000H7UfuAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166142",
+    "ID": "a0i6g00000H7Ug9AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166143",
+    "ID": "a0i6g00000H7UgJAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166144",
+    "ID": "a0i6g00000H7Uh2AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166145",
+    "ID": "a0i6g00000H7UhvAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166146",
+    "ID": "a0i6g00000H7O8TAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166147",
+    "ID": "a0i6g00000H7UkzAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166148",
+    "ID": "a0i6g00000H7Ul9AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166149",
+    "ID": "a0i6g00000H7UlTAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166150",
+    "ID": "a0i6g00000H7UldAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166151",
+    "ID": "a0i6g00000H7UmCAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166152",
+    "ID": "a0i6g00000H7TELAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166153",
+    "ID": "a0i6g00000H7TFTAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166154",
+    "ID": "a0i6g00000H6kgQAAR",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166155",
+    "ID": "a0i6g00000H76UqAAJ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166156",
+    "ID": "a0i6g00000H7U4cAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166157",
+    "ID": "a0i6g00000H7U4ZAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166158",
+    "ID": "a0i6g00000H7U5HAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166159",
+    "ID": "a0i6g00000H7U5aAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166160",
+    "ID": "a0i6g00000H7U5dAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166161",
+    "ID": "a0i6g00000H7U5eAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166162",
+    "ID": "a0i6g00000H7U5gAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166163",
+    "ID": "a0i6g00000H7U5hAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166164",
+    "ID": "a0i6g00000H7ToWAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166165",
+    "ID": "a0i6g00000H7UICAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166166",
+    "ID": "a0i6g00000H7UK8AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166167",
+    "ID": "a0i6g00000H7UKhAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166168",
+    "ID": "a0i6g00000H7UL6AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166169",
+    "ID": "a0i6g00000H7ULzAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166170",
+    "ID": "a0i6g00000H7U2CAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166171",
+    "ID": "a0i6g00000H7UCXAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166172",
+    "ID": "a0i6g00000H7UCvAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166173",
+    "ID": "a0i6g00000H7UCwAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166174",
+    "ID": "a0i6g00000H7UCxAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166175",
+    "ID": "a0i6g00000H7UHEAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166176",
+    "ID": "a0i6g00000H7UHJAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166177",
+    "ID": "a0i6g00000H7LFzAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166178",
+    "ID": "a0i6g00000H7I2rAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166179",
+    "ID": "a0i6g00000H7I3GAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166180",
+    "ID": "a0i6g00000H7REXAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166181",
+    "ID": "a0i6g00000H7SXhAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166182",
+    "ID": "a0i6g00000H7SXiAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166183",
+    "ID": "a0i6g00000H7SkcAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166184",
+    "ID": "a0i6g00000H7SkdAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166185",
+    "ID": "a0i6g00000H7SkeAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166186",
+    "ID": "a0i6g00000H7SkfAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166187",
+    "ID": "a0i6g00000H7SkgAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166188",
+    "ID": "a0i6g00000H7SkhAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166189",
+    "ID": "a0i6g00000H7SkiAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166190",
+    "ID": "a0i6g00000H7SkbAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166191",
+    "ID": "a0i6g00000H7EwWAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166192",
+    "ID": "a0i6g00000EkHPFAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166193",
+    "ID": "a0i6g00000HwBWuAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166194",
+    "ID": "a0i6g00000H7SeBAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166195",
+    "ID": "a0i6g00000H7SXjAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166196",
+    "ID": "a0i6g00000H7SXkAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166197",
+    "ID": "a0i6g00000H7SXlAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166198",
+    "ID": "a0i6g00000H7SXmAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166199",
+    "ID": "a0i6g00000H7SXnAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166200",
+    "ID": "a0i6g00000H7SXoAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166201",
+    "ID": "a0i6g00000H7SXqAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166202",
+    "ID": "a0i6g00000H7SXsAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166203",
+    "ID": "a0i6g00000H7SXYAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166204",
+    "ID": "a0i6g00000H7SXuAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166205",
+    "ID": "a0i6g00000H7SkYAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166206",
+    "ID": "a0i6g00000H7SmoAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166207",
+    "ID": "a0i6g00000H7SmrAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166208",
+    "ID": "a0i6g00000H7SpGAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166209",
+    "ID": "a0i6g00000H7TFxAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166210",
+    "ID": "a0i6g00000H7TGqAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166211",
+    "ID": "a0i6g000008Bnm8AAC",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166212",
+    "ID": "a0i6g0000089QFHAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166213",
+    "ID": "a0i6g0000089QFrAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166214",
+    "ID": "a0i6g00000H7TdzAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166215",
+    "ID": "a0i6g00000H7UOoAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166216",
+    "ID": "a0i6g00000H7UP3AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166217",
+    "ID": "a0i6g00000H7UPcAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166218",
+    "ID": "a0i6g00000H7UPwAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166219",
+    "ID": "a0i6g00000H7UROAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166220",
+    "ID": "a0i6g00000H7U1VAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166221",
+    "ID": "a0i6g00000H7U1aAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166222",
+    "ID": "a0i6g00000H7U1bAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166223",
+    "ID": "a0i6g00000H7U3TAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166224",
+    "ID": "a0i6g00000H7UEQAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166225",
+    "ID": "a0i6g00000H7UEZAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166226",
+    "ID": "a0i6g00000H7TQ7AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166227",
+    "ID": "a0i6g00000H7UE9AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166228",
+    "ID": "a0i6g00000H7UEjAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166229",
+    "ID": "a0i6g00000H7UEkAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166230",
+    "ID": "a0i6g00000H7UEmAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166231",
+    "ID": "a0i6g00000H7UEeAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166232",
+    "ID": "a0i6g00000H7UEfAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166233",
+    "ID": "a0i6g00000H7UEhAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166234",
+    "ID": "a0i6g00000H7UEiAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166235",
+    "ID": "a0i6g00000H7UEbAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166236",
+    "ID": "a0i6g00000H7UEcAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166237",
+    "ID": "a0i6g00000H7TprAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166238",
+    "ID": "a0i6g00000H76y7AAB",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166239",
+    "ID": "a0i6g0000089QFbAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166240",
+    "ID": "a0i6g0000089QFlAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166241",
+    "ID": "a0i6g0000089QFnAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166242",
+    "ID": "a0i6g0000089QFvAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166243",
+    "ID": "a0i6g0000089QG3AAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166244",
+    "ID": "a0i6g0000089QGJAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166245",
+    "ID": "a0i6g0000089QGPAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166246",
+    "ID": "a0i6g0000089QaDAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166247",
+    "ID": "a0i6g0000089QaEAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166248",
+    "ID": "a0i6g0000089QaGAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166249",
+    "ID": "a0i6g0000089QaHAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166250",
+    "ID": "a0i6g0000089QaXAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166251",
+    "ID": "a0i6g0000089QaeAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166252",
+    "ID": "a0i6g0000089QagAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166253",
+    "ID": "a0i6g0000089zONAAY",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166254",
+    "ID": "a0i6g0000089zOOAAY",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166255",
+    "ID": "a0i6g0000089zOPAAY",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166256",
+    "ID": "a0i6g0000089zOQAAY",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166257",
+    "ID": "a0i6g000008BpEQAA0",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166258",
+    "ID": "a0i6g0000089QF9AAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166259",
+    "ID": "a0i6g0000089QFMAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166260",
+    "ID": "a0i6g0000089QZ5AAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166261",
+    "ID": "a0i6g0000089QZVAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166262",
+    "ID": "a0i6g0000089QZYAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166263",
+    "ID": "a0i6g0000089QZZAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166264",
+    "ID": "a0i6g0000089QZbAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166265",
+    "ID": "a0i6g0000089QZmAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166266",
+    "ID": "a0i6g0000089QZwAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166267",
+    "ID": "a0i6g000006INJAAA4",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166268",
+    "ID": "a0i6g00000BUgS1AAL",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166269",
+    "ID": "a0i6g000009kkeKAAQ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166270",
+    "ID": "a0i6g00000H7Nr3AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166271",
+    "ID": "a0i6g00000H7ThNAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166272",
+    "ID": "a0i6g00000H7Ti1AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166273",
+    "ID": "a0i6g00000H7Tl6AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166274",
+    "ID": "a0i6g00000H7QyoAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166275",
+    "ID": "a0i6g000008ei7gAAA",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166276",
+    "ID": "a0i6g00000BRjIwAAL",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166277",
+    "ID": "a0i6g00000H7UMsAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166278",
+    "ID": "a0i6g00000H7UNRAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166279",
+    "ID": "a0i6g00000H7UO5AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166280",
+    "ID": "a0i6g00000H7UOeAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166281",
+    "ID": "a0i6g00000H7UOjAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166282",
+    "ID": "a0i6g00000H7UNvAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166283",
+    "ID": "a0i6g00000H7UOUAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166284",
+    "ID": "a0i6g000009hBoKAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166285",
+    "ID": "a0i6g000005enZ1AAI",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166286",
+    "ID": "a0i6g00000AEk6iAAD",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166287",
+    "ID": "a0i6g00000AFTrEAAX",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166288",
+    "ID": "a0i6g00000AZzjlAAD",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166289",
+    "ID": "a0i6g0000089QGLAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166290",
+    "ID": "a0i6g0000089QGeAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166291",
+    "ID": "a0i6g0000089QGfAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166292",
+    "ID": "a0i6g0000089QHBAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166293",
+    "ID": "a0i6g0000089QHDAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166294",
+    "ID": "a0i6g0000089QHKAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166295",
+    "ID": "a0i6g0000089QaZAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166296",
+    "ID": "a0i6g00000AEpfMAAT",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166297",
+    "ID": "a0i6g000008BpLBAA0",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166298",
+    "ID": "a0i6g000006Hl0SAAS",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166299",
+    "ID": "a0i6g000008eGJeAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166300",
+    "ID": "a0i6g00000AY5frAAD",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166301",
+    "ID": "a0i6g00000H7SVaAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166302",
+    "ID": "a0i6g00000H7SVbAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166303",
+    "ID": "a0i6g00000H7SVZAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166304",
+    "ID": "a0i6g00000H7STHAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166305",
+    "ID": "a0i6g00000H7STIAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166306",
+    "ID": "a0i6g00000H7STLAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166307",
+    "ID": "a0i6g00000H7STNAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166308",
+    "ID": "a0i6g00000H7STPAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166309",
+    "ID": "a0i6g00000H7UY0AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166310",
+    "ID": "a0i6g00000H7UYZAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166311",
+    "ID": "a0i6g00000H7UYjAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166312",
+    "ID": "a0i6g00000H7UYyAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166313",
+    "ID": "a0i6g00000H7Ua1AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166314",
+    "ID": "a0i6g00000H7UaBAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166315",
+    "ID": "a0i6g000009n7NVAAY",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166316",
+    "ID": "a0i6g000006HEtiAAG",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166317",
+    "ID": "a0i6g00000H7SstAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166318",
+    "ID": "a0i6g00000H7St3AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166319",
+    "ID": "a0i6g00000H7SvOAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166320",
+    "ID": "a0i6g00000ByfO8AAJ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166321",
+    "ID": "a0i6g00000EheFeAAJ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166322",
+    "ID": "a0i6g00000H7V1WAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166323",
+    "ID": "a0i6g000008r9t7AAA",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166324",
+    "ID": "a0i6g00000H7V4GAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166325",
+    "ID": "a0i6g00000H6x4AAAR",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166326",
+    "ID": "a0i6g00000H7UpuAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166327",
+    "ID": "a0i6g00000H7UqiAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166328",
+    "ID": "a0i6g00000BwA6DAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166329",
+    "ID": "a0i6g00000BwBMwAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166330",
+    "ID": "a0i6g00000AVcODAA1",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166331",
+    "ID": "a0i6g00000HvyccAAB",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166332",
+    "ID": "a0i6g000006KnFcAAK",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166333",
+    "ID": "a0i6g00000BDyqhAAD",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166334",
+    "ID": "a0i6g0000089QH3AAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166335",
+    "ID": "a0i6g00000BwkohAAB",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166336",
+    "ID": "a0i6g00000BAhBeAAL",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166337",
+    "ID": "a0i6g00000H7Tl7AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166338",
+    "ID": "a0i6g000009jFP1AAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166339",
+    "ID": "a0i6g00000H7UEgAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166340",
+    "ID": "a0i6g00000H7UEaAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166341",
+    "ID": "a0i6g00000H7O0fAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166342",
+    "ID": "a0i6g00000H7U5iAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166343",
+    "ID": "a0i6g00000H7TRoAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166344",
+    "ID": "a0i6g00000H7TRtAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166345",
+    "ID": "a0i6g00000H7U7SAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166346",
+    "ID": "a0i6g0000089zOIAAY",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166347",
+    "ID": "a0i6g0000089QcIAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166348",
+    "ID": "a0i6g000005g6ksAAA",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166349",
+    "ID": "a0i6g0000089QQZAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166350",
+    "ID": "a0i6g000006cXxhAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166351",
+    "ID": "a0i6g00000H7UAQAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166352",
+    "ID": "a0i6g00000H7TwCAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166353",
+    "ID": "a0i6g0000089QI9AAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166354",
+    "ID": "a0i6g0000089Qd2AAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166355",
+    "ID": "a0i6g00000H7708AAB",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166356",
+    "ID": "a0i6g00000H7U5lAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166357",
+    "ID": "a0i6g00000H7T2PAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166358",
+    "ID": "a0i6g00000H7UWnAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166359",
+    "ID": "a0i6g00000H7UitAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166360",
+    "ID": "a0i6g00000H7UkfAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166361",
+    "ID": "a0i6g00000H6x32AAB",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166362",
+    "ID": "a0i6g0000089QbrAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166363",
+    "ID": "a0i6g0000089Qc1AAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166364",
+    "ID": "a0i6g00000H7VDDAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166365",
+    "ID": "a0i6g00000H7TscAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166366",
+    "ID": "a0i6g00000BRXioAAH",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166367",
+    "ID": "a0i6g0000089Qa4AAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166368",
+    "ID": "a0i6g0000089QFUAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166369",
+    "ID": "a0i6g00000H7UElAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166370",
+    "ID": "a0i6g00000H7SXpAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166371",
+    "ID": "a0i6g00000H7SXtAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166372",
+    "ID": "a0i6g0000089Qc0AAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166373",
+    "ID": "a0i6g0000089zOLAAY",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166374",
+    "ID": "a0i6g00000H7UB8AAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166375",
+    "ID": "a0i6g00000H7Tq1AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166376",
+    "ID": "a0i6g000006QftOAAS",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166377",
+    "ID": "a0i6g000008rFEAAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166378",
+    "ID": "a0i6g00000H7TmyAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166379",
+    "ID": "a0i6g00000H7Tc8AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166380",
+    "ID": "a0i6g00000BRBgaAAH",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166381",
+    "ID": "a0i6g00000H7SREAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166382",
+    "ID": "a0i6g00000H7Un5AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166383",
+    "ID": "a0i6g0000089QbFAAU",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166384",
+    "ID": "a0i6g00000H7STGAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166385",
+    "ID": "a0i6g00000H7STKAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166386",
+    "ID": "a0i6g0000089QHbAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166387",
+    "ID": "a0i6g0000089QFYAA2",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166388",
+    "ID": "a0i6g00000H7SXrAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166389",
+    "ID": "a0i6g00000H7TqRAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166390",
+    "ID": "a0i6g00000H7UCuAAN",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166391",
+    "ID": "a0i6g00000H7T3wAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166392",
+    "ID": "a0i6g00000H7U7QAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166393",
+    "ID": "a0i6g00000H7U7TAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166394",
+    "ID": "a0i6g000006Ec9lAAC",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166395",
+    "ID": "a0i6g00000A6fK6AAJ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166396",
+    "ID": "a0i6g00000H7TMZAA3",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166397",
+    "ID": "a0i6g0000089QcfAAE",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166398",
+    "ID": "a0i6g0000089QR3AAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166399",
+    "ID": "a0i6g000009zjp8AAA",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166400",
+    "ID": "a0i6g000009zMGrAAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166401",
+    "ID": "a0i6g000009014IAAQ",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166402",
+    "ID": "a0i6g0000089QG7AAM",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166403",
+    "ID": "a0i6g00000H7PcgAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166404",
+    "ID": "a0i6g00000H6U4IAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166405",
+    "ID": "a0i6g00000H7UwqAAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166406",
+    "ID": "a0i6g00000H7UbOAAV",
+    "HC_Classificacao__c": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "3166407",
+    "ID": "a0i6g00000H7Ur7AAF",
+    "HC_Classificacao__c": "Cliente Potencial"
+  }
+]

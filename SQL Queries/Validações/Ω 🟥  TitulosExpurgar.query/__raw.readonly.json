@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2e5b4511-76d4-4ed5-af49-218342a8e214",
+  "name": "TitulosExpurgar",
+  "key": "a5fd2ae5-5a60-4d53-8107-b04f3c1958de",
+  "description": "",
+  "queryText": "select distinct d.id\nfrom HC_Titulo__c_SALESFORCE d\nwhere d.HC_Origem__c = 'CAP' and\n      not exists (select 1 from TitulosCAP_1 t\n                        where rtrim(ltrim(t.id_titulo))  = d.HC_Numero_do_Titulo__c\n                        and rtrim(ltrim(t.id_plano)) = rtrim(ltrim(d.HC_Plano__c))\n                        and rtrim(ltrim(t.id_serie)) = rtrim(ltrim(d.HC_Serie__c)))",
+  "targetName": "TitulosExpurgar",
+  "targetKey": "A4D696A5-87D6-433C-8009-60D4B182BFE1",
+  "targetId": "86c5ad54-349b-ec11-a313-48df370ed7f5",
+  "targetDescription": "Divergencia de titulos que estão no legado mas não estão no Salesforce",
+  "createdDate": "2022-03-03T14:33:29.63",
+  "modifiedDate": "2023-06-23T07:52:00.14",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "f7569dfd-b7ea-40cc-8540-c41714f4a5be",
+  "name": "GravaInfoCampMemb",
+  "key": "d8ffa20f-2866-4dd4-8047-122de4de0e60",
+  "description": "",
+  "queryText": "SELECT\n      B.CPF AS HC_CPF_CNPJ__C, \n      '7016g000000NiyOAAS' AS CampaignId, \n      C.ID AS contactid, \n      CP.ID AS HC_Cliente_x_Parceiro__c\nFROM\n    Tb_Base_Prospect_OTC291_Online_Filtrada_TMKT A\nINNER JOIN Tb_Base_Prospect_Online_Filtrada_TMKT B ON A.CPF = B.CPF\nINNER JOIN CONTACT_SALESFORCE C ON C.HC_CPF_CNPJ__C = A.CPF\nINNER JOIN HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE CP ON CP.HC_CPF_CNPJ__C = A.CPF and cp.HC_Chave_Parceiro__c = 52\nleft join CampaignMember_SALESFORCE cm on cm.CampaignId  = '7016g000000NiyOAAS' and cm.contactid= c.id\nwhere cm.contactid IS NULL\n\n",
+  "targetName": "Aux_Atualiza_CampMemb",
+  "targetKey": "98D01711-DD98-451A-A143-510DF113B148",
+  "targetId": "c00db33a-746e-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-27T11:00:50.297",
+  "modifiedDate": "2022-11-27T12:34:14.62",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 55868,
+  "isFrozen": false
+}

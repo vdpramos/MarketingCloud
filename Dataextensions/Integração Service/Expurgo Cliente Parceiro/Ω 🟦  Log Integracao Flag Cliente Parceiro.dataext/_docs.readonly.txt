@@ -1,0 +1,8 @@
+Dataextension name: Log Integracao Flag Cliente Parceiro
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| IdClienteParceiro    | Text(50)        | true     | true     |                 |
+| Date                 | Date            | true     | true     |                 |
+| Envio                | Text(2000)      | false    | false    |                 |
+| Resultado            | Text(2000)      | false    | false    |                 |

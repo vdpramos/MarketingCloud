@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "B514D925-B5C2-4351-98A8-316D8E95C6A5"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_Produtos_SemOTC_Algar"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "783a467b-8471-4808-8f3b-f9d9c437bec2",
+  "name": "Qr03_Base_Prospect_Filtrada_Teo",
+  "key": "48100fb8-ffb1-4eca-82cd-58091f9a8959",
+  "description": "",
+  "queryText": "SELECT \n  * \nFROM\n  TB_BASE_PROSPECT_OTC291_TRATADA_TEO\nWHERE\n  CODIGO_RNA = '000' \n  AND ENCARTEIRAMENTO_VALIDO = 1 \n  AND NAO_IMPORTUNE = 0\n  AND QUARENTENA = 0",
+  "targetName": "Tb_Base_Prospect_OTC291_Filtrada_Teo",
+  "targetKey": "F7A14A90-B789-48CC-AE92-799A10714941",
+  "targetId": "779ca37e-8070-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-16T13:28:56.6",
+  "modifiedDate": "2021-06-11T20:15:43.927",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29371,
+  "isFrozen": false
+}

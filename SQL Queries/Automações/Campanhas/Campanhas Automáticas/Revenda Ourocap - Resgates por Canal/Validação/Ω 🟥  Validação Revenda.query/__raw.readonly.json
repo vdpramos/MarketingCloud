@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8a38c470-ed3f-4b30-9621-d65a6c3b1ef6",
+  "name": "Validação Revenda",
+  "key": "50a4c416-24cc-4c91-9a11-46c5c709dddc",
+  "description": "",
+  "queryText": "SELECT *\nFROM\n  TB_BASE_REVENDA_OUROCAP_COMOTC_NEOBPO \nWHERE\n  IDADE_VALIDA = 1 \n  AND CONSELHEIRO = 0 \n  AND CLIENTE_PEP = 0 \n  AND DESEJA_CONTATO_TELEFONICO = 0 \n  AND COMPRA_RECENTE_OUROCAP = 0 \n  AND POSSUI_CONTA_ATIVA = 1\n  AND POSSUI_TELEFONE_ATIVO = 1\n  AND QUARENTENA = 0\n  AND NAO_IMPORTUNE = 0",
+  "targetName": "Tb_Validacao_Revenda_Ourocap_ComOTC_NeoBpo",
+  "targetKey": "49EC8C12-BE0F-4336-AD83-2FB38859BCDD",
+  "targetId": "32cc13d8-519d-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-14T12:50:18.83",
+  "modifiedDate": "2021-04-14T12:50:18.83",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 32715,
+  "isFrozen": false
+}

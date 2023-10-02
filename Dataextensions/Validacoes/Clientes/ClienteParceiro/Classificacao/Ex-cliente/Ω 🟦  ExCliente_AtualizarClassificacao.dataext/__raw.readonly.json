@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "415C02C8-D5FA-42F8-9037-2D61BE1813D0"
+  ],
+  "Name": [
+    "ExCliente_AtualizarClassificacao"
+  ]
+}

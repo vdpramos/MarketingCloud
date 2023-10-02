@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6ffc5ca0-5bb0-43df-a575-25174df01b53",
+  "name": "Flag de horario Aviso de Pagamento",
+  "key": "35ec5ae2-46a1-45a9-816c-c8ea32bd7ef4",
+  "description": "",
+  "queryText": "SELECT HORA \nFROM ( SELECT\nCASE\nWHEN    (DAY(HC_Data_de_Execucao__c) = DAY(getdate()) AND\n        MONTH(HC_Data_de_Execucao__c) = MONTH(getdate()) AND\n        YEAR(HC_Data_de_Execucao__c) = YEAR(getdate()) AND\n        DATEPART(hour,HC_Data_de_Execucao__c) = DATEPART(hour,GETDATE())) THEN 1 END AS HORA\nFROM Campaign_Salesforce\nWHERE id = '7016g000002O08TAAS') A\nWHERE hora = 1",
+  "targetName": "Flag_Horario_Aviso_De_Pagamento",
+  "targetKey": "C47BCC84-F97D-4A5F-8810-3C8F56B39BFE",
+  "targetId": "b5174d81-751a-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2022-08-12T13:33:42.503",
+  "modifiedDate": "2022-08-12T13:33:42.503",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

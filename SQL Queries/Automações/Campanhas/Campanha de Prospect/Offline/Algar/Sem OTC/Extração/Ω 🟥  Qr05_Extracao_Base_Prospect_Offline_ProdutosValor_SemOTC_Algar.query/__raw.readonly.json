@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "5af915f1-a3f4-481f-ad83-8bf5b061039c",
+  "name": "Qr05_Extracao_Base_Prospect_Offline_ProdutosValor_SemOTC_Algar",
+  "key": "cd551a6d-afc7-42ea-b831-f4839986cd95",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n    'TCBB' AS COD_PARCEIRO,\n    A.HC_CODIGO_DO_PRODUTO__C AS CODIGO,\n    A.HC_PRECO__C AS VALOR,\n\tHC_REGRA_DE_COMERCIALIZACAO__C AS COD_TIPO_PLANO\nFROM HC_PRECO_DO_PRODUTO__C_SALESFORCE A\nINNER JOIN TB_BASE_PROSPECT_SEMOTC_FILTRADA_ALGAR B ON A.ID = B.NOME_PRODUTO_VALOR",
+  "targetName": "Tb_Base_Prospect_Offline_ProdutosValor_SemOTC_Algar",
+  "targetKey": "0C9E8E48-4A1A-458F-81A9-00DD5F550322",
+  "targetId": "2c45fef9-7870-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-22T16:09:54.457",
+  "modifiedDate": "2021-03-03T14:47:10.9",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29376,
+  "isFrozen": false
+}

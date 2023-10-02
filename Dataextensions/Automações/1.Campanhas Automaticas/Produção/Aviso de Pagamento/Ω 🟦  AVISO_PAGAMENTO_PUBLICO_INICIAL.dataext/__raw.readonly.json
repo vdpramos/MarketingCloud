@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "433EC58E-02C6-42B0-B735-7B2093BAF571"
+  ],
+  "Name": [
+    "AVISO_PAGAMENTO_PUBLICO_INICIAL"
+  ]
+}

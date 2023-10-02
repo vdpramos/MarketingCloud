@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "199e1fe4-2e7b-4073-9882-b3f8ef39105c",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "NUMERO_DO_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "836db6d2-42c3-44f5-88ab-1308be041378",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "SERIE_DO_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "3417593f-9eb7-4f86-a67e-40b3d729f4d5",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "PLANO_DO_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "527e8873-4b26-4eec-a531-60322709d5af",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Date",
+    "FieldType": "Date",
+    "ObjectID": "17609d40-43b8-40a8-8745-ac8c48ffc441",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GETDATE()",
+    "Ordinal": 4
+  }
+]

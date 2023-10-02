@@ -1,0 +1,6 @@
+Dataextension name: Close_the_loop_controle_ondas
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Onda                 | Text(50)        | true     | true     |                 |
+| Data                 | Date            | true     | false    | GetDate()       |

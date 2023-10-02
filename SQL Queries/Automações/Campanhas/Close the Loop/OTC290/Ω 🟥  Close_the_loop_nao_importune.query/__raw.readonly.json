@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "84671414-5aa7-4678-9cde-39e01110d83b",
+  "name": "Close_the_loop_nao_importune",
+  "key": "728eb632-6a64-4c45-a6c8-d7441dff04a3",
+  "description": "",
+  "queryText": "SELECT\n\ta.CPF_CNPJ,\n\t1 AS Nao_importune\nFROM Close_the_loop_preparacao_OTC_tratada a\n    INNER JOIN Tb_Base_Nao_Importune n ON a.Celular_1 = LTRIM(RTRIM(n.Telefone))\nUNION\nSELECT\n\ta.CPF_CNPJ,\n\t1 AS Nao_importune\nFROM Close_the_loop_preparacao_OTC_tratada a\n    INNER JOIN Tb_Base_Nao_Importune n ON a.Celular_2 = LTRIM(RTRIM(n.Telefone))\nUNION\nSELECT\n\ta.CPF_CNPJ,\n\t1 AS Nao_importune\nFROM Close_the_loop_preparacao_OTC_tratada a\n    INNER JOIN Tb_Base_Nao_Importune n ON a.Celular_3 = LTRIM(RTRIM(n.Telefone))\nUNION\nSELECT\n\ta.CPF_CNPJ,\n\t1 AS Nao_importune\nFROM Close_the_loop_preparacao_OTC_tratada a\n    INNER JOIN Tb_Base_Nao_Importune n ON a.Telefone_Brasilcap = LTRIM(RTRIM(n.Telefone))\nUNION\nSELECT\n\ta.CPF_CNPJ,\n\t1 AS Nao_importune\nFROM Close_the_loop_preparacao_OTC_tratada a\n    INNER JOIN Tb_Base_Nao_Importune n ON a.Telefone_comercial = LTRIM(RTRIM(n.Telefone))",
+  "targetName": "Close_the_loop_preparacao_OTC_tratada",
+  "targetKey": "FCFFBBA0-F8CE-4B5B-9ADD-F136527213A4",
+  "targetId": "1b92735f-c174-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-12-05T11:34:07.617",
+  "modifiedDate": "2023-04-26T10:32:12.263",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 56141,
+  "isFrozen": false
+}

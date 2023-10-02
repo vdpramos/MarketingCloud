@@ -1,0 +1,6 @@
+Dataextension name: Tb_Campanha_Criada_Service
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Id_Campanha          | Text(50)        | false    | false    |                 |
+| Data_Criacao         | Date            | false    | false    | GetDate()       |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "5077b6d7-15eb-463b-94a6-64ebad7724b5",
+  "name": "AeM_Qr_Select_500",
+  "key": "459700d5-d2ec-45b5-99a6-85925e98f1ef",
+  "description": "Flaga 300 contatos e envia para a DE de Historico do Whatsapp",
+  "queryText": "SELECT\n  Id_Cliente_Parceiro,\n  TITULOS_ANTERIORES_INATIVOS,\n  TITULOS_ANTERIORES_ATIVOS,\n  Id_Contato,\n  EMAIL,\n  NAO_DESEJA_RECEBER_SMS,\n  CPF_CNPJ,\n  EMAIL_VALIDO,\n  Nome,\n  NAO_DESEJA_RECEBER_EMAIL,\n  CELULAR,\n  Id_Campanha,\n  CreatedDate,\n  CELULAR_VALIDO,\n  Flag_WhatsApp\n  from (\n  SELECT row_number() OVER (PARTITION BY 1 ORDER BY CreatedDate DESC) AS RANK,\n  Id_Cliente_Parceiro,\n  TITULOS_ANTERIORES_INATIVOS,\n  TITULOS_ANTERIORES_ATIVOS,\n  Id_Contato,\n  EMAIL,\n  NAO_DESEJA_RECEBER_SMS,\n  CPF_CNPJ,\n  EMAIL_VALIDO,\n  Nome,\n  NAO_DESEJA_RECEBER_EMAIL,\n  CELULAR,\n  Id_Campanha,\n  CreatedDate,\n  CELULAR_VALIDO,\n  REPLACE(Flag_WhatsApp, 0, 1) AS Flag_WhatsApp\nFROM\n  AeM_Boas_Vindas_Disparo\nWHERE CELULAR_VALIDO = 1) A\nWHERE RANK <= (500 - (SELECT COUNT(1) FROM AeM_Boas_Vindas_Whatsapp_Historico WHERE CONVERT(date, CreatedDate) = CONVERT(date, GETDATE())))",
+  "targetName": "AeM_Boas_Vindas_Disparo",
+  "targetKey": "6835A876-120E-463B-874F-67592591B5B6",
+  "targetId": "703abb9f-d34f-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "DE para disparo com WhatsApp AlvarezeMarsal",
+  "createdDate": "2022-10-31T15:13:53.217",
+  "modifiedDate": "2023-04-11T11:49:35.73",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 1930,
+  "isFrozen": false
+}

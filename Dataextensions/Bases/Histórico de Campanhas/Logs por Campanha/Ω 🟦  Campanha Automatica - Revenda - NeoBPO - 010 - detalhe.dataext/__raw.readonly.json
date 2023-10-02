@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "36651CAB-6569-4A24-BBE0-99C3F54808F3"
+  ],
+  "Name": [
+    "Campanha Automatica - Revenda - NeoBPO - 010 - detalhe"
+  ]
+}

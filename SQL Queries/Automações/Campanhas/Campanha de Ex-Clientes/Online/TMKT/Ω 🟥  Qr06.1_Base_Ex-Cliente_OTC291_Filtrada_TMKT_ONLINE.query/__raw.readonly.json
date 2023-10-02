@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3ca12c59-1413-4268-8e32-53c367a7e8ff",
+  "name": "Qr06.1_Base_Ex-Cliente_OTC291_Filtrada_TMKT_ONLINE",
+  "key": "4f053c20-32bf-47d3-84fb-487c46ee1d22",
+  "description": "Filtra o publico com restricao para entrada na Jornada",
+  "queryText": "SELECT\n  A.*\nFROM Tb_Base_Ex_Cliente_OTC291_Tratada_TMKT_ONLINE A\n/* CHECAGEM SE TOODS OS CONTATOS TIVERAM O OTC TRATADO */\nLEFT OUTER JOIN ( \n  SELECT\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\n  FROM Tb_Base_Ex_Cliente_ComOTC_Filtrada_TMKT_ONLINE ENV\n  LEFT JOIN TB_BASE_Ex_CLIENTE_OTC291_TRATADA_TMKT_ONLINE RET ON ENV.CPF_CNPJ = RET.CPF\n  WHERE RET.CPF IS NULL\n) B ON 1 = 1\nWHERE B.CPFS_FALTANDO_NO_OTC < 1\n/* SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 */\n  /* VALIDAÇÕES POR CONTATO DO OTC */\n  AND A.CODIGO_RNA = '000'\n  AND A.ALTA_RENDA = 0",
+  "targetName": "Tb_Base_Ex_Cliente_OTC291_Filtrada_TMKT_ONLINE",
+  "targetKey": "99639299-7EE7-4CD2-8141-8143EA0049F4",
+  "targetId": "fa70e0a3-da56-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Base com os contatos que serao enviados ao discador",
+  "createdDate": "2022-10-28T14:23:59.397",
+  "modifiedDate": "2022-11-01T16:56:28.65",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 54859,
+  "isFrozen": false
+}

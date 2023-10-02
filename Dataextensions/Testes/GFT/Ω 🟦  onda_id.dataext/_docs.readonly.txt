@@ -1,0 +1,7 @@
+Dataextension name: onda_id
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Campanha             | Text(50)        | true     | true     |                 |
+| Onda                 | Text(50)        | false    | false    |                 |
+| Data                 | Text(50)        | false    | false    |                 |

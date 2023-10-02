@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a3739de8-9258-49d6-9eb0-07d9c8f37bab",
+  "name": "Qr06_Base_Ex-Cliente_ComOTC_Preparo_TMKT",
+  "key": "62bc588e-ee9b-4e51-83ac-b21e29ddfaa7",
+  "description": "",
+  "queryText": "SELECT\n  '001'+\n  REPLICATE (' ' , 9)+\n  REPLICATE ('0' , 9)+\n  '1'+\n  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, CPF_CNPJ), 15)+\n  CONVERT(VARCHAR(10), CONVERT(DATE, DT_NASCIMENTO, 103), 112)+\n  LEFT(CONVERT(VARCHAR(60), NOME) + REPLICATE(' ', 60), 60)+\n  REPLICATE (' ' , 1)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 5)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 73)+\n  REPLICATE (' ' , 70) AS BASE\nFROM\n  Tb_Base_Ex_Cliente_ComOTC_Filtrada_TMKT",
+  "targetName": "Tb_Base_Ex_Cliente_OTC290_TMKT",
+  "targetKey": "84C2D182-98B6-4EDA-8F08-53D352143D93",
+  "targetId": "9c08b567-30a4-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-23T06:59:36.607",
+  "modifiedDate": "2023-08-10T11:55:21.82",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 33121,
+  "isFrozen": false
+}

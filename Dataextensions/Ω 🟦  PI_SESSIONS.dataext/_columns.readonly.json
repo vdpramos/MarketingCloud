@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "session_id",
+    "FieldType": "Text",
+    "ObjectID": "2592d1ab-b55d-4fc2-a0d2-6bc9f905dbe5",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "user_id",
+    "FieldType": "Text",
+    "ObjectID": "6fcf6856-5b65-4334-a6d0-e228aac19c37",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Batch_ID",
+    "FieldType": "Text",
+    "ObjectID": "60989ca9-7098-4e96-81f3-5e0c0c58d82d",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "List_ID",
+    "FieldType": "Text",
+    "ObjectID": "4d0913a0-f26e-4d33-b202-f24f9e5f71bf",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Job_ID",
+    "FieldType": "Text",
+    "ObjectID": "a9d489a6-7785-4c00-a2bb-2b6dcdc72348",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "Landing_URL_ID",
+    "FieldType": "Text",
+    "ObjectID": "edf4960d-2cd2-406a-9118-a7db99cf5bbe",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "Subscriber_ID",
+    "FieldType": "Text",
+    "ObjectID": "943012c5-52e4-438d-b732-1366557b9e34",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  }
+]

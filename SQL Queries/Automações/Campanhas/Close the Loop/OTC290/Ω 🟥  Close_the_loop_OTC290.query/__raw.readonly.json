@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7eedf17c-6d7f-4dd6-9b1c-39f73e5ade7d",
+  "name": "Close_the_loop_OTC290",
+  "key": "40b7e50a-d3a1-45c4-8d69-046ed2019866",
+  "description": "",
+  "queryText": "SELECT\n  '001'+\n  REPLICATE (' ' , 9)+\n  REPLICATE ('0' , 9)+\n  '1'+\n  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, CPF_CNPJ), 15)+\n  CONVERT(VARCHAR(10), CONVERT(DATE, Data_nascimento, 103), 112)+\n  LEFT(CONVERT(VARCHAR(60), Nome) + REPLICATE(' ', 60), 60)+\n  REPLICATE (' ' , 1)+\n  /*REPLICATE (' ' , 2)*/REPLICATE (' ' , 1)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 5)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 73)+\n  REPLICATE (' ' , 70) AS BASE\nFROM\n  Close_the_loop_preparacao_OTC_filtrada ",
+  "targetName": "Close_the_loop_OTC290",
+  "targetKey": "142E7D6D-6034-46DE-A12F-0F31CFCFB45C",
+  "targetId": "61feb796-e66f-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-29T07:46:27.567",
+  "modifiedDate": "2023-04-26T10:32:42.8",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 56141,
+  "isFrozen": false
+}

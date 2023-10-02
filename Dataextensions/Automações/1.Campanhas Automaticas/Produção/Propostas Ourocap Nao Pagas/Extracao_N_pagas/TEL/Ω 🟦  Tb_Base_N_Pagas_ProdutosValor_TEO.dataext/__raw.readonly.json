@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "D3A2DCC0-C6B2-4450-9879-95C033C10214"
+  ],
+  "Name": [
+    "Tb_Base_N_Pagas_ProdutosValor_TEO"
+  ]
+}

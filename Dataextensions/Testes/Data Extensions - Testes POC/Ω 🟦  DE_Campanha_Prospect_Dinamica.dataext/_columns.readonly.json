@@ -1,0 +1,123 @@
+[
+  {
+    "Name": "NOME DA CONTA",
+    "FieldType": "Text",
+    "ObjectID": "e1c16657-24d1-4d58-870b-26cf9c36c44e",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "CPF CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "108321dc-1e99-48c6-b205-24a60ee417d5",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "PRIMEIRO NOME",
+    "FieldType": "Text",
+    "ObjectID": "5bc1e748-d930-4825-a5ca-c18aa4ed184b",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "SOBRENOME",
+    "FieldType": "Text",
+    "ObjectID": "3156a556-56a2-454a-a97c-a6f1347a7d90",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "NOME DA CAMPANHA",
+    "FieldType": "Text",
+    "ObjectID": "00af6021-a335-4845-bd4a-9f7de82c6ded",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "DESCRIÇÃO",
+    "FieldType": "Text",
+    "ObjectID": "93c9e4f7-0e07-4c4a-80ef-dbecd374666d",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "ATIVA",
+    "FieldType": "Text",
+    "ObjectID": "51def7da-051c-43d1-8989-91e86af7e13f",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "STATUS",
+    "FieldType": "Text",
+    "ObjectID": "2eab9067-ffc6-4d95-9b71-8c152e800572",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "DATA DE INÍCIO",
+    "FieldType": "Text",
+    "ObjectID": "e941bcc5-981e-4c51-9e9c-87ef5c213e00",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "DATA DE TÉRMIO",
+    "FieldType": "Text",
+    "ObjectID": "0ced46e3-78b6-4cee-a038-49fab8777348",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "ID DA CAMPANHA",
+    "FieldType": "Text",
+    "ObjectID": "2b62f7da-7d74-4fdf-95b4-45c93611f8fe",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2cb52074-bbf7-4cdb-adbf-f663abfa50e8",
+  "name": "BackupClienteParceiroParaClientesImportarSemConta",
+  "key": "b53539c1-490d-4f83-822b-d7bc65dae90e",
+  "description": "Grava informações dos clientes selecionados em uma DE de backup.",
+  "queryText": "select  HC_Banco_1__c, \n        HC_Agencia_1__c, \n        HC_Digito_da_Agencia_1__c, \n        HC_Numero_da_Conta_1__c, \n        HC_Digito_da_Conta_1__c, \n        HC_Banco_2__c, \n        HC_Agencia_2__c,\n        HC_Digito_da_Agencia_2__c, \n        HC_Numero_da_Conta_2__c, \n        HC_Digito_da_Conta_2__c,\n        HC_Telefone_Comercial__c, \n        HC_Telefone_Outro__c, \n        HC_Telefone_Residencial__c, \n        HC_Status_Tel_Comercial__c, \n        HC_Status_Tel_Outro__c, \n        HC_Celular_1__c, \n        HC_Celular_2__c, \n        HC_Celular_3__c,  \n        HC_Email_Brasilcap__c, \n        HC_Email_Pessoal__c, \n        HC_Email_Principal__c, \n        HC_Endereco_Comercial__c, \n        HC_Endereco_Correspondencia__c, \n        HC_Endereco_Outro__c, \n        HC_Endereco_Principal__c, \n        HC_Endereco_Residencial__c, \n        CPF_CNPJ_Cliente__c, \n        HC_Id_Parceiro_Cap__c\nfrom HC_Relacao_Cliente_Parceiro__c_SALESFORCE\ninner join ClientesSemContaTelefoneImportar\n    ON HC_CPF_CNPJ_Codigo_Parceiro_Unico__c = CHAVE_CLIENTE_SALESFORCE",
+  "targetName": "BackupClienteParceiro",
+  "targetKey": "0CFD4A7F-F36E-4E9A-ADDF-C3BB7D43FFEF",
+  "targetId": "d7ea4ceb-8732-ec11-a30b-48df37342b90",
+  "targetDescription": "Grava informações de cliente parceiro recebido no",
+  "createdDate": "2021-10-21T07:38:00.347",
+  "modifiedDate": "2022-06-08T08:17:36.02",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

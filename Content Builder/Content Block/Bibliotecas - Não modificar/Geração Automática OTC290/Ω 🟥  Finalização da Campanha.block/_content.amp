@@ -1,0 +1,87 @@
+// var Id_Campanha;
+var api = new Script.Util.WSProxy();
+var DE_Controller_Name = 'CONTROLE_AUTOMACOES_CAMPANHAS'
+var DE_Controller = retrieveDECustomerKeyFromName(api, DE_Controller_Name);
+
+try{
+  var dataExtensionsCustomerKeysToClear = retrieveDEsCustomerKeyByName(dataExtensionsName);
+  var clearObject = [];
+  for (var i = 0; i < dataExtensionsCustomerKeysToClear.length; i++) {
+    clearObject.push({
+      CustomerKey: dataExtensionsCustomerKeysToClear[i].CustomerKey
+    });
+  }
+  var res = api.performBatch("DataExtension", clearObject, "ClearData");
+
+  // Atulizar com finalização da campanha
+  var updateStatusInRecord = { STATUS_AUTOMACAO: 'FINALIZADA', ID_CAMPANHA : Id_Campanha };
+  var upsertResult = upsertRecordInDE(api, updateStatusInRecord, DE_Controller);
+
+}catch(error){
+  var props = [
+    {
+      Name: 'STATUS_AUTOMACAO',
+      Value: 'ERRO: ALGO DEU ERRADO NA FINALIZACAO DA CAMPANHA'
+    }, 
+    { Name: 'ID_CAMPANHA', Value: Id_Campanha }
+  ];
+  var updateData = {
+    CustomerKey: DE_Controller,
+    Properties: props
+  }
+  var updateOptions = {SaveOptions: [{'PropertyName': '*', SaveAction: 'UpdateAdd'}]};
+  var res = api.updateItem('DataExtensionObject', updateData, updateOptions);
+  Platform.Function.RaiseError('Something went wrong');
+}
+
+function retrieveDEsCustomerKeyByName(DEname){
+  var filter = {
+    Property: "Name",
+    Value: DEname
+  };
+  
+  if( isArray(DEname) && DEname.length > 1 ){
+    filter.SimpleOperator = "IN";
+  }
+  else if(isArray(DEname) && DEname.length == 1){
+    filter.SimpleOperator = "equals";
+    filter.Value = DEname[0];
+  }else{
+    filter.SimpleOperator = "equals";
+    filter.Value = DEname;
+  }
+  
+  var req = api.retrieve("DataExtension", ["Name", "CustomerKey"], filter);
+  return req.Results;
+}
+
+function isArray(a) {
+  return (!!a) && Object.prototype.toString.call(a) == '[object Array]'
+};
+
+function retrieveDECustomerKeyFromName(api, dataExtensionName){
+  var simpleFilter = {
+    Property: 'Name',
+    SimpleOperator: 'equals',
+    Value: dataExtensionName
+  }
+  var result = api.retrieve("DataExtension", ["CustomerKey"], simpleFilter);
+  if(result.Status != 'OK' || result.Results.length < 1){
+    return null
+  }else{
+    return result.Results[0].CustomerKey;
+  }
+}
+
+function upsertRecordInDE(api, record, customerKey){
+  if(!api) Platform.Function.RaiseError('Api param is required');
+  var props = [];
+  for(prop in record){
+    props.push( {Name: prop, Value: record[prop] } );
+  }
+  var data = {
+    CustomerKey: customerKey,
+    Properties: props
+  }
+  return api.updateItem('DataExtensionObject', data, {SaveOptions: [{'PropertyName': '*', SaveAction: 'UpdateAdd'}]});
+}

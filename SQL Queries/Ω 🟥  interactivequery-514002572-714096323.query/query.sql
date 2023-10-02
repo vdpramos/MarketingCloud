@@ -1,0 +1,2 @@
+SELECT rtrim(left(coalesce(CAST(CPF_CNPJ as char(255)),'<null>'), 255)) as CPF_CNPJ, rtrim(left(coalesce(CAST(NOME as char(255)),'<null>'), 255)) as NOME from Publico_Apto_Clientes_TMKT_ONLINE 
+WHERE CPF_CNPJ = '01475682930'

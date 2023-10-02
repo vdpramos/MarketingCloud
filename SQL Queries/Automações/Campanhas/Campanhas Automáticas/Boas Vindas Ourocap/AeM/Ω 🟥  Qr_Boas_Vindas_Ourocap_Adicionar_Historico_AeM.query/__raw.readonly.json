@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a0160137-54a8-4bd7-aba7-d6250c252d14",
+  "name": "Qr_Boas_Vindas_Ourocap_Adicionar_Historico_AeM",
+  "key": "dead831b-7b53-47ec-8142-333ea3833f88",
+  "description": "Adiciona os contatos entrantes na DE de Quarentena",
+  "queryText": "SELECT \n  ID_PROPOSTA,\n  CPF_CNPJ,\n  ID_CONTATO,\n  ID_CLIENTE_PARCEIRO,\n  EMAIL_VALIDO,\n  CELULAR_VALIDO,\n  NAO_DESEJA_RECEBER_EMAIL,\n  NAO_DESEJA_RECEBER_SMS,\n  EMAIL,\n  CELULAR,\n  TITULOS_ANTERIORES_ATIVOS,\n  TITULOS_ANTERIORES_INATIVOS,\n  CREATEDDATE,\n  FLAG_WHATSAPP\nFROM AEM_TB_BOAS_VINDAS_OUROCAP_PROSPOSTAS\nWHERE NAO_IMPORTUNE = 0",
+  "targetName": "AeM_Boas_Vindas_Historico_Propostas",
+  "targetKey": "BF8E626B-E782-4AA0-AA7B-B10A653C0510",
+  "targetId": "311c13be-6c51-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Historico de propostas ja enviadas para campanha",
+  "createdDate": "2022-10-21T12:19:02",
+  "modifiedDate": "2023-02-08T14:55:01.863",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 54649,
+  "isFrozen": false
+}

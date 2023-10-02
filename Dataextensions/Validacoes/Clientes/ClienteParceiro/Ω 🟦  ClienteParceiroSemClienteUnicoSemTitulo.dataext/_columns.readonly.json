@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "id",
+    "FieldType": "Text",
+    "ObjectID": "32711e1d-ef2c-45ac-ab88-861c040718a6",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "cpf_cnpj",
+    "FieldType": "Text",
+    "ObjectID": "7386d9b4-936e-4f17-8976-b56dadf56b43",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "NomeCompleto",
+    "FieldType": "Text",
+    "ObjectID": "ae0a8ebd-3d2e-416d-ba33-2c9e8d845cc5",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

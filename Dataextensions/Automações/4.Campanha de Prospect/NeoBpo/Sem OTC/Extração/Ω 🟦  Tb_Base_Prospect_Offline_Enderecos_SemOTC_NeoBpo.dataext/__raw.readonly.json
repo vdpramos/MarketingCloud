@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "5069AD8C-5788-414E-9785-889E4A5B6237"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_Enderecos_SemOTC_NeoBpo"
+  ]
+}

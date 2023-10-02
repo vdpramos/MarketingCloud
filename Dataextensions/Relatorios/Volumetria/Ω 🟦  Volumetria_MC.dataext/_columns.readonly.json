@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "MES",
+    "FieldType": "Text",
+    "ObjectID": "abe5e77b-bb7d-485d-bcae-156b99273316",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "ANO",
+    "FieldType": "Text",
+    "ObjectID": "c2e52136-3ef3-4bad-a37d-6423c0aff731",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "QTD_TOTAL_EMAILS",
+    "FieldType": "Number",
+    "ObjectID": "62e6b2ab-b18c-4441-b149-e6ab89b0e6e3",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "QTD_TOTAL_SMS",
+    "FieldType": "Number",
+    "ObjectID": "f0a4e5ea-642d-47c0-8162-770340fa0f46",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "QTD_TOTAL_PUSH",
+    "FieldType": "Number",
+    "ObjectID": "7317b4e9-0c19-4fe7-81e8-5d450d469603",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "QTD_TOTAL_CLOUDPAG",
+    "FieldType": "Text",
+    "ObjectID": "2b39ee01-6192-49a6-a61b-0c77dd10189f",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "PRINT",
+    "FieldType": "Text",
+    "ObjectID": "87800fbe-e7bb-4dee-abbc-c40f3a3e4da4",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "S",
+    "Ordinal": 6
+  }
+]

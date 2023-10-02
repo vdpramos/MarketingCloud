@@ -1,0 +1,10 @@
+Dataextension name: IGO_PRODUCTS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| name                 | Text(1000)      | false    | false    |                 |
+| regPrice             | Decimal(18,2)   | false    | false    |                 |
+| salePrice            | Decimal(18,2)   | false    | false    |                 |
+| Uuid                 | Text(256)       | true     | true     |                 |
+| sku                  | Text(256)       | true     | false    |                 |
+| type                 | Text(50)        | true     | false    |                 |

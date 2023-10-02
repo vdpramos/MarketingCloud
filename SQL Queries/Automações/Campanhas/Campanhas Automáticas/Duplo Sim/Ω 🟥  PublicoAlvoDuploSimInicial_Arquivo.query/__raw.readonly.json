@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1ac17ade-c2f0-45e0-a135-4fc75a6a47dd",
+  "name": "PublicoAlvoDuploSimInicial_Arquivo",
+  "key": "0cfa2794-2b6a-4f48-aeb3-7d3178b88ec8",
+  "description": "",
+  "queryText": "SELECT\n    distinct B.HC_CPF_CNPJ__C AS CPF_CNPJ,\n\tACEITE.NOMECOMPLETO AS NOME,\n\tLEFT(REPLACE(REPLACE(REPLACE(REPLACE(ACEITE.TELEFONE, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL,\n\tSUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(ACEITE.TELEFONE, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL,\n\tB.ID AS ID_CLIENTE_PARCEIRO,\n\tB.HC_Cliente__c AS ID_CLIENTE,\n\tA.ID AS ID_CAMPANHA,\n\tC.ID AS ID_CONTATO,\n\tgetdate() AS Dt_Ult_Execucao\nFROM HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE B\nINNER JOIN CAMPAIGN_SALESFORCE A \n    ON 1 = 1\nINNER JOIN Tb_Base_Duplo_Sim_Nao_Aceitaram ACEITE \n    ON concat(REPLICATE('0', 11 -LEN(ACEITE.CPF)),RTrim(ACEITE.CPF)) = B.HC_CPF_CNPJ__C\nINNER JOIN CONTACT_SALESFORCE C \n    ON concat(REPLICATE('0', 11 -LEN(ACEITE.CPF)),RTrim(ACEITE.CPF)) = concat(REPLICATE('0', 11 -LEN(C.HC_CPF_CNPJ__c)),RTrim(C.HC_CPF_CNPJ__c))\n\nWHERE\n\tA.ID = '7016g000002O07HAAS'\n\tAND A.ISACTIVE = 1\n\tAND B.HC_Classificacao__c != 'Falecido'\n\tAND B.HC_Nao_deseja_receber_Todos_Meios__c = 0\n\tAND B.HC_Nao_deseja_receber_SMS__c = 0\n\tAND ACEITE.FLG_ENVIO <> 1\n    AND B.HC_Id_Parceiro_Cap__c = 'TCBB'",
+  "targetName": "PublicoAlvoDuploSim",
+  "targetKey": "7B315560-45EC-48A9-BEAC-0376CBB28635",
+  "targetId": "4882c9be-c465-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-16T09:39:12.997",
+  "modifiedDate": "2023-03-01T12:38:46.157",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 32389,
+  "isFrozen": false
+}

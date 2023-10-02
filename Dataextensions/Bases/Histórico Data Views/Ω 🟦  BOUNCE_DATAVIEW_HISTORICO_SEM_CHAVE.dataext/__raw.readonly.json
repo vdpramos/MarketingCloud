@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "AE2C2762-3E32-4B1A-A235-E9C8070EB61A"
+  ],
+  "Name": [
+    "BOUNCE_DATAVIEW_HISTORICO_SEM_CHAVE"
+  ]
+}

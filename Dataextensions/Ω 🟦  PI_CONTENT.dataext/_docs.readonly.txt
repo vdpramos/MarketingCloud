@@ -1,0 +1,8 @@
+Dataextension name: PI_CONTENT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| content_id           | Text(256)       | true     | false    |                 |
+| availability         | Boolean         | false    | false    |                 |
+| title                | Text(1000)      | false    | false    |                 |
+| uuid                 | Text(256)       | true     | true     |                 |

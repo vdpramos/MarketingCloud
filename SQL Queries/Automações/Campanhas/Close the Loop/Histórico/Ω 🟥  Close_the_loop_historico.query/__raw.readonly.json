@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3a983acb-4314-4922-8bbb-d2de115eb71a",
+  "name": "Close_the_loop_historico",
+  "key": "c1606395-751e-46a8-8d94-77d72fc0a837",
+  "description": "",
+  "queryText": "SELECT *\nFROM Close_the_loop_contemplados_extracao\n\nUNION ALL\n\nSELECT *\nFROM Close_the_loop_cancelados_extracao\n\nUNION ALL\n\nSELECT *\nFROM Close_the_loop_compradores_extracao\n\nUNION ALL\n\nSELECT *\nFROM Close_the_loop_resgate_antecipado_extracao\n\nUNION ALL\n\nSELECT *\nFROM Close_the_loop_resgate_fim_extracao\n\nUNION ALL\n\nSELECT *\nFROM Close_the_loop_atendidos_extracao",
+  "targetName": "Close_the_loop_historico",
+  "targetKey": "4F36F32A-039A-4714-AC7A-93F21F33D072",
+  "targetId": "07a28734-2a9b-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2023-01-23T09:03:22.283",
+  "modifiedDate": "2023-04-26T10:41:33.493",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 58260,
+  "isFrozen": false
+}

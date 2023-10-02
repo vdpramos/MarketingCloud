@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "96ac6eec-6bb3-4f10-ae52-c5ee8934d568",
+  "name": "Cliente Parceiro Sem Cliente Unico Insert a partir CXP",
+  "key": "96AC6EEC-6BB3-4F10-AE52-C5EE8934D568",
+  "description": "",
+  "queryText": "select  HC_CPF_CNPJ__c as HC_CPF_CNPJ_Cliente__c, \n        HC_Tipo_de_Pessoa__c, \n        Name, \n        Data_de_Nascimento__c as HC_Data_de_Nascimento__c\nfrom hc_relacao_cliente_parceiro__c_salesforce \nwhere hc_cliente__c is null\n       and name not like ('a0i6g%') ",
+  "targetName": "ClienteParceiroSemClienteUnicoCriar",
+  "targetKey": "E2ABB170-E574-4403-B917-DE0D90ACD7B5",
+  "targetId": "56ccdffe-6fc7-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-20T16:52:49.487",
+  "modifiedDate": "2023-03-20T17:39:23.59",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

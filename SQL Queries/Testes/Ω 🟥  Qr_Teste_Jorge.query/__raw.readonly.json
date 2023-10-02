@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1ff7be05-23f0-42e0-ac9d-e6ea1e06b60a",
+  "name": "Qr_Teste_Jorge",
+  "key": "8f57edf7-ef02-4202-ac53-911b1d29a36a",
+  "description": "",
+  "queryText": "SELECT\n  *\nFROM\n  Tb_Base_Ex_Cliente_ComOTC_Filtrada_TMKT_Jorge\n/*WHERE\n  CPF_CNPJ NOT IN ('00016021000103', '33557859000155')*/",
+  "targetName": "Tb_Base_Ex_Cliente_ComOTC_Filtrada_TMKT",
+  "targetKey": "CC7EDC31-8557-4AEF-9CD1-0A67C1542721",
+  "targetId": "10970c3b-cd06-ec11-a30b-48df370eabe4",
+  "targetDescription": "Base com contatos filtrados para o envio do OTC290",
+  "createdDate": "2021-12-22T17:33:09.507",
+  "modifiedDate": "2021-12-22T17:40:41.96",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 28566,
+  "isFrozen": false
+}

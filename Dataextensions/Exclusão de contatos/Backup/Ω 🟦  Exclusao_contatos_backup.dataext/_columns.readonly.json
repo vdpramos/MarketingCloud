@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "SubscriberKey",
+    "FieldType": "Text",
+    "ObjectID": "4b0afe64-1481-474c-a4aa-60ffe7b0efa0",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Data_exclusao",
+    "FieldType": "Date",
+    "ObjectID": "0f4a2aa6-983f-4513-be3e-f308a21a9b85",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GetDate()",
+    "Ordinal": 1
+  }
+]

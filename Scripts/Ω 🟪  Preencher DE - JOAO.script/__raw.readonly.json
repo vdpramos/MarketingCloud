@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "2d66bd1e-5614-4bb2-8437-138d573de1b5",
+  "name": "Preencher DE - JOAO",
+  "key": "254fa480-03bb-47db-ba26-762f52924315",
+  "description": "",
+  "script": "<script runat=server language=\"JavaScript\" executioncontexttype=\"get\">\nPlatform.Load(\"Core\",\"1.1\");\n\nvar TestDE = DataExtension.Init(\"41fcda40-5d8f-4a1a-9062-3bef62adb5c0\");\nvar result = TestDE.Rows.Add({\"Id\":\"123\"}, {\"ValorParcela\":\"100\"},{\"Valor Parcela\":\"100\"});\n\nWrite('<b>Output:</b>'+result);\n</script>",
+  "categoryId": 1937,
+  "createdDate": "2020-04-16T11:06:10.787",
+  "modifiedDate": "2020-04-16T12:00:40.05"
+}

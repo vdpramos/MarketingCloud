@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "bce59c39-d42a-4392-b5d3-a6375ab1f826",
+  "name": "QR_Base_Prospect_Online_Filtrada_AeC",
+  "key": "BCE59C39-D42A-4392-B5D3-A6375AB1F826",
+  "description": "",
+  "queryText": "SELECT\n A.*\nFROM \tTb_Base_Prospect_ComOTC_Online_Tratada_AeC A\nWHERE IDADE_VALIDA = 1\n  AND CONTA_CORRENTE = 1\n  AND QUARENTENA = 0 \n  AND CONSELHEIRO = 0 \n  /*AND CLIENTE = 0 */\n  /*AND VALIDA_RNA = 1*/\n  /*AND CEP_VALIDO = 1*/\n  AND NAO_IMPORTUNE <> 1\n  AND Titulo_Ativo_Recente = 0",
+  "targetName": "Tb_Base_Prospect_ComOTC_Online_Filtrada_AeC",
+  "targetKey": "29D9012A-BD4A-4A65-B753-384B1229AB9A",
+  "targetId": "888d38b7-0c15-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "Base com contatos filtrados para o envio do OTC290",
+  "createdDate": "2023-06-26T11:09:19.743",
+  "modifiedDate": "2023-08-28T08:27:54.743",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "91ab0136-11f4-46c9-afb8-9ef7b4dc0f45",
+  "name": "Qr06.1_Base_Revenda_Ourocap_ComOTC_Tratada_OTC291_TMKT",
+  "key": "91AB0136-11F4-46C9-AFB8-9EF7B4DC0F45",
+  "description": "",
+  "queryText": "SELECT\n  B.PRIMEIRO_NOME,\n  B.SOBRENOME,\n  B.CODIGO_RNA,\n  B.VALOR_RENDIMENTOS,\n  B.TIPO_CARTEIRA,\n  B.NIVEL_RELACIONAMENTO,\n  B.FAIXA_RENDA_MENSAL,\n  B.CPF,\n  B.ALTA_RENDA,\n  A.NOME,\n  A.IDADE,\n  A.DT_NASCIMENTO,\n  A.SEXO,\n  A.TIPO_PESSOA,\n  A.DDD_TEL_01,\n  A.TEL_01,\n  A.TIPO_TEL_01,\n  A.DDD_TEL_02,\n  A.TEL_02,\n  A.DDD_TEL_03,\n  A.TEL_03,\n  A.TIPO_TEL_03,\n  A.TIPO_TEL_02,\n  A.DDD_TEL_04,\n  A.TEL_04,\n  A.TIPO_TEL_04,\n  A.DDD_TEL_05,\n  A.TEL_05,\n  A.TIPO_TEL_05,\n  A.TEL_PRINCIPAL,\n  A.ENDERECO,\n  A.CEP,\n  A.UF,\n  A.PUBLICO_ALVO,\n  A.TIPO_CAMPANHA,\n  A.PARCEIRO,\n  A.ID_CAMPANHA,\n  A.ID_PRODUTO,\n  A.ID_PRODUTO_VALOR,\n  A.ID_CLIENTE_PARCEIRO,\n  A.ID_CONTATO,\n  A.ID_CLIENTE,\n  A.DT_ULTIMO_RESGATE,\n  A.CANAL_ULTIMO_RESGATE,\n  A.TIPO_RESGATE,\n  A.VALOR_PARCELA_PRODUTO,\n  A.CPF_CNPJ,\n  A.DATA_PROXIMA_EXECUCAO\nFROM\n  Tb_Base_Revenda_Ourocap_Filtrada_TMTK A\nINNER JOIN TB_BASE_OTC291_TRATADA B ON A.CPF_CNPJ = B.CPF",
+  "targetName": "Tb_Base_Revenda_Ourocap_OTC291_Tratada_TMKT",
+  "targetKey": "2900644E-8D46-4059-BB29-39AAA5297619",
+  "targetId": "432c790b-7126-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "Base com os contatos retornados no OTC291",
+  "createdDate": "2023-07-19T14:18:09.977",
+  "modifiedDate": "2023-08-29T14:00:13.07",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 66285,
+  "isFrozen": false
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "63B032CA-393A-4E4D-9747-372E6E83A80E"
+  ],
+  "Name": [
+    "Tb_Base_Cliente_Online_Extracao_TMKT_ONLINE"
+  ]
+}

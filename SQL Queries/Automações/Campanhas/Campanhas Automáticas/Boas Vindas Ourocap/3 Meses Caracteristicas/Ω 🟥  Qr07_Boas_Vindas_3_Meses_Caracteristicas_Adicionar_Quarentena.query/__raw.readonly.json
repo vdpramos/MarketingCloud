@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "fd14a74c-b7c7-408e-a894-773e694e745a",
+  "name": "Qr07_Boas_Vindas_3_Meses_Caracteristicas_Adicionar_Quarentena",
+  "key": "b9b7b3a1-1551-4ca9-934b-5e2fbdfa4c86",
+  "description": "",
+  "queryText": "SELECT \n\tCPF_CNPJ,\n\tNUMERO_DO_TITULO,\n\tSERIE_DO_TITULO,\n\tPLANO_DO_TITULO,\n\tID_TITULO,\n  ID_CONTATO,\n  ID_CLIENTE_PARCEIRO,\n  DATA_INICIO_VIGENCIA\nFROM Tb_Boas_Vindas_3_Meses_Clientes_E_Titulos\nWHERE \nISNULL(NAO_DESEJA_RECEBER_EMAIL, 0) = 0 \nAND EMAIL IS NOT NULL\nAND EMAIL_VALIDO = 1\nAND QUARENTENA = 0",
+  "targetName": "Tb_Boas_Vindas_3_Meses_Caracteristicas_Quarentena",
+  "targetKey": "BA81A291-AA30-4472-A2AD-A9619CD9AA4F",
+  "targetId": "ba778267-af3d-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Guarda historico de cliente-titulo que ja passou pela jornada",
+  "createdDate": "2022-09-26T09:56:20.43",
+  "modifiedDate": "2022-11-09T06:46:51.34",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 53594,
+  "isFrozen": false
+}

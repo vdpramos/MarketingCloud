@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "98745143-59A7-4051-8719-E81F0F445D96"
+  ],
+  "Name": [
+    "Tb_Base_Ex_Clientes_Offline_Enderecos_ComOTC_TMKT"
+  ]
+}

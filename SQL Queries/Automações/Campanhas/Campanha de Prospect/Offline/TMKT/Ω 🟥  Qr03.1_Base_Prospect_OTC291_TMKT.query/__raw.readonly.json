@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ddee33cd-2cd9-4eca-a017-813bcb40a5b5",
+  "name": "Qr03.1_Base_Prospect_OTC291_TMKT",
+  "key": "be6d6abe-ebb1-4340-a0da-7f200e845989",
+  "description": "Filtra os contatos que possuem restrição para a jornada, apenas quando todos estiverem com resposta no otc291",
+  "queryText": "SELECT\r\n  A.*,\r\n  A.CPF_Codigo_Parceiro as CPF_Codigo_Parceiro_Unico,\r\n  row_number() over(order by a.cpf) as row\r\nFROM TB_BASE_PROSPECT_OTC291_TRATADA_TMKT A\r\nLEFT OUTER JOIN ( \r\n  SELECT\r\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\r\n  FROM Tb_Base_Prospect_ComOTC_Filtrada_TMKT ENV\r\n  LEFT JOIN TB_BASE_PROSPECT_OTC291_TRATADA_TMKT RET ON ENV.CPF = RET.CPF\r\n  WHERE RET.CPF IS NULL\r\n) B ON 1 = 1\r\nWHERE B.CPFS_FALTANDO_NO_OTC = 0 /* SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 */\r\n  /* VALIDAÇÕES POR CONTATO DO OTC */\r\n  AND A.CODIGO_RNA = '000'\r\n  AND A.ALTA_RENDA = 0",
+  "targetName": "Tb_Base_Prospect_OTC291_Filtrada_TMKT",
+  "targetKey": "14B63303-9F4F-4FE5-85B5-96D2929E8120",
+  "targetId": "276ead35-39ac-ec11-a313-48df370ed7f5",
+  "targetDescription": "",
+  "createdDate": "2021-09-03T19:14:29.597",
+  "modifiedDate": "2023-04-24T11:41:34.58",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29117,
+  "isFrozen": false
+}

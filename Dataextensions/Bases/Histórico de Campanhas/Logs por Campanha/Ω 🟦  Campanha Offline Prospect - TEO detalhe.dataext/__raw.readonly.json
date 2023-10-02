@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "6FA954F1-B530-44B8-B0E8-6A0CACE83587"
+  ],
+  "Name": [
+    "Campanha Offline Prospect - TEO detalhe"
+  ]
+}

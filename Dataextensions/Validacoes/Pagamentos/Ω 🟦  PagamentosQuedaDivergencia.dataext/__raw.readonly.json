@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "72E5DB6F-E9BC-47C8-81F4-717DDEFC86F7"
+  ],
+  "Name": [
+    "PagamentosQuedaDivergencia"
+  ]
+}

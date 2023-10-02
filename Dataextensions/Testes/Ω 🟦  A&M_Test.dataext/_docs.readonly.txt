@@ -1,0 +1,8 @@
+Dataextension name: A&M_Test
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| id                   | Text(50)        | true     | true     |                 |
+| firstName            | Text(50)        | false    | false    |                 |
+| whatsapp             | Phone           | false    | false    |                 |
+| cpf                  | Text(50)        | false    | false    |                 |

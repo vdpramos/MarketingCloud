@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "AF3EB159-2CB6-40AB-BAC1-6FB41D3E88AB"
+  ],
+  "Name": [
+    "Campanha Offline Ex-Cliente - Algar - Detalhe"
+  ]
+}

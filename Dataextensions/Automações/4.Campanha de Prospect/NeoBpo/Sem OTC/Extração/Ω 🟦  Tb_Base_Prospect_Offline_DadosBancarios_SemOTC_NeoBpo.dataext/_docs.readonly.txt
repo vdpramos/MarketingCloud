@@ -1,0 +1,15 @@
+Dataextension name: Tb_Base_Prospect_Offline_DadosBancarios_SemOTC_NeoBpo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Cod_Parceiro         | Text(300)       | false    | false    |                 |
+| CPF                  | Text(300)       | false    | false    |                 |
+| CNPJ                 | Text(300)       | false    | false    |                 |
+| Banco                | Text(300)       | false    | false    |                 |
+| Agencia              | Text(300)       | false    | false    |                 |
+| Digito_Verificador_Agencia | Text(300)       | false    | false    |                 |
+| Conta_Corrente       | Text(300)       | false    | false    |                 |
+| Digito_Verificador_Conta | Text(300)       | false    | false    |                 |
+| Agencia_Conta_Digito_Verificador | Text(300)       | false    | false    |                 |
+| Tipo_Conta           | Text(300)       | false    | false    |                 |
+| Inicio_Trailler      | Text(300)       | false    | false    |                 |

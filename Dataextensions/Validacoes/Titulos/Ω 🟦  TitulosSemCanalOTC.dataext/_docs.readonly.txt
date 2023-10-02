@@ -1,0 +1,6 @@
+Dataextension name: TitulosSemCanalOTC
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | true     | false    |                 |
+| HC_Nome_Parceiro__c  | Text(255)       | true     | false    |                 |

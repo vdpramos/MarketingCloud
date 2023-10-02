@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "Email",
+    "FieldType": "Text",
+    "ObjectID": "40f39271-6b77-411e-823b-b6361aca2fbc",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "0f7d4ee3-0045-4a35-90ac-359e06d7a5be",
+  "name": "Backup Quarentena",
+  "key": "0F7D4EE3-0045-4A35-90AC-359E06D7A5BE",
+  "description": "",
+  "queryText": "Select * from Tb_Base_Quarentena",
+  "targetName": "Tb_Base_Quarentena_AUX",
+  "targetKey": "59BD9C2E-62B3-42A2-92D0-39C01BF180C3",
+  "targetId": "7e2aae55-3d55-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Base com contatos que participaram de campanhas nos ultimos 90 dias",
+  "createdDate": "2023-06-01T09:08:16.313",
+  "modifiedDate": "2023-07-17T14:46:14.757",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

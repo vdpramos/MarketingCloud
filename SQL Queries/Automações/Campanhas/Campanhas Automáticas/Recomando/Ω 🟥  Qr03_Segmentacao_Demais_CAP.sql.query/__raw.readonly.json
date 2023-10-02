@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "9204090a-5950-4dd7-b9e9-999f6ef630dd",
+  "name": "Qr03_Segmentacao_Demais_CAP.sql",
+  "key": "9077f9cd-04d0-44a8-ae30-d974b2aea1d4",
+  "description": "Segmentar do publico da Jornada de Recomando, grupo nao TCBB de origem CAP",
+  "queryText": "select\n  q.HC_CPF_CNPJ__c,\n  CS.Id as IdContato,\n  camp.Id as IdCampaign,\n  RCP_ID,\n  HC_Titulo__c,\n  HC_Id_Parceiro_Cap__c,\n  HC_Data_Envio_Registro__c,\n  HC_Data_do_pagamento__c,\n  HC_Valor_Liquido__c,\n  CAMPAIGN_GROUP,\n  Telefone_Principal,\n  HC_Telefone_Principal__c,\n  HC_Celular,\n  HC_Celular_1__c,\n  HC_Celular_2__c,\n  HC_Celular_3__c,\n  Email_Principal,\n  HC_Email_Principal__c,\n  Endereco_Principal,\n  HC_Endereco_Principal__c,\n  camp.DATA_PROXIMA_EXECUCAO\nfrom [BASE_CAMPANHA_RECOMANDO] Q\ninner join (\n  SELECT TOP 1\n    Id,\n    HC_Proxima_execucao__c,\n    HC_Ultima_execucao__c,\n    HC_Valor_minimo_a_pagar__c,\n    HC_Valor_maximo_a_pagar__c,\n    HC_Data_inicial_do_periodo_de_queda__c,\n    HC_Data_fim_do_periodo_de_queda__c,\n\tHC_DATA_DE_EXECUCAO__C,\t\n    DATEADD(DAY, HC_PROXIMA_EXECUCAO__C,HC_DATA_DE_EXECUCAO__C) AS DATA_PROXIMA_EXECUCAO\n  from [CAMPAIGN_SALESFORCE]\n  WHERE HC_Tipo_de_Cliente__c = 'PF e PJ'\n  and isnull(convert(integer, IsActive), 0) = 1\n  AND PARENTID = '7016g000002O08JAAS'\n) camp on Q.CAMPAIGN_GROUP = 'CAP Fiador'\nINNER JOIN [Contact_Salesforce] CS ON CS.HC_CPF_CNPJ_Tipo_de_Relacionamento__c = concat(q.HC_CPF_CNPJ__c, 'Cliente')\nWHERE\n  \n\t\t\t\t\t\t\t\t\t \n    isnull(q.HC_Valor_Liquido__c, 0) >= isnull(camp.HC_Valor_minimo_a_pagar__c, 0)\n    and (\n      camp.HC_Valor_maximo_a_pagar__c is null\n      or isnull(q.HC_Valor_Liquido__c, 0) <= camp.HC_Valor_maximo_a_pagar__c\n    )\n  \n  \n    AND HC_Data_Envio_Registro__c is not null\n    and \n    (\n      camp.HC_Data_inicial_do_periodo_de_queda__c is null\n      or HC_Data_Envio_Registro__c >= camp.HC_Data_inicial_do_periodo_de_queda__c\n    )\n    and\n    (\n      camp.HC_Data_fim_do_periodo_de_queda__c is null\n      or HC_Data_Envio_Registro__c <= camp.HC_Data_fim_do_periodo_de_queda__c\n    )\n  \n  AND HC_Data_Envio_Registro__c between HC_Data_inicial_do_periodo_de_queda__c  and HC_Data_fim_do_periodo_de_queda__c \n     AND CONVERT(VARCHAR, camp.HC_DATA_DE_EXECUCAO__C, 112) = CONVERT(VARCHAR, GETDATE(), 112) ",
+  "targetName": "RECOMANDO_G3_DEMAIS_CAPs_v2",
+  "targetKey": "AD166DB4-EE62-4FAE-BF89-172EDF7F854A",
+  "targetId": "5a467c03-3797-eb11-a2fc-48df37342b91",
+  "targetDescription": "Parceiro nao TCBB de origem CAP",
+  "createdDate": "2021-04-05T15:38:34.823",
+  "modifiedDate": "2021-10-04T11:53:08.007",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 31535,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b6c41c8e-7aca-44c3-a2dd-682fdd27bf01",
+  "name": "Flag de horario Propostas não pagas",
+  "key": "2f81c786-e982-4c65-9500-dbff57c842d8",
+  "description": "",
+  "queryText": "SELECT HORA \nFROM ( SELECT\nCASE\nWHEN    (DAY(HC_Data_de_Execucao__c) = DAY(getdate()) AND\n        MONTH(HC_Data_de_Execucao__c) = MONTH(getdate()) AND\n        YEAR(HC_Data_de_Execucao__c) = YEAR(getdate()) ) THEN 1 END AS HORA\nFROM Campaign_Salesforce\nWHERE id = '7016g000002O08TAAS') A\nWHERE hora = 1",
+  "targetName": "Flag_Horario_Prop_Nao_pagas",
+  "targetKey": "A4C24102-A17F-4BFB-B161-907F0EF5F0A5",
+  "targetId": "a3410a64-cfc0-ec11-a313-48df370ed7f5",
+  "targetDescription": "",
+  "createdDate": "2022-04-20T11:43:38.163",
+  "modifiedDate": "2022-11-30T13:17:29.56",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

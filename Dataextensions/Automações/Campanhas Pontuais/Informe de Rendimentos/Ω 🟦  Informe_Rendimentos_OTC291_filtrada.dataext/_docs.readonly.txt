@@ -1,0 +1,14 @@
+Dataextension name: Informe_Rendimentos_OTC291_filtrada
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(50)        | true     | false    |                 |
+| Id_Contato           | Text(50)        | true     | false    |                 |
+| Id_Cliente_Parceiro  | Text(50)        | true     | false    |                 |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Data_Nascimento      | Date            | false    | false    |                 |
+| Email                | EmailAddress    | false    | false    |                 |
+| Celular              | Phone           | false    | false    |                 |
+| MCI                  | Text(50)        | true     | false    |                 |
+| Tipo_Carteira        | Text(50)        | false    | false    |                 |
+| Encarteiramento      | Text(200)       | false    | false    |                 |

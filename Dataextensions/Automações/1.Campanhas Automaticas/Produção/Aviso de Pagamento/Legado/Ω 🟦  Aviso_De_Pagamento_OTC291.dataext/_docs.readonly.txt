@@ -1,0 +1,5 @@
+Dataextension name: Aviso_De_Pagamento_OTC291
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Retorno              | Text(4000)      | false    | false    |                 |

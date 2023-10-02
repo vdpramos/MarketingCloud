@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "cf306fba-17f6-4096-b242-0fe88aa8c53f",
+  "name": "Src_Prospect_Online_TMKT_CleanDes",
+  "key": "16eacdbd-ab34-48be-9a56-411dff904288",
+  "description": "Limpa DEs para evitar reexecução",
+  "script": "<script runat=server>\n  Platform.Load(\"Core\", \"1.1.5\");\n  var api = new Script.Util.WSProxy();\n  var dataExtensionsName = [\n    'Tb_Base_Prospect_OTC291_Online_Tratada_TMKT',\n    'TB_BASE_PROSPECT_ONLINE_FILTRADA_TMKT'\n  ];\n\n  try{\n    var dataExtensionsCustomerKeysToClear = retrieveDEsCustomerKeyByName(dataExtensionsName);\n    var clearObject = [];\n    for (var i = 0; i < dataExtensionsCustomerKeysToClear.length; i++) {\n      clearObject.push({\n        CustomerKey: dataExtensionsCustomerKeysToClear[i].CustomerKey\n      });\n    }\n    var res = api.performBatch(\"DataExtension\", clearObject, \"ClearData\");\n  \n  }catch(error){\n    Platform.Function.RaiseError('Something went wrong');\n  }\n  \n  function retrieveDEsCustomerKeyByName(DEname){\n    var filter = {\n      Property: \"Name\",\n      Value: DEname\n    };\n    \n    if( isArray(DEname) && DEname.length > 1 ){\n      filter.SimpleOperator = \"IN\";\n    }\n    else if(isArray(DEname) && DEname.length == 1){\n      filter.SimpleOperator = \"equals\";\n      filter.Value = DEname[0];\n    }else{\n      filter.SimpleOperator = \"equals\";\n      filter.Value = DEname;\n    }\n    \n    var req = api.retrieve(\"DataExtension\", [\"Name\", \"CustomerKey\"], filter);\n    return req.Results;\n  }\n  \n  function isArray(a) {\n    return (!!a) && Object.prototype.toString.call(a) == '[object Array]'\n  };\n\n</script>",
+  "categoryId": 40740,
+  "createdDate": "2022-11-26T06:01:50.913",
+  "modifiedDate": "2022-11-26T06:01:50.913"
+}

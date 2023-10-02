@@ -1,0 +1,74 @@
+[
+  {
+    "_CustomObjectKey": "12262",
+    "CAMPANHA_JORNADA": "BOAS_VINDAS_OUROCAP_CARACTERISTICAS",
+    "JobID": "170707",
+    "VersionID": "A0DB1A35-9095-4BDB-8DDF-2931B070B651",
+    "CreatedDate": "1/17/2022 6:55:04 PM",
+    "LastPublishedDate": "1/17/2022 6:55:25 PM",
+    "JourneyStatus": "Running"
+  },
+  {
+    "_CustomObjectKey": "12263",
+    "CAMPANHA_JORNADA": "JB_CAMPANHA_FIM_PLANO_OUROCAP_PM_SEMOTC",
+    "JobID": "275248",
+    "VersionID": "01AE53F0-9752-441D-9494-3E8C291D0560",
+    "CreatedDate": "11/23/2022 11:37:07 AM",
+    "LastPublishedDate": "11/23/2022 11:39:56 AM",
+    "JourneyStatus": "Running"
+  },
+  {
+    "_CustomObjectKey": "12264",
+    "CAMPANHA_JORNADA": "AeM_JB_CAMPANHA_FIM_PLANO_OUROCAP_PU_SEMOTC",
+    "JobID": "285518",
+    "VersionID": "DD76D4AF-0CF7-4050-A3E4-5E298665F293",
+    "CreatedDate": "12/29/2022 10:47:36 AM",
+    "LastPublishedDate": "12/29/2022 10:56:09 AM",
+    "JourneyStatus": "Paused"
+  },
+  {
+    "_CustomObjectKey": "12265",
+    "CAMPANHA_JORNADA": "JB_CAMPANHA_FIM_PLANO_OUROCAP_PM_SEMOTC",
+    "JobID": "275247",
+    "VersionID": "01AE53F0-9752-441D-9494-3E8C291D0560",
+    "CreatedDate": "11/23/2022 11:37:07 AM",
+    "LastPublishedDate": "11/23/2022 11:39:56 AM",
+    "JourneyStatus": "Running"
+  },
+  {
+    "_CustomObjectKey": "12266",
+    "CAMPANHA_JORNADA": "BOAS_VINDAS_OUROCAP_CARACTERISTICAS",
+    "JobID": "170708",
+    "VersionID": "A0DB1A35-9095-4BDB-8DDF-2931B070B651",
+    "CreatedDate": "1/17/2022 6:55:04 PM",
+    "LastPublishedDate": "1/17/2022 6:55:25 PM",
+    "JourneyStatus": "Running"
+  },
+  {
+    "_CustomObjectKey": "12267",
+    "CAMPANHA_JORNADA": "Jb_Campanhas_Aniversariantes",
+    "JobID": "281415",
+    "VersionID": "83F2DE7E-C64E-4E13-AD4C-19CBDF0BC109",
+    "CreatedDate": "12/15/2022 9:20:46 AM",
+    "LastPublishedDate": "12/15/2022 9:26:33 AM",
+    "JourneyStatus": "Running"
+  },
+  {
+    "_CustomObjectKey": "12268",
+    "CAMPANHA_JORNADA": "BOAS_VINDAS_ANIVERSARIO_CARACTERISTICAS",
+    "JobID": "302266",
+    "VersionID": "0CE61E90-5918-44ED-B910-03F0462D74C7",
+    "CreatedDate": "9/26/2022 2:33:30 PM",
+    "LastPublishedDate": "3/7/2023 12:01:09 PM",
+    "JourneyStatus": "Running"
+  },
+  {
+    "_CustomObjectKey": "12269",
+    "CAMPANHA_JORNADA": "BOAS_VINDAS_OUROCAP_CARACTERISTICAS",
+    "JobID": "170706",
+    "VersionID": "A0DB1A35-9095-4BDB-8DDF-2931B070B651",
+    "CreatedDate": "1/17/2022 6:55:04 PM",
+    "LastPublishedDate": "1/17/2022 6:55:25 PM",
+    "JourneyStatus": "Running"
+  }
+]

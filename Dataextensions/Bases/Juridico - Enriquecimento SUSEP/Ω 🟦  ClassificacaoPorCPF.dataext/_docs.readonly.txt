@@ -1,0 +1,6 @@
+Dataextension name: ClassificacaoPorCPF
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(50)        | true     | true     |                 |
+| Classificacao        | Text(50)        | true     | false    |                 |

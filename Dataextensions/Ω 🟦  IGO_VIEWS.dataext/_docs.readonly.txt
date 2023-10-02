@@ -1,0 +1,9 @@
+Dataextension name: IGO_VIEWS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| sku                  | Text(256)       | false    | false    |                 |
+| user_id              | Text(256)       | true     | true     |                 |
+| session_id           | Text(256)       | false    | false    |                 |
+| Search               | Text(1000)      | false    | false    |                 |
+| Timestamp            | Date            | true     | true     |                 |

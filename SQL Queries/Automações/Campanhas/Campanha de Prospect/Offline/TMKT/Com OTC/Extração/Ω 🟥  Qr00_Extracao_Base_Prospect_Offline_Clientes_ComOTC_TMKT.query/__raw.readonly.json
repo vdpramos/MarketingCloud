@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b6f89db8-4e21-47cd-a886-4dacae281782",
+  "name": "Qr00_Extracao_Base_Prospect_Offline_Clientes_ComOTC_TMKT",
+  "key": "e88d6b49-7238-4d19-b058-293812bdcff6",
+  "description": "",
+  "queryText": "SELECT CPF,\r\n  COD_PARCEIRO,\r\n  CNPJ,\r\n  PARCEIRO_ORGANIZACAO,\r\n  PARCEIRO_LOCALIZACAO,\r\n  COD_CLIENTE_MC,\r\n  NOME_COMPLETO,\r\n  TIPO_PESSOA,\r\n  DATA_NASCIMENTO,\r\n  SEXO,\r\n  CLIENTE_ORGANIZACAO,\r\n  CLIENTE_CHAVE_MIGRACAO,\r\n  CLIENTE_CHAGE_GERAL_INTERNA,\r\n  CLIENTE_TIPO_INTERNO,\r\n  DIA_PROV\r\nFROM (SELECT DISTINCT\r\n  A.CPF,\r\n  'TCBB' AS COD_PARCEIRO,\r\n  '' AS CNPJ,\r\n  'Brasilcap' AS PARCEIRO_ORGANIZACAO,\r\n  'Brazil' AS PARCEIRO_LOCALIZACAO,\r\n  REL.ID AS COD_CLIENTE_MC,\r\n  B.NOME AS NOME_COMPLETO,\r\n  'PF' AS TIPO_PESSOA,\r\n  CONVERT(VARCHAR, CAST(B.Dt_Nascimento AS DATE), 112) AS DATA_NASCIMENTO,\r\n  B.SEXO,\r\n  'Brasilcap' AS CLIENTE_ORGANIZACAO,\r\n  CONCAT(A.CPF, 'TCBB') AS CLIENTE_CHAVE_MIGRACAO,\r\n  CONCAT(A.CPF, 'TCBB') AS CLIENTE_CHAGE_GERAL_INTERNA,\r\n  'Person' AS CLIENTE_TIPO_INTERNO,\r\n  A.Dia_Prov,\r\n  row_number() over (partition by A.CPF order by REL.ID desc) AS ROW_ID\r\nFROM\r\n  TB_BASE_PROSPECT_OTC291_FILTRADA_TMKT A \r\n    INNER JOIN Tb_Base_Prospect_OTC291_Tratada_TMKT B ON A.CPF = B.CPF\r\n    INNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce REL ON A.CPF = REL.CPF_CNPJ_Cliente__c\r\n    INNER JOIN Contact_Salesforce C on RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, C.HC_CPF_CNPJ__c), 11) = B.CPF\r\n    INNER JOIN ACCOUNT_SALESFORCE D on C.AccountId = D.ID\r\n    ) BASE\r\nWHERE ROW_ID = 1",
+  "targetName": "Tb_Base_Prospect_Offline_Clientes_ComOTC_TMKT",
+  "targetKey": "EF64561E-423E-4E0B-B348-7436E40A1795",
+  "targetId": "b3989c09-9470-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-16T14:53:33.18",
+  "modifiedDate": "2023-04-24T11:44:34.92",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29381,
+  "isFrozen": false
+}

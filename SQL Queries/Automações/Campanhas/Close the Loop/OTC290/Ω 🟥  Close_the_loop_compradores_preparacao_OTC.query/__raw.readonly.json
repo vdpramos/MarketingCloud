@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7b82828e-e3c9-42bb-b74c-b3ef2fca0333",
+  "name": "Close_the_loop_compradores_preparacao_OTC",
+  "key": "68a8c75b-f86d-4e0f-8fee-20577d838dfa",
+  "description": "",
+  "queryText": "SELECT x.*\nFROM\n    (\n    \tSELECT *,\n        \t'Compradores' AS Interacao,\n        \tROW_NUMBER() OVER (PARTITION BY CPF_CNPJ ORDER BY Inicio DESC) ranking\n    \tFROM Close_the_loop_compradores\n    \tWHERE\n        \tId_contato NOT IN (\n        \t\tSELECT Id_contato FROM Close_the_loop_contemplados\n        \t)\n        \tAND Id_contato NOT IN (\n        \t\tSELECT Id_contato FROM Close_the_loop_cancelados\n        \t)\n    ) x\nWHERE\n    x.ranking = 1",
+  "targetName": "Close_the_loop_preparacao_OTC_tratada",
+  "targetKey": "FCFFBBA0-F8CE-4B5B-9ADD-F136527213A4",
+  "targetId": "1b92735f-c174-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-12-15T14:22:32.563",
+  "modifiedDate": "2023-04-26T10:29:27.233",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 56141,
+  "isFrozen": false
+}

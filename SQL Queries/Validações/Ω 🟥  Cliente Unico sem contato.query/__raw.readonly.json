@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "0f4289a0-2af3-43b5-81f3-ba1e335b90b8",
+  "name": "Cliente Unico sem contato",
+  "key": "0F4289A0-2AF3-43B5-81F3-BA1E335B90B8",
+  "description": "",
+  "queryText": "SELECT 'Cliente' as HC_Tipo_de_Relacionamento__c, \na.Id as accountid, \na.Name, \na.HC_CPF_CNPJ_Cliente__c, \na.HC_Tipo_de_Pessoa__c\nFROM Account_salesforce a\ninner join ClienteUnicoSemContato c\n    on a.id = c.accountId",
+  "targetName": "ClienteUnicoSemContato_Tratado",
+  "targetKey": "E8B1FD32-20EB-4E05-A157-D25D03C63365",
+  "targetId": "8074b9ed-6d04-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-06T06:12:27.187",
+  "modifiedDate": "2023-06-06T07:44:55.88",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

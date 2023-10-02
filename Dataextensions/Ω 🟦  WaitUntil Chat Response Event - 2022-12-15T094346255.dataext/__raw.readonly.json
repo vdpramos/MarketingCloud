@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "F0AC640E-4FD9-4BB3-831A-FAA1FA4CED6C"
+  ],
+  "Name": [
+    "WaitUntil Chat Response Event - 2022-12-15T094346255"
+  ]
+}

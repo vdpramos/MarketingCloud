@@ -1,0 +1,16 @@
+Dataextension name: Tb_Base_Prospect_Offline_Campanhas_ComOTC_TMKT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| COD_PARCEIRO         | Text(30)        | false    | false    |                 |
+| CPF                  | Text(30)        | false    | false    |                 |
+| CNPJ                 | Text(15)        | false    | false    |                 |
+| Id_Cliente_Parceiro  | Text(30)        | false    | false    |                 |
+| Id_Campanha          | Text(30)        | false    | false    |                 |
+| Id                   | Text(30)        | false    | false    |                 |
+| Id_Contato           | Text(30)        | false    | false    |                 |
+| TEL_01               | Text(30)        | false    | false    |                 |
+| TEL_02               | Text(30)        | false    | false    |                 |
+| TEL_03               | Text(30)        | false    | false    |                 |
+| TEL_04               | Text(30)        | false    | false    |                 |
+| TEL_05               | Text(30)        | false    | false    |                 |

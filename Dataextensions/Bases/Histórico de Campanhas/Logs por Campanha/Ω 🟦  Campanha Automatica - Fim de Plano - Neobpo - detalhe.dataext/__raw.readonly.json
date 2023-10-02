@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "ED4D50B8-6B8D-4D55-A0B0-77AAB4749425"
+  ],
+  "Name": [
+    "Campanha Automatica - Fim de Plano - Neobpo - detalhe"
+  ]
+}

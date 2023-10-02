@@ -1,0 +1,9 @@
+Dataextension name: Tb_Base_Prospect_Offline_Enderecos_SemOTC_NeoBpo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Cod_Parceiro         | Text(300)       | false    | false    |                 |
+| CPF                  | Text(300)       | false    | false    |                 |
+| CNPJ                 | Text(300)       | false    | false    |                 |
+| CEP                  | Text(300)       | false    | false    |                 |
+| Inicio_Trailler      | Text(300)       | false    | false    |                 |

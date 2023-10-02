@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "9D2F516F-D333-48C0-B9CF-A0F3947B9749"
+  ],
+  "Name": [
+    "Tb_Log_Resultados_de_Avaliacao_Prospect_Online1"
+  ]
+}

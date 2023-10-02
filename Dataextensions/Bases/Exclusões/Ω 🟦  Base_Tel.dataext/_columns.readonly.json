@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "7768fe64-473b-4305-9c2b-cbcc4e4975fc",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Campanha",
+    "FieldType": "Text",
+    "ObjectID": "8117a085-2667-4118-b325-26833f066fc1",
+    "MaxLength": "200",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Data_Participacao_Campanha",
+    "FieldType": "Date",
+    "ObjectID": "5378f686-0ec5-4a59-a4da-489b79dccb37",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GetDate()",
+    "Ordinal": 2
+  }
+]

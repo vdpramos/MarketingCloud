@@ -1,0 +1,8 @@
+Dataextension name: CLICKS_INFOS_REPORT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| SubscriberKey        | Text(254)       | false    | false    |                 |
+| Campanha             | Text(254)       | false    | false    |                 |
+| Qtde_Clicks          | Number          | false    | false    |                 |
+| JobID                | Number          | false    | false    |                 |

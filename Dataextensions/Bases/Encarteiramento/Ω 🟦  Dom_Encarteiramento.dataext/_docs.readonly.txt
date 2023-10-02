@@ -1,0 +1,6 @@
+Dataextension name: Dom_Encarteiramento
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_ENCARTEIRAMENTO   | Text(50)        | true     | true     |                 |
+| DESC_ENCARTEIRAMENTO | Text(256)       | true     | false    |                 |

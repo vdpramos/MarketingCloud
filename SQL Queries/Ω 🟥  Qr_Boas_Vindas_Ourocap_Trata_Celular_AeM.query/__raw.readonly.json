@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "07bacaee-587e-435f-b1e9-929ebb96644c",
+  "name": "Qr_Boas_Vindas_Ourocap_Trata_Celular_AeM",
+  "key": "07BACAEE-587E-435F-B1E9-929EBB96644C",
+  "description": "",
+  "queryText": "SELECT\n  A.CPF_CNPJ,\n  A.Id,\n  '55' + REPLACE(REPLACE(REPLACE(REPLACE(A.HC_Celular_1__c, '(', ''), ')', ''), ' ', ''), '-', '') AS HC_Celular_1__c\nFROM AeM_propostas_n_pagas_vfinal A\nWHERE HC_Celular_1__c IS NOT NULL",
+  "targetName": "AeM_propostas_n_pagas_vfinal",
+  "targetKey": "91499681-E8E4-45DC-83A9-E982B9B4B52E",
+  "targetId": "8fb6f7fd-3a40-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2023-08-21T11:48:25.67",
+  "modifiedDate": "2023-08-21T11:49:58.967",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 1930,
+  "isFrozen": false
+}

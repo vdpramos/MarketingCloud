@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "873d0d78-8719-4b7a-a3dd-9fdf0b42ee2d",
+  "name": "Src_Fim_De_Plano_PU_PP_CleanDes_TMKT",
+  "key": "46caaae3-59f3-4909-a211-9b60d3e7ab6b",
+  "description": "Limpar as bases para impedir a duplicação da campanha (já foi executada)\n",
+  "script": " <script runat=server>\n  Platform.Load(\"Core\", \"1.1.5\");\n  var api = new Script.Util.WSProxy();\n\n  var BASE_OTC290_FILTRADA =\"CCD2E306-B664-4279-AF88-DF774796B67B\"; // DE que enviou o OTC290\n  var BASE_OTC291_TRATADA = \"F414C6B4-2CFB-4E18-9221-4AB32CEC9270\"; // DE que recebe o OTC291 tratado\n\n  var action = \"ClearData\";\n  var opts = {};\n  var props_BASE_OTC290_FILTRADA = {\n    CustomerKey: BASE_OTC290_FILTRADA\n  };\n\n  var props_BASE_OTC291_TRATADA = {\n    CustomerKey: BASE_OTC291_TRATADA\n  };\n  \n  api.performItem(\"DataExtension\", props_BASE_OTC290_FILTRADA, action, opts);\n  api.performItem(\"DataExtension\", props_BASE_OTC291_TRATADA, action, opts);\n\n </script>",
+  "categoryId": 1937,
+  "createdDate": "2023-07-20T10:54:41.483",
+  "modifiedDate": "2023-07-25T08:33:38.677"
+}

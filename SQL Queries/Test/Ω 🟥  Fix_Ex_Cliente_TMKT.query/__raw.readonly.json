@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "cb4116f5-e536-4a16-bd55-3c5bd934e18a",
+  "name": "Fix_Ex_Cliente_TMKT",
+  "key": "cf17524c-94ba-4f6b-8870-bd8ab99b9c2a",
+  "description": "Temporario para resgatar contatos e inserir novamente na Jornada",
+  "queryText": "select\r\n  b.cpf_cnpj as CPF,\r\n  b.id,\r\n  b.Id_campanha,\r\n  b.id_contato as id_contado,\r\n  b.CPF_CNPJ_Codigo_do_Parceiro as CPF_CNPJ_Codigo_do_Parceiro,\r\n  Left(B.NOME, CharIndex(' ', B.NOME)) AS PRIMEIRO_NOME,\r\n  Reverse(Left(Reverse(B.Nome), CharIndex(' ', Reverse(B.Nome)))) AS SOBRENOME,\r\n  CONCAT(b.cpf_cnpj,'Cliente') as CPF_Tipo_Relacionamento,\r\n  b.Id_Cliente_Parceiro\r\nfrom Tb_Base_Ex_Clientes_Offline_Clientes_ComOTC_tmkt a\r\ninner join Tb_Base_Ex_Cliente_ComOTC_TMKT b on a.cpf = b.cpf_cnpj",
+  "targetName": "Tb_Base_Ex_Cliente_OTC291_Filtrada_TMKT",
+  "targetKey": "CF744578-7D37-4CF6-8143-F7B10DACE003",
+  "targetId": "7d5a91fb-b4d3-eb11-a300-48df370ed7f4",
+  "targetDescription": "",
+  "createdDate": "2021-11-04T02:17:42.227",
+  "modifiedDate": "2021-11-04T08:17:21.35",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 37332,
+  "isFrozen": false
+}

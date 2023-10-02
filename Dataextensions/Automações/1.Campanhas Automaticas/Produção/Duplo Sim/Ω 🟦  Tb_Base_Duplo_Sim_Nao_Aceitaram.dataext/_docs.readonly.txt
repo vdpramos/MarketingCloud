@@ -1,0 +1,20 @@
+Dataextension name: Tb_Base_Duplo_Sim_Nao_Aceitaram
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(20)        | true     | true     |                 |
+| NOMECOMPLETO         | Text(250)       | false    | false    |                 |
+| NOMEALERTA           | Text(50)        | false    | false    |                 |
+| EMAIL                | EmailAddress    | false    | false    |                 |
+| TELEFONE             | Text(20)        | false    | false    |                 |
+| GTALK                | Text(50)        | false    | false    |                 |
+| FACEBOOK             | Text(250)       | false    | false    |                 |
+| TWITTER              | Text(100)       | false    | false    |                 |
+| JABBER               | Text(50)        | false    | false    |                 |
+| PIN                  | Text(30)        | false    | false    |                 |
+| TAG                  | Text(50)        | false    | false    |                 |
+| PRIMEIRO_NOME        | Text(50)        | false    | false    |                 |
+| ESTADO               | Text(50)        | false    | false    |                 |
+| SIT_CAD              | Text(50)        | false    | false    |                 |
+| FLAG                 | Text(50)        | false    | false    |                 |
+| FLG_ENVIO            | Boolean         | false    | false    | False           |

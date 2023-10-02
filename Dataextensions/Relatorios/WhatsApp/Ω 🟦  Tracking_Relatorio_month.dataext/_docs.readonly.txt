@@ -1,0 +1,15 @@
+Dataextension name: Tracking_Relatorio_month
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ContactKey           | Text(50)        | false    | false    |                 |
+| CPF_CNPJ             | Text(50)        | false    | false    |                 |
+| ID_PROPOSTA          | Text(50)        | false    | false    |                 |
+| MobileNumber         | Text(50)        | false    | false    |                 |
+| JourneyName          | Text            | false    | false    |                 |
+| enviado              | Text(50)        | false    | false    |                 |
+| data_do_envio        | Text(50)        | false    | false    |                 |
+| entregue             | Text(50)        | false    | false    |                 |
+| data_da_entrega      | Text(50)        | false    | false    |                 |
+| lido                 | Text(50)        | false    | false    |                 |
+| data_da_leitura      | Text(50)        | false    | false    |                 |

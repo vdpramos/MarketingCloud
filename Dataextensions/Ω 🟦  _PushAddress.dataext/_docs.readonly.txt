@@ -1,0 +1,39 @@
+Dataextension name: _PushAddress
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| _ContactID           | Text            | true     | false    |                 |
+| _DeviceID            | Text(200)       | true     | false    |                 |
+| _APID                | Text(38)        | true     | false    |                 |
+| _Status              | Text            | false    | false    |                 |
+| _Source              | Text            | false    | false    |                 |
+| _SourceObjectId      | Text(200)       | false    | false    |                 |
+| _Platform            | Text(100)       | false    | false    |                 |
+| _PlatformVersion     | Text(100)       | false    | false    |                 |
+| _Alias               | Text(100)       | false    | false    |                 |
+| _OptOutStatusID      | Text            | false    | false    |                 |
+| _OptOutMethodID      | Text            | false    | false    |                 |
+| _OptOutDate          | Date            | false    | false    |                 |
+| _OptInStatusID       | Text            | true     | false    | 0               |
+| _OptInMethodID       | Text            | false    | false    |                 |
+| _OptInDate           | Date            | false    | false    |                 |
+| _Channel             | Text(20)        | false    | false    |                 |
+| _CreatedDate         | Date            | true     | false    | GETDATE()       |
+| _CreatedBy           | Text            | false    | false    |                 |
+| _ModifiedDate        | Date            | true     | false    | GETDATE()       |
+| _ModifiedBy          | Text            | false    | false    |                 |
+| _City                | Text(200)       | false    | false    |                 |
+| _State               | Text(200)       | false    | false    |                 |
+| _ZipCode             | Text(20)        | false    | false    |                 |
+| _FirstName           | Text(100)       | false    | false    |                 |
+| _LastName            | Text(100)       | false    | false    |                 |
+| _UTCOffset           | Decimal(4,2)    | false    | false    | 0               |
+| _IsHonorDST          | Boolean         | false    | false    | false           |
+| _SystemToken         | Text(4000)      | false    | false    |                 |
+| _ProviderToken       | Text(200)       | false    | false    |                 |
+| _Badge               | Number          | false    | false    |                 |
+| _LocationEnabled     | Boolean         | false    | false    |                 |
+| _TimeZone            | Text(50)        | false    | false    |                 |
+| _Device              | Text(100)       | false    | false    |                 |
+| _HardwareId          | Text(100)       | false    | false    |                 |
+| _DeviceType          | Text(20)        | false    | false    |                 |

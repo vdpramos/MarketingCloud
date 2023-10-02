@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "3D8DA4B6-A108-4334-9843-FCA94D3B2209"
+  ],
+  "Name": [
+    "Flag_Publico_Inicial_Ex_Cliente_NeoBpo"
+  ]
+}

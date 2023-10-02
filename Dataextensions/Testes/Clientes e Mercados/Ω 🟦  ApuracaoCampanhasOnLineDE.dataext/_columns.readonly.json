@@ -1,0 +1,90 @@
+[
+  {
+    "Name": "IdCampanha",
+    "FieldType": "Text",
+    "ObjectID": "3b677984-2e92-42a4-9e67-16bcc26e65a9",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "e6d310e5-6d09-4a42-941c-7c7bf060019c",
+    "MaxLength": "15",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "NomeCliente",
+    "FieldType": "Text",
+    "ObjectID": "d9877d59-1c1a-42be-853e-0cb83aa89a5b",
+    "MaxLength": "200",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Resultado",
+    "FieldType": "Text",
+    "ObjectID": "bab6e58c-bfd7-46ec-9f2a-1674c676623b",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Motivo",
+    "FieldType": "Text",
+    "ObjectID": "8bd442c4-0019-44a4-921e-5ff353147865",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "DisparoCampanha",
+    "FieldType": "Date",
+    "ObjectID": "af95867a-b079-4c57-be02-ccedafaec86a",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "AtualizacaoStatusMembro",
+    "FieldType": "Date",
+    "ObjectID": "d6dc31c3-8c12-4100-91c1-b88cdca4ee08",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "Fornecedor",
+    "FieldType": "Text",
+    "ObjectID": "99432b2d-fd35-4e34-b7bc-1de3c0427eed",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  }
+]

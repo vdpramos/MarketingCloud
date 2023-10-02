@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e48e293e-2b2f-469a-baca-795d1a35177b",
+  "name": "Base Susep - Atualiza Classificação",
+  "key": "E48E293E-2B2F-469A-BACA-795D1A35177B",
+  "description": "",
+  "queryText": "select bs.CPF_CNPJ, cc.Classificacao as Cliente\nfrom BaseSusep_Enriquecimento bs\ninner join ClassificacaoPorCPF cc\n    on bs.cpf_cnpj = cc.cpf_cnpj",
+  "targetName": "BaseSusep_Enriquecimento",
+  "targetKey": "8807B4CC-7327-45E2-86C2-08F5A07B6A0A",
+  "targetId": "e99999e6-1de5-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-04-27T10:23:38.867",
+  "modifiedDate": "2023-06-05T13:54:21.363",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 62093,
+  "isFrozen": false
+}

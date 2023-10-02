@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "00EC5504-F227-441A-85A4-EE0BB450C5D6"
+  ],
+  "Name": [
+    "Tb_Pos_Sorteio_Filtrada"
+  ]
+}

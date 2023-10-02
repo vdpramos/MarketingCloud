@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "38DE7EF2-57F6-48AB-BC06-1814E442B448"
+  ],
+  "Name": [
+    "Tb_Base_Aviso_De_Pagamento"
+  ]
+}

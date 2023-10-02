@@ -1,0 +1,7 @@
+Dataextension name: ClienteParceiro_Analise
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| id                   | Text(50)        | false    | false    |                 |
+| mes                  | Text(50)        | false    | false    |                 |
+| createddate          | Text(50)        | false    | false    |                 |

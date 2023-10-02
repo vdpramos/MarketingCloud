@@ -1,0 +1,5 @@
+Dataextension name: ClientesComReclamacaoOuvidoria
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ_PARCEIRO    | Text(50)        | true     | false    |                 |

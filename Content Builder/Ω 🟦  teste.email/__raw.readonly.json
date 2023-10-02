@@ -1,0 +1,123 @@
+{
+  "id": 2110,
+  "customerKey": "5470e10a-b148-44da-b99b-c6a8f43c6c5b",
+  "objectID": "6c01ff7b-fe8f-4dad-b50b-603d00461d08",
+  "contentType": "application/vnd.etmc.email.Message; kind=textOnly",
+  "assetType": {
+    "id": 209,
+    "name": "textonlyemail",
+    "displayName": "Text Only Email"
+  },
+  "name": "teste",
+  "description": "teste",
+  "owner": {
+    "id": 713132115,
+    "email": "gustavo.valentini@harpiacloud.com.br",
+    "name": "Gustavo Valentini",
+    "userId": "713132115"
+  },
+  "createdDate": "2020-04-20T12:36:55.687-06:00",
+  "createdBy": {
+    "id": 713132115,
+    "email": "gustavo.valentini@harpiacloud.com.br",
+    "name": "Gustavo Valentini",
+    "userId": "713132115"
+  },
+  "modifiedDate": "2020-04-20T12:37:08.707-06:00",
+  "modifiedBy": {
+    "id": 713132115,
+    "email": "gustavo.valentini@harpiacloud.com.br",
+    "name": "Gustavo Valentini",
+    "userId": "713132115"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/2110/thumbnail"
+  },
+  "category": {
+    "id": 1942,
+    "name": "Content Builder",
+    "parentId": 0
+  },
+  "views": {
+    "subjectline": {
+      "contentType": "application/vnd.etmc.email.View; kind=subjectline",
+      "content": "teste",
+      "meta": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "text": {
+      "content": "teste",
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "subscriptioncenter": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardText": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    }
+  },
+  "availableViews": [
+    "subjectline",
+    "text",
+    "subscriptioncenter",
+    "forwardText"
+  ],
+  "data": {
+    "email": {
+      "options": {
+        "characterEncoding": "utf-8"
+      },
+      "legacy": {
+        "legacyId": 684,
+        "legacyKey": "5470e10a-b148-44da-b99b-c6a8f43c6c5b",
+        "legacyType": "email",
+        "legacyCategoryId": 1944
+      }
+    }
+  },
+  "legacyData": {
+    "legacyId": 684,
+    "legacyKey": "5470e10a-b148-44da-b99b-c6a8f43c6c5b",
+    "legacyType": "email",
+    "legacyCategoryId": 1944
+  },
+  "modelVersion": 2
+}

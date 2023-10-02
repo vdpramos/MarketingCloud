@@ -1,0 +1,6410 @@
+[
+  {
+    "_CustomObjectKey": "22794",
+    "ID_TITULO": "84379",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005g9I2AAI",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22795",
+    "ID_TITULO": "2871",
+    "ID_SERIE": "AB",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005heMoAAI",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22796",
+    "ID_TITULO": "394348",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005c7EIAAY",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22797",
+    "ID_TITULO": "19555",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005h7RtAAI",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22798",
+    "ID_TITULO": "571488",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48I ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hQpKAAU",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22799",
+    "ID_TITULO": "93204",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005deUGAAY",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22800",
+    "ID_TITULO": "467313",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005eS7yAAE",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22801",
+    "ID_TITULO": "469336",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005d8BRAAY",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "22802",
+    "ID_TITULO": "401762",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005dsq5AAA",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22803",
+    "ID_TITULO": "524854",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48H ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005u9o8AAA",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "22804",
+    "ID_TITULO": "41816",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ec9iAAA",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22805",
+    "ID_TITULO": "30578",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005giaUAAQ",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "22806",
+    "ID_TITULO": "42116",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005gwdDAAQ",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "22807",
+    "ID_TITULO": "40445",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "C48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005koztAAA",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "22808",
+    "ID_TITULO": "21525",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hFybAAE",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22809",
+    "ID_TITULO": "45666",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005lC1DAAU",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "22810",
+    "ID_TITULO": "80409",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hy2hAAA",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22811",
+    "ID_TITULO": "58751",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005iDi2AAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22812",
+    "ID_TITULO": "473439",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tLDNAA2",
+    "DATA_SORTEIO": "2021-08-21"
+  },
+  {
+    "_CustomObjectKey": "22813",
+    "ID_TITULO": "1756",
+    "ID_SERIE": "AB",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005jENRAA2",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22814",
+    "ID_TITULO": "296996",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005jH7JAAU",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "22815",
+    "ID_TITULO": "92086",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM486 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005njUvAAI",
+    "DATA_SORTEIO": "2021-10-02"
+  },
+  {
+    "_CustomObjectKey": "22816",
+    "ID_TITULO": "516960",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tQCGAA2",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "22817",
+    "ID_TITULO": "9721",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005oQEbAAM",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22818",
+    "ID_TITULO": "87787",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "C48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005orDzAAI",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22819",
+    "ID_TITULO": "40814",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005paH9AAI",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "22820",
+    "ID_TITULO": "386814",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48O ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nVMCAA2",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22821",
+    "ID_TITULO": "303249",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nVmuAAE",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22822",
+    "ID_TITULO": "16235",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qRgCAAU",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22823",
+    "ID_TITULO": "75368",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005oSGbAAM",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22824",
+    "ID_TITULO": "210588",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005bvlpAAA",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "22825",
+    "ID_TITULO": "393752",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rJcGAAU",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "22826",
+    "ID_TITULO": "55784",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rSiPAAU",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22827",
+    "ID_TITULO": "412371",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005pHTnAAM",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22828",
+    "ID_TITULO": "87602",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rcTzAAI",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22829",
+    "ID_TITULO": "286361",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005uCR3AAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22830",
+    "ID_TITULO": "233999",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005sagPAAQ",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "22831",
+    "ID_TITULO": "554955",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005eKrtAAE",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "22832",
+    "ID_TITULO": "20777",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005eN8LAAU",
+    "DATA_SORTEIO": "2021-10-02"
+  },
+  {
+    "_CustomObjectKey": "22833",
+    "ID_TITULO": "4692",
+    "ID_SERIE": "AB",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ecYUAAY",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22834",
+    "ID_TITULO": "102435",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005edWmAAI",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22835",
+    "ID_TITULO": "25912",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005fZRpAAM",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22836",
+    "ID_TITULO": "38377",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005i07GAAQ",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22837",
+    "ID_TITULO": "91613",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005iPltAAE",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22838",
+    "ID_TITULO": "218012",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rbCzAAI",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "22839",
+    "ID_TITULO": "241586",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rzxqAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22840",
+    "ID_TITULO": "47425",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005lIbOAAU",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22841",
+    "ID_TITULO": "549203",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005mTs3AAE",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "22842",
+    "ID_TITULO": "370227",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005u6dSAAQ",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22843",
+    "ID_TITULO": "132268",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005muUbAAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22844",
+    "ID_TITULO": "19527",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005v7F5AAI",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22845",
+    "ID_TITULO": "44738",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000066aGSAAY",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22846",
+    "ID_TITULO": "87981",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005cOGsAAM",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22847",
+    "ID_TITULO": "8007",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vl0iAAA",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22848",
+    "ID_TITULO": "53535",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005cYhCAAU",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22849",
+    "ID_TITULO": "36146",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wDy4AAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22850",
+    "ID_TITULO": "394658",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48G ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005pGyUAAU",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22851",
+    "ID_TITULO": "432794",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM485 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065qIEAAY",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22852",
+    "ID_TITULO": "21387",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000066imkAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22853",
+    "ID_TITULO": "276256",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005pbGXAAY",
+    "DATA_SORTEIO": "2021-10-02"
+  },
+  {
+    "_CustomObjectKey": "22854",
+    "ID_TITULO": "71348",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005dOE3AAM",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22855",
+    "ID_TITULO": "45947",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qMl2AAE",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22856",
+    "ID_TITULO": "397757",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM486 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005r0PeAAI",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22857",
+    "ID_TITULO": "372185",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qkw5AAA",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22858",
+    "ID_TITULO": "53309",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005eXp0AAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22859",
+    "ID_TITULO": "24944",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ecQQAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22860",
+    "ID_TITULO": "55388",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005s7dpAAA",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "22861",
+    "ID_TITULO": "72055",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005s9LOAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22862",
+    "ID_TITULO": "131205",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000068iUBAAY",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22863",
+    "ID_TITULO": "546905",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005fAPrAAM",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "22864",
+    "ID_TITULO": "38101",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005f2omAAA",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "22865",
+    "ID_TITULO": "133124",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tEmjAAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22866",
+    "ID_TITULO": "124080",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMN48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ylB9AAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22867",
+    "ID_TITULO": "92669",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tJYzAAM",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22868",
+    "ID_TITULO": "314663",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PUA36 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006A1QiAAK",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22869",
+    "ID_TITULO": "228183",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AGGBAA4",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "22870",
+    "ID_TITULO": "90055",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005fo98AAA",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22871",
+    "ID_TITULO": "40023",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005fqBkAAI",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "22872",
+    "ID_TITULO": "77165",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005gB1GAAU",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22873",
+    "ID_TITULO": "88286",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005uq60AAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22874",
+    "ID_TITULO": "100976",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005gF4LAAU",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22875",
+    "ID_TITULO": "48905",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Az5OAAS",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22876",
+    "ID_TITULO": "5851",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005g3tEAAQ",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22877",
+    "ID_TITULO": "21021",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005gEHPAA2",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22878",
+    "ID_TITULO": "82440",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005yt3AAAQ",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22879",
+    "ID_TITULO": "386733",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005gdIRAAY",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22880",
+    "ID_TITULO": "112459",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMI48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vR2kAAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22881",
+    "ID_TITULO": "31457",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60E ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hI0pAAE",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22882",
+    "ID_TITULO": "48487",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMD60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hNVYAA2",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22883",
+    "ID_TITULO": "10765",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006CPeGAAW",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22884",
+    "ID_TITULO": "453214",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48I ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hHNyAAM",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "22885",
+    "ID_TITULO": "24316",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006ClszAAC",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "22886",
+    "ID_TITULO": "8613",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMG60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Cr6jAAC",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22887",
+    "ID_TITULO": "17901",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006DIg7AAG",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22888",
+    "ID_TITULO": "106843",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005i3pLAAQ",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22889",
+    "ID_TITULO": "19954",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005i55tAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22890",
+    "ID_TITULO": "211431",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005yBK9AAM",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "22891",
+    "ID_TITULO": "498937",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005iHxzAAE",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "22892",
+    "ID_TITULO": "457624",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005iDq1AAE",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "22893",
+    "ID_TITULO": "34072",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006EhLXAA0",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "22894",
+    "ID_TITULO": "88881",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005idqiAAA",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22895",
+    "ID_TITULO": "560754",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM486 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005inI8AAI",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22896",
+    "ID_TITULO": "240637",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000641unAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22897",
+    "ID_TITULO": "563422",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM486 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060uUOAAY",
+    "DATA_SORTEIO": "2021-12-18"
+  },
+  {
+    "_CustomObjectKey": "22898",
+    "ID_TITULO": "407444",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061kngAAA",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22899",
+    "ID_TITULO": "19037",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005k6gRAAQ",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "22900",
+    "ID_TITULO": "590753",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005jmGPAAY",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22901",
+    "ID_TITULO": "230676",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005kfxDAAQ",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "22902",
+    "ID_TITULO": "60633",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000616YcAAI",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22903",
+    "ID_TITULO": "78133",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "F48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063LCdAAM",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "22904",
+    "ID_TITULO": "37233",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061JynAAE",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "22905",
+    "ID_TITULO": "195874",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061V9qAAE",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "22906",
+    "ID_TITULO": "20652",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006DBdxAAG",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22907",
+    "ID_TITULO": "56109",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PML48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005kdHqAAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22908",
+    "ID_TITULO": "240332",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063zWuAAI",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "22909",
+    "ID_TITULO": "93182",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005zBW5AAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22910",
+    "ID_TITULO": "18964",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM605 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000066HM2AAM",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "22911",
+    "ID_TITULO": "473128",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005zFDfAAM",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22912",
+    "ID_TITULO": "439692",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM486 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000066lVAAAY",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22913",
+    "ID_TITULO": "316063",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PUA36 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000066NL0AAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22914",
+    "ID_TITULO": "617438",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48G ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FPzCAAW",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22915",
+    "ID_TITULO": "379399",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005m1NzAAI",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "22916",
+    "ID_TITULO": "24791",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GD7IAAW",
+    "DATA_SORTEIO": "2022-01-15"
+  },
+  {
+    "_CustomObjectKey": "22917",
+    "ID_TITULO": "48660",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FaeVAAS",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "22918",
+    "ID_TITULO": "615504",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000689klAAA",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22919",
+    "ID_TITULO": "27456",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GhFdAAK",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22920",
+    "ID_TITULO": "122100",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMI48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000068caNAAQ",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22921",
+    "ID_TITULO": "467354",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM486 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000068PhhAAE",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22922",
+    "ID_TITULO": "72523",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMD48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000068f4oAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22923",
+    "ID_TITULO": "84550",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005miakAAA",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22924",
+    "ID_TITULO": "112932",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMN48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005mUUIAA2",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22925",
+    "ID_TITULO": "262622",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "F48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006IsqwAAC",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22926",
+    "ID_TITULO": "93402",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMD60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000069HbBAAU",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22927",
+    "ID_TITULO": "51542",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000069tdwAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22928",
+    "ID_TITULO": "211651",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005n2yIAAQ",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "22929",
+    "ID_TITULO": "536700",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48I ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005sCF4AAM",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "22930",
+    "ID_TITULO": "455540",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AdsIAAS",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22931",
+    "ID_TITULO": "223439",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006BTFzAAO",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "22932",
+    "ID_TITULO": "459334",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006MtIDAA0",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22933",
+    "ID_TITULO": "10490",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nVkDAAU",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22934",
+    "ID_TITULO": "11400",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nwvkAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22935",
+    "ID_TITULO": "18543",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006BOGHAA4",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22936",
+    "ID_TITULO": "467989",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006N6fEAAS",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22937",
+    "ID_TITULO": "105586",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMD48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006BtWYAA0",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22938",
+    "ID_TITULO": "73320",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005o2XCAAY",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22939",
+    "ID_TITULO": "81579",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMF48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005oAp0AAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22940",
+    "ID_TITULO": "168467",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM363 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006CgQ9AAK",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22941",
+    "ID_TITULO": "600194",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005oVSeAAM",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22942",
+    "ID_TITULO": "430590",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005odOgAAI",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22943",
+    "ID_TITULO": "15924",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM605 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005oew6AAA",
+    "DATA_SORTEIO": "2021-10-02"
+  },
+  {
+    "_CustomObjectKey": "22944",
+    "ID_TITULO": "101658",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ophaAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22945",
+    "ID_TITULO": "97000",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006E81OAAS",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22946",
+    "ID_TITULO": "26726",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005p2bzAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22947",
+    "ID_TITULO": "112318",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMD48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006EwlEAAS",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22948",
+    "ID_TITULO": "96169",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006ELXDAA4",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22949",
+    "ID_TITULO": "227854",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FRwYAAW",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "22950",
+    "ID_TITULO": "89534",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005pLHYAA2",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22951",
+    "ID_TITULO": "68688",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMI ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FBdrAAG",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22952",
+    "ID_TITULO": "204016",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FJRFAA4",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "22953",
+    "ID_TITULO": "128227",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005pZbsAAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22954",
+    "ID_TITULO": "81301",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMG60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000068IKhAAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22955",
+    "ID_TITULO": "32338",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM605 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005q0yMAAQ",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "22956",
+    "ID_TITULO": "299351",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GHokAAG",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22957",
+    "ID_TITULO": "18002",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qHWoAAM",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22958",
+    "ID_TITULO": "55214",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005q8woAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22959",
+    "ID_TITULO": "92929",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PUF36 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qZXyAAM",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22960",
+    "ID_TITULO": "228224",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qZq7AAE",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "22961",
+    "ID_TITULO": "200073",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006IBWmAAO",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "22962",
+    "ID_TITULO": "277112",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qeMIAAY",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "22963",
+    "ID_TITULO": "50065",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qLcKAAU",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "22964",
+    "ID_TITULO": "580353",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48O ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006IZ2QAAW",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22965",
+    "ID_TITULO": "79788",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMI48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qnVfAAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22966",
+    "ID_TITULO": "207294",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qSPHAA2",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "22967",
+    "ID_TITULO": "203981",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qdLKAAY",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "22968",
+    "ID_TITULO": "430206",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48G ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006IXXqAAO",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22969",
+    "ID_TITULO": "44532",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000062YsFAAU",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22970",
+    "ID_TITULO": "319076",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qko6AAA",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "22971",
+    "ID_TITULO": "65431",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMC ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rJCeAAM",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22972",
+    "ID_TITULO": "19625",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Kf7ZAAS",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22973",
+    "ID_TITULO": "547193",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rakjAAA",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "22974",
+    "ID_TITULO": "15951",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rqTQAAY",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22975",
+    "ID_TITULO": "32185",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60D ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006MdXPAA0",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22976",
+    "ID_TITULO": "28536",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMF48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006MjuoAAC",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22977",
+    "ID_TITULO": "8098",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMI48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005s1bBAAQ",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22978",
+    "ID_TITULO": "99293",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMN48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005t6JzAAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22979",
+    "ID_TITULO": "95467",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60E ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005snHNAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22980",
+    "ID_TITULO": "86158",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005t2CxAAI",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22981",
+    "ID_TITULO": "52365",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tsgOAAQ",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22982",
+    "ID_TITULO": "55467",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005uKXCAA2",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "22983",
+    "ID_TITULO": "228160",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005u5xSAAQ",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "22984",
+    "ID_TITULO": "408474",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005w05aAAA",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "22985",
+    "ID_TITULO": "408554",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005w1jIAAQ",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "22986",
+    "ID_TITULO": "83887",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wTyGAAU",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "22987",
+    "ID_TITULO": "2237",
+    "ID_SERIE": "AB",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005w7p1AAA",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "22988",
+    "ID_TITULO": "144957",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMG48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wW9sAAE",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22989",
+    "ID_TITULO": "56316",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wYD2AAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22990",
+    "ID_TITULO": "101230",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wOIKAA2",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "22991",
+    "ID_TITULO": "65848",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005x0ALAAY",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22992",
+    "ID_TITULO": "37109",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xR2aAAE",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22993",
+    "ID_TITULO": "469743",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48H ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xdOKAAY",
+    "DATA_SORTEIO": "2021-08-21"
+  },
+  {
+    "_CustomObjectKey": "22994",
+    "ID_TITULO": "458759",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005y55xAAA",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "22995",
+    "ID_TITULO": "420203",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005yYIfAAM",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "22996",
+    "ID_TITULO": "314963",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PUA36 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005yZYVAA2",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "22997",
+    "ID_TITULO": "8020",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "C36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005yLyWAAU",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "22998",
+    "ID_TITULO": "4808",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "36PMS ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005z7WaAAI",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "22999",
+    "ID_TITULO": "23200",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005zDxpAAE",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23000",
+    "ID_TITULO": "71429",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005zfitAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23001",
+    "ID_TITULO": "26611",
+    "ID_SERIE": "AB",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000A2S5FAAV",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23002",
+    "ID_TITULO": "446600",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48H ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005zs9ZAAQ",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23003",
+    "ID_TITULO": "87589",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005zydYAAQ",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23004",
+    "ID_TITULO": "83637",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060UZaAAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23005",
+    "ID_TITULO": "40111",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "36PM2 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060fkRAAQ",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23006",
+    "ID_TITULO": "204166",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060DxMAAU",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23007",
+    "ID_TITULO": "393214",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM487 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060y6YAAQ",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23008",
+    "ID_TITULO": "25722",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061hPQAAY",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23009",
+    "ID_TITULO": "38677",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061pFCAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23010",
+    "ID_TITULO": "98513",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000062PdyAAE",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23011",
+    "ID_TITULO": "2144",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000062bHiAAI",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23012",
+    "ID_TITULO": "217010",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000629ZXAAY",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23013",
+    "ID_TITULO": "484564",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000634Z7AAI",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23014",
+    "ID_TITULO": "2095",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMB36 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000062xuRAAQ",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23015",
+    "ID_TITULO": "44814",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063cofAAA",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23016",
+    "ID_TITULO": "615713",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063THaAAM",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23017",
+    "ID_TITULO": "113708",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMF48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063ZpIAAU",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23018",
+    "ID_TITULO": "72687",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000064NWkAAM",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23019",
+    "ID_TITULO": "227820",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006516DAAQ",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23020",
+    "ID_TITULO": "218372",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065WBpAAM",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23021",
+    "ID_TITULO": "233715",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065MKUAA2",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23022",
+    "ID_TITULO": "167340",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM363 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065N3lAAE",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23023",
+    "ID_TITULO": "147827",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM363 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005iX2oAAE",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23024",
+    "ID_TITULO": "442446",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005meLFAAY",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23025",
+    "ID_TITULO": "83958",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005lzoRAAQ",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23026",
+    "ID_TITULO": "70889",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000067LERAA2",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23027",
+    "ID_TITULO": "387696",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM486 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005pJHBAA2",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23028",
+    "ID_TITULO": "5769",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "C36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000677YBAAY",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23029",
+    "ID_TITULO": "42011",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000067AF8AAM",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23030",
+    "ID_TITULO": "303674",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tfhNAAQ",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23031",
+    "ID_TITULO": "85228",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000067mNLAAY",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23032",
+    "ID_TITULO": "56945",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000068f0jAAA",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23033",
+    "ID_TITULO": "211581",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wYrgAAE",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23034",
+    "ID_TITULO": "20584",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005uCOgAAM",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23035",
+    "ID_TITULO": "60226",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tSASAA2",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23036",
+    "ID_TITULO": "12116",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM605 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GRFsAAO",
+    "DATA_SORTEIO": "2021-10-02"
+  },
+  {
+    "_CustomObjectKey": "23037",
+    "ID_TITULO": "38851",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AGbhAAG",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23038",
+    "ID_TITULO": "43454",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMG60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005evbQAAQ",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23039",
+    "ID_TITULO": "557556",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AWhrAAG",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23040",
+    "ID_TITULO": "48244",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ykq9AAA",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23041",
+    "ID_TITULO": "321730",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hWFiAAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23042",
+    "ID_TITULO": "54087",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060hX3AAI",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23043",
+    "ID_TITULO": "39129",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005yO9VAAU",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23044",
+    "ID_TITULO": "67391",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006BFtaAAG",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23045",
+    "ID_TITULO": "32666",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000067dV6AAI",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23046",
+    "ID_TITULO": "331510",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005eqDbAAI",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23047",
+    "ID_TITULO": "594899",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM485 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006B23gAAC",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23048",
+    "ID_TITULO": "516825",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005gO6KAAU",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23049",
+    "ID_TITULO": "208220",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "F48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060AdWAAU",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23050",
+    "ID_TITULO": "612462",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48O ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061YHSAA2",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23051",
+    "ID_TITULO": "15627",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qBgKAAU",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23052",
+    "ID_TITULO": "34981",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rAitAAE",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23053",
+    "ID_TITULO": "377822",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM486 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005u66EAAQ",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23054",
+    "ID_TITULO": "15165",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005gaRRAAY",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23055",
+    "ID_TITULO": "5103",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000698ogAAA",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23056",
+    "ID_TITULO": "21525",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006BVsYAAW",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23057",
+    "ID_TITULO": "459272",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006BWAOAA4",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23058",
+    "ID_TITULO": "45641",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063LYLAA2",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23059",
+    "ID_TITULO": "58329",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006C6LXAA0",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23060",
+    "ID_TITULO": "21458",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GbjgAAC",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23061",
+    "ID_TITULO": "96576",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMI48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hDzRAAU",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23062",
+    "ID_TITULO": "20841",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006BnKFAA0",
+    "DATA_SORTEIO": "2021-11-06"
+  },
+  {
+    "_CustomObjectKey": "23063",
+    "ID_TITULO": "221107",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065J6AAAU",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23064",
+    "ID_TITULO": "452076",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065xiyAAA",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23065",
+    "ID_TITULO": "59227",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000669myAAA",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23066",
+    "ID_TITULO": "24658",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000064jRNAAY",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23067",
+    "ID_TITULO": "8775",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006CTvBAAW",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23068",
+    "ID_TITULO": "110263",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMG48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065O78AAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23069",
+    "ID_TITULO": "217164",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nyAaAAI",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23070",
+    "ID_TITULO": "31502",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60E ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005dS88AAE",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23071",
+    "ID_TITULO": "543402",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48G ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006A0ZxAAK",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23072",
+    "ID_TITULO": "405934",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006ARg0AAG",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23073",
+    "ID_TITULO": "216980",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AcKoAAK",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23074",
+    "ID_TITULO": "424939",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006EUDdAAO",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23075",
+    "ID_TITULO": "36748",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006EdguAAC",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23076",
+    "ID_TITULO": "21064",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Ei2OAAS",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23077",
+    "ID_TITULO": "65856",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006ENRhAAO",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23078",
+    "ID_TITULO": "515152",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48I ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FJw1AAG",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23079",
+    "ID_TITULO": "606049",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FbwaAAC",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23080",
+    "ID_TITULO": "69023",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006F2frAAC",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23081",
+    "ID_TITULO": "84055",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006IoDAAA0",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23082",
+    "ID_TITULO": "488190",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005knYSAAY",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23083",
+    "ID_TITULO": "90939",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FjZBAA0",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23084",
+    "ID_TITULO": "65576",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000066lt0AAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23085",
+    "ID_TITULO": "240695",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005lwttAAA",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23086",
+    "ID_TITULO": "25505",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hwaJAAQ",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23087",
+    "ID_TITULO": "22810",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Id4XAAS",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23088",
+    "ID_TITULO": "38890",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GeS6AAK",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23089",
+    "ID_TITULO": "551060",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48D ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006LF6sAAG",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23090",
+    "ID_TITULO": "501684",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GN1wAAG",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23091",
+    "ID_TITULO": "17560",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006H1f9AAC",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23092",
+    "ID_TITULO": "572950",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GaT3AAK",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23093",
+    "ID_TITULO": "20901",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FIIUAA4",
+    "DATA_SORTEIO": "2021-09-04"
+  },
+  {
+    "_CustomObjectKey": "23094",
+    "ID_TITULO": "206",
+    "ID_SERIE": "AB",
+    "ID_PLANO": "C60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006N4hYAAS",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23095",
+    "ID_TITULO": "8602",
+    "ID_SERIE": "AB",
+    "ID_PLANO": "PUH48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006HmbPAAS",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23096",
+    "ID_TITULO": "203797",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM486 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006HlkGAAS",
+    "DATA_SORTEIO": "2021-09-04"
+  },
+  {
+    "_CustomObjectKey": "23097",
+    "ID_TITULO": "24216",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005kQV1AAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23098",
+    "ID_TITULO": "69318",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006JG6WAAW",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23099",
+    "ID_TITULO": "50447",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000064l21AAA",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23100",
+    "ID_TITULO": "233512",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Jr2lAAC",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23101",
+    "ID_TITULO": "25840",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006KYvnAAG",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23102",
+    "ID_TITULO": "85675",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006JnJrAAK",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23103",
+    "ID_TITULO": "29623",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMG48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006JujNAAS",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23104",
+    "ID_TITULO": "31629",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005yHhfAAE",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23105",
+    "ID_TITULO": "116708",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMI48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006M8IsAAK",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23106",
+    "ID_TITULO": "7649",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Mxo8AAC",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23107",
+    "ID_TITULO": "46204",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006N08jAAC",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23108",
+    "ID_TITULO": "90656",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tKSjAAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23109",
+    "ID_TITULO": "69054",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005y3LoAAI",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23110",
+    "ID_TITULO": "51616",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060tRTAAY",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23111",
+    "ID_TITULO": "424812",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48O ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061UPlAAM",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23112",
+    "ID_TITULO": "518645",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48G ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000064e9PAAQ",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23113",
+    "ID_TITULO": "75014",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60E ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005w08sAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23114",
+    "ID_TITULO": "33152",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMK48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005zdvLAAQ",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23115",
+    "ID_TITULO": "11883",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000064lV4AAI",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23116",
+    "ID_TITULO": "405105",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065GdHAAU",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23117",
+    "ID_TITULO": "115649",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000069ZiQAAU",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23118",
+    "ID_TITULO": "469207",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000066g2WAAQ",
+    "DATA_SORTEIO": "2021-08-21"
+  },
+  {
+    "_CustomObjectKey": "23119",
+    "ID_TITULO": "143799",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005cMZSAA2",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23120",
+    "ID_TITULO": "397517",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000067dXQAAY",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23121",
+    "ID_TITULO": "32192",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMF60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005mkBFAAY",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23122",
+    "ID_TITULO": "229147",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AOY0AAO",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23123",
+    "ID_TITULO": "51934",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005eSvFAAU",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23124",
+    "ID_TITULO": "77345",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMN48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000062m7jAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23125",
+    "ID_TITULO": "70295",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AgrfAAC",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23126",
+    "ID_TITULO": "469274",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48D ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AliAAAS",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23127",
+    "ID_TITULO": "11811",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000068uwVAAQ",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23128",
+    "ID_TITULO": "87063",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006D7xeAAC",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23129",
+    "ID_TITULO": "198976",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "F48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vLAuAAM",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23130",
+    "ID_TITULO": "141752",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMG48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000603gFAAQ",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23131",
+    "ID_TITULO": "86058",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tX9eAAE",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23132",
+    "ID_TITULO": "129520",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005f266AAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23133",
+    "ID_TITULO": "47374",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FslgAAC",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23134",
+    "ID_TITULO": "4366",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC36 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hjwjAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23135",
+    "ID_TITULO": "30109",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GdVZAA0",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23136",
+    "ID_TITULO": "52806",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nerBAAQ",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23137",
+    "ID_TITULO": "391664",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48G ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005zzjvAAA",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23138",
+    "ID_TITULO": "489830",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006H4pzAAC",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23139",
+    "ID_TITULO": "323244",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005goRdAAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23140",
+    "ID_TITULO": "337737",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006JWatAAG",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23141",
+    "ID_TITULO": "34802",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060NjjAAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23142",
+    "ID_TITULO": "99605",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006DRLAAA4",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23143",
+    "ID_TITULO": "537873",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005lMylAAE",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23144",
+    "ID_TITULO": "81500",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065iwdAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23145",
+    "ID_TITULO": "18357",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005sSKhAAM",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23146",
+    "ID_TITULO": "228877",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qiz3AAA",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23147",
+    "ID_TITULO": "514240",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48O ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005fXrNAAU",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23148",
+    "ID_TITULO": "6636",
+    "ID_SERIE": "AB",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005fXXMAA2",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23149",
+    "ID_TITULO": "221925",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "C60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000066343AAA",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23150",
+    "ID_TITULO": "5124",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "C60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060fbaAAA",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23151",
+    "ID_TITULO": "435419",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xJ6QAAU",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23152",
+    "ID_TITULO": "54472",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005mq8EAAQ",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23153",
+    "ID_TITULO": "63830",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005zcnnAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23154",
+    "ID_TITULO": "76347",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005zPUYAA2",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23155",
+    "ID_TITULO": "21296",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063KJ9AAM",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23156",
+    "ID_TITULO": "204992",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "F48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AhxSAAS",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23157",
+    "ID_TITULO": "20997",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005yNwLAAU",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23158",
+    "ID_TITULO": "5472",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005l5ipAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23159",
+    "ID_TITULO": "50225",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rmP6AAI",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23160",
+    "ID_TITULO": "79468",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006MHoGAAW",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23161",
+    "ID_TITULO": "262719",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "F48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ksATAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23162",
+    "ID_TITULO": "16492",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PU001D",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vGfBAAU",
+    "DATA_SORTEIO": "2021-05-26"
+  },
+  {
+    "_CustomObjectKey": "23163",
+    "ID_TITULO": "304795",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vZWxAAM",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23164",
+    "ID_TITULO": "76927",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005t1ASAAY",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23165",
+    "ID_TITULO": "17003",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000069BqTAAU",
+    "DATA_SORTEIO": "2021-10-02"
+  },
+  {
+    "_CustomObjectKey": "23166",
+    "ID_TITULO": "312103",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qQTWAA2",
+    "DATA_SORTEIO": "2021-09-04"
+  },
+  {
+    "_CustomObjectKey": "23167",
+    "ID_TITULO": "21341",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005q8DoAAI",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23168",
+    "ID_TITULO": "57605",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005uDHhAAM",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23169",
+    "ID_TITULO": "412852",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000009G037AAC",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23170",
+    "ID_TITULO": "419261",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "C60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000009Di9WAAS",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23171",
+    "ID_TITULO": "227086",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ydq9AAA",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23172",
+    "ID_TITULO": "23799",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "F48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005iu7fAAA",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23173",
+    "ID_TITULO": "49434",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060hARAAY",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23174",
+    "ID_TITULO": "210854",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005kZjcAAE",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23175",
+    "ID_TITULO": "452208",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005l6gCAAQ",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23176",
+    "ID_TITULO": "58811",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vKiOAAU",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23177",
+    "ID_TITULO": "551713",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005sM2VAAU",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23178",
+    "ID_TITULO": "29675",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rYRNAA2",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23179",
+    "ID_TITULO": "103150",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ev0nAAA",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23180",
+    "ID_TITULO": "67775",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xO4lAAE",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23181",
+    "ID_TITULO": "35860",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60E ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005z1iLAAQ",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23182",
+    "ID_TITULO": "87468",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000064NNIAA2",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23183",
+    "ID_TITULO": "96107",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005dHRMAA2",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23184",
+    "ID_TITULO": "88169",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000641E1AAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23185",
+    "ID_TITULO": "523170",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006HKN2AAO",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23186",
+    "ID_TITULO": "6085",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000067WwjAAE",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23187",
+    "ID_TITULO": "58410",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000069bHKAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23188",
+    "ID_TITULO": "84447",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006A76yAAC",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23189",
+    "ID_TITULO": "98525",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006CAsiAAG",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23190",
+    "ID_TITULO": "11672",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA36 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hJgqAAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23191",
+    "ID_TITULO": "6267",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "36PMS ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qGPLAA2",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23192",
+    "ID_TITULO": "85522",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000069QUdAAM",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23193",
+    "ID_TITULO": "24400",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tRADAA2",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23194",
+    "ID_TITULO": "228359",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wnUzAAI",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23195",
+    "ID_TITULO": "33552",
+    "ID_SERIE": "AB",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000008LlrUAAS",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23196",
+    "ID_TITULO": "37720",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000062NmVAAU",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23197",
+    "ID_TITULO": "6333",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005v3y3AAA",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23198",
+    "ID_TITULO": "231524",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GYtYAAW",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23199",
+    "ID_TITULO": "127097",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMI48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qqRpAAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23200",
+    "ID_TITULO": "10439",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMN48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000069JzeAAE",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23201",
+    "ID_TITULO": "25090",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMG60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005y60NAAQ",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23202",
+    "ID_TITULO": "29730",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006EpO6AAK",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23203",
+    "ID_TITULO": "102005",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Hs8zAAC",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23204",
+    "ID_TITULO": "123",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006BaPmAAK",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23205",
+    "ID_TITULO": "486699",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FIsJAAW",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23206",
+    "ID_TITULO": "28094",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006D28SAAS",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23207",
+    "ID_TITULO": "197122",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006KelxAAC",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23208",
+    "ID_TITULO": "37679",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005yyYyAAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23209",
+    "ID_TITULO": "301676",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GQeHAAW",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23210",
+    "ID_TITULO": "413010",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xiAgAAI",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23211",
+    "ID_TITULO": "43150",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rsAOAAY",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23212",
+    "ID_TITULO": "59760",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006IjlRAAS",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23213",
+    "ID_TITULO": "81896",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006D66eAAC",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23214",
+    "ID_TITULO": "353443",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005cvdmAAA",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23215",
+    "ID_TITULO": "518493",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005dVcSAAU",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23216",
+    "ID_TITULO": "501468",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000069oIlAAI",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23217",
+    "ID_TITULO": "283564",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ffsnAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23218",
+    "ID_TITULO": "394843",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005iz6gAAA",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23219",
+    "ID_TITULO": "261162",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006IecgAAC",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23220",
+    "ID_TITULO": "425827",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005dTF4AAM",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23221",
+    "ID_TITULO": "15927",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005u9PjAAI",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23222",
+    "ID_TITULO": "38291",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PME ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005mH7fAAE",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23223",
+    "ID_TITULO": "22856",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006M1oSAAS",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23224",
+    "ID_TITULO": "389849",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005g7YzAAI",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23225",
+    "ID_TITULO": "561712",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48O ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hKO2AAM",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23226",
+    "ID_TITULO": "113238",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005iQSOAA2",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23227",
+    "ID_TITULO": "88512",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qzsGAAQ",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23228",
+    "ID_TITULO": "307344",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000069UXDAA2",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23229",
+    "ID_TITULO": "40869",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wjiYAAQ",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23230",
+    "ID_TITULO": "289210",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xIXcAAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23231",
+    "ID_TITULO": "79746",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xxO8AAI",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23232",
+    "ID_TITULO": "224052",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005zNAUAA2",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23233",
+    "ID_TITULO": "233084",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006CqoxAAC",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23234",
+    "ID_TITULO": "84580",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006DqeDAAS",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23235",
+    "ID_TITULO": "79960",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMF48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AKz6AAG",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23236",
+    "ID_TITULO": "456296",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000064IIEAA2",
+    "DATA_SORTEIO": "2021-08-21"
+  },
+  {
+    "_CustomObjectKey": "23237",
+    "ID_TITULO": "63970",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMG48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005oEVZAA2",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23238",
+    "ID_TITULO": "447192",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GaYKAA0",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23239",
+    "ID_TITULO": "19801",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006HRaJAAW",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23240",
+    "ID_TITULO": "52513",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006HUAxAAO",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23241",
+    "ID_TITULO": "29884",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006I4ERAA0",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23242",
+    "ID_TITULO": "49472",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006JiP4AAK",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23243",
+    "ID_TITULO": "17946",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "F48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006JiSBAA0",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23244",
+    "ID_TITULO": "218885",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006JowZAAS",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23245",
+    "ID_TITULO": "53728",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005kdIoAAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23246",
+    "ID_TITULO": "460503",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006LveSAAS",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23247",
+    "ID_TITULO": "54054",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006DTGFAA4",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23248",
+    "ID_TITULO": "207166",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005sme7AAA",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23249",
+    "ID_TITULO": "433287",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000A18EbAAJ",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23250",
+    "ID_TITULO": "304260",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Epq7AAC",
+    "DATA_SORTEIO": "2022-01-15"
+  },
+  {
+    "_CustomObjectKey": "23251",
+    "ID_TITULO": "111892",
+    "ID_SERIE": "AB",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000A2TYJAA3",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23252",
+    "ID_TITULO": "57949",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005fN6DAAU",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23253",
+    "ID_TITULO": "51374",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PU ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rUryAAE",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23254",
+    "ID_TITULO": "77296",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005gHe9AAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23255",
+    "ID_TITULO": "168640",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM366 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000062WGDAA2",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23256",
+    "ID_TITULO": "416183",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48G ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005dqdRAAQ",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23257",
+    "ID_TITULO": "231380",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006IWzNAAW",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23258",
+    "ID_TITULO": "38379",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005eGqQAAU",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23259",
+    "ID_TITULO": "554650",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005n0ajAAA",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23260",
+    "ID_TITULO": "43444",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005miQeAAI",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23261",
+    "ID_TITULO": "22711",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMD60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ou8SAAQ",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23262",
+    "ID_TITULO": "457626",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005r6ccAAA",
+    "DATA_SORTEIO": "2021-08-21"
+  },
+  {
+    "_CustomObjectKey": "23263",
+    "ID_TITULO": "10469",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000062EP2AAM",
+    "DATA_SORTEIO": "2021-10-02"
+  },
+  {
+    "_CustomObjectKey": "23264",
+    "ID_TITULO": "39682",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005m2blAAA",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23265",
+    "ID_TITULO": "111417",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005iNBlAAM",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23266",
+    "ID_TITULO": "13575",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hG9TAAU",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23267",
+    "ID_TITULO": "112713",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMF48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hatwAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23268",
+    "ID_TITULO": "214632",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "G48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006KjFYAA0",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23269",
+    "ID_TITULO": "28742",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tteEAAQ",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23270",
+    "ID_TITULO": "29933",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tOXbAAM",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23271",
+    "ID_TITULO": "43549",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000619NUAAY",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23272",
+    "ID_TITULO": "399251",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005yHnhAAE",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23273",
+    "ID_TITULO": "37955",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "36PM3 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vAxiAAE",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23274",
+    "ID_TITULO": "168023",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM366 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005gkdgAAA",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23275",
+    "ID_TITULO": "290954",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM72P ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005voggAAA",
+    "DATA_SORTEIO": "2021-07-14"
+  },
+  {
+    "_CustomObjectKey": "23276",
+    "ID_TITULO": "87927",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006JGUDAA4",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23277",
+    "ID_TITULO": "18257",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMN48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wYbeAAE",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23278",
+    "ID_TITULO": "589787",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ox0NAAQ",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23279",
+    "ID_TITULO": "220692",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vO2SAAU",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23280",
+    "ID_TITULO": "18605",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006B7wbAAC",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23281",
+    "ID_TITULO": "115058",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMD48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vTkYAAU",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23282",
+    "ID_TITULO": "553094",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM485 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005glzxAAA",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23283",
+    "ID_TITULO": "240269",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005oE3jAAE",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23284",
+    "ID_TITULO": "37539",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xA9tAAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23285",
+    "ID_TITULO": "20312",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nPSDAA2",
+    "DATA_SORTEIO": "2021-10-02"
+  },
+  {
+    "_CustomObjectKey": "23286",
+    "ID_TITULO": "269931",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48H ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005yofBAAQ",
+    "DATA_SORTEIO": "2021-10-02"
+  },
+  {
+    "_CustomObjectKey": "23287",
+    "ID_TITULO": "238283",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061kRtAAI",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23288",
+    "ID_TITULO": "56635",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60E ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ysAMAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23289",
+    "ID_TITULO": "24395",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMG48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wUcNAAU",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23290",
+    "ID_TITULO": "262316",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006MvRCAA0",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23291",
+    "ID_TITULO": "36842",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000066f3IAAQ",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23292",
+    "ID_TITULO": "289212",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tdDkAAI",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23293",
+    "ID_TITULO": "56196",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wbVnAAI",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23294",
+    "ID_TITULO": "24074",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005pIjMAAU",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23295",
+    "ID_TITULO": "212845",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005oCwTAAU",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23296",
+    "ID_TITULO": "1756",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061B6TAAU",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23297",
+    "ID_TITULO": "90415",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063SAbAAM",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23298",
+    "ID_TITULO": "483861",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063rMwAAI",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23299",
+    "ID_TITULO": "532882",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48F ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ocWnAAI",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23300",
+    "ID_TITULO": "208409",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qqrCAAQ",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23301",
+    "ID_TITULO": "22692",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMD60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063Dj2AAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23302",
+    "ID_TITULO": "123119",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qPimAAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23303",
+    "ID_TITULO": "477087",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48G ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005t1EfAAI",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23304",
+    "ID_TITULO": "7197",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vRKbAAM",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23305",
+    "ID_TITULO": "37930",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vKneAAE",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23306",
+    "ID_TITULO": "13419",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005u1pLAAQ",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23307",
+    "ID_TITULO": "50581",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM605 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005zZeLAAU",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23308",
+    "ID_TITULO": "227452",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000062f7oAAA",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23309",
+    "ID_TITULO": "240622",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006BqK0AAK",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23310",
+    "ID_TITULO": "91502",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063T0kAAE",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23311",
+    "ID_TITULO": "58779",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005yQQrAAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23312",
+    "ID_TITULO": "80134",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qKYhAAM",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23313",
+    "ID_TITULO": "18629",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065xCpAAI",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23314",
+    "ID_TITULO": "19842",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Gak5AAC",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23315",
+    "ID_TITULO": "457343",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nK9wAAE",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23316",
+    "ID_TITULO": "205161",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xnEdAAI",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23317",
+    "ID_TITULO": "284182",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rEl8AAE",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23318",
+    "ID_TITULO": "43129",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMF48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000659ZsAAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23319",
+    "ID_TITULO": "8014",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMJ48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000069abfAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23320",
+    "ID_TITULO": "213695",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nP71AAE",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23321",
+    "ID_TITULO": "20635",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005o15vAAA",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23322",
+    "ID_TITULO": "130349",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AStEAAW",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23323",
+    "ID_TITULO": "57408",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ot3oAAA",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23324",
+    "ID_TITULO": "13661",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wfESAAY",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23325",
+    "ID_TITULO": "236922",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006E7rIAAS",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23326",
+    "ID_TITULO": "417048",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48O ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005d9C0AAI",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23327",
+    "ID_TITULO": "33941",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006BjPZAA0",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23328",
+    "ID_TITULO": "129098",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xN78AAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23329",
+    "ID_TITULO": "68812",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006CAs8AAG",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23330",
+    "ID_TITULO": "199439",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006DQnJAAW",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23331",
+    "ID_TITULO": "48806",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005dvNfAAI",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23332",
+    "ID_TITULO": "83398",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006EAZcAAO",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23333",
+    "ID_TITULO": "79888",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006EUuUAAW",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23334",
+    "ID_TITULO": "212816",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005eRIpAAM",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23335",
+    "ID_TITULO": "38767",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GIj3AAG",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23336",
+    "ID_TITULO": "282465",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GYasAAG",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23337",
+    "ID_TITULO": "431225",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48H ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GieXAAS",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23338",
+    "ID_TITULO": "145647",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMO48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006HChXAAW",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23339",
+    "ID_TITULO": "228123",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005fX4gAAE",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23340",
+    "ID_TITULO": "49271",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005exTJAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23341",
+    "ID_TITULO": "470214",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005gT0aAAE",
+    "DATA_SORTEIO": "2021-08-21"
+  },
+  {
+    "_CustomObjectKey": "23342",
+    "ID_TITULO": "58632",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005cK6fAAE",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23343",
+    "ID_TITULO": "39969",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hOQ8AAM",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23344",
+    "ID_TITULO": "68608",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005dDHMAA2",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23345",
+    "ID_TITULO": "14887",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hrdPAAQ",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23346",
+    "ID_TITULO": "215397",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005iCY6AAM",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23347",
+    "ID_TITULO": "2797",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA36 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005iOhcAAE",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23348",
+    "ID_TITULO": "98209",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMG60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ilB5AAI",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23349",
+    "ID_TITULO": "21140",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005mxwpAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23350",
+    "ID_TITULO": "46126",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005eWO3AAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23351",
+    "ID_TITULO": "62421",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMG48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000066YovAAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23352",
+    "ID_TITULO": "604810",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006H3vXAAS",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23353",
+    "ID_TITULO": "31962",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005jObAAAU",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23354",
+    "ID_TITULO": "488027",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM486 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005jrQQAAY",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23355",
+    "ID_TITULO": "85480",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005fYcoAAE",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23356",
+    "ID_TITULO": "86605",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005fptBAAQ",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23357",
+    "ID_TITULO": "97374",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60D ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nT6BAAU",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23358",
+    "ID_TITULO": "467985",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000069BnTAAU",
+    "DATA_SORTEIO": "2021-08-21"
+  },
+  {
+    "_CustomObjectKey": "23359",
+    "ID_TITULO": "411214",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000004uro3AAA",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23360",
+    "ID_TITULO": "25231",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005m16CAAQ",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23361",
+    "ID_TITULO": "77870",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hbiRAAQ",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23362",
+    "ID_TITULO": "445847",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48O ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005mJmSAAU",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23363",
+    "ID_TITULO": "501812",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005mOiPAAU",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23364",
+    "ID_TITULO": "108768",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMH48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005miGvAAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23365",
+    "ID_TITULO": "290577",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "F48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005i9YlAAI",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23366",
+    "ID_TITULO": "394820",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005mmzqAAA",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23367",
+    "ID_TITULO": "62057",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005iMXLAA2",
+    "DATA_SORTEIO": "2021-12-18"
+  },
+  {
+    "_CustomObjectKey": "23368",
+    "ID_TITULO": "407533",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005j8QlAAI",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23369",
+    "ID_TITULO": "26671",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000672w7AAA",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23370",
+    "ID_TITULO": "18690",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005jTzGAAU",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23371",
+    "ID_TITULO": "88839",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061vthAAA",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23372",
+    "ID_TITULO": "74567",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060cMVAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23373",
+    "ID_TITULO": "84506",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005orJfAAI",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23374",
+    "ID_TITULO": "56090",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005pArcAAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23375",
+    "ID_TITULO": "7818",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005lBAIAA2",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23376",
+    "ID_TITULO": "66358",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005lMO1AAM",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23377",
+    "ID_TITULO": "209741",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005lT3aAAE",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23378",
+    "ID_TITULO": "692",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC36 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005lZd3AAE",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23379",
+    "ID_TITULO": "103",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005lgclAAA",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23380",
+    "ID_TITULO": "28539",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000062FoqAAE",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23381",
+    "ID_TITULO": "45758",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005luQBAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23382",
+    "ID_TITULO": "11145",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005mE9yAAE",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23383",
+    "ID_TITULO": "414288",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005r16RAAQ",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23384",
+    "ID_TITULO": "15561",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMB36 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000068pLNAAY",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23385",
+    "ID_TITULO": "9136",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMD60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005mmnRAAQ",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23386",
+    "ID_TITULO": "211964",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005msRGAAY",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23387",
+    "ID_TITULO": "463344",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48G ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rTSjAAM",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23388",
+    "ID_TITULO": "57275",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rdw0AAA",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23389",
+    "ID_TITULO": "576868",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nTyQAAU",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23390",
+    "ID_TITULO": "93511",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMI48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qJ7jAAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23391",
+    "ID_TITULO": "23334",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005sLJXAA2",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23392",
+    "ID_TITULO": "536963",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005sPTPAA2",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23393",
+    "ID_TITULO": "210990",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ntFTAAY",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23394",
+    "ID_TITULO": "53311",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000663M3AAI",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23395",
+    "ID_TITULO": "35853",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005oHFvAAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23396",
+    "ID_TITULO": "89553",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005sr3rAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23397",
+    "ID_TITULO": "453694",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005oWsDAAU",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23398",
+    "ID_TITULO": "66535",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMF48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tDwMAAU",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23399",
+    "ID_TITULO": "61626",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ohmFAAQ",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23400",
+    "ID_TITULO": "12579",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005onNyAAI",
+    "DATA_SORTEIO": "2021-10-02"
+  },
+  {
+    "_CustomObjectKey": "23401",
+    "ID_TITULO": "519413",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005p1uNAAQ",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23402",
+    "ID_TITULO": "228323",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005txRJAAY",
+    "DATA_SORTEIO": "2021-11-06"
+  },
+  {
+    "_CustomObjectKey": "23403",
+    "ID_TITULO": "60660",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005pSNZAA2",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23404",
+    "ID_TITULO": "30330",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005pj7zAAA",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23405",
+    "ID_TITULO": "63381",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM605 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005pqe8AAA",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23406",
+    "ID_TITULO": "25257",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ulILAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23407",
+    "ID_TITULO": "26599",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005mKmXAAU",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23408",
+    "ID_TITULO": "420993",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qz0tAAA",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23409",
+    "ID_TITULO": "142638",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMF48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vjGsAAI",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23410",
+    "ID_TITULO": "297401",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rFhXAAU",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23411",
+    "ID_TITULO": "93332",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PU48A ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rneDAAQ",
+    "DATA_SORTEIO": "2021-09-04"
+  },
+  {
+    "_CustomObjectKey": "23412",
+    "ID_TITULO": "74473",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006JOpAAAW",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23413",
+    "ID_TITULO": "54468",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wjPCAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23414",
+    "ID_TITULO": "478217",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006L8iKAAS",
+    "DATA_SORTEIO": "2021-08-21"
+  },
+  {
+    "_CustomObjectKey": "23415",
+    "ID_TITULO": "394806",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Ld7ZAAS",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23416",
+    "ID_TITULO": "109303",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005sXFAAA2",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23417",
+    "ID_TITULO": "67716",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xh7WAAQ",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23418",
+    "ID_TITULO": "95713",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tJ29AAE",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23419",
+    "ID_TITULO": "454167",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065Tz3AAE",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23420",
+    "ID_TITULO": "200722",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tvruAAA",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23421",
+    "ID_TITULO": "76486",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005uBQEAA2",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23422",
+    "ID_TITULO": "515877",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000068qdtAAA",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23423",
+    "ID_TITULO": "58143",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005uVtfAAE",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23424",
+    "ID_TITULO": "65899",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GPn4AAG",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23425",
+    "ID_TITULO": "66071",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005utLRAAY",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23426",
+    "ID_TITULO": "83711",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005uuz8AAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23427",
+    "ID_TITULO": "57704",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005uy4kAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23428",
+    "ID_TITULO": "134525",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMF48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005zh2aAAA",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23429",
+    "ID_TITULO": "29020",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vD3mAAE",
+    "DATA_SORTEIO": "2022-01-15"
+  },
+  {
+    "_CustomObjectKey": "23430",
+    "ID_TITULO": "213002",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vLYOAA2",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23431",
+    "ID_TITULO": "23034",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000603bWAAQ",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23432",
+    "ID_TITULO": "512910",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006B2ENAA0",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23433",
+    "ID_TITULO": "58203",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005vVaaAAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23434",
+    "ID_TITULO": "46362",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060HlBAAU",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23435",
+    "ID_TITULO": "237404",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006CzzXAAS",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23436",
+    "ID_TITULO": "353",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006DUVYAA4",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23437",
+    "ID_TITULO": "100008",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wBGaAAM",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23438",
+    "ID_TITULO": "42111",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "36PM2 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wBVnAAM",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23439",
+    "ID_TITULO": "831",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wCGiAAM",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23440",
+    "ID_TITULO": "45006",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006109pAAA",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23441",
+    "ID_TITULO": "29195",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000611GEAAY",
+    "DATA_SORTEIO": "2022-01-15"
+  },
+  {
+    "_CustomObjectKey": "23442",
+    "ID_TITULO": "202822",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061PuMAAU",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23443",
+    "ID_TITULO": "411531",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM487 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wbmeAAA",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23444",
+    "ID_TITULO": "220966",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wqA6AAI",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23445",
+    "ID_TITULO": "61792",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMG48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061v7vAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23446",
+    "ID_TITULO": "20544",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061yRAAAY",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23447",
+    "ID_TITULO": "53051",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xX1eAAE",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23448",
+    "ID_TITULO": "97185",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMH48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000069slqAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23449",
+    "ID_TITULO": "71843",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60E ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000062tzgAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23450",
+    "ID_TITULO": "461620",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000634KbAAI",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23451",
+    "ID_TITULO": "54147",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063g2jAAA",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23452",
+    "ID_TITULO": "27230",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000064hIhAAI",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23453",
+    "ID_TITULO": "9675",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA36 ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000655TrAAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23454",
+    "ID_TITULO": "8133",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "C36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000659dnAAA",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23455",
+    "ID_TITULO": "3864",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060256AAA",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23456",
+    "ID_TITULO": "546174",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065GcPAAU",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23457",
+    "ID_TITULO": "576384",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48G ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065Wh5AAE",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23458",
+    "ID_TITULO": "80322",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065hQkAAI",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23459",
+    "ID_TITULO": "28326",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000060psEAAQ",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23460",
+    "ID_TITULO": "41214",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000616kpAAA",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23461",
+    "ID_TITULO": "44641",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMF ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000066H8KAAU",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23462",
+    "ID_TITULO": "79914",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMH48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061IXdAAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23463",
+    "ID_TITULO": "103424",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000066ufxAAA",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23464",
+    "ID_TITULO": "441105",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000062ScDAAU",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23465",
+    "ID_TITULO": "100919",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000067trcAAA",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23466",
+    "ID_TITULO": "389615",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000068I88AAE",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23467",
+    "ID_TITULO": "57793",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PUF36 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063kkyAAA",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23468",
+    "ID_TITULO": "355595",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM485 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000068rPXAAY",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23469",
+    "ID_TITULO": "87669",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "C48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000069ZUyAAM",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23470",
+    "ID_TITULO": "53659",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000064uzEAAQ",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23471",
+    "ID_TITULO": "14756",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AGcsAAG",
+    "DATA_SORTEIO": "2021-10-02"
+  },
+  {
+    "_CustomObjectKey": "23472",
+    "ID_TITULO": "292726",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AfqAAAS",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23473",
+    "ID_TITULO": "396085",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000662j4AAA",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23474",
+    "ID_TITULO": "87390",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000066OXKAA2",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23475",
+    "ID_TITULO": "43536",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006ByMOAA0",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23476",
+    "ID_TITULO": "70562",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "B48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000067FkQAAU",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23477",
+    "ID_TITULO": "52815",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000067xU4AAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23478",
+    "ID_TITULO": "228703",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006CnDkAAK",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23479",
+    "ID_TITULO": "464348",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000068S5yAAE",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23480",
+    "ID_TITULO": "478293",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006DrvYAAS",
+    "DATA_SORTEIO": "2021-08-21"
+  },
+  {
+    "_CustomObjectKey": "23481",
+    "ID_TITULO": "422766",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48G ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Dst9AAC",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23482",
+    "ID_TITULO": "417065",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48H ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006EuRkAAK",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23483",
+    "ID_TITULO": "472069",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006F5phAAC",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23484",
+    "ID_TITULO": "56187",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FEeAAAW",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23485",
+    "ID_TITULO": "90329",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AyBWAA0",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23486",
+    "ID_TITULO": "66944",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FtCXAA0",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23487",
+    "ID_TITULO": "542896",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006GL0PAAW",
+    "DATA_SORTEIO": "2021-12-18"
+  },
+  {
+    "_CustomObjectKey": "23488",
+    "ID_TITULO": "576053",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006BnxnAAC",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23489",
+    "ID_TITULO": "220393",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006HEUbAAO",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23490",
+    "ID_TITULO": "93154",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60D ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006DOBCAA4",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23491",
+    "ID_TITULO": "207260",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006KoxVAAS",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23492",
+    "ID_TITULO": "7661",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006E6u8AAC",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23493",
+    "ID_TITULO": "63778",
+    "ID_SERIE": "AB",
+    "ID_PLANO": "PM604 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006EP9MAAW",
+    "DATA_SORTEIO": "2021-07-10"
+  },
+  {
+    "_CustomObjectKey": "23494",
+    "ID_TITULO": "10467",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006MWbOAAW",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23495",
+    "ID_TITULO": "14054",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006EsofAAC",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23496",
+    "ID_TITULO": "23871",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006ND0lAAG",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23497",
+    "ID_TITULO": "522772",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006NFIwAAO",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23498",
+    "ID_TITULO": "56175",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMF48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FJ7kAAG",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23499",
+    "ID_TITULO": "266804",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006HbrWAAS",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23500",
+    "ID_TITULO": "57535",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "F48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Hse4AAC",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23501",
+    "ID_TITULO": "63430",
+    "ID_SERIE": "AB",
+    "ID_PLANO": "PM60V ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006KRSFAA4",
+    "DATA_SORTEIO": "2021-12-11"
+  },
+  {
+    "_CustomObjectKey": "23502",
+    "ID_TITULO": "50314",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006KgegAAC",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23503",
+    "ID_TITULO": "98638",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006KkFmAAK",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23504",
+    "ID_TITULO": "436402",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Knz5AAC",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23505",
+    "ID_TITULO": "5117",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMN48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006MpyvAAC",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23506",
+    "ID_TITULO": "23300",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM607 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006NBSoAAO",
+    "DATA_SORTEIO": "2021-11-20"
+  },
+  {
+    "_CustomObjectKey": "23507",
+    "ID_TITULO": "103265",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xAx6AAE",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23508",
+    "ID_TITULO": "34899",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005tcuNAAQ",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23509",
+    "ID_TITULO": "94140",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60E ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005k1UMAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23510",
+    "ID_TITULO": "78962",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005jtSBAAY",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23511",
+    "ID_TITULO": "91993",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065X0AAAU",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23512",
+    "ID_TITULO": "50240",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMG48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005czNBAAY",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23513",
+    "ID_TITULO": "54188",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PUA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nK03AAE",
+    "DATA_SORTEIO": "2021-09-04"
+  },
+  {
+    "_CustomObjectKey": "23514",
+    "ID_TITULO": "293292",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005kqQBAAY",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23515",
+    "ID_TITULO": "217652",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qiy0AAA",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23516",
+    "ID_TITULO": "96711",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000062vENAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23517",
+    "ID_TITULO": "436325",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FuBlAAK",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23518",
+    "ID_TITULO": "50146",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005fvkGAAQ",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23519",
+    "ID_TITULO": "405928",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006HAIMAA4",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23520",
+    "ID_TITULO": "16661",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006JUNMAA4",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23521",
+    "ID_TITULO": "415037",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005imrsAAA",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23522",
+    "ID_TITULO": "114566",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMD48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005cVEJAA2",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23523",
+    "ID_TITULO": "219267",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rA7hAAE",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23524",
+    "ID_TITULO": "35615",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005d1ILAAY",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23525",
+    "ID_TITULO": "104078",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005sTLlAAM",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23526",
+    "ID_TITULO": "44428",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMJ48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005sMjyAAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23527",
+    "ID_TITULO": "86440",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005v9MhAAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23528",
+    "ID_TITULO": "93358",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rKPxAAM",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23529",
+    "ID_TITULO": "20823",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "C36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ecLQAAY",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23530",
+    "ID_TITULO": "78971",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005yDBAAA2",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23531",
+    "ID_TITULO": "1591",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005f6fvAAA",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23532",
+    "ID_TITULO": "73688",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005fHI7AAM",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23533",
+    "ID_TITULO": "25876",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMA ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000065fLnAAI",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23534",
+    "ID_TITULO": "30564",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000633LuAAI",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23535",
+    "ID_TITULO": "56264",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nmFOAAY",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23536",
+    "ID_TITULO": "34544",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMF ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000633lzAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23537",
+    "ID_TITULO": "37511",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000064sv5AAA",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23538",
+    "ID_TITULO": "80598",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMF60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hJDKAA2",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23539",
+    "ID_TITULO": "107415",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMN48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hbbtAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23540",
+    "ID_TITULO": "27945",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005qgL1AAI",
+    "DATA_SORTEIO": "2021-11-03"
+  },
+  {
+    "_CustomObjectKey": "23541",
+    "ID_TITULO": "468385",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005kj8LAAQ",
+    "DATA_SORTEIO": "2021-07-03"
+  },
+  {
+    "_CustomObjectKey": "23542",
+    "ID_TITULO": "230326",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005w0VbAAI",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23543",
+    "ID_TITULO": "109966",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xosyAAA",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23544",
+    "ID_TITULO": "29619",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006ADhCAAW",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23545",
+    "ID_TITULO": "92461",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005x0duAAA",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23546",
+    "ID_TITULO": "233133",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "E60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006BGqHAAW",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23547",
+    "ID_TITULO": "297507",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006077XAAQ",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23548",
+    "ID_TITULO": "34757",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006DHtTAAW",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23549",
+    "ID_TITULO": "238706",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hyQwAAI",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23550",
+    "ID_TITULO": "72418",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005iK0jAAE",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23551",
+    "ID_TITULO": "40009",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006EaTvAAK",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23552",
+    "ID_TITULO": "213814",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005kLQ0AAM",
+    "DATA_SORTEIO": "2021-10-02"
+  },
+  {
+    "_CustomObjectKey": "23553",
+    "ID_TITULO": "344692",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g00000621B6AAI",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23554",
+    "ID_TITULO": "548712",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006I60QAAS",
+    "DATA_SORTEIO": "2021-12-18"
+  },
+  {
+    "_CustomObjectKey": "23555",
+    "ID_TITULO": "469606",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nnXxAAI",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23556",
+    "ID_TITULO": "62525",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "48PMI ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005o1maAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23557",
+    "ID_TITULO": "307182",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ndFVAAY",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23558",
+    "ID_TITULO": "394402",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000061VBmAAM",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23559",
+    "ID_TITULO": "230768",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006AfZXAA0",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23560",
+    "ID_TITULO": "56157",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMD60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005kl0tAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23561",
+    "ID_TITULO": "324084",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005cUnsAAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23562",
+    "ID_TITULO": "499565",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM48G ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005f6IPAAY",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23563",
+    "ID_TITULO": "488579",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ssJDAAY",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23564",
+    "ID_TITULO": "70940",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000067lY8AAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23565",
+    "ID_TITULO": "131151",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMI48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005g4sGAAQ",
+    "DATA_SORTEIO": "2021-08-04"
+  },
+  {
+    "_CustomObjectKey": "23566",
+    "ID_TITULO": "30261",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000068qSwAAI",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23567",
+    "ID_TITULO": "213230",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "F48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xUITAA2",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23568",
+    "ID_TITULO": "463129",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006BPjdAAG",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23569",
+    "ID_TITULO": "86261",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005nNKWAA2",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23570",
+    "ID_TITULO": "414269",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063GQxAAM",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23571",
+    "ID_TITULO": "50715",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMA48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FXp3AAG",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23572",
+    "ID_TITULO": "58376",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006FlQBAA0",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23573",
+    "ID_TITULO": "305243",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005fPhIAAU",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23574",
+    "ID_TITULO": "46843",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "D60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000063LsVAAU",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23575",
+    "ID_TITULO": "234311",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005rnYGAAY",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23576",
+    "ID_TITULO": "22346",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM606 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005jr2FAAQ",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23577",
+    "ID_TITULO": "64251",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMC60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005el0xAAA",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23578",
+    "ID_TITULO": "24567",
+    "ID_SERIE": "AB",
+    "ID_PLANO": "D48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000009G04MAAS",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23579",
+    "ID_TITULO": "202340",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "F48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005icQLAAY",
+    "DATA_SORTEIO": "2021-10-06"
+  },
+  {
+    "_CustomObjectKey": "23580",
+    "ID_TITULO": "326620",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM489 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005mQo7AAE",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23581",
+    "ID_TITULO": "62431",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005c3x6AAA",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23582",
+    "ID_TITULO": "91390",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005lllkAAA",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23583",
+    "ID_TITULO": "42864",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM60C ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005kaMzAAI",
+    "DATA_SORTEIO": "2021-07-07"
+  },
+  {
+    "_CustomObjectKey": "23584",
+    "ID_TITULO": "22562",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PPK36 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005hpubAAA",
+    "DATA_SORTEIO": "2021-10-02"
+  },
+  {
+    "_CustomObjectKey": "23585",
+    "ID_TITULO": "19216",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A36PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005pgB9AAI",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23586",
+    "ID_TITULO": "340878",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM488 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wiwJAAQ",
+    "DATA_SORTEIO": "2022-01-01"
+  },
+  {
+    "_CustomObjectKey": "23587",
+    "ID_TITULO": "421551",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005wGyrAAE",
+    "DATA_SORTEIO": "2021-08-07"
+  },
+  {
+    "_CustomObjectKey": "23588",
+    "ID_TITULO": "37756",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "36PM2 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005ysYIAAY",
+    "DATA_SORTEIO": "2021-12-04"
+  },
+  {
+    "_CustomObjectKey": "23589",
+    "ID_TITULO": "27877",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PME60 ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000064H4pAAE",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23590",
+    "ID_TITULO": "233407",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g0000069fb8AAA",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23591",
+    "ID_TITULO": "73284",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PMI48 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000005xiIzAAI",
+    "DATA_SORTEIO": "2021-12-01"
+  },
+  {
+    "_CustomObjectKey": "23592",
+    "ID_TITULO": "235682",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A60PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006ETcBAAW",
+    "DATA_SORTEIO": "2021-09-01"
+  },
+  {
+    "_CustomObjectKey": "23593",
+    "ID_TITULO": "107171",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "A48PM ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006DXkcAAG",
+    "DATA_SORTEIO": "2022-01-05"
+  },
+  {
+    "_CustomObjectKey": "23594",
+    "ID_TITULO": "448189",
+    "ID_SERIE": "AA",
+    "ID_PLANO": "PM483 ",
+    "ID_TITULO_SALESFORCE": "a0o6g000006Dof6AAC",
+    "DATA_SORTEIO": "2022-01-01"
+  }
+]

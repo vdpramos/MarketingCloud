@@ -1,0 +1,12 @@
+Dataextension name: PI_ABANDONED_CART_EVENT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| user_id              | Text(256)       | true     | false    |                 |
+| cart_id              | Text(256)       | true     | true     |                 |
+| email_address        | Text(256)       | false    | false    |                 |
+| contact_key          | Text(256)       | false    | false    |                 |
+| currency_type        | Text(256)       | false    | false    |                 |
+| no_items_cart        | Number          | false    | false    |                 |
+| cart_value           | Decimal(18,2)   | false    | false    |                 |
+| timestamp            | Date            | true     | false    | getdate()       |

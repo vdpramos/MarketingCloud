@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ec1cdcb6-70e4-4d13-9b24-a2df5d62a79d",
+  "name": "Qr02_Extracao_Base_Prospect_Offline_DadosBancarios_ComOTC_NeoBpo",
+  "key": "3cb3b6bc-e0d0-457d-9ff1-baa16f668ea0",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  B.CPF,\n  '' AS CNPJ,\n  '' AS BANCO,\n  B.AGENCIA,\n  '' AS DIGITO_VERIFICADOR_AGENCIA,\n  B.CONTA AS CONTA_CORRENTE,\n  '' AS DIGITO_VERIFICADOR_CONTA,\n  '' AS AGENCIA_CONTA_DIGITO_VERIFICADOR,\n  'CC' AS TIPO_CONTA,\n  '' AS INICIO_TRAILLER \nFROM\n  TB_BASE_PROSPECT_OTC291_FILTRADA_NEOBPO A \n  INNER JOIN\n    TB_BASE_PROSPECT_COMOTC_TRATADA_NEOBPO B \n    ON A.CPF = B.CPF",
+  "targetName": "Tb_Base_Prospect_Offline_DadosBancarios_ComOTC_NeoBpo",
+  "targetKey": "1E789135-ACDC-4F61-9A16-F9B705D4395D",
+  "targetId": "0e98f0cf-5870-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-16T08:08:52.767",
+  "modifiedDate": "2021-04-07T14:04:50.257",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29377,
+  "isFrozen": false
+}

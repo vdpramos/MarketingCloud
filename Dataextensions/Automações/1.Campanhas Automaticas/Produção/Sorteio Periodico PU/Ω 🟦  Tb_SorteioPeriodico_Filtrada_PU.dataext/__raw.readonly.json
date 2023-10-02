@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "60F759DD-9F5C-4310-B895-45DBF2CFE83F"
+  ],
+  "Name": [
+    "Tb_SorteioPeriodico_Filtrada_PU"
+  ]
+}

@@ -1,0 +1,8 @@
+Dataextension name: QueryStudioResults at 2023-09-05T1426370000
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| cpf                  | Text(255)       | false    | false    |                 |
+| ID_CAMPANHA          | Text(255)       | false    | false    |                 |
+| data_campanha        | Text(255)       | false    | false    |                 |
+| canal                | Text(255)       | false    | false    |                 |

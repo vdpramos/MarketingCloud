@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "9C910335-F09E-42A0-B4D8-307E5127E91E"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_Campanhas_SemOTC_Teo"
+  ]
+}

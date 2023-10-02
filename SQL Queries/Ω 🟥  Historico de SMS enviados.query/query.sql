@@ -1,0 +1,17 @@
+select NOMECOMPLETO, 
+        NOMEALERTA, 
+        EMAIL, 
+        TELEFONE, 
+        GTALK, 
+        FACEBOOK, 
+        TWITTER, 
+        JABBER, 
+        PIN, 
+        TAG, 
+        PRIMEIRO_NOME, 
+        CPF, 
+        ESTADO, 
+        SIT_CAD, 
+        FLAG, 
+        MENSAGEM
+from duploSim

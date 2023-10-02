@@ -1,0 +1,52 @@
+{
+  "id": 67478,
+  "customerKey": "10848b6b-1d8b-4ab0-98f6-344a6ff0260b",
+  "objectID": "483eff7c-7258-4524-880c-e1b6f49c5d26",
+  "assetType": {
+    "id": 220,
+    "name": "codesnippetblock",
+    "displayName": "Code Snippet Block"
+  },
+  "fileProperties": {
+    "fileName": "Get FirstName"
+  },
+  "name": "Get FirstName",
+  "description": "Seleciona apenas o primeiro nome, caso esteja com nome completo",
+  "owner": {
+    "id": 713538740,
+    "email": "matheus.b.leto@accenture.com",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "createdDate": "2022-07-07T18:28:33.717-06:00",
+  "createdBy": {
+    "id": 713538740,
+    "email": "matheus.b.leto@accenture.com",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "modifiedDate": "2022-07-07T18:29:27.92-06:00",
+  "modifiedBy": {
+    "id": 713538740,
+    "email": "matheus.b.leto@accenture.com",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/67478/thumbnail"
+  },
+  "category": {
+    "id": 51046,
+    "name": "Snippets",
+    "parentId": 1942
+  },
+  "content": "%%[ VAR @TamanhoFirstName SET @FirstName = Nome IF IndexOf(@FirstName, ' ') > 0 THEN SET @TamanhoFirstName = IndexOf(@FirstName, ' ') ELSE SET @TamanhoFirstName = Length(@FirstName) ENDIF ]%%",
+  "availableViews": [],
+  "modelVersion": 2
+}

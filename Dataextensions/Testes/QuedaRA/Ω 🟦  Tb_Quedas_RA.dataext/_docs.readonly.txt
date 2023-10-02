@@ -1,0 +1,9 @@
+Dataextension name: Tb_Quedas_RA
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome                 | Text(50)        | false    | false    |                 |
+| CPF                  | Text(50)        | false    | false    |                 |
+| Telefone             | Text(50)        | false    | false    |                 |
+| Endereco             | Text(50)        | false    | false    |                 |
+| Email                | Text(50)        | false    | false    |                 |

@@ -1,0 +1,2427 @@
+[
+  {
+    "_CustomObjectKey": "1",
+    "ID_PROPOSTA": "a0g6g0000039AoPAAU",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "2",
+    "ID_PROPOSTA": "a0g6g000003AHr0AAG",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "3",
+    "ID_PROPOSTA": "a0g6g000003FdjwAAC",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "4",
+    "ID_PROPOSTA": "a0g6g000002kz3dAAA",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "5",
+    "ID_PROPOSTA": "a0g6g000003O86kAAC",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "6",
+    "ID_PROPOSTA": "a0g6g000003NuQ1AAK",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "7",
+    "ID_PROPOSTA": "a0g6g000003NuQ2AAK",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "8",
+    "ID_PROPOSTA": "a0g6g000003NuQ3AAK",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "9",
+    "ID_PROPOSTA": "a0g6g0000033lOtAAI",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "10",
+    "ID_PROPOSTA": "a0g6g00000347nVAAQ",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "11",
+    "ID_PROPOSTA": "a0g6g0000034cdZAAQ",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "12",
+    "ID_PROPOSTA": "a0g6g0000035G3mAAE",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "13",
+    "ID_PROPOSTA": "a0g6g0000035G5dAAE",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "14",
+    "ID_PROPOSTA": "a0g6g0000035b3KAAQ",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "15",
+    "ID_PROPOSTA": "a0g6g0000035uNcAAI",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "16",
+    "ID_PROPOSTA": "a0g6g0000036QJVAA2",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "17",
+    "ID_PROPOSTA": "a0g6g0000036qjHAAQ",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "18",
+    "ID_PROPOSTA": "a0g6g0000036qs9AAA",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "19",
+    "ID_PROPOSTA": "a0g6g0000036xx2AAA",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "20",
+    "ID_PROPOSTA": "a0g6g0000037gi0AAA",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "21",
+    "ID_PROPOSTA": "a0g6g0000038YclAAE",
+    "Data": "9/21/2021 7:44:18 PM"
+  },
+  {
+    "_CustomObjectKey": "22",
+    "ID_PROPOSTA": "a0g6g000003psYoAAI",
+    "Data": "10/20/2021 1:47:07 AM"
+  },
+  {
+    "_CustomObjectKey": "23",
+    "ID_PROPOSTA": "a0g6g000003psAvAAI",
+    "Data": "10/20/2021 1:47:07 AM"
+  },
+  {
+    "_CustomObjectKey": "24",
+    "ID_PROPOSTA": "a0g6g000003ps9HAAQ",
+    "Data": "10/20/2021 1:47:07 AM"
+  },
+  {
+    "_CustomObjectKey": "25",
+    "ID_PROPOSTA": "a0g6g000003ps78AAA",
+    "Data": "10/20/2021 1:47:07 AM"
+  },
+  {
+    "_CustomObjectKey": "26",
+    "ID_PROPOSTA": "a0g6g000003ps17AAA",
+    "Data": "10/20/2021 1:47:07 AM"
+  },
+  {
+    "_CustomObjectKey": "27",
+    "ID_PROPOSTA": "a0g6g000003ps0hAAA",
+    "Data": "10/20/2021 1:47:07 AM"
+  },
+  {
+    "_CustomObjectKey": "28",
+    "ID_PROPOSTA": "a0g6g000003ps0gAAA",
+    "Data": "10/20/2021 1:47:07 AM"
+  },
+  {
+    "_CustomObjectKey": "29",
+    "ID_PROPOSTA": "a0g6g000003prsyAAA",
+    "Data": "10/20/2021 1:47:07 AM"
+  },
+  {
+    "_CustomObjectKey": "30",
+    "ID_PROPOSTA": "a0g6g000003QRzlAAG",
+    "Data": "10/20/2021 1:47:07 AM"
+  },
+  {
+    "_CustomObjectKey": "31",
+    "ID_PROPOSTA": "a0g6g000004Fq51AAC",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "32",
+    "ID_PROPOSTA": "a0g6g000004FpvFAAS",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "33",
+    "ID_PROPOSTA": "a0g6g000004Fq2nAAC",
+    "Data": "1/6/2022 11:17:06 AM"
+  },
+  {
+    "_CustomObjectKey": "34",
+    "ID_PROPOSTA": "a0g6g000004Fom4AAC",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "35",
+    "ID_PROPOSTA": "a0g6g000004FjtzAAC",
+    "Data": "1/6/2022 11:17:06 AM"
+  },
+  {
+    "_CustomObjectKey": "36",
+    "ID_PROPOSTA": "a0g6g000004FpfuAAC",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "37",
+    "ID_PROPOSTA": "a0g6g000004FphEAAS",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "38",
+    "ID_PROPOSTA": "a0g6g000004FpklAAC",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "39",
+    "ID_PROPOSTA": "a0g6g000004FpsPAAS",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "40",
+    "ID_PROPOSTA": "a0g6g000004FpvAAAS",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "41",
+    "ID_PROPOSTA": "a0g6g000004FpuuAAC",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "42",
+    "ID_PROPOSTA": "a0g6g000004FkmhAAC",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "43",
+    "ID_PROPOSTA": "a0g6g000004FlT8AAK",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "44",
+    "ID_PROPOSTA": "a0g6g000004FoXFAA0",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "45",
+    "ID_PROPOSTA": "a0g6g000004FoYaAAK",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "46",
+    "ID_PROPOSTA": "a0g6g000004FkqQAAS",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "47",
+    "ID_PROPOSTA": "a0g6g000004FkpuAAC",
+    "Data": "1/6/2022 11:17:06 AM"
+  },
+  {
+    "_CustomObjectKey": "48",
+    "ID_PROPOSTA": "a0g6g000004FkxqAAC",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "49",
+    "ID_PROPOSTA": "a0g6g000004FomYAAS",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "50",
+    "ID_PROPOSTA": "a0g6g000004Fok8AAC",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "51",
+    "ID_PROPOSTA": "a0g6g000004FokRAAS",
+    "Data": "1/6/2022 11:14:19 AM"
+  },
+  {
+    "_CustomObjectKey": "52",
+    "ID_PROPOSTA": "a0g6g0000060AeIAAU",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "53",
+    "ID_PROPOSTA": "a0g6g0000060AfjAAE",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "54",
+    "ID_PROPOSTA": "a0g6g0000060AgLAAU",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "55",
+    "ID_PROPOSTA": "a0g6g0000060AkxAAE",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "56",
+    "ID_PROPOSTA": "a0g6g0000060AobAAE",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "57",
+    "ID_PROPOSTA": "a0g6g0000060As3AAE",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "58",
+    "ID_PROPOSTA": "a0g6g0000060As6AAE",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "59",
+    "ID_PROPOSTA": "a0g6g0000060AwAAAU",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "60",
+    "ID_PROPOSTA": "a0g6g0000060AxLAAU",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "61",
+    "ID_PROPOSTA": "a0g6g0000060B40AAE",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "62",
+    "ID_PROPOSTA": "a0g6g0000060B6iAAE",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "63",
+    "ID_PROPOSTA": "a0g6g0000060BCKAA2",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "64",
+    "ID_PROPOSTA": "a0g6g0000060BFeAAM",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "65",
+    "ID_PROPOSTA": "a0g6g0000060BGMAA2",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "66",
+    "ID_PROPOSTA": "a0g6g0000060BO6AAM",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "67",
+    "ID_PROPOSTA": "a0g6g0000060BQXAA2",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "68",
+    "ID_PROPOSTA": "a0g6g0000060BWQAA2",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "69",
+    "ID_PROPOSTA": "a0g6g0000060BkQAAU",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "70",
+    "ID_PROPOSTA": "a0g6g0000060BmsAAE",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "71",
+    "ID_PROPOSTA": "a0g6g0000060BopAAE",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "72",
+    "ID_PROPOSTA": "a0g6g000005zyRAAAY",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "73",
+    "ID_PROPOSTA": "a0g6g000005zyTNAAY",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "74",
+    "ID_PROPOSTA": "a0g6g000005zyd6AAA",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "75",
+    "ID_PROPOSTA": "a0g6g000005zyfbAAA",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "76",
+    "ID_PROPOSTA": "a0g6g000005zymCAAQ",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "77",
+    "ID_PROPOSTA": "a0g6g000005zynxAAA",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "78",
+    "ID_PROPOSTA": "a0g6g000005zyv4AAA",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "79",
+    "ID_PROPOSTA": "a0g6g000005zz2FAAQ",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "80",
+    "ID_PROPOSTA": "a0g6g000005zz59AAA",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "81",
+    "ID_PROPOSTA": "a0g6g000005zzFdAAI",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "82",
+    "ID_PROPOSTA": "a0g6g000005zzFqAAI",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "83",
+    "ID_PROPOSTA": "a0g6g000005zzGXAAY",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "84",
+    "ID_PROPOSTA": "a0g6g000005zzKJAAY",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "85",
+    "ID_PROPOSTA": "a0g6g000005zzV8AAI",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "86",
+    "ID_PROPOSTA": "a0g6g000005zzWuAAI",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "87",
+    "ID_PROPOSTA": "a0g6g000005zzZYAAY",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "88",
+    "ID_PROPOSTA": "a0g6g000005zzdYAAQ",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "89",
+    "ID_PROPOSTA": "a0g6g000005zzpRAAQ",
+    "Data": "11/10/2022 7:44:32 PM"
+  },
+  {
+    "_CustomObjectKey": "90",
+    "ID_PROPOSTA": "a0g6g00000603MwAAI",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "91",
+    "ID_PROPOSTA": "a0g6g00000603PvAAI",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "92",
+    "ID_PROPOSTA": "a0g6g00000603Q3AAI",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "93",
+    "ID_PROPOSTA": "a0g6g00000603V4AAI",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "94",
+    "ID_PROPOSTA": "a0g6g00000603YvAAI",
+    "Data": "11/10/2022 7:28:19 PM"
+  },
+  {
+    "_CustomObjectKey": "95",
+    "ID_PROPOSTA": "a0g6g00000603b7AAA",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "96",
+    "ID_PROPOSTA": "a0g6g00000603bQAAQ",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "97",
+    "ID_PROPOSTA": "a0g6g00000603bzAAA",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "98",
+    "ID_PROPOSTA": "a0g6g00000603iaAAA",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "99",
+    "ID_PROPOSTA": "a0g6g00000603kCAAQ",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "100",
+    "ID_PROPOSTA": "a0g6g00000603lTAAQ",
+    "Data": "11/10/2022 7:28:19 PM"
+  },
+  {
+    "_CustomObjectKey": "101",
+    "ID_PROPOSTA": "a0g6g00000603nBAAQ",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "102",
+    "ID_PROPOSTA": "a0g6g00000603oTAAQ",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "103",
+    "ID_PROPOSTA": "a0g6g000006044RAAQ",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "104",
+    "ID_PROPOSTA": "a0g6g000006048MAAQ",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "105",
+    "ID_PROPOSTA": "a0g6g00000604GGAAY",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "106",
+    "ID_PROPOSTA": "a0g6g00000604LOAAY",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "107",
+    "ID_PROPOSTA": "a0g6g00000604N4AAI",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "108",
+    "ID_PROPOSTA": "a0g6g00000604UcAAI",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "109",
+    "ID_PROPOSTA": "a0g6g00000608pTAAQ",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "110",
+    "ID_PROPOSTA": "a0g6g00000608tDAAQ",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "111",
+    "ID_PROPOSTA": "a0g6g00000608wiAAA",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "112",
+    "ID_PROPOSTA": "a0g6g00000608xUAAQ",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "113",
+    "ID_PROPOSTA": "a0g6g000006093WAAQ",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "114",
+    "ID_PROPOSTA": "a0g6g000006093qAAA",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "115",
+    "ID_PROPOSTA": "a0g6g00000609ArAAI",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "116",
+    "ID_PROPOSTA": "a0g6g00000609IOAAY",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "117",
+    "ID_PROPOSTA": "a0g6g00000609KtAAI",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "118",
+    "ID_PROPOSTA": "a0g6g00000609MCAAY",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "119",
+    "ID_PROPOSTA": "a0g6g00000609RzAAI",
+    "Data": "11/10/2022 4:35:06 PM"
+  },
+  {
+    "_CustomObjectKey": "120",
+    "ID_PROPOSTA": "a0g6g000005zfltAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "121",
+    "ID_PROPOSTA": "a0g6g000005zfoMAAQ",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "122",
+    "ID_PROPOSTA": "a0g6g000005zl8mAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "123",
+    "ID_PROPOSTA": "a0g6g000005zlA2AAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "124",
+    "ID_PROPOSTA": "a0g6g000005zlBdAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "125",
+    "ID_PROPOSTA": "a0g6g000005zlDsAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "126",
+    "ID_PROPOSTA": "a0g6g000005zlGsAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "127",
+    "ID_PROPOSTA": "a0g6g000005zlJSAAY",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "128",
+    "ID_PROPOSTA": "a0g6g000005zlSoAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "129",
+    "ID_PROPOSTA": "a0g6g000005zlYxAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "130",
+    "ID_PROPOSTA": "a0g6g000005zldgAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "131",
+    "ID_PROPOSTA": "a0g6g000005zljnAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "132",
+    "ID_PROPOSTA": "a0g6g000005zlnwAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "133",
+    "ID_PROPOSTA": "a0g6g000005zlnyAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "134",
+    "ID_PROPOSTA": "a0g6g000005zlpOAAQ",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "135",
+    "ID_PROPOSTA": "a0g6g000005zlq1AAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "136",
+    "ID_PROPOSTA": "a0g6g000005zlzmAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "137",
+    "ID_PROPOSTA": "a0g6g000005zm3TAAQ",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "138",
+    "ID_PROPOSTA": "a0g6g000005zm6oAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "139",
+    "ID_PROPOSTA": "a0g6g000005zm6sAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "140",
+    "ID_PROPOSTA": "a0g6g000005zmG6AAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "141",
+    "ID_PROPOSTA": "a0g6g000005zmH5AAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "142",
+    "ID_PROPOSTA": "a0g6g000005zmLUAAY",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "143",
+    "ID_PROPOSTA": "a0g6g000005zmNTAAY",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "144",
+    "ID_PROPOSTA": "a0g6g0000060BpJAAU",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "145",
+    "ID_PROPOSTA": "a0g6g000005zVzwAAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "146",
+    "ID_PROPOSTA": "a0g6g000005ztU7AAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "147",
+    "ID_PROPOSTA": "a0g6g000005zGYnAAM",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "148",
+    "ID_PROPOSTA": "a0g6g000005zGlrAAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "149",
+    "ID_PROPOSTA": "a0g6g000005zHWyAAM",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "150",
+    "ID_PROPOSTA": "a0g6g000005zHbAAAU",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "151",
+    "ID_PROPOSTA": "a0g6g000005zHx8AAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "152",
+    "ID_PROPOSTA": "a0g6g000005zI2xAAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "153",
+    "ID_PROPOSTA": "a0g6g000005zMZFAA2",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "154",
+    "ID_PROPOSTA": "a0g6g000005zMhMAAU",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "155",
+    "ID_PROPOSTA": "a0g6g000005zN1yAAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "156",
+    "ID_PROPOSTA": "a0g6g000005zNMbAAM",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "157",
+    "ID_PROPOSTA": "a0g6g000005zNV4AAM",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "158",
+    "ID_PROPOSTA": "a0g6g000005zNY6AAM",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "159",
+    "ID_PROPOSTA": "a0g6g000005zNdDAAU",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "160",
+    "ID_PROPOSTA": "a0g6g000005zNePAAU",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "161",
+    "ID_PROPOSTA": "a0g6g000005zOGWAA2",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "162",
+    "ID_PROPOSTA": "a0g6g000005zOYVAA2",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "163",
+    "ID_PROPOSTA": "a0g6g000005zOc3AAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "164",
+    "ID_PROPOSTA": "a0g6g000005zOgbAAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "165",
+    "ID_PROPOSTA": "a0g6g000005zSabAAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "166",
+    "ID_PROPOSTA": "a0g6g000005zTcLAAU",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "167",
+    "ID_PROPOSTA": "a0g6g000005zTlnAAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "168",
+    "ID_PROPOSTA": "a0g6g000005zTuHAAU",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "169",
+    "ID_PROPOSTA": "a0g6g000005zSzSAAU",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "170",
+    "ID_PROPOSTA": "a0g6g000005zT9WAAU",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "171",
+    "ID_PROPOSTA": "a0g6g000005zT9mAAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "172",
+    "ID_PROPOSTA": "a0g6g000005zTCaAAM",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "173",
+    "ID_PROPOSTA": "a0g6g000005zVjZAAU",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "174",
+    "ID_PROPOSTA": "a0g6g000005zVvcAAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "175",
+    "ID_PROPOSTA": "a0g6g000005zW6mAAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "176",
+    "ID_PROPOSTA": "a0g6g000005zW84AAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "177",
+    "ID_PROPOSTA": "a0g6g000005zWBQAA2",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "178",
+    "ID_PROPOSTA": "a0g6g000005zWEBAA2",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "179",
+    "ID_PROPOSTA": "a0g6g000005zWFHAA2",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "180",
+    "ID_PROPOSTA": "a0g6g000005zWIzAAM",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "181",
+    "ID_PROPOSTA": "a0g6g000005zWaKAAU",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "182",
+    "ID_PROPOSTA": "a0g6g000005zWhNAAU",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "183",
+    "ID_PROPOSTA": "a0g6g000005zWkDAAU",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "184",
+    "ID_PROPOSTA": "a0g6g000005zWy4AAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "185",
+    "ID_PROPOSTA": "a0g6g000005zX2lAAE",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "186",
+    "ID_PROPOSTA": "a0g6g000005zXAzAAM",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "187",
+    "ID_PROPOSTA": "a0g6g000005zbkUAAQ",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "188",
+    "ID_PROPOSTA": "a0g6g000005zbktAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "189",
+    "ID_PROPOSTA": "a0g6g000005zbpOAAQ",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "190",
+    "ID_PROPOSTA": "a0g6g000005zc0aAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "191",
+    "ID_PROPOSTA": "a0g6g000005zcX6AAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "192",
+    "ID_PROPOSTA": "a0g6g000005zccjAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "193",
+    "ID_PROPOSTA": "a0g6g000005zciFAAQ",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "194",
+    "ID_PROPOSTA": "a0g6g000005zfEBAAY",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "195",
+    "ID_PROPOSTA": "a0g6g000005zfLnAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "196",
+    "ID_PROPOSTA": "a0g6g000005zfO2AAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "197",
+    "ID_PROPOSTA": "a0g6g000005zfRRAAY",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "198",
+    "ID_PROPOSTA": "a0g6g000005zfRnAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "199",
+    "ID_PROPOSTA": "a0g6g000005zfVcAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "200",
+    "ID_PROPOSTA": "a0g6g000005zfX6AAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "201",
+    "ID_PROPOSTA": "a0g6g000005zfdfAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "202",
+    "ID_PROPOSTA": "a0g6g000005zfhBAAQ",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "203",
+    "ID_PROPOSTA": "a0g6g000005zfieAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "204",
+    "ID_PROPOSTA": "a0g6g000005zfjnAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "205",
+    "ID_PROPOSTA": "a0g6g000005zmSYAAY",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "206",
+    "ID_PROPOSTA": "a0g6g000005zmTuAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "207",
+    "ID_PROPOSTA": "a0g6g000005zmUAAAY",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "208",
+    "ID_PROPOSTA": "a0g6g000005zmUwAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "209",
+    "ID_PROPOSTA": "a0g6g000005zmWdAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "210",
+    "ID_PROPOSTA": "a0g6g000005zmZgAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "211",
+    "ID_PROPOSTA": "a0g6g000005zmaGAAQ",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "212",
+    "ID_PROPOSTA": "a0g6g000005zmcFAAQ",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "213",
+    "ID_PROPOSTA": "a0g6g000005zs0zAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "214",
+    "ID_PROPOSTA": "a0g6g000005zs2AAAQ",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "215",
+    "ID_PROPOSTA": "a0g6g000005zs6MAAQ",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "216",
+    "ID_PROPOSTA": "a0g6g000005zs96AAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "217",
+    "ID_PROPOSTA": "a0g6g000005zsBEAAY",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "218",
+    "ID_PROPOSTA": "a0g6g000005zsQuAAI",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "219",
+    "ID_PROPOSTA": "a0g6g000005zsdnAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "220",
+    "ID_PROPOSTA": "a0g6g000005zsjEAAQ",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "221",
+    "ID_PROPOSTA": "a0g6g000005zsnIAAQ",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "222",
+    "ID_PROPOSTA": "a0g6g000005zspEAAQ",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "223",
+    "ID_PROPOSTA": "a0g6g000005zspxAAA",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "224",
+    "ID_PROPOSTA": "a0g6g000005zsrsAAA",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "225",
+    "ID_PROPOSTA": "a0g6g000005zsw5AAA",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "226",
+    "ID_PROPOSTA": "a0g6g000005zt00AAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "227",
+    "ID_PROPOSTA": "a0g6g000005zt6DAAQ",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "228",
+    "ID_PROPOSTA": "a0g6g000005zt70AAA",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "229",
+    "ID_PROPOSTA": "a0g6g000005ztClAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "230",
+    "ID_PROPOSTA": "a0g6g000005ztElAAI",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "231",
+    "ID_PROPOSTA": "a0g6g000005ztFPAAY",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "232",
+    "ID_PROPOSTA": "a0g6g000005ztFjAAI",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "233",
+    "ID_PROPOSTA": "a0g6g000005ztGuAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "234",
+    "ID_PROPOSTA": "a0g6g000005ztHKAAY",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "235",
+    "ID_PROPOSTA": "a0g6g000005ztSPAAY",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "236",
+    "ID_PROPOSTA": "a0g6g000005ztU8AAI",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "237",
+    "ID_PROPOSTA": "a0g6g000005ztWjAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "238",
+    "ID_PROPOSTA": "a0g6g000005ztXDAAY",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "239",
+    "ID_PROPOSTA": "a0g6g000005ztYIAAY",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "240",
+    "ID_PROPOSTA": "a0g6g000005ztZNAAY",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "241",
+    "ID_PROPOSTA": "a0g6g000005ztb4AAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "242",
+    "ID_PROPOSTA": "a0g6g000005ztbaAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "243",
+    "ID_PROPOSTA": "a0g6g000005ztfxAAA",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "244",
+    "ID_PROPOSTA": "a0g6g000005zyTsAAI",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "245",
+    "ID_PROPOSTA": "a0g6g000005zyXjAAI",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "246",
+    "ID_PROPOSTA": "a0g6g000005zyaqAAA",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "247",
+    "ID_PROPOSTA": "a0g6g000005zzR5AAI",
+    "Data": "11/10/2022 8:48:35 PM"
+  },
+  {
+    "_CustomObjectKey": "248",
+    "ID_PROPOSTA": "a0g6g000005zzRCAAY",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "249",
+    "ID_PROPOSTA": "a0g6g00000603EVAAY",
+    "Data": "11/10/2022 8:46:55 PM"
+  },
+  {
+    "_CustomObjectKey": "250",
+    "ID_PROPOSTA": "a0g6g0000060IlEAAU",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "251",
+    "ID_PROPOSTA": "a0g6g0000060ItoAAE",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "252",
+    "ID_PROPOSTA": "a0g6g0000060IwKAAU",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "253",
+    "ID_PROPOSTA": "a0g6g0000060J0iAAE",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "254",
+    "ID_PROPOSTA": "a0g6g0000060J1rAAE",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "255",
+    "ID_PROPOSTA": "a0g6g0000060J4HAAU",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "256",
+    "ID_PROPOSTA": "a0g6g0000060J6UAAU",
+    "Data": "11/13/2022 1:15:45 PM"
+  },
+  {
+    "_CustomObjectKey": "257",
+    "ID_PROPOSTA": "a0g6g0000060J7EAAU",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "258",
+    "ID_PROPOSTA": "a0g6g0000060J9qAAE",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "259",
+    "ID_PROPOSTA": "a0g6g0000060JEBAA2",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "260",
+    "ID_PROPOSTA": "a0g6g0000060JX1AAM",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "261",
+    "ID_PROPOSTA": "a0g6g0000060JY4AAM",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "262",
+    "ID_PROPOSTA": "a0g6g0000060JaEAAU",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "263",
+    "ID_PROPOSTA": "a0g6g0000060JarAAE",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "264",
+    "ID_PROPOSTA": "a0g6g0000060Jb2AAE",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "265",
+    "ID_PROPOSTA": "a0g6g0000060JjXAAU",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "266",
+    "ID_PROPOSTA": "a0g6g0000060JoCAAU",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "267",
+    "ID_PROPOSTA": "a0g6g0000060JoTAAU",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "268",
+    "ID_PROPOSTA": "a0g6g0000060Js9AAE",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "269",
+    "ID_PROPOSTA": "a0g6g0000060Jv7AAE",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "270",
+    "ID_PROPOSTA": "a0g6g0000060Jx7AAE",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "271",
+    "ID_PROPOSTA": "a0g6g0000060K2OAAU",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "272",
+    "ID_PROPOSTA": "a0g6g0000060K6iAAE",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "273",
+    "ID_PROPOSTA": "a0g6g0000060K75AAE",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "274",
+    "ID_PROPOSTA": "a0g6g0000060KCvAAM",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "275",
+    "ID_PROPOSTA": "a0g6g0000060KDeAAM",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "276",
+    "ID_PROPOSTA": "a0g6g0000060KEmAAM",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "277",
+    "ID_PROPOSTA": "a0g6g0000060KHsAAM",
+    "Data": "11/11/2022 1:13:00 PM"
+  },
+  {
+    "_CustomObjectKey": "278",
+    "ID_PROPOSTA": "a0g6g0000060B3zAAE",
+    "Data": "11/12/2022 1:10:50 PM"
+  },
+  {
+    "_CustomObjectKey": "279",
+    "ID_PROPOSTA": "a0g6g0000060BAIAA2",
+    "Data": "11/13/2022 1:10:29 PM"
+  },
+  {
+    "_CustomObjectKey": "280",
+    "ID_PROPOSTA": "a0g6g0000060UWNAA2",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "281",
+    "ID_PROPOSTA": "a0g6g0000060UXDAA2",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "282",
+    "ID_PROPOSTA": "a0g6g0000060UXZAA2",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "283",
+    "ID_PROPOSTA": "a0g6g0000060UeyAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "284",
+    "ID_PROPOSTA": "a0g6g0000060UnCAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "285",
+    "ID_PROPOSTA": "a0g6g0000060UKyAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "286",
+    "ID_PROPOSTA": "a0g6g0000060UMIAA2",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "287",
+    "ID_PROPOSTA": "a0g6g0000060V3JAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "288",
+    "ID_PROPOSTA": "a0g6g0000060VBqAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "289",
+    "ID_PROPOSTA": "a0g6g0000060VFgAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "290",
+    "ID_PROPOSTA": "a0g6g0000060VFjAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "291",
+    "ID_PROPOSTA": "a0g6g0000060VI2AAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "292",
+    "ID_PROPOSTA": "a0g6g0000060VQwAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "293",
+    "ID_PROPOSTA": "a0g6g0000060VSHAA2",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "294",
+    "ID_PROPOSTA": "a0g6g0000060VTuAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "295",
+    "ID_PROPOSTA": "a0g6g0000060VZGAA2",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "296",
+    "ID_PROPOSTA": "a0g6g0000060VcTAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "297",
+    "ID_PROPOSTA": "a0g6g0000060VduAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "298",
+    "ID_PROPOSTA": "a0g6g0000060VkHAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "299",
+    "ID_PROPOSTA": "a0g6g0000060VpFAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "300",
+    "ID_PROPOSTA": "a0g6g0000060VvbAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "301",
+    "ID_PROPOSTA": "a0g6g0000060VvgAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "302",
+    "ID_PROPOSTA": "a0g6g0000060Vw7AAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "303",
+    "ID_PROPOSTA": "a0g6g0000060VwgAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "304",
+    "ID_PROPOSTA": "a0g6g0000060VxlAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "305",
+    "ID_PROPOSTA": "a0g6g0000060W1FAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "306",
+    "ID_PROPOSTA": "a0g6g0000060W2aAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "307",
+    "ID_PROPOSTA": "a0g6g0000060W3GAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "308",
+    "ID_PROPOSTA": "a0g6g0000060W5EAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "309",
+    "ID_PROPOSTA": "a0g6g0000060V0bAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "310",
+    "ID_PROPOSTA": "a0g6g0000060W6PAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "311",
+    "ID_PROPOSTA": "a0g6g0000060W7jAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "312",
+    "ID_PROPOSTA": "a0g6g0000060W7qAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "313",
+    "ID_PROPOSTA": "a0g6g0000060W8SAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "314",
+    "ID_PROPOSTA": "a0g6g0000060WEeAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "315",
+    "ID_PROPOSTA": "a0g6g0000060WQjAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "316",
+    "ID_PROPOSTA": "a0g6g0000060Wn0AAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "317",
+    "ID_PROPOSTA": "a0g6g0000060WnmAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "318",
+    "ID_PROPOSTA": "a0g6g0000060WrsAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "319",
+    "ID_PROPOSTA": "a0g6g0000060WtZAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "320",
+    "ID_PROPOSTA": "a0g6g0000060WwwAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "321",
+    "ID_PROPOSTA": "a0g6g0000060WzgAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "322",
+    "ID_PROPOSTA": "a0g6g0000060XSGAA2",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "323",
+    "ID_PROPOSTA": "a0g6g0000060XTpAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "324",
+    "ID_PROPOSTA": "a0g6g0000060XUFAA2",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "325",
+    "ID_PROPOSTA": "a0g6g0000060XVdAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "326",
+    "ID_PROPOSTA": "a0g6g0000060XYAAA2",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "327",
+    "ID_PROPOSTA": "a0g6g0000060XihAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "328",
+    "ID_PROPOSTA": "a0g6g0000060XoUAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "329",
+    "ID_PROPOSTA": "a0g6g0000060XtUAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "330",
+    "ID_PROPOSTA": "a0g6g0000060Xw7AAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "331",
+    "ID_PROPOSTA": "a0g6g0000060XGFAA2",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "332",
+    "ID_PROPOSTA": "a0g6g0000060XKjAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "333",
+    "ID_PROPOSTA": "a0g6g0000060XPuAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "334",
+    "ID_PROPOSTA": "a0g6g0000060Y4SAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "335",
+    "ID_PROPOSTA": "a0g6g0000060XNOAA2",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "336",
+    "ID_PROPOSTA": "a0g6g0000060XLlAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "337",
+    "ID_PROPOSTA": "a0g6g0000060XL4AAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "338",
+    "ID_PROPOSTA": "a0g6g0000060XGdAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "339",
+    "ID_PROPOSTA": "a0g6g0000060XGbAAM",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "340",
+    "ID_PROPOSTA": "a0g6g0000060Xv5AAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "341",
+    "ID_PROPOSTA": "a0g6g0000060XuEAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "342",
+    "ID_PROPOSTA": "a0g6g0000060XtQAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "343",
+    "ID_PROPOSTA": "a0g6g0000060XaqAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "344",
+    "ID_PROPOSTA": "a0g6g0000060X8TAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "345",
+    "ID_PROPOSTA": "a0g6g0000060X4oAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "346",
+    "ID_PROPOSTA": "a0g6g0000060X17AAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "347",
+    "ID_PROPOSTA": "a0g6g0000060WuLAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "348",
+    "ID_PROPOSTA": "a0g6g0000060WVBAA2",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "349",
+    "ID_PROPOSTA": "a0g6g0000060W8CAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "350",
+    "ID_PROPOSTA": "a0g6g0000060W8BAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "351",
+    "ID_PROPOSTA": "a0g6g0000060VwsAAE",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "352",
+    "ID_PROPOSTA": "a0g6g0000060VmVAAU",
+    "Data": "11/15/2022 1:11:04 PM"
+  },
+  {
+    "_CustomObjectKey": "353",
+    "ID_PROPOSTA": "a0g6g0000060XlOAAU",
+    "Data": "11/16/2022 8:16:02 AM"
+  },
+  {
+    "_CustomObjectKey": "354",
+    "ID_PROPOSTA": "a0g6g0000060cKLAAY",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "355",
+    "ID_PROPOSTA": "a0g6g0000060cLWAAY",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "356",
+    "ID_PROPOSTA": "a0g6g0000060cQrAAI",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "357",
+    "ID_PROPOSTA": "a0g6g0000060cSJAAY",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "358",
+    "ID_PROPOSTA": "a0g6g0000060ceZAAQ",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "359",
+    "ID_PROPOSTA": "a0g6g0000060co4AAA",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "360",
+    "ID_PROPOSTA": "a0g6g0000060crRAAQ",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "361",
+    "ID_PROPOSTA": "a0g6g0000060cylAAA",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "362",
+    "ID_PROPOSTA": "a0g6g0000060dCCAAY",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "363",
+    "ID_PROPOSTA": "a0g6g0000060dETAAY",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "364",
+    "ID_PROPOSTA": "a0g6g0000060dG8AAI",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "365",
+    "ID_PROPOSTA": "a0g6g0000060dLvAAI",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "366",
+    "ID_PROPOSTA": "a0g6g0000060dOCAAY",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "367",
+    "ID_PROPOSTA": "a0g6g0000060c7kAAA",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "368",
+    "ID_PROPOSTA": "a0g6g0000060cGNAAY",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "369",
+    "ID_PROPOSTA": "a0g6g0000060cGYAAY",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "370",
+    "ID_PROPOSTA": "a0g6g0000060cICAAY",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "371",
+    "ID_PROPOSTA": "a0g6g0000060cIGAAY",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "372",
+    "ID_PROPOSTA": "a0g6g0000060dEOAAY",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "373",
+    "ID_PROPOSTA": "a0g6g0000060cKEAAY",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "374",
+    "ID_PROPOSTA": "a0g6g0000060cIvAAI",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "375",
+    "ID_PROPOSTA": "a0g6g0000060cGvAAI",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "376",
+    "ID_PROPOSTA": "a0g6g0000060dHsAAI",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "377",
+    "ID_PROPOSTA": "a0g6g0000060dEUAAY",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "378",
+    "ID_PROPOSTA": "a0g6g0000060d6MAAQ",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "379",
+    "ID_PROPOSTA": "a0g6g0000060d2pAAA",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "380",
+    "ID_PROPOSTA": "a0g6g0000060csIAAQ",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "381",
+    "ID_PROPOSTA": "a0g6g0000060cghAAA",
+    "Data": "11/17/2022 1:11:40 PM"
+  },
+  {
+    "_CustomObjectKey": "382",
+    "ID_PROPOSTA": "a0g6g0000060cflAAA",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "383",
+    "ID_PROPOSTA": "a0g6g0000060d2rAAA",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "384",
+    "ID_PROPOSTA": "a0g6g0000060dOYAAY",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "385",
+    "ID_PROPOSTA": "a0g6g0000060hOgAAI",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "386",
+    "ID_PROPOSTA": "a0g6g0000060hPxAAI",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "387",
+    "ID_PROPOSTA": "a0g6g0000060hQSAAY",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "388",
+    "ID_PROPOSTA": "a0g6g0000060hQzAAI",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "389",
+    "ID_PROPOSTA": "a0g6g0000060hRuAAI",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "390",
+    "ID_PROPOSTA": "a0g6g0000060hUJAAY",
+    "Data": "11/18/2022 1:16:19 PM"
+  },
+  {
+    "_CustomObjectKey": "391",
+    "ID_PROPOSTA": "a0g6g0000060hUfAAI",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "392",
+    "ID_PROPOSTA": "a0g6g0000060hWvAAI",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "393",
+    "ID_PROPOSTA": "a0g6g0000060hhPAAQ",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "394",
+    "ID_PROPOSTA": "a0g6g0000060hr7AAA",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "395",
+    "ID_PROPOSTA": "a0g6g0000060hr8AAA",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "396",
+    "ID_PROPOSTA": "a0g6g0000060hrWAAQ",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "397",
+    "ID_PROPOSTA": "a0g6g0000060huCAAQ",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "398",
+    "ID_PROPOSTA": "a0g6g0000060i2FAAQ",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "399",
+    "ID_PROPOSTA": "a0g6g0000060i4sAAA",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "400",
+    "ID_PROPOSTA": "a0g6g0000060i4vAAA",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "401",
+    "ID_PROPOSTA": "a0g6g0000060i6DAAQ",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "402",
+    "ID_PROPOSTA": "a0g6g0000060i6WAAQ",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "403",
+    "ID_PROPOSTA": "a0g6g0000060iAmAAI",
+    "Data": "11/19/2022 1:15:55 PM"
+  },
+  {
+    "_CustomObjectKey": "404",
+    "ID_PROPOSTA": "a0g6g0000060iDcAAI",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "405",
+    "ID_PROPOSTA": "a0g6g0000060iInAAI",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "406",
+    "ID_PROPOSTA": "a0g6g0000060iP7AAI",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "407",
+    "ID_PROPOSTA": "a0g6g0000060iYuAAI",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "408",
+    "ID_PROPOSTA": "a0g6g0000060iZSAAY",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "409",
+    "ID_PROPOSTA": "a0g6g0000060idOAAQ",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "410",
+    "ID_PROPOSTA": "a0g6g0000060ifyAAA",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "411",
+    "ID_PROPOSTA": "a0g6g0000060igqAAA",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "412",
+    "ID_PROPOSTA": "a0g6g0000060iiDAAQ",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "413",
+    "ID_PROPOSTA": "a0g6g0000060ilOAAQ",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "414",
+    "ID_PROPOSTA": "a0g6g0000060c8lAAA",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "415",
+    "ID_PROPOSTA": "a0g6g0000060ioZAAQ",
+    "Data": "11/18/2022 1:16:19 PM"
+  },
+  {
+    "_CustomObjectKey": "416",
+    "ID_PROPOSTA": "a0g6g0000060hymAAA",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "417",
+    "ID_PROPOSTA": "a0g6g0000060hxMAAQ",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "418",
+    "ID_PROPOSTA": "a0g6g0000060hrkAAA",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "419",
+    "ID_PROPOSTA": "a0g6g0000060hmnAAA",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "420",
+    "ID_PROPOSTA": "a0g6g0000060hkiAAA",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "421",
+    "ID_PROPOSTA": "a0g6g0000060hWpAAI",
+    "Data": "11/18/2022 1:11:26 PM"
+  },
+  {
+    "_CustomObjectKey": "422",
+    "ID_PROPOSTA": "a0g6g0000060hrlAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "423",
+    "ID_PROPOSTA": "a0g6g0000060hynAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "424",
+    "ID_PROPOSTA": "a0g6g0000060l2jAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "425",
+    "ID_PROPOSTA": "a0g6g0000060l3KAAQ",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "426",
+    "ID_PROPOSTA": "a0g6g0000060l4PAAQ",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "427",
+    "ID_PROPOSTA": "a0g6g0000060l5bAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "428",
+    "ID_PROPOSTA": "a0g6g0000060lBeAAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "429",
+    "ID_PROPOSTA": "a0g6g0000060lHSAAY",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "430",
+    "ID_PROPOSTA": "a0g6g0000060lHVAAY",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "431",
+    "ID_PROPOSTA": "a0g6g0000060lIgAAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "432",
+    "ID_PROPOSTA": "a0g6g0000060lJsAAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "433",
+    "ID_PROPOSTA": "a0g6g0000060lKtAAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "434",
+    "ID_PROPOSTA": "a0g6g0000060lRBAAY",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "435",
+    "ID_PROPOSTA": "a0g6g0000060lfbAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "436",
+    "ID_PROPOSTA": "a0g6g0000060lhMAAQ",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "437",
+    "ID_PROPOSTA": "a0g6g0000060lhwAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "438",
+    "ID_PROPOSTA": "a0g6g0000060ljkAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "439",
+    "ID_PROPOSTA": "a0g6g0000060lpCAAQ",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "440",
+    "ID_PROPOSTA": "a0g6g0000060lpKAAQ",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "441",
+    "ID_PROPOSTA": "a0g6g0000060lshAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "442",
+    "ID_PROPOSTA": "a0g6g0000060lyiAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "443",
+    "ID_PROPOSTA": "a0g6g0000060lzEAAQ",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "444",
+    "ID_PROPOSTA": "a0g6g0000060lzlAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "445",
+    "ID_PROPOSTA": "a0g6g0000060m1bAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "446",
+    "ID_PROPOSTA": "a0g6g0000060m6tAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "447",
+    "ID_PROPOSTA": "a0g6g0000060m9MAAQ",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "448",
+    "ID_PROPOSTA": "a0g6g0000060mBDAAY",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "449",
+    "ID_PROPOSTA": "a0g6g0000060mDAAAY",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "450",
+    "ID_PROPOSTA": "a0g6g0000060mDwAAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "451",
+    "ID_PROPOSTA": "a0g6g0000060mE6AAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "452",
+    "ID_PROPOSTA": "a0g6g0000060mENAAY",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "453",
+    "ID_PROPOSTA": "a0g6g0000060mFtAAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "454",
+    "ID_PROPOSTA": "a0g6g0000060mFuAAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "455",
+    "ID_PROPOSTA": "a0g6g0000060mLSAAY",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "456",
+    "ID_PROPOSTA": "a0g6g0000060mU0AAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "457",
+    "ID_PROPOSTA": "a0g6g0000060mWSAAY",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "458",
+    "ID_PROPOSTA": "a0g6g0000060mX0AAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "459",
+    "ID_PROPOSTA": "a0g6g0000060mYKAAY",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "460",
+    "ID_PROPOSTA": "a0g6g0000060mYcAAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "461",
+    "ID_PROPOSTA": "a0g6g0000060mZwAAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "462",
+    "ID_PROPOSTA": "a0g6g0000060mciAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "463",
+    "ID_PROPOSTA": "a0g6g0000060mM8AAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "464",
+    "ID_PROPOSTA": "a0g6g0000060mAhAAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "465",
+    "ID_PROPOSTA": "a0g6g0000060m3DAAQ",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "466",
+    "ID_PROPOSTA": "a0g6g0000060lyrAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "467",
+    "ID_PROPOSTA": "a0g6g0000060lppAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "468",
+    "ID_PROPOSTA": "a0g6g0000060loxAAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "469",
+    "ID_PROPOSTA": "a0g6g0000060ln1AAA",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "470",
+    "ID_PROPOSTA": "a0g6g0000060lXjAAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "471",
+    "ID_PROPOSTA": "a0g6g0000060lXTAAY",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "472",
+    "ID_PROPOSTA": "a0g6g0000060lQAAAY",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "473",
+    "ID_PROPOSTA": "a0g6g0000060lLqAAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "474",
+    "ID_PROPOSTA": "a0g6g0000060lKVAAY",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "475",
+    "ID_PROPOSTA": "a0g6g0000060lHdAAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "476",
+    "ID_PROPOSTA": "a0g6g0000060lEjAAI",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "477",
+    "ID_PROPOSTA": "a0g6g0000060lAJAAY",
+    "Data": "11/19/2022 1:15:55 PM"
+  },
+  {
+    "_CustomObjectKey": "478",
+    "ID_PROPOSTA": "a0g6g0000060cSTAAY",
+    "Data": "11/19/2022 1:11:05 PM"
+  },
+  {
+    "_CustomObjectKey": "479",
+    "ID_PROPOSTA": "a0g6g0000060hPfAAI",
+    "Data": "11/20/2022 1:15:34 PM"
+  },
+  {
+    "_CustomObjectKey": "480",
+    "ID_PROPOSTA": "a0g6g0000060lbHAAQ",
+    "Data": "11/20/2022 1:15:34 PM"
+  },
+  {
+    "_CustomObjectKey": "481",
+    "ID_PROPOSTA": "a0g6g0000060lk0AAA",
+    "Data": "11/20/2022 1:10:52 PM"
+  },
+  {
+    "_CustomObjectKey": "482",
+    "ID_PROPOSTA": "a0g6g0000060luTAAQ",
+    "Data": "11/20/2022 1:10:52 PM"
+  },
+  {
+    "_CustomObjectKey": "483",
+    "ID_PROPOSTA": "a0g6g0000060mFWAAY",
+    "Data": "11/20/2022 1:10:52 PM"
+  },
+  {
+    "_CustomObjectKey": "484",
+    "ID_PROPOSTA": "a0g6g0000060mKcAAI",
+    "Data": "11/20/2022 1:10:52 PM"
+  },
+  {
+    "_CustomObjectKey": "485",
+    "ID_PROPOSTA": "a0g6g0000060mcLAAQ",
+    "Data": "11/20/2022 1:10:52 PM"
+  }
+]

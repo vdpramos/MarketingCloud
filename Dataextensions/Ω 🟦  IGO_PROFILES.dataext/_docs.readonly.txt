@@ -1,0 +1,19 @@
+Dataextension name: IGO_PROFILES
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| user_id              | Text(256)       | true     | true     |                 |
+| email                | Text(256)       | false    | false    |                 |
+| Value_1              | Text(256)       | false    | false    |                 |
+| Value_2              | Text(256)       | false    | false    |                 |
+| Value_3              | Text(256)       | false    | false    |                 |
+| Value_4              | Text(256)       | false    | false    |                 |
+| Value_5              | Text(256)       | false    | false    |                 |
+| Attribute_1          | Text(256)       | false    | false    |                 |
+| Attribute_2          | Text(256)       | false    | false    |                 |
+| Attribute_3          | Text(256)       | false    | false    |                 |
+| Attribute_4          | Text(256)       | false    | false    |                 |
+| Attribute_5          | Text(256)       | false    | false    |                 |
+| city                 | Text(256)       | false    | false    |                 |
+| region               | Text(256)       | false    | false    |                 |
+| country              | Text(256)       | false    | false    |                 |

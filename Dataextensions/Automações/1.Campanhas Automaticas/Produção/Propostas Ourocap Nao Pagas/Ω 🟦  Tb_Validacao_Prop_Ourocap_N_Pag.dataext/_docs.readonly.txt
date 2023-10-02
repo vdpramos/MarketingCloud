@@ -1,0 +1,30 @@
+Dataextension name: Tb_Validacao_Prop_Ourocap_N_Pag
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | false    | false    |                 |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Idade                | Number          | false    | false    |                 |
+| CEP                  | Text(10)        | false    | false    |                 |
+| Tipo_Pessoa          | Text(20)        | false    | false    |                 |
+| Publico_Alvo         | Text(50)        | false    | false    |                 |
+| Tipo_Campanha        | Text(50)        | false    | false    |                 |
+| Possui_Titulo_Ativo  | Boolean         | false    | false    |                 |
+| Quarentena           | Boolean         | false    | false    |                 |
+| Compra_Utimos_30_Dias | Boolean         | false    | false    |                 |
+| Idade_Valida         | Boolean         | false    | false    |                 |
+| Possui_Telefone_Ativo | Boolean         | false    | false    |                 |
+| Possui_Conta_Corrente | Boolean         | false    | false    |                 |
+| Deseja_Contato_Telefonico | Boolean         | false    | false    |                 |
+| Conselheiro          | Boolean         | false    | false    |                 |
+| Nao_Importune        | Boolean         | false    | false    |                 |
+| Cliente_PEP          | Boolean         | false    | false    |                 |
+| Restricao_RNA        | Boolean         | false    | false    |                 |
+| Alta_Renda           | Boolean         | false    | false    |                 |
+| Campanha_Valida_Encarteiramento | Boolean         | false    | false    |                 |
+| Campanha_Valida_RNA  | Boolean         | false    | false    |                 |
+| Campanha_Nao_Importune | Boolean         | false    | false    |                 |
+| Inatividade          | Boolean         | false    | false    |                 |
+| HC_Situacao__c       | Text(50)        | false    | false    |                 |
+| Data_Proposta        | Date            | false    | false    |                 |
+| HC_Origem_da_Venda__c | Text(50)        | false    | false    |                 |

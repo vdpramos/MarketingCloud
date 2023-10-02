@@ -1,0 +1,134 @@
+[
+  {
+    "Name": "Sku",
+    "FieldType": "Text",
+    "ObjectID": "b370f7f1-e112-43b7-ba9e-31a0a5b1d25e",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Price",
+    "FieldType": "Decimal",
+    "ObjectID": "13e32364-4986-4031-aa54-383292ed5580",
+    "MaxLength": "18",
+    "Scale": "2",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Quantity",
+    "FieldType": "Number",
+    "ObjectID": "6a6d7db7-6881-4fc6-8d5f-e93c0324d8b0",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "order_number",
+    "FieldType": "Text",
+    "ObjectID": "498a7441-c478-4568-946f-cf37392d98b1",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "user_id",
+    "FieldType": "Text",
+    "ObjectID": "045a3138-46dd-4258-90c6-dceb76198620",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "Timestamp",
+    "FieldType": "Date",
+    "ObjectID": "4a2f4668-f936-4ec5-9288-be2714e1b92d",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "Job_ID",
+    "FieldType": "Text",
+    "ObjectID": "2f29d535-1757-4e9c-84ad-8b2ed25bd99d",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "List_ID",
+    "FieldType": "Text",
+    "ObjectID": "9c31086b-6436-43a2-a7ab-5e01dce4821d",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "Batch_ID",
+    "FieldType": "Text",
+    "ObjectID": "e960d639-2d55-4b10-a2af-fa642b63dbd7",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "Landing_URL_ID",
+    "FieldType": "Number",
+    "ObjectID": "4f8f0112-c132-4ec7-9075-78d8ae7adc1c",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "Subscriber_ID",
+    "FieldType": "Text",
+    "ObjectID": "03a07383-776b-433b-8f2c-a943df20ed48",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "session_id",
+    "FieldType": "Text",
+    "ObjectID": "84c24447-8d85-47fd-b52d-2f60a405fbb7",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  }
+]

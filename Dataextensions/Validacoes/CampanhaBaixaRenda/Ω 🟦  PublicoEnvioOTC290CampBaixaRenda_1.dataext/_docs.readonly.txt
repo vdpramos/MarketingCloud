@@ -1,0 +1,5 @@
+Dataextension name: PublicoEnvioOTC290CampBaixaRenda_1
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| BASE                 | Text(4000)      | false    | false    |                 |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "d29c19c8-6ef2-4f9d-88ce-15b1712ab85c",
+  "name": "Qr_Campeonato_Skate_Guarda_Quarentena",
+  "key": "0a9db7c2-565d-42b5-8ae8-e120b52e84ef",
+  "description": "Guarda para impedir que o mesmo envio seja realizado novamente nessa execução (a cada separação de base publico inicial)",
+  "queryText": "SELECT\n  F.*\nFROM TB_CAMPEONATOSKATE_ENVIO_FRAGMENTADO F",
+  "targetName": "Tb_CampeonatoSkate_Quarentena_Execucao",
+  "targetKey": "E86EA6B4-DC3D-4AB1-960B-E1E5A89E7285",
+  "targetId": "9c3b94f1-2f2b-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Guarda quem ja foi enviado para impedir repeticao",
+  "createdDate": "2022-09-02T21:11:15.643",
+  "modifiedDate": "2022-09-02T21:11:15.643",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 52821,
+  "isFrozen": false
+}

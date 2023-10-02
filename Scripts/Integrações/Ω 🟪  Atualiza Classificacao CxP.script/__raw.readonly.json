@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "01836124-822c-4f87-944b-eb0e3a8ab797",
+  "name": "Atualiza Classificacao CxP",
+  "key": "777fe05c-8b06-4f26-9894-9fe8db04da79",
+  "description": "",
+  "script": "<script runat=\"server\">\nPlatform(\"Core\", \"2.0\");\nvar api = new Script.Util.WSProxy();\nvar urlToUpsert = 'https://brasilcap.my.salesforce.com/services/data/v52.0/composite/sobjects/HC_Relacao_Cliente_Parceiro__c/Id';\nvar nameDE = 'ClassificacaoCalculada';\nvar attributeType = 'HC_Relacao_Cliente_Parceiro__c'; // Objeto para inserir\nvar BATCH_SIZE = 200\nvar deparaCampos = {\n  \"hc_classificacao__c\": \"hc_classificacao__c\"\n}\n\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('56360') ));\n</script>",
+  "categoryId": 49169,
+  "createdDate": "2023-08-14T09:10:47.453",
+  "modifiedDate": "2023-08-14T09:54:58.26"
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "62F4E7AA-BF00-4E34-BE57-5ACB9B5A88EE"
+  ],
+  "Name": [
+    "AeM_Propostas_N_Pagas-v1"
+  ]
+}

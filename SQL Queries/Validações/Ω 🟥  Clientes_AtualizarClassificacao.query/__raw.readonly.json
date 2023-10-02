@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4b45ccf4-ef2f-4f0c-8e22-167da57b2764",
+  "name": "Clientes_AtualizarClassificacao",
+  "key": "6588a2da-6e6e-4d60-ba84-6ead09f19455",
+  "description": "",
+  "queryText": "select id, 'Cliente' as HC_Classificacao__c from ClienteClassificadoIncorretamente cc\n",
+  "targetName": "Clientes_AtualizarClassificacao",
+  "targetKey": "667F68AF-C0BB-42DE-A44C-C95CDBE508AF",
+  "targetId": "c1c19768-f3a6-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-07T08:28:50.47",
+  "modifiedDate": "2023-04-27T09:13:43.663",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

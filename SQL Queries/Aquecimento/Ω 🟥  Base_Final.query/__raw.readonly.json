@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ec692043-aca1-436f-a96d-5685c1c9425e",
+  "name": "Base_Final",
+  "key": "5bea174e-0fc5-4b46-9df9-16d9233211c5",
+  "description": "",
+  "queryText": "\nSELECT DISTINCT\nB1.CPF,\nB1.NOME,\nB1.EMAIL,\nB1.EMAIL_VALIDO\nFROM \tEmails_Validos B1\n\nUNION\n\nSELECT DISTINCT\nB2.CPF,\nB2.NOME,\nB2.EMAIL,\nB2.EMAIL_VALIDO\nFROM \tAudiencia_Complementar_Email_100k B2\n",
+  "targetName": "Base_Final",
+  "targetKey": "0D1C3DD2-229C-4268-BA5D-756CB74AFB9B",
+  "targetId": "9b9f6170-ce2f-ec11-a30b-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-10-17T22:48:07.23",
+  "modifiedDate": "2021-10-17T22:56:23.82",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 40397,
+  "isFrozen": false
+}

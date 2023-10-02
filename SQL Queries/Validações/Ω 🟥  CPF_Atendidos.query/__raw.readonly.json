@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "534e8d14-be8d-47ab-861c-ef149630df6e",
+  "name": "CPF_Atendidos",
+  "key": "534E8D14-BE8D-47AB-861C-EF149630DF6E",
+  "description": "",
+  "queryText": "select a.*, c.hc_cpf_cnpj__c as CPF\nfrom Close_the_loop_atendidos_extracao a\ninner join contact_salesforce c\n    on c.id = a.id_contato",
+  "targetName": "Close_the_loop_atendidos_homologacao",
+  "targetKey": "0E966BD4-8290-4AA0-95CE-99764C196D1D",
+  "targetId": "7d021f6d-c0ff-ed11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-05-31T08:39:26.837",
+  "modifiedDate": "2023-05-31T08:39:26.837",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

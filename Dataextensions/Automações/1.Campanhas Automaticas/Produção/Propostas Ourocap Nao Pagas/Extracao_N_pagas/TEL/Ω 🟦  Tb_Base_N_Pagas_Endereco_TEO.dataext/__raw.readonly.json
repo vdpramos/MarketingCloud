@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "ACC668AB-E438-49D0-BD79-DE97DF777063"
+  ],
+  "Name": [
+    "Tb_Base_N_Pagas_Endereco_TEO"
+  ]
+}

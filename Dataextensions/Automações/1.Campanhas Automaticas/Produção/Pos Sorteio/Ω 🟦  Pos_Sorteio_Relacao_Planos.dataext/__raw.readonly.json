@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "F46AF3BF-9C11-4208-BA76-F5A7F065DB86"
+  ],
+  "Name": [
+    "Pos_Sorteio_Relacao_Planos"
+  ]
+}

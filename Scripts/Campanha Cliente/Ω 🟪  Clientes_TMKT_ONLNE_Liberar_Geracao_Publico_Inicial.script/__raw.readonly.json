@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "7dbc04d5-7858-4fc1-9d80-48a3b18aee02",
+  "name": "Clientes_TMKT_ONLNE_Liberar_Geracao_Publico_Inicial",
+  "key": "737fabaf-0b79-4b58-a88c-2b1a8aee7f60",
+  "description": "Marca através do status da campanha na DE controller de campanha, se deve continuar produzindo o OTC290",
+  "script": "<script runat=\"server\">\n// Confere se deve continuar produzindo publico pro OTC290\nPlatform(\"Core\", \"2.0\");\nvar Id_Campanha = '7016g000000NnI2AAK'; // Campanha Online Cliente TMKT\nvar DE_flag_name = 'Flag_Publico_Inicial_Cliente_TMKT_ONLINE'; \nvar nameDEApto = 'Publico_Apto_Clientes_TMKT_ONLINE'\nvar nameDEInapto = 'Publico_Inapto_Clientes_TMKT_ONLINE'\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\n\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51713') ));\n\n</script>",
+  "categoryId": 38816,
+  "createdDate": "2023-01-19T07:58:03.277",
+  "modifiedDate": "2023-01-19T14:17:57.043"
+}

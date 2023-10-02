@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "0c80dbcf-ba1b-4141-87d5-4e516f17b281",
+  "name": "Qr02_Extracao_Base_Prospect_Offline_DadosBancarios_ComOTC_TMKT",
+  "key": "d1a97f69-e787-489d-bbd8-729afb5e1dc2",
+  "description": "",
+  "queryText": "SELECT DISTINCT\r\n  'TCBB' AS COD_PARCEIRO,\r\n  A.CPF,\r\n  '' AS CNPJ,\r\n  '001' AS BANCO,\r\n  B.AGENCIA,\r\n  '' AS DIGITO_VERIFICADOR_AGENCIA,\r\n  B.CONTA AS CONTA_CORRENTE,\r\n  '' AS DIGITO_VERIFICADOR_CONTA,\r\n  '' AS AGENCIA_CONTA_DIGITO_VERIFICADOR,\r\n  'CC' AS TIPO_CONTA\r\nFROM\r\n  TB_BASE_PROSPECT_OTC291_FILTRADA_TMKT A \r\n  INNER JOIN\r\n    TB_BASE_PROSPECT_COMOTC_TRATADA_TMKT B \r\n    ON A.CPF = RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, B.CPF), 11)\r\n    INNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce REL ON A.CPF = REL.CPF_CNPJ_Cliente__c\r\n    INNER JOIN Contact_Salesforce C on RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, C.HC_CPF_CNPJ__c), 11) = B.CPF\r\n    INNER JOIN ACCOUNT_SALESFORCE D on C.AccountId = D.ID",
+  "targetName": "Tb_Base_Prospect_Offline_DadosBancarios_ComOTC_TMKT",
+  "targetKey": "535D3C85-9326-4B3E-ABEB-227AA8A4BA48",
+  "targetId": "13278b1b-9470-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-17T06:42:40.347",
+  "modifiedDate": "2022-07-01T07:06:35.693",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29381,
+  "isFrozen": false
+}

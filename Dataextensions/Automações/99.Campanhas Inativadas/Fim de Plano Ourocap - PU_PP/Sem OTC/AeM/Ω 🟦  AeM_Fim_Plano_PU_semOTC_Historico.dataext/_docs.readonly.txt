@@ -1,0 +1,6 @@
+Dataextension name: AeM_Fim_Plano_PU_semOTC_Historico
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| TITULO_ID            | Text(20)        | false    | false    |                 |
+| CreatedDate          | Date            | false    | false    | GETDATE()       |

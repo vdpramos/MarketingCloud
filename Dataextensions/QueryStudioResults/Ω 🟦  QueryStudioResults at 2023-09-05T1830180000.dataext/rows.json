@@ -1,0 +1,92 @@
+[
+  {
+    "_CustomObjectKey": "2",
+    "RESULTADO": "<null>",
+    "COUNT": "0"
+  },
+  {
+    "_CustomObjectKey": "3",
+    "RESULTADO": "ALTA RENDA",
+    "COUNT": "745132"
+  },
+  {
+    "_CustomObjectKey": "4",
+    "RESULTADO": "CELULAR INVÁLIDO",
+    "COUNT": "4"
+  },
+  {
+    "_CustomObjectKey": "5",
+    "RESULTADO": "COMPRA RECENTE OUROCAP",
+    "COUNT": "383074"
+  },
+  {
+    "_CustomObjectKey": "6",
+    "RESULTADO": "EM QUARENTENA",
+    "COUNT": "4456435"
+  },
+  {
+    "_CustomObjectKey": "7",
+    "RESULTADO": "EXCLUIDO RNA",
+    "COUNT": "105320"
+  },
+  {
+    "_CustomObjectKey": "8",
+    "RESULTADO": "IDADE INVALIDA",
+    "COUNT": "24829"
+  },
+  {
+    "_CustomObjectKey": "9",
+    "RESULTADO": "NÃO COMPROU NOS ULTIMOS 30 DIAS",
+    "COUNT": "236887"
+  },
+  {
+    "_CustomObjectKey": "10",
+    "RESULTADO": "NÃO DESEJA CONTATO TELEFONICO",
+    "COUNT": "272"
+  },
+  {
+    "_CustomObjectKey": "11",
+    "RESULTADO": "NÃO IMPORTUNE",
+    "COUNT": "641393"
+  },
+  {
+    "_CustomObjectKey": "12",
+    "RESULTADO": "NÃO POSSUI CONTA ATIVA",
+    "COUNT": "1150"
+  },
+  {
+    "_CustomObjectKey": "13",
+    "RESULTADO": "NÃO POSSUI CONTA CORRENTE",
+    "COUNT": "652447"
+  },
+  {
+    "_CustomObjectKey": "14",
+    "RESULTADO": "NÃO POSSUI TELEFONE ATIVO",
+    "COUNT": "128625"
+  },
+  {
+    "_CustomObjectKey": "15",
+    "RESULTADO": "NÃO POSSUI TITULO ATIVO",
+    "COUNT": "2810353"
+  },
+  {
+    "_CustomObjectKey": "16",
+    "RESULTADO": "PEP",
+    "COUNT": "10567"
+  },
+  {
+    "_CustomObjectKey": "17",
+    "RESULTADO": "QUARENTENA",
+    "COUNT": "1123089"
+  },
+  {
+    "_CustomObjectKey": "18",
+    "RESULTADO": "REALIZOU O ACEITE",
+    "COUNT": "1258"
+  },
+  {
+    "_CustomObjectKey": "19",
+    "RESULTADO": "TITULO ATIVO RECENTE",
+    "COUNT": "7928"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "0134d602-eec6-4ff6-a081-44069f4670b8",
+  "name": "Fim_Plano_PU_Formata_Celular",
+  "key": "35520c57-dafb-4b7c-b7fa-c5b19699fb3f",
+  "description": "Formata Celular para envio SMS",
+  "queryText": "SELECT\r\n  A.ID,\r\n  '55' + REPLACE(REPLACE(REPLACE(REPLACE(A.CELULAR, '(', ''), ')', ''), ' ', ''), '-', '') AS CELULAR\r\nFROM Fim_Plano_PU_semOTC_Publico_Inicial A\r\nWHERE CELULAR != NULL",
+  "targetName": "Fim_Plano_PU_semOTC_Publico_Inicial",
+  "targetKey": "021E8A92-529E-4EDF-B839-19F31A0F37E9",
+  "targetId": "37cea96d-ac6c-ec11-a311-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2022-06-27T04:51:30.223",
+  "modifiedDate": "2022-06-27T04:51:30.223",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 43885,
+  "isFrozen": false
+}

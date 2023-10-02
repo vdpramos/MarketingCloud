@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e0cdc8d2-5487-4055-950b-e1d4ac9667cd",
+  "name": "Qr00_Base_Prospect_N_importune_Online_TMKT1",
+  "key": "411562bd-661a-4b62-91ce-635b97060853",
+  "description": "",
+  "queryText": "SELECT B.CPF,\n      CASE WHEN B.VALIDA_NAO_IMPORTUNE = 1 AND N2.TELEFONE IS NOT NULL OR Nao_Importune = 1 THEN 1 ELSE 0 END AS Nao_Importune\nFROM Tb_Base_Prospect_Online_Tratada_TMKT B \nINNER JOIN TB_BASE_NAO_IMPORTUNE N2 ON ISNULL(CONCAT(DDD_02, TEL_02), '00000000000') = LTRIM(RTRIM(N2.TELEFONE))\n",
+  "targetName": "Tb_Base_Prospect_Online_Tratada_TMKT",
+  "targetKey": "E55C5F86-F4DF-4152-8F3C-869ED7B3FC38",
+  "targetId": "8f6f76b7-2f6b-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-25T11:23:20.067",
+  "modifiedDate": "2023-01-13T14:24:45.96",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 55868,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "14c7edbf-39dd-4351-aea1-16bfdaf103fa",
+  "name": "Atualiza Variacao Poupanca",
+  "key": "14C7EDBF-39DD-4351-AEA1-16BFDAF103FA",
+  "description": "",
+  "queryText": "select name, left(HC_Numero_da_Conta_Corrente__c, 5) as HC_Variacao_Poupanca__c\nfrom ExtracaoPagamentoMeioCredito\nwhere HC_Meio_de_credito__c = 'Conta Poupança' or HC_Meio_de_credito__c = 'Conta Poupanca'",
+  "targetName": "ExtracaoPagamentoMeioCredito",
+  "targetKey": "B1D31D86-BE57-4CD3-9F59-37C605059CD3",
+  "targetId": "59085795-d2c1-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-13T13:43:19.04",
+  "modifiedDate": "2023-03-13T13:46:03.843",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 46010,
+  "isFrozen": false
+}

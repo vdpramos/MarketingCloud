@@ -1,0 +1,8 @@
+Dataextension name: ClienteParceiroSemClienteUnicoCriar
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| HC_CPF_CNPJ_Cliente__c | Text(255)       | false    | false    |                 |
+| HC_Tipo_de_Pessoa__c | Text(100)       | false    | false    |                 |
+| Name                 | Text(255)       | false    | false    |                 |
+| HC_Data_Nascimento__c | Text(50)        | false    | false    |                 |

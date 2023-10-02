@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ddf3c72e-2fe6-46ee-9d9b-aaa2763ea0c5",
+  "name": "Qr_Aviso_Pagamento_Filtro",
+  "key": "b9ba95e0-5639-4795-98a0-447339cc3653",
+  "description": "Publico para envio na Jornada",
+  "queryText": "SELECT\r\n     ID_CONTATO,\r\n     ID_CAMPANHA,\t\r\n     ID_CLIENTE_PARCEIRO,\t\r\n     ID_PROPOSTA,\r\n     NOME,\r\n     CPF_CNPJ,\t\r\n     HC_SITUACAO__C,\t\r\n     NAO_IMPORTUNE,\t\r\n     CELULAR,\t\r\n     DATA_AGENDAMENTO,\t\t\t\r\n     DATA_AGENDAMENTO_FORMATADA,\r\n     DATA_PROXIMA_EXECUCAO\r\nFROM AVISO_PAGAMENTO_PUBLICO_INICIAL A\r\nWHERE NAO_IMPORTUNE = 0",
+  "targetName": "AVISO_PAGAMENTO_ENVIO",
+  "targetKey": "EB7B2C45-0372-4100-8280-BBB68B391570",
+  "targetId": "a4133def-f91a-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Base para envio de SMS",
+  "createdDate": "2022-08-15T02:07:01.93",
+  "modifiedDate": "2022-11-29T16:18:06.203",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 52082,
+  "isFrozen": false
+}

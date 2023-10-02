@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "50218F7D-FEAC-4BC1-9FE5-A36CFC62428F"
+  ],
+  "Name": [
+    "LLLTb_Base_Ex_Cliente_ComOTC_Algar_Copy"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e7093b61-4df7-4330-abe7-cef0f94ccc35",
+  "name": "Qr02.1_Renovacao_OTC291_Online_TMKT_Tratada",
+  "key": "E7093B61-4DF7-4330-ABE7-CEF0F94CCC35",
+  "description": "",
+  "queryText": "SELECT\n  A.CODIGO_PARCEIRO,\n  A.ID_CLIENTE,\n  A.CODIGO_MCI,\n  A.TIPO_PESSOA,\n  A.CODIGO_CIC,\n  A.DT_NASCIMENTO,\n  A.NOME,\n  A.UF_RESIDENCIAL,\n  B.DDD_01 as DDD1,\n  B.TEL_01 as TELEFONE1,\n  B.DDD_02 as DDD2,\n  B.DDD_02 as TELEFONE2,\n  B.DDD_03 as DDD3,\n  B.DDD_03 as TELEFONE3,\n  A.CODIGO_PLANO,\n  A.ORIGEM_SOLICITACAO,\n  A.FILLER,\n  A.CODIGO_RNA,\n  A.VALOR_RENDIMENTOS,\n  DOM.DESC_ENCARTEIRAMENTO AS TIPO_CARTEIRA, \n  A.NIVEL_RELACIONAMENTO,\n  A.DATA_INFORMACAO,\n  A.FILLER2,\n  RIGHT(REPLICATE ('0' , 15)+A.CPF, 11) AS CPF,\n  Left(B.NOME, CharIndex(' ', B.NOME)) AS PRIMEIRO_NOME,\n  Reverse(Left(Reverse(B.Nome), CharIndex(' ', Reverse(B.Nome)))) AS SOBRENOME,\n  CASE WHEN LEN(B.TEL_01) = 9 THEN '(' + SUBSTRING(B.DDD_01, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_01, 1, 5) + '-' + \n           SUBSTRING(B.TEL_01, 6, 4)\n      ELSE '(' + SUBSTRING(B.DDD_01, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_01, 1, 4) + '-' + \n           SUBSTRING(B.TEL_01, 5, 4) END AS TEL_RESIDENCIAL,\n  CASE WHEN LEN(B.TEL_02) = 9 THEN '(' + SUBSTRING(B.DDD_02, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_02, 1, 5) + '-' + \n           SUBSTRING(B.TEL_02, 6, 4)\n      ELSE '(' + SUBSTRING(B.DDD_02, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_02, 1, 4) + '-' + \n           SUBSTRING(B.TEL_02, 5, 4) END AS TEL_COMERCIAL,\n  CASE WHEN LEN(B.TEL_03) = 9 THEN '(' + SUBSTRING(B.DDD_03, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_03, 1, 5) + '-' + \n           SUBSTRING(B.TEL_03, 6, 4)\n      ELSE '(' + SUBSTRING(B.DDD_03, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_03, 1, 4) + '-' + \n           SUBSTRING(B.TEL_03, 5, 4) END AS CELULAR1,\n  CASE WHEN LEN(B.TEL_04) = 9 THEN '(' + SUBSTRING(B.DDD_04, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_04, 1, 5) + '-' + \n           SUBSTRING(B.TEL_04, 6, 4)\n      ELSE '(' + SUBSTRING(B.DDD_04, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_04, 1, 4) + '-' + \n           SUBSTRING(B.TEL_04, 5, 4) END AS CELULAR2,\n  A.DT_NASCIMENTO_SF,\n  B.QUARENTENA,\n  B.ID_CLIENTE_PARCEIRO,\n  B.SEXO,\n  CONCAT(RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, B.CPF), 11),'Cliente') AS CPF_TIPO_RELACIONAMENTO,\n  CONCAT(RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, B.CPF), 11),'52') AS CPF_CODIGO_PARCEIRO,\n  B.ID_CAMPANHA,\n  A.ALTA_RENDA, \n  GETDATE() AS DataUltimaExecucao\n  FROM\n    TB_BASE_OTC291_TRATADA A \nINNER JOIN Renovacao_Online_Filtrada_TMKT B ON B.CPF = A.CPF\nLEFT JOIN Dom_Encarteiramento DOM\n    ON   RIGHT(REPLICATE ('0' , 5)+DOM.ID_ENCARTEIRAMENTO, 5) =RIGHT(REPLICATE ('0' , 5)+A.TIPO_CARTEIRA, 5)",
+  "targetName": "Renovacao_OTC291_Online_Tratada_TMKT",
+  "targetKey": "0DFD445A-CA26-4DDC-A529-58173629A9B4",
+  "targetId": "831a3201-2648-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "Base para guardar as resposta ja recebidas do OTC291",
+  "createdDate": "2023-08-30T09:01:19.68",
+  "modifiedDate": "2023-08-31T11:45:10.75",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 68066,
+  "isFrozen": false
+}

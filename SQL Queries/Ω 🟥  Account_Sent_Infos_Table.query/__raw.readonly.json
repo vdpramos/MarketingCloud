@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b7ef6951-f7fe-41cf-ad2d-4909f6129f72",
+  "name": "Account_Sent_Infos_Table",
+  "key": "a926b6b1-3950-4094-b1d5-ad251371f6c3",
+  "description": "Informaçoes dos Envios dos ultimos 7 dias, a partir da data do sistema e infos de data de aniversario do cliente",
+  "queryText": "SELECT DISTINCT st.JobID AS JobID,\nst.EventDate AS EventDate,\nac.HC_Data_Nascimento__c AS Data_Nascimento,\nst.SubscriberKey AS SubscriberKey, \nac.HC_CPF_CNPJ_Cliente__c AS CPF, \nac.Id AS Id_Contato, \nst.TriggererSendDefinitionObjectID AS TriggererSendDefinitionObjectID\nFROM [_Sent] st\nLEFT JOIN Contact_Salesforce cs\nON st.SubscriberKey=cs.ID\nLEFT JOIN Account_Salesforce ac\nON cs.HC_CPF_CNPJ__c=ac.HC_CPF_CNPJ_Cliente__c\nWHERE\nmonth(EventDate) = month(getdate()-1) \nand \nyear(EventDate) = year(getdate()-1)",
+  "targetName": "ACCOUNT_SENT_INFOS",
+  "targetKey": "11D3B7EE-2E96-425F-8705-CB2E34696B91",
+  "targetId": "ee606479-d873-ec11-a311-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2022-01-13T05:40:22.32",
+  "modifiedDate": "2023-02-14T08:34:03.137",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

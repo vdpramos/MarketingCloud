@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Id_Campanha",
+    "FieldType": "Text",
+    "ObjectID": "fbd823d5-31bc-470b-aa2e-818f8721d351",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Data_Criacao",
+    "FieldType": "Date",
+    "ObjectID": "87960c1b-45a1-41c2-8fd4-0c1a6cc257f1",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GetDate()",
+    "Ordinal": 3
+  }
+]

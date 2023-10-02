@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "3719cf37-36b3-4a14-a245-273af2a4be6d",
+  "name": "Iniciar Outra Automation",
+  "key": "5ad4f86b-600a-4856-b0ed-3e637de29f78",
+  "description": "",
+  "script": "<script runat=\"server\">\n\nPlatform.Load(\"Core\",\"1.1.1\");\n\nvar automationCustomerKey = \"22b65ece-7c33-cde3-01ae-c2f79d41d667\"\n\nvar rr = Platform.Function.CreateObject(\"RetrieveRequest\");\nPlatform.Function.SetObjectProperty(rr, \"ObjectType\", \"Automation\");\nPlatform.Function.AddObjectArrayItem(rr, \"Properties\", \"ProgramID\");\nPlatform.Function.AddObjectArrayItem(rr, \"Properties\", \"CustomerKey\");\nPlatform.Function.AddObjectArrayItem(rr, \"Properties\", \"Status\");\n\nvar sfp = Platform.Function.CreateObject(\"SimpleFilterPart\");\nPlatform.Function.SetObjectProperty(sfp, \"Property\", \"CustomerKey\");\nPlatform.Function.SetObjectProperty(sfp, \"SimpleOperator\", \"equals\");\nPlatform.Function.AddObjectArrayItem(sfp, \"Value\", automationCustomerKey);\n\nPlatform.Function.SetObjectProperty(rr, \"Filter\", sfp);\n\nvar retrieveStatus = [0,0,0];\n\nvar automationResultSet = Platform.Function.InvokeRetrieve(rr, retrieveStatus);\n\nvar ObjectID = automationResultSet[0][\"ObjectID\"];\nvar Status = automationResultSet[0][\"Status\"];\n\nif (ObjectID != \"null\") {\n\n    /*\n    Code Status\n    -1   Error\n     0   BuildingError\n     1   Building\n     2   Ready\n     3   Running\n     4   Paused\n     5   Stopped\n     6   Scheduled\n     7   Awaiting Trigger\n     8   InactiveTrigger\n    */\n\n    if (Status == 2) {\n\n        var obj = Platform.Function.CreateObject(\"Automation\");\n        Platform.Function.SetObjectProperty(obj, \"ObjectID\", ObjectID);\n        var po = Platform.Function.CreateObject(\"PerformOptions\");\n\n        var performResult = [0,0,0];\n        var performStatus = Platform.Function.InvokePerform(obj, \"start\", performResult, po);\n\n    } else {\n      // already running\n\n    }\n} else {\n   // automation not found\n}\n\n</script>",
+  "categoryId": 1937,
+  "createdDate": "2020-12-22T15:41:49.017",
+  "modifiedDate": "2020-12-22T15:44:06.74"
+}

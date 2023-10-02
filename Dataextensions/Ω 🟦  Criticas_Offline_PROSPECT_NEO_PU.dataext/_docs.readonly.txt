@@ -1,0 +1,8 @@
+Dataextension name: Criticas_Offline_PROSPECT_NEO_PU
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(254)       | true     | true     |                 |
+| CAMPANHA             | Text(254)       | false    | false    |                 |
+| RESULTADO            | Text(254)       | false    | false    |                 |
+| DATA_REGISTRO        | Date            | false    | false    |                 |

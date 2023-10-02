@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "41C2C2DC-727A-4E63-B458-D06331F312F1"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_OTC291_Online_Filtrada_AeC"
+  ]
+}

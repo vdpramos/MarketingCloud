@@ -1,0 +1,11 @@
+Dataextension name: Publico_Inapto_Ex_Clientes_Algar
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | true     | true     |                 |
+| data                 | Date            | false    | false    | GETDATE()       |
+| COMPRA_UTIMOS_30_DIAS | Boolean         | false    | false    |                 |
+| POSSUI_TITULO_ATIVO  | Boolean         | false    | false    |                 |
+| NAO_IMPORTUNE        | Boolean         | false    | false    |                 |
+| ID_CAMPANHA          | Text(20)        | false    | false    |                 |
+| CONTA_APTA           | Boolean         | false    | false    |                 |

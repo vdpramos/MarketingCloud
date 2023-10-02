@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "3B0F9B86-BC02-479C-9D24-B77F3DD6E59F"
+  ],
+  "Name": [
+    "Tb_Base_Duplo_Sim_SemOTC_Disparo"
+  ]
+}

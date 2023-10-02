@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "991676ca-f4a0-46c2-b230-91f25d38bd78",
+  "name": "Cliente Unico Sem Relacionamento",
+  "key": "106b65ef-3e2e-45a7-b158-03a2d4cac920",
+  "description": "",
+  "queryText": "select acc.id \nfrom account_salesforce acc\nwhere not exists (select 1 from hc_titulo__c_salesforce t where acc.hc_cpf_cnpj_cliente__c = t.HC_CPF_CNPJ_Titular__c )\n    and not exists (select 1 from hc_titulo__c_salesforce t where acc.hc_cpf_cnpj_cliente__c = t.HC_CPF_CNPJ_Subscritor__c )\n    and not exists (select 1 from hc_titulo__c_salesforce t where acc.id = t.HC_cliente__c )\n    and not exists (select 1 from hc_proposta__c_salesforce pp where acc.hc_cpf_cnpj_cliente__c = pp.HC_CPF_CNPJ_Titular__c)\n    and not exists (select 1 from hc_proposta__c_salesforce pp where acc.hc_cpf_cnpj_cliente__c = pp.HC_CPF_CNPJ_Subscritor__c)\n    and not exists (select 1 from hc_relacao_cliente_parceiro__c_salesforce cp where acc.hc_cpf_cnpj_cliente__c = cp.HC_CPF_CNPJ__c)\n    and not exists (select 1 from hc_relacao_cliente_parceiro__c_salesforce cp where acc.id = cp.HC_Cliente__c)\n    /* and not exists (select 1 from contact_salesforce c where acc.id = c.accountid)*/\n    \n    \n    ",
+  "targetName": "ClienteUnicoSemRelacionamento",
+  "targetKey": "29F66511-24DC-41E8-87B0-815D0B26CBD2",
+  "targetId": "0c702562-c0a3-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-03T13:34:12.83",
+  "modifiedDate": "2023-03-30T09:39:26.113",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

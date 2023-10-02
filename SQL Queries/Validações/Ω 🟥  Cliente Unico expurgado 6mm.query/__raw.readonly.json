@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "241d3324-a971-4b14-b6a8-a7d857957b92",
+  "name": "Cliente Unico expurgado 6mm",
+  "key": "d81f3249-2d65-44fe-9ee9-d0ef42d3dc3d",
+  "description": "",
+  "queryText": "select id from ClienteUnicoSemRelacionamento",
+  "targetName": "ClienteUnicoSemRelacionamento_expurgadobkp",
+  "targetKey": "DBDBF584-E3A5-43E1-AC0D-F9295AA91FE2",
+  "targetId": "5b1f314b-36a4-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-03T20:48:25.24",
+  "modifiedDate": "2023-02-03T20:48:25.24",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

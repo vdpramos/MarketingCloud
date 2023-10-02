@@ -1,0 +1,16 @@
+Dataextension name: AVISO_PAGAMENTO_ENVIO
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_CONTATO           | Text(18)        | true     | true     |                 |
+| ID_CAMPANHA          | Text(18)        | false    | false    |                 |
+| ID_CLIENTE_PARCEIRO  | Text(18)        | false    | false    |                 |
+| ID_PROPOSTA          | Text(18)        | false    | false    |                 |
+| NOME                 | Text(200)       | false    | false    |                 |
+| CPF_CNPJ             | Text(20)        | false    | false    |                 |
+| HC_SITUACAO__C       | Text(50)        | false    | false    |                 |
+| NAO_IMPORTUNE        | Boolean         | false    | false    |                 |
+| CELULAR              | Phone           | false    | false    |                 |
+| DATA_AGENDAMENTO     | Date            | false    | false    |                 |
+| DATA_AGENDAMENTO_FORMATADA | Text(10)        | false    | false    |                 |
+| DATA_PROXIMA_EXECUCAO | Date            | false    | false    |                 |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "815c9bb2-31f8-4dcb-8fc9-014725a5fa02",
+  "name": "Close_the_loop_contemplados_PU",
+  "key": "c3a403f7-439f-4d30-8f64-229f43387b9e",
+  "description": "",
+  "queryText": "SELECT\n    sub.*\nFROM\n    (\n    \tSELECT\n        \ta.Id_contato,\n        \ta.Nome,\n        \tb.Id as Id_cliente_parceiro,\n        \tb.HC_CPF_CNPJ__c AS CPF_CNPJ,\n        \tREPLACE(REPLACE(REPLACE(REPLACE(b.HC_Celular_1__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Celular_1,\n        \tREPLACE(REPLACE(REPLACE(REPLACE(b.HC_Celular_2__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Celular_2,\n        \tREPLACE(REPLACE(REPLACE(REPLACE(b.HC_Celular_3__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Celular_3,\n        \tREPLACE(REPLACE(REPLACE(REPLACE(b.HC_Telefone_Outro__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Telefone_Brasilcap,\n        \tREPLACE(REPLACE(REPLACE(REPLACE(b.HC_Telefone_Comercial__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Telefone_comercial,\n        \tCASE \n        \t\tWHEN b.HC_Email_Brasilcap__c IS NOT NULL THEN b.HC_Email_Brasilcap__c\n        \t\tWHEN b.HC_Email_Pessoal__c IS NOT NULL THEN b.HC_Email_Pessoal__c\n        \t\tWHEN b.HC_Email_Comercial__c IS NOT NULL THEN b.HC_Email_Comercial__c\n        \t\tELSE NULL\n        \tEND AS Email,\n        \tCASE \n        \t\tWHEN UPPER(b.HC_Endereco_Principal__c) = 'RESIDENCIAL' THEN b.HC_UF_Res__c\n        \t\tWHEN UPPER(b.HC_Endereco_Principal__c) = 'COMERCIAL' THEN b.HC_UF_Com__c\n        \t\tWHEN UPPER(b.HC_Endereco_Principal__c) = 'CORRESPONDÊNCIA' THEN b.HC_UF_Cor__c\n        \tEND AS UF,\n        \tb.HC_Idade__c AS Idade,\n        \tb.HC_Data_de_Nascimento__c AS Data_nascimento,\n        \tc.Id AS Id_titulo,\n        \tc.HC_Tipo_de_pagamento__c AS Tipo_pagamento,\n        \tc.HC_Data_da_Ultima_Contemplacao__c AS Data_ultima_contemplacao,\n        \tROW_NUMBER() OVER (PARTITION BY Id_contato ORDER BY Id_titulo ASC) ranking\n    \tFROM Close_the_loop_clientes_ativos a\n        \tINNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce b\n        \t    ON a.Id_cliente = b.HC_Cliente__c\n        \tINNER JOIN HC_Titulo__c_Salesforce c\n        \t    ON b.Id = c.hc_subscritor__c\n    \tWHERE\n        \tb.HC_Tipo_de_Pessoa__c = 'PF'\n        \tAND\n        \tb.HC_Nao_deseja_receber_Ligacoes__c = 'False'\n        \tAND\n        \tb.HC_Nao_deseja_receber_Todos_Meios__c = 'False'\n        \tAND\n        \t(\n        \t\tb.HC_Id_Parceiro_Cap__c = 'TCBB'\n        \t\tOR\n        \t\tb.HC_Id_Parceiro_Darwin__c = '1'\n        \t)\n        \tAND\n        \tc.HC_Tipo_de_pagamento__c = 'PU'\n        \tAND\n        \tc.HC_Data_da_Ultima_Contemplacao__c BETWEEN DATEADD(DD, 21, EOMONTH(GETDATE(),-3)) AND DATEADD(DD, 20, EOMONTH(GETDATE(),-2))\n    ) sub\nWHERE\n    sub.ranking = 1",
+  "targetName": "Close_the_loop_contemplados",
+  "targetKey": "4FA82B09-99D6-4026-B4F6-28788E2C5BF9",
+  "targetId": "e493a873-d865-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-12-15T11:11:59.13",
+  "modifiedDate": "2023-04-26T10:21:46.84",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 56140,
+  "isFrozen": false
+}

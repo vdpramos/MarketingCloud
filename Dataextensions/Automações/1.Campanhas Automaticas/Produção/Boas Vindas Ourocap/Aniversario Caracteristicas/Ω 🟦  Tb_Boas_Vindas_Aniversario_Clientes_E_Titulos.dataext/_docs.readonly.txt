@@ -1,0 +1,23 @@
+Dataextension name: Tb_Boas_Vindas_Aniversario_Clientes_E_Titulos
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | true     | true     |                 |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Quarentena           | Boolean         | false    | false    | false           |
+| Nao_Importune        | Boolean         | false    | false    | false           |
+| Id_Campanha          | Text(50)        | false    | false    |                 |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |
+| Valor_Parcela_Produto | Decimal(18,2)   | false    | false    |                 |
+| NAO_DESEJA_RECEBER_EMAIL | Boolean         | false    | false    |                 |
+| EMAIL_VALIDO         | Boolean         | false    | false    |                 |
+| QUANTIDADE_TITULOS_ANTERIORES_ATIVOS | Number          | false    | false    | 0               |
+| QUANTIDADE_TITULOS_ANTERIORES_INATIVOS | Number          | false    | false    | 0               |
+| Numero_do_Titulo     | Text(10)        | true     | true     |                 |
+| Serie_do_Titulo      | Text(10)        | true     | true     |                 |
+| Plano_do_Titulo      | Text(10)        | true     | true     |                 |
+| DATA_CONTRATACAO     | Date            | false    | false    |                 |
+| Id_Titulo            | Text(50)        | true     | true     |                 |
+| EMAIL                | EmailAddress    | false    | false    |                 |
+| DATA_INICIO_VIGENCIA | Date            | false    | false    |                 |

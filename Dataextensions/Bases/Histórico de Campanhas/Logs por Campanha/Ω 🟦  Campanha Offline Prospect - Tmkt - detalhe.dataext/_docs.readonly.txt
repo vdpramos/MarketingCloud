@@ -1,0 +1,28 @@
+Dataextension name: Campanha Offline Prospect - Tmkt - detalhe
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | true     | false    |                 |
+| CAMPANHA             | Text(80)        | true     | false    |                 |
+| PARCEIRO             | Text(255)       | false    | false    |                 |
+| IDADE                | Number          | false    | false    |                 |
+| COMPROU_ULTIMOS_30_DIAS | Boolean         | false    | false    |                 |
+| CONSELHEIRO          | Boolean         | false    | false    |                 |
+| PEP                  | Boolean         | false    | false    |                 |
+| NAO_DESEJA_RECEBER_LIGACOES | Boolean         | false    | false    |                 |
+| POSSUI_TELEFONE_ATIVO | Boolean         | false    | false    |                 |
+| POSSUI_CONTA_CORRENTE | Boolean         | false    | false    |                 |
+| POSSUI_TITULO_ATIVO  | Boolean         | false    | false    |                 |
+| QUARENTENA           | Boolean         | false    | false    |                 |
+| RESULTADO            | Text(255)       | false    | false    |                 |
+| DATA_REGISTRO        | Date            | false    | false    | GetDate()       |
+| NAO_IMPORTUNE        | Boolean         | false    | false    |                 |
+| CODIGO_RNA           | Text(3)         | false    | false    |                 |
+| ALTA_RENDA           | Boolean         | false    | false    |                 |
+| CONTA_BANCARIA       | Text(50)        | false    | false    |                 |
+| NOME_VALIDA          | Boolean         | false    | false    |                 |
+| POSSUI_CONTA_ATIVA   | Boolean         | false    | false    |                 |
+| COMPRA_RECENTE_OUROCAP | Boolean         | false    | false    |                 |
+| ENCARTEIRAMENTO_VALIDO | Boolean         | false    | false    |                 |
+| CEP_VALIDO           | Boolean         | false    | false    |                 |
+| CLIENTE              | Boolean         | false    | false    |                 |

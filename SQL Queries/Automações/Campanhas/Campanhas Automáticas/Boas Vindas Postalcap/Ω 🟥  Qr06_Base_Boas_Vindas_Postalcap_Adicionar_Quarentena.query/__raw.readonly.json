@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "153d7713-0665-43c9-ac0b-17c39c307ac8",
+  "name": "Qr06_Base_Boas_Vindas_Postalcap_Adicionar_Quarentena",
+  "key": "8728a905-d06d-4cd0-9826-d86da5798c44",
+  "description": "Adiciona os contatos entrantes na DE de Quarentena",
+  "queryText": "SELECT \n\tCPF_CNPJ,\n\tNUMERO_DO_TITULO,\n\tSERIE_DO_TITULO,\n\tPLANO_DO_TITULO\nFROM TB_BOAS_VINDAS_POSTALCAP_COMOTC_NEOBPO\nWHERE NAO_IMPORTUNE = 0\n\tAND NAO_DESEJA_RECEBER_TODOS_MEIOS = 0\n\tAND (\n\t\tNAO_DESEJA_RECEBER_EMAIL = 0\n\t\tOR NAO_DESEJA_RECEBER_SMS = 0\n\t)\n\tAND (\n\t\tEMAIL_VALIDO = 1\n\t\tOR CELULAR_VALIDO = 1\n\t)",
+  "targetName": "Tb_Boas_Vindas_Postalcap_Quarentena",
+  "targetKey": "1C27AD50-0F27-461D-9402-233CA7276A78",
+  "targetId": "291dc629-26f7-eb11-a30d-48df37342c99",
+  "targetDescription": "DE que guarda aqueles que ja entraram na jornada",
+  "createdDate": "2021-08-09T16:23:21.123",
+  "modifiedDate": "2021-08-09T16:23:21.123",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 37321,
+  "isFrozen": false
+}

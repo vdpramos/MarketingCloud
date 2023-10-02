@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "SubscriberKey",
+    "FieldType": "Text",
+    "ObjectID": "f110f294-2913-49f9-bf3b-bd475c5d7c96",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

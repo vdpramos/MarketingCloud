@@ -1,0 +1,9 @@
+Dataextension name: _MobileAddressApplication
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| _ContactID           | Text            | true     | true     |                 |
+| _MobileNumber        | Text(15)        | true     | true     |                 |
+| _MobileApplicationID | Text            | true     | true     |                 |
+| _CreatedDate         | Date            | true     | false    | GETDATE()       |
+| _CreatedBy           | Text            | false    | false    |                 |

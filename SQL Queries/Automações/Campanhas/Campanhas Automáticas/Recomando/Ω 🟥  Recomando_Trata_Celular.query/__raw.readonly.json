@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "dc48e31f-5e5c-4c4b-af5d-775128034f11",
+  "name": "Recomando_Trata_Celular",
+  "key": "1bf90da3-375f-4e1b-8e0b-4a4fabb28f23",
+  "description": "Formata celular para envio de SMS",
+  "queryText": "SELECT\r\n  A.CPF,\r\n  A.ID_CAMPANHA,\r\n  '55' + REPLACE(REPLACE(REPLACE(REPLACE(A.CELULAR, '(', ''), ')', ''), ' ', ''), '-', '') AS CELULAR\r\nFROM RECOMANDO_PUBLICO_INICIAL A\r\nWHERE CELULAR != NULL",
+  "targetName": "RECOMANDO_PUBLICO_INICIAL",
+  "targetKey": "0CF1F0BD-C93A-44ED-90B1-C3B3D019BED3",
+  "targetId": "0f903e80-ebed-ec11-a5b6-d4f5ef66aed7",
+  "targetDescription": "Base contendo selecao inicial do publico",
+  "createdDate": "2022-06-16T21:41:55.787",
+  "modifiedDate": "2022-06-16T21:41:55.787",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 31535,
+  "isFrozen": false
+}

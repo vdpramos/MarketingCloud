@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "019c3be2-1611-4606-a4ee-390c889ca91a",
+  "name": "Controle Execucao - campanhas diarias",
+  "key": "1a2891f4-150d-4dc0-b09d-82a431c84360",
+  "description": "automação para verificar as campanhas diárias que estão com a data divergente da data do dia da execução.",
+  "queryText": "select id as id_campanha, getdate() as data_execucao\nfrom Campaign_SALESFORCE\nwhere HC_Data_de_Execucao__c < getdate() \n      and periodicidade__c = 'Diário'",
+  "targetName": "ControleExecucao",
+  "targetKey": "0598FCB6-E08C-416C-A494-1C47F0146DED",
+  "targetId": "0e3330ff-c574-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-12-05T12:08:44.593",
+  "modifiedDate": "2022-12-05T12:33:59.953",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29755,
+  "isFrozen": false
+}

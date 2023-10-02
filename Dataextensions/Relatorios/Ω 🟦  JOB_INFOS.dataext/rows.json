@@ -1,0 +1,82 @@
+[
+  {
+    "_CustomObjectKey": "10132",
+    "JobID": "170706",
+    "SchedTime": "8/7/2023 11:26:00 AM",
+    "DeliveredTime": "",
+    "PickupTime": "1/17/2022 6:56:00 PM",
+    "EmailName": "Boas Vindas Caracterisitcas Novo",
+    "EmailSubject": "Que tal verificar os seus produtos?                                                                                                                                                                     ",
+    "ModifiedDate": "9/5/2023 11:25:45 AM"
+  },
+  {
+    "_CustomObjectKey": "10133",
+    "JobID": "170707",
+    "SchedTime": "8/7/2023 11:26:00 AM",
+    "DeliveredTime": "",
+    "PickupTime": "1/17/2022 6:56:00 PM",
+    "EmailName": "Boas Vindas Caracterisitcas Recorrente",
+    "EmailSubject": "Que tal verificar os seus produtos?                                                                                                                                                                     ",
+    "ModifiedDate": "9/5/2023 11:25:49 AM"
+  },
+  {
+    "_CustomObjectKey": "10134",
+    "JobID": "170708",
+    "SchedTime": "8/7/2023 11:26:00 AM",
+    "DeliveredTime": "",
+    "PickupTime": "1/17/2022 6:56:00 PM",
+    "EmailName": "Boas Vindas Caracterisitcas Recuperado",
+    "EmailSubject": "Que tal verificar os seus produtos?                                                                                                                                                                     ",
+    "ModifiedDate": "9/5/2023 11:25:42 AM"
+  },
+  {
+    "_CustomObjectKey": "10135",
+    "JobID": "275247",
+    "SchedTime": "2/27/2023 3:15:00 PM",
+    "DeliveredTime": "",
+    "PickupTime": "11/23/2022 11:41:00 AM",
+    "EmailName": "Fim de Plano PM sem OTC - com Renovação",
+    "EmailSubject": "Parabéns por manter seus titulos                                                                                                                                                                        ",
+    "ModifiedDate": "9/4/2023 3:08:29 PM"
+  },
+  {
+    "_CustomObjectKey": "10136",
+    "JobID": "275248",
+    "SchedTime": "2/27/2023 3:15:00 PM",
+    "DeliveredTime": "",
+    "PickupTime": "11/23/2022 11:41:00 AM",
+    "EmailName": "Fim de Plano PM sem OTC - sem Renovação",
+    "EmailSubject": "Parabéns por manter seus titulos                                                                                                                                                                        ",
+    "ModifiedDate": "9/4/2023 3:08:40 PM"
+  },
+  {
+    "_CustomObjectKey": "10137",
+    "JobID": "281415",
+    "SchedTime": "12/15/2022 9:27:00 AM",
+    "DeliveredTime": "",
+    "PickupTime": "12/15/2022 9:28:00 AM",
+    "EmailName": "Email Campanha Aniversario - 20212212",
+    "EmailSubject": "Ourocap deseja um Feliz Aniversário                                                                                                                                                                     ",
+    "ModifiedDate": "9/5/2023 5:15:21 AM"
+  },
+  {
+    "_CustomObjectKey": "10138",
+    "JobID": "285518",
+    "SchedTime": "2/28/2023 7:22:00 AM",
+    "DeliveredTime": "",
+    "PickupTime": "12/29/2022 10:57:00 AM",
+    "EmailName": "Fim de Plano PU sem OTC",
+    "EmailSubject": "Parabéns por manter seus titulos                                                                                                                                                                        ",
+    "ModifiedDate": "9/1/2023 7:22:48 AM"
+  },
+  {
+    "_CustomObjectKey": "10139",
+    "JobID": "302266",
+    "SchedTime": "8/21/2023 10:21:00 AM",
+    "DeliveredTime": "",
+    "PickupTime": "3/7/2023 12:02:00 PM",
+    "EmailName": "Boas Vindas Aniversario Características Novo",
+    "EmailSubject": "Você tem acompanhado os sorteios do seu Ourocap?                                                                                                                                                        ",
+    "ModifiedDate": "9/5/2023 10:20:13 AM"
+  }
+]

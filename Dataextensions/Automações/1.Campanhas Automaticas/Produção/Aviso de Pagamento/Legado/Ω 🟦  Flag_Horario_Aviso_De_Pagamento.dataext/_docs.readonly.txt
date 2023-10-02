@@ -1,0 +1,5 @@
+Dataextension name: Flag_Horario_Aviso_De_Pagamento
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Hora                 | Boolean         | false    | false    |                 |

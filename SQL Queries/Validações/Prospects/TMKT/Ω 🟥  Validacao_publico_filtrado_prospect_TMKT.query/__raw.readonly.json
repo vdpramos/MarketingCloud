@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6b0d202c-c485-4b20-b10f-0379b587ab07",
+  "name": "Validacao_publico_filtrado_prospect_TMKT",
+  "key": "f62f6a62-a653-41e1-a57f-7a3a32c1cb63",
+  "description": "",
+  "queryText": "SELECT\n  B.*\nFROM Validacao_Prospect_ComOTC_Tratada_TMKT B\nWHERE\n    IDADE_VALIDA = 1\n  AND CONTA_CORRENTE = 1\n  AND QUARENTENA = 0\n  AND CONSELHEIRO = 0 \n  /* AND CLIENTE = 0 */\n  /* AND VALIDA_RNA = 1 */\n  AND CEP_VALIDO = 1\n  AND NAO_IMPORTUNE = 0",
+  "targetName": "Validacao_Prospect_ComOTC_Filtrada_TMKT",
+  "targetKey": "BE79C2FF-E720-4D47-A610-2D0E3E1B0F07",
+  "targetId": "fd22b274-e644-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Contatos filtrados para o envio do OTC290",
+  "createdDate": "2022-10-05T13:49:18.487",
+  "modifiedDate": "2022-10-05T13:56:38.27",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 54102,
+  "isFrozen": false
+}

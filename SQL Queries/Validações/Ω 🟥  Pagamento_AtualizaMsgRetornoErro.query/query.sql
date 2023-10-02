@@ -1,0 +1,3 @@
+select id, HC_Codigo_de_Retorno_de_Erro__c
+from hc_pagamento__c_salesforce
+where HC_Codigo_de_Retorno_de_Erro__c is not null and len(HC_Codigo_de_Retorno_de_Erro__c)<=50

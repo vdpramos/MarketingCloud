@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "d60beae9-c37a-4bd4-b945-e92946664c03",
+  "name": "Qr00.1_Campanha_FimdeAno2021_Trata_Celular",
+  "key": "b3cec170-adc3-4c7f-a155-391fd6c6dddf",
+  "description": "",
+  "queryText": "SELECT \n\tCPF_CNPJ,\n\tCONCAT('55', REPLACE(REPLACE(REPLACE(REPLACE(CELULAR, '(', ''), ')', ''), ' ', ''), '-', '')) AS CELULAR\nFROM Tb_Campanha_FimdeAno2021_Base\nWHERE CELULAR_VALIDO = 1",
+  "targetName": "Tb_Campanha_FimdeAno2021_Base",
+  "targetKey": "A15D83CE-FC2F-495F-8FE2-9723082FC9FA",
+  "targetId": "6e6e8eaf-8b54-ec11-a313-48df37342c99",
+  "targetDescription": "Base com o publico inicial",
+  "createdDate": "2021-12-03T16:57:19.527",
+  "modifiedDate": "2022-11-21T14:24:54.27",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 42301,
+  "isFrozen": false
+}

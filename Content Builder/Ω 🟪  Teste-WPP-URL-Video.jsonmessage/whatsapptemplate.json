@@ -1,0 +1,138 @@
+{
+  "display:message:format": "text",
+  "display:languages:content": {
+    "pT_BR": {
+      "display:components": [
+        "message"
+      ],
+      "display:message": "Teste - O seu video é: %%video_url%%",
+      "display:message:parameters": {}
+    },
+    "pT_PT": {
+      "display:components": [
+        "message"
+      ],
+      "display:message": "Teste - O seu video é: %%video_url%%",
+      "display:message:parameters": {}
+    }
+  },
+  "channel": "whatsapptemplate",
+  "showTemplatePicker": false,
+  "templateName": "teste_video_url",
+  "collapsedPanels": [],
+  "display:lang": "PT_BR",
+  "stack": "S11",
+  "display:components": [
+    "message"
+  ],
+  "display:message": "Teste - O seu video é: %%video_url%%",
+  "currentColumn": 0,
+  "selectedTemplate": {
+    "display:components": [
+      "message"
+    ],
+    "display:message": "Teste - O seu video é: %%video_url%%",
+    "display:message:parameters": {}
+  },
+  "display:message:parameters": {},
+  "template": {
+    "modifiedBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "customerKey": "86dd7f83-1f4b-4c5c-8ed4-c95d60ed5c44",
+    "availableViews": [
+      "whatsAppTemplate"
+    ],
+    "model": {
+      "id": 235,
+      "fileExtension": "",
+      "name": "JSON Message Template",
+      "key": "jsonmessagetemplate",
+      "parentAssetTypeID": 4,
+      "createdDate": "2020-06-29T15:25:11Z",
+      "modifiedDate": "2020-06-29T15:25:11Z",
+      "isCDNPublishable": false
+    },
+    "assetType": {
+      "id": 235,
+      "name": "jsonmessagetemplate",
+      "displayName": "jsonmessagetemplate"
+    },
+    "name": "WHATSAPP-teste_video_url",
+    "thumbnail": {
+      "thumbnailUrl": "/v1/assets/76361/thumbnail"
+    },
+    "views": {
+      "whatsAppTemplate": {
+        "thumbnail": {},
+        "content": "",
+        "meta": {
+          "options": {
+            "customBlockData": {
+              "channel": "WHATSAPP",
+              "template": "template",
+              "containerId": "106212288893473",
+              "templateName": "teste_video_url",
+              "category": "RESERVATION_UPDATE",
+              "display:languages:approved": [
+                "PT_BR",
+                "PT_PT"
+              ],
+              "display:languages:content": {
+                "pT_BR": {
+                  "display:components": [
+                    "message"
+                  ],
+                  "display:message": "Teste - O seu video é: %%video_url%%",
+                  "display:message:parameters": {}
+                },
+                "pT_PT": {
+                  "display:components": [
+                    "message"
+                  ],
+                  "display:message": "Teste - O seu video é: %%video_url%%",
+                  "display:message:parameters": {}
+                }
+              }
+            }
+          }
+        },
+        "modelVersion": 2
+      }
+    },
+    "modelVersion": 2,
+    "status": {
+      "id": 1,
+      "name": "Draft"
+    },
+    "owner": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "memberId": 514002572,
+    "createdDate": "2022-10-07T17:52:46-06:00",
+    "modifiedDate": "2022-10-10T14:01:53-06:00",
+    "objectID": "9313e029-078b-465d-91be-9d761c8ae1b3",
+    "id": 76361,
+    "enterpriseId": 514002572,
+    "category": {
+      "id": 1942,
+      "name": "Content Builder",
+      "parentId": 0
+    },
+    "createdBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    }
+  },
+  "contents": [],
+  "uncheckedPanels": [],
+  "category": "RESERVATION_UPDATE"
+}

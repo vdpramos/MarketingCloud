@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "EB7B2C45-0372-4100-8280-BBB68B391570"
+  ],
+  "Name": [
+    "AVISO_PAGAMENTO_ENVIO"
+  ]
+}

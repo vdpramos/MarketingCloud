@@ -1,0 +1,6 @@
+Dataextension name: Tb_Testes_Bruno
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Email                | EmailAddress    | false    | false    |                 |
+| Nome                 | Text(50)        | false    | false    |                 |

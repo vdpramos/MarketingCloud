@@ -1,0 +1,5 @@
+Dataextension name: Flag_Integracao_Prospect_AeC
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| INTEGRACAO           | Boolean         | false    | false    |                 |

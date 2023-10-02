@@ -1,0 +1,4041 @@
+[
+  {
+    "_CustomObjectKey": "1636389",
+    "ID": "a0i6g00000H7UFOAA3",
+    "CPF_CNPJ": "01297231856",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc7iAAA"
+  },
+  {
+    "_CustomObjectKey": "1636390",
+    "ID": "a0i6g00000EhViqAAF",
+    "CPF_CNPJ": "11313614823",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002Y0AIjAAN"
+  },
+  {
+    "_CustomObjectKey": "1636391",
+    "ID": "a0i6g00000H7VCjAAN",
+    "CPF_CNPJ": "03522280598",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdl60AAA"
+  },
+  {
+    "_CustomObjectKey": "1636392",
+    "ID": "a0i6g00000H7VCAAA3",
+    "CPF_CNPJ": "05602800760",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdl6PAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636393",
+    "ID": "a0i6g00000H7VCFAA3",
+    "CPF_CNPJ": "02138925889",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdl6xAAA"
+  },
+  {
+    "_CustomObjectKey": "1636394",
+    "ID": "a0i6g00000H7UxPAAV",
+    "CPF_CNPJ": "11770941690",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdhHHAAY"
+  },
+  {
+    "_CustomObjectKey": "1636395",
+    "ID": "a0i6g00000H7UxZAAV",
+    "CPF_CNPJ": "07607077669",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdhJjAAI"
+  },
+  {
+    "_CustomObjectKey": "1636396",
+    "ID": "a0i6g00000By6DNAAZ",
+    "CPF_CNPJ": "03413213466",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002UEsO9AAL"
+  },
+  {
+    "_CustomObjectKey": "1636397",
+    "ID": "a0i6g0000089QGXAA2",
+    "CPF_CNPJ": "23270826000176",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye72AAA"
+  },
+  {
+    "_CustomObjectKey": "1636398",
+    "ID": "a0i6g0000089QGiAAM",
+    "CPF_CNPJ": "18102840000120",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001g0RXYAA2"
+  },
+  {
+    "_CustomObjectKey": "1636399",
+    "ID": "a0i6g0000089QGxAAM",
+    "CPF_CNPJ": "21935321000158",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyenuAAA"
+  },
+  {
+    "_CustomObjectKey": "1636400",
+    "ID": "a0i6g0000089QHHAA2",
+    "CPF_CNPJ": "41127131000111",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfEfAAI"
+  },
+  {
+    "_CustomObjectKey": "1636401",
+    "ID": "a0i6g0000089QHPAA2",
+    "CPF_CNPJ": "41244280000160",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fycIeAAI"
+  },
+  {
+    "_CustomObjectKey": "1636402",
+    "ID": "a0i6g0000089QHQAA2",
+    "CPF_CNPJ": "27670244000138",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfDZAAY"
+  },
+  {
+    "_CustomObjectKey": "1636403",
+    "ID": "a0i6g0000089QbEAAU",
+    "CPF_CNPJ": "10190467000103",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfUdAAI"
+  },
+  {
+    "_CustomObjectKey": "1636404",
+    "ID": "a0i6g0000089QbGAAU",
+    "CPF_CNPJ": "10322539000110",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfNxAAI"
+  },
+  {
+    "_CustomObjectKey": "1636405",
+    "ID": "a0i6g0000089QbPAAU",
+    "CPF_CNPJ": "11146664000180",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeFfAAI"
+  },
+  {
+    "_CustomObjectKey": "1636406",
+    "ID": "a0i6g0000089QbaAAE",
+    "CPF_CNPJ": "14767216000191",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeM5AAI"
+  },
+  {
+    "_CustomObjectKey": "1636407",
+    "ID": "a0i6g0000089QbiAAE",
+    "CPF_CNPJ": "21772453000106",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeQMAAY"
+  },
+  {
+    "_CustomObjectKey": "1636408",
+    "ID": "a0i6g0000089QbjAAE",
+    "CPF_CNPJ": "24114079000140",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfDoAAI"
+  },
+  {
+    "_CustomObjectKey": "1636409",
+    "ID": "a0i6g0000089Qc2AAE",
+    "CPF_CNPJ": "32912451000191",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeFxAAI"
+  },
+  {
+    "_CustomObjectKey": "1636410",
+    "ID": "a0i6g0000089QcCAAU",
+    "CPF_CNPJ": "35606570000104",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeeIAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636411",
+    "ID": "a0i6g0000089QcDAAU",
+    "CPF_CNPJ": "35855877000149",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye7rAAA"
+  },
+  {
+    "_CustomObjectKey": "1636412",
+    "ID": "a0i6g0000089QcFAAU",
+    "CPF_CNPJ": "36064708000153",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfEEAAY"
+  },
+  {
+    "_CustomObjectKey": "1636413",
+    "ID": "a0i6g0000089QcLAAU",
+    "CPF_CNPJ": "38065401000100",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfFRAAY"
+  },
+  {
+    "_CustomObjectKey": "1636414",
+    "ID": "a0i6g00000Eh7ILAAZ",
+    "CPF_CNPJ": "08215105840",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002OX0DgAAL"
+  },
+  {
+    "_CustomObjectKey": "1636415",
+    "ID": "a0i6g0000089QFfAAM",
+    "CPF_CNPJ": "35633492000137",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfNTAAY"
+  },
+  {
+    "_CustomObjectKey": "1636416",
+    "ID": "a0i6g00000H7UVLAA3",
+    "CPF_CNPJ": "71599142791",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cddElAAI"
+  },
+  {
+    "_CustomObjectKey": "1636417",
+    "ID": "a0i6g00000H7UXMAA3",
+    "CPF_CNPJ": "12011531000169",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cddawAAA"
+  },
+  {
+    "_CustomObjectKey": "1636418",
+    "ID": "a0i6g00000H7UWxAAN",
+    "CPF_CNPJ": "08917541720",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cddSEAAY"
+  },
+  {
+    "_CustomObjectKey": "1636419",
+    "ID": "a0i6g00000H7GT3AAN",
+    "CPF_CNPJ": "32619510104",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002bGO5mAAG"
+  },
+  {
+    "_CustomObjectKey": "1636420",
+    "ID": "a0i6g00000EhhQhAAJ",
+    "CPF_CNPJ": "56900309372",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002Y15acAAB"
+  },
+  {
+    "_CustomObjectKey": "1636421",
+    "ID": "a0i6g00000H7UijAAF",
+    "CPF_CNPJ": "35771275115",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeLiAAI"
+  },
+  {
+    "_CustomObjectKey": "1636422",
+    "ID": "a0i6g00000H7UjhAAF",
+    "CPF_CNPJ": "50013860000138",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdePzAAI"
+  },
+  {
+    "_CustomObjectKey": "1636423",
+    "ID": "a0i6g00000H7UjwAAF",
+    "CPF_CNPJ": "38671123553",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeSGAAY"
+  },
+  {
+    "_CustomObjectKey": "1636424",
+    "ID": "a0i6g00000H7PzkAAF",
+    "CPF_CNPJ": "05360821973",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bHKjuAAG"
+  },
+  {
+    "_CustomObjectKey": "1636425",
+    "ID": "a0i6g00000H7TLlAAN",
+    "CPF_CNPJ": "31906021000102",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdU79AAE"
+  },
+  {
+    "_CustomObjectKey": "1636426",
+    "ID": "a0i6g00000H7UmXAAV",
+    "CPF_CNPJ": "61677817291",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdee3AAA"
+  },
+  {
+    "_CustomObjectKey": "1636427",
+    "ID": "a0i6g00000H7UnPAAV",
+    "CPF_CNPJ": "21721952000174",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdehLAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636428",
+    "ID": "a0i6g00000H7UmrAAF",
+    "CPF_CNPJ": "27857177000165",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeclAAA"
+  },
+  {
+    "_CustomObjectKey": "1636429",
+    "ID": "a0i6g00000H7UnoAAF",
+    "CPF_CNPJ": "01872011969",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdejIAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636430",
+    "ID": "a0i6g00000H7UpBAAV",
+    "CPF_CNPJ": "49174061000164",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeecAAA"
+  },
+  {
+    "_CustomObjectKey": "1636431",
+    "ID": "a0i6g00000H7UocAAF",
+    "CPF_CNPJ": "05552474147",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeoNAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636432",
+    "ID": "a0i6g00000H7Uq9AAF",
+    "CPF_CNPJ": "51094533904",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeu2AAA"
+  },
+  {
+    "_CustomObjectKey": "1636433",
+    "ID": "a0i6g00000H7UqOAAV",
+    "CPF_CNPJ": "08812405916",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeuqAAA"
+  },
+  {
+    "_CustomObjectKey": "1636434",
+    "ID": "a0i6g00000H7IrQAAV",
+    "CPF_CNPJ": "02037773951",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bGYIZAA4"
+  },
+  {
+    "_CustomObjectKey": "1636435",
+    "ID": "a0i6g00000H7IyHAAV",
+    "CPF_CNPJ": "16168143220",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bGYnUAAW"
+  },
+  {
+    "_CustomObjectKey": "1636436",
+    "ID": "a0i6g00000H7MQtAAN",
+    "CPF_CNPJ": "27975819891",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bGufSAAS"
+  },
+  {
+    "_CustomObjectKey": "1636437",
+    "ID": "a0i6g00000H7MkqAAF",
+    "CPF_CNPJ": "07159034384",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bGv6xAAC"
+  },
+  {
+    "_CustomObjectKey": "1636438",
+    "ID": "a0i6g0000089QZrAAM",
+    "CPF_CNPJ": "84175769000130",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfFJAAY"
+  },
+  {
+    "_CustomObjectKey": "1636439",
+    "ID": "a0i6g0000089QZsAAM",
+    "CPF_CNPJ": "24815086000179",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfp4AAA"
+  },
+  {
+    "_CustomObjectKey": "1636440",
+    "ID": "a0i6g00000H7RUHAA3",
+    "CPF_CNPJ": "83768700500",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002bHMtJAAW"
+  },
+  {
+    "_CustomObjectKey": "1636441",
+    "ID": "a0i6g00000HvxIDAAZ",
+    "CPF_CNPJ": "32398859487",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002am9N1AAI"
+  },
+  {
+    "_CustomObjectKey": "1636442",
+    "ID": "a0i6g00000H7SaiAAF",
+    "CPF_CNPJ": "09724829898",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQvCAAU"
+  },
+  {
+    "_CustomObjectKey": "1636443",
+    "ID": "a0i6g00000H7SaoAAF",
+    "CPF_CNPJ": "10161128823",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQvIAAU"
+  },
+  {
+    "_CustomObjectKey": "1636444",
+    "ID": "a0i6g00000H7SapAAF",
+    "CPF_CNPJ": "10238038874",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQvJAAU"
+  },
+  {
+    "_CustomObjectKey": "1636445",
+    "ID": "a0i6g00000H7SSgAAN",
+    "CPF_CNPJ": "26391133808",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQmtAAE"
+  },
+  {
+    "_CustomObjectKey": "1636446",
+    "ID": "a0i6g00000H7SStAAN",
+    "CPF_CNPJ": "03845851406",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQn6AAE"
+  },
+  {
+    "_CustomObjectKey": "1636447",
+    "ID": "a0i6g000008qW6GAAU",
+    "CPF_CNPJ": "68454627049",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001pHK6tAAG"
+  },
+  {
+    "_CustomObjectKey": "1636448",
+    "ID": "a0i6g00000H5RNLAA3",
+    "CPF_CNPJ": "00968968848",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002YUl2JAAT"
+  },
+  {
+    "_CustomObjectKey": "1636449",
+    "ID": "a0i6g00000H7TkHAAV",
+    "CPF_CNPJ": "24400211991",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbZMAAY"
+  },
+  {
+    "_CustomObjectKey": "1636450",
+    "ID": "a0i6g0000089QPzAAM",
+    "CPF_CNPJ": "23835075000198",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye7uAAA"
+  },
+  {
+    "_CustomObjectKey": "1636451",
+    "ID": "a0i6g0000089QQ1AAM",
+    "CPF_CNPJ": "41079590000177",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfEXAAY"
+  },
+  {
+    "_CustomObjectKey": "1636452",
+    "ID": "a0i6g00000H7TyNAAV",
+    "CPF_CNPJ": "02799379893",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbqVAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636453",
+    "ID": "a0i6g00000H7UtIAAV",
+    "CPF_CNPJ": "14918110215",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdfEzAAI"
+  },
+  {
+    "_CustomObjectKey": "1636454",
+    "ID": "a0i6g00000H7Uu6AAF",
+    "CPF_CNPJ": "21815666668",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdfNwAAI"
+  },
+  {
+    "_CustomObjectKey": "1636455",
+    "ID": "a0i6g00000H7UupAAF",
+    "CPF_CNPJ": "58888659234",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdfagAAA"
+  },
+  {
+    "_CustomObjectKey": "1636456",
+    "ID": "a0i6g00000H7U5jAAF",
+    "CPF_CNPJ": "80229387772",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002OXquoAAD"
+  },
+  {
+    "_CustomObjectKey": "1636457",
+    "ID": "a0i6g00000H7U5kAAF",
+    "CPF_CNPJ": "09252622772",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdby7AAA"
+  },
+  {
+    "_CustomObjectKey": "1636458",
+    "ID": "a0i6g00000H7U5mAAF",
+    "CPF_CNPJ": "74930770700",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdby9AAA"
+  },
+  {
+    "_CustomObjectKey": "1636459",
+    "ID": "a0i6g00000H7T2oAAF",
+    "CPF_CNPJ": "31441629572",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g000024fgNyAAI"
+  },
+  {
+    "_CustomObjectKey": "1636460",
+    "ID": "a0i6g00000H7T67AAF",
+    "CPF_CNPJ": "11522484485",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdSkiAAE"
+  },
+  {
+    "_CustomObjectKey": "1636461",
+    "ID": "a0i6g00000H7T6HAAV",
+    "CPF_CNPJ": "13785540868",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdSeRAAU"
+  },
+  {
+    "_CustomObjectKey": "1636462",
+    "ID": "a0i6g00000H7T7oAAF",
+    "CPF_CNPJ": "40230633803",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdStfAAE"
+  },
+  {
+    "_CustomObjectKey": "1636463",
+    "ID": "a0i6g00000H7T7yAAF",
+    "CPF_CNPJ": "05476076603",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdSu9AAE"
+  },
+  {
+    "_CustomObjectKey": "1636464",
+    "ID": "a0i6g000006EZ5TAAW",
+    "CPF_CNPJ": "19936362500",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001e5B30AAE"
+  },
+  {
+    "_CustomObjectKey": "1636465",
+    "ID": "a0i6g00000H7T8NAAV",
+    "CPF_CNPJ": "51316488000100",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdSwYAAU"
+  },
+  {
+    "_CustomObjectKey": "1636466",
+    "ID": "a0i6g00000H7T9VAAV",
+    "CPF_CNPJ": "20821026615",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdT2cAAE"
+  },
+  {
+    "_CustomObjectKey": "1636467",
+    "ID": "a0i6g00000H7TAOAA3",
+    "CPF_CNPJ": "42225060010",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdT4xAAE"
+  },
+  {
+    "_CustomObjectKey": "1636468",
+    "ID": "a0i6g00000H7UwlAAF",
+    "CPF_CNPJ": "80948138904",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdgyYAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636469",
+    "ID": "a0i6g00000H7GT1AAN",
+    "CPF_CNPJ": "36867307000131",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002bGO5kAAG"
+  },
+  {
+    "_CustomObjectKey": "1636470",
+    "ID": "a0i6g00000H7Sn3AAF",
+    "CPF_CNPJ": "78036305534",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdR7gAAE"
+  },
+  {
+    "_CustomObjectKey": "1636471",
+    "ID": "a0i6g00000AkELGAA3",
+    "CPF_CNPJ": "01252267053",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001zF9QtAAK"
+  },
+  {
+    "_CustomObjectKey": "1636472",
+    "ID": "a0i6g00000H7SR5AAN",
+    "CPF_CNPJ": "32163924904",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQlJAAU"
+  },
+  {
+    "_CustomObjectKey": "1636473",
+    "ID": "a0i6g00000H7SVVAA3",
+    "CPF_CNPJ": "72161345400",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQq2AAE"
+  },
+  {
+    "_CustomObjectKey": "1636474",
+    "ID": "a0i6g00000H7SVWAA3",
+    "CPF_CNPJ": "25712759845",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001e5KNNAA2"
+  },
+  {
+    "_CustomObjectKey": "1636475",
+    "ID": "a0i6g00000H7SVXAA3",
+    "CPF_CNPJ": "29211695848",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001ewqQeAAI"
+  },
+  {
+    "_CustomObjectKey": "1636476",
+    "ID": "a0i6g00000H7SR7AAN",
+    "CPF_CNPJ": "00191019887",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQlLAAU"
+  },
+  {
+    "_CustomObjectKey": "1636477",
+    "ID": "a0i6g00000H7SR9AAN",
+    "CPF_CNPJ": "68597746220",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQlNAAU"
+  },
+  {
+    "_CustomObjectKey": "1636478",
+    "ID": "a0i6g00000H7SRAAA3",
+    "CPF_CNPJ": "84418745904",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQlOAAU"
+  },
+  {
+    "_CustomObjectKey": "1636479",
+    "ID": "a0i6g00000H7SRCAA3",
+    "CPF_CNPJ": "23196653900",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQlQAAU"
+  },
+  {
+    "_CustomObjectKey": "1636480",
+    "ID": "a0i6g00000H7SRDAA3",
+    "CPF_CNPJ": "07026742906",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001eYsbbAAC"
+  },
+  {
+    "_CustomObjectKey": "1636481",
+    "ID": "a0i6g00000H7SRGAA3",
+    "CPF_CNPJ": "44719345972",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQlSAAU"
+  },
+  {
+    "_CustomObjectKey": "1636482",
+    "ID": "a0i6g00000H7ShfAAF",
+    "CPF_CNPJ": "78473292715",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdR27AAE"
+  },
+  {
+    "_CustomObjectKey": "1636483",
+    "ID": "a0i6g0000089QPMAA2",
+    "CPF_CNPJ": "38408397000128",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfF6AAI"
+  },
+  {
+    "_CustomObjectKey": "1636484",
+    "ID": "a0i6g0000089QPfAAM",
+    "CPF_CNPJ": "41178850000161",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye7NAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636485",
+    "ID": "a0i6g0000089QQ8AAM",
+    "CPF_CNPJ": "39936659000190",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye7IAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636486",
+    "ID": "a0i6g0000089QQAAA2",
+    "CPF_CNPJ": "32394129000118",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyf7fAAA"
+  },
+  {
+    "_CustomObjectKey": "1636487",
+    "ID": "a0i6g0000089QQDAA2",
+    "CPF_CNPJ": "41106438000136",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fycTwAAI"
+  },
+  {
+    "_CustomObjectKey": "1636488",
+    "ID": "a0i6g00000H7TKJAA3",
+    "CPF_CNPJ": "01924369966",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001elhQEAAY"
+  },
+  {
+    "_CustomObjectKey": "1636489",
+    "ID": "a0i6g00000H7TKnAAN",
+    "CPF_CNPJ": "30548670000108",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdU1fAAE"
+  },
+  {
+    "_CustomObjectKey": "1636490",
+    "ID": "a0i6g00000H7TKsAAN",
+    "CPF_CNPJ": "13934158811",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdU2EAAU"
+  },
+  {
+    "_CustomObjectKey": "1636491",
+    "ID": "a0i6g000008BpLIAA0",
+    "CPF_CNPJ": "44579306015",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001gg5PgAAI"
+  },
+  {
+    "_CustomObjectKey": "1636492",
+    "ID": "a0i6g00000H7TC0AAN",
+    "CPF_CNPJ": "11118989000159",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdTCNAA2"
+  },
+  {
+    "_CustomObjectKey": "1636493",
+    "ID": "a0i6g00000H7TCjAAN",
+    "CPF_CNPJ": "38251405000175",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdTEnAAM"
+  },
+  {
+    "_CustomObjectKey": "1636494",
+    "ID": "a0i6g00000H7TDXAA3",
+    "CPF_CNPJ": "33433933715",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdTHmAAM"
+  },
+  {
+    "_CustomObjectKey": "1636495",
+    "ID": "a0i6g00000H7TavAAF",
+    "CPF_CNPJ": "46296404875",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdaxVAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636496",
+    "ID": "a0i6g00000H7TbKAAV",
+    "CPF_CNPJ": "44174454353",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fHHv4AAG"
+  },
+  {
+    "_CustomObjectKey": "1636497",
+    "ID": "a0i6g00000H7TcSAAV",
+    "CPF_CNPJ": "02825359343",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdb2hAAA"
+  },
+  {
+    "_CustomObjectKey": "1636498",
+    "ID": "a0i6g00000H7TcXAAV",
+    "CPF_CNPJ": "00648350000169",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdb3fAAA"
+  },
+  {
+    "_CustomObjectKey": "1636499",
+    "ID": "a0i6g00000H7Tm0AAF",
+    "CPF_CNPJ": "07939256149",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbbmAAA"
+  },
+  {
+    "_CustomObjectKey": "1636500",
+    "ID": "a0i6g00000H7TmeAAF",
+    "CPF_CNPJ": "38101920234",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbcaAAA"
+  },
+  {
+    "_CustomObjectKey": "1636501",
+    "ID": "a0i6g00000H7TrRAAV",
+    "CPF_CNPJ": "21161640010",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbi2AAA"
+  },
+  {
+    "_CustomObjectKey": "1636502",
+    "ID": "a0i6g00000H7Tr3AAF",
+    "CPF_CNPJ": "02203970073",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdbazAAA"
+  },
+  {
+    "_CustomObjectKey": "1636503",
+    "ID": "a0i6g0000089QRcAAM",
+    "CPF_CNPJ": "41271618000173",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye7zAAA"
+  },
+  {
+    "_CustomObjectKey": "1636504",
+    "ID": "a0i6g0000089QYIAA2",
+    "CPF_CNPJ": "39876961000108",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye7CAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636505",
+    "ID": "a0i6g0000089QYJAA2",
+    "CPF_CNPJ": "31362344000174",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfNiAAI"
+  },
+  {
+    "_CustomObjectKey": "1636506",
+    "ID": "a0i6g0000089QYPAA2",
+    "CPF_CNPJ": "34054749000133",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyee6AAA"
+  },
+  {
+    "_CustomObjectKey": "1636507",
+    "ID": "a0i6g0000089QYfAAM",
+    "CPF_CNPJ": "41403366000199",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye8LAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636508",
+    "ID": "a0i6g00000H7TunAAF",
+    "CPF_CNPJ": "26665271315",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdblrAAA"
+  },
+  {
+    "_CustomObjectKey": "1636509",
+    "ID": "a0i6g00000H7THjAAN",
+    "CPF_CNPJ": "46495802854",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdTmeAAE"
+  },
+  {
+    "_CustomObjectKey": "1636510",
+    "ID": "a0i6g00000H7TIwAAN",
+    "CPF_CNPJ": "11640422897",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdTrvAAE"
+  },
+  {
+    "_CustomObjectKey": "1636511",
+    "ID": "a0i6g00000H7TJ6AAN",
+    "CPF_CNPJ": "47774114000152",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdTuyAAE"
+  },
+  {
+    "_CustomObjectKey": "1636512",
+    "ID": "a0i6g00000H7TJBAA3",
+    "CPF_CNPJ": "10462477606",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdTv3AAE"
+  },
+  {
+    "_CustomObjectKey": "1636513",
+    "ID": "a0i6g00000H7TJGAA3",
+    "CPF_CNPJ": "02710401142",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdTvDAAU"
+  },
+  {
+    "_CustomObjectKey": "1636514",
+    "ID": "a0i6g00000BvweyAAB",
+    "CPF_CNPJ": "55626394915",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002Snb0EAAR"
+  },
+  {
+    "_CustomObjectKey": "1636515",
+    "ID": "a0i6g00000H7USCAA3",
+    "CPF_CNPJ": "67155413453",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdd04AAA"
+  },
+  {
+    "_CustomObjectKey": "1636516",
+    "ID": "a0i6g00000H7USMAA3",
+    "CPF_CNPJ": "00410724564",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdd0iAAA"
+  },
+  {
+    "_CustomObjectKey": "1636517",
+    "ID": "a0i6g00000H7SxFAAV",
+    "CPF_CNPJ": "07957794459",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdRxYAAU"
+  },
+  {
+    "_CustomObjectKey": "1636518",
+    "ID": "a0i6g00000H6lmeAAB",
+    "CPF_CNPJ": "05517775918",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bEc2LAAS"
+  },
+  {
+    "_CustomObjectKey": "1636519",
+    "ID": "a0i6g00000H77JAAAZ",
+    "CPF_CNPJ": "73567841068",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bFrDKAA0"
+  },
+  {
+    "_CustomObjectKey": "1636520",
+    "ID": "a0i6g00000H7Ne9AAF",
+    "CPF_CNPJ": "61935395815",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fBv6XAAS"
+  },
+  {
+    "_CustomObjectKey": "1636521",
+    "ID": "a0i6g000006GvApAAK",
+    "CPF_CNPJ": "15123460802",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001eaOXbAAM"
+  },
+  {
+    "_CustomObjectKey": "1636522",
+    "ID": "a0i6g00000H7UbiAAF",
+    "CPF_CNPJ": "51764091191",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdds1AAA"
+  },
+  {
+    "_CustomObjectKey": "1636523",
+    "ID": "a0i6g00000H7F1WAAV",
+    "CPF_CNPJ": "42850984825",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bGL5zAAG"
+  },
+  {
+    "_CustomObjectKey": "1636524",
+    "ID": "a0i6g00000AkF2UAAV",
+    "CPF_CNPJ": "61083779338",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002JmsKMAAZ"
+  },
+  {
+    "_CustomObjectKey": "1636525",
+    "ID": "a0i6g00000BDzOvAAL",
+    "CPF_CNPJ": "56837577972",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002OVSrXAAX"
+  },
+  {
+    "_CustomObjectKey": "1636526",
+    "ID": "a0i6g0000089QQeAAM",
+    "CPF_CNPJ": "17199953000123",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye7PAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636527",
+    "ID": "a0i6g0000089QQnAAM",
+    "CPF_CNPJ": "21495889000103",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001ebc29AAA"
+  },
+  {
+    "_CustomObjectKey": "1636528",
+    "ID": "a0i6g0000089QRGAA2",
+    "CPF_CNPJ": "31996150000120",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001ejAjmAAE"
+  },
+  {
+    "_CustomObjectKey": "1636529",
+    "ID": "a0i6g00000AurORAAZ",
+    "CPF_CNPJ": "94464332749",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001zDuNvAAK"
+  },
+  {
+    "_CustomObjectKey": "1636530",
+    "ID": "a0i6g00000H7SQkAAN",
+    "CPF_CNPJ": "51195119100",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQkyAAE"
+  },
+  {
+    "_CustomObjectKey": "1636531",
+    "ID": "a0i6g00000H7SV9AAN",
+    "CPF_CNPJ": "33762570191",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQpSAAU"
+  },
+  {
+    "_CustomObjectKey": "1636532",
+    "ID": "a0i6g00000H7SVDAA3",
+    "CPF_CNPJ": "14826941153",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQpWAAU"
+  },
+  {
+    "_CustomObjectKey": "1636533",
+    "ID": "a0i6g00000H7SVcAAN",
+    "CPF_CNPJ": "34085602268",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001e6lLAAAY"
+  },
+  {
+    "_CustomObjectKey": "1636534",
+    "ID": "a0i6g00000H7SVdAAN",
+    "CPF_CNPJ": "03267339650",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQq7AAE"
+  },
+  {
+    "_CustomObjectKey": "1636535",
+    "ID": "a0i6g00000H7SVeAAN",
+    "CPF_CNPJ": "04229895410",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQq8AAE"
+  },
+  {
+    "_CustomObjectKey": "1636536",
+    "ID": "a0i6g0000089QHgAAM",
+    "CPF_CNPJ": "64753387000130",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfYqAAI"
+  },
+  {
+    "_CustomObjectKey": "1636537",
+    "ID": "a0i6g0000089QI7AAM",
+    "CPF_CNPJ": "40236525000145",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyexDAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636538",
+    "ID": "a0i6g0000089QcXAAU",
+    "CPF_CNPJ": "40632444000164",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfNgAAI"
+  },
+  {
+    "_CustomObjectKey": "1636539",
+    "ID": "a0i6g0000089Qd3AAE",
+    "CPF_CNPJ": "40884721000126",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001e7YGHAA2"
+  },
+  {
+    "_CustomObjectKey": "1636540",
+    "ID": "a0i6g0000089QRWAA2",
+    "CPF_CNPJ": "54552807000166",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye7aAAA"
+  },
+  {
+    "_CustomObjectKey": "1636541",
+    "ID": "a0i6g00000H7HekAAF",
+    "CPF_CNPJ": "11472468000103",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bGPtPAAW"
+  },
+  {
+    "_CustomObjectKey": "1636542",
+    "ID": "a0i6g00000H7HhtAAF",
+    "CPF_CNPJ": "14100784422",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bGQ2NAAW"
+  },
+  {
+    "_CustomObjectKey": "1636543",
+    "ID": "a0i6g000005mtUfAAI",
+    "CPF_CNPJ": "69676232653",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001pV8eUAAS"
+  },
+  {
+    "_CustomObjectKey": "1636544",
+    "ID": "a0i6g000006N352AAC",
+    "CPF_CNPJ": "01676908765",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001e5CWfAAM"
+  },
+  {
+    "_CustomObjectKey": "1636545",
+    "ID": "a0i6g00000H7Lb2AAF",
+    "CPF_CNPJ": "26635399615",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bGmQKAA0"
+  },
+  {
+    "_CustomObjectKey": "1636546",
+    "ID": "a0i6g00000H6ktwAAB",
+    "CPF_CNPJ": "51388830000179",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bEYXkAAO"
+  },
+  {
+    "_CustomObjectKey": "1636547",
+    "ID": "a0i6g00000H7V9VAAV",
+    "CPF_CNPJ": "33874204120",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdkPSAAY"
+  },
+  {
+    "_CustomObjectKey": "1636548",
+    "ID": "a0i6g00000H7VATAA3",
+    "CPF_CNPJ": "15584016000166",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdkylAAA"
+  },
+  {
+    "_CustomObjectKey": "1636549",
+    "ID": "a0i6g00000H7VAnAAN",
+    "CPF_CNPJ": "16759206649",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdl1LAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636550",
+    "ID": "a0i6g00000H7VB2AAN",
+    "CPF_CNPJ": "26262169000103",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdl2lAAA"
+  },
+  {
+    "_CustomObjectKey": "1636551",
+    "ID": "a0i6g00000H7VBHAA3",
+    "CPF_CNPJ": "95291059753",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdl3kAAA"
+  },
+  {
+    "_CustomObjectKey": "1636552",
+    "ID": "a0i6g00000H7VBbAAN",
+    "CPF_CNPJ": "02553840926",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdl5LAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636553",
+    "ID": "a0i6g00000H7NyEAAV",
+    "CPF_CNPJ": "33420343000164",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bH1SJAA0"
+  },
+  {
+    "_CustomObjectKey": "1636554",
+    "ID": "a0i6g00000BE1VrAAL",
+    "CPF_CNPJ": "14543346149",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002OVVDvAAP"
+  },
+  {
+    "_CustomObjectKey": "1636555",
+    "ID": "a0i6g00000BS0sCAAT",
+    "CPF_CNPJ": "83527249249",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002P4emHAAR"
+  },
+  {
+    "_CustomObjectKey": "1636556",
+    "ID": "a0i6g00000EhSOxAAN",
+    "CPF_CNPJ": "96256753372",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001egc3hAAA"
+  },
+  {
+    "_CustomObjectKey": "1636557",
+    "ID": "a0i6g00000H7TqLAAV",
+    "CPF_CNPJ": "26820978120",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbgTAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636558",
+    "ID": "a0i6g00000H7TptAAF",
+    "CPF_CNPJ": "30292001835",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbfmAAA"
+  },
+  {
+    "_CustomObjectKey": "1636559",
+    "ID": "a0i6g00000H7TvnAAF",
+    "CPF_CNPJ": "15174840220",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbnKAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636560",
+    "ID": "a0i6g00000H7Tw9AAF",
+    "CPF_CNPJ": "11308503741",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbnfAAA"
+  },
+  {
+    "_CustomObjectKey": "1636561",
+    "ID": "a0i6g00000H7TwAAAV",
+    "CPF_CNPJ": "04424719200",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbngAAA"
+  },
+  {
+    "_CustomObjectKey": "1636562",
+    "ID": "a0i6g00000H7TwBAAV",
+    "CPF_CNPJ": "06240954870",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbnhAAA"
+  },
+  {
+    "_CustomObjectKey": "1636563",
+    "ID": "a0i6g00000H7TwDAAV",
+    "CPF_CNPJ": "23071737653",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbnjAAA"
+  },
+  {
+    "_CustomObjectKey": "1636564",
+    "ID": "a0i6g00000H7TwEAAV",
+    "CPF_CNPJ": "42845033672",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbnkAAA"
+  },
+  {
+    "_CustomObjectKey": "1636565",
+    "ID": "a0i6g000008q4pvAAA",
+    "CPF_CNPJ": "02259531377",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001pDdB7AAK"
+  },
+  {
+    "_CustomObjectKey": "1636566",
+    "ID": "a0i6g00000H7UB7AAN",
+    "CPF_CNPJ": "58911839868",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc3YAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636567",
+    "ID": "a0i6g00000H7UAGAA3",
+    "CPF_CNPJ": "01598237144",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc2iAAA"
+  },
+  {
+    "_CustomObjectKey": "1636568",
+    "ID": "a0i6g00000H7UAJAA3",
+    "CPF_CNPJ": "05410552830",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc2lAAA"
+  },
+  {
+    "_CustomObjectKey": "1636569",
+    "ID": "a0i6g00000H7UAKAA3",
+    "CPF_CNPJ": "59789654715",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc2mAAA"
+  },
+  {
+    "_CustomObjectKey": "1636570",
+    "ID": "a0i6g00000H7UALAA3",
+    "CPF_CNPJ": "99601656804",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc2nAAA"
+  },
+  {
+    "_CustomObjectKey": "1636571",
+    "ID": "a0i6g00000H7UAMAA3",
+    "CPF_CNPJ": "34554459853",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002Y1fwdAAB"
+  },
+  {
+    "_CustomObjectKey": "1636572",
+    "ID": "a0i6g00000H7UANAA3",
+    "CPF_CNPJ": "53971183549",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc2oAAA"
+  },
+  {
+    "_CustomObjectKey": "1636573",
+    "ID": "a0i6g00000H7UAOAA3",
+    "CPF_CNPJ": "99234220706",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc2pAAA"
+  },
+  {
+    "_CustomObjectKey": "1636574",
+    "ID": "a0i6g00000H7UAPAA3",
+    "CPF_CNPJ": "18496013804",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc2qAAA"
+  },
+  {
+    "_CustomObjectKey": "1636575",
+    "ID": "a0i6g000009iptUAAQ",
+    "CPF_CNPJ": "98512447320",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001zCUGOAA4"
+  },
+  {
+    "_CustomObjectKey": "1636576",
+    "ID": "a0i6g000006GuEZAA0",
+    "CPF_CNPJ": "01443266981",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001e5ClJAAU"
+  },
+  {
+    "_CustomObjectKey": "1636577",
+    "ID": "a0i6g000009kiMvAAI",
+    "CPF_CNPJ": "61609471415",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001zEfPTAA0"
+  },
+  {
+    "_CustomObjectKey": "1636578",
+    "ID": "a0i6g000006OcxTAAS",
+    "CPF_CNPJ": "07331908472",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001eile9AAA"
+  },
+  {
+    "_CustomObjectKey": "1636579",
+    "ID": "a0i6g0000089QPSAA2",
+    "CPF_CNPJ": "41258325000156",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfDiAAI"
+  },
+  {
+    "_CustomObjectKey": "1636580",
+    "ID": "a0i6g0000089QPaAAM",
+    "CPF_CNPJ": "20633952000150",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyefGAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636581",
+    "ID": "a0i6g0000089QPsAAM",
+    "CPF_CNPJ": "39730200000135",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fycbsAAA"
+  },
+  {
+    "_CustomObjectKey": "1636582",
+    "ID": "a0i6g0000089QQHAA2",
+    "CPF_CNPJ": "40141058000170",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfE7AAI"
+  },
+  {
+    "_CustomObjectKey": "1636583",
+    "ID": "a0i6g0000089QQbAAM",
+    "CPF_CNPJ": "33469028000121",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyedmAAA"
+  },
+  {
+    "_CustomObjectKey": "1636584",
+    "ID": "a0i6g0000089QQcAAM",
+    "CPF_CNPJ": "31568947000127",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfNoAAI"
+  },
+  {
+    "_CustomObjectKey": "1636585",
+    "ID": "a0i6g0000089QQjAAM",
+    "CPF_CNPJ": "76417112000104",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfODAAY"
+  },
+  {
+    "_CustomObjectKey": "1636586",
+    "ID": "a0i6g0000089QQsAAM",
+    "CPF_CNPJ": "38758728000150",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeG3AAI"
+  },
+  {
+    "_CustomObjectKey": "1636587",
+    "ID": "a0i6g0000089QQvAAM",
+    "CPF_CNPJ": "39806990000195",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfDgAAI"
+  },
+  {
+    "_CustomObjectKey": "1636588",
+    "ID": "a0i6g00000AB2cEAAT",
+    "CPF_CNPJ": "40097196215",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001pUkiYAAS"
+  },
+  {
+    "_CustomObjectKey": "1636589",
+    "ID": "a0i6g00000AE6O6AAL",
+    "CPF_CNPJ": "00962304360",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001sjArzAAE"
+  },
+  {
+    "_CustomObjectKey": "1636590",
+    "ID": "a0i6g00000AE6X2AAL",
+    "CPF_CNPJ": "82521530700",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001f96q1AAA"
+  },
+  {
+    "_CustomObjectKey": "1636591",
+    "ID": "a0i6g00000AEWhQAAX",
+    "CPF_CNPJ": "00014855127",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001yMPsPAAW"
+  },
+  {
+    "_CustomObjectKey": "1636592",
+    "ID": "a0i6g00000AF0CXAA1",
+    "CPF_CNPJ": "38160382120",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001s3IT4AAM"
+  },
+  {
+    "_CustomObjectKey": "1636593",
+    "ID": "a0i6g00000AF9HPAA1",
+    "CPF_CNPJ": "06721290863",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001jZ36IAAS"
+  },
+  {
+    "_CustomObjectKey": "1636594",
+    "ID": "a0i6g0000089QRIAA2",
+    "CPF_CNPJ": "31320455000118",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfNZAAY"
+  },
+  {
+    "_CustomObjectKey": "1636595",
+    "ID": "a0i6g0000089QRJAA2",
+    "CPF_CNPJ": "41038956000160",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeHVAAY"
+  },
+  {
+    "_CustomObjectKey": "1636596",
+    "ID": "a0i6g0000089QYlAAM",
+    "CPF_CNPJ": "10632546000119",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fydJKAAY"
+  },
+  {
+    "_CustomObjectKey": "1636597",
+    "ID": "a0i6g0000089QZJAA2",
+    "CPF_CNPJ": "41105576000109",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyedeAAA"
+  },
+  {
+    "_CustomObjectKey": "1636598",
+    "ID": "a0i6g0000089Qa9AAE",
+    "CPF_CNPJ": "48076871000115",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfZMAAY"
+  },
+  {
+    "_CustomObjectKey": "1636599",
+    "ID": "a0i6g00000AFK7yAAH",
+    "CPF_CNPJ": "07170992884",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001oqJFUAA2"
+  },
+  {
+    "_CustomObjectKey": "1636600",
+    "ID": "a0i6g0000089QHlAAM",
+    "CPF_CNPJ": "41381855000197",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyedRAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636601",
+    "ID": "a0i6g0000089QHtAAM",
+    "CPF_CNPJ": "40756344000140",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeFaAAI"
+  },
+  {
+    "_CustomObjectKey": "1636602",
+    "ID": "a0i6g0000089QHwAAM",
+    "CPF_CNPJ": "37658773000170",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfETAAY"
+  },
+  {
+    "_CustomObjectKey": "1636603",
+    "ID": "a0i6g0000089QbmAAE",
+    "CPF_CNPJ": "24972108000104",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyedEAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636604",
+    "ID": "a0i6g0000089QbpAAE",
+    "CPF_CNPJ": "26907304000120",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfNLAAY"
+  },
+  {
+    "_CustomObjectKey": "1636605",
+    "ID": "a0i6g0000089QbxAAE",
+    "CPF_CNPJ": "30641188000118",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyewKAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636606",
+    "ID": "a0i6g0000089QbzAAE",
+    "CPF_CNPJ": "31564159000162",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye7eAAA"
+  },
+  {
+    "_CustomObjectKey": "1636607",
+    "ID": "a0i6g0000089Qc6AAE",
+    "CPF_CNPJ": "35350296000155",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfE6AAI"
+  },
+  {
+    "_CustomObjectKey": "1636608",
+    "ID": "a0i6g0000089Qc8AAE",
+    "CPF_CNPJ": "35548386000155",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeeDAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636609",
+    "ID": "a0i6g0000089QcGAAU",
+    "CPF_CNPJ": "36765759000102",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfEBAAY"
+  },
+  {
+    "_CustomObjectKey": "1636610",
+    "ID": "a0i6g0000089QcRAAU",
+    "CPF_CNPJ": "39999943000105",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeQ7AAI"
+  },
+  {
+    "_CustomObjectKey": "1636611",
+    "ID": "a0i6g0000089QcSAAU",
+    "CPF_CNPJ": "40335262000121",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fycIRAAY"
+  },
+  {
+    "_CustomObjectKey": "1636612",
+    "ID": "a0i6g0000089QcTAAU",
+    "CPF_CNPJ": "40506924000189",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyenHAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636613",
+    "ID": "a0i6g0000089QcbAAE",
+    "CPF_CNPJ": "41055663000190",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye7AAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636614",
+    "ID": "a0i6g0000089zOKAAY",
+    "CPF_CNPJ": "41029393000143",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001eZHpeAAG"
+  },
+  {
+    "_CustomObjectKey": "1636615",
+    "ID": "a0i6g0000089zOUAAY",
+    "CPF_CNPJ": "33183876000170",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fxsaPAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636616",
+    "ID": "a0i6g0000089zOXAAY",
+    "CPF_CNPJ": "19107299000106",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001ggLHcAAM"
+  },
+  {
+    "_CustomObjectKey": "1636617",
+    "ID": "a0i6g000008BqW2AAK",
+    "CPF_CNPJ": "27279580807",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001ggDHzAAM"
+  },
+  {
+    "_CustomObjectKey": "1636618",
+    "ID": "a0i6g00000AENlEAAX",
+    "CPF_CNPJ": "31863957200",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001zE94PAAS"
+  },
+  {
+    "_CustomObjectKey": "1636619",
+    "ID": "a0i6g000006LErAAAW",
+    "CPF_CNPJ": "43946500463",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001ejDKZAA2"
+  },
+  {
+    "_CustomObjectKey": "1636620",
+    "ID": "a0i6g00000AHNSlAAP",
+    "CPF_CNPJ": "03142828664",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g000020LCieAAG"
+  },
+  {
+    "_CustomObjectKey": "1636621",
+    "ID": "a0i6g00000BRYhWAAX",
+    "CPF_CNPJ": "73759066020",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002P3r5bAAB"
+  },
+  {
+    "_CustomObjectKey": "1636622",
+    "ID": "a0i6g00000Atrz6AAB",
+    "CPF_CNPJ": "47832625864",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002Ke0zRAAR"
+  },
+  {
+    "_CustomObjectKey": "1636623",
+    "ID": "a0i6g00000H7J5XAAV",
+    "CPF_CNPJ": "19384831891",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001f8MyDAAU"
+  },
+  {
+    "_CustomObjectKey": "1636624",
+    "ID": "a0i6g00000BShSmAAL",
+    "CPF_CNPJ": "13266227654",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002P6CB4AAN"
+  },
+  {
+    "_CustomObjectKey": "1636625",
+    "ID": "a0i6g00000H7TL2AAN",
+    "CPF_CNPJ": "47705269000137",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdU4UAAU"
+  },
+  {
+    "_CustomObjectKey": "1636626",
+    "ID": "a0i6g00000H7TKxAAN",
+    "CPF_CNPJ": "14532199867",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdU40AAE"
+  },
+  {
+    "_CustomObjectKey": "1636627",
+    "ID": "a0i6g00000H7TMPAA3",
+    "CPF_CNPJ": "41393767168",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdUEvAAM"
+  },
+  {
+    "_CustomObjectKey": "1636628",
+    "ID": "a0i6g00000H7TN3AAN",
+    "CPF_CNPJ": "03078896021",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdULcAAM"
+  },
+  {
+    "_CustomObjectKey": "1636629",
+    "ID": "a0i6g00000H7TNIAA3",
+    "CPF_CNPJ": "02842275012",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdUMfAAM"
+  },
+  {
+    "_CustomObjectKey": "1636630",
+    "ID": "a0i6g00000H7TNmAAN",
+    "CPF_CNPJ": "45621936000178",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdUUPAA2"
+  },
+  {
+    "_CustomObjectKey": "1636631",
+    "ID": "a0i6g00000H7TNwAAN",
+    "CPF_CNPJ": "48414247920",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdUXcAAM"
+  },
+  {
+    "_CustomObjectKey": "1636632",
+    "ID": "a0i6g0000089QQQAA2",
+    "CPF_CNPJ": "40949535000128",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001eZ2L8AAK"
+  },
+  {
+    "_CustomObjectKey": "1636633",
+    "ID": "a0i6g000009zKTOAA2",
+    "CPF_CNPJ": "30359961991",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g000024fdeBAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636634",
+    "ID": "a0i6g00000H7Q48AAF",
+    "CPF_CNPJ": "95871047491",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bHKorAAG"
+  },
+  {
+    "_CustomObjectKey": "1636635",
+    "ID": "a0i6g00000AHbRaAAL",
+    "CPF_CNPJ": "04495433407",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002E5qWhAAJ"
+  },
+  {
+    "_CustomObjectKey": "1636636",
+    "ID": "a0i6g00000A5XQqAAN",
+    "CPF_CNPJ": "11963778634",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g000024axJCAAY"
+  },
+  {
+    "_CustomObjectKey": "1636637",
+    "ID": "a0i6g00000AMFYIAA5",
+    "CPF_CNPJ": "00262097800",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001oqFmhAAE"
+  },
+  {
+    "_CustomObjectKey": "1636638",
+    "ID": "a0i6g000005fmuzAAA",
+    "CPF_CNPJ": "52873650630",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002D0d4pAAB"
+  },
+  {
+    "_CustomObjectKey": "1636639",
+    "ID": "a0i6g0000089QaiAAE",
+    "CPF_CNPJ": "12124077000152",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye8yAAA"
+  },
+  {
+    "_CustomObjectKey": "1636640",
+    "ID": "a0i6g00000AMCwLAAX",
+    "CPF_CNPJ": "38979667949",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001r51HdAAI"
+  },
+  {
+    "_CustomObjectKey": "1636641",
+    "ID": "a0i6g000009SGPvAAO",
+    "CPF_CNPJ": "97443891849",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001yJABMAA4"
+  },
+  {
+    "_CustomObjectKey": "1636642",
+    "ID": "a0i6g00000AmX1XAAV",
+    "CPF_CNPJ": "06280306810",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001xh5B0AAI"
+  },
+  {
+    "_CustomObjectKey": "1636643",
+    "ID": "a0i6g00000BxpM3AAJ",
+    "CPF_CNPJ": "23980362191",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002UDGHMAA5"
+  },
+  {
+    "_CustomObjectKey": "1636644",
+    "ID": "a0i6g00000H7NjEAAV",
+    "CPF_CNPJ": "22404786830",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bH0h8AAC"
+  },
+  {
+    "_CustomObjectKey": "1636645",
+    "ID": "a0i6g00000H7PcRAAV",
+    "CPF_CNPJ": "07510219892",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bHK9dAAG"
+  },
+  {
+    "_CustomObjectKey": "1636646",
+    "ID": "a0i6g00000H7SMfAAN",
+    "CPF_CNPJ": "54268427600",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQgqAAE"
+  },
+  {
+    "_CustomObjectKey": "1636647",
+    "ID": "a0i6g00000H7SMYAA3",
+    "CPF_CNPJ": "17082830807",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001sjAnDAAU"
+  },
+  {
+    "_CustomObjectKey": "1636648",
+    "ID": "a0i6g00000BTyQuAAL",
+    "CPF_CNPJ": "90450280772",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002RHA6qAAH"
+  },
+  {
+    "_CustomObjectKey": "1636649",
+    "ID": "a0i6g00000BwJ4aAAF",
+    "CPF_CNPJ": "84058811900",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002TaGGdAAN"
+  },
+  {
+    "_CustomObjectKey": "1636650",
+    "ID": "a0i6g000006QT3oAAG",
+    "CPF_CNPJ": "19328985000107",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001eg8cAAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636651",
+    "ID": "a0i6g00000AmGeXAAV",
+    "CPF_CNPJ": "09564376000101",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002Jm4WMAAZ"
+  },
+  {
+    "_CustomObjectKey": "1636652",
+    "ID": "a0i6g00000H7GT2AAN",
+    "CPF_CNPJ": "18250700678",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002bGO5lAAG"
+  },
+  {
+    "_CustomObjectKey": "1636653",
+    "ID": "a0i6g00000H7010AAB",
+    "CPF_CNPJ": "25141384934",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bFXuAAAW"
+  },
+  {
+    "_CustomObjectKey": "1636654",
+    "ID": "a0i6g00000EiSc3AAF",
+    "CPF_CNPJ": "01541474864",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002Yw1YAAAZ"
+  },
+  {
+    "_CustomObjectKey": "1636655",
+    "ID": "a0i6g00000H7TnHAAV",
+    "CPF_CNPJ": "68991304249",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbdBAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636656",
+    "ID": "a0i6g00000H7TnKAAV",
+    "CPF_CNPJ": "85384860715",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbdCAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636657",
+    "ID": "a0i6g00000H7TnUAAV",
+    "CPF_CNPJ": "89320034834",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbdOAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636658",
+    "ID": "a0i6g00000BUeBpAAL",
+    "CPF_CNPJ": "01675579989",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002Rsi0KAAR"
+  },
+  {
+    "_CustomObjectKey": "1636659",
+    "ID": "a0i6g00000H7U6KAAV",
+    "CPF_CNPJ": "04911597810",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdbypAAA"
+  },
+  {
+    "_CustomObjectKey": "1636660",
+    "ID": "a0i6g00000H7U7IAAV",
+    "CPF_CNPJ": "21866164830",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbzkAAA"
+  },
+  {
+    "_CustomObjectKey": "1636661",
+    "ID": "a0i6g00000H7U7JAAV",
+    "CPF_CNPJ": "94733562691",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbzlAAA"
+  },
+  {
+    "_CustomObjectKey": "1636662",
+    "ID": "a0i6g00000H7U7LAAV",
+    "CPF_CNPJ": "01688870024",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbznAAA"
+  },
+  {
+    "_CustomObjectKey": "1636663",
+    "ID": "a0i6g00000H7U7MAAV",
+    "CPF_CNPJ": "45472327334",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbzoAAA"
+  },
+  {
+    "_CustomObjectKey": "1636664",
+    "ID": "a0i6g00000H7U7NAAV",
+    "CPF_CNPJ": "03117481397",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbzpAAA"
+  },
+  {
+    "_CustomObjectKey": "1636665",
+    "ID": "a0i6g00000H7U7OAAV",
+    "CPF_CNPJ": "63402440920",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbzqAAA"
+  },
+  {
+    "_CustomObjectKey": "1636666",
+    "ID": "a0i6g00000H7U7RAAV",
+    "CPF_CNPJ": "27665293816",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbztAAA"
+  },
+  {
+    "_CustomObjectKey": "1636667",
+    "ID": "a0i6g00000H7U7UAAV",
+    "CPF_CNPJ": "00462262308",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbzvAAA"
+  },
+  {
+    "_CustomObjectKey": "1636668",
+    "ID": "a0i6g0000089QctAAE",
+    "CPF_CNPJ": "81197543000142",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeETAAY"
+  },
+  {
+    "_CustomObjectKey": "1636669",
+    "ID": "a0i6g00000H7UsZAAV",
+    "CPF_CNPJ": "80071083944",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdfA3AAI"
+  },
+  {
+    "_CustomObjectKey": "1636670",
+    "ID": "a0i6g00000H7UrqAAF",
+    "CPF_CNPJ": "47777591000171",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdf4lAAA"
+  },
+  {
+    "_CustomObjectKey": "1636671",
+    "ID": "a0i6g00000H7Us5AAF",
+    "CPF_CNPJ": "32782234897",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdf5oAAA"
+  },
+  {
+    "_CustomObjectKey": "1636672",
+    "ID": "a0i6g00000H7T5sAAF",
+    "CPF_CNPJ": "19196696800",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdSkTAAU"
+  },
+  {
+    "_CustomObjectKey": "1636673",
+    "ID": "a0i6g00000ANz7LAAT",
+    "CPF_CNPJ": "00890614628",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001pCrU0AAK"
+  },
+  {
+    "_CustomObjectKey": "1636674",
+    "ID": "a0i6g00000BTYCPAA5",
+    "CPF_CNPJ": "31263364187",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001ggN7wAAE"
+  },
+  {
+    "_CustomObjectKey": "1636675",
+    "ID": "a0i6g00000AtnnWAAR",
+    "CPF_CNPJ": "03083666896",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002FLamTAAT"
+  },
+  {
+    "_CustomObjectKey": "1636676",
+    "ID": "a0i6g000009S034AAC",
+    "CPF_CNPJ": "19317425968",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001wgvakAAA"
+  },
+  {
+    "_CustomObjectKey": "1636677",
+    "ID": "a0i6g00000Ap9PyAAJ",
+    "CPF_CNPJ": "01690619228",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002KdcnfAAB"
+  },
+  {
+    "_CustomObjectKey": "1636678",
+    "ID": "a0i6g000008egM6AAI",
+    "CPF_CNPJ": "07581661415",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001hU3o7AAC"
+  },
+  {
+    "_CustomObjectKey": "1636679",
+    "ID": "a0i6g00000BTuJvAAL",
+    "CPF_CNPJ": "30121646858",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002RGrJiAAL"
+  },
+  {
+    "_CustomObjectKey": "1636680",
+    "ID": "a0i6g00000EhqBNAAZ",
+    "CPF_CNPJ": "09897322663",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002Yug27AAB"
+  },
+  {
+    "_CustomObjectKey": "1636681",
+    "ID": "a0i6g00000H7UCkAAN",
+    "CPF_CNPJ": "05671570832",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc5FAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636682",
+    "ID": "a0i6g00000H7UClAAN",
+    "CPF_CNPJ": "64343804887",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc5GAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636683",
+    "ID": "a0i6g00000H7UCmAAN",
+    "CPF_CNPJ": "81441096787",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc5HAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636684",
+    "ID": "a0i6g00000H7UCnAAN",
+    "CPF_CNPJ": "06029575830",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001eiWfvAAE"
+  },
+  {
+    "_CustomObjectKey": "1636685",
+    "ID": "a0i6g00000H7UCoAAN",
+    "CPF_CNPJ": "26078163515",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc5IAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636686",
+    "ID": "a0i6g00000H7UCpAAN",
+    "CPF_CNPJ": "18516432149",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc5JAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636687",
+    "ID": "a0i6g00000H7UCqAAN",
+    "CPF_CNPJ": "24424773949",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc5KAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636688",
+    "ID": "a0i6g00000H7UCrAAN",
+    "CPF_CNPJ": "40270009353",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g000024ft0SAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636689",
+    "ID": "a0i6g00000H7UCsAAN",
+    "CPF_CNPJ": "37696610368",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc5LAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636690",
+    "ID": "a0i6g00000H7UCtAAN",
+    "CPF_CNPJ": "24800646898",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001pUriTAAS"
+  },
+  {
+    "_CustomObjectKey": "1636691",
+    "ID": "a0i6g00000H7UCQAA3",
+    "CPF_CNPJ": "70404224334",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc4wAAA"
+  },
+  {
+    "_CustomObjectKey": "1636692",
+    "ID": "a0i6g000005nJWwAAM",
+    "CPF_CNPJ": "09182425760",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001tjC4aAAE"
+  },
+  {
+    "_CustomObjectKey": "1636693",
+    "ID": "a0i6g000008etGjAAI",
+    "CPF_CNPJ": "22777647879",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001oqIBwAAM"
+  },
+  {
+    "_CustomObjectKey": "1636694",
+    "ID": "a0i6g000009RxzaAAC",
+    "CPF_CNPJ": "79962386853",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001xivTRAAY"
+  },
+  {
+    "_CustomObjectKey": "1636695",
+    "ID": "a0i6g00000H7SaSAAV",
+    "CPF_CNPJ": "15820076915",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQuwAAE"
+  },
+  {
+    "_CustomObjectKey": "1636696",
+    "ID": "a0i6g00000H7SaVAAV",
+    "CPF_CNPJ": "64697428900",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQuzAAE"
+  },
+  {
+    "_CustomObjectKey": "1636697",
+    "ID": "a0i6g00000H7UewAAF",
+    "CPF_CNPJ": "32643411668",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cde7pAAA"
+  },
+  {
+    "_CustomObjectKey": "1636698",
+    "ID": "a0i6g00000H7UehAAF",
+    "CPF_CNPJ": "90939328968",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cde43AAA"
+  },
+  {
+    "_CustomObjectKey": "1636699",
+    "ID": "a0i6g00000H7UfuAAF",
+    "CPF_CNPJ": "86580221968",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeAeAAI"
+  },
+  {
+    "_CustomObjectKey": "1636700",
+    "ID": "a0i6g00000H7Ug9AAF",
+    "CPF_CNPJ": "85642649191",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeBcAAI"
+  },
+  {
+    "_CustomObjectKey": "1636701",
+    "ID": "a0i6g00000H7UgJAAV",
+    "CPF_CNPJ": "01553625000143",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeAzAAI"
+  },
+  {
+    "_CustomObjectKey": "1636702",
+    "ID": "a0i6g00000H7Uh2AAF",
+    "CPF_CNPJ": "29281113015",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeFZAAY"
+  },
+  {
+    "_CustomObjectKey": "1636703",
+    "ID": "a0i6g00000H7UhvAAF",
+    "CPF_CNPJ": "77733738415",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeHuAAI"
+  },
+  {
+    "_CustomObjectKey": "1636704",
+    "ID": "a0i6g00000H7O8TAAV",
+    "CPF_CNPJ": "21832232867",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bH3dFAAS"
+  },
+  {
+    "_CustomObjectKey": "1636705",
+    "ID": "a0i6g00000H7UkzAAF",
+    "CPF_CNPJ": "40000478000136",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeYiAAI"
+  },
+  {
+    "_CustomObjectKey": "1636706",
+    "ID": "a0i6g00000H7Ul9AAF",
+    "CPF_CNPJ": "15614157824",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeZMAAY"
+  },
+  {
+    "_CustomObjectKey": "1636707",
+    "ID": "a0i6g00000H7UlTAAV",
+    "CPF_CNPJ": "17088185881",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdea5AAA"
+  },
+  {
+    "_CustomObjectKey": "1636708",
+    "ID": "a0i6g00000H7UldAAF",
+    "CPF_CNPJ": "03733394372",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeaeAAA"
+  },
+  {
+    "_CustomObjectKey": "1636709",
+    "ID": "a0i6g00000H7UmCAAV",
+    "CPF_CNPJ": "61997340500",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeZ3AAI"
+  },
+  {
+    "_CustomObjectKey": "1636710",
+    "ID": "a0i6g00000H7TELAA3",
+    "CPF_CNPJ": "32269502825",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdTLyAAM"
+  },
+  {
+    "_CustomObjectKey": "1636711",
+    "ID": "a0i6g00000H7TFTAA3",
+    "CPF_CNPJ": "00343221160",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdTW0AAM"
+  },
+  {
+    "_CustomObjectKey": "1636712",
+    "ID": "a0i6g00000H6kgQAAR",
+    "CPF_CNPJ": "27017049870",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bEYJUAA4"
+  },
+  {
+    "_CustomObjectKey": "1636713",
+    "ID": "a0i6g00000H76UqAAJ",
+    "CPF_CNPJ": "34270005831",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bFoAfAAK"
+  },
+  {
+    "_CustomObjectKey": "1636714",
+    "ID": "a0i6g00000H7U4cAAF",
+    "CPF_CNPJ": "06474071672",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbwyAAA"
+  },
+  {
+    "_CustomObjectKey": "1636715",
+    "ID": "a0i6g00000H7U4ZAAV",
+    "CPF_CNPJ": "04329408988",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbwvAAA"
+  },
+  {
+    "_CustomObjectKey": "1636716",
+    "ID": "a0i6g00000H7U5HAAV",
+    "CPF_CNPJ": "11347749829",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbxfAAA"
+  },
+  {
+    "_CustomObjectKey": "1636717",
+    "ID": "a0i6g00000H7U5aAAF",
+    "CPF_CNPJ": "12068692830",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbxyAAA"
+  },
+  {
+    "_CustomObjectKey": "1636718",
+    "ID": "a0i6g00000H7U5dAAF",
+    "CPF_CNPJ": "64927989100",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdby1AAA"
+  },
+  {
+    "_CustomObjectKey": "1636719",
+    "ID": "a0i6g00000H7U5eAAF",
+    "CPF_CNPJ": "55522513187",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdby2AAA"
+  },
+  {
+    "_CustomObjectKey": "1636720",
+    "ID": "a0i6g00000H7U5gAAF",
+    "CPF_CNPJ": "13641989833",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdby4AAA"
+  },
+  {
+    "_CustomObjectKey": "1636721",
+    "ID": "a0i6g00000H7U5hAAF",
+    "CPF_CNPJ": "01155654854",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdby5AAA"
+  },
+  {
+    "_CustomObjectKey": "1636722",
+    "ID": "a0i6g00000H7ToWAAV",
+    "CPF_CNPJ": "78027640687",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbeOAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636723",
+    "ID": "a0i6g00000H7UICAA3",
+    "CPF_CNPJ": "00220535221",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdcHgAAI"
+  },
+  {
+    "_CustomObjectKey": "1636724",
+    "ID": "a0i6g00000H7UK8AAN",
+    "CPF_CNPJ": "01106670183",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdcQmAAI"
+  },
+  {
+    "_CustomObjectKey": "1636725",
+    "ID": "a0i6g00000H7UKhAAN",
+    "CPF_CNPJ": "05159120858",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdcT5AAI"
+  },
+  {
+    "_CustomObjectKey": "1636726",
+    "ID": "a0i6g00000H7UL6AAN",
+    "CPF_CNPJ": "11741034850",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdcTyAAI"
+  },
+  {
+    "_CustomObjectKey": "1636727",
+    "ID": "a0i6g00000H7ULzAAN",
+    "CPF_CNPJ": "02498031863",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdcXvAAI"
+  },
+  {
+    "_CustomObjectKey": "1636728",
+    "ID": "a0i6g00000H7U2CAAV",
+    "CPF_CNPJ": "33238588753",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbuSAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636729",
+    "ID": "a0i6g00000H7UCXAA3",
+    "CPF_CNPJ": "75290740406",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc53AAA"
+  },
+  {
+    "_CustomObjectKey": "1636730",
+    "ID": "a0i6g00000H7UCvAAN",
+    "CPF_CNPJ": "04442156204",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc5NAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636731",
+    "ID": "a0i6g00000H7UCwAAN",
+    "CPF_CNPJ": "18079683832",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc5OAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636732",
+    "ID": "a0i6g00000H7UCxAAN",
+    "CPF_CNPJ": "47575620630",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc5PAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636733",
+    "ID": "a0i6g00000H7UHEAA3",
+    "CPF_CNPJ": "47462254000195",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdcEDAAY"
+  },
+  {
+    "_CustomObjectKey": "1636734",
+    "ID": "a0i6g00000H7UHJAA3",
+    "CPF_CNPJ": "41407717987",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdcEIAAY"
+  },
+  {
+    "_CustomObjectKey": "1636735",
+    "ID": "a0i6g00000H7LFzAAN",
+    "CPF_CNPJ": "04834929655",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bGkpjAAC"
+  },
+  {
+    "_CustomObjectKey": "1636736",
+    "ID": "a0i6g00000H7I2rAAF",
+    "CPF_CNPJ": "05917697000",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001shzRbAAI"
+  },
+  {
+    "_CustomObjectKey": "1636737",
+    "ID": "a0i6g00000H7I3GAAV",
+    "CPF_CNPJ": "09045649403",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bGVpMAAW"
+  },
+  {
+    "_CustomObjectKey": "1636738",
+    "ID": "a0i6g00000H7REXAA3",
+    "CPF_CNPJ": "29095549100",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002bHMX3AAO"
+  },
+  {
+    "_CustomObjectKey": "1636739",
+    "ID": "a0i6g00000H7SXhAAN",
+    "CPF_CNPJ": "01470871394",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQsAAAU"
+  },
+  {
+    "_CustomObjectKey": "1636740",
+    "ID": "a0i6g00000H7SXiAAN",
+    "CPF_CNPJ": "86044435172",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQsBAAU"
+  },
+  {
+    "_CustomObjectKey": "1636741",
+    "ID": "a0i6g00000H7SkcAAF",
+    "CPF_CNPJ": "01125907215",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdR5FAAU"
+  },
+  {
+    "_CustomObjectKey": "1636742",
+    "ID": "a0i6g00000H7SkdAAF",
+    "CPF_CNPJ": "14388529168",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdR5GAAU"
+  },
+  {
+    "_CustomObjectKey": "1636743",
+    "ID": "a0i6g00000H7SkeAAF",
+    "CPF_CNPJ": "41031032568",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdR5HAAU"
+  },
+  {
+    "_CustomObjectKey": "1636744",
+    "ID": "a0i6g00000H7SkfAAF",
+    "CPF_CNPJ": "09348194836",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdR5IAAU"
+  },
+  {
+    "_CustomObjectKey": "1636745",
+    "ID": "a0i6g00000H7SkgAAF",
+    "CPF_CNPJ": "41306430020",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdR5JAAU"
+  },
+  {
+    "_CustomObjectKey": "1636746",
+    "ID": "a0i6g00000H7SkhAAF",
+    "CPF_CNPJ": "40748006672",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdR5KAAU"
+  },
+  {
+    "_CustomObjectKey": "1636747",
+    "ID": "a0i6g00000H7SkiAAF",
+    "CPF_CNPJ": "51214148620",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdR5LAAU"
+  },
+  {
+    "_CustomObjectKey": "1636748",
+    "ID": "a0i6g00000H7SkbAAF",
+    "CPF_CNPJ": "68576935600",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001epC2gAAE"
+  },
+  {
+    "_CustomObjectKey": "1636749",
+    "ID": "a0i6g00000H7EwWAAV",
+    "CPF_CNPJ": "01797770098",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fFrLWAA0"
+  },
+  {
+    "_CustomObjectKey": "1636750",
+    "ID": "a0i6g00000EkHPFAA3",
+    "CPF_CNPJ": "10905740530",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002aRkuRAAS"
+  },
+  {
+    "_CustomObjectKey": "1636751",
+    "ID": "a0i6g00000HwBWuAAN",
+    "CPF_CNPJ": "53641337887",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002amX5yAAE"
+  },
+  {
+    "_CustomObjectKey": "1636752",
+    "ID": "a0i6g00000H7SeBAAV",
+    "CPF_CNPJ": "84784342168",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQylAAE"
+  },
+  {
+    "_CustomObjectKey": "1636753",
+    "ID": "a0i6g00000H7SXjAAN",
+    "CPF_CNPJ": "06254079623",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQsCAAU"
+  },
+  {
+    "_CustomObjectKey": "1636754",
+    "ID": "a0i6g00000H7SXkAAN",
+    "CPF_CNPJ": "97196363000",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQsDAAU"
+  },
+  {
+    "_CustomObjectKey": "1636755",
+    "ID": "a0i6g00000H7SXlAAN",
+    "CPF_CNPJ": "04878968664",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQsEAAU"
+  },
+  {
+    "_CustomObjectKey": "1636756",
+    "ID": "a0i6g00000H7SXmAAN",
+    "CPF_CNPJ": "39576035287",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQsFAAU"
+  },
+  {
+    "_CustomObjectKey": "1636757",
+    "ID": "a0i6g00000H7SXnAAN",
+    "CPF_CNPJ": "62372475215",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQsGAAU"
+  },
+  {
+    "_CustomObjectKey": "1636758",
+    "ID": "a0i6g00000H7SXoAAN",
+    "CPF_CNPJ": "38348632204",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQsHAAU"
+  },
+  {
+    "_CustomObjectKey": "1636759",
+    "ID": "a0i6g00000H7SXqAAN",
+    "CPF_CNPJ": "33417696844",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001ekH9zAAE"
+  },
+  {
+    "_CustomObjectKey": "1636760",
+    "ID": "a0i6g00000H7SXsAAN",
+    "CPF_CNPJ": "02455313433",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQsKAAU"
+  },
+  {
+    "_CustomObjectKey": "1636761",
+    "ID": "a0i6g00000H7SXYAA3",
+    "CPF_CNPJ": "85492418815",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQs1AAE"
+  },
+  {
+    "_CustomObjectKey": "1636762",
+    "ID": "a0i6g00000H7SXuAAN",
+    "CPF_CNPJ": "06131072418",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001fFVQOAA4"
+  },
+  {
+    "_CustomObjectKey": "1636763",
+    "ID": "a0i6g00000H7SkYAAV",
+    "CPF_CNPJ": "70738165549",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdR5CAAU"
+  },
+  {
+    "_CustomObjectKey": "1636764",
+    "ID": "a0i6g00000H7SmoAAF",
+    "CPF_CNPJ": "19804520915",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdR7NAAU"
+  },
+  {
+    "_CustomObjectKey": "1636765",
+    "ID": "a0i6g00000H7SmrAAF",
+    "CPF_CNPJ": "22088792600",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdR7QAAU"
+  },
+  {
+    "_CustomObjectKey": "1636766",
+    "ID": "a0i6g00000H7SpGAAV",
+    "CPF_CNPJ": "24796964991",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdRG2AAM"
+  },
+  {
+    "_CustomObjectKey": "1636767",
+    "ID": "a0i6g00000H7TFxAAN",
+    "CPF_CNPJ": "40549755691",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdTZsAAM"
+  },
+  {
+    "_CustomObjectKey": "1636768",
+    "ID": "a0i6g00000H7TGqAAN",
+    "CPF_CNPJ": "66192056668",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdTfqAAE"
+  },
+  {
+    "_CustomObjectKey": "1636769",
+    "ID": "a0i6g000008Bnm8AAC",
+    "CPF_CNPJ": "58984496804",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001foBzpAAE"
+  },
+  {
+    "_CustomObjectKey": "1636770",
+    "ID": "a0i6g0000089QFHAA2",
+    "CPF_CNPJ": "31172732000192",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfFMAAY"
+  },
+  {
+    "_CustomObjectKey": "1636771",
+    "ID": "a0i6g0000089QFrAAM",
+    "CPF_CNPJ": "15329012000131",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001geOLkAAM"
+  },
+  {
+    "_CustomObjectKey": "1636772",
+    "ID": "a0i6g00000H7TdzAAF",
+    "CPF_CNPJ": "28941504000125",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdbBjAAI"
+  },
+  {
+    "_CustomObjectKey": "1636773",
+    "ID": "a0i6g00000H7UOoAAN",
+    "CPF_CNPJ": "28499332000181",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdcltAAA"
+  },
+  {
+    "_CustomObjectKey": "1636774",
+    "ID": "a0i6g00000H7UP3AAN",
+    "CPF_CNPJ": "96676795604",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdcmhAAA"
+  },
+  {
+    "_CustomObjectKey": "1636775",
+    "ID": "a0i6g00000H7UPcAAN",
+    "CPF_CNPJ": "03996170009",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdcrgAAA"
+  },
+  {
+    "_CustomObjectKey": "1636776",
+    "ID": "a0i6g00000H7UPwAAN",
+    "CPF_CNPJ": "71384367691",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdcrcAAA"
+  },
+  {
+    "_CustomObjectKey": "1636777",
+    "ID": "a0i6g00000H7UROAA3",
+    "CPF_CNPJ": "11479492809",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001pUkx1AAC"
+  },
+  {
+    "_CustomObjectKey": "1636778",
+    "ID": "a0i6g00000H7U1VAAV",
+    "CPF_CNPJ": "06230567806",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbtQAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636779",
+    "ID": "a0i6g00000H7U1aAAF",
+    "CPF_CNPJ": "08776903168",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbtaAAA"
+  },
+  {
+    "_CustomObjectKey": "1636780",
+    "ID": "a0i6g00000H7U1bAAF",
+    "CPF_CNPJ": "35832355504",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbtbAAA"
+  },
+  {
+    "_CustomObjectKey": "1636781",
+    "ID": "a0i6g00000H7U3TAAV",
+    "CPF_CNPJ": "37400673734",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbvfAAA"
+  },
+  {
+    "_CustomObjectKey": "1636782",
+    "ID": "a0i6g00000H7UEQAA3",
+    "CPF_CNPJ": "48457957015",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdc6oAAA"
+  },
+  {
+    "_CustomObjectKey": "1636783",
+    "ID": "a0i6g00000H7UEZAA3",
+    "CPF_CNPJ": "97607800387",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc6wAAA"
+  },
+  {
+    "_CustomObjectKey": "1636784",
+    "ID": "a0i6g00000H7TQ7AAN",
+    "CPF_CNPJ": "15261997690",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdXJkAAM"
+  },
+  {
+    "_CustomObjectKey": "1636785",
+    "ID": "a0i6g00000H7UE9AAN",
+    "CPF_CNPJ": "85193097120",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc6dAAA"
+  },
+  {
+    "_CustomObjectKey": "1636786",
+    "ID": "a0i6g00000H7UEjAAN",
+    "CPF_CNPJ": "06183294802",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc75AAA"
+  },
+  {
+    "_CustomObjectKey": "1636787",
+    "ID": "a0i6g00000H7UEkAAN",
+    "CPF_CNPJ": "00810685140",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc76AAA"
+  },
+  {
+    "_CustomObjectKey": "1636788",
+    "ID": "a0i6g00000H7UEmAAN",
+    "CPF_CNPJ": "61092010491",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc78AAA"
+  },
+  {
+    "_CustomObjectKey": "1636789",
+    "ID": "a0i6g00000H7UEeAAN",
+    "CPF_CNPJ": "71134930925",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc70AAA"
+  },
+  {
+    "_CustomObjectKey": "1636790",
+    "ID": "a0i6g00000H7UEfAAN",
+    "CPF_CNPJ": "29027691720",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc71AAA"
+  },
+  {
+    "_CustomObjectKey": "1636791",
+    "ID": "a0i6g00000H7UEhAAN",
+    "CPF_CNPJ": "88991504515",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc73AAA"
+  },
+  {
+    "_CustomObjectKey": "1636792",
+    "ID": "a0i6g00000H7UEiAAN",
+    "CPF_CNPJ": "14411199653",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc74AAA"
+  },
+  {
+    "_CustomObjectKey": "1636793",
+    "ID": "a0i6g00000H7UEbAAN",
+    "CPF_CNPJ": "86652966972",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002OWhSKAA1"
+  },
+  {
+    "_CustomObjectKey": "1636794",
+    "ID": "a0i6g00000H7UEcAAN",
+    "CPF_CNPJ": "78203740987",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc6yAAA"
+  },
+  {
+    "_CustomObjectKey": "1636795",
+    "ID": "a0i6g00000H7TprAAF",
+    "CPF_CNPJ": "44781407153",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbfkAAA"
+  },
+  {
+    "_CustomObjectKey": "1636796",
+    "ID": "a0i6g00000H76y7AAB",
+    "CPF_CNPJ": "11019001488",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bFpZwAAK"
+  },
+  {
+    "_CustomObjectKey": "1636797",
+    "ID": "a0i6g0000089QFbAAM",
+    "CPF_CNPJ": "32336215000174",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfEvAAI"
+  },
+  {
+    "_CustomObjectKey": "1636798",
+    "ID": "a0i6g0000089QFlAAM",
+    "CPF_CNPJ": "24928885000151",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye6nAAA"
+  },
+  {
+    "_CustomObjectKey": "1636799",
+    "ID": "a0i6g0000089QFnAAM",
+    "CPF_CNPJ": "33135597000130",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye76AAA"
+  },
+  {
+    "_CustomObjectKey": "1636800",
+    "ID": "a0i6g0000089QFvAAM",
+    "CPF_CNPJ": "18581393000130",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye7wAAA"
+  },
+  {
+    "_CustomObjectKey": "1636801",
+    "ID": "a0i6g0000089QG3AAM",
+    "CPF_CNPJ": "62145354000181",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfVRAAY"
+  },
+  {
+    "_CustomObjectKey": "1636802",
+    "ID": "a0i6g0000089QGJAA2",
+    "CPF_CNPJ": "30638049000135",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfEpAAI"
+  },
+  {
+    "_CustomObjectKey": "1636803",
+    "ID": "a0i6g0000089QGPAA2",
+    "CPF_CNPJ": "77961142000140",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfNdAAI"
+  },
+  {
+    "_CustomObjectKey": "1636804",
+    "ID": "a0i6g0000089QaDAAU",
+    "CPF_CNPJ": "21423230000133",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeGGAAY"
+  },
+  {
+    "_CustomObjectKey": "1636805",
+    "ID": "a0i6g0000089QaEAAU",
+    "CPF_CNPJ": "41138347000182",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeG7AAI"
+  },
+  {
+    "_CustomObjectKey": "1636806",
+    "ID": "a0i6g0000089QaGAAU",
+    "CPF_CNPJ": "17798644000170",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeGFAAY"
+  },
+  {
+    "_CustomObjectKey": "1636807",
+    "ID": "a0i6g0000089QaHAAU",
+    "CPF_CNPJ": "64797194000180",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfF1AAI"
+  },
+  {
+    "_CustomObjectKey": "1636808",
+    "ID": "a0i6g0000089QaXAAU",
+    "CPF_CNPJ": "14097377000115",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeOsAAI"
+  },
+  {
+    "_CustomObjectKey": "1636809",
+    "ID": "a0i6g0000089QaeAAE",
+    "CPF_CNPJ": "28452783000163",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye9PAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636810",
+    "ID": "a0i6g0000089QagAAE",
+    "CPF_CNPJ": "13994051000128",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fxoA7AAI"
+  },
+  {
+    "_CustomObjectKey": "1636811",
+    "ID": "a0i6g0000089zONAAY",
+    "CPF_CNPJ": "40590137000168",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001e6h5MAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636812",
+    "ID": "a0i6g0000089zOOAAY",
+    "CPF_CNPJ": "40418621000104",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001e4r97AAA"
+  },
+  {
+    "_CustomObjectKey": "1636813",
+    "ID": "a0i6g0000089zOPAAY",
+    "CPF_CNPJ": "40039408000191",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001e4o5uAAA"
+  },
+  {
+    "_CustomObjectKey": "1636814",
+    "ID": "a0i6g0000089zOQAAY",
+    "CPF_CNPJ": "39841894000188",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fxro3AAA"
+  },
+  {
+    "_CustomObjectKey": "1636815",
+    "ID": "a0i6g000008BpEQAA0",
+    "CPF_CNPJ": "44378904004",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001fIFkZAAW"
+  },
+  {
+    "_CustomObjectKey": "1636816",
+    "ID": "a0i6g0000089QF9AAM",
+    "CPF_CNPJ": "32392380000143",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeHfAAI"
+  },
+  {
+    "_CustomObjectKey": "1636817",
+    "ID": "a0i6g0000089QFMAA2",
+    "CPF_CNPJ": "21449300000122",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001eYtqQAAS"
+  },
+  {
+    "_CustomObjectKey": "1636818",
+    "ID": "a0i6g0000089QZ5AAM",
+    "CPF_CNPJ": "37377721000125",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfE2AAI"
+  },
+  {
+    "_CustomObjectKey": "1636819",
+    "ID": "a0i6g0000089QZVAA2",
+    "CPF_CNPJ": "26018975000130",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fycIvAAI"
+  },
+  {
+    "_CustomObjectKey": "1636820",
+    "ID": "a0i6g0000089QZYAA2",
+    "CPF_CNPJ": "31454547000190",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfDdAAI"
+  },
+  {
+    "_CustomObjectKey": "1636821",
+    "ID": "a0i6g0000089QZZAA2",
+    "CPF_CNPJ": "41243828000158",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fycIhAAI"
+  },
+  {
+    "_CustomObjectKey": "1636822",
+    "ID": "a0i6g0000089QZbAAM",
+    "CPF_CNPJ": "11145238000121",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeIIAAY"
+  },
+  {
+    "_CustomObjectKey": "1636823",
+    "ID": "a0i6g0000089QZmAAM",
+    "CPF_CNPJ": "35654994000144",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeeiAAA"
+  },
+  {
+    "_CustomObjectKey": "1636824",
+    "ID": "a0i6g0000089QZwAAM",
+    "CPF_CNPJ": "40217867000118",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfDHAAY"
+  },
+  {
+    "_CustomObjectKey": "1636825",
+    "ID": "a0i6g000006INJAAA4",
+    "CPF_CNPJ": "05365396855",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001eYPmiAAG"
+  },
+  {
+    "_CustomObjectKey": "1636826",
+    "ID": "a0i6g00000BUgS1AAL",
+    "CPF_CNPJ": "04984617349",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002RskeZAAR"
+  },
+  {
+    "_CustomObjectKey": "1636827",
+    "ID": "a0i6g000009kkeKAAQ",
+    "CPF_CNPJ": "06597517636",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001zEhsxAAC"
+  },
+  {
+    "_CustomObjectKey": "1636828",
+    "ID": "a0i6g00000H7Nr3AAF",
+    "CPF_CNPJ": "25178321880",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bH14zAAC"
+  },
+  {
+    "_CustomObjectKey": "1636829",
+    "ID": "a0i6g00000H7ThNAAV",
+    "CPF_CNPJ": "12972625000102",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdbOVAAY"
+  },
+  {
+    "_CustomObjectKey": "1636830",
+    "ID": "a0i6g00000H7Ti1AAF",
+    "CPF_CNPJ": "54005160000152",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdbPnAAI"
+  },
+  {
+    "_CustomObjectKey": "1636831",
+    "ID": "a0i6g00000H7Tl6AAF",
+    "CPF_CNPJ": "42792746734",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbRQAAY"
+  },
+  {
+    "_CustomObjectKey": "1636832",
+    "ID": "a0i6g00000H7QyoAAF",
+    "CPF_CNPJ": "03230284542",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bHMAlAAO"
+  },
+  {
+    "_CustomObjectKey": "1636833",
+    "ID": "a0i6g000008ei7gAAA",
+    "CPF_CNPJ": "09010633802",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001opT6hAAE"
+  },
+  {
+    "_CustomObjectKey": "1636834",
+    "ID": "a0i6g00000BRjIwAAL",
+    "CPF_CNPJ": "03379056499",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002P4Po0AAF"
+  },
+  {
+    "_CustomObjectKey": "1636835",
+    "ID": "a0i6g00000H7UMsAAN",
+    "CPF_CNPJ": "05955229710",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdcbdAAA"
+  },
+  {
+    "_CustomObjectKey": "1636836",
+    "ID": "a0i6g00000H7UNRAA3",
+    "CPF_CNPJ": "01251590640",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdcfBAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636837",
+    "ID": "a0i6g00000H7UO5AAN",
+    "CPF_CNPJ": "07183340600",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdcjDAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636838",
+    "ID": "a0i6g00000H7UOeAAN",
+    "CPF_CNPJ": "82592373349",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001e6i1IAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636839",
+    "ID": "a0i6g00000H7UOjAAN",
+    "CPF_CNPJ": "12003792000137",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdclUAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636840",
+    "ID": "a0i6g00000H7UNvAAN",
+    "CPF_CNPJ": "37841747870",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdci5AAA"
+  },
+  {
+    "_CustomObjectKey": "1636841",
+    "ID": "a0i6g00000H7UOUAA3",
+    "CPF_CNPJ": "47154453000136",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdclFAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636842",
+    "ID": "a0i6g000009hBoKAAU",
+    "CPF_CNPJ": "92216358215",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001gfl0DAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636843",
+    "ID": "a0i6g000005enZ1AAI",
+    "CPF_CNPJ": "36820989920",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001ope8MAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636844",
+    "ID": "a0i6g00000AEk6iAAD",
+    "CPF_CNPJ": "91831601753",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002CzuZsAAJ"
+  },
+  {
+    "_CustomObjectKey": "1636845",
+    "ID": "a0i6g00000AFTrEAAX",
+    "CPF_CNPJ": "08666319925",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001f8nvyAAA"
+  },
+  {
+    "_CustomObjectKey": "1636846",
+    "ID": "a0i6g00000AZzjlAAD",
+    "CPF_CNPJ": "41676564934",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001wg6uhAAA"
+  },
+  {
+    "_CustomObjectKey": "1636847",
+    "ID": "a0i6g0000089QGLAA2",
+    "CPF_CNPJ": "40158953000105",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeQsAAI"
+  },
+  {
+    "_CustomObjectKey": "1636848",
+    "ID": "a0i6g0000089QGeAAM",
+    "CPF_CNPJ": "17493546000124",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfDTAAY"
+  },
+  {
+    "_CustomObjectKey": "1636849",
+    "ID": "a0i6g0000089QGfAAM",
+    "CPF_CNPJ": "37362477000127",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfErAAI"
+  },
+  {
+    "_CustomObjectKey": "1636850",
+    "ID": "a0i6g0000089QHBAA2",
+    "CPF_CNPJ": "33541248000119",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfEPAAY"
+  },
+  {
+    "_CustomObjectKey": "1636851",
+    "ID": "a0i6g0000089QHDAA2",
+    "CPF_CNPJ": "29675825000198",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyf7DAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636852",
+    "ID": "a0i6g0000089QHKAA2",
+    "CPF_CNPJ": "39985124000109",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfFFAAY"
+  },
+  {
+    "_CustomObjectKey": "1636853",
+    "ID": "a0i6g0000089QaZAAU",
+    "CPF_CNPJ": "15732991000174",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfUnAAI"
+  },
+  {
+    "_CustomObjectKey": "1636854",
+    "ID": "a0i6g00000AEpfMAAT",
+    "CPF_CNPJ": "00307467368",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001fIzD6AAK"
+  },
+  {
+    "_CustomObjectKey": "1636855",
+    "ID": "a0i6g000008BpLBAA0",
+    "CPF_CNPJ": "20216076072",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001gg5PZAAY"
+  },
+  {
+    "_CustomObjectKey": "1636856",
+    "ID": "a0i6g000006Hl0SAAS",
+    "CPF_CNPJ": "08300321853",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001eXZlZAAW"
+  },
+  {
+    "_CustomObjectKey": "1636857",
+    "ID": "a0i6g000008eGJeAAM",
+    "CPF_CNPJ": "21045887153",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001lVZUfAAO"
+  },
+  {
+    "_CustomObjectKey": "1636858",
+    "ID": "a0i6g00000AY5frAAD",
+    "CPF_CNPJ": "58772995653",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g000020L9peAAC"
+  },
+  {
+    "_CustomObjectKey": "1636859",
+    "ID": "a0i6g00000H7SVaAAN",
+    "CPF_CNPJ": "00145479889",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQq5AAE"
+  },
+  {
+    "_CustomObjectKey": "1636860",
+    "ID": "a0i6g00000H7SVbAAN",
+    "CPF_CNPJ": "05514610713",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQq6AAE"
+  },
+  {
+    "_CustomObjectKey": "1636861",
+    "ID": "a0i6g00000H7SVZAA3",
+    "CPF_CNPJ": "65641825204",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQq4AAE"
+  },
+  {
+    "_CustomObjectKey": "1636862",
+    "ID": "a0i6g00000H7STHAA3",
+    "CPF_CNPJ": "10418660387",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQnSAAU"
+  },
+  {
+    "_CustomObjectKey": "1636863",
+    "ID": "a0i6g00000H7STIAA3",
+    "CPF_CNPJ": "06818723900",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001eo6jpAAA"
+  },
+  {
+    "_CustomObjectKey": "1636864",
+    "ID": "a0i6g00000H7STLAA3",
+    "CPF_CNPJ": "52949656587",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQnVAAU"
+  },
+  {
+    "_CustomObjectKey": "1636865",
+    "ID": "a0i6g00000H7STNAA3",
+    "CPF_CNPJ": "01125917520",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQnXAAU"
+  },
+  {
+    "_CustomObjectKey": "1636866",
+    "ID": "a0i6g00000H7STPAA3",
+    "CPF_CNPJ": "84590955920",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQneAAE"
+  },
+  {
+    "_CustomObjectKey": "1636867",
+    "ID": "a0i6g00000H7UY0AAN",
+    "CPF_CNPJ": "09786401875",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdddRAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636868",
+    "ID": "a0i6g00000H7UYZAA3",
+    "CPF_CNPJ": "20997829000118",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cddduAAA"
+  },
+  {
+    "_CustomObjectKey": "1636869",
+    "ID": "a0i6g00000H7UYjAAN",
+    "CPF_CNPJ": "97282928215",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cddfzAAA"
+  },
+  {
+    "_CustomObjectKey": "1636870",
+    "ID": "a0i6g00000H7UYyAAN",
+    "CPF_CNPJ": "09752524885",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cddh2AAA"
+  },
+  {
+    "_CustomObjectKey": "1636871",
+    "ID": "a0i6g00000H7Ua1AAF",
+    "CPF_CNPJ": "08381662885",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cddmDAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636872",
+    "ID": "a0i6g00000H7UaBAAV",
+    "CPF_CNPJ": "19781588000196",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cddnGAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636873",
+    "ID": "a0i6g000009n7NVAAY",
+    "CPF_CNPJ": "01209806819",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g000020eUqpAAE"
+  },
+  {
+    "_CustomObjectKey": "1636874",
+    "ID": "a0i6g000006HEtiAAG",
+    "CPF_CNPJ": "02375365011",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001eiROFAA2"
+  },
+  {
+    "_CustomObjectKey": "1636875",
+    "ID": "a0i6g00000H7SstAAF",
+    "CPF_CNPJ": "17761259000158",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdRXdAAM"
+  },
+  {
+    "_CustomObjectKey": "1636876",
+    "ID": "a0i6g00000H7St3AAF",
+    "CPF_CNPJ": "22759700615",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdRYHAA2"
+  },
+  {
+    "_CustomObjectKey": "1636877",
+    "ID": "a0i6g00000H7SvOAAV",
+    "CPF_CNPJ": "05613016895",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdRn8AAE"
+  },
+  {
+    "_CustomObjectKey": "1636878",
+    "ID": "a0i6g00000ByfO8AAJ",
+    "CPF_CNPJ": "05857944996",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002WlGsiAAF"
+  },
+  {
+    "_CustomObjectKey": "1636879",
+    "ID": "a0i6g00000EheFeAAJ",
+    "CPF_CNPJ": "39659880855",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002Y0oAFAAZ"
+  },
+  {
+    "_CustomObjectKey": "1636880",
+    "ID": "a0i6g00000H7V1WAAV",
+    "CPF_CNPJ": "18452675836",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdjgcAAA"
+  },
+  {
+    "_CustomObjectKey": "1636881",
+    "ID": "a0i6g000008r9t7AAA",
+    "CPF_CNPJ": "06651708660",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001pIIalAAG"
+  },
+  {
+    "_CustomObjectKey": "1636882",
+    "ID": "a0i6g00000H7V4GAAV",
+    "CPF_CNPJ": "09855440587",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdk69AAA"
+  },
+  {
+    "_CustomObjectKey": "1636883",
+    "ID": "a0i6g00000H6x4AAAR",
+    "CPF_CNPJ": "06642225953",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bFMjUAAW"
+  },
+  {
+    "_CustomObjectKey": "1636884",
+    "ID": "a0i6g00000H7UpuAAF",
+    "CPF_CNPJ": "00212709100",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdesGAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636885",
+    "ID": "a0i6g00000H7UqiAAF",
+    "CPF_CNPJ": "26764223000119",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdewmAAA"
+  },
+  {
+    "_CustomObjectKey": "1636886",
+    "ID": "a0i6g00000BwA6DAAV",
+    "CPF_CNPJ": "03402304791",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002SoyYRAAZ"
+  },
+  {
+    "_CustomObjectKey": "1636887",
+    "ID": "a0i6g00000BwBMwAAN",
+    "CPF_CNPJ": "07674185575",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002TZJVcAAP"
+  },
+  {
+    "_CustomObjectKey": "1636888",
+    "ID": "a0i6g00000AVcODAA1",
+    "CPF_CNPJ": "35793597468",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001encMiAAI"
+  },
+  {
+    "_CustomObjectKey": "1636889",
+    "ID": "a0i6g00000HvyccAAB",
+    "CPF_CNPJ": "35293446487",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002amAaoAAE"
+  },
+  {
+    "_CustomObjectKey": "1636890",
+    "ID": "a0i6g000006KnFcAAK",
+    "CPF_CNPJ": "03851407890",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001e57DnAAI"
+  },
+  {
+    "_CustomObjectKey": "1636891",
+    "ID": "a0i6g00000BDyqhAAD",
+    "CPF_CNPJ": "10076158349",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001enPadAAE"
+  },
+  {
+    "_CustomObjectKey": "1636892",
+    "ID": "a0i6g0000089QH3AAM",
+    "CPF_CNPJ": "16813587000198",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfOAAAY"
+  },
+  {
+    "_CustomObjectKey": "1636893",
+    "ID": "a0i6g00000BwkohAAB",
+    "CPF_CNPJ": "00998539490",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002Tb5CJAAZ"
+  },
+  {
+    "_CustomObjectKey": "1636894",
+    "ID": "a0i6g00000BAhBeAAL",
+    "CPF_CNPJ": "39497828420",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001vFJwwAAG"
+  },
+  {
+    "_CustomObjectKey": "1636895",
+    "ID": "a0i6g00000H7Tl7AAF",
+    "CPF_CNPJ": "35733020172",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbRRAAY"
+  },
+  {
+    "_CustomObjectKey": "1636896",
+    "ID": "a0i6g000009jFP1AAM",
+    "CPF_CNPJ": "48708305749",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001zCw9QAAS"
+  },
+  {
+    "_CustomObjectKey": "1636897",
+    "ID": "a0i6g00000H7UEgAAN",
+    "CPF_CNPJ": "37974181320",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc72AAA"
+  },
+  {
+    "_CustomObjectKey": "1636898",
+    "ID": "a0i6g00000H7UEaAAN",
+    "CPF_CNPJ": "17197090415",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc6xAAA"
+  },
+  {
+    "_CustomObjectKey": "1636899",
+    "ID": "a0i6g00000H7O0fAAF",
+    "CPF_CNPJ": "01900127000120",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bH1s5AAC"
+  },
+  {
+    "_CustomObjectKey": "1636900",
+    "ID": "a0i6g00000H7U5iAAF",
+    "CPF_CNPJ": "03959908822",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdby6AAA"
+  },
+  {
+    "_CustomObjectKey": "1636901",
+    "ID": "a0i6g00000H7TRoAAN",
+    "CPF_CNPJ": "07735193351",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdZIKAA2"
+  },
+  {
+    "_CustomObjectKey": "1636902",
+    "ID": "a0i6g00000H7TRtAAN",
+    "CPF_CNPJ": "34256409840",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdZkEAAU"
+  },
+  {
+    "_CustomObjectKey": "1636903",
+    "ID": "a0i6g00000H7U7SAAV",
+    "CPF_CNPJ": "32936457807",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001enQpqAAE"
+  },
+  {
+    "_CustomObjectKey": "1636904",
+    "ID": "a0i6g0000089zOIAAY",
+    "CPF_CNPJ": "41265188000187",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001e5d7UAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636905",
+    "ID": "a0i6g0000089QcIAAU",
+    "CPF_CNPJ": "37033519000186",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfEAAAY"
+  },
+  {
+    "_CustomObjectKey": "1636906",
+    "ID": "a0i6g000005g6ksAAA",
+    "CPF_CNPJ": "66069750772",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002CzoEaAAJ"
+  },
+  {
+    "_CustomObjectKey": "1636907",
+    "ID": "a0i6g0000089QQZAA2",
+    "CPF_CNPJ": "39878056000189",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyee2AAA"
+  },
+  {
+    "_CustomObjectKey": "1636908",
+    "ID": "a0i6g000006cXxhAAE",
+    "CPF_CNPJ": "04651010628",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001exqLAAAY"
+  },
+  {
+    "_CustomObjectKey": "1636909",
+    "ID": "a0i6g00000H7UAQAA3",
+    "CPF_CNPJ": "02784475204",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc2rAAA"
+  },
+  {
+    "_CustomObjectKey": "1636910",
+    "ID": "a0i6g00000H7TwCAAV",
+    "CPF_CNPJ": "30172772249",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbniAAA"
+  },
+  {
+    "_CustomObjectKey": "1636911",
+    "ID": "a0i6g0000089QI9AAM",
+    "CPF_CNPJ": "26378539000172",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfUMAAY"
+  },
+  {
+    "_CustomObjectKey": "1636912",
+    "ID": "a0i6g0000089Qd2AAE",
+    "CPF_CNPJ": "40978244000168",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001eYMamAAG"
+  },
+  {
+    "_CustomObjectKey": "1636913",
+    "ID": "a0i6g00000H7708AAB",
+    "CPF_CNPJ": "22858423091",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bFpkOAAS"
+  },
+  {
+    "_CustomObjectKey": "1636914",
+    "ID": "a0i6g00000H7U5lAAF",
+    "CPF_CNPJ": "02489548492",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdby8AAA"
+  },
+  {
+    "_CustomObjectKey": "1636915",
+    "ID": "a0i6g00000H7T2PAAV",
+    "CPF_CNPJ": "61971758515",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdSOTAA2"
+  },
+  {
+    "_CustomObjectKey": "1636916",
+    "ID": "a0i6g00000H7UWnAAN",
+    "CPF_CNPJ": "81267428287",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cddRBAAY"
+  },
+  {
+    "_CustomObjectKey": "1636917",
+    "ID": "a0i6g00000H7UitAAF",
+    "CPF_CNPJ": "05893823818",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeMRAAY"
+  },
+  {
+    "_CustomObjectKey": "1636918",
+    "ID": "a0i6g00000H7UkfAAF",
+    "CPF_CNPJ": "05580309120",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeXfAAI"
+  },
+  {
+    "_CustomObjectKey": "1636919",
+    "ID": "a0i6g00000H6x32AAB",
+    "CPF_CNPJ": "15747077872",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bFMZoAAO"
+  },
+  {
+    "_CustomObjectKey": "1636920",
+    "ID": "a0i6g0000089QbrAAE",
+    "CPF_CNPJ": "27589353000125",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeFOAAY"
+  },
+  {
+    "_CustomObjectKey": "1636921",
+    "ID": "a0i6g0000089Qc1AAE",
+    "CPF_CNPJ": "32633511000137",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfEDAAY"
+  },
+  {
+    "_CustomObjectKey": "1636922",
+    "ID": "a0i6g00000H7VDDAA3",
+    "CPF_CNPJ": "17828759053",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fDP5MAAW"
+  },
+  {
+    "_CustomObjectKey": "1636923",
+    "ID": "a0i6g00000H7TscAAF",
+    "CPF_CNPJ": "50476130972",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbjVAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636924",
+    "ID": "a0i6g00000BRXioAAH",
+    "CPF_CNPJ": "08108828848",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001fDfZIAA0"
+  },
+  {
+    "_CustomObjectKey": "1636925",
+    "ID": "a0i6g0000089Qa4AAE",
+    "CPF_CNPJ": "48629935000168",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfO7AAI"
+  },
+  {
+    "_CustomObjectKey": "1636926",
+    "ID": "a0i6g0000089QFUAA2",
+    "CPF_CNPJ": "26880342000137",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyg9lAAA"
+  },
+  {
+    "_CustomObjectKey": "1636927",
+    "ID": "a0i6g00000H7UElAAN",
+    "CPF_CNPJ": "00750916400",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc77AAA"
+  },
+  {
+    "_CustomObjectKey": "1636928",
+    "ID": "a0i6g00000H7SXpAAN",
+    "CPF_CNPJ": "78871247191",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQsIAAU"
+  },
+  {
+    "_CustomObjectKey": "1636929",
+    "ID": "a0i6g00000H7SXtAAN",
+    "CPF_CNPJ": "10873822897",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001ep5rmAAA"
+  },
+  {
+    "_CustomObjectKey": "1636930",
+    "ID": "a0i6g0000089Qc0AAE",
+    "CPF_CNPJ": "31595007000127",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fye6xAAA"
+  },
+  {
+    "_CustomObjectKey": "1636931",
+    "ID": "a0i6g0000089zOLAAY",
+    "CPF_CNPJ": "41008054000180",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001e4rGKAAY"
+  },
+  {
+    "_CustomObjectKey": "1636932",
+    "ID": "a0i6g00000H7UB8AAN",
+    "CPF_CNPJ": "23370076691",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc3ZAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636933",
+    "ID": "a0i6g00000H7Tq1AAF",
+    "CPF_CNPJ": "92627587749",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001f3qehAAA"
+  },
+  {
+    "_CustomObjectKey": "1636934",
+    "ID": "a0i6g000006QftOAAS",
+    "CPF_CNPJ": "02384638939",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001e4mZIAAY"
+  },
+  {
+    "_CustomObjectKey": "1636935",
+    "ID": "a0i6g000008rFEAAA2",
+    "CPF_CNPJ": "49284722000104",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001pINRQAA4"
+  },
+  {
+    "_CustomObjectKey": "1636936",
+    "ID": "a0i6g00000H7TmyAAF",
+    "CPF_CNPJ": "23061200215",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbctAAA"
+  },
+  {
+    "_CustomObjectKey": "1636937",
+    "ID": "a0i6g00000H7Tc8AAF",
+    "CPF_CNPJ": "16522971704",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdb0zAAA"
+  },
+  {
+    "_CustomObjectKey": "1636938",
+    "ID": "a0i6g00000BRBgaAAH",
+    "CPF_CNPJ": "15649580359",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002OXEoNAAX"
+  },
+  {
+    "_CustomObjectKey": "1636939",
+    "ID": "a0i6g00000H7SREAA3",
+    "CPF_CNPJ": "04496056984",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQlRAAU"
+  },
+  {
+    "_CustomObjectKey": "1636940",
+    "ID": "a0i6g00000H7Un5AAF",
+    "CPF_CNPJ": "31925430197",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeg8AAA"
+  },
+  {
+    "_CustomObjectKey": "1636941",
+    "ID": "a0i6g0000089QbFAAU",
+    "CPF_CNPJ": "10321515000147",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfUeAAI"
+  },
+  {
+    "_CustomObjectKey": "1636942",
+    "ID": "a0i6g00000H7STGAA3",
+    "CPF_CNPJ": "37635689991",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQnRAAU"
+  },
+  {
+    "_CustomObjectKey": "1636943",
+    "ID": "a0i6g00000H7STKAA3",
+    "CPF_CNPJ": "02019203367",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQnUAAU"
+  },
+  {
+    "_CustomObjectKey": "1636944",
+    "ID": "a0i6g0000089QHbAAM",
+    "CPF_CNPJ": "15396664000199",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyedcAAA"
+  },
+  {
+    "_CustomObjectKey": "1636945",
+    "ID": "a0i6g0000089QFYAA2",
+    "CPF_CNPJ": "20888777000141",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyePLAAY"
+  },
+  {
+    "_CustomObjectKey": "1636946",
+    "ID": "a0i6g00000H7SXrAAN",
+    "CPF_CNPJ": "04144894975",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdQsJAAU"
+  },
+  {
+    "_CustomObjectKey": "1636947",
+    "ID": "a0i6g00000H7TqRAAV",
+    "CPF_CNPJ": "58119159853",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdbgZAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636948",
+    "ID": "a0i6g00000H7UCuAAN",
+    "CPF_CNPJ": "73373273900",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdc5MAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636949",
+    "ID": "a0i6g00000H7T3wAAF",
+    "CPF_CNPJ": "51624788068",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdSZUAA2"
+  },
+  {
+    "_CustomObjectKey": "1636950",
+    "ID": "a0i6g00000H7U7QAAV",
+    "CPF_CNPJ": "40323692591",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbzsAAA"
+  },
+  {
+    "_CustomObjectKey": "1636951",
+    "ID": "a0i6g00000H7U7TAAV",
+    "CPF_CNPJ": "77292367453",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002cdbzuAAA"
+  },
+  {
+    "_CustomObjectKey": "1636952",
+    "ID": "a0i6g000006Ec9lAAC",
+    "CPF_CNPJ": "13917673819",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001e62gLAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636953",
+    "ID": "a0i6g00000A6fK6AAJ",
+    "CPF_CNPJ": "25827464600",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g000022UN77AAG"
+  },
+  {
+    "_CustomObjectKey": "1636954",
+    "ID": "a0i6g00000H7TMZAA3",
+    "CPF_CNPJ": "35568949808",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001pTfDtAAK"
+  },
+  {
+    "_CustomObjectKey": "1636955",
+    "ID": "a0i6g0000089QcfAAE",
+    "CPF_CNPJ": "41255899000170",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyevOAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636956",
+    "ID": "a0i6g0000089QR3AAM",
+    "CPF_CNPJ": "41292430000101",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyfNkAAI"
+  },
+  {
+    "_CustomObjectKey": "1636957",
+    "ID": "a0i6g000009zjp8AAA",
+    "CPF_CNPJ": "20012568848",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001el7eNAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636958",
+    "ID": "a0i6g000009zMGrAAM",
+    "CPF_CNPJ": "31722164034",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g000024bGy1AAE"
+  },
+  {
+    "_CustomObjectKey": "1636959",
+    "ID": "a0i6g000009014IAAQ",
+    "CPF_CNPJ": "17857260304",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00001sjAa6AAE"
+  },
+  {
+    "_CustomObjectKey": "1636960",
+    "ID": "a0i6g0000089QG7AAM",
+    "CPF_CNPJ": "40950971000117",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00001fyeePAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636961",
+    "ID": "a0i6g00000H7PcgAAF",
+    "CPF_CNPJ": "20949857000160",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002bHK9sAAG"
+  },
+  {
+    "_CustomObjectKey": "1636962",
+    "ID": "a0i6g00000H6U4IAAV",
+    "CPF_CNPJ": "02790680779",
+    "CLASSIFICACAO": "Ex-cliente",
+    "ID_CLIENTE": "0016g00002bE3EAAA0"
+  },
+  {
+    "_CustomObjectKey": "1636963",
+    "ID": "a0i6g00000H7UwqAAF",
+    "CPF_CNPJ": "06586410851",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdh1nAAA"
+  },
+  {
+    "_CustomObjectKey": "1636964",
+    "ID": "a0i6g00000H7UbOAAV",
+    "CPF_CNPJ": "82484740972",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cddiVAAQ"
+  },
+  {
+    "_CustomObjectKey": "1636965",
+    "ID": "a0i6g00000H7Ur7AAF",
+    "CPF_CNPJ": "09578036000121",
+    "CLASSIFICACAO": "Cliente",
+    "ID_CLIENTE": "0016g00002cdeyiAAA"
+  }
+]

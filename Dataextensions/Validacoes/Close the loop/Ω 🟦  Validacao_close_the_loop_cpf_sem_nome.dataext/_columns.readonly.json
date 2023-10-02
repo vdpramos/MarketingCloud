@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "CPF_CNPJ_Subscritor",
+    "FieldType": "Text",
+    "ObjectID": "b9c6dd38-a1a9-4916-b034-8aab13086c6f",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

@@ -1,0 +1,13 @@
+Dataextension name: Tb_Boas_Vindas_Aniversario_Caracteristicas_Historico
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(30)        | true     | true     |                 |
+| PLANO_DO_TITULO      | Text(30)        | true     | true     |                 |
+| SERIE_DO_TITULO      | Text(50)        | true     | true     |                 |
+| NUMERO_DO_TITULO     | Text(30)        | true     | true     |                 |
+| ID_TITULO            | Text(30)        | true     | true     |                 |
+| ID_CONTATO           | Text(50)        | false    | false    |                 |
+| ID_CLIENTE_PARCEIRO  | Text(50)        | false    | false    |                 |
+| DATA_INICIO_VIGENCIA | Date            | false    | false    |                 |
+| Date                 | Date            | true     | true     |                 |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "184af934-6f82-4d1a-b96d-37c38280cbc1",
+  "name": "Qr01_Extracao_Base_Prospect_Offline_Enderecos_ComOTC_NeoBpo",
+  "key": "80308bb8-1f8a-4d4e-8cb2-e321581dc2ce",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  B.CPF,\n  '' AS CNPJ,\n  B.CEP,\n  '99999999999' AS INICIO_TRAILLER \nFROM\n  TB_BASE_PROSPECT_OTC291_FILTRADA_NEOBPO A \n  INNER JOIN\n    TB_BASE_PROSPECT_COMOTC_TRATADA_NEOBPO B \n    ON A.CPF = B.CPF",
+  "targetName": "Tb_Base_Prospect_Offline_Enderecos_ComOTC_NeoBpo",
+  "targetKey": "CCBB2366-BADD-43F8-9220-5A2335B6A55F",
+  "targetId": "219f9bdc-5870-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-16T08:07:22.08",
+  "modifiedDate": "2021-02-16T08:07:22.08",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29377,
+  "isFrozen": false
+}

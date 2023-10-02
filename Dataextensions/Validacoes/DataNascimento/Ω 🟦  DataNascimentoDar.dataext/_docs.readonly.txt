@@ -1,0 +1,8 @@
+Dataextension name: DataNascimentoDar
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(255)       | false    | false    |                 |
+| DATA_NASCIMENTO      | Date            | false    | false    |                 |
+| NOME                 | Text(255)       | false    | false    |                 |
+| SEXO                 | Text(255)       | false    | false    |                 |

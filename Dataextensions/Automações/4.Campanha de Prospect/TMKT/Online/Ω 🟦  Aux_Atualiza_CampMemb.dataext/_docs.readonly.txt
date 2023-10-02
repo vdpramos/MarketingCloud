@@ -1,0 +1,8 @@
+Dataextension name: Aux_Atualiza_CampMemb
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| HC_CPF_CNPJ__c       | Text(50)        | false    | false    |                 |
+| ContactId            | Text(18)        | false    | false    |                 |
+| CampaignId           | Text(18)        | false    | false    |                 |
+| HC_Cliente_x_Parceiro__c | Text(18)        | false    | false    |                 |

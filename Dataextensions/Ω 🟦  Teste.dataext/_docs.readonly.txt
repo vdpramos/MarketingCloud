@@ -1,0 +1,7 @@
+Dataextension name: Teste
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF _ CNPJ Subscritor | Text(255)       | false    | false    |                 |
+| Nome do Subscritor   | Text(255)       | false    | false    |                 |
+| CPF _ CNPJ Titular   | Text(255)       | false    | false    |                 |

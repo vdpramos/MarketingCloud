@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "E55C5F86-F4DF-4152-8F3C-869ED7B3FC38"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Online_Tratada_TMKT"
+  ]
+}

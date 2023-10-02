@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6fb1364a-b2a8-4c75-a796-b6ca17cbefd6",
+  "name": "Qr_Conta_Total_Obtidos_ultimaExec_Cliente_TMKT_ONLINE",
+  "key": "6434b000-e3cd-4748-ac21-73d83a5e5571",
+  "description": "Conta a quantidade de clientes obtidos na ultima execução da automação",
+  "queryText": "select\n  b.ID_CAMPANHA,\n  count(1) as QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290\nfrom Tb_Base_Cliente_TMKT_ONLINE a\ninner join CONTROLE_AUTOMACOES_CAMPANHAS b on b.ID_CAMPANHA = '7016g000000NnI2AAK'\ngroup by  b.ID_CAMPANHA",
+  "targetName": "CONTROLE_AUTOMACOES_CAMPANHAS",
+  "targetKey": "04B8390F-4FDE-47E3-9CB8-092965B5D94D",
+  "targetId": "3af1ba23-8d70-ec11-a311-48df370eabe5",
+  "targetDescription": "DE para controlar steps das campanhas",
+  "createdDate": "2023-01-19T11:22:31.437",
+  "modifiedDate": "2023-08-24T08:46:09.64",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 58189,
+  "isFrozen": false
+}

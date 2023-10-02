@@ -1,0 +1,6 @@
+SELECT * 
+FROM Tb_Base_Quarentena_AUX AUX
+WHERE NOT EXISTS
+(SELECT 1 
+FROM ExcluiQuarentena EQ 
+WHERE EQ.CPF_CNPJ = AUX.CPF_CNPJ)

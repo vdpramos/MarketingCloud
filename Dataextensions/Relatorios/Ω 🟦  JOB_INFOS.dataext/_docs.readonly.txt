@@ -1,0 +1,11 @@
+Dataextension name: JOB_INFOS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| JobID                | Number          | true     | true     |                 |
+| SchedTime            | Date            | false    | false    |                 |
+| DeliveredTime        | Date            | false    | false    |                 |
+| PickupTime           | Date            | false    | false    |                 |
+| EmailName            | Text(1000)      | false    | false    |                 |
+| EmailSubject         | Text(1000)      | false    | false    |                 |
+| ModifiedDate         | Date            | false    | false    |                 |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b99addf8-1edc-471e-bdf2-326382db12d4",
+  "name": "Prospect_Neo_Pub2_Verificar_Titulo_Ativo_Recente",
+  "key": "10bdfef3-703c-47e8-a2b7-ffb6002b5cfd",
+  "description": "Busca titulos ativos nos ultimos 90 dias",
+  "queryText": "SELECT\r\n    max(CASE when C.HC_CLIENTE_X_PARCEIRO__C is null then 0 WHEN DATEDIFF(DD,C.HC_CONTRATACAO__C, GETDATE()) <= 90 THEN 1 ELSE 0 END) AS Titulo_Ativo_Recente,\r\n    B.CPF\r\nFROM Tb_Base_Prospect_ComOTC_Online_Tratada_NeoBpo_Pub2 B\r\nLEFT JOIN HC_TITULO__C_SALESFORCE C ON B.ID_CLIENTE_PARCEIRO = C.HC_CLIENTE_X_PARCEIRO__C\r\ngroup by cpf",
+  "targetName": "Tb_Base_Prospect_ComOTC_Online_Tratada_NeoBpo_Pub2",
+  "targetKey": "F22D822F-1350-4894-A74C-5DE94B5FB36A",
+  "targetId": "81ba6eba-db40-ec11-a313-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2023-02-02T12:25:54.58",
+  "modifiedDate": "2023-02-02T12:25:54.58",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 40743,
+  "isFrozen": false
+}

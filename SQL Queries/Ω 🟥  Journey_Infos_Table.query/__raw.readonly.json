@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "12837fdb-23a5-45e4-b239-151502085c74",
+  "name": "Journey_Infos_Table",
+  "key": "be7612d7-8b20-4d9f-92b1-8046e358db16",
+  "description": "",
+  "queryText": "SELECT DISTINCT ja.VersionID AS VersionID, j.JourneyName AS CAMPANHA_JORNADA, st.JobID AS JobID,\nj.CreatedDate AS CreatedDate, j.LastPublishedDate AS LastPublishedDate, j.JourneyStatus AS JourneyStatus \nFROM _JourneyActivity ja\nJOIN _Journey j\nON ja.VersionID=j.VersionID \nJOIN ACCOUNT_SENT_INFOS st\nON ja.JourneyActivityObjectID=st.TriggererSendDefinitionObjectID",
+  "targetName": "JOURNEY_INFOS",
+  "targetKey": "5D9FB0B2-A338-4DD7-895B-F267AEF1F006",
+  "targetId": "63350eba-957f-ec11-a317-48df37342c99",
+  "targetDescription": "Informacoes das jornadas com vinculo com JobID dos envios",
+  "createdDate": "2022-01-27T11:23:35.873",
+  "modifiedDate": "2022-01-31T07:55:49.903",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

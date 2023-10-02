@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1d8a6fb1-eecd-4237-a157-64a011b15a4e",
+  "name": "Backup Status Titulos Darwin 20230623",
+  "key": "1D8A6FB1-EECD-4237-A157-64A011B15A4E",
+  "description": "",
+  "queryText": "select id, HC_SITUACAO__C, hc_titulo__c\nfrom hc_titulo__c_salesforce\nwhere hc_origem__c = 'Darwin'",
+  "targetName": "Backup_status_titulos_20230623",
+  "targetKey": "8E879A15-D392-429E-944A-33A6AA7A5488",
+  "targetId": "a320c115-1612-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-23T16:36:12.43",
+  "modifiedDate": "2023-06-23T16:45:27.993",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

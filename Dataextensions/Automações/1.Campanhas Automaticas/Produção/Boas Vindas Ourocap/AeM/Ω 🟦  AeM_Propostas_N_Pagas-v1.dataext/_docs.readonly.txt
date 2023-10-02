@@ -1,0 +1,35 @@
+Dataextension name: AeM_Propostas_N_Pagas-v1
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Idade                | Number          | false    | false    |                 |
+| Compra_Recente_Ourocap | Boolean         | false    | false    |                 |
+| Cliente_PEP          | Text(50)        | false    | false    |                 |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Id                   | Text(50)        | true     | true     |                 |
+| Nao_Importune        | Boolean         | false    | false    |                 |
+| Possui_Conta_Ativa   | Boolean         | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |
+| Dt_Inicio_Mailing    | Date            | false    | false    |                 |
+| Tipo_Pessoa          | Text(20)        | false    | false    |                 |
+| Sexo                 | Text(10)        | false    | false    |                 |
+| Possui_Telefone_Ativo | Boolean         | false    | false    |                 |
+| Data_Proxima_Execucao | Date            | false    | false    |                 |
+| Conselheiro          | Boolean         | false    | false    |                 |
+| Deseja_Contato_Telefonico | Boolean         | false    | false    |                 |
+| Idade_Valida         | Boolean         | false    | false    |                 |
+| Meses_Compra_Exclusao | Number          | false    | false    |                 |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| Dt_Fim_Mailing       | Date            | false    | false    |                 |
+| Meses_Quarentena_Exclusao | Number          | false    | false    |                 |
+| Quarentena           | Boolean         | false    | false    |                 |
+| Dt_Nascimento        | Date            | false    | false    |                 |
+| CPF_CNPJ             | Text(20)        | false    | false    |                 |
+| Parceiro             | Text(50)        | false    | false    |                 |
+| NAO_DESEJA_RECEBER_SMS | Boolean         | false    | false    |                 |
+| NAO_DESEJA_RECEBER_EMAIL | Boolean         | false    | false    |                 |
+| EMAIL                | EmailAddress    | false    | false    |                 |
+| EMAIL_VALIDO         | Boolean         | false    | false    |                 |
+| CELULAR              | Text(50)        | false    | false    |                 |
+| CELULAR_VALIDO       | Boolean         | false    | false    |                 |
+| ID_CAMPANHA          | Text(30)        | false    | false    |                 |

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "49EC8C12-BE0F-4336-AD83-2FB38859BCDD"
+  ],
+  "Name": [
+    "Tb_Validacao_Revenda_Ourocap_ComOTC_NeoBpo"
+  ]
+}

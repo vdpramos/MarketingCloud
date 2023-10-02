@@ -1,0 +1,7 @@
+Dataextension name: Pagamentos_AtualizaData_CodRetorno
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID                   | Text(50)        | true     | false    |                 |
+| HC_Codigo_de_Retorno_de_Erro__c | Text(50)        | false    | false    |                 |
+| HC_Data_do_pagamento__c | Text(255)       | false    | false    |                 |

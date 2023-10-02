@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b7bf2e62-60a3-47bc-8460-434b25850bb6",
+  "name": "Unsubscribe_backup_exclusao",
+  "key": "b7f53382-fc5e-4470-b811-1acb49ce5068",
+  "description": "",
+  "queryText": "SELECT\n    a.SubscriberKey,\n    b.AccountID,\n    b.OYBAccountID,\n    b.JobID,\n    b.ListID,\n    b.BatchID,\n    b.SubscriberID,\n    b.EventDate,\n    b.IsUnique,\n    b.Domain\nFROM Exclusao_contatos a\n    INNER JOIN _Unsubscribe b \n        ON a.SubscriberKey = b.SubscriberKey",
+  "targetName": "Unsubscribe_backup_exclusao",
+  "targetKey": "264742E9-0283-43D3-8950-9A65674E93FA",
+  "targetId": "bdadc62b-2e85-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-12-26T09:36:10.85",
+  "modifiedDate": "2023-04-26T10:45:27.807",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 57312,
+  "isFrozen": false
+}

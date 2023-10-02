@@ -1,0 +1,9 @@
+Dataextension name: PI_CONTENTATTRIBS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| content_id           | Text(256)       | true     | true     |                 |
+| AttribName           | Text(1000)      | true     | true     |                 |
+| AttribValue          | Text(1000)      | true     | false    |                 |
+| updated_at           | Date            | true     | false    |                 |
+| attributeValueIndex  | Number          | true     | true     |                 |

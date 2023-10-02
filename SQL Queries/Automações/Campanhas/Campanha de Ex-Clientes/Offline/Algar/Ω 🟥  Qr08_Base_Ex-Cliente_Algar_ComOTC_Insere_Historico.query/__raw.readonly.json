@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "435551b6-b415-4492-9b26-9ffcc4a6015e",
+  "name": "Qr08_Base_Ex-Cliente_Algar_ComOTC_Insere_Historico",
+  "key": "e7c71960-7145-4b5a-854d-7406f130031e",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n    CPF,\n    ID_CAMPANHA,\n    GETDATE() AS DATA_CAMPANHA,\n    'DISCADOR' AS CANAL\nFROM Tb_Base_Ex_Cliente_OTC291_Filtrada_Algar",
+  "targetName": "Tb_Campanhas_ExCliente_Historico",
+  "targetKey": "E9FD1328-56C0-426C-8316-7FBEB5465B34",
+  "targetId": "cfd40677-296b-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-07-01T16:16:30.977",
+  "modifiedDate": "2022-06-01T12:04:01.837",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 30784,
+  "isFrozen": false
+}

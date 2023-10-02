@@ -1,0 +1,5 @@
+Dataextension name: PedidoVenda
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CODIGO_PEDIDO        | Text(50)        | false    | false    |                 |

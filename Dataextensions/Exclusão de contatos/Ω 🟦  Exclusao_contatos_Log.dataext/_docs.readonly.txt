@@ -1,0 +1,8 @@
+Dataextension name: Exclusao_contatos_Log
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Data                 | Date            | true     | false    | GetDate()       |
+| Resultado            | Text            | true     | false    |                 |
+| RowCount             | Number          | false    | false    |                 |
+| OperationID          | Text(50)        | false    | false    |                 |

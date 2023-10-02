@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "329B24C2-E86E-420C-90F7-9E625B9A149F"
+  ],
+  "Name": [
+    "Aviso_De_Pagamento_OTC290"
+  ]
+}

@@ -1,0 +1,19 @@
+Dataextension name: SMSSubscriptionLog_backup_exclusao
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| LogDate              | Date            | false    | false    |                 |
+| SubscriberKey        | Text(100)       | true     | false    |                 |
+| MobileSubscriptionID | Number          | true     | false    |                 |
+| SubscriptionDefinitionID | Text(50)        | true     | false    |                 |
+| MobileNumber         | Phone           | true     | false    |                 |
+| OptOutStatusID       | Number          | false    | false    |                 |
+| OptOutMethodID       | Number          | false    | false    |                 |
+| OptOutDate           | Date            | false    | false    |                 |
+| OptInStatusID        | Number          | true     | false    |                 |
+| OptInMethodID        | Number          | false    | false    |                 |
+| OptInDate            | Date            | false    | false    |                 |
+| Source               | Number          | false    | false    |                 |
+| CreatedDate          | Date            | true     | false    |                 |
+| ModifiedDate         | Date            | true     | false    |                 |
+| Data_exclusao        | Date            | true     | false    | GetDate()       |

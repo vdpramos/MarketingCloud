@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "87AC67EF-78EA-4A13-9D61-4B004806D618"
+  ],
+  "Name": [
+    "Ex_Cliente_ComOTC_Algar"
+  ]
+}

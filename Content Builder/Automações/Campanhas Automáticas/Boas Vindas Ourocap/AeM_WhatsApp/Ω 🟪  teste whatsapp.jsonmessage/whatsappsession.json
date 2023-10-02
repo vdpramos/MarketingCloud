@@ -1,0 +1,17 @@
+{
+  "channel": "whatsappsession",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:message": "Olá, %%Nome%%! teste AeM",
+  "currentColumn": 0,
+  "display:message:display": "Olá, %%Nome%%! teste AeM",
+  "template": "whatsappsession",
+  "contents": [],
+  "type": {
+    "id": "text_0",
+    "label": "JSONMESSAGE_TEXT",
+    "value": "text"
+  },
+  "uncheckedPanels": []
+}

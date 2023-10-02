@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "67cc0d07-96dc-4b4f-b85a-57f21a9eea9f",
+  "name": "Qr02_Exemplo_Cruzamento_OTC290_com_OTC291",
+  "key": "da4e87d2-2489-4f83-8f6b-50a6f24e0e1f",
+  "description": "",
+  "queryText": "SELECT\r\n  A.CPF\r\nFROM TEST_BASE_OTC291_TRATADA A\r\nLEFT OUTER JOIN (\r\n  SELECT\r\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\r\n  FROM TEST_BASE_OTC290_ENVIADO ENV\r\n  LEFT JOIN TEST_BASE_OTC291_TRATADA RET ON ENV.CPF = RET.CPF\r\n  WHERE RET.CPF IS NULL\r\n) B ON 1 = 1\r\nWHERE B.CPFS_FALTANDO_NO_OTC = 0\r\n  \r\n  AND A.CODIGO_RNA = '000'\r\n  AND A.ALTA_RENDA = 0",
+  "targetName": "TEST_Base_OTC291_Filtrada",
+  "targetKey": "BF51839A-4363-4F7A-A3ED-C3B3FB990661",
+  "targetId": "42b3386b-5801-ec11-a30d-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-08-19T20:17:08.823",
+  "modifiedDate": "2021-08-19T20:17:08.823",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 38464,
+  "isFrozen": false
+}

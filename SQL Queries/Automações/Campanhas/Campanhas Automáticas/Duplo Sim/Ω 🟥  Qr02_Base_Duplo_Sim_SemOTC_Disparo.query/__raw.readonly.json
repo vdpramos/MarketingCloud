@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "173854c3-56f1-4b1f-bd00-389247fcd54a",
+  "name": "Qr02_Base_Duplo_Sim_SemOTC_Disparo",
+  "key": "3989670c-c016-438e-a54e-4df4f522fed1",
+  "description": "",
+  "queryText": "SELECT \n  BASE.CPF_CNPJ,\n  BASE.NOME,\n  BASE.IDADE,\n  BASE.DT_NASCIMENTO,\n  BASE.SEXO,\n  BASE.TIPO_PESSOA,\n  BASE.Id_Campanha,\n  BASE.Id,\n  BASE.Id_Cliente_Parceiro,\n  BASE.Id_Contato,\n  BASE.Id_Cliente,\n  BASE.HC_Contratacao__c,\n  base.Data_da_Venda,\n  BASE.DT_LIMITE,\n  BASE.DIAS_ANTECEDENCIA,\n  BASE.Dt_Ult_Execucao,\n  BASE.HC_FORMATO__C,\n  BASE.HC_FORNECEDOR__C,\n  BASE.NUMERO_CELULAR_ATIVO,\n  base.ID_PROPOSTA,\n  'BR' AS LOCALE,\n  BASE.Agendamento as HC_Data_da_compra__c,\n  BASE.Origem_Venda as HC_Origem_da_Venda__c,\n  BASE.DATA_DISPARO,\n  DATA_PROXIMA_EXECUCAO\nFROM TB_BASE_DUPLO_SIM_SEMOTC_FILTRADA BASE\nWHERE NUMERO_CELULAR_ATIVO IS NOT NULL",
+  "targetName": "Tb_Base_Duplo_Sim_SemOTC_Disparo",
+  "targetKey": "3B0F9B86-BC02-479C-9D24-B77F3DD6E59F",
+  "targetId": "8bd8cc19-f397-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-07T16:47:51.717",
+  "modifiedDate": "2022-11-10T10:02:50.2",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 32389,
+  "isFrozen": false
+}

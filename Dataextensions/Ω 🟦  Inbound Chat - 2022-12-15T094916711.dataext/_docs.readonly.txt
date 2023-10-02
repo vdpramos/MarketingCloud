@@ -1,0 +1,9 @@
+Dataextension name: Inbound Chat - 2022-12-15T094916711
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ContactKey           | Text(100)       | false    | false    |                 |
+| MobileNumber         | Phone           | true     | false    |                 |
+| ChannelType          | Text(100)       | false    | false    |                 |
+| ChannelId            | Text(100)       | false    | false    |                 |
+| Keyword              | Text(100)       | false    | false    |                 |

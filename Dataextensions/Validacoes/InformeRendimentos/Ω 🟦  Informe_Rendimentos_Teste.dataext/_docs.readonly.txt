@@ -1,0 +1,8 @@
+Dataextension name: Informe_Rendimentos_Teste
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome                 | Text(50)        | true     | false    |                 |
+| Email                | EmailAddress    | true     | false    |                 |
+| Celular              | Phone           | true     | false    |                 |
+| Tipo_Pessoa          | Text(50)        | true     | false    |                 |

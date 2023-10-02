@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b231822b-c7e1-4348-bd36-475c5ee567da",
+  "name": "VerificaSorteioCAP_Salesforce",
+  "key": "b6458656-f3e2-4ccb-b56e-f6509b1b711c",
+  "description": "Verifica as datas de sorteio do CAP que não estão no salesforce. ",
+  "queryText": "select D.ID_TITULO, D.ID_SERIE, D.ID_PLANO, D.DATA_SORTEIO, TS.ID as ID_TITULO_SALESFORCE\nfrom DatasSorteioCAP_1 D\nINNER join HC_TITULO__C_SALESFORCE TS\n    ON D.ID_TITULO = TS.HC_Numero_do_Titulo__c\n        AND D.ID_SERIE = TS.HC_Serie__c\n        AND D.ID_PLANO = TS.HC_Plano__c\nWHERE   TS.HC_Data_da_Ultima_Contemplacao__c IS NULL\n        ",
+  "targetName": "DatasSorteioCAP_Verificado_1",
+  "targetKey": "AE601CFF-7C51-488C-814E-13112E9F9F46",
+  "targetId": "7dfba8c2-ea7e-ec11-a317-48df37342c99",
+  "targetDescription": "Datas de sorteio extraídas do CAP no período maior que 01-01-2017",
+  "createdDate": "2022-01-26T08:44:12.09",
+  "modifiedDate": "2022-06-08T08:00:56.353",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

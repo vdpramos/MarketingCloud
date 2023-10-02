@@ -1,0 +1,112 @@
+[
+  {
+    "Name": "ID_TITULO_SF",
+    "FieldType": "Text",
+    "ObjectID": "ec0d0c2c-e945-4beb-973c-2eb1988a312d",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "2fbc0eda-1eda-415e-88df-0932d2f6c24c",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "SERIE",
+    "FieldType": "Text",
+    "ObjectID": "fa6add25-74ab-4ded-9027-70c588ab7e18",
+    "MaxLength": "2",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "PLANO",
+    "FieldType": "Text",
+    "ObjectID": "78485288-10f0-4014-9b88-f79a1c1039a5",
+    "MaxLength": "6",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "FIM_VIGENCIA",
+    "FieldType": "Date",
+    "ObjectID": "6f2b3818-1586-4802-aba4-28be0cec9931",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "ID_CLIENTE_SF",
+    "FieldType": "Text",
+    "ObjectID": "1d2d1e6e-dd1e-4c1a-837d-cf23f4e3b3e3",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "TELEFONE_PRINCIPAL",
+    "FieldType": "Phone",
+    "ObjectID": "911ab502-e441-4af2-8355-e9bb962cbfdd",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "ID_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "d250b502-7548-442e-a47f-b740cf63c09b",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "NOME_CLIENTE",
+    "FieldType": "Text",
+    "ObjectID": "f7b3db4e-fc70-43f7-b9cd-f8fff65f0d3b",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "ID_CONTATO",
+    "FieldType": "Text",
+    "ObjectID": "e98f6433-1203-4e33-8dab-faa24492fab7",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  }
+]

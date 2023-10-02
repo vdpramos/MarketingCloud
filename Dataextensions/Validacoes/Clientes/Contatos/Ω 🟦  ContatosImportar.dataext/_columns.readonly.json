@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "HC_Tipo_de_Relacionamento__c",
+    "FieldType": "Text",
+    "ObjectID": "8c8f64d6-a769-4d5c-b411-88813e5be5be",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "accountid",
+    "FieldType": "Text",
+    "ObjectID": "8156499f-4b7a-438d-9bc7-c26e13b4b136",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Name",
+    "FieldType": "Text",
+    "ObjectID": "dc239093-20ea-4fd8-9b40-d99b0555c128",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "HC_CPF_CNPJ_Cliente__c",
+    "FieldType": "Text",
+    "ObjectID": "f36a6c84-80a0-4bfe-962f-757ac597c1e0",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "HC_Tipo_de_Pessoa__c",
+    "FieldType": "Text",
+    "ObjectID": "4ad4190c-076e-4168-b5b5-d421255a63f7",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  }
+]

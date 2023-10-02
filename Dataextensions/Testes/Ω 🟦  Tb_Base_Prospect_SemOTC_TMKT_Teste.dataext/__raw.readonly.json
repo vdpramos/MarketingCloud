@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "E1F651EC-4891-4DA6-8B01-D892BE365691"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_SemOTC_TMKT_Teste"
+  ]
+}

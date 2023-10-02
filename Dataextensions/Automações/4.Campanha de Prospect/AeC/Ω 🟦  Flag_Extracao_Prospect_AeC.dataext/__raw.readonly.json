@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "2419602C-4B29-45EE-9D39-57B2630DCDE1"
+  ],
+  "Name": [
+    "Flag_Extracao_Prospect_AeC"
+  ]
+}

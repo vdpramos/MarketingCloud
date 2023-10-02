@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "fd290210-056f-43be-a97f-a4928cd01f6d",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "9c00f024-b3cb-43a7-891f-0f8d45a91514",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "ENCARTEIRAMENTO",
+    "FieldType": "Text",
+    "ObjectID": "2b37338e-9e18-469f-93c9-5f4e9a5fcf32",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "ID",
+    "FieldType": "Text",
+    "ObjectID": "27976ba6-2b8f-4c13-b78b-eaffe333d3e2",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Encarteiramento__c",
+    "FieldType": "Text",
+    "ObjectID": "8ce93013-1d54-4ec3-9678-505d980d63eb",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "ID_ENCARTEIRAMENTO",
+    "FieldType": "Text",
+    "ObjectID": "4e83c661-6c88-4737-91ba-4670f2eae1e0",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

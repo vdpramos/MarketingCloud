@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "1178E9E5-910F-487D-81E3-4F04B2735F8F"
+  ],
+  "Name": [
+    "Close_the_loop_preparacao_OTC_filtrada"
+  ]
+}

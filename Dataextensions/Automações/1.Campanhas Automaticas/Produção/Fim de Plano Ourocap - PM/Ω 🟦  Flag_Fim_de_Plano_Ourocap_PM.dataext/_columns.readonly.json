@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "Hora",
+    "FieldType": "Boolean",
+    "ObjectID": "d2857ac9-9119-43bf-a27e-9b37bd6e40fa",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

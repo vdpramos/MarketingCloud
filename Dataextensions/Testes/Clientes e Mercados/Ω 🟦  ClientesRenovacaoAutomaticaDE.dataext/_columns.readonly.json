@@ -1,0 +1,233 @@
+[
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "158c0f7b-b0e7-4381-bbd8-1e3ff762c7d6",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "088e64f9-4d03-4049-bf39-bfba3d4dd99c",
+    "MaxLength": "11",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Agencia",
+    "FieldType": "Text",
+    "ObjectID": "52a77281-cfa5-4696-a1c0-f55796f538c1",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Conta",
+    "FieldType": "Text",
+    "ObjectID": "4ee95155-b4bd-46c7-9304-f838ee513597",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "TipoConta",
+    "FieldType": "Text",
+    "ObjectID": "53b65b42-0ce3-437f-a639-e89306192e05",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "DataNascimento",
+    "FieldType": "Date",
+    "ObjectID": "2f7c87d1-b641-418d-a01b-fa700c501c92",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "CEP",
+    "FieldType": "Text",
+    "ObjectID": "63410090-d26b-4e02-a554-4a1774cdea25",
+    "MaxLength": "8",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "Celular1",
+    "FieldType": "Text",
+    "ObjectID": "134f91d0-5375-448b-8aea-2d7930b7ca07",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "Celular2",
+    "FieldType": "Text",
+    "ObjectID": "300e5a78-48fc-4668-8e68-1b13cd392c24",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "Celular3",
+    "FieldType": "Text",
+    "ObjectID": "9439a6cd-ffb2-4396-a5bf-e0206c85ba87",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "Fixo1",
+    "FieldType": "Text",
+    "ObjectID": "73840eb2-afc8-4f6d-85c8-4ba8f5718df5",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "Fixo2",
+    "FieldType": "Text",
+    "ObjectID": "99334cbd-7fe1-4de8-a12b-ebb477adb7f3",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "Fixo3",
+    "FieldType": "Text",
+    "ObjectID": "2af4022f-c902-441e-a58a-80feeb505a1a",
+    "MaxLength": "30",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "DigitoConta",
+    "FieldType": "Text",
+    "ObjectID": "90cd511e-65ec-4d4f-9ee9-ea2762a0df28",
+    "MaxLength": "30",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "Sexo",
+    "FieldType": "Text",
+    "ObjectID": "38c82b3b-a07d-4314-8f16-d7f4e327e04c",
+    "MaxLength": "10",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 14
+  },
+  {
+    "Name": "DDDCelular1",
+    "FieldType": "Text",
+    "ObjectID": "4af3d657-a981-4614-a1cb-c9943edd1f55",
+    "MaxLength": "10",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 15
+  },
+  {
+    "Name": "DDDCelular2",
+    "FieldType": "Text",
+    "ObjectID": "1279240f-da3b-44d1-92e6-830a30b38da2",
+    "MaxLength": "10",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 16
+  },
+  {
+    "Name": "DDDCelular3",
+    "FieldType": "Text",
+    "ObjectID": "75b8efa4-ccc3-4cc2-977e-8ecf38590507",
+    "MaxLength": "10",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 17
+  },
+  {
+    "Name": "DDDFixo1",
+    "FieldType": "Text",
+    "ObjectID": "56e5738f-4339-423e-be4a-78d0fd3d751c",
+    "MaxLength": "10",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 18
+  },
+  {
+    "Name": "DDDFixo2",
+    "FieldType": "Text",
+    "ObjectID": "65e42ab1-2f7a-449b-b897-2a09831032e1",
+    "MaxLength": "10",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 19
+  },
+  {
+    "Name": "DDDFixo3",
+    "FieldType": "Text",
+    "ObjectID": "a49126b6-07ca-49b5-9e01-19b48225b8fc",
+    "MaxLength": "10",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 20
+  }
+]

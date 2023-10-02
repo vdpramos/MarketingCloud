@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6f43384b-967d-4134-9feb-3b39b3198023",
+  "name": "Qr02_Segmentacao_TCBB_PJ",
+  "key": "2eb94c2f-2764-4b58-9b34-3596c9b07c2a",
+  "description": "Segmentar do publico da Jornada de Recomando o grupo TCBB PJ",
+  "queryText": "select\n  q.HC_CPF_CNPJ__c,\n  CS.Id as IdContato,\n  camp.Id as IdCampaign,\n  RCP_ID,\n  HC_Titulo__c,\n  HC_Id_Parceiro_Cap__c,\n  HC_Data_Envio_Registro__c,\n  HC_Data_do_pagamento__c,\n  HC_Valor_Liquido__c,\n  CAMPAIGN_GROUP,\n  Telefone_Principal,\n  HC_Telefone_Principal__c,\n  HC_Celular,\n  HC_Celular_1__c,\n  HC_Celular_2__c,\n  HC_Celular_3__c,\n  Email_Principal,\n  HC_Email_Principal__c,\n  Endereco_Principal,\n  HC_Endereco_Principal__c,\n  camp.DATA_PROXIMA_EXECUCAO\nfrom [BASE_CAMPANHA_RECOMANDO] Q\ninner join (\n  SELECT TOP 1\n    Id,\n    HC_Proxima_execucao__c,\n    HC_Ultima_execucao__c,\n    HC_Valor_minimo_a_pagar__c,\n    HC_Valor_maximo_a_pagar__c,\n    HC_Data_inicial_do_periodo_de_queda__c,\n    HC_Data_fim_do_periodo_de_queda__c,\n\tHC_DATA_DE_EXECUCAO__C,\t\t\t\t\t   \n    DATEADD(DAY, HC_PROXIMA_EXECUCAO__C,HC_DATA_DE_EXECUCAO__C) AS DATA_PROXIMA_EXECUCAO\n  from [CAMPAIGN_SALESFORCE]\n  WHERE HC_Tipo_de_Cliente__c = 'PJ'\n  and isnull(convert(integer, IsActive), 0) = 1\n  AND PARENTID = '7016g000002O08JAAS'\n) camp on Q.CAMPAIGN_GROUP = 'PJ Ourocap'\nINNER JOIN [Contact_Salesforce] CS ON CS.HC_CPF_CNPJ_Tipo_de_Relacionamento__c = concat(q.HC_CPF_CNPJ__c, 'Cliente')\nWHERE\n  \n    q.HC_Valor_Liquido__c is not null\n    and q.HC_Valor_Liquido__c >= isnull(camp.HC_Valor_minimo_a_pagar__c, 0)\n    and (\n      camp.HC_Valor_maximo_a_pagar__c is null\n      or isnull(q.HC_Valor_Liquido__c, 0) <= camp.HC_Valor_maximo_a_pagar__c\n    )\n  \n    AND HC_Data_Envio_Registro__c is not null\n    and \n    (\n      camp.HC_Data_inicial_do_periodo_de_queda__c is null\n      or HC_Data_Envio_Registro__c >= camp.HC_Data_inicial_do_periodo_de_queda__c\n    )\n    and\n    (\n      camp.HC_Data_fim_do_periodo_de_queda__c is null\n      or HC_Data_Envio_Registro__c <= camp.HC_Data_fim_do_periodo_de_queda__c\n    )\n  AND HC_Data_Envio_Registro__c between HC_Data_inicial_do_periodo_de_queda__c  and HC_Data_fim_do_periodo_de_queda__c \n     AND CONVERT(VARCHAR, camp.HC_DATA_DE_EXECUCAO__C, 112) = CONVERT(VARCHAR, GETDATE(), 112) ",
+  "targetName": "RECOMANDO_G2_TCBB_PJ_v2",
+  "targetKey": "B21948F0-4A6C-4192-BEC9-B48F20C0CEE4",
+  "targetId": "c5f338d9-3697-eb11-a2fc-48df37342b91",
+  "targetDescription": "Parceiro TCBB cliente tipo PJ",
+  "createdDate": "2021-04-05T15:34:15.173",
+  "modifiedDate": "2021-10-19T13:29:58.2",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 31535,
+  "isFrozen": false
+}

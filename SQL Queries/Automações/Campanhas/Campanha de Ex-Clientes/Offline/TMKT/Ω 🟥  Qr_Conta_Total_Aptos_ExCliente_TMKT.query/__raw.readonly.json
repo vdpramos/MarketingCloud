@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "68a49617-fa66-43d6-a2ac-8a2120cd941f",
+  "name": "Qr_Conta_Total_Aptos_ExCliente_TMKT",
+  "key": "255f0777-00b7-4715-8cba-000d6906bbe1",
+  "description": "Conta a quantidade de publico apto para o otc290 separado pela campanha de clientes TMKT\n",
+  "queryText": "select\n  b.ID_CAMPANHA,\n  count(1) as QUANTIDADE_ATUAL_290\nfrom Publico_Apto_Ex_Clientes_TMKT a\ninner join CONTROLE_AUTOMACOES_CAMPANHAS b on b.ID_CAMPANHA = '7016g000000NSIpAAO'\ngroup by  b.ID_CAMPANHA",
+  "targetName": "CONTROLE_AUTOMACOES_CAMPANHAS",
+  "targetKey": "04B8390F-4FDE-47E3-9CB8-092965B5D94D",
+  "targetId": "3af1ba23-8d70-ec11-a311-48df370eabe5",
+  "targetDescription": "DE para controlar steps das campanhas",
+  "createdDate": "2022-01-27T08:56:50.44",
+  "modifiedDate": "2022-02-07T16:19:58.93",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 33121,
+  "isFrozen": false
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "HC_CPF_CNPJ_Cliente__c",
+    "FieldType": "Text",
+    "ObjectID": "73dba59c-533a-4edb-b86d-01fca8231a2e",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "NAME",
+    "FieldType": "Text",
+    "ObjectID": "9ca86231-840e-40e0-96cc-7b7ef1491533",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "HC_Tipo_de_Pessoa__c",
+    "FieldType": "Text",
+    "ObjectID": "77e060ca-abc2-4406-aba5-2546b35356a1",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "HC_Sexo__c",
+    "FieldType": "Text",
+    "ObjectID": "b7474dd7-7ea2-44eb-9f34-7ef63bd871c0",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "HC_PEP__c",
+    "FieldType": "Boolean",
+    "ObjectID": "a7cda985-1365-40c4-b927-4eb0cee307f5",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "HC_Data_Nascimento__c",
+    "FieldType": "Date",
+    "ObjectID": "7ec48ad1-f075-46d0-a903-95ac297f1333",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "ID",
+    "FieldType": "Text",
+    "ObjectID": "8b2ade41-108b-4d4a-b83d-68961a0e3454",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  }
+]

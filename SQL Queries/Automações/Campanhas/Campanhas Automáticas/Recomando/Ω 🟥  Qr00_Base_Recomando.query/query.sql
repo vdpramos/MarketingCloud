@@ -1,0 +1,281 @@
+select
+  RCP.HC_CPF_CNPJ__c,
+  RCP.HC_Id_Parceiro_Cap__c,
+  RCP.ID AS RCP_ID,
+  PAG.HC_Titulo__c,
+  PAG.HC_Valor_Liquido__c,
+  PAG.HC_Data_do_pagamento__c,
+  PAG.HC_Data_Envio_Registro__c,
+  case
+    WHEN RCP.HC_Id_Parceiro_Cap__c = 'TCBB' AND RCP.HC_Tipo_de_Pessoa__c = 'PF' then 'PF Ourocap'
+    WHEN RCP.HC_Id_Parceiro_Cap__c = 'TCBB' AND RCP.HC_Tipo_de_Pessoa__c = 'PJ' then 'PJ Ourocap'
+    WHEN RCP.HC_Id_Parceiro_Cap__c IN ('VFREI',
+                                       'VILAN',
+                                        'ACOST',
+                                        'ALLEN',
+                                        'AMPL',
+                                        'ATIVA',
+                                        'CCB',
+                                        'INTEG',
+                                        'JACY',
+                                        'KMUL',
+                                        'LB ',
+                                        'LOCAL',
+                                        'MAFRA',
+                                        'MCFIL',
+                                        'METOD',
+                                        'METW',
+                                        'MILAN',
+                                        'MKCOR',
+                                        'NSI',
+                                        'TOTUM',
+                                        'PRIMA',
+                                        'REINO',
+'SEGES',
+'CONC',
+'ELEG',
+'GARDI',
+'TCBB',
+'TRAMP',
+'ANAP',
+'BARAU',
+'JACAR',
+'MARKF',
+'MARTI',
+'MGC',
+'MONTP',
+'NETI',
+'TDA',
+'PBCOR',
+'PLAN',
+'QUEIR',
+'R E R',
+'ROSI',
+'SAN',
+'SAURA',
+'SEGNA',
+'CONE',
+'GAST',
+'GOLF',
+'HRD',
+'UNIGE',
+'VALLI',
+'VLVE',
+'VPSCG',
+'WALT',
+'ACOS',
+'AFIRM',
+'AYUMI',
+'BCK',
+'BGS',
+'CIPA',
+'JSEG',
+'MAC',
+'NFEAB',
+'NTCOR',
+'TKS',
+'O2COR',
+'PLANE',
+'SOUTH',
+'DNA',
+'DOSC',
+'EXPER',
+'FEDCO',
+'G100',
+'GRANL',
+'WCSI',
+'5 S',
+'AGZ',
+'AMAD',
+'APSA',
+'BLINK',
+'BORE',
+'BRINS',
+'CARME',
+'CENER',
+'IMOBI',
+'MITRA',
+'MONIT',
+'MPAG',
+'NARUD',
+'THOMA',
+'PROTE',
+'PROVE',
+'RPOTY',
+'RRCOR',
+'SFCON',
+'SIEL',
+'SIGMA',
+'CODE',
+'DACEL',
+'GEBR',
+'GOBAT',
+'GOLDE',
+'VARIA',
+'VRCOR',
+'WJF',
+'100AL',
+'ACDP',
+'ACORE',
+'CAMBI',
+'CANAD',
+'CCENT',
+'CENTR',
+'INOVE',
+'JOR',
+'MANDE',
+'MBAC',
+'ORBIX',
+'PLANJ',
+'RENOM',
+'ROADS',
+'RVERD',
+'SCAP',
+'SICAR',
+'CONF',
+'DRESD',
+'EGD',
+'EXATA',
+'FIANS',
+'GLOBA',
+'TRIUN',
+'VPSD',
+'YOUSG',
+'AJSOU',
+'ANJOS',
+'BCAP',
+'BUSIN',
+'CALEG',
+'CAMIL',
+'CDAV',
+'JBI',
+'JRF',
+'MAX',
+'MAXC',
+'MONRA',
+'TCBC',
+'POLLO',
+'REIS',
+'SANTA',
+'SUCCE',
+'CONQU',
+'GOLDP',
+'UNIC',
+'VIEIR',
+'VPS',
+'VPSDR',
+'BASSO',
+'BSB',
+'JARS',
+'JPF',
+'LMAT',
+'MAIOR',
+'MAREC',
+'MAXI',
+'MAXIM',
+'MCLA',
+'NELOR',
+'NOIVA',
+'TJVAL',
+'ONIX',
+'ORGAB',
+'PALAV',
+'PCAMP',
+'PLUS',
+'PMG',
+'RIOT',
+'RIVER',
+'ROCHA',
+'SECO',
+'SEGUR',
+'SID',
+'SINAC',
+'SLTLK',
+'TAS',
+'CONST',
+'FAAR',
+'GEMP',
+'HAMUR',
+'HERMA',
+'100AG',
+'ALIKA',
+'ALUG',
+'CLASP',
+'NPIME',
+'TOLED',
+'RAOS',
+'SAMAR',
+'SCHAA',
+'SEGF',
+'SPASI',
+'STERS',
+'DIRET',
+'DLEGE',
+'EKO',
+'EKOBE',
+'FERRE',
+'GRCAP',
+'HASHI',
+'HCAM') THEN 'CAP Fiador' 
+else 'NULL' end as CAMPAIGN_GROUP,
+  case
+    when RCP.HC_Telefone_Principal__c = 'Telefone Comercial' then HC_Telefone_Comercial__c
+    when RCP.HC_Telefone_Principal__c = 'Telefone Outro' then HC_Telefone_Outro__c
+    when RCP.HC_Telefone_Principal__c = 'Telefone Residencial' then HC_Telefone_Residencial__c
+  end as Telefone_Principal,
+  HC_Telefone_Principal__c,
+  /* Telefone celular ativo */
+  case
+    when RCP.HC_Celular_1__c is not null then
+      CONCAT('55',
+          REPLACE(
+            REPLACE(
+              REPLACE(
+                REPLACE(
+                RCP.HC_Celular_1__c
+                , ' ', '')
+              , '-', '')
+            , ')', '')
+          , '(', '')
+      )
+    when RCP.HC_Celular_2__c is not null then
+      CONCAT('55',
+          REPLACE(
+              REPLACE(
+                REPLACE(
+                  REPLACE(
+                  RCP.HC_Celular_2__c
+                  , ' ', '')
+                , '-', '')
+              , ')', '')
+            , '(', '')
+      )
+    when RCP.HC_Celular_3__c is not null then
+      CONCAT('55',
+          REPLACE(
+              REPLACE(
+                REPLACE(
+                  REPLACE(
+                  RCP.HC_Celular_3__c
+                  , ' ', '')
+                , '-', '')
+              , ')', '')
+            , '(', '')
+      )
+  end as HC_Celular,
+  HC_Celular_1__c,
+  HC_Celular_2__c,
+  HC_Celular_3__c,
+  case
+    when RCP.HC_Email_Principal__c = 'Brasilcap' then HC_Email_Brasilcap__c
+    when RCP.HC_Email_Principal__c = 'Comercial' then HC_Email_Comercial__c
+    when RCP.HC_Email_Principal__c = 'Pessoal' then HC_Email_Pessoal__c
+  end as Email_Principal,
+  HC_Email_Principal__c,
+  HC_Endereco_Principal__c
+from [HC_Relacao_Cliente_Parceiro__c_Salesforce] RCP
+
+
+INNER JOIN [HC_Titulo__c_Salesforce] TIT ON TIT.HC_Cliente_x_Parceiro__c = RCP.ID
+INNER JOIN [HC_Pagamento__c_Salesforce] PAG ON TIT.ID = PAG.HC_Titulo__c
+WHERE (PAG.HC_Status_do_Pagamento__c = 'Queda' OR PAG.HC_Status_do_Pagamento__c = 'Queda de Prévia')

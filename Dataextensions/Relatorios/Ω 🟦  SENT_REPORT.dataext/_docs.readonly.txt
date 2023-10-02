@@ -1,0 +1,16 @@
+Dataextension name: SENT_REPORT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| AccountID            | Number          | true     | false    |                 |
+| OYBAccountID         | Number          | false    | false    |                 |
+| JobID                | Number          | true     | false    |                 |
+| ListID               | Number          | true     | false    |                 |
+| BatchID              | Number          | true     | false    |                 |
+| SubscriberID         | Number          | true     | false    |                 |
+| SubscriberKey        | Text(254)       | true     | true     |                 |
+| EventDate            | Date            | true     | false    |                 |
+| Domain               | Text(254)       | true     | false    |                 |
+| TriggererSendDefinitionObjectID | Text(254)       | true     | false    |                 |
+| TriggeredSendCustomerKey | Text(254)       | false    | false    |                 |
+| EmailName            | Text(254)       | false    | false    |                 |

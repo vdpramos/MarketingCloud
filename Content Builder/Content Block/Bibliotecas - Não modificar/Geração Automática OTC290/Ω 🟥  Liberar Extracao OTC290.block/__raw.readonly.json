@@ -1,0 +1,52 @@
+{
+  "id": 51877,
+  "customerKey": "74ebbda3-5524-41f9-88d8-1a7baefcf88b",
+  "objectID": "d9c54a64-cd03-4921-a0ae-e833fdb33fff",
+  "assetType": {
+    "id": 220,
+    "name": "codesnippetblock",
+    "displayName": "Code Snippet Block"
+  },
+  "fileProperties": {
+    "fileName": "Liberar Extracao OTC290"
+  },
+  "name": "Liberar Extracao OTC290",
+  "description": "Liberar producao do OTC290 através do DE flag e atualiza o controller",
+  "owner": {
+    "id": 713538740,
+    "email": "matheus.leto@harpiacloud.com.br",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "createdDate": "2022-02-02T18:58:47.397-06:00",
+  "createdBy": {
+    "id": 713538740,
+    "email": "matheus.leto@harpiacloud.com.br",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "modifiedDate": "2022-02-03T07:37:40.863-06:00",
+  "modifiedBy": {
+    "id": 713538740,
+    "email": "matheus.leto@harpiacloud.com.br",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/51877/thumbnail"
+  },
+  "category": {
+    "id": 45099,
+    "name": "Geração Automática OTC290",
+    "parentId": 45122
+  },
+  "content": "// var Id_Campanha;\nvar api = new Script.Util.WSProxy();\nvar DE_flag = retrieveDECustomerKeyFromName(api, DE_flag_name);\nvar DE_Controller_Name = 'CONTROLE_AUTOMACOES_CAMPANHAS'\nvar DE_Controller = retrieveDECustomerKeyFromName(api, DE_Controller_Name);\nvar DE_campanha_Controller_Operator = DataExtensionRecordsOperator({api: api, dataExtensionCustomerKey: DE_Controller});\n\ntry{\n\n\n  var filter = {\n    Property: \"ID_CAMPANHA\",\n    SimpleOperator: \"equals\",\n    Value: Id_Campanha\n  }\n\n  var recordsCampanha = DE_campanha_Controller_Operator.getRecords({filter: filter,\n    headers: ['ID_CAMPANHA', 'STATUS_AUTOMACAO', 'QUANTIDADE_ATUAL_290', 'QUANTIDADE_DESEJADA_OTC290', 'QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290']});\n\n  if(recordsCampanha == null || recordsCampanha.length == 0){\n    api.performItem(\"DataExtension\", { CustomerKey: DE_flag }, \"ClearData\");\n    Platform.Function.RaiseError('Campanha não encontrada');\n  }\n  var recordCampanha = recordsCampanha[0];\n\n  if(recordCampanha.STATUS_AUTOMACAO != 'PREPARANDO OTC290'){\n    // Campanha cliente não executada por estar em outro estado\n    // limpa DE de flag para impedir execução na automação\n    api.performItem(\"DataExtension\", { CustomerKey: DE_flag }, \"ClearData\");\n\n  }else if( parseInt(recordCampanha.QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290) != parseInt(recordCampanha.QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290)\n    || parseInt(recordCampanha.QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290) == 0 ){\n\n    api.performItem(\"DataExtension\", { CustomerKey: DE_flag }, \"ClearData\");\n    atualizaStatusAutomacao(api, DE_Controller, Id_Campanha, 'ERROR: NAO FOI POSSIVEL OBTER MAIS PUBLICO INICIAL');\n    Platform.Function.RaiseError('Não foi possível gerar publico');\n\n  }else if( parseInt(recordCampanha.QUANTIDADE_ATUAL_290) != parseInt(recordCampanha.QUANTIDADE_ATUAL_290) ){\n    api.performItem(\"DataExtension\", { CustomerKey: DE_flag }, \"ClearData\");\n    atualizaStatusAutomacao(api, DE_Controller, Id_Campanha, 'ERROR: Algo de errado com QUANTIDADE_ATUAL_290');\n    Platform.Function.RaiseError('Não foi possível gerar publico');\n\n  }else if( parseInt(recordCampanha.QUANTIDADE_DESEJADA_OTC290) != parseInt(recordCampanha.QUANTIDADE_DESEJADA_OTC290) ){\n    api.performItem(\"DataExtension\", { CustomerKey: DE_flag }, \"ClearData\");\n    atualizaStatusAutomacao(api, DE_Controller, Id_Campanha, 'ERROR: Algo de errado com QUANTIDADE_DESEJADA_OTC290');\n    Platform.Function.RaiseError('Não foi possível gerar publico');\n\n  }else if( parseInt(recordCampanha.QUANTIDADE_ATUAL_290) < parseInt(recordCampanha.QUANTIDADE_DESEJADA_OTC290) ){\n    // limpa DE de flag para a automação executar novamente e produzir mais publico\n    api.performItem(\"DataExtension\", { CustomerKey: DE_flag }, \"ClearData\");\n  }else if( parseInt(recordCampanha.QUANTIDADE_ATUAL_290) >= parseInt(recordCampanha.QUANTIDADE_DESEJADA_OTC290) ){\n    var props = [\n      {\n        Name: 'Continue',\n        Value: true\n      }\n    ];\n    var data = {\n      CustomerKey: DE_flag,\n      Properties: props\n    }\n    var result = api.createItem('DataExtensionObject', data);\n    atualizaStatusAutomacao(api, DE_Controller, Id_Campanha, 'EXTRAINDO OTC290');\n    \n\n  }else{\n    api.performItem(\"DataExtension\", { CustomerKey: DE_flag }, \"ClearData\");\n    atualizaStatusAutomacao(api, DE_Controller, Id_Campanha, 'ERROR: Algo deu errado');\n    Platform.Function.RaiseError('Algo deu errado');\n  }\n\n    // To do: fazer envio de e-mail\n  \n} catch (error) {\n  // Write('error\\n');\n  // Write(Stringify(error.message));\n  Platform.Function.RaiseError('Something went wrong');\n}\n\n// ---------------- Library ----------------\n// Aux to use Array.map\nfunction mapArray(array, callback, thisArg) {\n  var T, A, k;var O = array;var len = O.length;if (typeof callback !== 'function') {throw new TypeError(callback + ' is not a function');}if (arguments.length > 2) {T = thisArg;}A = [];k = 0;while (k < len) {var kValue, mappedValue;kValue = O[k];mappedValue = callback.call(T, O[k], k, O);A.push(mappedValue);k++;}return A;\n}\n\n// Auxiliar para resgatar dados do Data Extension\nfunction DataExtensionRecordsOperator(configuration){\n  var api;\n  var customerKey;\n  \n  if(!configuration) Platform.Function.RaiseError('An configuration Object is required');\n  if(!configuration.api) Platform.Function.RaiseError('Api attribute is required');\n  if(!configuration.dataExtensionCustomerKey && !configuration.dataExtensionName) Platform.Function.RaiseError('dataExtensionCustomerKey or dataExtensionName attribute is required');\n  if(configuration.dataExtensionCustomerKey && typeof configuration.dataExtensionCustomerKey != 'string') Platform.Function.RaiseError('dataExtensionCustomerKey must be a String');\n  api = configuration.api;\n  \n  if(configuration.dataExtensionCustomerKey == null || configuration.dataExtensionCustomerKey == ''){\n    var simpleFilter = {\n      Property: 'Name',\n      SimpleOperator: 'equals',\n      Value: configuration.dataExtensionName\n    }\n    customerKey = api.retrieve(\"DataExtension\", [\"CustomerKey\"], simpleFilter).Results[0].CustomerKey;\n  }else{\n    customerKey = configuration.dataExtensionCustomerKey;\n  }\n\n  function getRecords(options){\n    // options Object can have filter or headers\n    if(!!options && typeof options != 'object') Platform.Function.RaiseError('Options must be an object or omitted');\n        \n    var headers;\n    var filter;\n\n    if(!!options && options.headers){\n      headers = options.headers;\n    }else{\n      headers = retrieveFieldNames(customerKey, api);\n    }\n\n    if(!!options && options.filter) filter = options.filter;\n\n    var config = {\n      customerKey: customerKey,\n      cols: headers\n    }\n  \n    var records = [],\n    moreData = true,\n    reqID = data = null;\n\n    while (moreData) {\n      moreData = false;\n      if (reqID == null) {\n        if(filter == undefined || filter == null){\n          data = api.retrieve(\"DataExtensionObject[\" + config.customerKey + \"]\", config.cols);\n        }else{\n          data = api.retrieve(\"DataExtensionObject[\" + config.customerKey + \"]\", config.cols, filter);\n        }\n        if(data.Status.substring(0, 5) == 'Error'){\n          Platform.Function.RaiseError('Something went wrong: ' + data.Status);\n        }\n      } else {\n        data = api.getNextBatch(\"DataExtensionObject[\" + config.customerKey + \"]\", reqID);\n      }\n\n      if (data != null) {\n        moreData = data.HasMoreRows;\n        reqID = data.RequestID;\n        for (var i = 0; i < data.Results.length; i++) {\n          var result_list = data.Results[i].Properties;\n          var obj = {};\n          for (k in result_list) {\n            var key = result_list[k].Name;\n            var val = result_list[k].Value\n            if (key.indexOf(\"_\") != 0) obj[key] = val;\n          }\n        records.push(obj);\n        }\n      }\n    }\n    return records;\n    \n  }\n\n  function retrieveFieldNames(customerKey, api) {\n    var filter = {\n      Property: \"DataExtension.CustomerKey\",\n      SimpleOperator: \"equals\",\n      Value: customerKey\n    };\n\n    var req = api.retrieve(\"DataExtensionField\", [\"Name\"], filter);\n    var fields = req.Results;\n    var out = [];\n    for (k in fields) {\n      out = out.concat(fields[k].Name);\n    }\n    return out;\n  }\n\n  return {\n    getRecords: getRecords\n  }\n}\n\nfunction atualizaStatusAutomacao(api, de_ck, idCampanha,  novoStatus){\n  var props = [\n    {\n      Name: 'STATUS_AUTOMACAO',\n      Value: novoStatus\n    }, { Name: 'ID_CAMPANHA', Value: idCampanha\n    }\n  ];\n  var updateData = {\n    CustomerKey: de_ck,\n    Properties: props\n  }\n  var updateOptions = {SaveOptions: [{'PropertyName': '*', SaveAction: 'UpdateAdd'}]};\n  var res = api.updateItem('DataExtensionObject', updateData, updateOptions);\n}\n\nfunction retrieveDECustomerKeyFromName(api, dataExtensionName){\n  var simpleFilter = {\n    Property: 'Name',\n    SimpleOperator: 'equals',\n    Value: dataExtensionName\n  }\n  var result = api.retrieve(\"DataExtension\", [\"CustomerKey\"], simpleFilter);\n  if(result.Status != 'OK' || result.Results.length < 1){\n    return null\n  }else{\n    return result.Results[0].CustomerKey;\n  }\n}",
+  "availableViews": [],
+  "modelVersion": 2
+}

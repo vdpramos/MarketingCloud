@@ -1,0 +1,123 @@
+[
+  {
+    "Name": "ContactKey",
+    "FieldType": "Text",
+    "ObjectID": "9bc42071-5a65-4e6b-b7e9-afab8df31081",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "6f76c255-bed1-4490-b6f0-a2b49ea01e41",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "ID_PROPOSTA",
+    "FieldType": "Text",
+    "ObjectID": "545e0f80-2ce5-42c9-9b0d-b317b1d36700",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "MobileNumber",
+    "FieldType": "Text",
+    "ObjectID": "b98944c5-f421-49b3-ba54-ebd21ac66f8a",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "JourneyName",
+    "FieldType": "Text",
+    "ObjectID": "9757d632-d0c4-4e3d-a5a5-0ee863830c9d",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "enviado",
+    "FieldType": "Text",
+    "ObjectID": "cf33c7f9-9eb2-4979-b34d-e16510f7d672",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "data_do_envio",
+    "FieldType": "Text",
+    "ObjectID": "f0b104d0-672f-48e2-bc51-c851c4c115c1",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "entregue",
+    "FieldType": "Text",
+    "ObjectID": "0f02a494-ffce-493e-8c87-90e7fea706e1",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "data_da_entrega",
+    "FieldType": "Text",
+    "ObjectID": "23c6edf9-b846-4801-8702-a12838096266",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "lido",
+    "FieldType": "Text",
+    "ObjectID": "ea756861-953a-416e-a08f-9d58a4bcd5bd",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "data_da_leitura",
+    "FieldType": "Text",
+    "ObjectID": "785656e4-d6be-4f8d-a192-f1943622aa05",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  }
+]

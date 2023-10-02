@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "0502A300-1DE7-48D0-8B02-4DBABAFEF7A7"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_OTC291_Filtrada_Algar"
+  ]
+}

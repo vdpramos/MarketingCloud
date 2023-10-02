@@ -1,0 +1,6 @@
+Dataextension name: AtualizaRA_Tratada
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Id                   | Text(50)        | true     | false    |                 |
+| HC_renovacao_automatica__c | Text(50)        | true     | false    |                 |

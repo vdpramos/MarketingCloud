@@ -1,0 +1,6 @@
+Dataextension name: EncarteriramentoAtualizar
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID                   | Text(50)        | true     | false    |                 |
+| ENCARTEIRAMENTO      | Text(60)        | true     | false    |                 |

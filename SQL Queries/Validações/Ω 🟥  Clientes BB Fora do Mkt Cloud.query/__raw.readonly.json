@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "531ca4fb-30a6-4b81-ade8-ace20a6a07fd",
+  "name": "Clientes BB Fora do Mkt Cloud",
+  "key": "772e77fa-f5c0-4b08-9153-bfdda933813e",
+  "description": "",
+  "queryText": "select cp.HC_CPF_CNPJ__c, 'true' as Contato_no_Marketing__c \nfrom hc_relacao_cliente_parceiro__c_salesforce cp\nwhere cp.hc_classificacao__c = 'Cliente'\n        and (HC_chaveParceiro__c = 52 or HC_Chave_Parceiro__c = 52)\n        and not exists( select 1 from contact_salesforce c \n                        where c.HC_CPF_CNPJ__c = cp.hc_cpf_cnpj__c \n                                and c.HC_Tipo_de_Relacionamento__c = 'Cliente')\n\n",
+  "targetName": "Clientes_BB_Fora_MktCloud",
+  "targetKey": "E9D85DBF-81A6-4071-B3A6-B7AD4AF99F2C",
+  "targetId": "bceabd69-21a7-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-07T14:10:30.063",
+  "modifiedDate": "2023-03-22T19:03:08.707",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

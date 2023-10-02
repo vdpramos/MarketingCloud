@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6351f547-7d60-4263-ab8a-01db24bc479f",
+  "name": "QR_Recuperacao_Caducidade_Extracao_OTC291",
+  "key": "6351F547-7D60-4263-AB8A-01DB24BC479F",
+  "description": "",
+  "queryText": "SELECT trim(Ddd_Tel_01) AS DDD1,\n       trim(Tel_01) TELEFONE1,\n       trim(B.Tipo_Tel_01) TIPO1,\n       trim(Ddd_Tel_02) AS DDD2,\n       trim(Tel_02) TELEFONE2,\n       trim(B.Tipo_Tel_02) TIPO2,\n       trim(Ddd_Tel_04) DDD3,\n       trim(Tel_04) TELEFONE3,\n       trim(B.Tipo_Tel_04) TIPO3,\n       trim(Ddd_Tel_05) DDD4,\n       trim(Tel_05) TELEFONE4,\n       trim(B.Tipo_Tel_05) TIPO4,\n       trim(Ddd_Tel_03) DDD5,\n       trim(Tel_03) TELEFONE5,\n       trim(B.Tipo_Tel_03) TIPO5,\n       trim(B.Tel_Principal) PREFERENCIAL,\n       B.IDADE,\n       CONVERT(VARCHAR(10), B.Dt_Nascimento, 103) AS DATA_NASCIMENTO,\n    trim(B.Nome) AS NOME_CLIENTE,\n    trim(B.CEP) as CEP,\n    '' as UF,\n    trim(B.Tipo_Pessoa) TIPO_DE_PESSOA,\n    trim(B.CPF_CNPJ) CPF_CNPJ,\n    trim(B.Sexo) Sexo,\n    trim(B.Publico_Alvo) CLASSIFICAÇAO,\n    trim(B.Tipo_Campanha) AS Tipo_Campanha,\n    CONVERT(VARCHAR(10), B.Dt_Criacao_Mailing, 103) AS DATA_CRIAÇÃO,\n    CONVERT(VARCHAR(10), B.Dt_Inicio_Mailing, 103) AS DATA_UTILIZAÇÃO,\n    CONVERT(VARCHAR(10), B.Dt_Fim_Mailing, 103) AS DATA_TERMINO,\n    B.Id_Campanha IDCAMPANHA,\n    B.Id_Contato IDCONTATO,\n    B.Id_Cliente_Parceiro AS IDCP\nFROM Tb_Recuperacao_Caducidade_OTC291_Filtrada A\nINNER JOIN Tb_Recuperacao_Caducidade_Publico_Inicial B ON A.CPF = B.CPF_CNPJ",
+  "targetName": "Tb_Recuperacao_Caducidade_Extracao_OTC",
+  "targetKey": "9318B924-2173-4684-B0B5-EE28B845979A",
+  "targetId": "d18616f6-e909-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-13T07:18:07.94",
+  "modifiedDate": "2023-08-22T09:11:18.34",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

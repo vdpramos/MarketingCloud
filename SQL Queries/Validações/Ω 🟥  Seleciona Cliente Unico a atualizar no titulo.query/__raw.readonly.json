@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "31559576-90b9-4423-8997-05bdf7fa19e4",
+  "name": "Seleciona Cliente Unico a atualizar no titulo",
+  "key": "fe3b90a7-566e-412a-98ce-3b82a94e6dee",
+  "description": "",
+  "queryText": "select  id_titulo AS ID, \n        id_cliente AS HC_CLIENTE__C \nfrom TitulosSemClienteUnico",
+  "targetName": "Titulos_AtualizarClienteUnico",
+  "targetKey": "FC021A83-A974-4040-A102-A2D532FA2404",
+  "targetId": "bf88c3d0-22a3-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-02T11:57:23.107",
+  "modifiedDate": "2023-02-08T19:14:14.803",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "4A74373D-3629-4A82-8890-B5C6E38D1F7D"
+  ],
+  "Name": [
+    "Tb_Base_Ex_Clientes_Offline_DadosBancarios_ComOTC_TMKT"
+  ]
+}

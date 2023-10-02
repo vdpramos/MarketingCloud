@@ -1,0 +1,6 @@
+select
+  b.ID_CAMPANHA,
+  count(1) as QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290
+from Tb_Base_Ex_Cliente_ComOTC_NeoBpo a
+inner join CONTROLE_AUTOMACOES_CAMPANHAS b on b.ID_CAMPANHA = '7016g000002NzuZAAS'
+group by  b.ID_CAMPANHA

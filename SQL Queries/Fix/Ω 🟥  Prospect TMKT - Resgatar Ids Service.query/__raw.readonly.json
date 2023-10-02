@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1f17e438-5174-4e2f-87f2-d7b394ed5b8f",
+  "name": "Prospect TMKT - Resgatar Ids Service",
+  "key": "68bd2176-458d-488a-bfc1-3836eb9648ae",
+  "description": "Checa nos DEs sync do Service quais contatos já possuem os Ids criados para trazer para o DE filtrado OTC291",
+  "queryText": "select\n  a.CPF,\n  case when b.id is not null then b.id else null end as Id_Conta,\n  case when b.id is not null then 1 else 0 end as Envio_Service_Account,\n  case when c.id is not null then c.id else null end as Id_Contato,\n  case when c.id is not null then 1 else 0 end as Envio_Service_Contact,\n  case when d.id is not null then d.id else null end as Id_Cliente_Parceiro,\n  case when d.id is not null then 1 else 0 end as Envio_Service_ClienteParceiro\nfrom Tb_Base_Prospect_OTC291_Filtrada_TMKT a \nleft join Account_Salesforce b on a.CPF = b.HC_CPF_CNPJ_Cliente__c\nleft join Contact_Salesforce c on a.CPF_Tipo_Relacionamento = c.HC_CPF_CNPJ_Tipo_de_Relacionamento__c\nleft join HC_Relacao_Cliente_Parceiro__c_Salesforce d on a.CPF_Codigo_Parceiro_Unico = d.HC_CPF_CNPJ_Codigo_Parceiro_Unico__c\nwhere \n  b.id is not null\n  or c.id is not null\n  or d.id is not null",
+  "targetName": "Tb_Base_Prospect_OTC291_Filtrada_TMKT",
+  "targetKey": "14B63303-9F4F-4FE5-85B5-96D2929E8120",
+  "targetId": "276ead35-39ac-ec11-a313-48df370ed7f5",
+  "targetDescription": "Público gerado para a campanha e discador",
+  "createdDate": "2022-04-26T05:46:46.69",
+  "modifiedDate": "2022-04-26T06:48:37.047",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 48390,
+  "isFrozen": false
+}

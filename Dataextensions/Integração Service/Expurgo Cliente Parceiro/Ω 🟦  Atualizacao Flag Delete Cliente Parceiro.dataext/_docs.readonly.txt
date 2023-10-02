@@ -1,0 +1,6 @@
+Dataextension name: Atualizacao Flag Delete Cliente Parceiro
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Id                   | Text(50)        | true     | true     |                 |
+| Enviado              | Boolean         | false    | false    |                 |

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "BF2E664A-D625-47D5-B3D0-0EB0B04ACD19"
+  ],
+  "Name": [
+    "Outros_DIV04_SUB03"
+  ]
+}

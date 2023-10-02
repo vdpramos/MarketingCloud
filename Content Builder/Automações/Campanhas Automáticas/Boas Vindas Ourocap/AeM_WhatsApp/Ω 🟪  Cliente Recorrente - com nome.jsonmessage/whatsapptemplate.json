@@ -1,0 +1,147 @@
+{
+  "display:message:format": "text",
+  "display:languages:content": {
+    "pT_BR": {
+      "display:components": [
+        "message"
+      ],
+      "display:message": "*Parabéns pela compra de mais um Ourocap!* 🎉\n\n${1}, estamos felizes em ter você como nosso cliente! 😍\n\n➡️ Para maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+      "display:message:parameters": {
+        "1": {
+          "display:argument:name": "1",
+          "display:argument:format": "text",
+          "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+        }
+      }
+    }
+  },
+  "channel": "whatsapptemplate",
+  "showTemplatePicker": false,
+  "templateName": "boas_vindas_cliente_recorrente_comnome_0800",
+  "collapsedPanels": [],
+  "display:lang": "PT_BR",
+  "stack": "S11",
+  "display:components": [
+    "message"
+  ],
+  "display:message": "*Parabéns pela compra de mais um Ourocap!* 🎉\n\n${1}, estamos felizes em ter você como nosso cliente! 😍\n\n➡️ Para maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+  "currentColumn": 0,
+  "selectedTemplate": {
+    "display:components": [
+      "message"
+    ],
+    "display:message": "*Parabéns pela compra de mais um Ourocap!* 🎉\n\n${1}, estamos felizes em ter você como nosso cliente! 😍\n\n➡️ Para maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+    "display:message:parameters": {
+      "1": {
+        "display:argument:name": "1",
+        "display:argument:format": "text",
+        "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+      }
+    }
+  },
+  "display:message:parameters": {
+    "1": {
+      "display:argument:name": "1",
+      "display:argument:format": "text",
+      "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+    }
+  },
+  "template": {
+    "modifiedBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "customerKey": "55fd25b8-9a6f-40f6-8270-c6baee6dc62c",
+    "availableViews": [
+      "whatsAppTemplate"
+    ],
+    "model": {
+      "id": 235,
+      "fileExtension": "",
+      "name": "JSON Message Template",
+      "key": "jsonmessagetemplate",
+      "parentAssetTypeID": 4,
+      "createdDate": "2020-06-29T12:25:11-06:00",
+      "modifiedDate": "2020-06-29T12:25:11-06:00",
+      "isCDNPublishable": false
+    },
+    "assetType": {
+      "id": 235,
+      "name": "jsonmessagetemplate",
+      "displayName": "jsonmessagetemplate"
+    },
+    "name": "WHATSAPP-boas_vindas_cliente_recorrente_comnome_0800",
+    "thumbnail": {
+      "thumbnailUrl": "/v1/assets/78465/thumbnail"
+    },
+    "views": {
+      "whatsAppTemplate": {
+        "content": "",
+        "meta": {
+          "options": {
+            "customBlockData": {
+              "display:languages:content": {
+                "pT_BR": {
+                  "display:components": [
+                    "message"
+                  ],
+                  "display:message": "*Parabéns pela compra de mais um Ourocap!* 🎉\n\n${1}, estamos felizes em ter você como nosso cliente! 😍\n\n➡️ Para maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+                  "display:message:parameters": {
+                    "1": {
+                      "display:argument:name": "1",
+                      "display:argument:format": "text",
+                      "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+                    }
+                  }
+                }
+              },
+              "channel": "WHATSAPP",
+              "templateName": "boas_vindas_cliente_recorrente_comnome_0800",
+              "display:lang": "PT_BR",
+              "display:languages:approved": [
+                "PT_BR"
+              ],
+              "template": "template",
+              "containerId": "106212288893473",
+              "category": "PAYMENT_UPDATE"
+            }
+          }
+        },
+        "modelVersion": 2
+      }
+    },
+    "modelVersion": 2,
+    "status": {
+      "id": 1,
+      "name": "Draft"
+    },
+    "owner": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "memberId": 514002572,
+    "createdDate": "2022-10-28T15:36:22-06:00",
+    "modifiedDate": "2022-10-28T15:36:22-06:00",
+    "objectID": "16401025-81c0-4988-82c9-002301d6f832",
+    "id": 78465,
+    "enterpriseId": 514002572,
+    "category": {
+      "id": 1942,
+      "name": "Content Builder",
+      "parentId": 0
+    },
+    "createdBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    }
+  },
+  "contents": [],
+  "uncheckedPanels": [],
+  "category": "PAYMENT_UPDATE"
+}

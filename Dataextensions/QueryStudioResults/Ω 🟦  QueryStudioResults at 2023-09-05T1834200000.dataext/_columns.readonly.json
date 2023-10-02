@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "RESULTADO",
+    "FieldType": "Text",
+    "ObjectID": "222b1df7-7375-458f-9fb1-bea3f90fb456",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "COUNT",
+    "FieldType": "Text",
+    "ObjectID": "43e0c4b0-4168-4d2f-a8b1-2ab896f52bbe",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

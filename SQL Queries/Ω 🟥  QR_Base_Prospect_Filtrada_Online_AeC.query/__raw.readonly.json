@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "0819f7e0-2e5f-4546-b4d0-37bd3a176942",
+  "name": "QR_Base_Prospect_Filtrada_Online_AeC",
+  "key": "0819F7E0-2E5F-4546-B4D0-37BD3A176942",
+  "description": "",
+  "queryText": "SELECT\n  A.*,\n  A.CPF_Codigo_Parceiro as CPF_Codigo_Parceiro_Unico,\n  row_number() over(order by a.cpf) as row\nFROM Tb_Base_Prospect_OTC291_Online_Tratada_AeC A\nLEFT OUTER JOIN ( \n  SELECT\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\n  FROM  Tb_Base_Prospect_ComOTC_Online_Filtrada_AeC ENV\n  LEFT JOIN Tb_Base_Prospect_OTC291_Online_Tratada_AeC RET ON ENV.CPF = RET.CPF\n  WHERE RET.CPF IS NULL\n) B ON 1 = 1\nWHERE B.CPFS_FALTANDO_NO_OTC = 0 /* SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 */\n  /* VALIDAÇÕES POR CONTATO DO OTC */\n  AND A.CODIGO_RNA = '000'\n  AND A.ALTA_RENDA = 0\n\n\n\n\n\n\n\n\n\n\n\n",
+  "targetName": "Tb_Base_Prospect_OTC291_Online_Filtrada_AeC",
+  "targetKey": "41C2C2DC-727A-4E63-B458-D06331F312F1",
+  "targetId": "125c4b0d-661b-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-27T13:44:11.167",
+  "modifiedDate": "2023-08-28T08:52:11.617",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

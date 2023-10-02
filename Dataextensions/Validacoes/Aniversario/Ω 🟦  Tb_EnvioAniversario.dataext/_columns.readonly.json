@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "f9d04eba-2e62-4cc4-9a47-85477003c0e8",
+    "MaxLength": "200",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Email",
+    "FieldType": "EmailAddress",
+    "ObjectID": "fdf05295-08f1-49c5-a99e-4cb1b357158f",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Celular",
+    "FieldType": "Phone",
+    "ObjectID": "7ad70777-1386-4d8b-8956-1454dbe3ac32",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Locale",
+    "FieldType": "Locale",
+    "ObjectID": "8fe98678-5e07-4261-873e-558b35457854",
+    "MaxLength": "5",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Id_Contato",
+    "FieldType": "Text",
+    "ObjectID": "8af0406f-74cf-43a6-bf9e-584cd54b537e",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  }
+]

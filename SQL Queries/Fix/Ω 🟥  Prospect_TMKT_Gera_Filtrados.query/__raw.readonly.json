@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "227c3a49-d70f-44cb-ad8b-d6707c04fb62",
+  "name": "Prospect_TMKT_Gera_Filtrados",
+  "key": "ca7189ef-92e3-46f4-85f4-0e502c04651b",
+  "description": "Gera novamente os filtrados apenas com base nos que foram retornados pelo OTC291",
+  "queryText": "SELECT\n  B.*\nFROM TB_BASE_PROSPECT_COMOTC_TRATADA_TMKT B\ninner join Tb_Base_OTC291_Tratada otc291 on b.cpf = otc291.cpf\nWHERE\n    b.IDADE_VALIDA = 1\n  AND b.CONTA_CORRENTE = 1\n  /* AND QUARENTENA = 0  */\n  AND b.CONSELHEIRO = 0 \n  /* AND CLIENTE = 0 */\n  /* AND VALIDA_RNA = 1 */\n  AND b.CEP_VALIDO = 1\n  AND b.NAO_IMPORTUNE = 0\n",
+  "targetName": "Tb_Base_Prospect_ComOTC_Filtrada_TMKT",
+  "targetKey": "36796715-88ED-4CE6-A59E-C599DFB468B3",
+  "targetId": "ed2a6cb0-3a0b-ec11-a30b-48df370eabe4",
+  "targetDescription": "Contatos filtrados para o envio do OTC290",
+  "createdDate": "2022-08-26T21:30:16.11",
+  "modifiedDate": "2022-08-26T21:30:16.11",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 48390,
+  "isFrozen": false
+}

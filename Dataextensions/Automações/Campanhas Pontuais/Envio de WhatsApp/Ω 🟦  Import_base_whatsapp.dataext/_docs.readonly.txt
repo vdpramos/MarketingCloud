@@ -1,0 +1,6 @@
+Dataextension name: Import_base_whatsapp
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome                 | Text(300)       | true     | false    |                 |
+| Telefone             | Text(50)        | true     | false    |                 |

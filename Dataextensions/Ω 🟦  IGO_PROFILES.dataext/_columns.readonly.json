@@ -1,0 +1,167 @@
+[
+  {
+    "Name": "user_id",
+    "FieldType": "Text",
+    "ObjectID": "826b749c-47b2-4046-a45f-e317724db66d",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "email",
+    "FieldType": "Text",
+    "ObjectID": "c79c3762-ab72-47a4-a490-03f7e382f7b5",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Value_1",
+    "FieldType": "Text",
+    "ObjectID": "e4e862b0-6912-41ef-9544-2ce5d4d0603c",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Value_2",
+    "FieldType": "Text",
+    "ObjectID": "8063d09b-a17b-4325-92a4-a4e4c6ae1535",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Value_3",
+    "FieldType": "Text",
+    "ObjectID": "cfdc7198-239f-4d18-b304-a765f912a905",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "Value_4",
+    "FieldType": "Text",
+    "ObjectID": "b7e502fe-1251-4653-b365-98a113793b27",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "Value_5",
+    "FieldType": "Text",
+    "ObjectID": "ea1b6bd2-4fba-4904-8f0e-012f5c3d706e",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "Attribute_1",
+    "FieldType": "Text",
+    "ObjectID": "12fb447e-abbe-4414-837b-fdff806b4626",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "Attribute_2",
+    "FieldType": "Text",
+    "ObjectID": "245bae51-49a5-4a07-95f5-96879716ace2",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "Attribute_3",
+    "FieldType": "Text",
+    "ObjectID": "4ed3037d-7cf7-4569-b1f1-80bc28e8ba11",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "Attribute_4",
+    "FieldType": "Text",
+    "ObjectID": "ab5e6cb1-4fda-4453-8574-0504a37add86",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "Attribute_5",
+    "FieldType": "Text",
+    "ObjectID": "eb794611-9b0f-4750-86a5-1075b1470e79",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "city",
+    "FieldType": "Text",
+    "ObjectID": "04d73774-adb1-4bb1-8090-29913d834dc8",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "region",
+    "FieldType": "Text",
+    "ObjectID": "8dd165db-e93b-43a0-b565-8166c09cd632",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 14
+  },
+  {
+    "Name": "country",
+    "FieldType": "Text",
+    "ObjectID": "20b6549d-dd66-4690-86df-99be7e1da7e6",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 15
+  }
+]

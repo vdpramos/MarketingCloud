@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "fb5a57b6-ec68-4f9b-918a-cd072e0584ef",
+  "name": "PropostasComPedidoVenda",
+  "key": "FB5A57B6-EC68-4F9B-918A-CD072E0584EF",
+  "description": "",
+  "queryText": "SELECT vp.id_proposta, vp.id_plano, o.id as id_oportunidade\r\nFROM ValidaProposta vp\r\ninner join hc_titulo__c_salesforce t\r\n    on t.hc_proposta__c = vp.id_proposta\r\ninner join opportunity_salesforce o\r\n    on o.id = t.HC_Pedido_de_Venda__c\r\nwhere o.id is not null",
+  "targetName": "PropostasComOportunidades",
+  "targetKey": "F7C67264-A020-4D30-9F1F-53CFABBBAD6D",
+  "targetId": "424d9f42-2cfa-ed11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-05-24T06:23:18.953",
+  "modifiedDate": "2023-05-24T06:23:18.953",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

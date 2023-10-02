@@ -1,0 +1,31 @@
+Dataextension name: Tb_Base_Duplo_Sim_SemOTC_Disparo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | false    | false    |                 |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Idade                | Number          | false    | false    |                 |
+| Dt_Nascimento        | Date            | false    | false    |                 |
+| Sexo                 | Text(10)        | false    | false    |                 |
+| Tipo_Pessoa          | Text(20)        | false    | false    |                 |
+| Id_Campanha          | Text(50)        | false    | false    |                 |
+| Id                   | Text(50)        | true     | true     |                 |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |
+| Id_Cliente           | Text(50)        | false    | false    |                 |
+| HC_Contratacao__c    | Date            | false    | false    |                 |
+| Dt_Limite            | Date            | false    | false    |                 |
+| Dt_Ult_Execucao      | Date            | false    | false    |                 |
+| Dias_Antecedencia    | Text(50)        | false    | false    |                 |
+| HC_FORMATO__C        | Text(50)        | false    | false    |                 |
+| HC_FORNECEDOR__C     | Text(50)        | false    | false    |                 |
+| NUMERO_CELULAR_ATIVO | Phone           | false    | false    |                 |
+| DATA_DISPARO         | Date            | false    | false    |                 |
+| LOCALE               | Locale          | false    | false    |                 |
+| HC_Data_da_compra__c | Date            | false    | false    |                 |
+| HC_Origem_da_Venda__c | Text(50)        | false    | false    |                 |
+| VALIDA_CELULAR_ATIVO | Boolean         | false    | false    |                 |
+| VALIDA_DATA_DISPARO  | Boolean         | false    | false    |                 |
+| Data_Proxima_Execucao | Date            | false    | false    |                 |
+| ID_PROPOSTA          | Text(20)        | false    | false    |                 |
+| Data_da_Venda        | Date            | false    | false    |                 |

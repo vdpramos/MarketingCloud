@@ -1,0 +1,13 @@
+Dataextension name: ATM_IsNotActive
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| SubscriberID         | Number          | false    | false    |                 |
+| DateUndeliverable    | Date            | false    | false    |                 |
+| DateUnsubscribed     | Date            | false    | false    |                 |
+| Domain               | Text(50)        | false    | false    |                 |
+| EmailAddress         | EmailAddress    | false    | false    |                 |
+| BounceCount          | Number          | false    | false    |                 |
+| SubscriberKey        | Text(50)        | false    | false    |                 |
+| SubscriberType       | Text(50)        | false    | false    |                 |
+| Status               | Text(50)        | false    | false    |                 |

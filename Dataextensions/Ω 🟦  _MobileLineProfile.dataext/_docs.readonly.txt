@@ -1,0 +1,10 @@
+Dataextension name: _MobileLineProfile
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| AddressId            | Text(100)       | true     | false    |                 |
+| Profile              | Text(-1)        | true     | false    |                 |
+| CreatedDate          | Date            | true     | false    |                 |
+| CreatedBy            | Text            | true     | false    |                 |
+| ModifiedDate         | Date            | false    | false    |                 |
+| ModifiedBy           | Text            | false    | false    |                 |

@@ -1,0 +1,5 @@
+Dataextension name: Flag_Fim_de_Plano_Ourocap_PU
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| hora                 | Boolean         | false    | false    |                 |

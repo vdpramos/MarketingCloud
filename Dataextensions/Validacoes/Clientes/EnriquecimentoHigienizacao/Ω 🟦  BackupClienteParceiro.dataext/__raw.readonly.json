@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "0CFD4A7F-F36E-4E9A-ADDF-C3BB7D43FFEF"
+  ],
+  "Name": [
+    "BackupClienteParceiro"
+  ]
+}

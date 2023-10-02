@@ -1,0 +1,6 @@
+Dataextension name: Base_envio_SMS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Telefone             | Text(50)        | false    | false    |                 |

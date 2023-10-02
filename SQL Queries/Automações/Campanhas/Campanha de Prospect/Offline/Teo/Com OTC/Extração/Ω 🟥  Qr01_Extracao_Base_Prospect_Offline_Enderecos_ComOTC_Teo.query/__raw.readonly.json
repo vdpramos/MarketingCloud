@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ce8bf0e1-7a51-4352-8c0d-1f899e782dc4",
+  "name": "Qr01_Extracao_Base_Prospect_Offline_Enderecos_ComOTC_Teo",
+  "key": "8aee8d62-4ba1-420d-ba66-1e421019cada",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  A.CPF,\n  '' AS CNPJ,\n  B.CEP\nFROM\n  TB_BASE_PROSPECT_OTC291_FILTRADA_TEO A \n  INNER JOIN\n    TB_BASE_PROSPECT_COMOTC_TRATADA_TEO B \n    ON A.CPF = RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, B.CPF), 11)\n    INNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce C ON A.CPF = C.CPF_CNPJ_Cliente__c",
+  "targetName": "Tb_Base_Prospect_Offline_Enderecos_ComOTC_Teo",
+  "targetKey": "C8F4DA33-5F79-45F4-A49E-7371A1482494",
+  "targetId": "2251e470-8170-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-16T12:50:34.747",
+  "modifiedDate": "2022-03-24T15:18:29.117",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29379,
+  "isFrozen": false
+}

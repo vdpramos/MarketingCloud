@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "4FFF0CB9-49E2-47F5-A44D-B710D6A87318"
+  ],
+  "Name": [
+    "Aviso_De_Pagamento_OTC291_Filtrada"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "555bf7e2-f325-401a-97f2-c43fad4ee9f8",
+  "name": "Qr01_Base_Ex-Cliente_ComOTC_Trata_CxP_NeoBpo",
+  "key": "e24cece6-6fb6-486f-af09-969c7d97f667",
+  "description": "",
+  "queryText": "SELECT CASE WHEN C.HC_SITUACAO__C = 'Ativo' THEN 1 ELSE 0 END AS Possui_Titulo_Ativo,\n       CASE WHEN DATEDIFF(DD,C.HC_CONTRATACAO__C, GETDATE()) <= 30 THEN 1 ELSE 0 END AS Compra_Utimos_30_Dias,\n        B.ID\nFROM Tb_Base_Ex_Cliente_ComOTC_NeoBpo B\nleft JOIN HC_TITULO__C_SALESFORCE C ON B.ID_CLIENTE_PARCEIRO = C.HC_CLIENTE_X_PARCEIRO__C\n",
+  "targetName": "Tb_Base_Ex_Cliente_ComOTC_NeoBpo",
+  "targetKey": "C4551412-D197-455C-927D-442DE33B36D0",
+  "targetId": "069fcd40-ce81-eb11-a2fd-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2021-03-10T12:38:53.75",
+  "modifiedDate": "2023-06-06T13:35:30.357",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 30771,
+  "isFrozen": false
+}

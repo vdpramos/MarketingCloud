@@ -1,0 +1,178 @@
+[
+  {
+    "Name": "NOMECOMPLETO",
+    "FieldType": "Text",
+    "ObjectID": "081acea7-937b-4e94-be74-aae174f735bc",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "NOMEALERTA",
+    "FieldType": "Text",
+    "ObjectID": "b78ee98c-548e-40f0-91f9-5cf2087ea2cd",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "EMAIL",
+    "FieldType": "Text",
+    "ObjectID": "9b2d3149-e93e-4d86-8542-32dc2db65cbc",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "TELEFONE",
+    "FieldType": "Text",
+    "ObjectID": "0fdba8c2-a8ce-4de8-ba62-8481930b8e96",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "GTALK",
+    "FieldType": "Text",
+    "ObjectID": "6828b9f2-975a-4b86-b71d-92eea17ea0a0",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "FACEBOOK",
+    "FieldType": "Text",
+    "ObjectID": "c36efca9-07b4-4ac5-89e0-db17c28d4c22",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "TWITTER",
+    "FieldType": "Text",
+    "ObjectID": "696a69bc-f5ad-4091-8881-3e8026a462b0",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "JABBER",
+    "FieldType": "Text",
+    "ObjectID": "f9a615f7-892a-40fd-9edc-b57321febe9b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "PIN",
+    "FieldType": "Text",
+    "ObjectID": "03436b54-d851-4ae0-bf6f-c1c1253bf7ed",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "TAG",
+    "FieldType": "Text",
+    "ObjectID": "1cb5c50b-a48a-4607-981f-d11e6f25b47d",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "PRIMEIRO_NOME",
+    "FieldType": "Text",
+    "ObjectID": "e02ea298-619e-476c-a453-32fcd39ddacc",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "7cc63a07-81e0-463e-8190-41194fa9a218",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "ESTADO",
+    "FieldType": "Text",
+    "ObjectID": "8dcf068f-ba6c-495b-b916-662caa239555",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "SIT_CAD",
+    "FieldType": "Text",
+    "ObjectID": "e7f2d5ea-8293-4f5c-b9c7-9696b317a840",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "FLAG",
+    "FieldType": "Text",
+    "ObjectID": "ff849de7-dd33-4638-b92c-872e91fe156b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 14
+  },
+  {
+    "Name": "MENSAGEM",
+    "FieldType": "Text",
+    "ObjectID": "c5a1790e-4872-49b3-bf01-d8187f3b1404",
+    "MaxLength": "1000",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 15
+  }
+]

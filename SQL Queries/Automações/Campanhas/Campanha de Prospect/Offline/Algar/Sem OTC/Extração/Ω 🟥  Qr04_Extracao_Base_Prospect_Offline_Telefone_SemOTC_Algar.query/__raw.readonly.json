@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a5cb6904-e548-4e36-9b73-08cbcff16d53",
+  "name": "Qr04_Extracao_Base_Prospect_Offline_Telefone_SemOTC_Algar",
+  "key": "008b8a49-dc9f-4ab4-86ea-11a9c3dd43dd",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  CPF,\n   '' AS CNPJ,\n  DDD_01 AS DDD,\n  TEL_01 AS TELEFONE\nFROM\n  TB_BASE_PROSPECT_SEMOTC_FILTRADA_ALGAR\nWHERE\n    LEN(TEL_01) >= 8\nAND LEN(DDD_01) = 2\nUNION ALL\nSELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  CPF,\n   '' AS CNPJ,\n  DDD_02 AS DDD,\n  TEL_02 AS TELEFONE\nFROM\n  TB_BASE_PROSPECT_SEMOTC_FILTRADA_ALGAR\nWHERE\n    LEN(TEL_02) >= 8\nAND LEN(DDD_02) = 2\nUNION ALL\nSELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  CPF,\n   '' AS CNPJ,\n  DDD_03 AS DDD,\n  TEL_03 AS TELEFONE\nFROM\n  TB_BASE_PROSPECT_SEMOTC_FILTRADA_ALGAR\nWHERE\n    LEN(TEL_03) >= 8\nAND LEN(DDD_03) = 2\nUNION ALL\nSELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  CPF,\n   '' AS CNPJ,\n  DDD_04 AS DDD,\n  TEL_04 AS TELEFONE\nFROM\n  TB_BASE_PROSPECT_SEMOTC_FILTRADA_ALGAR\nWHERE\n    LEN(TEL_04) >= 8\nAND LEN(DDD_04) = 2\nUNION ALL\nSELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  CPF,\n   '' AS CNPJ,\n  DDD_05 AS DDD,\n  TEL_05 AS TELEFONE\nFROM\n  TB_BASE_PROSPECT_SEMOTC_FILTRADA_ALGAR\nWHERE\n    LEN(TEL_05) >= 8\nAND LEN(DDD_05) = 2",
+  "targetName": "Tb_Base_Prospect_Offline_Telefones_SemOTC_Algar",
+  "targetKey": "C5F5683F-80D9-40ED-9391-431E69FF2412",
+  "targetId": "f971680d-7970-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-01-27T16:47:29.68",
+  "modifiedDate": "2021-03-03T14:47:01.087",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29376,
+  "isFrozen": false
+}

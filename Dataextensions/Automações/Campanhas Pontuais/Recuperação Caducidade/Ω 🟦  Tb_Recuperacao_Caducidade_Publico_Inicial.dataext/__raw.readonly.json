@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "EDB52CFC-F74D-4D07-823D-0627FCF59FF3"
+  ],
+  "Name": [
+    "Tb_Recuperacao_Caducidade_Publico_Inicial"
+  ]
+}

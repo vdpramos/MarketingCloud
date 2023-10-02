@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6fbe5701-d097-4f1c-84cb-81374ca19800",
+  "name": "Qr_Nome_Produto_Boas_Vindas_Aniversario_Caracteristicas",
+  "key": "72dc7e42-169c-411e-b748-df27f0dcc203",
+  "description": "",
+  "queryText": "select\r\n  ID_TITULO,\r\n  CPF_CNPJ,\r\n  prd.Name as Nome_Produto\r\nfrom Tb_Boas_Vindas_Aniversario_Caracteristicas_Titulos\r\ninner join HC_Titulo__c_Salesforce tit on tit.Id = ID_TITULO\r\ninner join HC_Produto__c_Salesforce prd on tit.HC_produtoRelacionado__c = prd.Id",
+  "targetName": "Tb_Boas_Vindas_Aniversario_Caracteristicas_Titulos",
+  "targetKey": "D351725B-F7BA-4D64-81A9-6B11541159FD",
+  "targetId": "93e1bb81-c23d-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Titulos para a comunicacao",
+  "createdDate": "2022-09-26T14:06:24.26",
+  "modifiedDate": "2022-09-26T14:06:24.26",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 53595,
+  "isFrozen": false
+}

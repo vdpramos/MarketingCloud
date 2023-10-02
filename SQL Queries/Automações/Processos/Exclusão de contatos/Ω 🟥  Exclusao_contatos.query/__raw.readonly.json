@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "be09df76-be84-49cf-aa28-35e4c0e10653",
+  "name": "Exclusao_contatos",
+  "key": "4380e893-7b08-4818-aa04-70b319a743b5",
+  "description": "",
+  "queryText": "SELECT TOP 1000000\n    a.Subscriberkey\nFROM All_contacts a\nWHERE\n    Subscriberkey NOT IN (SELECT _ContactKey FROM Contact_Salesforce)\n    AND\n    Subscriberkey NOT IN (SELECT Id FROM Contact_Salesforce)",
+  "targetName": "Exclusao_contatos",
+  "targetKey": "B301ECBB-91C7-4390-91BA-69CC479CCEFA",
+  "targetId": "8e7e856f-1a77-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-12-08T11:07:34.893",
+  "modifiedDate": "2023-04-26T10:46:53.79",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 57230,
+  "isFrozen": false
+}

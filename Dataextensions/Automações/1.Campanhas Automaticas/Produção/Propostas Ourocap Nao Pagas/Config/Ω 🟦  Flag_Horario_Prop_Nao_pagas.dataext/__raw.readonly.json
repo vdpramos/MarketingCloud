@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "A4C24102-A17F-4BFB-B161-907F0EF5F0A5"
+  ],
+  "Name": [
+    "Flag_Horario_Prop_Nao_pagas"
+  ]
+}

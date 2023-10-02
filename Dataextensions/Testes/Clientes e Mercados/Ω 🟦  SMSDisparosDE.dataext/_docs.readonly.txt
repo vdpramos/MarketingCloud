@@ -1,0 +1,46 @@
+Dataextension name: SMSDisparosDE
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| MobileMessageTrackingID | Number          | false    | false    |                 |
+| EID                  | Number          | false    | false    |                 |
+| MID                  | Number          | false    | false    |                 |
+| MessageID            | Number          | false    | false    |                 |
+| KeywordID            | Text(50)        | false    | false    |                 |
+| CodeID               | Text(50)        | false    | false    |                 |
+| ConversationID       | Text(50)        | false    | false    |                 |
+| ConversationStateID  | Text(50)        | false    | false    |                 |
+| CampaignID           | Number          | false    | false    |                 |
+| Sent                 | Boolean         | false    | false    |                 |
+| Delivered            | Boolean         | false    | false    |                 |
+| Undelivered          | Boolean         | false    | false    |                 |
+| Outbound             | Boolean         | false    | false    |                 |
+| Inbound              | Boolean         | false    | false    |                 |
+| CreateDateTime       | Date            | false    | false    |                 |
+| ModifiedDateTime     | Date            | false    | false    |                 |
+| ActionDateTime       | Date            | false    | false    |                 |
+| MessageText          | Text(160)       | false    | false    |                 |
+| IsTest               | Boolean         | false    | false    |                 |
+| MobileMessageRecurrenceID | Number          | false    | false    |                 |
+| ResponseToMobileMessageTrackingID | Number          | false    | false    |                 |
+| IsValid              | Boolean         | false    | false    |                 |
+| InvalidationCode     | Number          | false    | false    |                 |
+| SendID               | Number          | false    | false    |                 |
+| SendSplitID          | Number          | false    | false    |                 |
+| SendSegmentID        | Number          | false    | false    |                 |
+| SendJobID            | Number          | false    | false    |                 |
+| SendGroupID          | Number          | false    | false    |                 |
+| SendPersonID         | Number          | false    | false    |                 |
+| SubscriberID         | Number          | false    | false    |                 |
+| SubscriberKey        | Text(250)       | false    | false    |                 |
+| SMSStandardStatusCodeId | Number          | false    | false    |                 |
+| Description          | Text(50)        | false    | false    |                 |
+| Name                 | Text(200)       | false    | false    |                 |
+| ShortCode            | Text(50)        | false    | false    |                 |
+| SharedKeyword        | Text(50)        | false    | false    |                 |
+| Ordinal              | Number          | false    | false    |                 |
+| FromName             | Text(50)        | false    | false    |                 |
+| JBActivityID         | Text(50)        | false    | false    |                 |
+| JBDefinitionID       | Text(50)        | false    | false    |                 |
+| CPF                  | Text(15)        | false    | false    |                 |
+| Mobile               | Text(50)        | false    | false    |                 |

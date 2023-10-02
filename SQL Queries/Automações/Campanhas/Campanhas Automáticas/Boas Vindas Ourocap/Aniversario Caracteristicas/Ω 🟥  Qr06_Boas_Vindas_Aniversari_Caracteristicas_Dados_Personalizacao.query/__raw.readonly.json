@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3ece3850-1195-4de7-8f0d-3f5c68c8d9ad",
+  "name": "Qr06_Boas_Vindas_Aniversari_Caracteristicas_Dados_Personalizacao",
+  "key": "b314ba6a-e94a-4d41-8780-0d9950209db8",
+  "description": "",
+  "queryText": "SELECT \n\tB.CPF_CNPJ,\n\tB.ID_TITULO,\n\tT.HC_Serie__c AS SERIE_DO_TITULO,\n\tT.HC_Inicio__c AS INICIO,\n\tT.HC_PLANO__C AS PLANO_DO_TITULO,\n\tT.HC_VALOR_DA_PARCELA__C AS VALOR_PARCELA,\n\tT.NAME,\n\tT.HC_FIM_PREVISTO__C AS FIM_PREVISTO,\n\tT.HC_NUMERO_DA_SORTE__C AS NUMERO_DA_SORTE\nFROM \tTb_Boas_Vindas_Aniversario_Clientes_E_Titulos_Filtro A\nINNER JOIN Tb_Boas_Vindas_Aniversario_Clientes_E_Titulos B ON A.CPF_CNPJ = B.CPF_CNPJ\nINNER JOIN HC_TITULO__C_SALESFORCE T WITH (NOLOCK) ON B.ID_TITULO = T.ID",
+  "targetName": "Tb_Boas_Vindas_Aniversario_Caracteristicas_Titulos",
+  "targetKey": "D351725B-F7BA-4D64-81A9-6B11541159FD",
+  "targetId": "93e1bb81-c23d-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Titulos para a comunicacao",
+  "createdDate": "2022-09-26T14:02:59.317",
+  "modifiedDate": "2023-03-14T07:30:03.17",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 53595,
+  "isFrozen": false
+}

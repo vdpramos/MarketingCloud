@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "f0e87684-cbc8-47a4-9227-62e77a5643a4",
+  "name": "Qr02_Boas_Vindas_Caracteristicas_Ourocap_Trata_Titulos_Ativos",
+  "key": "d32c5bcd-a220-4f61-82c4-18663bbb1cfa",
+  "description": "Titulos ativos para montar perfil de cliente novo, recuperado, recorrente",
+  "queryText": "SELECT\r\n\tB.CPF_CNPJ,\r\n\tB.Numero_do_Titulo,\r\n\tB.Serie_do_Titulo,\r\n\tB.Plano_do_Titulo,\r\n\tB.Id_Titulo,\r\n\tSUM(CASE WHEN T.HC_SITUACAO__C = 'Ativo' THEN 1 ELSE 0 END) AS QUANTIDADE_TITULOS_ANTERIORES_ATIVOS,\r\n\tSUM(CASE WHEN T.HC_SITUACAO__C IS NULL OR T.HC_SITUACAO__C != 'Ativo' THEN 1 ELSE 0 END) AS QUANTIDADE_TITULOS_ANTERIORES_INATIVOS\r\nFROM TB_BOAS_VINDAS_OUROCAP_CLIENTES_E_TITULOS B\r\nINNER JOIN CAMPAIGN_SALESFORCE CS ON CS.ID = B.ID_CAMPANHA\r\nINNER JOIN HC_TITULO__C_SALESFORCE T ON T.HC_CLIENTE_X_PARCEIRO__C = B.ID_CLIENTE_PARCEIRO\r\nWHERE\r\n\tT.HC_CONTRATACAO__C < CS.HC_DATA_INICIAL_DE_COMPRA__C\r\n\t/* PARCEIRO TCBB PARA OUROCAP */\r\n\tAND T.HC_CODIGO_DO_PARCEIRO_NA_ORIGEM__C = 'TCBB'\r\nGROUP BY B.CPF_CNPJ,\r\n\tB.Numero_do_Titulo,\r\n\tB.Serie_do_Titulo,\r\n\tB.Plano_do_Titulo,\r\n\tB.Id_Titulo\r\n",
+  "targetName": "TB_BOAS_VINDAS_OUROCAP_CLIENTES_E_TITULOS",
+  "targetKey": "C46FB509-F09A-4332-94F6-3AC87D1B5F9B",
+  "targetId": "0b9919fb-713b-ec11-a313-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-11-07T11:48:02.253",
+  "modifiedDate": "2021-11-07T11:48:02.253",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 41120,
+  "isFrozen": false
+}

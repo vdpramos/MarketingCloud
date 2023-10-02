@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b0a6eb1e-1851-4465-b39a-b1c7d919f611",
+  "name": "Atualiza First Name",
+  "key": "B0A6EB1E-1851-4465-B39A-B1C7D919F611",
+  "description": "",
+  "queryText": "select  HC_Tipo_de_Relacionamento__c, \n        accountid,\n        HC_CPF_CNPJ_Cliente__c as HC_CPF_CNPJ__c,\n        substring(name, 1, 10) as firstName, \n        /*substring(name, 1, charindex(' ', name)-1) as firstName*/\n        name\nfrom ClienteUnicoSemContato_Tratado",
+  "targetName": "ContatosImportar_Tratado",
+  "targetKey": "C148F980-65D9-4A98-BDD8-0007F0E3F71B",
+  "targetId": "3e3b8f5e-d5c8-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-21T10:10:02.587",
+  "modifiedDate": "2023-06-06T07:50:53.15",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

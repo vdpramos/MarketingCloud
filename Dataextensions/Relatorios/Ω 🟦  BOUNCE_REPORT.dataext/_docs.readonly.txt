@@ -1,0 +1,22 @@
+Dataextension name: BOUNCE_REPORT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| AccountID            | Number          | true     | false    |                 |
+| OYBAccountID         | Number          | false    | false    |                 |
+| JobID                | Number          | true     | false    |                 |
+| ListID               | Number          | true     | false    |                 |
+| BatchID              | Number          | true     | false    |                 |
+| SubscriberID         | Number          | true     | false    |                 |
+| SubscriberKey        | Text(254)       | true     | true     |                 |
+| EventDate            | Date            | true     | false    |                 |
+| IsUnique             | Boolean         | true     | false    |                 |
+| Domain               | Text(254)       | true     | false    |                 |
+| BounceCategoryID     | Number          | true     | false    |                 |
+| BounceCategory       | Text(254)       | false    | false    |                 |
+| BounceSubcategoryID  | Number          | false    | false    |                 |
+| BounceSubcategory    | Text(254)       | false    | false    |                 |
+| BounceTypeID         | Number          | true     | false    |                 |
+| BounceType           | Text(254)       | false    | false    |                 |
+| TriggererSendDefinitionObjectID | Text(254)       | true     | false    |                 |
+| TriggeredSendCustomerKey | Text(254)       | false    | false    |                 |

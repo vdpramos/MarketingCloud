@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "791A97A9-5110-44C7-BBE1-2069FCF62189"
+  ],
+  "Name": [
+    "HC_Vendas operador_ Diário_Teo"
+  ]
+}

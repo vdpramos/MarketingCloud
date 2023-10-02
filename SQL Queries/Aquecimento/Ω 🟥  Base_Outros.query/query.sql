@@ -1,0 +1,16 @@
+
+SELECT DISTINCT
+Bf.CPF,
+BF.NOME,
+BF.EMAIL,
+BF.EMAIL_VALIDO
+FROM Base_Final BF
+left join Base_Gmail BG ON BF.CPF=BG.CPF
+left join Base_Microsoft BM ON BF.CPF=BM.CPF
+left join Base_Yahoo BYa ON BF.CPF=BYa.CPF
+WHERE
+BG.CPF IS NULL 
+AND 
+BM.CPF IS NULL 
+AND
+BYa.CPF IS NULL 

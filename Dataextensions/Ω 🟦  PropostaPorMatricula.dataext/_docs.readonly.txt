@@ -1,0 +1,15 @@
+Dataextension name: PropostaPorMatricula
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Produto Relacionado  | Text(255)       | false    | false    |                 |
+| Código do Produto    | Text(255)       | true     | true     |                 |
+| Data da Venda        | Text(255)       | false    | false    |                 |
+| Vendedor             | Text(255)       | false    | false    |                 |
+| Valor da Parcela     | Text(255)       | false    | false    |                 |
+| Situação             | Text(255)       | false    | false    |                 |
+| Proposta: Nome da Proposta | Text(255)       | true     | true     |                 |
+| Agendamento          | Text(255)       | false    | false    |                 |
+| Valor total          | Text(255)       | false    | false    |                 |
+| CPF_CNPJ Titular     | Text(255)       | false    | false    |                 |
+| Quantidade           | Text(255)       | false    | false    |                 |

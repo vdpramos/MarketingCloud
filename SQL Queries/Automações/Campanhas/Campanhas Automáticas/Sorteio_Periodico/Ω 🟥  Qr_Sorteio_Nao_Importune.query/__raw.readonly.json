@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "f189155f-c490-4d50-9d1c-e3b8946f176a",
+  "name": "Qr_Sorteio_Nao_Importune",
+  "key": "9d0f1dfb-bdfd-4c66-a8cd-cdb4cdcc46d7",
+  "description": "Verifica quem não deve contactar",
+  "queryText": "SELECT\n\tA.ID,\n\tCASE\n\t  WHEN N.TELEFONE IS NOT NULL AND CMP.HC_VALIDA_NAO_IMPORTUNE__C = 1 THEN 1\n\t  ELSE 0\n\tEND AS NAO_IMPORTUNE\nFROM TB_SORTEIOPERIODICO A\nLEFT JOIN TB_BASE_NAO_IMPORTUNE N ON ISNULL(CELULAR, '00000000000') = LTRIM(RTRIM(N.TELEFONE))\nINNER JOIN CAMPAIGN_SALESFORCE CMP ON CMP.ID = A.ID_CAMPANHA",
+  "targetName": "Tb_SorteioPeriodico",
+  "targetKey": "2AA8BDAF-20B6-4AF9-927D-76428F521D83",
+  "targetId": "ed054452-6af5-eb11-a30d-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2022-05-04T16:15:57.25",
+  "modifiedDate": "2022-06-21T15:54:17.3",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 37898,
+  "isFrozen": false
+}

@@ -1,0 +1,75 @@
+{
+  "id": 31904,
+  "customerKey": "8212b86a-0902-441b-9b95-3ffd825e74e8",
+  "objectID": "9cf327fa-d7e8-4840-a76a-0fe98d3d2526",
+  "contentType": "text/html",
+  "assetType": {
+    "id": 205,
+    "name": "webpage",
+    "displayName": "Web Page"
+  },
+  "version": 1,
+  "name": "rename page",
+  "owner": {
+    "id": 713534430,
+    "email": "lucas.souza@harpiacloud.com.br",
+    "name": "Lucas Souza",
+    "userId": "713534430"
+  },
+  "createdDate": "2021-07-14T11:14:56.82-06:00",
+  "createdBy": {
+    "id": 713534430,
+    "email": "lucas.souza@harpiacloud.com.br",
+    "name": "Lucas Souza",
+    "userId": "713534430"
+  },
+  "modifiedDate": "2021-07-14T11:16:04.15-06:00",
+  "modifiedBy": {
+    "id": 713534430,
+    "email": "lucas.souza@harpiacloud.com.br",
+    "name": "Lucas Souza",
+    "userId": "713534430"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/31904/thumbnail"
+  },
+  "category": {
+    "id": 1942,
+    "name": "Content Builder",
+    "parentId": 0
+  },
+  "meta": {
+    "globalStyles": {
+      "isLocked": false,
+      "body": {
+        "max-width": "1280px"
+      }
+    }
+  },
+  "views": {
+    "html": {
+      "thumbnail": {},
+      "content": "<!DOCTYPE html>\n<html>\n<head>\n <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0\" />\n <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n <style class=\"main_style\">\n.layout-canvas-g { background-color: #FFFFFF; border: none; box-sizing: border-box; padding: 0px; width: 100%; }\n.layout-canvas-g > .header, .layout-canvas-g > .section, .layout-canvas-g > .footer { position: relative; overflow: hidden; width: 100%; overflow-wrap: break-word; }\n.layout-canvas-g > .section { margin: 10px 0px; }\n.layout-canvas-g > .section > .columns { box-sizing: border-box; overflow-wrap: break-word; }\nbody { color: #000000; font-family: Arial; font-size: 12px; margin: 0px auto; max-width: 1280px; }\n@media only screen and (max-width: 480px) {\n  .mobile-hidden { display: none !important; }\n  .responsive-td { width: 100% !important; display: block !important; padding: 0px !important; }\n}\n.layout-canvas-g > .section > .columns { width: 100%; }\n</style>\n\n</head>\n<body>\n<div class=\"layout layout-canvas-g\">\n <div class=\"section\">\n  <div class=\"columns col1\">\n   <div data-type=\"slot\" data-key=\"col1\">\n    eae\n    <script>\n     alert('oi');\n     </script>\n    \n    \n    \n    \n    </div>\n  </div>\n </div>\n</div>\n</body>\n</html>\n",
+      "meta": {},
+      "slots": {
+        "col1": {
+          "design": "<p style=\"font-family:arial;color:#ccc;font-size:11px;text-align:center;vertical-align:middle;font-weight:bold;padding:10px;margin:0;border:#ccc dashed 1px;\">Solte os blocos ou o conteúdo aqui</p>",
+          "maxBlocks": 0,
+          "allowedBlocks": [],
+          "modelVersion": 2
+        }
+      },
+      "modelVersion": 2
+    }
+  },
+  "availableViews": [
+    "html"
+  ],
+  "modelVersion": 2
+}

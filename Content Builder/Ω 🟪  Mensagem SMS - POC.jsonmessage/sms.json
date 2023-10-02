@@ -1,0 +1,17 @@
+{
+  "channel": "sms",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:previewbycodetype": {
+    "locale": "BR",
+    "supportsConcatenation": false
+  },
+  "display:message": "Ola %%NOME_COMPLETO%%. Que bom ter voce conosco!! Ligue ja para Nossa Central e confira novos produtos. Obrigado pela sua parceria! ;-)",
+  "currentColumn": 0,
+  "display:message:display": "Ola %%NOME_COMPLETO%%. Que bom ter voce conosco!! Ligue ja para Nossa Central e confira novos produtos. Obrigado pela sua parceria! ;-)",
+  "template": "sms",
+  "contents": [],
+  "shortLinks": [],
+  "uncheckedPanels": []
+}

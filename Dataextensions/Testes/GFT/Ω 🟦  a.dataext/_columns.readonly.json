@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "12 - Disponibilidade e clareza das informaçõescaracterísticas do produto no momento da contratação",
+    "FieldType": "Text",
+    "ObjectID": "5a840e9a-60a0-4ba8-9f68-c2309f51939b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

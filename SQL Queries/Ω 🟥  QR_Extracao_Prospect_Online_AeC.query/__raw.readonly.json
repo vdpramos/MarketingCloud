@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "10d8ce1e-4aee-4838-97d3-10b2c41c21e4",
+  "name": "QR_Extracao_Prospect_Online_AeC",
+  "key": "10D8CE1E-4AEE-4838-97D3-10B2C41C21E4",
+  "description": "",
+  "queryText": "SELECT COD_PARCEIRO,\n    CPF,\n    CNPJ,\n    NULL AS Id_Cliente,\n    Id_Campanha,\n    IDCP,\n    Id_Contato,\n    replace (replace (replace (replace (TEL_01, '(', ''),')', ''),'-', ''),' ', '') as TEL_01,\n    replace (replace (replace (replace (TEL_02, '(', ''),')', ''),'-', ''),' ', '') as TEL_02,\n    replace (replace (replace (replace (TEL_03, '(', ''),')', ''),'-', ''),' ', '') as TEL_03,\n    replace (replace (replace (replace (TEL_04, '(', ''),')', ''),'-', ''),' ', '') as TEL_04,\n    replace (replace (replace (replace (Telefone5, '(', ''),')', ''),'-', ''),' ', '') as [Telefone Residencial],\n    nome_Cliente\nFROM (SELECT DISTINCT\n    'TCBB' AS COD_PARCEIRO,\n    A.CPF,\n    '' AS CNPJ,\n    A.Id_Campanha,\n    E.Id as IDCP,\n    C.ID as Id_Contato,\n    A.TEL_RESIDENCIAL  as TEL_01,\n    A.TEL_COMERCIAL as TEL_02,\n    A.Celular1 as TEL_03,\n    A.Celular2 as TEL_04,\n    A.Telefone5,\n    c.name as nome_Cliente,\n    row_number() over (partition by A.CPF order by C.ID desc) AS ROW_ID\n\nFROM \n  Tb_Base_Prospect_OTC291_Online_Filtrada_AeC A \n  INNER JOIN Contact_Salesforce C on C.id = A.id_contato\n  INNER JOIN ACCOUNT_SALESFORCE D on C.AccountId = D.ID\n  INNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce E ON A.CPF = E.CPF_CNPJ_Cliente__c\n  WHERE E.HC_Id_Parceiro_Cap__c = 'TCBB' OR   E.HC_Id_Parceiro_Darwin__c = '1') BASE\nWHERE ROW_ID = 1 \n",
+  "targetName": "Tb_Base_Prospect_Online_Extracao_ComOTC_AeC",
+  "targetKey": "1D324E0A-050B-47EB-B6BF-4653F583DB52",
+  "targetId": "bfc97bac-2315-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-27T14:10:01.113",
+  "modifiedDate": "2023-08-28T12:23:31.587",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

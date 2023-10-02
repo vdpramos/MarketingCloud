@@ -1,0 +1,5 @@
+Dataextension name: ValidaExclusões
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID                   | Text(50)        | false    | false    |                 |

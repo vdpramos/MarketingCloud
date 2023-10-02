@@ -1,0 +1,6 @@
+Dataextension name: Validacao_historico_prospects
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | true     | false    |                 |
+| Data_Campanha        | Date            | true     | false    |                 |

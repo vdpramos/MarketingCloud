@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "1730F49C-7E6E-48AB-8AB1-91511C6036D2"
+  ],
+  "Name": [
+    "Prospect_ComOTC_TMKT_Validacao_Base_2"
+  ]
+}

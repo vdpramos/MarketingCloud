@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "0697E733-6DAD-4F6D-8222-BC30BFD9C988"
+  ],
+  "Name": [
+    "PublicoInicialCampBaixaRenda_1"
+  ]
+}

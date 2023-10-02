@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ccc51f2d-a14c-4b65-bb5e-ca1c33116219",
+  "name": "Informe_Rendimentos_Envio",
+  "key": "CCC51F2D-A14C-4B65-BB5E-CA1C33116219",
+  "description": "",
+  "queryText": "SELECT\r\n    CPF_CNPJ,\r\n    Id_Contato,\r\n    Id_Cliente_Parceiro,\r\n    Nome,\r\n    Data_Nascimento,\r\n    Email,\r\n    Celular,\r\n    MCI,\r\n    Tipo_Carteira,\r\n    Encarteiramento,\r\n        CASE\r\n            WHEN LEN(CPF_CNPJ) = 11 THEN 'PF'\r\n            WHEN LEN(CPF_CNPJ) = 14 THEN 'PJ'\r\n        END AS Tipo_Pessoa\r\nFROM Informe_Rendimentos_OTC291_filtrada",
+  "targetName": "Informe_Rendimentos_Envio",
+  "targetKey": "F39B657B-889B-419E-B550-9E4445D69FA1",
+  "targetId": "2ae1c8a0-61eb-ed11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-05-05T10:32:16.777",
+  "modifiedDate": "2023-06-12T12:42:00.017",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 62051,
+  "isFrozen": false
+}

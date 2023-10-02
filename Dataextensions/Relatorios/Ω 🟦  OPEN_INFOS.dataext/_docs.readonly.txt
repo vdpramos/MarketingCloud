@@ -1,0 +1,9 @@
+Dataextension name: OPEN_INFOS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| EventDate            | Date            | false    | false    |                 |
+| SubscriberID         | Number          | false    | false    |                 |
+| SubscriberKey        | Text(254)       | false    | false    |                 |
+| IsUnique             | Number          | false    | false    |                 |
+| JobID                | Number          | false    | false    |                 |

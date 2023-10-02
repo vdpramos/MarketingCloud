@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "D29F7E40-EFFF-4AD6-B525-3FB64F8C001B"
+  ],
+  "Name": [
+    "PublicoRetornoOTC291CampBaixaRenda"
+  ]
+}

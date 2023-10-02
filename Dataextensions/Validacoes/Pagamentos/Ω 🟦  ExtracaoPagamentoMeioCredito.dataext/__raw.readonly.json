@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "B1D31D86-BE57-4CD3-9F59-37C605059CD3"
+  ],
+  "Name": [
+    "ExtracaoPagamentoMeioCredito"
+  ]
+}

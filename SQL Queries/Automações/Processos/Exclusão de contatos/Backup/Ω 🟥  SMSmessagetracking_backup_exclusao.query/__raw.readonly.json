@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2546ac03-2b3e-4b42-9eea-9eeacb6b9d42",
+  "name": "SMSmessagetracking_backup_exclusao",
+  "key": "f635de87-5a95-4973-ae1c-fe80e2306953",
+  "description": "",
+  "queryText": "SELECT\n    a.SubscriberKey,\n    b.MobileMessageTrackingID,\n    b.EID,\n    b.MID,\n    b.Mobile,\n    b.MessageID,\n    b.KeywordID,\n    b.CodeID,\n    b.ConversationID,\n    b.CampaignID,\n    b.Sent,\n    b.Delivered,\n    b.Undelivered,\n    b.Outbound,\n    b.Inbound,\n    b.CreateDateTime,\n    b.ModifiedDateTime,\n    b.ActionDateTime,\n    b.MessageText,\n    b.IsTest,\n    b.MobileMessageRecurrenceID,\n    b.ResponseToMobileMessageTrackingID,\n    b.IsValid,\n    b.InvalidationCode,\n    b.SendID,\n    b.SendSplitID,\n    b.SendSegmentID,\n    b.SendJobID,\n    b.SendGroupID,\n    b.SendPersonID,\n    b.SubscriberID,\n    b.SMSStandardStatusCodeId,\n    b.Description,\n    b.Name,\n    b.ShortCode,\n    b.SharedKeyword,\n    b.Ordinal,\n    b.FromName,\n    b.JBActivityID,\n    b.JBDefinitionID\nFROM Exclusao_contatos a\n    INNER JOIN _smsmessagetracking b \n        ON a.SubscriberKey = b.SubscriberKey",
+  "targetName": "SMSmessagetracking_backup_exclusao",
+  "targetKey": "B8970320-F8FB-47DE-94BD-2F60E9D68366",
+  "targetId": "f7fef514-2f85-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-12-26T09:40:07.117",
+  "modifiedDate": "2023-04-26T10:45:49.23",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 57312,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7ca86e7f-773d-4e7c-9bd7-c2e82e1374aa",
+  "name": "QR_Recuperacao_Caducidade_Historico",
+  "key": "7CA86E7F-773D-4E7C-9BD7-C2E82E1374AA",
+  "description": "",
+  "queryText": "SELECT \n    Id_Contato,\n    Id_Cliente_Parceiro,\n    Primeiro_Nome AS Nome,\n    Dt_Nascimento_SF AS Data_Nascimento\nFROM Tb_Recuperacao_Caducidade_OTC291_Filtrada\n    ",
+  "targetName": "Tb_Recuperacao_Caducidade_Historico",
+  "targetKey": "9011E4D5-71C2-4589-BFA3-F4FA5C9B86B4",
+  "targetId": "89748ad3-1f0a-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-13T13:32:35.643",
+  "modifiedDate": "2023-06-13T13:36:27.763",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 1930,
+  "isFrozen": false
+}

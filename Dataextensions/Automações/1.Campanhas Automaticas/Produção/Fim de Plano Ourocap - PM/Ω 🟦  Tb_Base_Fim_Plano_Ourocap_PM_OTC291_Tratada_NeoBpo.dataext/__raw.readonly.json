@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "8FB2F699-8B86-4519-BE9F-337E31BEFA8E"
+  ],
+  "Name": [
+    "Tb_Base_Fim_Plano_Ourocap_PM_OTC291_Tratada_NeoBpo"
+  ]
+}

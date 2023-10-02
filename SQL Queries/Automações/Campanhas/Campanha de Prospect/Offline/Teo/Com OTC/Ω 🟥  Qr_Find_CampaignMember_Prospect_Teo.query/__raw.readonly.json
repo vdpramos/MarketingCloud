@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "db9f96b9-4cf8-49c9-a979-7573b73adf73",
+  "name": "Qr_Find_CampaignMember_Prospect_Teo",
+  "key": "d99168af-c6b6-4478-b323-1c55b76f5f50",
+  "description": "Resgata o membro da campanha dos contatos que já perceorrem a jornada para atualização da data",
+  "queryText": "SELECT\n  CON.CPF,\n  CMEM.ID AS ID_MEMBRO_CAMPANHA\nFROM [TB_BASE_PROSPECT_OTC291_FILTRADA_TEO] CON\nLEFT JOIN CAMPAIGNMEMBER_SALESFORCE CMEM ON CMEM.CAMPAIGNID = CON.ID_CAMPANHA \n  AND CMEM.CONTACTID = CON.ID_CONTATO\nWHERE\n  CMEM.ID IS NOT NULL",
+  "targetName": "Tb_Base_Prospect_OTC291_Filtrada_Teo",
+  "targetKey": "819A77E3-D6BF-40AD-8322-DF472C215D43",
+  "targetId": "add54329-b5ab-ec11-a313-48df370ed7f5",
+  "targetDescription": "DE para envio do discador",
+  "createdDate": "2022-04-16T11:13:41.907",
+  "modifiedDate": "2022-04-16T11:13:41.907",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 29371,
+  "isFrozen": false
+}

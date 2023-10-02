@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "53F5DCC5-F001-4E31-B9B3-A932B4E6D11F"
+  ],
+  "Name": [
+    "Tb_Base_Revenda_Ourocap_ComOTC_NeoBpo_vramos"
+  ]
+}

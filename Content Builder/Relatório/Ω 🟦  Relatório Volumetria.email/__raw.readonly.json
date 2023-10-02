@@ -1,0 +1,175 @@
+{
+  "id": 57354,
+  "customerKey": "c3c30b80-2cbb-4e72-9445-e22d4867a005",
+  "objectID": "21caf2b2-3f6e-46dc-892b-8356fcccdd03",
+  "contentType": "application/vnd.etmc.email.Message; kind=paste",
+  "assetType": {
+    "id": 208,
+    "name": "htmlemail",
+    "displayName": "HTML Email"
+  },
+  "fileProperties": {
+    "fileName": "Relatório Volumetria"
+  },
+  "name": "Relatório Volumetria",
+  "description": "",
+  "owner": {
+    "id": 713522330,
+    "email": "walter.gomes@harpiacloud.com.br",
+    "name": "Walter Gomes",
+    "userId": "713522330"
+  },
+  "createdDate": "2022-03-21T07:33:02.73-06:00",
+  "createdBy": {
+    "id": 713522330,
+    "email": "walter.gomes@harpiacloud.com.br",
+    "name": "Walter Gomes",
+    "userId": "713522330"
+  },
+  "modifiedDate": "2022-03-21T08:38:57.543-06:00",
+  "modifiedBy": {
+    "id": 713522330,
+    "email": "walter.gomes@harpiacloud.com.br",
+    "name": "Walter Gomes",
+    "userId": "713522330"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/57354/thumbnail"
+  },
+  "category": {
+    "id": 46995,
+    "name": "Relatório",
+    "parentId": 1942
+  },
+  "views": {
+    "subjectline": {
+      "contentType": "application/vnd.etmc.email.View; kind=subjectline",
+      "content": "Relatório Volumetria",
+      "meta": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "preheader": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "html": {
+      "content": "%%[\n VAR @ANO, @MES, @QTDE_EMAIL, @QTDE_SMS, @QTDE_PUSH, @QTDE_PAGES\n/*****************************************************************************/\n/* Formatar Data */\nSET @DATA = Format(NOW(), \"dd/MM/yyyy\")\n/*****************************************************************************/\n]%%\n<table>\n<tr>\n<th>ANO</th>\n<th>MES</th>\n<th>QTDE TOTAL EMAILS ENVIADOS</th>\n<th>QTDE TOTAL SMS ENVIADOS</th>\n</tr>\n%%[\n/*****************************************************************************/\n/* Consultar dados */\n SET @PRD1NOWS = LOOKUPROWS(\"Volumetria_MC\",\"PRINT\",\"S\")\n IF ROWCOUNT(@PRD1NOWS) > 0 THEN\nFor @dadoscntr=1 to Rowcount(@PRD1NOWS) do\nSET @ANO = Field(Row(@PRD1NOWS, @dadoscntr),\"ANO\")\nSET @MES = Field(Row(@PRD1NOWS, @dadoscntr),\"MES\")\nSET @QTDE_EMAIL = Field(Row(@PRD1NOWS, @dadoscntr),\"QTD_TOTAL_EMAILS\")\nSET @QTDE_SMS = Field(Row(@PRD1NOWS, @dadoscntr),\"QTD_TOTAL_SMS\")\n\n]%%\n<tr>\n<td>%%=v(@ANO)=%%</td>\n<td>%%=v(@MES)=%%</td>\n<td>%%=v(@QTDE_EMAIL)=%%</td>\n<td>%%=v(@QTDE_SMS)=%%</td>\n</tr>\n%%[\nNEXT @dadoscntr\nENDIF\n]%%\n</table>\n\n\n<table bgcolor=\"#FFFFFF\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\">\n                    <tr>\n                        <td valign=\"top\" align=\"center\" width=\"100%\"\n                            style=\"font-family: arial; font-size: 13px; color: #707070; padding: 10px; line-height: 16px;\">\n                            Caso não queira mais receber nossos e-mails, <a href=\"%%unsub_center_url%%\" title=\"\"\n                                style=\" outline: none; border: none; color: #707070; text-decoration: none;\"\n                                target=\"_blank\">clique aqui</a>\n                        </td>\n                      <table cellpadding=\"2\" cellspacing=\"0\" width=\"600\" ID=\"Table5\" Border=0><tr><td><font face=\"verdana\" size=\"1\" color=\"#444444\">Este e-mail foi enviado por: <b>%%Member_Busname%%</b><br>%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%<br><br></font></td></tr></table>\n                    </tr>\n                </table>\n                <!--Text-span -->\n                <custom name=\"opencounter\" type=\"tracking\"/>\n                <!--Spacer-10 -->\n                \n                <!--Spacer-10 -->\n            </td>\n        </tr>\n    </table>\n</body>\n</html>\n                      <a href=\"%%profile_center_url%%\" alias=\"Update Profile\">Update Profile</a>",
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "text": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": "html"
+          }
+        }
+      },
+      "generateFrom": "html",
+      "modelVersion": 2
+    },
+    "viewAsAWebPage": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "subscriptioncenter": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardHTML": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardText": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    }
+  },
+  "availableViews": [
+    "subjectline",
+    "preheader",
+    "html",
+    "text",
+    "viewAsAWebPage",
+    "subscriptioncenter",
+    "forwardHTML",
+    "forwardText"
+  ],
+  "data": {
+    "email": {
+      "options": {
+        "characterEncoding": "utf-8"
+      },
+      "legacy": {
+        "legacyId": 21153,
+        "legacyKey": "c3c30b80-2cbb-4e72-9445-e22d4867a005",
+        "legacyType": "email",
+        "legacyCategoryId": 1944
+      }
+    }
+  },
+  "legacyData": {
+    "legacyId": 21153,
+    "legacyKey": "c3c30b80-2cbb-4e72-9445-e22d4867a005",
+    "legacyType": "email",
+    "legacyCategoryId": 1944
+  },
+  "modelVersion": 2
+}

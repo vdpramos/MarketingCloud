@@ -1,0 +1,22 @@
+Dataextension name: tb_propostas_n_pagas
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| HC_Agendamento__c    | Date            | false    | false    |                 |
+| HC_Chave_CxP_Subscritor__c | Text(255)       | false    | false    |                 |
+| HC_Chave_parceiro__c | Text(255)       | false    | false    |                 |
+| HC_Codigo_do_Parceiro__c | Text(255)       | false    | false    |                 |
+| HC_Codigo_do_Produto__c | Text(50)        | false    | false    |                 |
+| HC_Data_da_Venda__c  | Date            | false    | false    |                 |
+| HC_Forma_de_Credito_Formula__c | Text(255)       | false    | false    |                 |
+| Situação             | Text(255)       | false    | false    |                 |
+| Nome da Proposta     | Text(50)        | false    | false    |                 |
+| Tipo de Cliente      | Text(50)        | false    | false    |                 |
+| Tipo de Pessoa       | Text(50)        | false    | false    |                 |
+| Valor da Parcela     | Text(50)        | false    | false    |                 |
+| Tipo de Venda        | Text(50)        | false    | false    |                 |
+| Produto Relacionamento | Text(50)        | false    | false    |                 |
+| CPF_CNPJ             | Text(255)       | false    | false    |                 |
+| HC_Forma_de_Debito_Formula__c | Text(50)        | false    | false    |                 |
+| Id                   | Text(18)        | false    | false    |                 |
+| HC_Celular_1__c      | Phone           | false    | false    |                 |

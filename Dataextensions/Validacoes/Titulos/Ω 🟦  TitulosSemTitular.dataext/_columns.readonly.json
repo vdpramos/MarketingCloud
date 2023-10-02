@@ -1,0 +1,101 @@
+[
+  {
+    "Name": "id_titulo",
+    "FieldType": "Text",
+    "ObjectID": "aca5b025-ef08-42b9-9db4-12ac4266e28c",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "id_titular",
+    "FieldType": "Text",
+    "ObjectID": "e1c2b750-0665-4c6b-97c9-cdebfdf44a28",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "id_subscritor",
+    "FieldType": "Text",
+    "ObjectID": "ba333f9a-006b-42ca-9896-af6191c12e2d",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "id_clienteParceiro",
+    "FieldType": "Text",
+    "ObjectID": "2baf1a27-ed3b-4920-b91d-d13299300d5c",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "num_titulo",
+    "FieldType": "Text",
+    "ObjectID": "818b99a3-ff37-4be9-afaa-7df99775d7b3",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "serie",
+    "FieldType": "Text",
+    "ObjectID": "ae3e45cf-f77d-4373-806a-959ebaf586f6",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "plano",
+    "FieldType": "Text",
+    "ObjectID": "77c772a2-0154-4ed4-abe9-a983638c3a50",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "origem",
+    "FieldType": "Text",
+    "ObjectID": "84eb31bb-2f92-4168-a7a9-1c85e17fe9b4",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "id_titulo_darwin",
+    "FieldType": "Text",
+    "ObjectID": "b582f882-5ac5-4444-983a-372928f4621b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2dc1e98b-a355-4e5e-8a58-517fb01b037a",
+  "name": "Cliente Renovacao Automatica SQL Query",
+  "key": "2DC1E98B-A355-4E5E-8A58-517FB01B037A",
+  "description": "",
+  "queryText": "SELECT\n    B.HC_Nome_Cliente__c AS Nome,\n    B.HC_CPF_CNPJ__c AS CPF,\n    B.HC_Agencia_1__c AS Agencia,\n    B.HC_Numero_da_Conta_1__c AS Conta,\n    B.HC_Digito_da_Conta_1__c AS DigitoConta,\n    B.HC_Tipo_da_Conta_1__c AS TipoConta,\n    B.HC_Data_de_Nascimento__c AS DataNascimento,\n    B.HC_Genero_do_Cliente__c AS Sexo,\n    B.HC_CEP_Res__c AS CEP,\n    REPLACE(REPLACE(SUBSTRING(B.HC_Celular_1__c, 1, 4), '(', ''), ')', '') AS DDDCelular1,\n    REPLACE(SUBSTRING(B.HC_Celular_1__c, 6, LEN(B.HC_Celular_1__c) - 5), '-', '') AS Celular1,\n    REPLACE(REPLACE(SUBSTRING(B.HC_Celular_2__c, 1, 4), '(', ''), ')', '') AS DDDCelular2,\n    REPLACE(SUBSTRING(B.HC_Celular_2__c, 6, LEN(B.HC_Celular_2__c) - 5), '-', '') AS Celular2,\n    REPLACE(REPLACE(SUBSTRING(B.HC_Celular_3_3__c, 1, 4), '(', ''), ')', '') AS DDDCelular3,\n    REPLACE(SUBSTRING(B.HC_Celular_3_3__c, 6, LEN(B.HC_Celular_3_3__c) - 5), '-', '') AS Celular3,\n    REPLACE(REPLACE(SUBSTRING(B.HC_Telefone_Residencial__c, 1, 4), '(', ''), ')', '') AS DDDFixo1,\n    REPLACE(SUBSTRING(B.HC_Telefone_Residencial__c, 6, LEN(B.HC_Telefone_Residencial__c) - 5), '-', '') AS Fixo1,\n    REPLACE(REPLACE(SUBSTRING(B.HC_Telefone_Comercial__c, 1, 4), '(', ''), ')', '') AS DDDFixo2,\n    REPLACE(SUBSTRING(B.HC_Telefone_Comercial__c, 6, LEN(B.HC_Telefone_Comercial__c) - 5), '-', '') AS Fixo2,\n    REPLACE(REPLACE(SUBSTRING(B.HC_Telefone_Outro__c, 1, 4), '(', ''), ')', '') AS DDDFixo3,\n    REPLACE(SUBSTRING(B.HC_Telefone_Outro__c, 6, LEN(B.HC_Telefone_Outro__c) - 5), '-', '') AS Fixo3\nFROM HC_Relacao_Cliente_Parceiro__c_Salesforce B\nWHERE\n    B.HC_CPF_CNPJ__c IN (SELECT CPF FROM RenovacaoAutomaticaDE)\nAND (B.HC_Id_Parceiro_Cap__c = 'TCBB' OR B.HC_Id_Parceiro_Darwin__c = '1')",
+  "targetName": "ClientesRenovacaoAutomaticaDE",
+  "targetKey": "88F9EACD-C670-4712-B9F8-85BE54746F47",
+  "targetId": "871d601a-8246-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2023-08-29T09:41:38.057",
+  "modifiedDate": "2023-08-29T12:34:40.673",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 65497,
+  "isFrozen": false
+}

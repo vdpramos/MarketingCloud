@@ -1,0 +1,14 @@
+Dataextension name: Tb_Base_Ex_Clientes_Offline_DadosBancarios_ComOTC_TMKT
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Cod_Parceiro         | Text(300)       | false    | false    |                 |
+| CPF                  | Text(300)       | false    | false    |                 |
+| CNPJ                 | Text(300)       | false    | false    |                 |
+| Banco                | Text(300)       | false    | false    |                 |
+| Agencia              | Text(300)       | false    | false    |                 |
+| Digito_Agencia       | Text(300)       | false    | false    |                 |
+| Conta_Corrente       | Text(300)       | false    | false    |                 |
+| Digito_Conta         | Text(300)       | false    | false    |                 |
+| Digito_Agencia_Conta | Text(300)       | false    | false    |                 |
+| Tipo_Conta           | Text(300)       | false    | false    |                 |

@@ -1,0 +1,16 @@
+Dataextension name: IGO_PURCHASES
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Sku                  | Text(256)       | true     | true     |                 |
+| Price                | Decimal(18,2)   | false    | false    |                 |
+| Quantity             | Number          | false    | false    |                 |
+| order_number         | Text(256)       | false    | false    |                 |
+| user_id              | Text(256)       | true     | true     |                 |
+| Timestamp            | Date            | true     | true     |                 |
+| Job_ID               | Text            | false    | false    |                 |
+| List_ID              | Text            | false    | false    |                 |
+| Batch_ID             | Text            | false    | false    |                 |
+| Landing_URL_ID       | Number          | false    | false    |                 |
+| Subscriber_ID        | Text            | false    | false    |                 |
+| session_id           | Text(256)       | false    | false    |                 |

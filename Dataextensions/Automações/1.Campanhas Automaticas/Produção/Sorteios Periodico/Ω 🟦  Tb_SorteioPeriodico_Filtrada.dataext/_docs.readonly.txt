@@ -1,0 +1,26 @@
+Dataextension name: Tb_SorteioPeriodico_Filtrada
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | false    | false    |                 |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Id                   | Text(50)        | true     | true     |                 |
+| HC_Mes_Inicio__c     | Decimal(38,0)   | false    | false    |                 |
+| HC_Mes_Fim__c        | Decimal(38,0)   | false    | false    |                 |
+| CELULAR              | Phone           | false    | false    |                 |
+| EMAIL                | EmailAddress    | false    | false    |                 |
+| Locale               | Locale          | false    | false    |                 |
+| Mes_Inicial          | Text(50)        | false    | false    |                 |
+| Mes_Final            | Text(50)        | false    | false    |                 |
+| EMAIL_VALIDO         | Boolean         | false    | false    |                 |
+| CELULAR_VALIDO       | Boolean         | false    | false    |                 |
+| SPLIT                | Text(1)         | false    | false    |                 |
+| HC_Valor_do_premio__c | Text(100)       | false    | false    |                 |
+| HC_Quantidade_de_clientes_sorteados__c | Text(100)       | false    | false    |                 |
+| NAO_DESEJA_RECEBER_EMAIL | Boolean         | false    | false    |                 |
+| NAO_DESEJA_RECEBER_SMS | Boolean         | false    | false    |                 |
+| NAO_IMPORTUNE        | Boolean         | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| Id_Campanha          | Text(50)        | false    | false    |                 |
+| ROW                  | Number          | false    | false    |                 |

@@ -1,0 +1,25 @@
+Dataextension name: Informe_Rendimentos_OTC291_tratada
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Codigo_Parceiro      | Text(50)        | false    | false    |                 |
+| Codigo_MCI           | Text(50)        | false    | false    |                 |
+| Tipo_Pessoa          | Text(50)        | false    | false    |                 |
+| Codigo_CIC           | Text(50)        | false    | false    |                 |
+| Dt_Nascimento        | Text(50)        | false    | false    |                 |
+| Nome                 | Text(100)       | false    | false    |                 |
+| Codigo_RNA           | Text(50)        | false    | false    |                 |
+| Valor_Rendimentos    | Text(50)        | false    | false    |                 |
+| Tipo_Carteira        | Text(50)        | false    | false    |                 |
+| Nivel_Relacionamento | Text(50)        | false    | false    |                 |
+| Data_Informacao      | Text(50)        | false    | false    |                 |
+| Filler2              | Text(50)        | false    | false    |                 |
+| CPF                  | Text(50)        | true     | true     |                 |
+| Dt_Nascimento_SF     | Date            | false    | false    |                 |
+| Alta_Renda           | Boolean         | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| Email                | Text(50)        | false    | false    |                 |
+| Celular              | Text(50)        | false    | false    |                 |
+| MCI                  | Text(50)        | false    | false    |                 |
+| Encarteiramento      | Text(200)       | false    | false    |                 |

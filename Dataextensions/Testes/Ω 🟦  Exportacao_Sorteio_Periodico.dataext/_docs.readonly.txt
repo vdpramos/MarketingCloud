@@ -1,0 +1,8 @@
+Dataextension name: Exportacao_Sorteio_Periodico
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| SubscriberKey        | Text(50)        | false    | false    |                 |
+| Dia                  | Text(50)        | false    | false    |                 |
+| Tipo_Contato         | Text(50)        | false    | false    |                 |
+| Contato              | Text(350)       | false    | false    |                 |

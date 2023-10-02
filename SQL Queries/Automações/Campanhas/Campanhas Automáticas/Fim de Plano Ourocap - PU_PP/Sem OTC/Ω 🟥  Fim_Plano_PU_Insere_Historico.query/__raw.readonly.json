@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3d6c7709-e25d-48db-ae52-da31329ecd24",
+  "name": "Fim_Plano_PU_Insere_Historico",
+  "key": "8696b85c-a3ff-4f55-9c04-1b8218871303",
+  "description": "Insere para não comunicar sobre o mesmo titulo mais de uma vez",
+  "queryText": "SELECT\r\n  TITULO_ID\r\nFROM FIM_PLANO_PU_SEMOTC_FILTRADO",
+  "targetName": "Fim_Plano_PU_semOTC_Historico",
+  "targetKey": "FE2212F0-1757-4090-8895-675631F62F49",
+  "targetId": "52b08136-06f6-ec11-a5b6-d4f5ef66aed7",
+  "targetDescription": "Guarda Titulos ja informados",
+  "createdDate": "2022-06-27T04:56:12.98",
+  "modifiedDate": "2022-06-27T04:56:12.98",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 43885,
+  "isFrozen": false
+}

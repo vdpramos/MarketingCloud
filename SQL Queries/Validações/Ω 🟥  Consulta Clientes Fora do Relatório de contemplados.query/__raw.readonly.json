@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "04251250-7285-4be2-82c8-ae8379285c1b",
+  "name": "Consulta Clientes Fora do Relatório de contemplados",
+  "key": "04251250-7285-4BE2-82C8-AE8379285C1B",
+  "description": "",
+  "queryText": "select p.cpf\nfrom CPF_Andre p\nwhere not exists (select 1 from Close_the_loop_compradores c where p.cpf = c.CPF_CNPJ )",
+  "targetName": "Contemplados_CPFs_Faltando",
+  "targetKey": "38DE9766-94EB-4F6D-B8B9-8E80A78673A0",
+  "targetId": "4108924e-e8cc-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-27T15:47:05.457",
+  "modifiedDate": "2023-03-27T16:23:02.96",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

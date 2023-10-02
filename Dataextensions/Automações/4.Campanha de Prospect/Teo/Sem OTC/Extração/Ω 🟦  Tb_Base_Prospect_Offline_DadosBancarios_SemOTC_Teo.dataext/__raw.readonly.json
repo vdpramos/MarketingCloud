@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "62234E5A-5207-4D4F-BEE8-F4619C4E3D35"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_DadosBancarios_SemOTC_Teo"
+  ]
+}

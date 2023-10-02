@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "id",
+    "FieldType": "Text",
+    "ObjectID": "2c48934d-1ed5-4670-aadb-651afa547a98",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "nao_importune",
+    "FieldType": "Text",
+    "ObjectID": "06fca87e-9178-4cca-9523-31368c7bf284",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

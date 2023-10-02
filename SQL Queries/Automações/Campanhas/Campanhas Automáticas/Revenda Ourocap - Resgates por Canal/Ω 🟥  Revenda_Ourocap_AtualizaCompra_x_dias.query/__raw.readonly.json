@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "32323f88-efb3-4221-8f85-85782f248ff1",
+  "name": "Revenda_Ourocap_AtualizaCompra_x_dias",
+  "key": "f4beffa6-ccb5-4f20-92e4-904d86a63b94",
+  "description": "",
+  "queryText": "SELECT \n    B.ID,\n    CASE WHEN DATEDIFF(DD,C.HC_CONTRATACAO__C, GETDATE()) <= B.MESES_COMPRA_EXCLUSAO AND UPPER(D.HC_FAMILIA_DO_PRODUTO__C) = 'OUROCAP' THEN 1 ELSE 0 END AS COMPRA_RECENTE_OUROCAP\nFROM Revenda_Ourocap_PublicoInicial B\nINNER JOIN HC_TITULO__C_SALESFORCE C ON B.CPF_CNPJ = C.HC_CPF_CNPJ_Titular__c\nLEFT JOIN HC_PRODUTO__C_SALESFORCE D ON C.HC_PRODUTORELACIONADO__C = D.ID",
+  "targetName": "Revenda_Ourocap_PublicoInicial",
+  "targetKey": "7032F880-7BF4-43D2-B51A-1CAC93C9BDB8",
+  "targetId": "56fab6b3-2c96-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-06T17:20:52.52",
+  "modifiedDate": "2023-08-28T05:50:53.367",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 31760,
+  "isFrozen": false
+}

@@ -1,0 +1,5 @@
+Dataextension name: QueryStudioResults at 2023-09-05T2028170000
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| id                   | Text(255)       | false    | false    |                 |

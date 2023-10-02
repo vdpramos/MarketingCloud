@@ -1,0 +1,2501 @@
+_CustomObjectKey,id,HC_Codigo_de_Retorno_de_Erro__c,Descricao_do_Retorno_de_Erro__c
+2,a0V6g0000062mHVEAY,AG,Agência/Conta Corrente/DV Inválido
+3,a0V6g0000062mHWEAY,AG,Agência/Conta Corrente/DV Inválido
+4,a0V6g0000062mHXEAY,AG,Agência/Conta Corrente/DV Inválido
+5,a0V6g0000062mkCEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+6,a0V6g0000062mKvEAI,AT,Tipo/Número de Inscrição do Favorecido Inválido
+7,a0V6g0000062mnaEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+8,a0V6g0000062oUhEAI,AG,Agência/Conta Corrente/DV Inválido
+9,a0V6g0000062ovoEAA,AG,Agência/Conta Corrente/DV Inválido
+10,a0V6g0000062oXiEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+11,a0V6g0000062oXjEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+12,a0V6g0000062oxLEAQ,AG,Agência/Conta Corrente/DV Inválido
+13,a0V6g0000062oxOEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+14,a0V6g0000062oxqEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+15,a0V6g0000062oxREAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+16,a0V6g0000062p5eEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+17,a0V6g0000062p6bEAA,AN,Conta Corrente/DV do Favorecido Inválido
+18,a0V6g0000062qz6EAA,AN,Conta Corrente/DV do Favorecido Inválido
+19,a0V6g0000062qZAEAY,AN,Conta Corrente/DV do Favorecido Inválido
+20,a0V6g0000062qzoEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+21,a0V6g0000062r0zEAA,AC,Tipo de Serviço Inválido
+22,a0V6g0000062r10EAA,AC,Tipo de Serviço Inválido
+23,a0V6g0000062r11EAA,AC,Tipo de Serviço Inválido
+24,a0V6g0000062r12EAA,AC,Tipo de Serviço Inválido
+25,a0V6g0000062r6GEAQ,AG,Agência/Conta Corrente/DV Inválido
+26,a0V6g0000062racEAA,AN,Conta Corrente/DV do Favorecido Inválido
+27,a0V6g0000062radEAA,AN,Conta Corrente/DV do Favorecido Inválido
+28,a0V6g0000062raeEAA,AN,Conta Corrente/DV do Favorecido Inválido
+29,a0V6g0000062rakEAA,AN,Conta Corrente/DV do Favorecido Inválido
+30,a0V6g0000062ralEAA,AN,Conta Corrente/DV do Favorecido Inválido
+31,a0V6g0000062rbFEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+32,a0V6g0000062tGSEAY,AN,Conta Corrente/DV do Favorecido Inválido
+33,a0V6g0000062thmEAA,AN,Conta Corrente/DV do Favorecido Inválido
+34,a0V6g0000062tjmEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+35,a0V6g0000062tjnEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+36,a0V6g0000062tjOEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+37,a0V6g0000062tjXEAQ,AG,Agência/Conta Corrente/DV Inválido
+38,a0V6g0000062tjYEAQ,AG,Agência/Conta Corrente/DV Inválido
+39,a0V6g0000062TmfEAE,AG,Agência/Conta Corrente/DV Inválido
+40,a0V6g0000062TmgEAE,AG,Agência/Conta Corrente/DV Inválido
+41,a0V6g0000062TmREAU,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+42,a0V6g0000062TmvEAE,AN,Conta Corrente/DV do Favorecido Inválido
+43,a0V6g0000062TmwEAE,AN,Conta Corrente/DV do Favorecido Inválido
+44,a0V6g0000062TnDEAU,AN,Conta Corrente/DV do Favorecido Inválido
+45,a0V6g0000062TnEEAU,AT,Tipo/Número de Inscrição do Favorecido Inválido
+46,a0V6g0000062TnFEAU,AN,Conta Corrente/DV do Favorecido Inválido
+47,a0V6g0000062TnTEAU,AC,Tipo de Serviço Inválido
+48,a0V6g0000062TnUEAU,AC,Tipo de Serviço Inválido
+49,a0V6g0000062TnVEAU,AC,Tipo de Serviço Inválido
+50,a0V6g0000062UxTEAU,AN,Conta Corrente/DV do Favorecido Inválido
+51,a0V6g0000062uYCEAY,AN,Conta Corrente/DV do Favorecido Inválido
+52,a0V6g0000062v13EAA,AN,Conta Corrente/DV do Favorecido Inválido
+53,a0V6g0000062weqEAA,AG,Agência/Conta Corrente/DV Inválido
+54,a0V6g0000062WFdEAM,AL,Código do Banco Favorecido ou Depositário Inválido
+55,a0V6g0000062WFeEAM,AL,Código do Banco Favorecido ou Depositário Inválido
+56,a0V6g0000062WFfEAM,AL,Código do Banco Favorecido ou Depositário Inválido
+57,a0V6g0000062WFgEAM,AN,Conta Corrente/DV do Favorecido Inválido
+58,a0V6g0000062wfTEAQ,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+59,a0V6g0000062wgKEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+60,a0V6g0000062wGOEAY,AN,Conta Corrente/DV do Favorecido Inválido
+61,a0V6g0000062wGPEAY,AN,Conta Corrente/DV do Favorecido Inválido
+62,a0V6g0000062wGQEAY,AN,Conta Corrente/DV do Favorecido Inválido
+63,a0V6g0000062Wh9EAE,AN,Conta Corrente/DV do Favorecido Inválido
+64,a0V6g0000062wHwEAI,AG,Agência/Conta Corrente/DV Inválido
+65,a0V6g0000062wHxEAI,AG,Agência/Conta Corrente/DV Inválido
+66,a0V6g0000062wIGEAY,AT,Tipo/Número de Inscrição do Favorecido Inválido
+67,a0V6g0000062xmNEAQ,AG,Agência/Conta Corrente/DV Inválido
+68,a0V6g0000062xmoEAA,AN,Conta Corrente/DV do Favorecido Inválido
+69,a0V6g0000062xn2EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+70,a0V6g0000062xn3EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+71,a0V6g0000062xn4EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+72,a0V6g0000062xNaEAI,AG,Agência/Conta Corrente/DV Inválido
+73,a0V6g0000062xNLEAY,AG,Agência/Conta Corrente/DV Inválido
+74,a0V6g0000062xNMEAY,AG,Agência/Conta Corrente/DV Inválido
+75,a0V6g0000062xpREAQ,AG,Agência/Conta Corrente/DV Inválido
+76,a0V6g0000062xqjEAA,AC,Tipo de Serviço Inválido
+77,a0V6g0000062xqkEAA,AC,Tipo de Serviço Inválido
+78,a0V6g0000062xr8EAA,AG,Agência/Conta Corrente/DV Inválido
+79,a0V6g0000062xr9EAA,AG,Agência/Conta Corrente/DV Inválido
+80,a0V6g0000062xrhEAA,AC,Tipo de Serviço Inválido
+81,a0V6g0000062xrIEAQ,AG,Agência/Conta Corrente/DV Inválido
+82,a0V6g0000062yqlEAA,AG,Agência/Conta Corrente/DV Inválido
+83,a0V6g0000062yqNEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+84,a0V6g0000062yqOEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+85,a0V6g0000062Yr5EAE,AL,Código do Banco Favorecido ou Depositário Inválido
+86,a0V6g0000062ysPEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+87,a0V6g0000062YsrEAE,AN,Conta Corrente/DV do Favorecido Inválido
+88,a0V6g0000062ytCEAQ,AC,Tipo de Serviço Inválido
+89,a0V6g0000062ytDEAQ,AC,Tipo de Serviço Inválido
+90,a0V6g0000063en2EAA,AN,Conta Corrente/DV do Favorecido Inválido
+91,a0V6g0000063en3EAA,AN,Conta Corrente/DV do Favorecido Inválido
+92,a0V6g0000063en4EAA,AG,Agência/Conta Corrente/DV Inválido
+93,a0V6g0000063ikDEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+94,a0V6g0000063ikEEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+95,a0V6g0000063ikFEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+96,a0V6g0000063ikGEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+97,a0V6g0000063ikkEAA,AG,Agência/Conta Corrente/DV Inválido
+98,a0V6g0000063iklEAA,AG,Agência/Conta Corrente/DV Inválido
+99,a0V6g0000063ikTEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+100,a0V6g0000063ikUEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+101,a0V6g0000063ikVEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+102,a0V6g0000063ikWEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+103,a0V6g0000063ikXEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+104,a0V6g0000063jdaEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+105,a0V6g0000063jdbEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+106,a0V6g0000063jdcEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+107,a0V6g0000063jddEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+108,a0V6g0000063jtgEAA,AN,Conta Corrente/DV do Favorecido Inválido
+109,a0V6g0000063jttEAA,AN,Conta Corrente/DV do Favorecido Inválido
+110,a0V6g0000063kdCEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+111,a0V6g0000063kdDEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+112,a0V6g0000063kdEEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+113,a0V6g0000063kdFEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+114,a0V6g0000063kdjEAA,AN,Conta Corrente/DV do Favorecido Inválido
+115,a0V6g0000063kdkEAA,AN,Conta Corrente/DV do Favorecido Inválido
+116,a0V6g0000063kdlEAA,AN,Conta Corrente/DV do Favorecido Inválido
+117,a0V6g0000063kdmEAA,AG,Agência/Conta Corrente/DV Inválido
+118,a0V6g0000063kdSEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+119,a0V6g0000063kdTEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+120,a0V6g0000063kdUEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+121,a0V6g0000063kdVEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+122,a0V6g0000063kdWEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+123,a0V6g0000063kNcEAI,AN,Conta Corrente/DV do Favorecido Inválido
+124,a0V6g0000063kNdEAI,AN,Conta Corrente/DV do Favorecido Inválido
+125,a0V6g0000063kNeEAI,AN,Conta Corrente/DV do Favorecido Inválido
+126,a0V6g0000063kNfEAI,AN,Conta Corrente/DV do Favorecido Inválido
+127,a0V6g0000063kNtEAI,AG,Agência/Conta Corrente/DV Inválido
+128,a0V6g0000063kNuEAI,AG,Agência/Conta Corrente/DV Inválido
+129,a0V6g0000063kNvEAI,AG,Agência/Conta Corrente/DV Inválido
+130,a0V6g0000063kNwEAI,AC,Tipo de Serviço Inválido
+131,a0V6g0000063kOhEAI,AN,Conta Corrente/DV do Favorecido Inválido
+132,a0V6g0000063kOiEAI,AN,Conta Corrente/DV do Favorecido Inválido
+133,a0V6g0000063kOjEAI,AN,Conta Corrente/DV do Favorecido Inválido
+134,a0V6g0000063kOkEAI,AN,Conta Corrente/DV do Favorecido Inválido
+135,a0V6g0000063kOQEAY,AN,Conta Corrente/DV do Favorecido Inválido
+136,a0V6g000007O6VVEA0,AN,Conta Corrente/DV do Favorecido Inválido
+137,a0V6g000007O6VWEA0,AN,Conta Corrente/DV do Favorecido Inválido
+138,a0V6g0000062mHYEAY,AG,Agência/Conta Corrente/DV Inválido
+139,a0V6g0000062mkJEAQ,AC,Tipo de Serviço Inválido
+140,a0V6g0000062oulEAA,AN,Conta Corrente/DV do Favorecido Inválido
+141,a0V6g0000062ounEAA,AN,Conta Corrente/DV do Favorecido Inválido
+142,a0V6g0000062oupEAA,AN,Conta Corrente/DV do Favorecido Inválido
+143,a0V6g0000062ovNEAQ,AG,Agência/Conta Corrente/DV Inválido
+144,a0V6g0000062ow9EAA,AN,Conta Corrente/DV do Favorecido Inválido
+145,a0V6g0000062oXfEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+146,a0V6g0000062oXhEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+147,a0V6g0000062oxoEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+148,a0V6g0000062oxTEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+149,a0V6g0000062oy7EAA,AC,Tipo de Serviço Inválido
+150,a0V6g0000062p2CEAQ,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+151,a0V6g0000062p3BEAQ,AG,Agência/Conta Corrente/DV Inválido
+152,a0V6g0000062qY4EAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+153,a0V6g0000062QyvEAE,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+154,a0V6g0000062QyxEAE,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+155,a0V6g0000062qzMEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+156,a0V6g0000062qZtEAI,AN,Conta Corrente/DV do Favorecido Inválido
+157,a0V6g0000062r6BEAQ,AG,Agência/Conta Corrente/DV Inválido
+158,a0V6g0000062ra4EAA,AN,Conta Corrente/DV do Favorecido Inválido
+159,a0V6g0000062rabEAA,AN,Conta Corrente/DV do Favorecido Inválido
+160,a0V6g0000062rAtEAI,AG,Agência/Conta Corrente/DV Inválido
+161,a0V6g0000062rbDEAQ,AG,Agência/Conta Corrente/DV Inválido
+162,a0V6g0000062rBnEAI,AN,Conta Corrente/DV do Favorecido Inválido
+163,a0V6g0000062rBUEAY,AN,Conta Corrente/DV do Favorecido Inválido
+164,a0V6g0000062tGjEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+165,a0V6g0000062tgsEAA,AN,Conta Corrente/DV do Favorecido Inválido
+166,a0V6g0000062tGUEAY,AG,Agência/Conta Corrente/DV Inválido
+167,a0V6g0000062tI2EAI,AN,Conta Corrente/DV do Favorecido Inválido
+168,a0V6g0000062tIlEAI,AC,Tipo de Serviço Inválido
+169,a0V6g0000062tJ5EAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+170,a0V6g0000062tjaEAA,AG,Agência/Conta Corrente/DV Inválido
+171,a0V6g0000062tjcEAA,AG,Agência/Conta Corrente/DV Inválido
+172,a0V6g0000062tJfEAI,AC,Tipo de Serviço Inválido
+173,a0V6g0000062tjjEAA,AG,Agência/Conta Corrente/DV Inválido
+174,a0V6g0000062tjlEAA,AG,Agência/Conta Corrente/DV Inválido
+175,a0V6g0000062tkpEAA,AG,Agência/Conta Corrente/DV Inválido
+176,a0V6g0000062tkYEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+177,a0V6g0000062tl8EAA,AG,Agência/Conta Corrente/DV Inválido
+178,a0V6g0000062tlgEAA,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+179,a0V6g0000062tLOEAY,AN,Conta Corrente/DV do Favorecido Inválido
+180,a0V6g0000062TmbEAE,AG,Agência/Conta Corrente/DV Inválido
+181,a0V6g0000062TmdEAE,AC,Tipo de Serviço Inválido
+182,a0V6g0000062TmrEAE,AN,Conta Corrente/DV do Favorecido Inválido
+183,a0V6g0000062TmtEAE,AN,Conta Corrente/DV do Favorecido Inválido
+184,a0V6g0000062TmUEAU,AN,Conta Corrente/DV do Favorecido Inválido
+185,a0V6g0000062Tn2EAE,AG,Agência/Conta Corrente/DV Inválido
+186,a0V6g0000062Tn9EAE,AC,Tipo de Serviço Inválido
+187,a0V6g0000062TnGEAU,AN,Conta Corrente/DV do Favorecido Inválido
+188,a0V6g0000062TnIEAU,AN,Conta Corrente/DV do Favorecido Inválido
+189,a0V6g0000062TnREAU,AG,Agência/Conta Corrente/DV Inválido
+190,a0V6g0000062uY5EAI,AN,Conta Corrente/DV do Favorecido Inválido
+191,a0V6g0000062uYIEAY,AN,Conta Corrente/DV do Favorecido Inválido
+192,a0V6g0000062uyqEAA,AN,Conta Corrente/DV do Favorecido Inválido
+193,a0V6g0000062UYzEAM,AN,Conta Corrente/DV do Favorecido Inválido
+194,a0V6g0000062uzYEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+195,a0V6g0000062v0uEAA,AC,Tipo de Serviço Inválido
+196,a0V6g0000062V1IEAU,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+197,a0V6g0000062wFAEAY,AN,Conta Corrente/DV do Favorecido Inválido
+198,a0V6g0000062WflEAE,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+199,a0V6g0000062wg0EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+200,a0V6g0000062wg8EAA,AC,Tipo de Serviço Inválido
+201,a0V6g0000062wGcEAI,AN,Conta Corrente/DV do Favorecido Inválido
+202,a0V6g0000062wGLEAY,AN,Conta Corrente/DV do Favorecido Inválido
+203,a0V6g0000062wGNEAY,AN,Conta Corrente/DV do Favorecido Inválido
+204,a0V6g0000062wGUEAY,AN,Conta Corrente/DV do Favorecido Inválido
+205,a0V6g0000062wjbEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+206,a0V6g0000062xmyEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+207,a0V6g0000062xn0EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+208,a0V6g0000062xn5EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+209,a0V6g0000062xn7EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+210,a0V6g0000062xNnEAI,AG,Agência/Conta Corrente/DV Inválido
+211,a0V6g0000062xNqEAI,AG,Agência/Conta Corrente/DV Inválido
+212,a0V6g0000062xoKEAQ,AG,Agência/Conta Corrente/DV Inválido
+213,a0V6g0000062xPSEAY,AN,Conta Corrente/DV do Favorecido Inválido
+214,a0V6g0000062xPtEAI,AN,Conta Corrente/DV do Favorecido Inválido
+215,a0V6g0000062xQ5EAI,AT,Tipo/Número de Inscrição do Favorecido Inválido
+216,a0V6g0000062XqcEAE,AN,Conta Corrente/DV do Favorecido Inválido
+217,a0V6g0000062xqgEAA,AC,Tipo de Serviço Inválido
+218,a0V6g0000062xqiEAA,AC,Tipo de Serviço Inválido
+219,a0V6g0000062xRbEAI,AG,Agência/Conta Corrente/DV Inválido
+220,a0V6g0000062xrKEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+221,a0V6g0000062yQDEAY,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+222,a0V6g0000062yQPEAY,AT,Tipo/Número de Inscrição do Favorecido Inválido
+223,a0V6g0000062yqxEAA,AG,Agência/Conta Corrente/DV Inválido
+224,a0V6g0000062yQyEAI,AT,Tipo/Número de Inscrição do Favorecido Inválido
+225,a0V6g0000062yRLEAY,AG,Agência/Conta Corrente/DV Inválido
+226,a0V6g0000062yRNEAY,AG,Agência/Conta Corrente/DV Inválido
+227,a0V6g0000062ysaEAA,AC,Tipo de Serviço Inválido
+228,a0V6g0000062YT9EAM,AN,Conta Corrente/DV do Favorecido Inválido
+229,a0V6g0000062YTzEAM,AN,Conta Corrente/DV do Favorecido Inválido
+230,a0V6g0000062yU6EAI,AN,Conta Corrente/DV do Favorecido Inválido
+231,a0V6g0000062yuiEAA,AG,Agência/Conta Corrente/DV Inválido
+232,a0V6g0000062yuMEAQ,AG,Agência/Conta Corrente/DV Inválido
+233,a0V6g0000063cRuEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+234,a0V6g0000063en9EAA,AN,Conta Corrente/DV do Favorecido Inválido
+235,a0V6g0000063enGEAQ,AC,Tipo de Serviço Inválido
+236,a0V6g0000063ik3EAA,AN,Conta Corrente/DV do Favorecido Inválido
+237,a0V6g0000063ik8EAA,AN,Conta Corrente/DV do Favorecido Inválido
+238,a0V6g0000063ikAEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+239,a0V6g0000063ikbEAA,AN,Conta Corrente/DV do Favorecido Inválido
+240,a0V6g0000063ikCEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+241,a0V6g0000063ikgEAA,AG,Agência/Conta Corrente/DV Inválido
+242,a0V6g0000063ikHEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+243,a0V6g0000063ikiEAA,AG,Agência/Conta Corrente/DV Inválido
+244,a0V6g0000063ikpEAA,AC,Tipo de Serviço Inválido
+245,a0V6g0000063ikQEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+246,a0V6g0000063ikSEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+247,a0V6g0000063ikZEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+248,a0V6g0000063jbWEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+249,a0V6g0000063jbYEAQ,AG,Agência/Conta Corrente/DV Inválido
+250,a0V6g0000063jtiEAA,AN,Conta Corrente/DV do Favorecido Inválido
+251,a0V6g0000063jtkEAA,AN,Conta Corrente/DV do Favorecido Inválido
+252,a0V6g0000063jtpEAA,AN,Conta Corrente/DV do Favorecido Inválido
+253,a0V6g0000063jtrEAA,AN,Conta Corrente/DV do Favorecido Inválido
+254,a0V6g0000063kd1EAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+255,a0V6g0000063kd8EAA,AN,Conta Corrente/DV do Favorecido Inválido
+256,a0V6g0000063kdAEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+257,a0V6g0000063kdgEAA,AN,Conta Corrente/DV do Favorecido Inválido
+258,a0V6g0000063kdHEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+259,a0V6g0000063kdiEAA,AN,Conta Corrente/DV do Favorecido Inválido
+260,a0V6g0000063kdJEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+261,a0V6g0000063kdnEAA,AC,Tipo de Serviço Inválido
+262,a0V6g0000063kdOEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+263,a0V6g0000063kdQEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+264,a0V6g0000063kdrEAA,AN,Conta Corrente/DV do Favorecido Inválido
+265,a0V6g0000063kdwEAA,AN,Conta Corrente/DV do Favorecido Inválido
+266,a0V6g0000063kdXEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+267,a0V6g0000063kdZEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+268,a0V6g0000063kNbEAI,AN,Conta Corrente/DV do Favorecido Inválido
+269,a0V6g000007O6VYEA0,AN,Conta Corrente/DV do Favorecido Inválido
+270,a0V6g000007O86hEAC,AN,Conta Corrente/DV do Favorecido Inválido
+271,a0V6g000007O86jEAC,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+272,a0V6g000007O86qEAC,AG,Agência/Conta Corrente/DV Inválido
+273,a0V6g000007O86sEAC,AG,Agência/Conta Corrente/DV Inválido
+274,a0V6g000007O86zEAC,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+275,a0V6g000007O871EAC,AC,Tipo de Serviço Inválido
+276,a0V6g000007O876EAC,AN,Conta Corrente/DV do Favorecido Inválido
+277,a0V6g000007O878EAC,AN,Conta Corrente/DV do Favorecido Inválido
+278,a0V6g000007O87FEAS,AN,Conta Corrente/DV do Favorecido Inválido
+279,a0V6g000007O87HEAS,AN,Conta Corrente/DV do Favorecido Inválido
+280,a0V6g000007O87OEAS,AN,Conta Corrente/DV do Favorecido Inválido
+281,a0V6g000007O87XEAS,AN,Conta Corrente/DV do Favorecido Inválido
+282,a0V6g000007O890EAC,AN,Conta Corrente/DV do Favorecido Inválido
+283,a0V6g000007O892EAC,AN,Conta Corrente/DV do Favorecido Inválido
+284,a0V6g000007O897EAC,AN,Conta Corrente/DV do Favorecido Inválido
+285,a0V6g000007O899EAC,AN,Conta Corrente/DV do Favorecido Inválido
+286,a0V6g000007O89GEAS,AN,Conta Corrente/DV do Favorecido Inválido
+287,a0V6g000007O89IEAS,AN,Conta Corrente/DV do Favorecido Inválido
+288,a0V6g000007O89PEAS,AN,Conta Corrente/DV do Favorecido Inválido
+289,a0V6g000007O89REAS,AN,Conta Corrente/DV do Favorecido Inválido
+290,a0V6g000007O9taEAC,AN,Conta Corrente/DV do Favorecido Inválido
+291,a0V6g000007O9tcEAC,AN,Conta Corrente/DV do Favorecido Inválido
+292,a0V6g000007O9tDEAS,AN,Conta Corrente/DV do Favorecido Inválido
+293,a0V6g000007O9tjEAC,AG,Agência/Conta Corrente/DV Inválido
+294,a0V6g000007O9tKEAS,AN,Conta Corrente/DV do Favorecido Inválido
+295,a0V6g000007O9tMEAS,AN,Conta Corrente/DV do Favorecido Inválido
+296,a0V6g000007O9tsEAC,AN,Conta Corrente/DV do Favorecido Inválido
+297,a0V6g000007O9tTEAS,AN,Conta Corrente/DV do Favorecido Inválido
+298,a0V6g000007O9tuEAC,AN,Conta Corrente/DV do Favorecido Inválido
+299,a0V6g000007O9tVEAS,AN,Conta Corrente/DV do Favorecido Inválido
+300,a0V6g000007OBBAEA4,AN,Conta Corrente/DV do Favorecido Inválido
+301,a0V6g000007OBBgEAO,AN,Conta Corrente/DV do Favorecido Inválido
+302,a0V6g000007OBBHEA4,AN,Conta Corrente/DV do Favorecido Inválido
+303,a0V6g000007OBBiEAO,AN,Conta Corrente/DV do Favorecido Inválido
+304,a0V6g000007OBBJEA4,AN,Conta Corrente/DV do Favorecido Inválido
+305,a0V6g000007OBBnEAO,AN,Conta Corrente/DV do Favorecido Inválido
+306,a0V6g000007OBBOEA4,AN,Conta Corrente/DV do Favorecido Inválido
+307,a0V6g000007OBBpEAO,AC,Tipo de Serviço Inválido
+308,a0V6g000007OBBQEA4,AN,Conta Corrente/DV do Favorecido Inválido
+309,a0V6g000007OBBwEAO,AC,Tipo de Serviço Inválido
+310,a0V6g000007OBBXEA4,AN,Conta Corrente/DV do Favorecido Inválido
+311,a0V6g000007OBBZEA4,AN,Conta Corrente/DV do Favorecido Inválido
+312,a0V6g000007OBC5EAO,AN,Conta Corrente/DV do Favorecido Inválido
+313,a0V6g000007OBC7EAO,AN,Conta Corrente/DV do Favorecido Inválido
+314,a0V6g000007OBCCEA4,AN,Conta Corrente/DV do Favorecido Inválido
+315,a0V6g000007OBCEEA4,AN,Conta Corrente/DV do Favorecido Inválido
+316,a0V6g000007OHv4EAG,AN,Conta Corrente/DV do Favorecido Inválido
+317,a0V6g000007OHv6EAG,AN,Conta Corrente/DV do Favorecido Inválido
+318,a0V6g000007OHvcEAG,AN,Conta Corrente/DV do Favorecido Inválido
+319,a0V6g000007OHvDEAW,AN,Conta Corrente/DV do Favorecido Inválido
+320,a0V6g000007OHveEAG,AN,Conta Corrente/DV do Favorecido Inválido
+321,a0V6g000007OHvFEAW,AN,Conta Corrente/DV do Favorecido Inválido
+322,a0V6g000007OHvlEAG,AN,Conta Corrente/DV do Favorecido Inválido
+323,a0V6g000007OHvMEAW,AN,Conta Corrente/DV do Favorecido Inválido
+324,a0V6g000007OHvnEAG,AG,Agência/Conta Corrente/DV Inválido
+325,a0V6g000007OHvOEAW,AN,Conta Corrente/DV do Favorecido Inválido
+326,a0V6g000007OHvsEAG,AN,Conta Corrente/DV do Favorecido Inválido
+327,a0V6g000007OHvTEAW,AN,Conta Corrente/DV do Favorecido Inválido
+328,a0V6g000007OHvuEAG,AN,Conta Corrente/DV do Favorecido Inválido
+329,a0V6g000007OHvVEAW,AN,Conta Corrente/DV do Favorecido Inválido
+330,a0V6g000007OHvwEAG,AN,Conta Corrente/DV do Favorecido Inválido
+331,a0V6g000007OHvXEAW,AN,Conta Corrente/DV do Favorecido Inválido
+332,a0V6g000007OHw1EAG,AN,Conta Corrente/DV do Favorecido Inválido
+333,a0V6g000007OHw3EAG,AN,Conta Corrente/DV do Favorecido Inválido
+334,a0V6g0000064W8gEAE,AN,Conta Corrente/DV do Favorecido Inválido
+335,a0V6g0000064W8iEAE,AN,Conta Corrente/DV do Favorecido Inválido
+336,a0V6g0000064W8pEAE,AN,Conta Corrente/DV do Favorecido Inválido
+337,a0V6g0000064W8rEAE,AG,Agência/Conta Corrente/DV Inválido
+338,a0V6g0000064W8wEAE,AC,Tipo de Serviço Inválido
+339,a0V6g0000064W8yEAE,AC,Tipo de Serviço Inválido
+340,a0V6g0000064W95EAE,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+341,a0V6g0000064W97EAE,AN,Conta Corrente/DV do Favorecido Inválido
+342,a0V6g0000064W9EEAU,AN,Conta Corrente/DV do Favorecido Inválido
+343,a0V6g0000064W9GEAU,AN,Conta Corrente/DV do Favorecido Inválido
+344,a0V6g0000064W9LEAU,AN,Conta Corrente/DV do Favorecido Inválido
+345,a0V6g0000064WexEAE,AN,Conta Corrente/DV do Favorecido Inválido
+346,a0V6g0000064Wf2EAE,AN,Conta Corrente/DV do Favorecido Inválido
+347,a0V6g0000064Wf4EAE,AN,Conta Corrente/DV do Favorecido Inválido
+348,a0V6g0000064WfBEAU,AG,Agência/Conta Corrente/DV Inválido
+349,a0V6g0000064WfDEAU,AC,Tipo de Serviço Inválido
+350,a0V6g0000064WfKEAU,AT,Tipo/Número de Inscrição do Favorecido Inválido
+351,a0V6g0000064WfMEAU,AT,Tipo/Número de Inscrição do Favorecido Inválido
+352,a0V6g0000062TDCEA2,AN,Conta Corrente/DV do Favorecido Inválido
+353,a0V6g0000062TDEEA2,AN,Conta Corrente/DV do Favorecido Inválido
+354,a0V6g0000062TDLEA2,AN,Conta Corrente/DV do Favorecido Inválido
+355,a0V6g0000062TDNEA2,AN,Conta Corrente/DV do Favorecido Inválido
+356,a0V6g0000062TDWEA2,AN,Conta Corrente/DV do Favorecido Inválido
+357,a0V6g0000062tejEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+358,a0V6g0000062telEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+359,a0V6g0000062xhREAQ,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+360,a0V6g0000062xIJEAY,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+361,a0V6g0000062xITEAY,AN,Conta Corrente/DV do Favorecido Inválido
+362,a0V6g0000062xJdEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+363,a0V6g0000062xJfEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+364,a0V6g0000062XKdEAM,AN,Conta Corrente/DV do Favorecido Inválido
+365,a0V6g0000062xkKEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+366,a0V6g0000064UyvEAE,AC,Tipo de Serviço Inválido
+367,a0V6g0000064UyWEAU,AN,Conta Corrente/DV do Favorecido Inválido
+368,a0V6g0000064UyxEAE,AC,Tipo de Serviço Inválido
+369,a0V6g0000064UyYEAU,AN,Conta Corrente/DV do Favorecido Inválido
+370,a0V6g0000064Uz2EAE,AN,Conta Corrente/DV do Favorecido Inválido
+371,a0V6g0000064Uz4EAE,AN,Conta Corrente/DV do Favorecido Inválido
+372,a0V6g0000064Uz6EAE,AN,Conta Corrente/DV do Favorecido Inválido
+373,a0V6g0000064UzaEAE,AN,Conta Corrente/DV do Favorecido Inválido
+374,a0V6g0000064UZaEAM,AN,Conta Corrente/DV do Favorecido Inválido
+375,a0V6g0000064UzBEAU,AN,Conta Corrente/DV do Favorecido Inválido
+376,a0V6g0000064UzcEAE,AN,Conta Corrente/DV do Favorecido Inválido
+377,a0V6g0000064UzDEAU,AN,Conta Corrente/DV do Favorecido Inválido
+378,a0V6g0000064UZfEAM,AN,Conta Corrente/DV do Favorecido Inválido
+379,a0V6g000006cmlcEAA,AG,Agência/Conta Corrente/DV Inválido
+380,a0V6g000006cmleEAA,AG,Agência/Conta Corrente/DV Inválido
+381,a0V6g000006cmljEAA,AC,Tipo de Serviço Inválido
+382,a0V6g000006cmllEAA,AC,Tipo de Serviço Inválido
+383,a0V6g000006cmlsEAA,AN,Conta Corrente/DV do Favorecido Inválido
+384,a0V6g000006cmlTEAQ,AG,Agência/Conta Corrente/DV Inválido
+385,a0V6g000006cmluEAA,AN,Conta Corrente/DV do Favorecido Inválido
+386,a0V6g000006cmlVEAQ,AG,Agência/Conta Corrente/DV Inválido
+387,a0V6g000006cmm1EAA,AC,Tipo de Serviço Inválido
+388,a0V6g000006cmm3EAA,AC,Tipo de Serviço Inválido
+389,a0V6g000006cmndEAA,AC,Tipo de Serviço Inválido
+390,a0V6g000006cmnfEAA,AC,Tipo de Serviço Inválido
+391,a0V6g000006cmntEAA,AN,Conta Corrente/DV do Favorecido Inválido
+392,a0V6g000006comdEAA,AN,Conta Corrente/DV do Favorecido Inválido
+393,a0V6g000006comfEAA,AN,Conta Corrente/DV do Favorecido Inválido
+394,a0V6g000006commEAA,AN,Conta Corrente/DV do Favorecido Inválido
+395,a0V6g000006comoEAA,AN,Conta Corrente/DV do Favorecido Inválido
+396,a0V6g000006comPEAQ,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+397,a0V6g000006comtEAA,AC,Tipo de Serviço Inválido
+398,a0V6g000006comUEAQ,AG,Agência/Conta Corrente/DV Inválido
+399,a0V6g000006comvEAA,AC,Tipo de Serviço Inválido
+400,a0V6g000006comxEAA,AN,Conta Corrente/DV do Favorecido Inválido
+401,a0V6g000006comYEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+402,a0V6g000006con2EAA,AN,Conta Corrente/DV do Favorecido Inválido
+403,a0V6g000006conaEAA,AN,Conta Corrente/DV do Favorecido Inválido
+404,a0V6g000006conBEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+405,a0V6g000006concEAA,AN,Conta Corrente/DV do Favorecido Inválido
+406,a0V6g000006conDEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+407,a0V6g000006conjEAA,AG,Agência/Conta Corrente/DV Inválido
+408,a0V6g000006conKEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+409,a0V6g000006conlEAA,AG,Agência/Conta Corrente/DV Inválido
+410,a0V6g000007O86lEAC,AN,Conta Corrente/DV do Favorecido Inválido
+411,a0V6g000007O86mEAC,AG,Agência/Conta Corrente/DV Inválido
+412,a0V6g000007O86nEAC,AG,Agência/Conta Corrente/DV Inválido
+413,a0V6g000007O86oEAC,AG,Agência/Conta Corrente/DV Inválido
+414,a0V6g000007O872EAC,AC,Tipo de Serviço Inválido
+415,a0V6g000007O873EAC,AC,Tipo de Serviço Inválido
+416,a0V6g000007O874EAC,AN,Conta Corrente/DV do Favorecido Inválido
+417,a0V6g000007O875EAC,AN,Conta Corrente/DV do Favorecido Inválido
+418,a0V6g000007O87JEAS,AN,Conta Corrente/DV do Favorecido Inválido
+419,a0V6g000007O87KEAS,AN,Conta Corrente/DV do Favorecido Inválido
+420,a0V6g000007O87LEAS,AN,Conta Corrente/DV do Favorecido Inválido
+421,a0V6g000007O87MEAS,AN,Conta Corrente/DV do Favorecido Inválido
+422,a0V6g000007O88vEAC,AN,Conta Corrente/DV do Favorecido Inválido
+423,a0V6g000007O88wEAC,AN,Conta Corrente/DV do Favorecido Inválido
+424,a0V6g000007O88xEAC,AN,Conta Corrente/DV do Favorecido Inválido
+425,a0V6g000007O88yEAC,AN,Conta Corrente/DV do Favorecido Inválido
+426,a0V6g000007O89BEAS,AN,Conta Corrente/DV do Favorecido Inválido
+427,a0V6g000007O89CEAS,AN,Conta Corrente/DV do Favorecido Inválido
+428,a0V6g000007O89DEAS,AN,Conta Corrente/DV do Favorecido Inválido
+429,a0V6g000007O89EEAS,AN,Conta Corrente/DV do Favorecido Inválido
+430,a0V6g000007O89FEAS,AN,Conta Corrente/DV do Favorecido Inválido
+431,a0V6g000007O89SEAS,AN,Conta Corrente/DV do Favorecido Inválido
+432,a0V6g000007O89TEAS,AN,Conta Corrente/DV do Favorecido Inválido
+433,a0V6g000007O89UEAS,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+434,a0V6g000007O9tFEAS,AN,Conta Corrente/DV do Favorecido Inválido
+435,a0V6g000007O9tGEAS,AN,Conta Corrente/DV do Favorecido Inválido
+436,a0V6g000007O9tHEAS,AN,Conta Corrente/DV do Favorecido Inválido
+437,a0V6g000007O9tIEAS,AN,Conta Corrente/DV do Favorecido Inválido
+438,a0V6g000007O9tmEAC,AN,Conta Corrente/DV do Favorecido Inválido
+439,a0V6g000007O9tnEAC,AN,Conta Corrente/DV do Favorecido Inválido
+440,a0V6g000007O9toEAC,AN,Conta Corrente/DV do Favorecido Inválido
+441,a0V6g000007O9tpEAC,AN,Conta Corrente/DV do Favorecido Inválido
+442,a0V6g000007O9tqEAC,AN,Conta Corrente/DV do Favorecido Inválido
+443,a0V6g000007O9tWEAS,AN,Conta Corrente/DV do Favorecido Inválido
+444,a0V6g000007O9tXEAS,AN,Conta Corrente/DV do Favorecido Inválido
+445,a0V6g000007O9tYEAS,AN,Conta Corrente/DV do Favorecido Inválido
+446,a0V6g000007O9tZEAS,AN,Conta Corrente/DV do Favorecido Inválido
+447,a0V6g000007OBBaEAO,AN,Conta Corrente/DV do Favorecido Inválido
+448,a0V6g000007OBBbEAO,AN,Conta Corrente/DV do Favorecido Inválido
+449,a0V6g000007OBBcEAO,AN,Conta Corrente/DV do Favorecido Inválido
+450,a0V6g000007OBBKEA4,AN,Conta Corrente/DV do Favorecido Inválido
+451,a0V6g000007OBBLEA4,AN,Conta Corrente/DV do Favorecido Inválido
+452,a0V6g000007OBBMEA4,AN,Conta Corrente/DV do Favorecido Inválido
+453,a0V6g000007OBBNEA4,AN,Conta Corrente/DV do Favorecido Inválido
+454,a0V6g000007OBBrEAO,AC,Tipo de Serviço Inválido
+455,a0V6g000007OBBsEAO,AC,Tipo de Serviço Inválido
+456,a0V6g000007OBBtEAO,AC,Tipo de Serviço Inválido
+457,a0V6g000007OBBuEAO,AC,Tipo de Serviço Inválido
+458,a0V6g000007OBC8EAO,AN,Conta Corrente/DV do Favorecido Inválido
+459,a0V6g000007OBC9EAO,AN,Conta Corrente/DV do Favorecido Inválido
+460,a0V6g000007OBCAEA4,AN,Conta Corrente/DV do Favorecido Inválido
+461,a0V6g000007OBCBEA4,AN,Conta Corrente/DV do Favorecido Inválido
+462,a0V6g000007OHv1EAG,AN,Conta Corrente/DV do Favorecido Inválido
+463,a0V6g000007OHv2EAG,AN,Conta Corrente/DV do Favorecido Inválido
+464,a0V6g000007OHv3EAG,AN,Conta Corrente/DV do Favorecido Inválido
+465,a0V6g000007OHvaEAG,AN,Conta Corrente/DV do Favorecido Inválido
+466,a0V6g000007OHvbEAG,AN,Conta Corrente/DV do Favorecido Inválido
+467,a0V6g000007OHvHEAW,AN,Conta Corrente/DV do Favorecido Inválido
+468,a0V6g000007OHvIEAW,AN,Conta Corrente/DV do Favorecido Inválido
+469,a0V6g000007OHvJEAW,AN,Conta Corrente/DV do Favorecido Inválido
+470,a0V6g000007OHvKEAW,AN,Conta Corrente/DV do Favorecido Inválido
+471,a0V6g000007OHvqEAG,AN,Conta Corrente/DV do Favorecido Inválido
+472,a0V6g000007OHvYEAW,AN,Conta Corrente/DV do Favorecido Inválido
+473,a0V6g000007OHvZEAW,AN,Conta Corrente/DV do Favorecido Inválido
+474,a0V6g0000064W8kEAE,AN,Conta Corrente/DV do Favorecido Inválido
+475,a0V6g0000064W8lEAE,AN,Conta Corrente/DV do Favorecido Inválido
+476,a0V6g0000064W8mEAE,AN,Conta Corrente/DV do Favorecido Inválido
+477,a0V6g0000064W8nEAE,AN,Conta Corrente/DV do Favorecido Inválido
+478,a0V6g0000064W90EAE,AC,Tipo de Serviço Inválido
+479,a0V6g0000064W91EAE,AC,Tipo de Serviço Inválido
+480,a0V6g0000064W92EAE,AC,Tipo de Serviço Inválido
+481,a0V6g0000064W93EAE,AC,Tipo de Serviço Inválido
+482,a0V6g0000064W9HEAU,AN,Conta Corrente/DV do Favorecido Inválido
+483,a0V6g0000064W9IEAU,AN,Conta Corrente/DV do Favorecido Inválido
+484,a0V6g0000064W9JEAU,AN,Conta Corrente/DV do Favorecido Inválido
+485,a0V6g0000064W9KEAU,AN,Conta Corrente/DV do Favorecido Inválido
+486,a0V6g0000064WeyEAE,AN,Conta Corrente/DV do Favorecido Inválido
+487,a0V6g0000064WezEAE,AN,Conta Corrente/DV do Favorecido Inválido
+488,a0V6g0000064Wf0EAE,AN,Conta Corrente/DV do Favorecido Inválido
+489,a0V6g0000064Wf1EAE,AN,Conta Corrente/DV do Favorecido Inválido
+490,a0V6g0000064WfFEAU,AN,Conta Corrente/DV do Favorecido Inválido
+491,a0V6g0000064WfGEAU,AN,Conta Corrente/DV do Favorecido Inválido
+492,a0V6g0000064WfHEAU,AN,Conta Corrente/DV do Favorecido Inválido
+493,a0V6g0000064WfIEAU,AN,Conta Corrente/DV do Favorecido Inválido
+494,a0V6g0000062TDGEA2,AN,Conta Corrente/DV do Favorecido Inválido
+495,a0V6g0000062TDHEA2,AN,Conta Corrente/DV do Favorecido Inválido
+496,a0V6g0000062TDIEA2,AN,Conta Corrente/DV do Favorecido Inválido
+497,a0V6g0000062TDJEA2,AN,Conta Corrente/DV do Favorecido Inválido
+498,a0V6g0000062temEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+499,a0V6g0000062tenEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+500,a0V6g0000062teoEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+501,a0V6g0000062xHuEAI,AN,Conta Corrente/DV do Favorecido Inválido
+502,a0V6g0000062xJJEAY,AC,Tipo de Serviço Inválido
+503,a0V6g0000062xkaEAA,AN,Conta Corrente/DV do Favorecido Inválido
+504,a0V6g0000062xkbEAA,AN,Conta Corrente/DV do Favorecido Inválido
+505,a0V6g0000064UwiEAE,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+506,a0V6g0000064UytEAE,AC,Tipo de Serviço Inválido
+507,a0V6g0000064UyZEAU,AN,Conta Corrente/DV do Favorecido Inválido
+508,a0V6g0000064Uz7EAE,AT,Tipo/Número de Inscrição do Favorecido Inválido
+509,a0V6g0000064Uz8EAE,AN,Conta Corrente/DV do Favorecido Inválido
+510,a0V6g0000064Uz9EAE,AN,Conta Corrente/DV do Favorecido Inválido
+511,a0V6g0000064UzAEAU,AN,Conta Corrente/DV do Favorecido Inválido
+512,a0V6g0000064UzeEAE,AG,Agência/Conta Corrente/DV Inválido
+513,a0V6g0000064UzfEAE,AG,Agência/Conta Corrente/DV Inválido
+514,a0V6g000006cmlfEAA,AG,Agência/Conta Corrente/DV Inválido
+515,a0V6g000006cmlgEAA,AG,Agência/Conta Corrente/DV Inválido
+516,a0V6g000006cmlhEAA,AG,Agência/Conta Corrente/DV Inválido
+517,a0V6g000006cmliEAA,AG,Agência/Conta Corrente/DV Inválido
+518,a0V6g000006cmlOEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+519,a0V6g000006cmlPEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+520,a0V6g000006cmlQEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+521,a0V6g000006cmlREAQ,AN,Conta Corrente/DV do Favorecido Inválido
+522,a0V6g000006cmlwEAA,AN,Conta Corrente/DV do Favorecido Inválido
+523,a0V6g000006cmlxEAA,AN,Conta Corrente/DV do Favorecido Inválido
+524,a0V6g000006cmlzEAA,AG,Agência/Conta Corrente/DV Inválido
+525,a0V6g000006cmnaEAA,AC,Tipo de Serviço Inválido
+526,a0V6g000006cmnbEAA,AC,Tipo de Serviço Inválido
+527,a0V6g000006cmnrEAA,AN,Conta Corrente/DV do Favorecido Inválido
+528,a0V6g000006cmnsEAA,AN,Conta Corrente/DV do Favorecido Inválido
+529,a0V6g000006cmnZEAQ,AC,Tipo de Serviço Inválido
+530,a0V6g000006comhEAA,AN,Conta Corrente/DV do Favorecido Inválido
+531,a0V6g000006comiEAA,AN,Conta Corrente/DV do Favorecido Inválido
+532,a0V6g000006comjEAA,AN,Conta Corrente/DV do Favorecido Inválido
+533,a0V6g000006comkEAA,AN,Conta Corrente/DV do Favorecido Inválido
+534,a0V6g000006comQEAQ,AG,Agência/Conta Corrente/DV Inválido
+535,a0V6g000006comREAQ,AG,Agência/Conta Corrente/DV Inválido
+536,a0V6g000006comSEAQ,AG,Agência/Conta Corrente/DV Inválido
+537,a0V6g000006comTEAQ,AG,Agência/Conta Corrente/DV Inválido
+538,a0V6g000006comyEAA,AN,Conta Corrente/DV do Favorecido Inválido
+539,a0V6g000006comzEAA,AN,Conta Corrente/DV do Favorecido Inválido
+540,a0V6g000006con0EAA,AN,Conta Corrente/DV do Favorecido Inválido
+541,a0V6g000006con1EAA,AN,Conta Corrente/DV do Favorecido Inválido
+542,a0V6g000006conEEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+543,a0V6g000006conFEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+544,a0V6g000006conGEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+545,a0V6g000006conHEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+546,a0V6g0000062mitEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+547,a0V6g0000062mJmEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+548,a0V6g0000062mkIEAQ,AC,Tipo de Serviço Inválido
+549,a0V6g0000062mlCEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+550,a0V6g0000062oukEAA,AN,Conta Corrente/DV do Favorecido Inválido
+551,a0V6g0000062oumEAA,AN,Conta Corrente/DV do Favorecido Inválido
+552,a0V6g0000062ouoEAA,AN,Conta Corrente/DV do Favorecido Inválido
+553,a0V6g0000062ouXEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+554,a0V6g0000062oW0EAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+555,a0V6g0000062owMEAQ,AG,Agência/Conta Corrente/DV Inválido
+556,a0V6g0000062oXgEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+557,a0V6g0000062oXkEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+558,a0V6g0000062oxnEAA,AG,Agência/Conta Corrente/DV Inválido
+559,a0V6g0000062oxpEAA,AC,Tipo de Serviço Inválido
+560,a0V6g0000062oxSEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+561,a0V6g0000062oxUEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+562,a0V6g0000062oY8EAI,AN,Conta Corrente/DV do Favorecido Inválido
+563,a0V6g0000062oykEAA,AN,Conta Corrente/DV do Favorecido Inválido
+564,a0V6g0000062p0SEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+565,a0V6g0000062p2BEAQ,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+566,a0V6g0000062p6JEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+567,a0V6g0000062QywEAE,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+568,a0V6g0000062QyyEAE,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+569,a0V6g0000062qzCEAQ,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+570,a0V6g0000062qzNEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+571,a0V6g0000062r0yEAA,AG,Agência/Conta Corrente/DV Inválido
+572,a0V6g0000062r49EAA,AN,Conta Corrente/DV do Favorecido Inválido
+573,a0V6g0000062r8aEAA,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+574,a0V6g0000062r8cEAA,AG,Agência/Conta Corrente/DV Inválido
+575,a0V6g0000062ra3EAA,AN,Conta Corrente/DV do Favorecido Inválido
+576,a0V6g0000062rajEAA,AN,Conta Corrente/DV do Favorecido Inválido
+577,a0V6g0000062rbCEAQ,AG,Agência/Conta Corrente/DV Inválido
+578,a0V6g0000062rbEEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+579,a0V6g0000062tgMEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+580,a0V6g0000062tgtEAA,AN,Conta Corrente/DV do Favorecido Inválido
+581,a0V6g0000062tgUEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+582,a0V6g0000062tjbEAA,AG,Agência/Conta Corrente/DV Inválido
+583,a0V6g0000062tjdEAA,AG,Agência/Conta Corrente/DV Inválido
+584,a0V6g0000062tjiEAA,AG,Agência/Conta Corrente/DV Inválido
+585,a0V6g0000062tJJEAY,AN,Conta Corrente/DV do Favorecido Inválido
+586,a0V6g0000062tjkEAA,AG,Agência/Conta Corrente/DV Inválido
+587,a0V6g0000062tkoEAA,AG,Agência/Conta Corrente/DV Inválido
+588,a0V6g0000062tlhEAA,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+589,a0V6g0000062tLNEAY,AN,Conta Corrente/DV do Favorecido Inválido
+590,a0V6g0000062TmaEAE,AC,Tipo de Serviço Inválido
+591,a0V6g0000062TmcEAE,AC,Tipo de Serviço Inválido
+592,a0V6g0000062TmsEAE,AN,Conta Corrente/DV do Favorecido Inválido
+593,a0V6g0000062TmuEAE,AN,Conta Corrente/DV do Favorecido Inválido
+594,a0V6g0000062TmzEAE,AN,Conta Corrente/DV do Favorecido Inválido
+595,a0V6g0000062Tn3EAE,AG,Agência/Conta Corrente/DV Inválido
+596,a0V6g0000062tN5EAI,AN,Conta Corrente/DV do Favorecido Inválido
+597,a0V6g0000062TnHEAU,AN,Conta Corrente/DV do Favorecido Inválido
+598,a0V6g0000062TnJEAU,AN,Conta Corrente/DV do Favorecido Inválido
+599,a0V6g0000062TnOEAU,AN,Conta Corrente/DV do Favorecido Inválido
+600,a0V6g0000062TnQEAU,AN,Conta Corrente/DV do Favorecido Inválido
+601,a0V6g0000062TnSEAU,AC,Tipo de Serviço Inválido
+602,a0V6g0000062tOIEAY,AN,Conta Corrente/DV do Favorecido Inválido
+603,a0V6g0000062uX4EAI,AN,Conta Corrente/DV do Favorecido Inválido
+604,a0V6g0000062uxeEAA,AN,Conta Corrente/DV do Favorecido Inválido
+605,a0V6g0000062uY6EAI,AN,Conta Corrente/DV do Favorecido Inválido
+606,a0V6g0000062v0qEAA,AC,Tipo de Serviço Inválido
+607,a0V6g0000062v0tEAA,AC,Tipo de Serviço Inválido
+608,a0V6g0000062v1ZEAQ,AC,Tipo de Serviço Inválido
+609,a0V6g0000062WENEA2,AL,Código do Banco Favorecido ou Depositário Inválido
+610,a0V6g0000062wEQEAY,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+611,a0V6g0000062WFhEAM,AN,Conta Corrente/DV do Favorecido Inválido
+612,a0V6g0000062WFREA2,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+613,a0V6g0000062wfzEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+614,a0V6g0000062wg1EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+615,a0V6g0000062wg9EAA,AC,Tipo de Serviço Inválido
+616,a0V6g0000062wgeEAA,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+617,a0V6g0000062wgjEAA,AN,Conta Corrente/DV do Favorecido Inválido
+618,a0V6g0000062wGMEAY,AN,Conta Corrente/DV do Favorecido Inválido
+619,a0V6g0000062wGVEAY,AN,Conta Corrente/DV do Favorecido Inválido
+620,a0V6g0000062wH0EAI,AG,Agência/Conta Corrente/DV Inválido
+621,a0V6g0000062whnEAA,AG,Agência/Conta Corrente/DV Inválido
+622,a0V6g0000062wHrEAI,AN,Conta Corrente/DV do Favorecido Inválido
+623,a0V6g0000062whsEAA,AG,Agência/Conta Corrente/DV Inválido
+624,a0V6g0000062wIFEAY,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+625,a0V6g0000062xMWEAY,AN,Conta Corrente/DV do Favorecido Inválido
+626,a0V6g0000062xmxEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+627,a0V6g0000062xmzEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+628,a0V6g0000062xn1EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+629,a0V6g0000062xn6EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+630,a0V6g0000062xoJEAQ,AG,Agência/Conta Corrente/DV Inválido
+631,a0V6g0000062xoLEAQ,AG,Agência/Conta Corrente/DV Inválido
+632,a0V6g0000062xoSEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+633,a0V6g0000062xPsEAI,AN,Conta Corrente/DV do Favorecido Inválido
+634,a0V6g0000062xpSEAQ,AG,Agência/Conta Corrente/DV Inválido
+635,a0V6g0000062xQ4EAI,AG,Agência/Conta Corrente/DV Inválido
+636,a0V6g0000062XR4EAM,AN,Conta Corrente/DV do Favorecido Inválido
+637,a0V6g0000062xr5EAA,AN,Conta Corrente/DV do Favorecido Inválido
+638,a0V6g0000062xRBEAY,AN,Conta Corrente/DV do Favorecido Inválido
+639,a0V6g0000062xrJEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+640,a0V6g0000062xrLEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+641,a0V6g0000062yQCEAY,AG,Agência/Conta Corrente/DV Inválido
+642,a0V6g0000062yqMEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+643,a0V6g0000062yRgEAI,AN,Conta Corrente/DV do Favorecido Inválido
+644,a0V6g0000062yRKEAY,AG,Agência/Conta Corrente/DV Inválido
+645,a0V6g0000062yRMEAY,AG,Agência/Conta Corrente/DV Inválido
+646,a0V6g0000062ysDEAQ,AG,Agência/Conta Corrente/DV Inválido
+647,a0V6g0000062ysEEAQ,AG,Agência/Conta Corrente/DV Inválido
+648,a0V6g0000062yTTEAY,AG,Agência/Conta Corrente/DV Inválido
+649,a0V6g0000062yU5EAI,AN,Conta Corrente/DV do Favorecido Inválido
+650,a0V6g0000062yufEAA,AG,Agência/Conta Corrente/DV Inválido
+651,a0V6g0000062yuhEAA,AG,Agência/Conta Corrente/DV Inválido
+652,a0V6g0000062yuNEAQ,AG,Agência/Conta Corrente/DV Inválido
+653,a0V6g0000063cRtEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+654,a0V6g0000063cRvEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+655,a0V6g0000063en8EAA,AN,Conta Corrente/DV do Favorecido Inválido
+656,a0V6g0000063enFEAQ,AG,Agência/Conta Corrente/DV Inválido
+657,a0V6g0000063enHEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+658,a0V6g0000063ik2EAA,AN,Conta Corrente/DV do Favorecido Inválido
+659,a0V6g0000063ik9EAA,AN,Conta Corrente/DV do Favorecido Inválido
+660,a0V6g0000063ikaEAA,AN,Conta Corrente/DV do Favorecido Inválido
+661,a0V6g0000063ikBEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+662,a0V6g0000063ikhEAA,AG,Agência/Conta Corrente/DV Inválido
+663,a0V6g0000063ikIEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+664,a0V6g0000063ikjEAA,AG,Agência/Conta Corrente/DV Inválido
+665,a0V6g0000063ikKEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+666,a0V6g0000063ikPEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+667,a0V6g0000063ikREAQ,AN,Conta Corrente/DV do Favorecido Inválido
+668,a0V6g0000063jbVEAQ,AC,Tipo de Serviço Inválido
+669,a0V6g0000063jbXEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+670,a0V6g0000063jthEAA,AN,Conta Corrente/DV do Favorecido Inválido
+671,a0V6g0000063jtjEAA,AN,Conta Corrente/DV do Favorecido Inválido
+672,a0V6g0000063jtqEAA,AN,Conta Corrente/DV do Favorecido Inválido
+673,a0V6g0000063jtsEAA,AN,Conta Corrente/DV do Favorecido Inválido
+674,a0V6g0000063kd2EAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+675,a0V6g0000063kd9EAA,AN,Conta Corrente/DV do Favorecido Inválido
+676,a0V6g0000063kdaEAA,AN,Conta Corrente/DV do Favorecido Inválido
+677,a0V6g0000063kdBEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+678,a0V6g0000063kdfEAA,AN,Conta Corrente/DV do Favorecido Inválido
+679,a0V6g0000063kdGEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+680,a0V6g000007O6VXEA0,AN,Conta Corrente/DV do Favorecido Inválido
+681,a0V6g000007O6VZEA0,AN,Conta Corrente/DV do Favorecido Inválido
+682,a0V6g000007O86iEAC,AN,Conta Corrente/DV do Favorecido Inválido
+683,a0V6g000007O86kEAC,AN,Conta Corrente/DV do Favorecido Inválido
+684,a0V6g000007O86pEAC,AG,Agência/Conta Corrente/DV Inválido
+685,a0V6g000007O86rEAC,AG,Agência/Conta Corrente/DV Inválido
+686,a0V6g000007O86yEAC,AC,Tipo de Serviço Inválido
+687,a0V6g000007O870EAC,AC,Tipo de Serviço Inválido
+688,a0V6g000007O877EAC,AN,Conta Corrente/DV do Favorecido Inválido
+689,a0V6g000007O879EAC,AN,Conta Corrente/DV do Favorecido Inválido
+690,a0V6g000007O87EEAS,AN,Conta Corrente/DV do Favorecido Inválido
+691,a0V6g000007O87GEAS,AN,Conta Corrente/DV do Favorecido Inválido
+692,a0V6g000007O87NEAS,AN,Conta Corrente/DV do Favorecido Inválido
+693,a0V6g000007O87PEAS,AN,Conta Corrente/DV do Favorecido Inválido
+694,a0V6g000007O87YEAS,AN,Conta Corrente/DV do Favorecido Inválido
+695,a0V6g000007O88zEAC,AN,Conta Corrente/DV do Favorecido Inválido
+696,a0V6g000007O891EAC,AN,Conta Corrente/DV do Favorecido Inválido
+697,a0V6g000007O898EAC,AN,Conta Corrente/DV do Favorecido Inválido
+698,a0V6g000007O89AEAS,AN,Conta Corrente/DV do Favorecido Inválido
+699,a0V6g000007O89HEAS,AN,Conta Corrente/DV do Favorecido Inválido
+700,a0V6g000007O89JEAS,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+701,a0V6g000007O89OEAS,AN,Conta Corrente/DV do Favorecido Inválido
+702,a0V6g000007O89QEAS,AN,Conta Corrente/DV do Favorecido Inválido
+703,a0V6g000007O9tbEAC,AN,Conta Corrente/DV do Favorecido Inválido
+704,a0V6g000007O9tCEAS,AN,Conta Corrente/DV do Favorecido Inválido
+705,a0V6g000007O9tdEAC,AN,Conta Corrente/DV do Favorecido Inválido
+706,a0V6g000007O9tEEAS,AN,Conta Corrente/DV do Favorecido Inválido
+707,a0V6g000007O9tiEAC,AN,Conta Corrente/DV do Favorecido Inválido
+708,a0V6g000007O9tJEAS,AN,Conta Corrente/DV do Favorecido Inválido
+709,a0V6g000007O9tkEAC,AC,Tipo de Serviço Inválido
+710,a0V6g000007O9tLEAS,AN,Conta Corrente/DV do Favorecido Inválido
+711,a0V6g000007O9trEAC,AN,Conta Corrente/DV do Favorecido Inválido
+712,a0V6g000007O9tSEAS,AN,Conta Corrente/DV do Favorecido Inválido
+713,a0V6g000007O9ttEAC,AN,Conta Corrente/DV do Favorecido Inválido
+714,a0V6g000007O9tUEAS,AN,Conta Corrente/DV do Favorecido Inválido
+715,a0V6g000007O9u0EAC,AN,Conta Corrente/DV do Favorecido Inválido
+716,a0V6g000007OBB9EAO,AN,Conta Corrente/DV do Favorecido Inválido
+717,a0V6g000007OBBfEAO,AN,Conta Corrente/DV do Favorecido Inválido
+718,a0V6g000007OBBGEA4,AN,Conta Corrente/DV do Favorecido Inválido
+719,a0V6g000007OBBhEAO,AN,Conta Corrente/DV do Favorecido Inválido
+720,a0V6g000007OBBIEA4,AN,Conta Corrente/DV do Favorecido Inválido
+721,a0V6g000007OBBPEA4,AN,Conta Corrente/DV do Favorecido Inválido
+722,a0V6g000007OBBvEAO,AC,Tipo de Serviço Inválido
+723,a0V6g000007OBBWEA4,AN,Conta Corrente/DV do Favorecido Inválido
+724,a0V6g000007OBBYEA4,AN,Conta Corrente/DV do Favorecido Inválido
+725,a0V6g000007OBC4EAO,AN,Conta Corrente/DV do Favorecido Inválido
+726,a0V6g000007OBC6EAO,AN,Conta Corrente/DV do Favorecido Inválido
+727,a0V6g000007OBCDEA4,AN,Conta Corrente/DV do Favorecido Inválido
+728,a0V6g000007OBCFEA4,AN,Conta Corrente/DV do Favorecido Inválido
+729,a0V6g000007OHuyEAG,AN,Conta Corrente/DV do Favorecido Inválido
+730,a0V6g000007OHv5EAG,AN,Conta Corrente/DV do Favorecido Inválido
+731,a0V6g000007OHv7EAG,AN,Conta Corrente/DV do Favorecido Inválido
+732,a0V6g000007OHvdEAG,AN,Conta Corrente/DV do Favorecido Inválido
+733,a0V6g000007OHvEEAW,AN,Conta Corrente/DV do Favorecido Inválido
+734,a0V6g000007OHvfEAG,AN,Conta Corrente/DV do Favorecido Inválido
+735,a0V6g000007OHvGEAW,AN,Conta Corrente/DV do Favorecido Inválido
+736,a0V6g000007OHvkEAG,AN,Conta Corrente/DV do Favorecido Inválido
+737,a0V6g000007OHvLEAW,AN,Conta Corrente/DV do Favorecido Inválido
+738,a0V6g000007OHvmEAG,AG,Agência/Conta Corrente/DV Inválido
+739,a0V6g000007OHvNEAW,AN,Conta Corrente/DV do Favorecido Inválido
+740,a0V6g000007OHvtEAG,AN,Conta Corrente/DV do Favorecido Inválido
+741,a0V6g000007OHvUEAW,AN,Conta Corrente/DV do Favorecido Inválido
+742,a0V6g000007OHvvEAG,AN,Conta Corrente/DV do Favorecido Inválido
+743,a0V6g000007OHvWEAW,AN,Conta Corrente/DV do Favorecido Inválido
+744,a0V6g000007OHw2EAG,AN,Conta Corrente/DV do Favorecido Inválido
+745,a0V6g000007OHw4EAG,AN,Conta Corrente/DV do Favorecido Inválido
+746,a0V6g0000064W8fEAE,AN,Conta Corrente/DV do Favorecido Inválido
+747,a0V6g0000064W8hEAE,AN,Conta Corrente/DV do Favorecido Inválido
+748,a0V6g0000064W8jEAE,AN,Conta Corrente/DV do Favorecido Inválido
+749,a0V6g0000064W8oEAE,AN,Conta Corrente/DV do Favorecido Inválido
+750,a0V6g0000064W8qEAE,AN,Conta Corrente/DV do Favorecido Inválido
+751,a0V6g0000064W8xEAE,AC,Tipo de Serviço Inválido
+752,a0V6g0000064W8zEAE,AC,Tipo de Serviço Inválido
+753,a0V6g0000064W94EAE,AC,Tipo de Serviço Inválido
+754,a0V6g0000064W96EAE,AN,Conta Corrente/DV do Favorecido Inválido
+755,a0V6g0000064W98EAE,AN,Conta Corrente/DV do Favorecido Inválido
+756,a0V6g0000064W9DEAU,AN,Conta Corrente/DV do Favorecido Inválido
+757,a0V6g0000064W9FEAU,AN,Conta Corrente/DV do Favorecido Inválido
+758,a0V6g0000064WewEAE,AC,Tipo de Serviço Inválido
+759,a0V6g0000064Wf3EAE,AN,Conta Corrente/DV do Favorecido Inválido
+760,a0V6g0000064Wf5EAE,AG,Agência/Conta Corrente/DV Inválido
+761,a0V6g0000064WfCEAU,AG,Agência/Conta Corrente/DV Inválido
+762,a0V6g0000064WfEEAU,AC,Tipo de Serviço Inválido
+763,a0V6g0000064WfJEAU,AT,Tipo/Número de Inscrição do Favorecido Inválido
+764,a0V6g0000064WfLEAU,AT,Tipo/Número de Inscrição do Favorecido Inválido
+765,a0V6g0000062TDDEA2,AN,Conta Corrente/DV do Favorecido Inválido
+766,a0V6g0000062TDFEA2,AN,Conta Corrente/DV do Favorecido Inválido
+767,a0V6g0000062TDKEA2,AN,Conta Corrente/DV do Favorecido Inválido
+768,a0V6g0000062TDMEA2,AN,Conta Corrente/DV do Favorecido Inválido
+769,a0V6g0000062TDTEA2,AC,Tipo de Serviço Inválido
+770,a0V6g0000062tekEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+771,a0V6g0000062tePEAQ,AG,Agência/Conta Corrente/DV Inválido
+772,a0V6g0000062tFlEAI,AN,Conta Corrente/DV do Favorecido Inválido
+773,a0V6g0000062xhrEAA,AN,Conta Corrente/DV do Favorecido Inválido
+774,a0V6g0000062xiMEAQ,AG,Agência/Conta Corrente/DV Inválido
+775,a0V6g0000062xJeEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+776,a0V6g0000062Xk5EAE,AN,Conta Corrente/DV do Favorecido Inválido
+777,a0V6g0000064UyuEAE,AC,Tipo de Serviço Inválido
+778,a0V6g0000064UyVEAU,AN,Conta Corrente/DV do Favorecido Inválido
+779,a0V6g0000064UywEAE,AC,Tipo de Serviço Inválido
+780,a0V6g0000064UyXEAU,AN,Conta Corrente/DV do Favorecido Inválido
+781,a0V6g0000064Uz3EAE,AN,Conta Corrente/DV do Favorecido Inválido
+782,a0V6g0000064Uz5EAE,AN,Conta Corrente/DV do Favorecido Inválido
+783,a0V6g0000064UzbEAE,AN,Conta Corrente/DV do Favorecido Inválido
+784,a0V6g0000064UzCEAU,AN,Conta Corrente/DV do Favorecido Inválido
+785,a0V6g0000064UzdEAE,AN,Conta Corrente/DV do Favorecido Inválido
+786,a0V6g0000064UzEEAU,AN,Conta Corrente/DV do Favorecido Inválido
+787,a0V6g000006cmlbEAA,AG,Agência/Conta Corrente/DV Inválido
+788,a0V6g000006cmldEAA,AG,Agência/Conta Corrente/DV Inválido
+789,a0V6g000006cmlkEAA,AC,Tipo de Serviço Inválido
+790,a0V6g000006cmlmEAA,AN,Conta Corrente/DV do Favorecido Inválido
+791,a0V6g000006cmlNEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+792,a0V6g000006cmlSEAQ,AG,Agência/Conta Corrente/DV Inválido
+793,a0V6g000006cmltEAA,AN,Conta Corrente/DV do Favorecido Inválido
+794,a0V6g000006cmlUEAQ,AG,Agência/Conta Corrente/DV Inválido
+795,a0V6g000006cmlvEAA,AN,Conta Corrente/DV do Favorecido Inválido
+796,a0V6g000006cmlWEAQ,AG,Agência/Conta Corrente/DV Inválido
+797,a0V6g000006cmm0EAA,AC,Tipo de Serviço Inválido
+798,a0V6g000006cmm2EAA,AC,Tipo de Serviço Inválido
+799,a0V6g000006cmncEAA,AC,Tipo de Serviço Inválido
+800,a0V6g000006cmneEAA,AC,Tipo de Serviço Inválido
+801,a0V6g000006comeEAA,AN,Conta Corrente/DV do Favorecido Inválido
+802,a0V6g000006comgEAA,AN,Conta Corrente/DV do Favorecido Inválido
+803,a0V6g000006comlEAA,AN,Conta Corrente/DV do Favorecido Inválido
+804,a0V6g000006comnEAA,AN,Conta Corrente/DV do Favorecido Inválido
+805,a0V6g000006comuEAA,AC,Tipo de Serviço Inválido
+806,a0V6g000006comVEAQ,AG,Agência/Conta Corrente/DV Inválido
+807,a0V6g000006comwEAA,AC,Tipo de Serviço Inválido
+808,a0V6g000006comXEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+809,a0V6g000006con3EAA,AN,Conta Corrente/DV do Favorecido Inválido
+810,a0V6g000006con5EAA,AN,Conta Corrente/DV do Favorecido Inválido
+811,a0V6g000006conAEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+812,a0V6g000006conbEAA,AN,Conta Corrente/DV do Favorecido Inválido
+813,a0V6g000006conCEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+814,a0V6g000006coniEAA,AN,Conta Corrente/DV do Favorecido Inválido
+815,a0V6g000006conJEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+816,a0V6g000006conkEAA,AG,Agência/Conta Corrente/DV Inválido
+817,a0V6g000006conLEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+818,a0V6g0000062mHeEAI,AN,Conta Corrente/DV do Favorecido Inválido
+819,a0V6g0000062mHnEAI,AN,Conta Corrente/DV do Favorecido Inválido
+820,a0V6g0000062mIDEAY,AG,Agência/Conta Corrente/DV Inválido
+821,a0V6g0000062mIEEAY,AL,Código do Banco Favorecido ou Depositário Inválido
+822,a0V6g0000062mirEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+823,a0V6g0000062misEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+824,a0V6g0000062mJQEAY,AN,Conta Corrente/DV do Favorecido Inválido
+825,a0V6g0000062mlDEAQ,AG,Agência/Conta Corrente/DV Inválido
+826,a0V6g0000062mlEEAQ,AG,Agência/Conta Corrente/DV Inválido
+827,a0V6g0000062mlFEAQ,AG,Agência/Conta Corrente/DV Inválido
+828,a0V6g0000062mM8EAI,AN,Conta Corrente/DV do Favorecido Inválido
+829,a0V6g0000062mmYEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+830,a0V6g0000062ouYEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+831,a0V6g0000062ouZEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+832,a0V6g0000062ov1EAA,AC,Tipo de Serviço Inválido
+833,a0V6g0000062ovcEAA,AN,Conta Corrente/DV do Favorecido Inválido
+834,a0V6g0000062ow6EAA,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+835,a0V6g0000062p2bEAA,AN,Conta Corrente/DV do Favorecido Inválido
+836,a0V6g0000062p3aEAA,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+837,a0V6g0000062p6SEAQ,AG,Agência/Conta Corrente/DV Inválido
+838,a0V6g0000062qYBEAY,AL,Código do Banco Favorecido ou Depositário Inválido
+839,a0V6g0000062qYnEAI,AG,Agência/Conta Corrente/DV Inválido
+840,a0V6g0000062QyzEAE,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+841,a0V6g0000062Qz0EAE,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+842,a0V6g0000062Qz1EAE,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+843,a0V6g0000062Qz2EAE,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+844,a0V6g0000062qzBEAQ,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+845,a0V6g0000062qzOEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+846,a0V6g0000062r02EAA,AN,Conta Corrente/DV do Favorecido Inválido
+847,a0V6g0000062r1xEAA,AN,Conta Corrente/DV do Favorecido Inválido
+848,a0V6g0000062r2tEAA,AC,Tipo de Serviço Inválido
+849,a0V6g0000062r4CEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+850,a0V6g0000062r4EEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+851,a0V6g0000062r4mEAA,AN,Conta Corrente/DV do Favorecido Inválido
+852,a0V6g0000062r4nEAA,AN,Conta Corrente/DV do Favorecido Inválido
+853,a0V6g0000062r4oEAA,AN,Conta Corrente/DV do Favorecido Inválido
+854,a0V6g0000062r6CEAQ,AG,Agência/Conta Corrente/DV Inválido
+855,a0V6g0000062r6DEAQ,AG,Agência/Conta Corrente/DV Inválido
+856,a0V6g0000062r6EEAQ,AG,Agência/Conta Corrente/DV Inválido
+857,a0V6g0000062r6FEAQ,AG,Agência/Conta Corrente/DV Inválido
+858,a0V6g0000062ra8EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+859,a0V6g0000062tgTEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+860,a0V6g0000062tinEAA,AG,Agência/Conta Corrente/DV Inválido
+861,a0V6g0000062tirEAA,AC,Tipo de Serviço Inválido
+862,a0V6g0000062tjeEAA,AG,Agência/Conta Corrente/DV Inválido
+863,a0V6g0000062tJeEAI,AC,Tipo de Serviço Inválido
+864,a0V6g0000062tjfEAA,AG,Agência/Conta Corrente/DV Inválido
+865,a0V6g0000062tjgEAA,AG,Agência/Conta Corrente/DV Inválido
+866,a0V6g0000062tjhEAA,AG,Agência/Conta Corrente/DV Inválido
+867,a0V6g0000062tkkEAA,AG,Agência/Conta Corrente/DV Inválido
+868,a0V6g0000062tklEAA,AG,Agência/Conta Corrente/DV Inválido
+869,a0V6g0000062tkmEAA,AG,Agência/Conta Corrente/DV Inválido
+870,a0V6g0000062tknEAA,AG,Agência/Conta Corrente/DV Inválido
+871,a0V6g0000062tkWEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+872,a0V6g0000062tkXEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+873,a0V6g0000062tl6EAA,AG,Agência/Conta Corrente/DV Inválido
+874,a0V6g0000062tl7EAA,AG,Agência/Conta Corrente/DV Inválido
+875,a0V6g0000062tLbEAI,AN,Conta Corrente/DV do Favorecido Inválido
+876,a0V6g0000062tLcEAI,AN,Conta Corrente/DV do Favorecido Inválido
+877,a0V6g0000062TmqEAE,AN,Conta Corrente/DV do Favorecido Inválido
+878,a0V6g0000062TmWEAU,AT,Tipo/Número de Inscrição do Favorecido Inválido
+879,a0V6g0000062TmXEAU,AT,Tipo/Número de Inscrição do Favorecido Inválido
+880,a0V6g0000062TmZEAU,AG,Agência/Conta Corrente/DV Inválido
+881,a0V6g0000062Tn4EAE,AG,Agência/Conta Corrente/DV Inválido
+882,a0V6g0000062Tn5EAE,AC,Tipo de Serviço Inválido
+883,a0V6g0000062Tn6EAE,AC,Tipo de Serviço Inválido
+884,a0V6g0000062Tn7EAE,AC,Tipo de Serviço Inválido
+885,a0V6g0000062TnKEAU,AN,Conta Corrente/DV do Favorecido Inválido
+886,a0V6g0000062TnLEAU,AN,Conta Corrente/DV do Favorecido Inválido
+887,a0V6g0000062TnMEAU,AN,Conta Corrente/DV do Favorecido Inválido
+888,a0V6g0000062tObEAI,AN,Conta Corrente/DV do Favorecido Inválido
+889,a0V6g0000062tp1EAA,AN,Conta Corrente/DV do Favorecido Inválido
+890,a0V6g0000062uyrEAA,AN,Conta Corrente/DV do Favorecido Inválido
+891,a0V6g0000062uysEAA,AN,Conta Corrente/DV do Favorecido Inválido
+892,a0V6g0000062uytEAA,AN,Conta Corrente/DV do Favorecido Inválido
+893,a0V6g0000062uZREAY,AT,Tipo/Número de Inscrição do Favorecido Inválido
+894,a0V6g0000062UzUEAU,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+895,a0V6g0000062v0pEAA,AC,Tipo de Serviço Inválido
+896,a0V6g0000062v0vEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+897,a0V6g0000062wfxEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+898,a0V6g0000062wfyEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+899,a0V6g0000062wgAEAQ,AC,Tipo de Serviço Inválido
+900,a0V6g0000062wgBEAQ,AC,Tipo de Serviço Inválido
+901,a0V6g0000062wgCEAQ,AC,Tipo de Serviço Inválido
+902,a0V6g0000062wGvEAI,AC,Tipo de Serviço Inválido
+903,a0V6g0000062wGwEAI,AC,Tipo de Serviço Inválido
+904,a0V6g0000062wGWEAY,AN,Conta Corrente/DV do Favorecido Inválido
+905,a0V6g0000062wGxEAI,AC,Tipo de Serviço Inválido
+906,a0V6g0000062wHnEAI,AG,Agência/Conta Corrente/DV Inválido
+907,a0V6g0000062whoEAA,AG,Agência/Conta Corrente/DV Inválido
+908,a0V6g0000062whpEAA,AG,Agência/Conta Corrente/DV Inválido
+909,a0V6g0000062whqEAA,AG,Agência/Conta Corrente/DV Inválido
+910,a0V6g0000062whrEAA,AG,Agência/Conta Corrente/DV Inválido
+911,a0V6g0000062xmwEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+912,a0V6g0000062xNlEAI,AG,Agência/Conta Corrente/DV Inválido
+913,a0V6g0000062xNmEAI,AG,Agência/Conta Corrente/DV Inválido
+914,a0V6g0000062XnrEAE,AN,Conta Corrente/DV do Favorecido Inválido
+915,a0V6g0000062xPuEAI,AN,Conta Corrente/DV do Favorecido Inválido
+916,a0V6g0000062xPvEAI,AN,Conta Corrente/DV do Favorecido Inválido
+917,a0V6g0000062xPwEAI,AN,Conta Corrente/DV do Favorecido Inválido
+918,a0V6g0000062xRgEAI,AG,Agência/Conta Corrente/DV Inválido
+919,a0V6g0000062xRhEAI,AG,Agência/Conta Corrente/DV Inválido
+920,a0V6g0000062xRiEAI,AG,Agência/Conta Corrente/DV Inválido
+921,a0V6g0000062yQEEAY,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+922,a0V6g0000062yqFEAQ,AG,Agência/Conta Corrente/DV Inválido
+923,a0V6g0000062yQFEAY,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+924,a0V6g0000062yQGEAY,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+925,a0V6g0000062yQHEAY,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+926,a0V6g0000062YrIEAU,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+927,a0V6g0000062yRIEAY,AG,Agência/Conta Corrente/DV Inválido
+928,a0V6g0000062YrJEAU,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+929,a0V6g0000062yRJEAY,AG,Agência/Conta Corrente/DV Inválido
+930,a0V6g0000062ys9EAA,AC,Tipo de Serviço Inválido
+931,a0V6g0000062ysAEAQ,AG,Agência/Conta Corrente/DV Inválido
+932,a0V6g0000062ySuEAI,AG,Agência/Conta Corrente/DV Inválido
+933,a0V6g0000062YtPEAU,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+934,a0V6g0000062yugEAA,AG,Agência/Conta Corrente/DV Inválido
+935,a0V6g0000062yUlEAI,AG,Agência/Conta Corrente/DV Inválido
+936,a0V6g0000063enAEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+937,a0V6g0000063enBEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+938,a0V6g0000063enCEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+939,a0V6g0000063enDEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+940,a0V6g0000063ik4EAA,AN,Conta Corrente/DV do Favorecido Inválido
+941,a0V6g0000063ik5EAA,AN,Conta Corrente/DV do Favorecido Inválido
+942,a0V6g0000063ik6EAA,AN,Conta Corrente/DV do Favorecido Inválido
+943,a0V6g0000063ik7EAA,AN,Conta Corrente/DV do Favorecido Inválido
+944,a0V6g0000063ikcEAA,AN,Conta Corrente/DV do Favorecido Inválido
+945,a0V6g0000063ikdEAA,AG,Agência/Conta Corrente/DV Inválido
+946,a0V6g0000063ikeEAA,AG,Agência/Conta Corrente/DV Inválido
+947,a0V6g0000063ikfEAA,AG,Agência/Conta Corrente/DV Inválido
+948,a0V6g0000063ikLEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+949,a0V6g0000063ikMEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+950,a0V6g000007O86tEAC,AC,Tipo de Serviço Inválido
+951,a0V6g000007O86uEAC,AC,Tipo de Serviço Inválido
+952,a0V6g000007O86vEAC,AC,Tipo de Serviço Inválido
+953,a0V6g000007O86wEAC,AC,Tipo de Serviço Inválido
+954,a0V6g000006conmEAA,AG,Agência/Conta Corrente/DV Inválido
+955,a0V6g000006connEAA,AG,Agência/Conta Corrente/DV Inválido
+956,a0V6g000006conoEAA,AG,Agência/Conta Corrente/DV Inválido
+957,a0V6g000006conpEAA,AG,Agência/Conta Corrente/DV Inválido
+958,a0V6g000006conVEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+959,a0V6g000006conWEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+960,a0V6g000006conXEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+961,a0V6g000006conYEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+962,a0V6g000006ctpDEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+963,a0V6g000006ctpEEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+964,a0V6g000006ctpFEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+965,a0V6g000006ctpGEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+966,a0V6g000006ctpUEAQ,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+967,a0V6g000006cwuDEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+968,a0V6g000006cwuEEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+969,a0V6g000006cwuFEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+970,a0V6g0000062GR3EAM,AN,Conta Corrente/DV do Favorecido Inválido
+971,a0V6g0000062GR4EAM,AN,Conta Corrente/DV do Favorecido Inválido
+972,a0V6g0000062GR5EAM,AN,Conta Corrente/DV do Favorecido Inválido
+973,a0V6g0000062GR6EAM,AN,Conta Corrente/DV do Favorecido Inválido
+974,a0V6g0000062GR7EAM,AN,Conta Corrente/DV do Favorecido Inválido
+975,a0V6g0000062GRbEAM,AC,Tipo de Serviço Inválido
+976,a0V6g0000062gRIEAY,AN,Conta Corrente/DV do Favorecido Inválido
+977,a0V6g0000062GRLEA2,AC,Tipo de Serviço Inválido
+978,a0V6g0000062GRMEA2,AG,Agência/Conta Corrente/DV Inválido
+979,a0V6g0000062GRNEA2,AN,Conta Corrente/DV do Favorecido Inválido
+980,a0V6g0000062lZWEAY,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+981,a0V6g0000062m2aEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+982,a0V6g0000062m2XEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+983,a0V6g0000062M3bEAE,AN,Conta Corrente/DV do Favorecido Inválido
+984,a0V6g0000062M3cEAE,AN,Conta Corrente/DV do Favorecido Inválido
+985,a0V6g0000062M3dEAE,AN,Conta Corrente/DV do Favorecido Inválido
+986,a0V6g0000062M3eEAE,AN,Conta Corrente/DV do Favorecido Inválido
+987,a0V6g0000062M3KEAU,AN,Conta Corrente/DV do Favorecido Inválido
+988,a0V6g0000062M3NEAU,AN,Conta Corrente/DV do Favorecido Inválido
+989,a0V6g0000062M3rEAE,AN,Conta Corrente/DV do Favorecido Inválido
+990,a0V6g0000062M3sEAE,AN,Conta Corrente/DV do Favorecido Inválido
+991,a0V6g0000062M3tEAE,AN,Conta Corrente/DV do Favorecido Inválido
+992,a0V6g0000062M3uEAE,AN,Conta Corrente/DV do Favorecido Inválido
+993,a0V6g0000062M48EAE,AC,Tipo de Serviço Inválido
+994,a0V6g0000062M4AEAU,AN,Conta Corrente/DV do Favorecido Inválido
+995,a0V6g0000062m6vEAA,AN,Conta Corrente/DV do Favorecido Inválido
+996,a0V6g0000062m6wEAA,AN,Conta Corrente/DV do Favorecido Inválido
+997,a0V6g0000062m8VEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+998,a0V6g0000062omaEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+999,a0V6g0000062ombEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+1000,a0V6g0000062omcEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+1001,a0V6g0000062omZEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+1002,a0V6g0000062on4EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1003,a0V6g0000062oP5EAI,AG,Agência/Conta Corrente/DV Inválido
+1004,a0V6g0000062ophEAA,AG,Agência/Conta Corrente/DV Inválido
+1005,a0V6g000006cyfaEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1006,a0V6g000006cyfbEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1007,a0V6g000006cyfcEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1008,a0V6g000006cyfdEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1009,a0V6g000006cyfrEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1010,a0V6g000006cyfsEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1011,a0V6g000006cyftEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1012,a0V6g000006cyfuEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1013,a0V6g000006cyg7EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1014,a0V6g000006cyg8EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1015,a0V6g000006cyg9EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1016,a0V6g000006cygAEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1017,a0V6g000007NpvBEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1018,a0V6g000007NpvCEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1019,a0V6g000007NpvDEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1020,a0V6g000007NpvEEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1021,a0V6g000007NpvFEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1022,a0V6g000007NpvjEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1023,a0V6g000007NpvkEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1024,a0V6g000007NpvlEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1025,a0V6g000007NpvmEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1026,a0V6g000007NpvSEAS,AC,Tipo de Serviço Inválido
+1027,a0V6g000007NpvTEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1028,a0V6g000007NpvUEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1029,a0V6g000007NpvVEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1030,a0V6g000007Npw0EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1031,a0V6g000007Npw1EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1032,a0V6g000007Npw2EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1033,a0V6g000007Npw3EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1034,a0V6g000007Nr4CEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1035,a0V6g000007Nr4DEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1036,a0V6g000007Nr4EEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1037,a0V6g000007Nr4FEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1038,a0V6g000007Nr4kEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1039,a0V6g000007Nr4lEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1040,a0V6g000007Nr4mEAC,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1041,a0V6g000007Nr4nEAC,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1042,a0V6g000007Nr4TEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1043,a0V6g000007Nr4UEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1044,a0V6g000007Nr4VEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1045,a0V6g000007Nr4WEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1046,a0V6g000007Nr50EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1047,a0V6g000007Nr51EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1048,a0V6g000007Nr52EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1049,a0V6g000007Nr53EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1050,a0V6g000007Nr54EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1051,a0V6g000007NUjwEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1052,a0V6g000007NUjxEAG,AG,Agência/Conta Corrente/DV Inválido
+1053,a0V6g000007NUjyEAG,AG,Agência/Conta Corrente/DV Inválido
+1054,a0V6g000007NUjzEAG,AG,Agência/Conta Corrente/DV Inválido
+1055,a0V6g000007NUmdEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1056,a0V6g000007NUmeEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1057,a0V6g000007NUmfEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1058,a0V6g000007NUmgEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1059,a0V6g000007NUmOEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1060,a0V6g000007NUmPEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1061,a0V6g000007NUmuEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1062,a0V6g000007NUmvEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1063,a0V6g000007NUmwEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1064,a0V6g000007NUp1EAG,AN,Conta Corrente/DV do Favorecido Inválido
+1065,a0V6g000007NUp2EAG,AN,Conta Corrente/DV do Favorecido Inválido
+1066,a0V6g000007NUp3EAG,AN,Conta Corrente/DV do Favorecido Inválido
+1067,a0V6g000007NUp4EAG,AN,Conta Corrente/DV do Favorecido Inválido
+1068,a0V6g000007NUp5EAG,AN,Conta Corrente/DV do Favorecido Inválido
+1069,a0V6g000007NUpbEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1070,a0V6g000007NUpcEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1071,a0V6g000007NUpIEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1072,a0V6g000007NUpJEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1073,a0V6g000007NUpKEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1074,a0V6g000007NUpLEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1075,a0V6g000007NUpqEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1076,a0V6g000007NUpsEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1077,a0V6g000007NUptEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1078,a0V6g000007NUpZEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1079,a0V6g000007NUq6EAG,AG,Agência/Conta Corrente/DV Inválido
+1080,a0V6g000007NUq7EAG,AG,Agência/Conta Corrente/DV Inválido
+1081,a0V6g000007NUq8EAG,AG,Agência/Conta Corrente/DV Inválido
+1082,a0V6g000007NUq9EAG,AG,Agência/Conta Corrente/DV Inválido
+1083,a0V6g000007NUqOEAW,AC,Tipo de Serviço Inválido
+1084,a0V6g000007NUqPEAW,AC,Tipo de Serviço Inválido
+1085,a0V6g000007NUqQEAW,AC,Tipo de Serviço Inválido
+1086,a0V6g0000061WSSEA2,AN,Conta Corrente/DV do Favorecido Inválido
+1087,a0V6g0000061WSXEA2,AN,Conta Corrente/DV do Favorecido Inválido
+1088,a0V6g0000061WTzEAM,AG,Agência/Conta Corrente/DV Inválido
+1089,a0V6g0000061WX3EAM,AN,Conta Corrente/DV do Favorecido Inválido
+1090,a0V6g0000061WXDEA2,AG,Agência/Conta Corrente/DV Inválido
+1091,a0V6g0000061X4PEAU,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1092,a0V6g0000061X7iEAE,AN,Conta Corrente/DV do Favorecido Inválido
+1093,a0V6g0000061y7aEAA,AC,Tipo de Serviço Inválido
+1094,a0V6g0000061y7bEAA,AC,Tipo de Serviço Inválido
+1095,a0V6g0000061y7oEAA,AC,Tipo de Serviço Inválido
+1096,a0V6g0000061y7pEAA,AC,Tipo de Serviço Inválido
+1097,a0V6g0000061y7qEAA,AC,Tipo de Serviço Inválido
+1098,a0V6g0000061y7rEAA,AC,Tipo de Serviço Inválido
+1099,a0V6g0000061y7sEAA,AC,Tipo de Serviço Inválido
+1100,a0V6g0000061y7YEAQ,AC,Tipo de Serviço Inválido
+1101,a0V6g0000061y7ZEAQ,AC,Tipo de Serviço Inválido
+1102,a0V6g0000061y85EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1103,a0V6g0000061y86EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1104,a0V6g0000061y8dEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1105,a0V6g0000061y8fEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1106,a0V6g0000061y8gEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1107,a0V6g0000061y8MEAQ,AG,Agência/Conta Corrente/DV Inválido
+1108,a0V6g0000061y8NEAQ,AG,Agência/Conta Corrente/DV Inválido
+1109,a0V6g0000061y8OEAQ,AG,Agência/Conta Corrente/DV Inválido
+1110,a0V6g0000061y8PEAQ,AG,Agência/Conta Corrente/DV Inválido
+1111,a0V6g0000061y8tEAA,AG,Agência/Conta Corrente/DV Inválido
+1112,a0V6g0000061y8uEAA,AG,Agência/Conta Corrente/DV Inválido
+1113,a0V6g0000061y8vEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1114,a0V6g0000061y8wEAA,AG,Agência/Conta Corrente/DV Inválido
+1115,a0V6g0000061y9AEAQ,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1116,a0V6g0000061y9BEAQ,AC,Tipo de Serviço Inválido
+1117,a0V6g0000061y9CEAQ,AC,Tipo de Serviço Inválido
+1118,a0V6g0000061y9DEAQ,AC,Tipo de Serviço Inválido
+1119,a0V6g0000061yIGEAY,AG,Agência/Conta Corrente/DV Inválido
+1120,a0V6g0000062gkBEAQ,AG,Agência/Conta Corrente/DV Inválido
+1121,a0V6g0000062gkCEAQ,AG,Agência/Conta Corrente/DV Inválido
+1122,a0V6g0000062gLjEAI,AG,Agência/Conta Corrente/DV Inválido
+1123,a0V6g000005OiwQEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1124,a0V6g000005OiwREAS,AN,Conta Corrente/DV do Favorecido Inválido
+1125,a0V6g000005OiwSEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1126,a0V6g000005OiwTEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1127,a0V6g000005OiwzEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1128,a0V6g000005Oix0EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1129,a0V6g000005Oix1EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1130,a0V6g000005OixEEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1131,a0V6g000005OixFEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1132,a0V6g000005OixGEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1133,a0V6g000005OixHEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1134,a0V6g000005OixmEAC,AC,Tipo de Serviço Inválido
+1135,a0V6g000005OixnEAC,AC,Tipo de Serviço Inválido
+1136,a0V6g000005OixoEAC,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1137,a0V6g000005OixpEAC,AC,Tipo de Serviço Inválido
+1138,a0V6g000005OixVEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1139,a0V6g000005OixWEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1140,a0V6g000005OixXEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1141,a0V6g000005OixYEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1142,a0V6g000005OJOnEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1143,a0V6g000005OJOoEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1144,a0V6g000005OJOpEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1145,a0V6g000005OJOqEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1146,a0V6g000005OJOWEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1147,a0V6g000005OJOXEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1148,a0V6g000005OJOYEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1149,a0V6g000005OJOZEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1150,a0V6g000005OJP4EAO,AN,Conta Corrente/DV do Favorecido Inválido
+1151,a0V6g000005OJP6EAO,AG,Agência/Conta Corrente/DV Inválido
+1152,a0V6g000005OJP7EAO,AC,Tipo de Serviço Inválido
+1153,a0V6g000005OjqaEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1154,a0V6g000005OjqHEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1155,a0V6g000005OjqIEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1156,a0V6g000005OjqJEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1157,a0V6g000005OjqoEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1158,a0V6g000005OjqpEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1159,a0V6g000005OjqqEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1160,a0V6g000005OjqrEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1161,a0V6g000005OjqXEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1162,a0V6g000005OjqYEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1163,a0V6g000005OjqZEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1164,a0V6g000005Ojr4EAC,AG,Agência/Conta Corrente/DV Inválido
+1165,a0V6g000005Ojr5EAC,AG,Agência/Conta Corrente/DV Inválido
+1166,a0V6g000005Ojr6EAC,AC,Tipo de Serviço Inválido
+1167,a0V6g000005Ojr7EAC,AC,Tipo de Serviço Inválido
+1168,a0V6g000005OjtEEAS,AC,Tipo de Serviço Inválido
+1169,a0V6g000005OjtFEAS,AC,Tipo de Serviço Inválido
+1170,a0V6g000005OjtGEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1171,a0V6g000005OjtHEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1172,a0V6g000005OmrgEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1173,a0V6g000005OmrhEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1174,a0V6g000005OmriEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1175,a0V6g000005OmrvEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1176,a0V6g000005OmrwEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1177,a0V6g000005OmrxEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1178,a0V6g000005OmryEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1179,a0V6g000005OmrzEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1180,a0V6g000005OmsCEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1181,a0V6g000005OmsDEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1182,a0V6g000005OmsEEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1183,a0V6g000005OmsFEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1184,a0V6g000005OmskEAC,AC,Tipo de Serviço Inválido
+1185,a0V6g000005OmslEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1186,a0V6g000005OmsnEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1187,a0V6g000005OmsTEAS,AG,Agência/Conta Corrente/DV Inválido
+1188,a0V6g000005OmsUEAS,AG,Agência/Conta Corrente/DV Inválido
+1189,a0V6g000005OmsVEAS,AC,Tipo de Serviço Inválido
+1190,a0V6g000005OmsWEAS,AC,Tipo de Serviço Inválido
+1191,a0V6g000005OmvAEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1192,a0V6g000005OmvBEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1193,a0V6g000005OmvCEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1194,a0V6g000005OmvDEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1195,a0V6g000005OmvhEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1196,a0V6g000005OmviEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1197,a0V6g000005OmvjEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1198,a0V6g000005OmvkEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1199,a0V6g000005OmvlEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1200,a0V6g000005OmvREAS,AG,Agência/Conta Corrente/DV Inválido
+1201,a0V6g000005OmvSEAS,AG,Agência/Conta Corrente/DV Inválido
+1202,a0V6g000005OmvTEAS,AC,Tipo de Serviço Inválido
+1203,a0V6g000005OmvUEAS,AC,Tipo de Serviço Inválido
+1204,a0V6g000005OmvyEAC,AC,Tipo de Serviço Inválido
+1205,a0V6g000005OmvzEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1206,a0V6g000005Omw0EAC,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1207,a0V6g000005On2eEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1208,a0V6g000005On2fEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1209,a0V6g000005On2gEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1210,a0V6g000005On2hEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1211,a0V6g000005On2NEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1212,a0V6g000005On2OEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1213,a0V6g000005On2PEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1214,a0V6g000005On2QEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1215,a0V6g000005On2REAS,AN,Conta Corrente/DV do Favorecido Inválido
+1216,a0V6g000005On2vEAC,AC,Tipo de Serviço Inválido
+1217,a0V6g000005On4JEAS,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1218,a0V6g000005PHILEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1219,a0V6g000005PHIMEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1220,a0V6g000005PHINEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1221,a0V6g000005PHIOEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1222,a0V6g000005eaSOEAY,AC,Tipo de Serviço Inválido
+1223,a0V6g000005easqEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1224,a0V6g000005easrEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1225,a0V6g000005eassEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1226,a0V6g000007O86xEAC,AC,Tipo de Serviço Inválido
+1227,a0V6g000007O87AEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1228,a0V6g000007O87BEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1229,a0V6g000007O87CEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1230,a0V6g000007O87DEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1231,a0V6g000007O87REAS,AN,Conta Corrente/DV do Favorecido Inválido
+1232,a0V6g000007O87SEAS,AG,Agência/Conta Corrente/DV Inválido
+1233,a0V6g000007O87TEAS,AG,Agência/Conta Corrente/DV Inválido
+1234,a0V6g000007O893EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1235,a0V6g000007O894EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1236,a0V6g000007O895EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1237,a0V6g000007O896EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1238,a0V6g000007O89KEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1239,a0V6g000007O89LEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1240,a0V6g000007O89MEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1241,a0V6g000007O89NEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1242,a0V6g000007O8AQEA0,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1243,a0V6g000007O9t9EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1244,a0V6g000007O9tAEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1245,a0V6g000007O9teEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1246,a0V6g000007O9tfEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1247,a0V6g000007O9tgEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1248,a0V6g000007O9thEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1249,a0V6g000007O9tNEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1250,a0V6g000007O9tOEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1251,a0V6g000007O9tPEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1252,a0V6g000007O9tQEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1253,a0V6g000007O9tREAS,AN,Conta Corrente/DV do Favorecido Inválido
+1254,a0V6g000007O9tvEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1255,a0V6g000007O9twEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1256,a0V6g000007O9txEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1257,a0V6g000007O9tyEAC,AG,Agência/Conta Corrente/DV Inválido
+1258,a0V6g000007OBBBEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1259,a0V6g000007OBBCEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1260,a0V6g000007OBBDEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1261,a0V6g000007OBBEEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1262,a0V6g000007OBBFEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1263,a0V6g000007OBBjEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1264,a0V6g000007OBBkEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1265,a0V6g000007OBBlEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1266,a0V6g000007OBBmEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1267,a0V6g000007OBBSEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1268,a0V6g000007OBBTEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1269,a0V6g000007OBBUEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1270,a0V6g000007OBBVEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1271,a0V6g000007OBBzEAO,AC,Tipo de Serviço Inválido
+1272,a0V6g000007OBC0EAO,AN,Conta Corrente/DV do Favorecido Inválido
+1273,a0V6g000007OBC1EAO,AN,Conta Corrente/DV do Favorecido Inválido
+1274,a0V6g000007OBC2EAO,AN,Conta Corrente/DV do Favorecido Inválido
+1275,a0V6g000007OBC3EAO,AN,Conta Corrente/DV do Favorecido Inválido
+1276,a0V6g000007OHv8EAG,AN,Conta Corrente/DV do Favorecido Inválido
+1277,a0V6g000007OHv9EAG,AN,Conta Corrente/DV do Favorecido Inválido
+1278,a0V6g000007OHvAEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1279,a0V6g000007OHvBEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1280,a0V6g000007OHvCEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1281,a0V6g000007OHvgEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1282,a0V6g000007OHvhEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1283,a0V6g000007OHviEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1284,a0V6g000007OHvjEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1285,a0V6g000007OHvPEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1286,a0V6g000007OHvQEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1287,a0V6g000007OHvREAW,AN,Conta Corrente/DV do Favorecido Inválido
+1288,a0V6g000007OHvSEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1289,a0V6g000007OHvxEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1290,a0V6g000007OHvyEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1291,a0V6g000007OHvzEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1292,a0V6g000007OHw0EAG,AN,Conta Corrente/DV do Favorecido Inválido
+1293,a0V6g0000064W8dEAE,AC,Tipo de Serviço Inválido
+1294,a0V6g0000064W8eEAE,AC,Tipo de Serviço Inválido
+1295,a0V6g0000064W8sEAE,AG,Agência/Conta Corrente/DV Inválido
+1296,a0V6g0000064W8tEAE,AG,Agência/Conta Corrente/DV Inválido
+1297,a0V6g0000064W8uEAE,AG,Agência/Conta Corrente/DV Inválido
+1298,a0V6g0000064W8vEAE,AC,Tipo de Serviço Inválido
+1299,a0V6g0000064W99EAE,AN,Conta Corrente/DV do Favorecido Inválido
+1300,a0V6g0000064W9AEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1301,a0V6g0000064W9BEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1302,a0V6g0000064W9CEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1303,a0V6g0000064Wf6EAE,AG,Agência/Conta Corrente/DV Inválido
+1304,a0V6g0000064Wf7EAE,AC,Tipo de Serviço Inválido
+1305,a0V6g0000064Wf8EAE,AC,Tipo de Serviço Inválido
+1306,a0V6g0000064Wf9EAE,AG,Agência/Conta Corrente/DV Inválido
+1307,a0V6g0000064WfAEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1308,a0V6g0000064WfNEAU,AG,Agência/Conta Corrente/DV Inválido
+1309,a0V6g0000062TDOEA2,AN,Conta Corrente/DV do Favorecido Inválido
+1310,a0V6g0000062TDPEA2,AN,Conta Corrente/DV do Favorecido Inválido
+1311,a0V6g0000062TDQEA2,AN,Conta Corrente/DV do Favorecido Inválido
+1312,a0V6g0000062tEDEAY,AG,Agência/Conta Corrente/DV Inválido
+1313,a0V6g0000062tEnEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1314,a0V6g0000062teREAQ,AG,Agência/Conta Corrente/DV Inválido
+1315,a0V6g0000062xiNEAQ,AG,Agência/Conta Corrente/DV Inválido
+1316,a0V6g0000062xJcEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1317,a0V6g0000062XKCEA2,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1318,a0V6g0000064UyTEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1319,a0V6g0000064UyUEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1320,a0V6g0000064UyyEAE,AC,Tipo de Serviço Inválido
+1321,a0V6g0000064UyzEAE,AC,Tipo de Serviço Inválido
+1322,a0V6g0000064Uz0EAE,AN,Conta Corrente/DV do Favorecido Inválido
+1323,a0V6g0000064Uz1EAE,AN,Conta Corrente/DV do Favorecido Inválido
+1324,a0V6g0000064UZbEAM,AN,Conta Corrente/DV do Favorecido Inválido
+1325,a0V6g0000064UZcEAM,AN,Conta Corrente/DV do Favorecido Inválido
+1326,a0V6g0000064UZdEAM,AN,Conta Corrente/DV do Favorecido Inválido
+1327,a0V6g0000064UZeEAM,AN,Conta Corrente/DV do Favorecido Inválido
+1328,a0V6g0000064UzFEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1329,a0V6g000006cmlaEAA,AG,Agência/Conta Corrente/DV Inválido
+1330,a0V6g000006cmlHEAQ,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1331,a0V6g000006cmlIEAQ,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1332,a0V6g000006cmlnEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1333,a0V6g000006cmloEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1334,a0V6g000006cmlpEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1335,a0V6g000006cmlqEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1336,a0V6g000006cmlrEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1337,a0V6g000006cmlXEAQ,AG,Agência/Conta Corrente/DV Inválido
+1338,a0V6g000006cmlYEAQ,AG,Agência/Conta Corrente/DV Inválido
+1339,a0V6g000006cmlZEAQ,AG,Agência/Conta Corrente/DV Inválido
+1340,a0V6g000006cmngEAA,AC,Tipo de Serviço Inválido
+1341,a0V6g000006comaEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1342,a0V6g000006combEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1343,a0V6g000006comcEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1344,a0V6g000006compEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1345,a0V6g000006comqEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1346,a0V6g000006comrEAA,AG,Agência/Conta Corrente/DV Inválido
+1347,a0V6g000006comsEAA,AG,Agência/Conta Corrente/DV Inválido
+1348,a0V6g000006comZEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1349,a0V6g000006con6EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1350,a0V6g000006con7EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1351,a0V6g000006con8EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1352,a0V6g000006con9EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1353,a0V6g000006condEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1354,a0V6g000006coneEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1355,a0V6g000006confEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1356,a0V6g000006congEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1357,a0V6g000006conhEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1358,a0V6g000006conNEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1359,a0V6g000006conOEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1360,a0V6g000006conPEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1361,a0V6g000006conQEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1362,a0V6g000006conMEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1363,a0V6g000006conqEAA,AG,Agência/Conta Corrente/DV Inválido
+1364,a0V6g000006conREAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1365,a0V6g000006consEAA,AG,Agência/Conta Corrente/DV Inválido
+1366,a0V6g000006conTEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1367,a0V6g000006conzEAA,AC,Tipo de Serviço Inválido
+1368,a0V6g000006coo1EAA,AC,Tipo de Serviço Inválido
+1369,a0V6g000006ctpIEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1370,a0V6g000006ctpKEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1371,a0V6g000006ctpPEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1372,a0V6g000006ctpREAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1373,a0V6g000006cwu9EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1374,a0V6g000006cwuBEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1375,a0V6g000006cwuGEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1376,a0V6g000006cwuIEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1377,a0V6g0000062gQDEAY,AG,Agência/Conta Corrente/DV Inválido
+1378,a0V6g0000062gQKEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1379,a0V6g0000062GQzEAM,AN,Conta Corrente/DV do Favorecido Inválido
+1380,a0V6g0000062GR1EAM,AN,Conta Corrente/DV do Favorecido Inválido
+1381,a0V6g0000062GR8EAM,AN,Conta Corrente/DV do Favorecido Inválido
+1382,a0V6g0000062GRAEA2,AN,Conta Corrente/DV do Favorecido Inválido
+1383,a0V6g0000062GRHEA2,AC,Tipo de Serviço Inválido
+1384,a0V6g0000062GRJEA2,AC,Tipo de Serviço Inválido
+1385,a0V6g0000062GROEA2,AG,Agência/Conta Corrente/DV Inválido
+1386,a0V6g0000062gROEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1387,a0V6g0000062GRQEA2,AC,Tipo de Serviço Inválido
+1388,a0V6g0000062GRZEA2,AC,Tipo de Serviço Inválido
+1389,a0V6g0000062gUBEAY,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1390,a0V6g0000062lzIEAQ,AC,Tipo de Serviço Inválido
+1391,a0V6g0000062lZJEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1392,a0V6g0000062m0rEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1393,a0V6g0000062M3fEAE,AN,Conta Corrente/DV do Favorecido Inválido
+1394,a0V6g0000062M3GEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1395,a0V6g0000062M3hEAE,AN,Conta Corrente/DV do Favorecido Inválido
+1396,a0V6g0000062M3IEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1397,a0V6g0000062M3oEAE,AN,Conta Corrente/DV do Favorecido Inválido
+1398,a0V6g0000062M3qEAE,AN,Conta Corrente/DV do Favorecido Inválido
+1399,a0V6g0000062M3REAU,AN,Conta Corrente/DV do Favorecido Inválido
+1400,a0V6g0000062M3vEAE,AN,Conta Corrente/DV do Favorecido Inválido
+1401,a0V6g0000062M3WEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1402,a0V6g0000062M3xEAE,AN,Conta Corrente/DV do Favorecido Inválido
+1403,a0V6g0000062M3YEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1404,a0V6g0000062M3zEAE,AG,Agência/Conta Corrente/DV Inválido
+1405,a0V6g0000062M44EAE,AG,Agência/Conta Corrente/DV Inválido
+1406,a0V6g0000062M46EAE,AC,Tipo de Serviço Inválido
+1407,a0V6g0000062M4FEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1408,a0V6g0000062M4OEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1409,a0V6g0000062m4VEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1410,a0V6g0000062m4XEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1411,a0V6g0000062m9xEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1412,a0V6g0000062mA2EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1413,a0V6g0000062mA4EAI,AG,Agência/Conta Corrente/DV Inválido
+1414,a0V6g0000062mAvEAI,AL,Código do Banco Favorecido ou Depositário Inválido
+1415,a0V6g0000062omfEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+1416,a0V6g0000062omWEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+1417,a0V6g0000062omyEAA,AG,Agência/Conta Corrente/DV Inválido
+1418,a0V6g0000062omYEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+1419,a0V6g0000062oNvEAI,AG,Agência/Conta Corrente/DV Inválido
+1420,a0V6g0000062oo9EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1421,a0V6g0000062ooBEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1422,a0V6g000006cyfeEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1423,a0V6g000006cyfgEAA,AG,Agência/Conta Corrente/DV Inválido
+1424,a0V6g000006cyfnEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1425,a0V6g000006cyfpEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1426,a0V6g000006cyfwEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1427,a0V6g000006cyfyEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1428,a0V6g000006cyfZEAQ,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1429,a0V6g000006cyg3EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1430,a0V6g000006cyg5EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1431,a0V6g000007Npv0EAC,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1432,a0V6g000007Npv2EAC,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1433,a0V6g000007Npv7EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1434,a0V6g000007Npv9EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1435,a0V6g000007NpvfEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1436,a0V6g000007NpvGEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1437,a0V6g000007NpvhEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1438,a0V6g000007NpvIEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1439,a0V6g000007NpvoEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1440,a0V6g000007NpvPEAS,AG,Agência/Conta Corrente/DV Inválido
+1441,a0V6g000007NpvqEAC,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1442,a0V6g000007NpvREAS,AC,Tipo de Serviço Inválido
+1443,a0V6g000007NpvvEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1444,a0V6g000007NpvWEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1445,a0V6g000007NpvxEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1446,a0V6g000007NpvYEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1447,a0V6g000007NpvzEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1448,a0V6g000007Npw4EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1449,a0V6g000007Npw6EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1450,a0V6g000007Nr49EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1451,a0V6g000007Nr4aEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1452,a0V6g000007Nr4BEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1453,a0V6g000007Nr4GEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1454,a0V6g000007Nr4hEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1455,a0V6g000007Nr4IEAS,AC,Tipo de Serviço Inválido
+1456,a0V6g000007Nr4jEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1457,a0V6g000007Nr4KEAS,AC,Tipo de Serviço Inválido
+1458,a0V6g000007Nr4oEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1459,a0V6g000007Nr4PEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1460,a0V6g000007Nr4qEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1461,a0V6g000007Nr4REAS,AN,Conta Corrente/DV do Favorecido Inválido
+1462,a0V6g000007Nr4xEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1463,a0V6g000007Nr4YEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1464,a0V6g000007Nr4zEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1465,a0V6g000007Nr56EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1466,a0V6g000007Nr58EAC,AG,Agência/Conta Corrente/DV Inválido
+1467,a0V6g000007NR7oEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1468,a0V6g000007NUjtEAG,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1469,a0V6g000007NUjvEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1470,a0V6g000007NUk0EAG,AG,Agência/Conta Corrente/DV Inválido
+1471,a0V6g000007NUk2EAG,AC,Tipo de Serviço Inválido
+1472,a0V6g000007NUmbEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1473,a0V6g000007NUmiEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1474,a0V6g000007NUmkEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1475,a0V6g000007NUmQEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1476,a0V6g000007NUmrEAG,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1477,a0V6g000007NUmSEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1478,a0V6g000007NUmtEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1479,a0V6g000007NUmUEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1480,a0V6g000007NUmZEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1481,a0V6g000007NUoxEAG,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1482,a0V6g000007NUozEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1483,a0V6g000007NUp6EAG,AN,Conta Corrente/DV do Favorecido Inválido
+1484,a0V6g000007NUp8EAG,AN,Conta Corrente/DV do Favorecido Inválido
+1485,a0V6g000007NUpeEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1486,a0V6g000007NUpFEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1487,a0V6g000007NUpgEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1488,a0V6g000007NUpHEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1489,a0V6g000007NUplEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1490,a0V6g000007NUpMEAW,AG,Agência/Conta Corrente/DV Inválido
+1491,a0V6g000007NUpnEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1492,a0V6g000007NUpOEAW,AG,Agência/Conta Corrente/DV Inválido
+1493,a0V6g000007NUppEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1494,a0V6g000007NUpuEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1495,a0V6g000007NUpVEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1496,a0V6g000007NUpwEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1497,a0V6g000007NUpXEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1498,a0V6g000005eaStEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1499,a0V6g000005eaSuEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1500,a0V6g000005eaSvEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1501,a0V6g000005eaSwEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1502,a0V6g000005easZEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1503,a0V6g000005eaT9EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1504,a0V6g000005eaTAEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1505,a0V6g000005eaTBEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1506,a0V6g000005eaTCEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1507,a0V6g000005eaTDEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1508,a0V6g000005eaTQEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1509,a0V6g000005eaUqEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1510,a0V6g000005eaUrEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1511,a0V6g000005eaUsEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1512,a0V6g000005eaV6EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1513,a0V6g000005eaV7EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1514,a0V6g000005eaV8EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1515,a0V6g000005eaV9EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1516,a0V6g000005eaVdEAI,AG,Agência/Conta Corrente/DV Inválido
+1517,a0V6g000005eaVeEAI,AG,Agência/Conta Corrente/DV Inválido
+1518,a0V6g000005eaVfEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+1519,a0V6g000005eaVgEAI,AG,Agência/Conta Corrente/DV Inválido
+1520,a0V6g000005eaVNEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1521,a0V6g000005eaVOEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1522,a0V6g000005eaVPEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1523,a0V6g000005eaVQEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1524,a0V6g000005eaVuEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1525,a0V6g000005eaVvEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1526,a0V6g000005eavwEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1527,a0V6g000005eaVwEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1528,a0V6g000005eavxEAA,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+1529,a0V6g000005eaVxEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1530,a0V6g000005eavyEAA,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+1531,a0V6g000005eavzEAA,AG,Agência/Conta Corrente/DV Inválido
+1532,a0V6g000005eaw0EAA,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+1533,a0V6g000005eaWBEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1534,a0V6g000005eaWCEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1535,a0V6g000005eawDEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1536,a0V6g000005eaWDEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1537,a0V6g000005eawEEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1538,a0V6g000005eaWEEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1539,a0V6g000005eawFEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1540,a0V6g000005eawGEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1541,a0V6g000005eawkEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1542,a0V6g000005eawlEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1543,a0V6g000005eawmEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1544,a0V6g000005eawnEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1545,a0V6g000005eawoEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1546,a0V6g000005eawVEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1547,a0V6g000005eawWEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1548,a0V6g000005eawXEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1549,a0V6g000005eax1EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1550,a0V6g000005eax2EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1551,a0V6g000005eax3EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1552,a0V6g000005eax4EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1553,a0V6g000005eaXaEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1554,a0V6g000005eaXbEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1555,a0V6g000005eaXcEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1556,a0V6g000005eaxIEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1557,a0V6g000005eaxJEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1558,a0V6g000005eaXJEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1559,a0V6g000005eaxKEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1560,a0V6g000005eaXKEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1561,a0V6g000005eaxLEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1562,a0V6g000005eaXLEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1563,a0V6g000005eaXMEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1564,a0V6g000005eaXNEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1565,a0V6g000005eaXrEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1566,a0V6g000005eaXsEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1567,a0V6g000005eaXtEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1568,a0V6g000005eaXuEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1569,a0V6g000005eaz9EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1570,a0V6g000005eazAEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1571,a0V6g000005eazBEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1572,a0V6g000005eaZcEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+1573,a0V6g000005eazCEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1574,a0V6g000005eaZdEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+1575,a0V6g000005eaZfEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+1576,a0V6g000005eazgEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1577,a0V6g000005eazhEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1578,a0V6g000005eaziEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1579,a0V6g000005eazjEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1580,a0V6g000005eazPEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1581,a0V6g000005eazQEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1582,a0V6g000005eazREAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1583,a0V6g000005eaZsEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+1584,a0V6g000005eazSEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1585,a0V6g000005eaZtEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+1586,a0V6g000005eaZuEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+1587,a0V6g000005eaZvEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+1588,a0V6g000005eazxEAA,AG,Agência/Conta Corrente/DV Inválido
+1589,a0V6g000005eazyEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1590,a0V6g000005eazzEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1591,a0V6g000005eb00EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1592,a0V6g000005eb0DEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1593,a0V6g000005eb0EEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1594,a0V6g000005eb0FEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1595,a0V6g000005eb0GEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1596,a0V6g000005eb0lEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1597,a0V6g000005eb0mEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1598,a0V6g000005eb0nEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1599,a0V6g000005eb0oEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1600,a0V6g000005eb0UEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1601,a0V6g000005eb0VEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1602,a0V6g000005eb0WEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1603,a0V6g000005eb0XEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1604,a0V6g000005eb12EAA,AC,Tipo de Serviço Inválido
+1605,a0V6g000005eb13EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1606,a0V6g000005eb14EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1607,a0V6g000005eb1aEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1608,a0V6g000005eb1bEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1609,a0V6g000005eb1cEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1610,a0V6g000005eb1IEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1611,a0V6g000005eb1JEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1612,a0V6g000005eb1KEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1613,a0V6g000005eb1LEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1614,a0V6g000005eb1ZEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1615,a0V6g000005eb4nEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1616,a0V6g000005eb4oEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1617,a0V6g000005eb4pEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1618,a0V6g000005eb4qEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1619,a0V6g000005eb53EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1620,a0V6g000005eb54EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1621,a0V6g000005eb55EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1622,a0V6g000005eb56EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1623,a0V6g000005eb57EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1624,a0V6g000005eb5bEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1625,a0V6g000005eb5cEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1626,a0V6g000005eb5dEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1627,a0V6g000005eb5eEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1628,a0V6g000005eb5KEAQ,AG,Agência/Conta Corrente/DV Inválido
+1629,a0V6g000005eb5LEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1630,a0V6g000005eb5MEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1631,a0V6g000005eb5NEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1632,a0V6g000005eb5sEAA,AC,Tipo de Serviço Inválido
+1633,a0V6g000005eb5tEAA,AC,Tipo de Serviço Inválido
+1634,a0V6g000006conuEAA,AC,Tipo de Serviço Inválido
+1635,a0V6g000006convEAA,AC,Tipo de Serviço Inválido
+1636,a0V6g000006conwEAA,AC,Tipo de Serviço Inválido
+1637,a0V6g000006conxEAA,AC,Tipo de Serviço Inválido
+1638,a0V6g000006ctpLEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1639,a0V6g000006ctpMEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1640,a0V6g000006ctpNEAQ,AG,Agência/Conta Corrente/DV Inválido
+1641,a0V6g000006ctpOEAQ,AC,Tipo de Serviço Inválido
+1642,a0V6g000006cwu4EAA,AC,Tipo de Serviço Inválido
+1643,a0V6g000006cwu5EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1644,a0V6g000006cwu6EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1645,a0V6g000006cwu7EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1646,a0V6g000006cwuKEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1647,a0V6g000006cwuLEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1648,a0V6g000006cwuMEAQ,AG,Agência/Conta Corrente/DV Inválido
+1649,a0V6g000006cwuNEAQ,AC,Tipo de Serviço Inválido
+1650,a0V6g000006cwuOEAQ,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1651,a0V6g0000062GQxEAM,AN,Conta Corrente/DV do Favorecido Inválido
+1652,a0V6g0000062GQyEAM,AN,Conta Corrente/DV do Favorecido Inválido
+1653,a0V6g0000062gr7EAA,AL,Código do Banco Favorecido ou Depositário Inválido
+1654,a0V6g0000062gR9EAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1655,a0V6g0000062gRAEAY,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1656,a0V6g0000062GRCEA2,AN,Conta Corrente/DV do Favorecido Inválido
+1657,a0V6g0000062GRDEA2,AN,Conta Corrente/DV do Favorecido Inválido
+1658,a0V6g0000062GREEA2,AN,Conta Corrente/DV do Favorecido Inválido
+1659,a0V6g0000062GRFEA2,AG,Agência/Conta Corrente/DV Inválido
+1660,a0V6g0000062GRSEA2,AN,Conta Corrente/DV do Favorecido Inválido
+1661,a0V6g0000062grTEAQ,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1662,a0V6g0000062grUEAQ,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1663,a0V6g0000062gsnEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1664,a0V6g0000062m24EAA,AG,Agência/Conta Corrente/DV Inválido
+1665,a0V6g0000062M3DEAU,AL,Código do Banco Favorecido ou Depositário Inválido
+1666,a0V6g0000062M3EEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1667,a0V6g0000062m3HEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1668,a0V6g0000062M3jEAE,AN,Conta Corrente/DV do Favorecido Inválido
+1669,a0V6g0000062M3kEAE,AN,Conta Corrente/DV do Favorecido Inválido
+1670,a0V6g0000062M3lEAE,AN,Conta Corrente/DV do Favorecido Inválido
+1671,a0V6g0000062M3mEAE,AN,Conta Corrente/DV do Favorecido Inválido
+1672,a0V6g0000062M3SEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1673,a0V6g0000062M3TEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1674,a0V6g0000062m3XEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+1675,a0V6g0000062M40EAE,AG,Agência/Conta Corrente/DV Inválido
+1676,a0V6g0000062M41EAE,AG,Agência/Conta Corrente/DV Inválido
+1677,a0V6g0000062M42EAE,AG,Agência/Conta Corrente/DV Inválido
+1678,a0V6g0000062M43EAE,AG,Agência/Conta Corrente/DV Inválido
+1679,a0V6g0000062M4GEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1680,a0V6g0000062M4KEAU,AC,Tipo de Serviço Inválido
+1681,a0V6g0000062m4ZEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1682,a0V6g0000062m9XEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1683,a0V6g0000062m9yEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1684,a0V6g0000062m9YEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1685,a0V6g0000062m9zEAA,AG,Agência/Conta Corrente/DV Inválido
+1686,a0V6g0000062mA0EAI,AG,Agência/Conta Corrente/DV Inválido
+1687,a0V6g0000062mA1EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1688,a0V6g0000062omiEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1689,a0V6g0000062omSEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+1690,a0V6g0000062omTEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+1691,a0V6g0000062omUEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+1692,a0V6g0000062omwEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1693,a0V6g0000062ooCEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1694,a0V6g0000062ooDEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1695,a0V6g0000062ooEEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1696,a0V6g0000062ooFEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1697,a0V6g000006cyfiEAA,AC,Tipo de Serviço Inválido
+1698,a0V6g000006cyfjEAA,AC,Tipo de Serviço Inválido
+1699,a0V6g000006cyflEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1700,a0V6g000006cyfzEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1701,a0V6g000006cyg0EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1702,a0V6g000006cyg1EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1703,a0V6g000006cyg2EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1704,a0V6g000006cygGEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1705,a0V6g000006cygHEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1706,a0V6g000007Npv3EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1707,a0V6g000007Npv4EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1708,a0V6g000007Npv5EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1709,a0V6g000007Npv6EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1710,a0V6g000007NpvaEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1711,a0V6g000007NpvbEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1712,a0V6g000007NpvcEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1713,a0V6g000007NpvdEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1714,a0V6g000007NpveEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1715,a0V6g000007NpvKEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1716,a0V6g000007NpvLEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1717,a0V6g000007NpvMEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1718,a0V6g000007NpvNEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1719,a0V6g000007NpvrEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1720,a0V6g000007NpvsEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1721,a0V6g000007NpvtEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1722,a0V6g000007NpvuEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1723,a0V6g000007Nr45EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1724,a0V6g000007Nr46EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1725,a0V6g000007Nr47EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1726,a0V6g000007Nr4bEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1727,a0V6g000007Nr4cEAC,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1728,a0V6g000007Nr4dEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1729,a0V6g000007Nr4eEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1730,a0V6g000007Nr4fEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1731,a0V6g000007Nr4LEAS,AC,Tipo de Serviço Inválido
+1732,a0V6g000007Nr4OEAS,AC,Tipo de Serviço Inválido
+1733,a0V6g000007Nr4sEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1734,a0V6g000007Nr4tEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1735,a0V6g000007Nr4uEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1736,a0V6g000007Nr4vEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1737,a0V6g000007Nr59EAC,AC,Tipo de Serviço Inválido
+1738,a0V6g000007Nr5AEAS,AC,Tipo de Serviço Inválido
+1739,a0V6g000007Nr5BEAS,AC,Tipo de Serviço Inválido
+1740,a0V6g000007Nr5CEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1741,a0V6g000007NR7lEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1742,a0V6g000007NR7mEAG,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1743,a0V6g000007NUjnEAG,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1744,a0V6g000007NUjoEAG,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1745,a0V6g000007NUjpEAG,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1746,a0V6g000007NUjqEAG,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1747,a0V6g000007NUjrEAG,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1748,a0V6g000007NUmlEAG,AC,Tipo de Serviço Inválido
+1749,a0V6g000007NUmmEAG,AC,Tipo de Serviço Inválido
+1750,a0V6g000007NUmnEAG,AC,Tipo de Serviço Inválido
+1751,a0V6g000007NUmoEAG,AC,Tipo de Serviço Inválido
+1752,a0V6g000007NUmpEAG,AC,Tipo de Serviço Inválido
+1753,a0V6g000007NUmVEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1754,a0V6g000007NUmWEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1755,a0V6g000007NUmXEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1756,a0V6g000007NUmYEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1757,a0V6g000007NUpAEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1758,a0V6g000007NUpBEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1759,a0V6g000007NUpCEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1760,a0V6g000007NUpDEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1761,a0V6g000007NUphEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1762,a0V6g000007NUpiEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1763,a0V6g000007NUpjEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1764,a0V6g000007NUpkEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1765,a0V6g000007NUpQEAW,AC,Tipo de Serviço Inválido
+1766,a0V6g000007NUpREAW,AC,Tipo de Serviço Inválido
+1767,a0V6g000007NUpSEAW,AC,Tipo de Serviço Inválido
+1768,a0V6g000007NUpTEAW,AN,Conta Corrente/DV do Favorecido Inválido
+1769,a0V6g000007NUpyEAG,AN,Conta Corrente/DV do Favorecido Inválido
+1770,a0V6g000007NUq5EAG,AG,Agência/Conta Corrente/DV Inválido
+1771,a0V6g000007NUqAEAW,AG,Agência/Conta Corrente/DV Inválido
+1772,a0V6g000007NUqCEAW,AG,Agência/Conta Corrente/DV Inválido
+1773,a0V6g000007NUqEEAW,AG,Agência/Conta Corrente/DV Inválido
+1774,a0V6g000007NUqJEAW,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1775,a0V6g000007NUqLEAW,AC,Tipo de Serviço Inválido
+1776,a0V6g0000061WSNEA2,AN,Conta Corrente/DV do Favorecido Inválido
+1777,a0V6g0000061WT1EAM,AN,Conta Corrente/DV do Favorecido Inválido
+1778,a0V6g0000061WUYEA2,AN,Conta Corrente/DV do Favorecido Inválido
+1779,a0V6g0000061WYVEA2,AN,Conta Corrente/DV do Favorecido Inválido
+1780,a0V6g0000061WZEEA2,AN,Conta Corrente/DV do Favorecido Inválido
+1781,a0V6g0000061X3IEAU,AN,Conta Corrente/DV do Favorecido Inválido
+1782,a0V6g0000061X6QEAU,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1783,a0V6g0000061X87EAE,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1784,a0V6g0000061y7dEAA,AC,Tipo de Serviço Inválido
+1785,a0V6g0000061y7fEAA,AC,Tipo de Serviço Inválido
+1786,a0V6g0000061y7kEAA,AC,Tipo de Serviço Inválido
+1787,a0V6g0000061y7mEAA,AC,Tipo de Serviço Inválido
+1788,a0V6g0000061y7NEAQ,AG,Agência/Conta Corrente/DV Inválido
+1789,a0V6g0000061y7tEAA,AC,Tipo de Serviço Inválido
+1790,a0V6g0000061y7UEAQ,AC,Tipo de Serviço Inválido
+1791,a0V6g0000061y7vEAA,AC,Tipo de Serviço Inválido
+1792,a0V6g0000061y7WEAQ,AC,Tipo de Serviço Inválido
+1793,a0V6g0000061y82EAA,AC,Tipo de Serviço Inválido
+1794,a0V6g0000061y84EAA,AC,Tipo de Serviço Inválido
+1795,a0V6g0000061y8aEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1796,a0V6g0000061y8cEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1797,a0V6g0000061y8hEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1798,a0V6g0000061y8IEAQ,AC,Tipo de Serviço Inválido
+1799,a0V6g0000061y8jEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1800,a0V6g0000061y8KEAQ,AG,Agência/Conta Corrente/DV Inválido
+1801,a0V6g0000061y8qEAA,AG,Agência/Conta Corrente/DV Inválido
+1802,a0V6g0000061y8REAQ,AG,Agência/Conta Corrente/DV Inválido
+1803,a0V6g0000061y8sEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1804,a0V6g0000061y8TEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1805,a0V6g0000061y8xEAA,AG,Agência/Conta Corrente/DV Inválido
+1806,a0V6g0000061y8YEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1807,a0V6g0000061y8zEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1808,a0V6g0000061y91EAA,AG,Agência/Conta Corrente/DV Inválido
+1809,a0V6g0000061y96EAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1810,a0V6g0000061y98EAA,AG,Agência/Conta Corrente/DV Inválido
+1811,a0V6g0000061yIAEAY,AC,Tipo de Serviço Inválido
+1812,a0V6g0000062gjyEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1813,a0V6g0000062gk0EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1814,a0V6g0000062gLkEAI,AG,Agência/Conta Corrente/DV Inválido
+1815,a0V6g0000062gmLEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+1816,a0V6g0000062gN9EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1817,a0V6g0000062gnyEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1818,a0V6g0000062go9EAA,AG,Agência/Conta Corrente/DV Inválido
+1819,a0V6g000005OiwNEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1820,a0V6g000005OiwPEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1821,a0V6g000005OiwUEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1822,a0V6g000005OiwWEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1823,a0V6g000005OiwYEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1824,a0V6g000005Oix2EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1825,a0V6g000005Oix4EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1826,a0V6g000005OixaEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1827,a0V6g000005OixBEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1828,a0V6g000005OixcEAC,AG,Agência/Conta Corrente/DV Inválido
+1829,a0V6g000005OixDEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1830,a0V6g000005OixIEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1831,a0V6g000005OixjEAC,AG,Agência/Conta Corrente/DV Inválido
+1832,a0V6g000005OixKEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1833,a0V6g000005OixlEAC,AC,Tipo de Serviço Inválido
+1834,a0V6g000005OixMEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1835,a0V6g000005OixqEAC,AC,Tipo de Serviço Inválido
+1836,a0V6g000005OixREAS,AN,Conta Corrente/DV do Favorecido Inválido
+1837,a0V6g000005OixsEAC,AC,Tipo de Serviço Inválido
+1838,a0V6g000005OixTEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1839,a0V6g000005OiyHEAS,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1840,a0V6g000005OJOaEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1841,a0V6g000005OJOcEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1842,a0V6g000005OJOeEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1843,a0V6g000005OJOjEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1844,a0V6g000005OJOlEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1845,a0V6g000005OJOsEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1846,a0V6g000005OJOTEA4,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+1847,a0V6g000005OJOuEAO,AN,Conta Corrente/DV do Favorecido Inválido
+1848,a0V6g000005OJOVEA4,AN,Conta Corrente/DV do Favorecido Inválido
+1849,a0V6g000005OJP3EAO,AN,Conta Corrente/DV do Favorecido Inválido
+1850,a0V6g000005OjqbEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1851,a0V6g000005OjqdEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1852,a0V6g000005OjqkEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1853,a0V6g000005OjqLEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1854,a0V6g000005OjqmEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1855,a0V6g000005OjqNEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1856,a0V6g000005OjqtEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1857,a0V6g000005OjqUEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1858,a0V6g000005OjqvEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1859,a0V6g000005OjqWEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1860,a0V6g000005Ojr0EAC,AG,Agência/Conta Corrente/DV Inválido
+1861,a0V6g000005Ojr2EAC,AG,Agência/Conta Corrente/DV Inválido
+1862,a0V6g000005Ojr9EAC,AC,Tipo de Serviço Inválido
+1863,a0V6g000005OjrBEAS,AC,Tipo de Serviço Inválido
+1864,a0V6g000005OjtAEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1865,a0V6g000005OjtCEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1866,a0V6g000005OmrcEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1867,a0V6g000005OmreEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1868,a0V6g000005OmrjEAC,AG,Agência/Conta Corrente/DV Inválido
+1869,a0V6g000005OmrlEAC,AC,Tipo de Serviço Inválido
+1870,a0V6g000005OmrsEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1871,a0V6g000005OmrTEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1872,a0V6g000005OmruEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1873,a0V6g000005OmrVEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1874,a0V6g000005Oms1EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1875,a0V6g000005Oms3EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1876,a0V6g000005Oms8EAC,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+1877,a0V6g000005OmsAEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1878,a0V6g000005OmsgEAC,AC,Tipo de Serviço Inválido
+1879,a0V6g000005OmsHEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1880,a0V6g000005OmsiEAC,AC,Tipo de Serviço Inválido
+1881,a0V6g000005OmsJEAS,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1882,a0V6g000005OmspEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1883,a0V6g000005OmsQEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1884,a0V6g000005OmsrEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1885,a0V6g000005OmsSEAS,AG,Agência/Conta Corrente/DV Inválido
+1886,a0V6g000005OmsXEAS,AC,Tipo de Serviço Inválido
+1887,a0V6g000005OmsZEAS,AC,Tipo de Serviço Inválido
+1888,a0V6g000005Omv6EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1889,a0V6g000005Omv8EAC,AN,Conta Corrente/DV do Favorecido Inválido
+1890,a0V6g000005OmveEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1891,a0V6g000005OmvFEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1892,a0V6g000005OmvgEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1893,a0V6g000005OmvHEAS,AN,Conta Corrente/DV do Favorecido Inválido
+1894,a0V6g000005OmvMEAS,AG,Agência/Conta Corrente/DV Inválido
+1895,a0V6g000005OmvnEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1896,a0V6g000005OmvOEAS,AG,Agência/Conta Corrente/DV Inválido
+1897,a0V6g000005OmvpEAC,AN,Conta Corrente/DV do Favorecido Inválido
+1898,a0V6g000005easOEAQ,AG,Agência/Conta Corrente/DV Inválido
+1899,a0V6g000005easpEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1900,a0V6g000005eaSpEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1901,a0V6g000005easQEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1902,a0V6g000005eaSQEAY,AC,Tipo de Serviço Inválido
+1903,a0V6g000005eaSrEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1904,a0V6g000005eaSSEAY,AC,Tipo de Serviço Inválido
+1905,a0V6g000005easuEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1906,a0V6g000005eb5uEAA,AC,Tipo de Serviço Inválido
+1907,a0V6g000005eb5vEAA,AC,Tipo de Serviço Inválido
+1908,a0V6g000005eb68EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1909,a0V6g000005eb69EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1910,a0V6g000005eb6AEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1911,a0V6g000005eb6BEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1912,a0V6g000005eb6gEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1913,a0V6g000005eb6hEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1914,a0V6g000005eb6iEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1915,a0V6g000005eb6jEAA,AG,Agência/Conta Corrente/DV Inválido
+1916,a0V6g000005eb6PEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1917,a0V6g000005eb6QEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1918,a0V6g000005eb6REAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1919,a0V6g000005eb6SEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1920,a0V6g000005eb6wEAA,AG,Agência/Conta Corrente/DV Inválido
+1921,a0V6g000005eb6xEAA,AG,Agência/Conta Corrente/DV Inválido
+1922,a0V6g000005eb6yEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1923,a0V6g000005eb6zEAA,AC,Tipo de Serviço Inválido
+1924,a0V6g000005eb70EAA,AC,Tipo de Serviço Inválido
+1925,a0V6g000005eb7DEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1926,a0V6g000005eb7EEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1927,a0V6g000005eb7FEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1928,a0V6g000005eb7GEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1929,a0V6g000005eb7VEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1930,a0V6g000005eb7WEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1931,a0V6g000005eb7XEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1932,a0V6g000005eba5EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1933,a0V6g000005eba6EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1934,a0V6g000005eba7EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1935,a0V6g000005eba8EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1936,a0V6g000005eba9EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1937,a0V6g000005ebAjEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1938,a0V6g000005ebAkEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1939,a0V6g000005ebAlEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1940,a0V6g000005ebAmEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1941,a0V6g000005ebATEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1942,a0V6g000005ebAUEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1943,a0V6g000005ebAVEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1944,a0V6g000005ebAWEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1945,a0V6g000005ebB0EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1946,a0V6g000005ebB1EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1947,a0V6g000005ebB2EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1948,a0V6g000005ebBHEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1949,a0V6g000005ebBIEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1950,a0V6g000005ebBJEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1951,a0V6g000005ebBKEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1952,a0V6g000005ebc4EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1953,a0V6g000005ebc5EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1954,a0V6g000005ebc6EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1955,a0V6g000005ebc7EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1956,a0V6g000005ebccEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1957,a0V6g000005ebcdEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1958,a0V6g000005ebceEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1959,a0V6g000005ebcfEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1960,a0V6g000005ebcLEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1961,a0V6g000005ebcMEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1962,a0V6g000005ebcNEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1963,a0V6g000005ebcOEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1964,a0V6g000005ebcsEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1965,a0V6g000005ebctEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1966,a0V6g000005ebcuEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1967,a0V6g000005ebcvEAA,AN,Conta Corrente/DV do Favorecido Inválido
+1968,a0V6g000005ebcwEAA,AG,Agência/Conta Corrente/DV Inválido
+1969,a0V6g000005ebD1EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1970,a0V6g000005ebD2EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1971,a0V6g000005ebD3EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1972,a0V6g000005ebD4EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1973,a0V6g000005ebD5EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1974,a0V6g000005ebd9EAA,AN,Conta Corrente/DV do Favorecido Inválido
+1975,a0V6g000005ebDaEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1976,a0V6g000005ebdAEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1977,a0V6g000005ebDbEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1978,a0V6g000005ebdBEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1979,a0V6g000005ebDcEAI,AN,Conta Corrente/DV do Favorecido Inválido
+1980,a0V6g000005ebdCEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1981,a0V6g000005ebDIEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1982,a0V6g000005ebDJEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1983,a0V6g000005ebDKEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1984,a0V6g000005ebDLEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1985,a0V6g000005ebDqEAI,AC,Tipo de Serviço Inválido
+1986,a0V6g000005ebdQEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1987,a0V6g000005ebDrEAI,AC,Tipo de Serviço Inválido
+1988,a0V6g000005ebdREAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1989,a0V6g000005ebDsEAI,AC,Tipo de Serviço Inválido
+1990,a0V6g000005ebdSEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1991,a0V6g000005ebDtEAI,AC,Tipo de Serviço Inválido
+1992,a0V6g000005ebdTEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+1993,a0V6g000005ebDZEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1994,a0V6g000005ebE6EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1995,a0V6g000005ebE7EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1996,a0V6g000005ebE8EAI,AT,Tipo/Número de Inscrição do Favorecido Inválido
+1997,a0V6g000005ebE9EAI,AN,Conta Corrente/DV do Favorecido Inválido
+1998,a0V6g000005ebENEAY,AN,Conta Corrente/DV do Favorecido Inválido
+1999,a0V6g000005ebEOEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2000,a0V6g000005ebEPEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2001,a0V6g000005ebEQEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2002,a0V6g000005ebfaEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2003,a0V6g000005ebfbEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2004,a0V6g000005ebfcEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2005,a0V6g000005ebfpEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2006,a0V6g000005ebfYEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2007,a0V6g000005ebfZEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2008,a0V6g000005ebg6EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2009,a0V6g000005ebg7EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2010,a0V6g000005ebg8EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2011,a0V6g000005ebg9EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2012,a0V6g000005ebgdEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2013,a0V6g000005ebgeEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2014,a0V6g000005ebgfEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2015,a0V6g000005ebggEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2016,a0V6g000005ebGlEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2017,a0V6g000005ebGmEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2018,a0V6g000005ebGnEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2019,a0V6g000005ebgNEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2020,a0V6g000005ebGoEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2021,a0V6g000005ebgOEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2022,a0V6g000005ebGpEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2023,a0V6g000005ebgPEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2024,a0V6g000005ebgQEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2025,a0V6g000005ebguEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2026,a0V6g000005ebgvEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2027,a0V6g000005ebGVEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2028,a0V6g000005ebgwEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2029,a0V6g000005ebGWEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2030,a0V6g000005ebgxEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2031,a0V6g000005ebGXEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2032,a0V6g000005ebGYEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2033,a0V6g000005ebH2EAI,AN,Conta Corrente/DV do Favorecido Inválido
+2034,a0V6g000005ebH3EAI,AN,Conta Corrente/DV do Favorecido Inválido
+2035,a0V6g000005ebH4EAI,AN,Conta Corrente/DV do Favorecido Inválido
+2036,a0V6g000005ebH5EAI,AN,Conta Corrente/DV do Favorecido Inválido
+2037,a0V6g000005ebhBEAQ,AG,Agência/Conta Corrente/DV Inválido
+2038,a0V6g000005ebHcEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2039,a0V6g000005ebhCEAQ,AG,Agência/Conta Corrente/DV Inválido
+2040,a0V6g000005ebHdEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2041,a0V6g000005ebhDEAQ,AC,Tipo de Serviço Inválido
+2042,a0V6g000007NUpzEAG,AN,Conta Corrente/DV do Favorecido Inválido
+2043,a0V6g000007NUq0EAG,AN,Conta Corrente/DV do Favorecido Inválido
+2044,a0V6g000007NUq1EAG,AN,Conta Corrente/DV do Favorecido Inválido
+2045,a0V6g000007NUqFEAW,AG,Agência/Conta Corrente/DV Inválido
+2046,a0V6g000007NUqHEAW,AC,Tipo de Serviço Inválido
+2047,a0V6g000007NUqIEAW,AC,Tipo de Serviço Inválido
+2048,a0V6g000007NUsQEAW,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2049,a0V6g000007NUsREAW,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2050,a0V6g0000061WShEAM,AN,Conta Corrente/DV do Favorecido Inválido
+2051,a0V6g0000061WTBEA2,AG,Agência/Conta Corrente/DV Inválido
+2052,a0V6g0000061WTGEA2,AN,Conta Corrente/DV do Favorecido Inválido
+2053,a0V6g0000061WWUEA2,AC,Tipo de Serviço Inválido
+2054,a0V6g0000061WZ4EAM,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2055,a0V6g0000061X3SEAU,AN,Conta Corrente/DV do Favorecido Inválido
+2056,a0V6g0000061X5rEAE,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2057,a0V6g0000061X8qEAE,AN,Conta Corrente/DV do Favorecido Inválido
+2058,a0V6g0000061y7gEAA,AC,Tipo de Serviço Inválido
+2059,a0V6g0000061y7hEAA,AC,Tipo de Serviço Inválido
+2060,a0V6g0000061y7iEAA,AC,Tipo de Serviço Inválido
+2061,a0V6g0000061y7jEAA,AC,Tipo de Serviço Inválido
+2062,a0V6g0000061y7PEAQ,AG,Agência/Conta Corrente/DV Inválido
+2063,a0V6g0000061y7QEAQ,AG,Agência/Conta Corrente/DV Inválido
+2064,a0V6g0000061y7REAQ,AC,Tipo de Serviço Inválido
+2065,a0V6g0000061y7SEAQ,AC,Tipo de Serviço Inválido
+2066,a0V6g0000061y7xEAA,AC,Tipo de Serviço Inválido
+2067,a0V6g0000061y7yEAA,AC,Tipo de Serviço Inválido
+2068,a0V6g0000061y7zEAA,AC,Tipo de Serviço Inválido
+2069,a0V6g0000061y80EAA,AC,Tipo de Serviço Inválido
+2070,a0V6g0000061y8lEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+2071,a0V6g0000061y8mEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+2072,a0V6g0000061y8nEAA,AG,Agência/Conta Corrente/DV Inválido
+2073,a0V6g0000061y8oEAA,AG,Agência/Conta Corrente/DV Inválido
+2074,a0V6g0000061y8UEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2075,a0V6g0000061y8VEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2076,a0V6g0000061y8WEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2077,a0V6g0000061y8XEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2078,a0V6g0000061y92EAA,AG,Agência/Conta Corrente/DV Inválido
+2079,a0V6g0000061y93EAA,AG,Agência/Conta Corrente/DV Inválido
+2080,a0V6g0000061y94EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2081,a0V6g0000061y95EAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2082,a0V6g0000061yI5EAI,AC,Tipo de Serviço Inválido
+2083,a0V6g0000061yI6EAI,AC,Tipo de Serviço Inválido
+2084,a0V6g0000061yI7EAI,AC,Tipo de Serviço Inválido
+2085,a0V6g0000061yI8EAI,AC,Tipo de Serviço Inválido
+2086,a0V6g0000062gk1EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2087,a0V6g0000062gk2EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2088,a0V6g0000062gkcEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2089,a0V6g0000062gmJEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+2090,a0V6g0000062gmKEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+2091,a0V6g0000062gOwEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2092,a0V6g000005OiwKEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2093,a0V6g000005OiwLEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2094,a0V6g000005OiwZEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2095,a0V6g000005Oix6EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2096,a0V6g000005Oix7EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2097,a0V6g000005Oix8EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2098,a0V6g000005Oix9EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2099,a0V6g000005OixdEAC,AG,Agência/Conta Corrente/DV Inválido
+2100,a0V6g000005OixeEAC,AG,Agência/Conta Corrente/DV Inválido
+2101,a0V6g000005OixfEAC,AG,Agência/Conta Corrente/DV Inválido
+2102,a0V6g000005OixgEAC,AG,Agência/Conta Corrente/DV Inválido
+2103,a0V6g000005OixhEAC,AG,Agência/Conta Corrente/DV Inválido
+2104,a0V6g000005OixNEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2105,a0V6g000005OixOEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2106,a0V6g000005OixPEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2107,a0V6g000005OixQEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2108,a0V6g000005OixuEAC,AC,Tipo de Serviço Inválido
+2109,a0V6g000005OixvEAC,AC,Tipo de Serviço Inválido
+2110,a0V6g000005OixwEAC,AC,Tipo de Serviço Inválido
+2111,a0V6g000005OJOfEAO,AN,Conta Corrente/DV do Favorecido Inválido
+2112,a0V6g000005OJOgEAO,AN,Conta Corrente/DV do Favorecido Inválido
+2113,a0V6g000005OJOhEAO,AN,Conta Corrente/DV do Favorecido Inválido
+2114,a0V6g000005OJOiEAO,AN,Conta Corrente/DV do Favorecido Inválido
+2115,a0V6g000005OJOvEAO,AN,Conta Corrente/DV do Favorecido Inválido
+2116,a0V6g000005OJOwEAO,AN,Conta Corrente/DV do Favorecido Inválido
+2117,a0V6g000005OJOxEAO,AN,Conta Corrente/DV do Favorecido Inválido
+2118,a0V6g000005OJOyEAO,AN,Conta Corrente/DV do Favorecido Inválido
+2119,a0V6g000005OjqfEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2120,a0V6g000005OjqgEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2121,a0V6g000005OjqhEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2122,a0V6g000005OjqiEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2123,a0V6g000005OjqOEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2124,a0V6g000005OjqPEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2125,a0V6g000005OjqQEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2126,a0V6g000005OjqREAS,AN,Conta Corrente/DV do Favorecido Inválido
+2127,a0V6g000005OjqSEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2128,a0V6g000005OjqwEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2129,a0V6g000005OjqxEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2130,a0V6g000005OjqyEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2131,a0V6g000005OjqzEAC,AG,Agência/Conta Corrente/DV Inválido
+2132,a0V6g000005OjrDEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2133,a0V6g000005Ojt7EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2134,a0V6g000005Ojt8EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2135,a0V6g000005Ojt9EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2136,a0V6g000005OmraEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2137,a0V6g000005OmrnEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2138,a0V6g000005OmroEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2139,a0V6g000005OmrpEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2140,a0V6g000005OmrqEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2141,a0V6g000005OmrWEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2142,a0V6g000005OmrXEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2143,a0V6g000005OmrYEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2144,a0V6g000005OmrZEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2145,a0V6g000005Oms4EAC,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2146,a0V6g000005Oms5EAC,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2147,a0V6g000005Oms6EAC,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2148,a0V6g000005Oms7EAC,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2149,a0V6g000005OmscEAC,AC,Tipo de Serviço Inválido
+2150,a0V6g000005OmsdEAC,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2151,a0V6g000005OmseEAC,AC,Tipo de Serviço Inválido
+2152,a0V6g000005OmsKEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2153,a0V6g000005OmsLEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2154,a0V6g000005OmsNEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2155,a0V6g000005OmsOEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2156,a0V6g000005OmssEAC,AG,Agência/Conta Corrente/DV Inválido
+2157,a0V6g000005OmstEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2158,a0V6g000005OmsuEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2159,a0V6g000005Omv2EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2160,a0V6g000005Omv3EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2161,a0V6g000005Omv4EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2162,a0V6g000005Omv5EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2163,a0V6g000005OmvaEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2164,a0V6g000005OmvbEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2165,a0V6g000005OmvcEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2166,a0V6g000005OmvIEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2167,a0V6g000005OmvJEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2168,a0V6g000005OmvKEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2169,a0V6g000005eaSoEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2170,a0V6g000005easREAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2171,a0V6g000005easSEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2172,a0V6g000005easTEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2173,a0V6g000005easUEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2174,a0V6g000005eaSUEAY,AC,Tipo de Serviço Inválido
+2175,a0V6g000005eaSVEAY,AC,Tipo de Serviço Inválido
+2176,a0V6g000005eaSWEAY,AC,Tipo de Serviço Inválido
+2177,a0V6g000005eaSXEAY,AC,Tipo de Serviço Inválido
+2178,a0V6g000005easVEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2179,a0V6g000005easXEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2180,a0V6g000005eaSyEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2181,a0V6g000005eaSZEAY,AC,Tipo de Serviço Inválido
+2182,a0V6g000005eaT0EAI,AN,Conta Corrente/DV do Favorecido Inválido
+2183,a0V6g000005eaT5EAI,AN,Conta Corrente/DV do Favorecido Inválido
+2184,a0V6g000005eaT7EAI,AN,Conta Corrente/DV do Favorecido Inválido
+2185,a0V6g000005eaTEEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2186,a0V6g000005eaTGEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2187,a0V6g000005eaTNEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2188,a0V6g000005eaTPEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2189,a0V6g000005eaUtEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2190,a0V6g000005eaUvEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2191,a0V6g000005eaV2EAI,AN,Conta Corrente/DV do Favorecido Inválido
+2192,a0V6g000005eaV4EAI,AN,Conta Corrente/DV do Favorecido Inválido
+2193,a0V6g000005eaVaEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2194,a0V6g000005eaVBEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2195,a0V6g000005eaVcEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2196,a0V6g000005eaVDEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2197,a0V6g000005eaVhEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2198,a0V6g000005eaVIEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2199,a0V6g000005eaVjEAI,AG,Agência/Conta Corrente/DV Inválido
+2200,a0V6g000005eaVKEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2201,a0V6g000005eaVlEAI,AG,Agência/Conta Corrente/DV Inválido
+2202,a0V6g000005eavmEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2203,a0V6g000005eaVMEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2204,a0V6g000005eaVqEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2205,a0V6g000005eaVREAY,AN,Conta Corrente/DV do Favorecido Inválido
+2206,a0V6g000005eaVsEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2207,a0V6g000005eavtEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2208,a0V6g000005eaVTEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2209,a0V6g000005eavvEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2210,a0V6g000005eaVzEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2211,a0V6g000005eaW1EAI,AN,Conta Corrente/DV do Favorecido Inválido
+2212,a0V6g000005eaw2EAA,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2213,a0V6g000005eaw4EAA,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2214,a0V6g000005eaW8EAI,AG,Agência/Conta Corrente/DV Inválido
+2215,a0V6g000005eaw9EAA,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2216,a0V6g000005eawaEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2217,a0V6g000005eawBEAQ,AG,Agência/Conta Corrente/DV Inválido
+2218,a0V6g000005eawhEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2219,a0V6g000005eawIEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2220,a0V6g000005eawjEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2221,a0V6g000005eawKEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2222,a0V6g000005eawREAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2223,a0V6g000005eawsEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2224,a0V6g000005eawTEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2225,a0V6g000005eawxEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2226,a0V6g000005eawzEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2227,a0V6g000005eax6EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2228,a0V6g000005eaX7EAI,AN,Conta Corrente/DV do Favorecido Inválido
+2229,a0V6g000005eax8EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2230,a0V6g000005eaX9EAI,AN,Conta Corrente/DV do Favorecido Inválido
+2231,a0V6g000005eaXfEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2232,a0V6g000005eaxFEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2233,a0V6g000005eaXGEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2234,a0V6g000005eaXhEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2235,a0V6g000005eaxHEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2236,a0V6g000005eaXIEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2237,a0V6g000005eaxMEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2238,a0V6g000005eaXoEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2239,a0V6g000005eaxOEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2240,a0V6g000005eaXPEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2241,a0V6g000005eaXqEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2242,a0V6g000005eaXREAY,AN,Conta Corrente/DV do Favorecido Inválido
+2243,a0V6g000005eaXvEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2244,a0V6g000005eaXWEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2245,a0V6g000005eaXxEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2246,a0V6g000005eaXYEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2247,a0V6g000005eaz5EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2248,a0V6g000005eaz7EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2249,a0V6g000005eaZaEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2250,a0V6g000005eazdEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2251,a0V6g000005eazEEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2252,a0V6g000005eazfEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2253,a0V6g000005eazGEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2254,a0V6g000005eaZhEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2255,a0V6g000005eaZjEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2256,a0V6g000005eazkEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2257,a0V6g000005eazLEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2258,a0V6g000005eazmEAA,AG,Agência/Conta Corrente/DV Inválido
+2259,a0V6g000005eazNEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2260,a0V6g000005eaZoEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2261,a0V6g000005eaztEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2262,a0V6g000005eazUEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2263,a0V6g000005eazvEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2264,a0V6g000005eazWEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2265,a0V6g000005eaZxEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2266,a0V6g000005eaZYEAY,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2267,a0V6g000005eaZzEAI,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2268,a0V6g000005eb02EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2269,a0V6g000005eb04EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2270,a0V6g000005eb09EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2271,a0V6g000005eb0aEAA,AG,Agência/Conta Corrente/DV Inválido
+2272,a0V6g000005eb0BEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2273,a0V6g000005eb0cEAA,AG,Agência/Conta Corrente/DV Inválido
+2274,a0V6g000005eb0hEAA,AC,Tipo de Serviço Inválido
+2275,a0V6g000005eb0IEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2276,a0V6g000005eb0jEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2277,a0V6g000005eb0KEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2278,a0V6g000005eb0qEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2279,a0V6g000005eb0REAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2280,a0V6g000005eb0sEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2281,a0V6g000005eb0TEAQ,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+2282,a0V6g000005eb0xEAA,AG,Agência/Conta Corrente/DV Inválido
+2283,a0V6g000005eb0YEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2284,a0V6g000005eb0zEAA,AC,Tipo de Serviço Inválido
+2285,a0V6g000005eb11EAA,AC,Tipo de Serviço Inválido
+2286,a0V6g000005eb16EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2287,a0V6g000005eb18EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2288,a0V6g000005eb1eEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2289,a0V6g000005eb1FEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2290,a0V6g000005eb1gEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2291,a0V6g000005eb1HEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2292,a0V6g000005eb1MEAQ,AG,Agência/Conta Corrente/DV Inválido
+2293,a0V6g000005eb1OEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2294,a0V6g000005eb1QEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2295,a0V6g000005eb1VEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2296,a0V6g000005eb4kEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2297,a0V6g000005eb4mEAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2298,a0V6g000005eb4rEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2299,a0V6g000005eb4tEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2300,a0V6g000005eb50EAA,AG,Agência/Conta Corrente/DV Inválido
+2301,a0V6g000005eb52EAA,AG,Agência/Conta Corrente/DV Inválido
+2302,a0V6g000005eb59EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2303,a0V6g000005eb5aEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2304,a0V6g000005eb5BEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2305,a0V6g000005eb5fEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2306,a0V6g000005eb5GEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2307,a0V6g000005eb5hEAA,AC,Tipo de Serviço Inválido
+2308,a0V6g000005eb5IEAQ,AG,Agência/Conta Corrente/DV Inválido
+2309,a0V6g000005eb5oEAA,AC,Tipo de Serviço Inválido
+2310,a0V6g000005eb5PEAQ,AC,Tipo de Serviço Inválido
+2311,a0V6g000005eb5qEAA,AC,Tipo de Serviço Inválido
+2312,a0V6g000005eb5REAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2313,a0V6g000005eb5xEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2314,a0V6g000006conrEAA,AG,Agência/Conta Corrente/DV Inválido
+2315,a0V6g000006conSEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2316,a0V6g000006contEAA,AC,Tipo de Serviço Inválido
+2317,a0V6g000006conUEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2318,a0V6g000006conyEAA,AC,Tipo de Serviço Inválido
+2319,a0V6g000006conZEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2320,a0V6g000006coo0EAA,AC,Tipo de Serviço Inválido
+2321,a0V6g000006coo2EAA,AC,Tipo de Serviço Inválido
+2322,a0V6g000006ctpCEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2323,a0V6g000006ctpHEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2324,a0V6g000006ctpJEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2325,a0V6g000006ctpQEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2326,a0V6g000006ctrlEAA,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2327,a0V6g000006cwu8EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2328,a0V6g000006cwuAEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2329,a0V6g000006cwuHEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2330,a0V6g000006cwuJEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2331,a0V6g0000062gPhEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2332,a0V6g0000062GR0EAM,AN,Conta Corrente/DV do Favorecido Inválido
+2333,a0V6g0000062GR2EAM,AN,Conta Corrente/DV do Favorecido Inválido
+2334,a0V6g0000062GR9EAM,AN,Conta Corrente/DV do Favorecido Inválido
+2335,a0V6g0000062GRaEAM,AC,Tipo de Serviço Inválido
+2336,a0V6g0000062GRBEA2,AN,Conta Corrente/DV do Favorecido Inválido
+2337,a0V6g0000062GRIEA2,AC,Tipo de Serviço Inválido
+2338,a0V6g0000062GRPEA2,AC,Tipo de Serviço Inválido
+2339,a0V6g0000062grQEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2340,a0V6g0000062GRYEA2,AC,Tipo de Serviço Inválido
+2341,a0V6g0000062gsmEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2342,a0V6g0000062M3gEAE,AN,Conta Corrente/DV do Favorecido Inválido
+2343,a0V6g0000062m3hEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2344,a0V6g0000062M3HEAU,AN,Conta Corrente/DV do Favorecido Inválido
+2345,a0V6g0000062M3iEAE,AN,Conta Corrente/DV do Favorecido Inválido
+2346,a0V6g0000062M3JEAU,AN,Conta Corrente/DV do Favorecido Inválido
+2347,a0V6g0000062M3nEAE,AN,Conta Corrente/DV do Favorecido Inválido
+2348,a0V6g0000062M3OEAU,AN,Conta Corrente/DV do Favorecido Inválido
+2349,a0V6g0000062M3pEAE,AN,Conta Corrente/DV do Favorecido Inválido
+2350,a0V6g0000062M3QEAU,AN,Conta Corrente/DV do Favorecido Inválido
+2351,a0V6g0000062M3wEAE,AN,Conta Corrente/DV do Favorecido Inválido
+2352,a0V6g0000062M3XEAU,AN,Conta Corrente/DV do Favorecido Inválido
+2353,a0V6g0000062M3yEAE,AN,Conta Corrente/DV do Favorecido Inválido
+2354,a0V6g0000062M3ZEAU,AN,Conta Corrente/DV do Favorecido Inválido
+2355,a0V6g0000062M45EAE,AC,Tipo de Serviço Inválido
+2356,a0V6g0000062M4EEAU,AN,Conta Corrente/DV do Favorecido Inválido
+2357,a0V6g0000062M4LEAU,AC,Tipo de Serviço Inválido
+2358,a0V6g0000062M4NEAU,AN,Conta Corrente/DV do Favorecido Inválido
+2359,a0V6g0000062m4WEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2360,a0V6g0000062m4YEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2361,a0V6g0000062m6hEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2362,a0V6g0000062m84EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2363,a0V6g0000062mA3EAI,AG,Agência/Conta Corrente/DV Inválido
+2364,a0V6g0000062mAuEAI,AL,Código do Banco Favorecido ou Depositário Inválido
+2365,a0V6g0000062mAwEAI,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2366,a0V6g0000062maYEAQ,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2367,a0V6g0000062oltEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2368,a0V6g0000062omeEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+2369,a0V6g0000062omgEAA,AL,Código do Banco Favorecido ou Depositário Inválido
+2370,a0V6g0000062omVEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+2371,a0V6g0000062omXEAQ,AL,Código do Banco Favorecido ou Depositário Inválido
+2372,a0V6g0000062oNQEAY,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2373,a0V6g0000062oo8EAA,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2374,a0V6g0000062ooAEAQ,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2375,a0V6g0000062ooeEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2376,a0V6g0000062oP6EAI,AG,Agência/Conta Corrente/DV Inválido
+2377,a0V6g000006cwwREAQ,AC,Tipo de Serviço Inválido
+2378,a0V6g000006cwwTEAQ,AC,Tipo de Serviço Inválido
+2379,a0V6g000006cyffEAA,AG,Agência/Conta Corrente/DV Inválido
+2380,a0V6g000006cyfhEAA,AG,Agência/Conta Corrente/DV Inválido
+2381,a0V6g000006cyfmEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2382,a0V6g000006cyfoEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2383,a0V6g000006cyfqEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2384,a0V6g000006cyfvEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2385,a0V6g000006cyfxEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2386,a0V6g000006cyfYEAQ,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2387,a0V6g000006cyg4EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2388,a0V6g000006cyg6EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2389,a0V6g000006cygDEAQ,AG,Agência/Conta Corrente/DV Inválido
+2390,a0V6g000006cygFEAQ,AC,Tipo de Serviço Inválido
+2391,a0V6g000007Npv1EAC,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2392,a0V6g000007Npv8EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2393,a0V6g000007NpvAEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2394,a0V6g000007NpvgEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2395,a0V6g000007NpvHEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2396,a0V6g000007NpviEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2397,a0V6g000007NpvJEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2398,a0V6g000007NpvnEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2399,a0V6g000007NpvOEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2400,a0V6g000007NpvpEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2401,a0V6g000007NpvQEAS,AG,Agência/Conta Corrente/DV Inválido
+2402,a0V6g000007NpvwEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2403,a0V6g000007NpvXEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2404,a0V6g000007NpvyEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2405,a0V6g000007NpvZEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2406,a0V6g000007Npw5EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2407,a0V6g000007Nr48EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2408,a0V6g000007Nr4AEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2409,a0V6g000007Nr4gEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2410,a0V6g000007Nr4HEAS,AC,Tipo de Serviço Inválido
+2411,a0V6g000007Nr4iEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2412,a0V6g000007Nr4JEAS,AC,Tipo de Serviço Inválido
+2413,a0V6g000007Nr4pEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2414,a0V6g000007Nr4QEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2415,a0V6g000007Nr4rEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2416,a0V6g000007Nr4SEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2417,a0V6g000007Nr4wEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2418,a0V6g000007Nr4XEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2419,a0V6g000007Nr4yEAC,AN,Conta Corrente/DV do Favorecido Inválido
+2420,a0V6g000007Nr4ZEAS,AN,Conta Corrente/DV do Favorecido Inválido
+2421,a0V6g000007Nr55EAC,AN,Conta Corrente/DV do Favorecido Inválido
+2422,a0V6g000007NR6xEAG,AN,Conta Corrente/DV do Favorecido Inválido
+2423,a0V6g000007NR7nEAG,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2424,a0V6g000007NUioEAG,AC,Tipo de Serviço Inválido
+2425,a0V6g000007NUjsEAG,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2426,a0V6g000007NUjuEAG,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+2427,a0V6g000007NUk1EAG,AG,Agência/Conta Corrente/DV Inválido
+2428,a0V6g000007NUk3EAG,AN,Conta Corrente/DV do Favorecido Inválido
+2429,a0V6g000007NUmaEAG,AN,Conta Corrente/DV do Favorecido Inválido
+2430,a0V6g000007NUmcEAG,AN,Conta Corrente/DV do Favorecido Inválido
+2431,a0V6g000007NUmhEAG,AN,Conta Corrente/DV do Favorecido Inválido
+2432,a0V6g000007NUmjEAG,AN,Conta Corrente/DV do Favorecido Inválido
+2433,a0V6g000007NUmqEAG,AN,Conta Corrente/DV do Favorecido Inválido
+2434,a0V6g000007NUmREAW,AN,Conta Corrente/DV do Favorecido Inválido
+2435,a0V6g000007NUmsEAG,AT,Tipo/Número de Inscrição do Favorecido Inválido
+2436,a0V6g000007NUmTEAW,AN,Conta Corrente/DV do Favorecido Inválido
+2437,a0V6g000007NUoyEAG,AN,Conta Corrente/DV do Favorecido Inválido
+2438,a0V6g000007NUp0EAG,AN,Conta Corrente/DV do Favorecido Inválido
+2439,a0V6g000007NUp7EAG,AN,Conta Corrente/DV do Favorecido Inválido
+2440,a0V6g000007NUp9EAG,AN,Conta Corrente/DV do Favorecido Inválido
+2441,a0V6g000007NUpdEAG,AN,Conta Corrente/DV do Favorecido Inválido
+2442,a0V6g000007NUpEEAW,AN,Conta Corrente/DV do Favorecido Inválido
+2443,a0V6g000007NUpfEAG,AN,Conta Corrente/DV do Favorecido Inválido
+2444,a0V6g000007NUpGEAW,AN,Conta Corrente/DV do Favorecido Inválido
+2445,a0V6g000007NUpmEAG,AN,Conta Corrente/DV do Favorecido Inválido
+2446,a0V6g000007NUpNEAW,AG,Agência/Conta Corrente/DV Inválido
+2447,a0V6g000007NUpoEAG,AN,Conta Corrente/DV do Favorecido Inválido
+2448,a0V6g000007NUpPEAW,AC,Tipo de Serviço Inválido
+2449,a0V6g000007NUpvEAG,AN,Conta Corrente/DV do Favorecido Inválido
+2450,a0V6g000005ebhEEAQ,AC,Tipo de Serviço Inválido
+2451,a0V6g000005ebhiEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2452,a0V6g000005ebhjEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2453,a0V6g000005ebHJEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2454,a0V6g000005ebhkEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2455,a0V6g000005ebHKEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2456,a0V6g000005ebhlEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2457,a0V6g000005ebHLEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2458,a0V6g000005ebHMEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2459,a0V6g000005ebHqEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2460,a0V6g000005ebHrEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2461,a0V6g000005ebhREAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2462,a0V6g000005ebHsEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2463,a0V6g000005ebhSEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2464,a0V6g000005ebHtEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2465,a0V6g000005ebhTEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2466,a0V6g000005ebhUEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2467,a0V6g000005ebhVEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2468,a0V6g000005efBxEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2469,a0V6g000005efCAEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2470,a0V6g000005efCBEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2471,a0V6g000005efCCEAY,AC,Tipo de Serviço Inválido
+2472,a0V6g000005efCDEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2473,a0V6g000005efCiEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2474,a0V6g000005efCREAY,AN,Conta Corrente/DV do Favorecido Inválido
+2475,a0V6g000005efCSEAY,AG,Agência/Conta Corrente/DV Inválido
+2476,a0V6g000005efCTEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2477,a0V6g000005efCUEAY,AN,Conta Corrente/DV do Favorecido Inválido
+2478,a0V6g000005efdgEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2479,a0V6g000005efdhEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2480,a0V6g000005efdiEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2481,a0V6g000005efdjEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2482,a0V6g000005efdxEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2483,a0V6g000005efdyEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2484,a0V6g000005efdzEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2485,a0V6g000005efe0EAA,AN,Conta Corrente/DV do Favorecido Inválido
+2486,a0V6g000005efEbEAI,AG,Agência/Conta Corrente/DV Inválido
+2487,a0V6g000005efEcEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2488,a0V6g000005efEdEAI,AN,Conta Corrente/DV do Favorecido Inválido
+2489,a0V6g000005efeEEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2490,a0V6g000005efeFEAQ,AG,Agência/Conta Corrente/DV Inválido
+2491,a0V6g000005efeGEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2492,a0V6g000005efeHEAQ,AN,Conta Corrente/DV do Favorecido Inválido
+2493,a0V6g000005efelEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2494,a0V6g000005efemEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2495,a0V6g000005efenEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2496,a0V6g000005efeoEAA,AN,Conta Corrente/DV do Favorecido Inválido
+2497,a0V6g000005efEqEAI,AC,Tipo de Serviço Inválido
+2498,a0V6g000005efErEAI,AC,Tipo de Serviço Inválido
+2499,a0V6g000005efEsEAI,AC,Tipo de Serviço Inválido
+2500,a0V6g000005efEtEAI,AC,Tipo de Serviço Inválido
+2501,a0V6g000005efEuEAI,AC,Tipo de Serviço Inválido

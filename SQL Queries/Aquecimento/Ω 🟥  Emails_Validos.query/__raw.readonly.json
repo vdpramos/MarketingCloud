@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1aa6ccd3-619f-4294-be18-84369656d8f0",
+  "name": "Emails_Validos",
+  "key": "63103716-490c-4f19-b6f4-9992cfdfd425",
+  "description": "",
+  "queryText": "\n\tSELECT DISTINCT\n\t\tCPF,\n\t\tNOME,\n\t\tEMAIL,\n\t\tEMAIL_VALIDO\n\t\t\nFROM Base_Internalizada BI \n\tWhere Email is not null and EMAIL_VALIDO  ='true'",
+  "targetName": "Emails_Validos",
+  "targetKey": "56EB79E4-924C-4C35-A479-35805B867C77",
+  "targetId": "280b41ed-ca2f-ec11-a30b-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-10-17T22:23:44.527",
+  "modifiedDate": "2021-10-17T22:23:44.527",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 40397,
+  "isFrozen": false
+}

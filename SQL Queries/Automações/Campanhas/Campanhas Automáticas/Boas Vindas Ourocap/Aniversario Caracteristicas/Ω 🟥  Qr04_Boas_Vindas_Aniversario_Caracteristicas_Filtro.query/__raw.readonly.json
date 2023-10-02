@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "41709cee-efc3-419d-a947-058119d2e78e",
+  "name": "Qr04_Boas_Vindas_Aniversario_Caracteristicas_Filtro",
+  "key": "f057122b-c4e2-455b-82aa-77370ae59170",
+  "description": "",
+  "queryText": "SELECT \r\n\tCPF_CNPJ,\r\n\tMAX(Nome) AS Nome,\r\n\tMAX(Id_Campanha) AS Id_Campanha,\r\n\tMAX(Id_Cliente_Parceiro) AS Id_Cliente_Parceiro,\r\n\tMAX(Id_Contato) AS Id_Contato,\r\n\tMAX(CONVERT(INTEGER, NAO_DESEJA_RECEBER_EMAIL)) AS NAO_DESEJA_RECEBER_EMAIL,\r\n\tMAX(EMAIL) AS EMAIL,\r\n\tMAX(convert(integer, EMAIL_VALIDO)) AS EMAIL_VALIDO,\r\n\tMAX(QUANTIDADE_TITULOS_ANTERIORES_ATIVOS) AS QUANTIDADE_TITULOS_ANTERIORES_ATIVOS,\r\n\tMAX(QUANTIDADE_TITULOS_ANTERIORES_INATIVOS) AS QUANTIDADE_TITULOS_ANTERIORES_INATIVOS,\r\n\tMAX(DATA_INICIO_VIGENCIA) AS DATA_INICIO_VIGENCIA\r\nFROM Tb_Boas_Vindas_Aniversario_Clientes_E_Titulos\r\nWHERE\r\n    ISNULL(NAO_DESEJA_RECEBER_EMAIL, 0) = 0 \r\n    AND EMAIL IS NOT NULL\r\n    AND EMAIL_VALIDO = 1\r\nGROUP BY CPF_CNPJ",
+  "targetName": "Tb_Boas_Vindas_Aniversario_Clientes_E_Titulos_Filtro",
+  "targetKey": "EDBFA31F-2C6E-4A6D-B472-05B8EB5FED6E",
+  "targetId": "3998304a-c23d-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Base com o publico para o disparo",
+  "createdDate": "2022-09-26T13:59:30.23",
+  "modifiedDate": "2022-11-22T11:23:06.88",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 53595,
+  "isFrozen": false
+}

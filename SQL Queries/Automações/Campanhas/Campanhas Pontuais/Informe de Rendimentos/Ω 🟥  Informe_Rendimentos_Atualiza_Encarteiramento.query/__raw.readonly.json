@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "839853d9-872d-4701-8dc4-093beba55a98",
+  "name": "Informe_Rendimentos_Atualiza_Encarteiramento",
+  "key": "839853D9-872D-4701-8DC4-093BEBA55A98",
+  "description": "",
+  "queryText": "SELECT\n  a.CPF,\n  b.DESC_ENCARTEIRAMENTO AS Encarteiramento\nFROM Informe_Rendimentos_OTC291_tratada a\n  LEFT JOIN Dom_Encarteiramento b\n    ON CAST(a.Tipo_Carteira AS INT) = CAST(b.ID_ENCARTEIRAMENTO AS INT)",
+  "targetName": "Informe_Rendimentos_OTC291_tratada",
+  "targetKey": "A83E11E8-F4A7-43FC-A54F-17C471238BDD",
+  "targetId": "ff4f4a8c-fde4-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-04-28T10:15:09.247",
+  "modifiedDate": "2023-08-23T09:52:11.37",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 62051,
+  "isFrozen": false
+}

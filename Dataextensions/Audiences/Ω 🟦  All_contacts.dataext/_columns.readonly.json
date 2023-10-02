@@ -1,0 +1,145 @@
+[
+  {
+    "Name": "SubscriberKey",
+    "FieldType": "Text",
+    "ObjectID": "cae5a00b-47db-4fd2-8962-de739e87868d",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "CustomerKey",
+    "FieldType": "Text",
+    "ObjectID": "7fc0aa23-dccf-47e2-8554-6d1a7d9c0643",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "AudienceId",
+    "FieldType": "Text",
+    "ObjectID": "bf310f1e-d87f-438e-9efc-3d9773a0de82",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "TrackingCode",
+    "FieldType": "Text",
+    "ObjectID": "86696fdc-f274-4c54-b3e3-9f787894cc6e",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "AudienceCode",
+    "FieldType": "Text",
+    "ObjectID": "5304e9e8-3e93-4087-b1e9-cd2fa1b00ae6",
+    "MaxLength": "64",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "SegmentCode",
+    "FieldType": "Text",
+    "ObjectID": "0d3c54e7-2349-4ba5-8136-71ddc95fac9c",
+    "MaxLength": "64",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "EmptyString()",
+    "Ordinal": 6
+  },
+  {
+    "Name": "SegmentName",
+    "FieldType": "Text",
+    "ObjectID": "659c465f-71d1-45fa-a97e-00b57f7d3d29",
+    "MaxLength": "128",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "EmptyString()",
+    "Ordinal": 7
+  },
+  {
+    "Name": "Priority",
+    "FieldType": "Number",
+    "ObjectID": "418bf79e-c5a5-448f-ae5a-71dde91461c6",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "SegmentID",
+    "FieldType": "Text",
+    "ObjectID": "18f06cd4-8a66-435d-96f0-8ceaa4a0c8ca",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "SplitID",
+    "FieldType": "Text",
+    "ObjectID": "a1675e9e-5801-4b45-9856-04ed5bac0df6",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "SplitName",
+    "FieldType": "Text",
+    "ObjectID": "b2c99f39-df6b-4da6-888e-24de8cb8706a",
+    "MaxLength": "128",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "EmptyString()",
+    "Ordinal": 11
+  },
+  {
+    "Name": "SplitCode",
+    "FieldType": "Text",
+    "ObjectID": "a4cd3c99-cdea-45e0-b223-a8245ae4d978",
+    "MaxLength": "64",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "EmptyString()",
+    "Ordinal": 12
+  },
+  {
+    "Name": "SendGroupID",
+    "FieldType": "Text",
+    "ObjectID": "6ac90a09-9609-4c17-a7d0-9933fafd021e",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 13
+  }
+]

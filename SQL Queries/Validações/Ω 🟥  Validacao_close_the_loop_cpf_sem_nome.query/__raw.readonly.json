@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "964d483b-33be-4220-843e-b06d8f16e0a9",
+  "name": "Validacao_close_the_loop_cpf_sem_nome",
+  "key": "964D483B-33BE-4220-843E-B06D8F16E0A9",
+  "description": "",
+  "queryText": "select\r\nCPF_CNPJ_Subscritor\r\nfrom\r\nRelatorio_compradores_v3\r\nwhere\r\nCliente is not null",
+  "targetName": "Validacao_close_the_loop_cpf_sem_nome",
+  "targetKey": "A6BB66D2-04F1-4834-AC3D-68D7A83B77FF",
+  "targetId": "9d390028-48ca-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-24T07:33:38.66",
+  "modifiedDate": "2023-03-24T07:33:38.66",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

@@ -1,0 +1,5 @@
+Dataextension name: ExcluiQuarentena
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(50)        | false    | false    |                 |

@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "accountId",
+    "FieldType": "Text",
+    "ObjectID": "fb50c00f-8660-4b96-8b5e-6567ec30bfeb",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

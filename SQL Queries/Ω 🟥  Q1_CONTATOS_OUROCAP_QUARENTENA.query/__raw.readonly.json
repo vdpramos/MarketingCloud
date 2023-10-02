@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "04f6d344-7d84-40f9-ad0b-f5497451be73",
+  "name": "Q1_CONTATOS_OUROCAP_QUARENTENA",
+  "key": "ca19fb96-4075-4ae9-82fb-71cb9afed0d3",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n    a.CPF_CNPJ\nFROM\n    Tb_Base_Fim_Plano_Ourocap_PU_PP_OTC291_Filtrada_NeoBpo A \nInner join\n    Tb_Base_Quarentena B ON A.CPF_CNPJ = B.CPF_CNPJ",
+  "targetName": "Contatos_quarentena_ourocap",
+  "targetKey": "51B60EA6-6517-4034-AED3-F0CA4B2AC670",
+  "targetId": "e25a6f34-6649-ec11-a313-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-11-19T12:27:39.06",
+  "modifiedDate": "2021-11-19T12:27:39.06",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

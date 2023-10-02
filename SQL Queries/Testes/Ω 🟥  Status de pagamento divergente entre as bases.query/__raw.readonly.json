@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "24aba491-2c96-4b12-a687-86f7e1e63efe",
+  "name": "Status de pagamento divergente entre as bases",
+  "key": "7582d7e5-df24-4882-ada1-69dfced5bd98",
+  "description": "Titulos Com Status do pagamento divergente entre as bases",
+  "queryText": "select DESC_STATUS_PAGAMENTO, ID_PROPOSTA, ID_PAGAMENTO, ID_PLANO, DATA_ULT_AGENDAMENTO\nfrom PagamentosQuedaCap p\nwhere   exists (select 1 from HC_Pagamento__c_SALESFORCE d\n                        where p.id_pagamento = d.name\n                        and p.DESC_STATUS_PAGAMENTO != d.HC_Status_do_Pagamento__c)\n                        ",
+  "targetName": "PagamentoStatusDivergente",
+  "targetKey": "AC8A7B5B-2FA7-40C2-B703-B7D064ED93EF",
+  "targetId": "c8ad80d9-2017-ec11-a30b-48df370eabe4",
+  "targetDescription": "Verificação de Titulos Com Titular e Subscritor Incorreto no Service",
+  "createdDate": "2021-09-15T13:35:51.063",
+  "modifiedDate": "2021-09-16T13:05:37.58",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 28566,
+  "isFrozen": false
+}

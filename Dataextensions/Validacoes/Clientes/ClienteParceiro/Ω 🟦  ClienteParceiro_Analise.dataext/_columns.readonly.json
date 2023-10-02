@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "id",
+    "FieldType": "Text",
+    "ObjectID": "42843e50-503f-4ebe-bc5b-5b47b95a76b7",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "mes",
+    "FieldType": "Text",
+    "ObjectID": "db105640-46dc-4df5-8857-1637e7319ea2",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "createddate",
+    "FieldType": "Text",
+    "ObjectID": "ea5393c6-c861-4d5a-a696-5e62e346512c",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

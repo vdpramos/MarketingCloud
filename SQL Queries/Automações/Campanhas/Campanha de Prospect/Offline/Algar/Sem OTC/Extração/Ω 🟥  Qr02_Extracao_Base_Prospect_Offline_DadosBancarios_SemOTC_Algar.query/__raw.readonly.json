@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "cbc04b64-584b-4a01-a87f-3b6dc342c22a",
+  "name": "Qr02_Extracao_Base_Prospect_Offline_DadosBancarios_SemOTC_Algar",
+  "key": "d6a06e25-50b6-4b1b-9e1e-ec402536a43f",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n  'TCBB' as COD_PARCEIRO,\n  CPF,\n  '' AS CNPJ,\n  '' as BANCO,\n  AGENCIA,\n  '' as Digito_Verificador_Agencia,\n  CONTA_CORRENTE,\n  '' as Digito_Verificador_Conta,\n  '' as Agencia_Conta_Digito_Verificador,\n  'CC' as Tipo_Conta\nFROM\n  TB_BASE_PROSPECT_SEMOTC_FILTRADA_ALGAR",
+  "targetName": "Tb_Base_Prospect_Offline_DadosBancarios_SemOTC_Algar",
+  "targetKey": "FE7A9BEA-207F-4059-9E45-93DD085C5488",
+  "targetId": "14fd7171-7870-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-01-27T16:58:05.54",
+  "modifiedDate": "2021-03-03T14:46:07.74",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29376,
+  "isFrozen": false
+}

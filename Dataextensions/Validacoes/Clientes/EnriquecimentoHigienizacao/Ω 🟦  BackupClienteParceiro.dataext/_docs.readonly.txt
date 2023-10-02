@@ -1,0 +1,32 @@
+Dataextension name: BackupClienteParceiro
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| HC_Banco_1__c        | Text(50)        | false    | false    |                 |
+| HC_Agencia_1__c      | Text(50)        | false    | false    |                 |
+| HC_Digito_da_Agencia_1__c | Text(50)        | false    | false    |                 |
+| HC_Numero_da_Conta_1__c | Text(50)        | false    | false    |                 |
+| HC_Digito_da_Conta_1__c | Text(50)        | false    | false    |                 |
+| HC_Banco_2__c        | Text(50)        | false    | false    |                 |
+| HC_Agencia_2__c      | Text(50)        | false    | false    |                 |
+| HC_Digito_da_Agencia_2__c | Text(50)        | false    | false    |                 |
+| HC_Numero_da_Conta_2__c | Text(50)        | false    | false    |                 |
+| HC_Digito_da_Conta_2__c | Text(50)        | false    | false    |                 |
+| HC_Telefone_Comercial__c | Phone           | false    | false    |                 |
+| HC_Telefone_Outro__c | Phone           | false    | false    |                 |
+| HC_Telefone_Residencial__c | Phone           | false    | false    |                 |
+| HC_Status_Tel_Comercial__c | Text(50)        | false    | false    |                 |
+| HC_Status_Tel_Outro__c | Text(50)        | false    | false    |                 |
+| HC_Celular_1__c      | Phone           | false    | false    |                 |
+| HC_Celular_2__c      | Phone           | false    | false    |                 |
+| HC_Celular_3__c      | Phone           | false    | false    |                 |
+| HC_Email_Brasilcap__c | Text(50)        | false    | false    |                 |
+| HC_Email_Pessoal__c  | Text(50)        | false    | false    |                 |
+| HC_Email_Principal__c | Text(50)        | false    | false    |                 |
+| HC_Endereco_Comercial__c | Text(250)       | false    | false    |                 |
+| HC_Endereco_Correspondencia__c | Text(250)       | false    | false    |                 |
+| HC_Endereco_Outro__c | Text(250)       | false    | false    |                 |
+| HC_Endereco_Principal__c | Text(250)       | false    | false    |                 |
+| HC_Endereco_Residencial__c | Text(250)       | false    | false    |                 |
+| CPF_CNPJ_Cliente__c  | Text(50)        | false    | false    |                 |
+| HC_Id_Parceiro_Cap__c | Text(50)        | false    | false    |                 |

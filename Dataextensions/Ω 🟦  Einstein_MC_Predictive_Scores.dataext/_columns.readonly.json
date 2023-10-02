@@ -1,0 +1,134 @@
+[
+  {
+    "Name": "email_address",
+    "FieldType": "Text",
+    "ObjectID": "e1dd5cb0-59cb-4497-b9ff-b43b705528e8",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "EmailClickLikelihood",
+    "FieldType": "Text",
+    "ObjectID": "1dbd1a7e-40b9-49ba-bfa2-3af9b560649f",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "EmailClickScore",
+    "FieldType": "Decimal",
+    "ObjectID": "11c24534-4730-4d1d-9490-d1fd1d87422a",
+    "MaxLength": "18",
+    "Scale": "4",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "EmailOpenLikelihood",
+    "FieldType": "Text",
+    "ObjectID": "18421bc7-45d3-47d4-a5b4-276124f93151",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "EmailOpenScore",
+    "FieldType": "Decimal",
+    "ObjectID": "3b888c59-957a-4f93-828b-fe2993f6a964",
+    "MaxLength": "18",
+    "Scale": "4",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "EmailSubscribeLikelihood",
+    "FieldType": "Text",
+    "ObjectID": "1e8cd81a-2656-4cda-b4e2-ae3b07dd196b",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "EmailSubscribeScore",
+    "FieldType": "Decimal",
+    "ObjectID": "7b1bea19-b3d8-42b5-954b-943ada69cc92",
+    "MaxLength": "18",
+    "Scale": "4",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "EmailEngagementPersona",
+    "FieldType": "Text",
+    "ObjectID": "7d25f09a-bd16-46a8-bdf3-68135cd726c1",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "ConversionLikelihood",
+    "FieldType": "Text",
+    "ObjectID": "f76b79fc-eb5c-43a1-8b63-1233cc67622b",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "ConversionScore",
+    "FieldType": "Decimal",
+    "ObjectID": "49ab7d33-f2f7-4217-932f-178454654c91",
+    "MaxLength": "18",
+    "Scale": "4",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "UpdatedDate",
+    "FieldType": "Date",
+    "ObjectID": "b6495e91-f61e-425b-9af0-b0a5ccbfe3f5",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "getdate()",
+    "Ordinal": 11
+  },
+  {
+    "Name": "CreatedDate",
+    "FieldType": "Date",
+    "ObjectID": "560fc56f-cd9d-4775-8b64-41fab3b4401a",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "getdate()",
+    "Ordinal": 12
+  }
+]

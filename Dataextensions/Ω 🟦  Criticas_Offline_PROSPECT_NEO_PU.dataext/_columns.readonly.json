@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "0045fdd4-0109-407d-b3bd-b2d30a43f7b0",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "CAMPANHA",
+    "FieldType": "Text",
+    "ObjectID": "f1877f46-95f5-410b-b670-ec5a9f18ea35",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "RESULTADO",
+    "FieldType": "Text",
+    "ObjectID": "b33e35e8-3f4e-4e8e-bf9a-5c40709ec63f",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "DATA_REGISTRO",
+    "FieldType": "Date",
+    "ObjectID": "3ec7bd27-6406-4811-b2fb-d4541d0b4e64",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

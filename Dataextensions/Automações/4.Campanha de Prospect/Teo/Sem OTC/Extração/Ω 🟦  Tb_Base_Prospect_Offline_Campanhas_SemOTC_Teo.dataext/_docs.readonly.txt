@@ -1,0 +1,16 @@
+Dataextension name: Tb_Base_Prospect_Offline_Campanhas_SemOTC_Teo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| COD_PARCEIRO         | Text(15)        | false    | false    |                 |
+| CPF                  | Text(11)        | false    | false    |                 |
+| CNPJ                 | Text(15)        | false    | false    |                 |
+| Id_Cliente_Parceiro  | Text(15)        | false    | false    |                 |
+| Id_Campanha          | Text(30)        | false    | false    |                 |
+| Id                   | Text(15)        | false    | false    |                 |
+| Id_Contato           | Text(15)        | false    | false    |                 |
+| TEL_01               | Text(14)        | false    | false    |                 |
+| TEL_02               | Text(14)        | false    | false    |                 |
+| TEL_03               | Text(14)        | false    | false    |                 |
+| TEL_04               | Text(14)        | false    | false    |                 |
+| TEL_05               | Text(14)        | false    | false    |                 |

@@ -1,0 +1,6 @@
+SELECT
+    A.CPF_CNPJ AS ID,
+	CASE WHEN DATEDIFF(MM, Data_Campanha, GETDATE()) IS NOT NULL AND DATEDIFF(DD, Data_Campanha, GETDATE()) <= 60 THEN 1 ELSE 0 END AS QUARENTENA
+FROM
+	Tb_Base_Prop_Ourocap_N_Pag A
+LEFT JOIN Tb_Campanhas_Proposta_Historico Q ON A.CPF_CNPJ = Q.CPF

@@ -1,0 +1,1080 @@
+[
+  {
+    "_CustomObjectKey": "76534",
+    "HC_CPF_CNPJ__C": "00061687952",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00061687952TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006EZxfAAG"
+  },
+  {
+    "_CustomObjectKey": "76535",
+    "HC_CPF_CNPJ__C": "00077216253",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00077216253TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000008FoRbAAK"
+  },
+  {
+    "_CustomObjectKey": "76536",
+    "HC_CPF_CNPJ__C": "00077216253",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00077216253TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008FoRbAAK"
+  },
+  {
+    "_CustomObjectKey": "76537",
+    "HC_CPF_CNPJ__C": "00170993582",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00170993582TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008FrXBAA0"
+  },
+  {
+    "_CustomObjectKey": "76538",
+    "HC_CPF_CNPJ__C": "00170993582",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00170993582TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000008FrXBAA0"
+  },
+  {
+    "_CustomObjectKey": "76539",
+    "HC_CPF_CNPJ__C": "00220563780",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00220563780TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008FtGmAAK"
+  },
+  {
+    "_CustomObjectKey": "76540",
+    "HC_CPF_CNPJ__C": "00220563780",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00220563780TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000008FtGmAAK"
+  },
+  {
+    "_CustomObjectKey": "76541",
+    "HC_CPF_CNPJ__C": "00243566115",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00243566115TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006EnQYAA0"
+  },
+  {
+    "_CustomObjectKey": "76542",
+    "HC_CPF_CNPJ__C": "00283661666",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00283661666TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008FvPjAAK"
+  },
+  {
+    "_CustomObjectKey": "76543",
+    "HC_CPF_CNPJ__C": "00283661666",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00283661666TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008FvPjAAK"
+  },
+  {
+    "_CustomObjectKey": "76544",
+    "HC_CPF_CNPJ__C": "00352328975",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00352328975TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008FxviAAC"
+  },
+  {
+    "_CustomObjectKey": "76545",
+    "HC_CPF_CNPJ__C": "00352328975",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00352328975TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008FxviAAC"
+  },
+  {
+    "_CustomObjectKey": "76546",
+    "HC_CPF_CNPJ__C": "00431171637",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00431171637TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008G1NdAAK"
+  },
+  {
+    "_CustomObjectKey": "76547",
+    "HC_CPF_CNPJ__C": "00431171637",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00431171637TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008G1NdAAK"
+  },
+  {
+    "_CustomObjectKey": "76548",
+    "HC_CPF_CNPJ__C": "00477049850",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00477049850TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006JuL4AAK"
+  },
+  {
+    "_CustomObjectKey": "76549",
+    "HC_CPF_CNPJ__C": "00528176790",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00528176790TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000008G5QxAAK"
+  },
+  {
+    "_CustomObjectKey": "76550",
+    "HC_CPF_CNPJ__C": "00528176790",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00528176790TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008G5QxAAK"
+  },
+  {
+    "_CustomObjectKey": "76551",
+    "HC_CPF_CNPJ__C": "00775584053",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00775584053TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006E8uuAAC"
+  },
+  {
+    "_CustomObjectKey": "76552",
+    "HC_CPF_CNPJ__C": "00830550968",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "00830550968TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006RBrfAAG"
+  },
+  {
+    "_CustomObjectKey": "76553",
+    "HC_CPF_CNPJ__C": "01152580604",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "01152580604TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008VA7UAAW"
+  },
+  {
+    "_CustomObjectKey": "76554",
+    "HC_CPF_CNPJ__C": "01152580604",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "01152580604TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008VA7UAAW"
+  },
+  {
+    "_CustomObjectKey": "76555",
+    "HC_CPF_CNPJ__C": "01182956831",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "01182956831TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000009zE06AAE"
+  },
+  {
+    "_CustomObjectKey": "76556",
+    "HC_CPF_CNPJ__C": "01182956831",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "01182956831TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente",
+    "ID": "a0i6g000009zE06AAE"
+  },
+  {
+    "_CustomObjectKey": "76557",
+    "HC_CPF_CNPJ__C": "01673106315",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "01673106315TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006MHYVAA4"
+  },
+  {
+    "_CustomObjectKey": "76558",
+    "HC_CPF_CNPJ__C": "01767887604",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "01767887604TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008UvBvAAK"
+  },
+  {
+    "_CustomObjectKey": "76559",
+    "HC_CPF_CNPJ__C": "02078772895",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "02078772895TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006KK4vAAG"
+  },
+  {
+    "_CustomObjectKey": "76560",
+    "HC_CPF_CNPJ__C": "02226073604",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "02226073604TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008UghLAAS"
+  },
+  {
+    "_CustomObjectKey": "76561",
+    "HC_CPF_CNPJ__C": "02619628687",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "02619628687TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006GyqAAAS"
+  },
+  {
+    "_CustomObjectKey": "76562",
+    "HC_CPF_CNPJ__C": "03452365999",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "03452365999TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000008PeidAAC"
+  },
+  {
+    "_CustomObjectKey": "76563",
+    "HC_CPF_CNPJ__C": "03452365999",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "03452365999TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008PeidAAC"
+  },
+  {
+    "_CustomObjectKey": "76564",
+    "HC_CPF_CNPJ__C": "03524079997",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "03524079997TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008V6cmAAC"
+  },
+  {
+    "_CustomObjectKey": "76565",
+    "HC_CPF_CNPJ__C": "03577123907",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "03577123907TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente",
+    "ID": "a0i6g000006NMuBAAW"
+  },
+  {
+    "_CustomObjectKey": "76566",
+    "HC_CPF_CNPJ__C": "03577123907",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "03577123907TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente",
+    "ID": "a0i6g000006NMuBAAW"
+  },
+  {
+    "_CustomObjectKey": "76567",
+    "HC_CPF_CNPJ__C": "03719740897",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "03719740897TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008UyXbAAK"
+  },
+  {
+    "_CustomObjectKey": "76568",
+    "HC_CPF_CNPJ__C": "03789993700",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "03789993700TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006GJazAAG"
+  },
+  {
+    "_CustomObjectKey": "76569",
+    "HC_CPF_CNPJ__C": "04087844404",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "04087844404TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006EkqQAAS"
+  },
+  {
+    "_CustomObjectKey": "76570",
+    "HC_CPF_CNPJ__C": "04272692100",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "04272692100TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008UkvgAAC"
+  },
+  {
+    "_CustomObjectKey": "76571",
+    "HC_CPF_CNPJ__C": "04607613401",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "04607613401TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008Tf6fAAC"
+  },
+  {
+    "_CustomObjectKey": "76572",
+    "HC_CPF_CNPJ__C": "04607613401",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "04607613401TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008Tf6fAAC"
+  },
+  {
+    "_CustomObjectKey": "76573",
+    "HC_CPF_CNPJ__C": "04822622819",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "04822622819TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008Tl2CAAS"
+  },
+  {
+    "_CustomObjectKey": "76574",
+    "HC_CPF_CNPJ__C": "04822622819",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "04822622819TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008Tl2CAAS"
+  },
+  {
+    "_CustomObjectKey": "76575",
+    "HC_CPF_CNPJ__C": "04853091653",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "04853091653TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008TloLAAS"
+  },
+  {
+    "_CustomObjectKey": "76576",
+    "HC_CPF_CNPJ__C": "04853091653",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "04853091653TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008TloLAAS"
+  },
+  {
+    "_CustomObjectKey": "76577",
+    "HC_CPF_CNPJ__C": "05527309634",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "05527309634TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008Uu4nAAC"
+  },
+  {
+    "_CustomObjectKey": "76578",
+    "HC_CPF_CNPJ__C": "06355007601",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "06355007601TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000006yRDVAA2"
+  },
+  {
+    "_CustomObjectKey": "76579",
+    "HC_CPF_CNPJ__C": "06355007601",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "06355007601TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000006yRDVAA2"
+  },
+  {
+    "_CustomObjectKey": "76580",
+    "HC_CPF_CNPJ__C": "06511166600",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "06511166600TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000009QVVPAA4"
+  },
+  {
+    "_CustomObjectKey": "76581",
+    "HC_CPF_CNPJ__C": "06511166600",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "06511166600TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000009QVVPAA4"
+  },
+  {
+    "_CustomObjectKey": "76582",
+    "HC_CPF_CNPJ__C": "06595693020",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "06595693020TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008VJJPAA4"
+  },
+  {
+    "_CustomObjectKey": "76583",
+    "HC_CPF_CNPJ__C": "06642748115",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "06642748115TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008VKrfAAG"
+  },
+  {
+    "_CustomObjectKey": "76584",
+    "HC_CPF_CNPJ__C": "06861949930",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "06861949930TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente",
+    "ID": "a0i6g000006OSh2AAG"
+  },
+  {
+    "_CustomObjectKey": "76585",
+    "HC_CPF_CNPJ__C": "06861949930",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "06861949930TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente",
+    "ID": "a0i6g000006OSh2AAG"
+  },
+  {
+    "_CustomObjectKey": "76586",
+    "HC_CPF_CNPJ__C": "07121353750",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "07121353750TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BSFbcAAH"
+  },
+  {
+    "_CustomObjectKey": "76587",
+    "HC_CPF_CNPJ__C": "07121353750",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "07121353750TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BSFbcAAH"
+  },
+  {
+    "_CustomObjectKey": "76588",
+    "HC_CPF_CNPJ__C": "08311480630",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "08311480630TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006F7AiAAK"
+  },
+  {
+    "_CustomObjectKey": "76589",
+    "HC_CPF_CNPJ__C": "08706401945",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "08706401945TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000005nMW1AAM"
+  },
+  {
+    "_CustomObjectKey": "76590",
+    "HC_CPF_CNPJ__C": "08706401945",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "08706401945TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000005nMW1AAM"
+  },
+  {
+    "_CustomObjectKey": "76591",
+    "HC_CPF_CNPJ__C": "08930178685",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "08930178685TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000009mxUlAAI"
+  },
+  {
+    "_CustomObjectKey": "76592",
+    "HC_CPF_CNPJ__C": "08930178685",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "08930178685TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000009mxUlAAI"
+  },
+  {
+    "_CustomObjectKey": "76593",
+    "HC_CPF_CNPJ__C": "09671923666",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "09671923666TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g00000A0z6cAAB"
+  },
+  {
+    "_CustomObjectKey": "76594",
+    "HC_CPF_CNPJ__C": "09671923666",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "09671923666TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000A0z6cAAB"
+  },
+  {
+    "_CustomObjectKey": "76595",
+    "HC_CPF_CNPJ__C": "09738178797",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "09738178797TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000005SYpmAAG"
+  },
+  {
+    "_CustomObjectKey": "76596",
+    "HC_CPF_CNPJ__C": "09738178797",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "09738178797TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000005SYpmAAG"
+  },
+  {
+    "_CustomObjectKey": "76597",
+    "HC_CPF_CNPJ__C": "10064162427",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "10064162427TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000008Fjd6AAC"
+  },
+  {
+    "_CustomObjectKey": "76598",
+    "HC_CPF_CNPJ__C": "10064162427",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "10064162427TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008Fjd6AAC"
+  },
+  {
+    "_CustomObjectKey": "76599",
+    "HC_CPF_CNPJ__C": "10734074620",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "10734074620TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000009z2OYAAY"
+  },
+  {
+    "_CustomObjectKey": "76600",
+    "HC_CPF_CNPJ__C": "10734074620",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "10734074620TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000009z2OYAAY"
+  },
+  {
+    "_CustomObjectKey": "76601",
+    "HC_CPF_CNPJ__C": "11199571504",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "11199571504TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BUSAPAA5"
+  },
+  {
+    "_CustomObjectKey": "76602",
+    "HC_CPF_CNPJ__C": "11199571504",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "11199571504TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BUSAPAA5"
+  },
+  {
+    "_CustomObjectKey": "76603",
+    "HC_CPF_CNPJ__C": "11219707708",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "11219707708TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008V4UMAA0"
+  },
+  {
+    "_CustomObjectKey": "76604",
+    "HC_CPF_CNPJ__C": "11783648600",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "11783648600TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008VBNLAA4"
+  },
+  {
+    "_CustomObjectKey": "76605",
+    "HC_CPF_CNPJ__C": "12340804868",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "12340804868TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008VGHKAA4"
+  },
+  {
+    "_CustomObjectKey": "76606",
+    "HC_CPF_CNPJ__C": "12892882915",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "12892882915TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BRPpOAAX"
+  },
+  {
+    "_CustomObjectKey": "76607",
+    "HC_CPF_CNPJ__C": "12892882915",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "12892882915TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BRPpOAAX"
+  },
+  {
+    "_CustomObjectKey": "76608",
+    "HC_CPF_CNPJ__C": "13117033068",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "13117033068TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008F1hcAAC"
+  },
+  {
+    "_CustomObjectKey": "76609",
+    "HC_CPF_CNPJ__C": "13564560815",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "13564560815TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008VDrEAAW"
+  },
+  {
+    "_CustomObjectKey": "76610",
+    "HC_CPF_CNPJ__C": "14996567856",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "14996567856TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente",
+    "ID": "a0i6g000006HPkPAAW"
+  },
+  {
+    "_CustomObjectKey": "76611",
+    "HC_CPF_CNPJ__C": "14996567856",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "14996567856TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000006HPkPAAW"
+  },
+  {
+    "_CustomObjectKey": "76612",
+    "HC_CPF_CNPJ__C": "15065584885",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "15065584885TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000006JPwDAAW"
+  },
+  {
+    "_CustomObjectKey": "76613",
+    "HC_CPF_CNPJ__C": "15065584885",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "15065584885TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente",
+    "ID": "a0i6g000006JPwDAAW"
+  },
+  {
+    "_CustomObjectKey": "76614",
+    "HC_CPF_CNPJ__C": "15117740025",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "15117740025TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000006EeahAAC"
+  },
+  {
+    "_CustomObjectKey": "76615",
+    "HC_CPF_CNPJ__C": "15117740025",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "15117740025TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente",
+    "ID": "a0i6g000006EeahAAC"
+  },
+  {
+    "_CustomObjectKey": "76616",
+    "HC_CPF_CNPJ__C": "15772560778",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "15772560778TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008Uv2vAAC"
+  },
+  {
+    "_CustomObjectKey": "76617",
+    "HC_CPF_CNPJ__C": "16993519887",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "16993519887TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000006IcZbAAK"
+  },
+  {
+    "_CustomObjectKey": "76618",
+    "HC_CPF_CNPJ__C": "16993519887",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "16993519887TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000006IcZbAAK"
+  },
+  {
+    "_CustomObjectKey": "76619",
+    "HC_CPF_CNPJ__C": "16993519887",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "16993519887TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000006IcZbAAK"
+  },
+  {
+    "_CustomObjectKey": "76620",
+    "HC_CPF_CNPJ__C": "18350720034",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "18350720034TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008HqZSAA0"
+  },
+  {
+    "_CustomObjectKey": "76621",
+    "HC_CPF_CNPJ__C": "18367917391",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "18367917391TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006HKloAAG"
+  },
+  {
+    "_CustomObjectKey": "76622",
+    "HC_CPF_CNPJ__C": "21308462034",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "21308462034TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008I41sAAC"
+  },
+  {
+    "_CustomObjectKey": "76623",
+    "HC_CPF_CNPJ__C": "21308462034",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "21308462034TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008I41sAAC"
+  },
+  {
+    "_CustomObjectKey": "76624",
+    "HC_CPF_CNPJ__C": "25637711615",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "25637711615TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006RovmAAC"
+  },
+  {
+    "_CustomObjectKey": "76625",
+    "HC_CPF_CNPJ__C": "26901217862",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "26901217862TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008Iq5OAAS"
+  },
+  {
+    "_CustomObjectKey": "76626",
+    "HC_CPF_CNPJ__C": "26901217862",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "26901217862TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008Iq5OAAS"
+  },
+  {
+    "_CustomObjectKey": "76627",
+    "HC_CPF_CNPJ__C": "26929910791",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "26929910791TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006DVs7AAG"
+  },
+  {
+    "_CustomObjectKey": "76628",
+    "HC_CPF_CNPJ__C": "27554929887",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "27554929887TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008V3WuAAK"
+  },
+  {
+    "_CustomObjectKey": "76629",
+    "HC_CPF_CNPJ__C": "29963940706",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "29963940706TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008J6nYAAS"
+  },
+  {
+    "_CustomObjectKey": "76630",
+    "HC_CPF_CNPJ__C": "34823263049",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "34823263049TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000EhXD6AAN"
+  },
+  {
+    "_CustomObjectKey": "76631",
+    "HC_CPF_CNPJ__C": "34823263049",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "34823263049TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000EhXD6AAN"
+  },
+  {
+    "_CustomObjectKey": "76632",
+    "HC_CPF_CNPJ__C": "36979295004",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "36979295004TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006DoFhAAK"
+  },
+  {
+    "_CustomObjectKey": "76633",
+    "HC_CPF_CNPJ__C": "40324567634",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "40324567634TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000008Lz98AAC"
+  },
+  {
+    "_CustomObjectKey": "76634",
+    "HC_CPF_CNPJ__C": "40324567634",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "40324567634TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008Lz98AAC"
+  },
+  {
+    "_CustomObjectKey": "76635",
+    "HC_CPF_CNPJ__C": "40549895434",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "40549895434TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008M49WAAS"
+  },
+  {
+    "_CustomObjectKey": "76636",
+    "HC_CPF_CNPJ__C": "40549895434",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "40549895434TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000008M49WAAS"
+  },
+  {
+    "_CustomObjectKey": "76637",
+    "HC_CPF_CNPJ__C": "41658760620",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "41658760620TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008M1Z0AAK"
+  },
+  {
+    "_CustomObjectKey": "76638",
+    "HC_CPF_CNPJ__C": "41658760620",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "41658760620TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008M1Z0AAK"
+  },
+  {
+    "_CustomObjectKey": "76639",
+    "HC_CPF_CNPJ__C": "41660200482",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "41660200482TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008M1ZBAA0"
+  },
+  {
+    "_CustomObjectKey": "76640",
+    "HC_CPF_CNPJ__C": "41660200482",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "41660200482TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008M1ZBAA0"
+  },
+  {
+    "_CustomObjectKey": "76641",
+    "HC_CPF_CNPJ__C": "43983588620",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "43983588620TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BRiKCAA1"
+  },
+  {
+    "_CustomObjectKey": "76642",
+    "HC_CPF_CNPJ__C": "43983588620",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "43983588620TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BRiKCAA1"
+  },
+  {
+    "_CustomObjectKey": "76643",
+    "HC_CPF_CNPJ__C": "45596360953",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "45596360953TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente",
+    "ID": "a0i6g000008MkFzAAK"
+  },
+  {
+    "_CustomObjectKey": "76644",
+    "HC_CPF_CNPJ__C": "45596360953",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "45596360953TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008MkFzAAK"
+  },
+  {
+    "_CustomObjectKey": "76645",
+    "HC_CPF_CNPJ__C": "46042393804",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "46042393804TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000006NJWkAAO"
+  },
+  {
+    "_CustomObjectKey": "76646",
+    "HC_CPF_CNPJ__C": "46042393804",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "46042393804TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006NJWkAAO"
+  },
+  {
+    "_CustomObjectKey": "76647",
+    "HC_CPF_CNPJ__C": "46443703715",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "46443703715TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008MkqOAAS"
+  },
+  {
+    "_CustomObjectKey": "76648",
+    "HC_CPF_CNPJ__C": "46443703715",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "46443703715TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008MkqOAAS"
+  },
+  {
+    "_CustomObjectKey": "76649",
+    "HC_CPF_CNPJ__C": "46459987815",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "46459987815TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente",
+    "ID": "a0i6g000008MpdfAAC"
+  },
+  {
+    "_CustomObjectKey": "76650",
+    "HC_CPF_CNPJ__C": "46459987815",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "46459987815TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008MpdfAAC"
+  },
+  {
+    "_CustomObjectKey": "76651",
+    "HC_CPF_CNPJ__C": "47464666615",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "47464666615TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BTBrrAAH"
+  },
+  {
+    "_CustomObjectKey": "76652",
+    "HC_CPF_CNPJ__C": "47464666615",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "47464666615TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BTBrrAAH"
+  },
+  {
+    "_CustomObjectKey": "76653",
+    "HC_CPF_CNPJ__C": "49626817887",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "49626817887TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008UzNrAAK"
+  },
+  {
+    "_CustomObjectKey": "76654",
+    "HC_CPF_CNPJ__C": "49937405734",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "49937405734TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006EcCMAA0"
+  },
+  {
+    "_CustomObjectKey": "76655",
+    "HC_CPF_CNPJ__C": "50989910997",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "50989910997TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente",
+    "ID": "a0i6g000008MlWzAAK"
+  },
+  {
+    "_CustomObjectKey": "76656",
+    "HC_CPF_CNPJ__C": "50989910997",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "50989910997TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008MlWzAAK"
+  },
+  {
+    "_CustomObjectKey": "76657",
+    "HC_CPF_CNPJ__C": "55773400120",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "55773400120TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008MAhcAAG"
+  },
+  {
+    "_CustomObjectKey": "76658",
+    "HC_CPF_CNPJ__C": "55773400120",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "55773400120TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008MAhcAAG"
+  },
+  {
+    "_CustomObjectKey": "76659",
+    "HC_CPF_CNPJ__C": "55903754520",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "55903754520TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006R32LAAS"
+  },
+  {
+    "_CustomObjectKey": "76660",
+    "HC_CPF_CNPJ__C": "55903754520",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "55903754520TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000006R32LAAS"
+  },
+  {
+    "_CustomObjectKey": "76661",
+    "HC_CPF_CNPJ__C": "61099295815",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "61099295815TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BSGNjAAP"
+  },
+  {
+    "_CustomObjectKey": "76662",
+    "HC_CPF_CNPJ__C": "61099295815",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "61099295815TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BSGNjAAP"
+  },
+  {
+    "_CustomObjectKey": "76663",
+    "HC_CPF_CNPJ__C": "62460650078",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "62460650078TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008OmsCAAS"
+  },
+  {
+    "_CustomObjectKey": "76664",
+    "HC_CPF_CNPJ__C": "62460650078",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "62460650078TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008OmsCAAS"
+  },
+  {
+    "_CustomObjectKey": "76665",
+    "HC_CPF_CNPJ__C": "64271790800",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "64271790800TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g00000AbhacAAB"
+  },
+  {
+    "_CustomObjectKey": "76666",
+    "HC_CPF_CNPJ__C": "64271790800",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "64271790800TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000AbhacAAB"
+  },
+  {
+    "_CustomObjectKey": "76667",
+    "HC_CPF_CNPJ__C": "64478858349",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "64478858349TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BU7B1AAL"
+  },
+  {
+    "_CustomObjectKey": "76668",
+    "HC_CPF_CNPJ__C": "64478858349",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "64478858349TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BU7B1AAL"
+  },
+  {
+    "_CustomObjectKey": "76669",
+    "HC_CPF_CNPJ__C": "70230390749",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "70230390749TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BEOfLAAX"
+  },
+  {
+    "_CustomObjectKey": "76670",
+    "HC_CPF_CNPJ__C": "70230390749",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "70230390749TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000BEOfLAAX"
+  },
+  {
+    "_CustomObjectKey": "76671",
+    "HC_CPF_CNPJ__C": "73421820872",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "73421820872TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006HWIRAA4"
+  },
+  {
+    "_CustomObjectKey": "76672",
+    "HC_CPF_CNPJ__C": "77685512068",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "77685512068TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006NkA1AAK"
+  },
+  {
+    "_CustomObjectKey": "76673",
+    "HC_CPF_CNPJ__C": "78306221834",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "78306221834TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000008VAG6AAO"
+  },
+  {
+    "_CustomObjectKey": "76674",
+    "HC_CPF_CNPJ__C": "82430241900",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "82430241900TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008SBorAAG"
+  },
+  {
+    "_CustomObjectKey": "76675",
+    "HC_CPF_CNPJ__C": "82430241900",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "82430241900TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000008SBorAAG"
+  },
+  {
+    "_CustomObjectKey": "76676",
+    "HC_CPF_CNPJ__C": "83934944515",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "83934944515TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000006EYXNAA4"
+  },
+  {
+    "_CustomObjectKey": "76677",
+    "HC_CPF_CNPJ__C": "83934944515",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "83934944515TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente",
+    "ID": "a0i6g000006EYXNAA4"
+  },
+  {
+    "_CustomObjectKey": "76678",
+    "HC_CPF_CNPJ__C": "84901616153",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "84901616153TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000008S7TYAA0"
+  },
+  {
+    "_CustomObjectKey": "76679",
+    "HC_CPF_CNPJ__C": "84901616153",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "84901616153TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g000008S7TYAA0"
+  },
+  {
+    "_CustomObjectKey": "76680",
+    "HC_CPF_CNPJ__C": "87905728153",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "87905728153TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000006DdMQAA0"
+  },
+  {
+    "_CustomObjectKey": "76681",
+    "HC_CPF_CNPJ__C": "87905728153",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "87905728153TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g000006DdMQAA0"
+  },
+  {
+    "_CustomObjectKey": "76682",
+    "HC_CPF_CNPJ__C": "88731480853",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "88731480853TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006OyiGAAS"
+  },
+  {
+    "_CustomObjectKey": "76683",
+    "HC_CPF_CNPJ__C": "93906579620",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "93906579620TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006H65CAAS"
+  },
+  {
+    "_CustomObjectKey": "76684",
+    "HC_CPF_CNPJ__C": "96120649891",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "96120649891TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006OulZAAS"
+  },
+  {
+    "_CustomObjectKey": "76685",
+    "HC_CPF_CNPJ__C": "96120649891",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "96120649891TCBB ",
+    "HC_CLASSIFICACAO__C": "Falecido",
+    "ID": "a0i6g000006OulZAAS"
+  },
+  {
+    "_CustomObjectKey": "76686",
+    "HC_CPF_CNPJ__C": "98493264253",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "98493264253TCBB ",
+    "HC_CLASSIFICACAO__C": "Ex-cliente",
+    "ID": "a0i6g00000B9OAyAAN"
+  },
+  {
+    "_CustomObjectKey": "76687",
+    "HC_CPF_CNPJ__C": "98493264253",
+    "HC_CPF_CNPJ_PARCEIRO_ORIGEM__C": "98493264253TCBB ",
+    "HC_CLASSIFICACAO__C": "Cliente Potencial",
+    "ID": "a0i6g00000B9OAyAAN"
+  }
+]

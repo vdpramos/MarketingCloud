@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "f72505b9-4373-4d5b-8c01-9f144072bbfb",
+  "name": "Qr06.1_Base_Fim_Plano_Ourocap_PM_ComOTC_Tratada_OTC291_NeoBpo",
+  "key": "8d440d5e-e3cd-41a9-98be-89e5a3e79ebf",
+  "description": "Guarda os contatos retornados na resposta do OTC291",
+  "queryText": "SELECT\r\n  A.CODIGO_PARCEIRO,\r\n  A.ID_CLIENTE,\r\n  A.CODIGO_MCI,\r\n  A.TIPO_PESSOA,\r\n  A.CODIGO_CIC,\r\n  A.DT_NASCIMENTO,\r\n  A.NOME,\r\n  A.SEXO,\r\n  A.UF_RESIDENCIAL,\r\n  A.DDD1,\r\n  A.TELEFONE1,\r\n  A.DDD2,\r\n  A.TELEFONE2,\r\n  A.DDD3,\r\n  A.TELEFONE3,\r\n  A.CODIGO_PLANO,\r\n  A.ORIGEM_SOLICITACAO,\r\n  A.FILLER,\r\n  A.CODIGO_RNA,\r\n  A.VALOR_RENDIMENTOS,\r\n  A.TIPO_CARTEIRA,\r\n  A.NIVEL_RELACIONAMENTO,\r\n  A.DATA_INFORMACAO,\r\n  A.FILLER2,\r\n  A.CPF,\r\n  UPPER(SUBSTRING(B.NOME, 1, CHARINDEX(' ', B.NOME) - 1)) AS PRIMEIRO_NOME,\r\n  UPPER(SUBSTRING(B.NOME, CHARINDEX(' ', B.NOME) + 1, LEN(B.NOME))) AS SOBRENOME,\r\n  A.DT_NASCIMENTO_SF,\r\n  A.ALTA_RENDA\r\nFROM\r\n  TB_BASE_OTC291_TRATADA A /*TB_BASE_OTC291 A */ \r\nINNER JOIN Tb_Base_Fim_Plano_Ourocap_PM_ComOTC_Filtrada B ON B.CPF_CNPJ = A.CPF",
+  "targetName": "Tb_Base_Fim_Plano_Ourocap_PM_OTC291_Tratada_NeoBpo",
+  "targetKey": "8FB2F699-8B86-4519-BE9F-337E31BEFA8E",
+  "targetId": "0adbd46a-9c15-ec11-a30b-48df370eabe4",
+  "targetDescription": "Base para guardar o retorno do OTC291",
+  "createdDate": "2021-09-14T14:51:53.56",
+  "modifiedDate": "2021-09-14T14:51:53.56",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 33760,
+  "isFrozen": false
+}

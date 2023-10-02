@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "cpf",
+    "FieldType": "Text",
+    "ObjectID": "6bd791a5-6dab-445c-a478-180506fd379c",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "ID_CAMPANHA",
+    "FieldType": "Text",
+    "ObjectID": "af807d27-d890-4105-a7d0-b3ef24eddeb0",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "data_campanha",
+    "FieldType": "Text",
+    "ObjectID": "b537b23c-f6db-4e0c-b6cf-8f9abd667c11",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "canal",
+    "FieldType": "Text",
+    "ObjectID": "14632b2d-d558-4f17-a6d6-b3bab1b56f9b",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

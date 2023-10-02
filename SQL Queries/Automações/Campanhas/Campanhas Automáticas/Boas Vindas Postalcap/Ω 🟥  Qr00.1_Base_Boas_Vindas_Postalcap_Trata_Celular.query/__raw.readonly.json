@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b14175cd-d5c9-43be-aafa-2a5755066a23",
+  "name": "Qr00.1_Base_Boas_Vindas_Postalcap_Trata_Celular",
+  "key": "93dedb8e-bab2-4ca2-ab1c-8fd81da46a25",
+  "description": "Trata celular para envio de SMS na Jornada",
+  "queryText": "SELECT \r\n\tID,\r\n\t'55' + REPLACE(REPLACE(REPLACE(REPLACE(CELULAR, '(', ''), ')', ''), ' ', ''), '-', '') AS CELULAR\r\nFROM TB_BOAS_VINDAS_POSTALCAP_COMOTC_NEOBPO\r\nWHERE CELULAR_VALIDO = 1",
+  "targetName": "Tb_Boas_Vindas_Postalcap_ComOTC_NeoBpo",
+  "targetKey": "99B8EC07-BAEA-4770-B98F-31FD0C7262B2",
+  "targetId": "4597cd68-c9f4-eb11-a30d-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-08-24T15:37:18.16",
+  "modifiedDate": "2021-08-24T15:37:18.16",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 37321,
+  "isFrozen": false
+}

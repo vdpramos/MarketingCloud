@@ -1,0 +1,5 @@
+Dataextension name: Tb_IdCampanha
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| IdCampanha           | Text(18)        | false    | false    |                 |

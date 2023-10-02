@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ed781540-fe6c-4421-a81b-924ad5ae5006",
+  "name": "Qr03.1_Renovacao_Filtrada_Online_TMKT",
+  "key": "ED781540-FE6C-4421-A81B-924AD5AE5006",
+  "description": "",
+  "queryText": "SELECT\n  A.*\nFROM Renovacao_OTC291_Online_Tratada_TMKT A\nLEFT OUTER JOIN ( \n  SELECT\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\n  FROM Renovacao_Online_Filtrada_TMKT ENV\n  LEFT JOIN Renovacao_OTC291_Online_Tratada_TMKT RET ON ENV.CPF = RET.CPF\n  WHERE RET.CPF IS NULL\n) B ON 1 = 1\nWHERE \n  B.CPFS_FALTANDO_NO_OTC = 0 /* SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 */\n  /* VALIDAÇÕES POR CONTATO DO OTC */\n  AND A.CODIGO_RNA = '000'\n  AND A.ALTA_RENDA = 0\n  AND A.CONTA_ATIVA = 1",
+  "targetName": "Renovacao_OTC291_Online_Filtrada_TMKT",
+  "targetKey": "382EF648-613E-477C-AFF8-F9B79C315B90",
+  "targetId": "51c606c5-4647-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2023-08-30T09:06:52.907",
+  "modifiedDate": "2023-09-05T12:17:58.627",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 68066,
+  "isFrozen": false
+}

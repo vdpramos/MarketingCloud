@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8c4f546d-01c0-4eed-a8ad-b1157b26c28c",
+  "name": "SelecionaClientesAtualizar",
+  "key": "81d29705-e68c-4cfb-b928-36f367c608db",
+  "description": "",
+  "queryText": "select '''' + CPF_CNPJ + '''' + ',' as CPF_CNPJ from ClienteUnicoNomeNaoInformado",
+  "targetName": "ClienteUnicoVerificacaoInfoExterna",
+  "targetKey": "4884D08B-DDE9-4CEE-B192-A49E70A0819E",
+  "targetId": "b8473bf6-d5a3-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-03T09:22:03.467",
+  "modifiedDate": "2023-02-03T10:01:09.557",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

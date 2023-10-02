@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6ef15b0f-eed3-439e-99df-ba07b7d131b1",
+  "name": "Resgata Mensagem de Erro para os pagamentos não preenchidos",
+  "key": "6EF15B0F-EED3-439E-99DF-BA07B7D131B1",
+  "description": "",
+  "queryText": "select pg.id, pg.HC_Codigo_de_Retorno_de_Erro__c, dpg.Descricao_do_Retorno_de_Erro__c\nfrom PagamentosAtualizarMsgRetornoErro pg\ninner join Pagamento_DominioMsgErro dpg\n    on pg.HC_Codigo_de_Retorno_de_Erro__c = dpg.HC_Codigo_de_Retorno_de_Erro__c",
+  "targetName": "PagamentosAtualizarMsgRetornoErro",
+  "targetKey": "C7524FDF-6BD2-438F-8ACA-8E0F2DDC48FB",
+  "targetId": "f345b629-d2b9-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-03T09:06:36.98",
+  "modifiedDate": "2023-03-03T09:06:36.98",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 46010,
+  "isFrozen": false
+}

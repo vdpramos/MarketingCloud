@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Name",
+    "FieldType": "Text",
+    "ObjectID": "974a7f33-a0e4-4787-978e-07cc1a92c860",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Page ID",
+    "FieldType": "Text",
+    "ObjectID": "60eeca74-48b0-4ac7-86f6-5f04fbcfa62a",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Impressions",
+    "FieldType": "Text",
+    "ObjectID": "a5c37c41-0139-41c9-8b73-1a6a594b0a0b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Data",
+    "FieldType": "Date",
+    "ObjectID": "d6f27bcd-c58d-424b-bf91-9a2192c49249",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

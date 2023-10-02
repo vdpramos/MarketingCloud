@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e04ea752-fe02-41ae-be5c-ecc402012e63",
+  "name": "Criticas_Offline_PROSPECT_TMKT _detalhe",
+  "key": "ee1ee0ee-0ea4-445c-9a1b-6e2d4e5463cf",
+  "description": "",
+  "queryText": "SELECT\r\nA.CPF_CNPJ,\r\nA.CAMPANHA,\r\nA.RESULTADO,\r\nA.DATA_REGISTRO\r\nFROM\r\nTb_Log_Resultados_de_Avaliacao A\r\nWHERE\r\nA.CAMPANHA = 'Campanha Offline PROSPECT - TMKT - detalhe'\r\nAND\r\nCONVERT(date, A.DATA_REGISTRO) BETWEEN CONVERT(date, '2021-06-01') AND CONVERT(date, '2021-12-31')\r\n\r\n",
+  "targetName": "Críticas_Offline_PROSPECT_TMKT",
+  "targetKey": "52A1950C-632C-45F8-AFF6-A47733E24E63",
+  "targetId": "9282643d-8d6d-ec11-a311-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2022-01-04T13:30:16.337",
+  "modifiedDate": "2022-01-04T13:30:16.337",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

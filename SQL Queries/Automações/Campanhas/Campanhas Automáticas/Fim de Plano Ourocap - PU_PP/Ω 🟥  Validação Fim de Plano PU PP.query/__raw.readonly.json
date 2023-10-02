@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ae488ea3-3c20-4e97-8526-77cf083e0f68",
+  "name": "Validação Fim de Plano PU PP",
+  "key": "b3a47583-b0e4-4232-aec6-b4e91267f081",
+  "description": "",
+  "queryText": "SELECT\n  *\nFROM\n  TB_BASE_FIM_PLANO_OUROCAP_PU_PP_COMOTC_NEOBPO \nWHERE\n  IDADE_VALIDA = 1 \n  AND CONSELHEIRO = 0 \n  AND CLIENTE_PEP = 0 \n  AND DESEJA_CONTATO_TELEFONICO = 0 \n  AND COMPRA_RECENTE_OUROCAP = 0 \n  AND POSSUI_CONTA_ATIVA = 1\n  AND POSSUI_TELEFONE_ATIVO = 1\n  AND QUARENTENA = 0\n  AND NAO_IMPORTUNE = 0",
+  "targetName": "Tb_Validacao_Fim_de_plano",
+  "targetKey": "775196DC-50EE-4432-B019-A9E6583B34F9",
+  "targetId": "bc1d3c4a-a29c-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-13T15:54:01.557",
+  "modifiedDate": "2021-04-13T19:45:21.24",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 32463,
+  "isFrozen": false
+}

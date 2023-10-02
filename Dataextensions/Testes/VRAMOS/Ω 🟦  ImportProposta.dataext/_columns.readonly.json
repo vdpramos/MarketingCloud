@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "PROPOSTA",
+    "FieldType": "Text",
+    "ObjectID": "45a2e6d0-33c5-4831-95cf-e170ab8cb7fd",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "PLANO",
+    "FieldType": "Text",
+    "ObjectID": "7e1126f1-1e0b-4216-9b96-058ede91745b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

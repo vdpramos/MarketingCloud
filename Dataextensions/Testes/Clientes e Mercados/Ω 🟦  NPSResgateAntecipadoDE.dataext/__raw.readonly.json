@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "1419CBE1-ED7A-4A89-9AEF-1AAB777339A7"
+  ],
+  "Name": [
+    "NPSResgateAntecipadoDE"
+  ]
+}

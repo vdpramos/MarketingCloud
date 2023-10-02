@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "HC_CPF_CNPJ_Cliente__c",
+    "FieldType": "Text",
+    "ObjectID": "331e6d3d-5629-4fc0-8ba5-2cd652d080b6",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "HC_Tipo_de_Pessoa__c",
+    "FieldType": "Text",
+    "ObjectID": "a4d929e2-40dc-42c3-b035-84b94342559c",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Name",
+    "FieldType": "Text",
+    "ObjectID": "7f17ecc6-73c1-40ba-b852-63f30821ce48",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "HC_Data_Nascimento__c",
+    "FieldType": "Text",
+    "ObjectID": "4a33cc66-0ad1-4cfc-906c-042918a0688a",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

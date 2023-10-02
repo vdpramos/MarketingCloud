@@ -1,0 +1,21 @@
+Dataextension name: AeM_Boas_Vindas_Whatsapp_Historico
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_PROPOSTA          | Text(20)        | false    | false    |                 |
+| Date                 | Date            | false    | false    | GetDate()       |
+| CPF_CNPJ             | Text(20)        | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| EMAIL_VALIDO         | Boolean         | false    | false    |                 |
+| CELULAR_VALIDO       | Boolean         | false    | false    |                 |
+| NAO_DESEJA_RECEBER_EMAIL | Boolean         | false    | false    |                 |
+| NAO_DESEJA_RECEBER_SMS | Boolean         | false    | false    |                 |
+| EMAIL                | EmailAddress    | false    | false    |                 |
+| CELULAR              | Text(20)        | false    | false    |                 |
+| TITULOS_ANTERIORES_ATIVOS | Number          | false    | false    |                 |
+| TITULOS_ANTERIORES_INATIVOS | Number          | false    | false    |                 |
+| CreatedDate          | Date            | false    | false    |                 |
+| Flag_Whatsapp        | Boolean         | false    | false    | False           |
+| Recebeu_Whatsapp     | Boolean         | false    | false    | true            |
+| unsubscribe          | Boolean         | false    | false    | False           |

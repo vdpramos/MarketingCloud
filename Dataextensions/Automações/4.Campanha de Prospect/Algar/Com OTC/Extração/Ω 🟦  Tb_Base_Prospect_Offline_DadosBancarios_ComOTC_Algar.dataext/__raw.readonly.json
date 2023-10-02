@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "3734282E-52DD-45BC-AF69-ACD8641BE5FD"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_DadosBancarios_ComOTC_Algar"
+  ]
+}

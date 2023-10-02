@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8c74d888-09c5-4e6a-85b0-0cf271e81f89",
+  "name": "Qr04_Base_Boas_Vindas_Postalcap_Trata_Quarentena",
+  "key": "02b6c215-dbfb-4626-928e-e8e5d9f9b6d9",
+  "description": "",
+  "queryText": "SELECT\r\n\tA.CPF_CNPJ AS ID,\r\n\tCASE WHEN Q.CPF_CNPJ IS NOT NULL THEN 1 ELSE 0 END AS QUARENTENA\r\nFROM\r\n\tTB_BOAS_VINDAS_POSTALCAP_COMOTC_NEOBPO A\r\nLEFT JOIN TB_BOAS_VINDAS_POSTALCAP_QUARENTENA Q ON A.CPF_CNPJ = Q.CPF_CNPJ\r\n\tAND A.NUMERO_DO_TITULO = Q.NUMERO_DO_TITULO\r\n\tAND A.SERIE_DO_TITULO = Q.SERIE_DO_TITULO\r\n\tAND A.PLANO_DO_TITULO = Q.PLANO_DO_TITULO",
+  "targetName": "Tb_Boas_Vindas_Postalcap_ComOTC_NeoBpo",
+  "targetKey": "99B8EC07-BAEA-4770-B98F-31FD0C7262B2",
+  "targetId": "4597cd68-c9f4-eb11-a30d-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-08-03T20:08:34.303",
+  "modifiedDate": "2021-08-06T20:25:57.113",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 37321,
+  "isFrozen": false
+}

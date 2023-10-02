@@ -1,0 +1,9 @@
+Dataextension name: TitulosDarwin
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_TITULO            | Text(50)        | false    | false    |                 |
+| TIPO_PESSOA_TITULAR  | Text(50)        | false    | false    |                 |
+| CPF_CNPJ_TITULAR     | Text(50)        | false    | false    |                 |
+| STATUS               | Text(50)        | false    | false    |                 |
+| HC_Situacao__c       | Text(50)        | false    | false    |                 |

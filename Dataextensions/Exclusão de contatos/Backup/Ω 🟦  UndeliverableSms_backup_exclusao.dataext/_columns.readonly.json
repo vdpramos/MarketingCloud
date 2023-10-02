@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "MobileNumber",
+    "FieldType": "Phone",
+    "ObjectID": "8aabb068-7ec4-458b-ab00-863ecfc1cdc7",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Undeliverable",
+    "FieldType": "Boolean",
+    "ObjectID": "4e38608c-9e4c-472e-8fa1-dafcd03e0399",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "BounceCount",
+    "FieldType": "Number",
+    "ObjectID": "100063bc-2bee-4202-a62e-7c5f20e332bb",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "FirstBounceDate",
+    "FieldType": "Date",
+    "ObjectID": "c3a89e16-b1ab-4e0c-bf78-d7b95d784369",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "HoldDate",
+    "FieldType": "Date",
+    "ObjectID": "8288d517-b1e6-45c5-b208-d80c6a16ca9a",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Data_exclusao",
+    "FieldType": "Date",
+    "ObjectID": "607c1140-7f7a-4af8-be64-93a8058e95b5",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GetDate()",
+    "Ordinal": 5
+  }
+]

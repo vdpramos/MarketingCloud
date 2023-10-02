@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "54C577DF-A1DB-46D0-85F0-2734715C53A8"
+  ],
+  "Name": [
+    "Audiencia_Complementar_Email_Valido"
+  ]
+}

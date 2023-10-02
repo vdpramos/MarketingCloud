@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "fdeb15e7-33bb-43dd-aaf4-46b845b7628b",
+  "name": "Qr_Conta_Total_Obtidos_ultimaExec_Cliente_NeoBpo",
+  "key": "66742ab2-92bc-4bb5-a6cc-68a943514ac0",
+  "description": "Conta a quantidade de clientes obtidos na ultima execução da automação",
+  "queryText": "select\r\n  b.ID_CAMPANHA,\r\n  count(1) as QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290\r\nfrom Tb_Base_Cliente_ComOTC_NeoBpo a\r\ninner join CONTROLE_AUTOMACOES_CAMPANHAS b on b.ID_CAMPANHA = '7016g000002O089AAC'\r\ngroup by  b.ID_CAMPANHA",
+  "targetName": "CONTROLE_AUTOMACOES_CAMPANHAS",
+  "targetKey": "04B8390F-4FDE-47E3-9CB8-092965B5D94D",
+  "targetId": "3af1ba23-8d70-ec11-a311-48df370eabe5",
+  "targetDescription": "DE para controlar steps das campanhas",
+  "createdDate": "2022-01-18T19:13:43.153",
+  "modifiedDate": "2022-01-18T19:16:48.033",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 30539,
+  "isFrozen": false
+}

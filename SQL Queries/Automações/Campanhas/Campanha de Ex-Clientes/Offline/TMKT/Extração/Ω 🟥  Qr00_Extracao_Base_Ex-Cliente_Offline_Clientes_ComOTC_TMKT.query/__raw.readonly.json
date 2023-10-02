@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "49b0600e-9801-4966-b7db-17f6d7f232cd",
+  "name": "Qr00_Extracao_Base_Ex-Cliente_Offline_Clientes_ComOTC_TMKT",
+  "key": "9129cd29-0bce-449f-8560-496e7d1f042f",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n  B.CPF,\n  'TCBB' AS COD_PARCEIRO,\n  '' AS CNPJ,\n  'Brasilcap' AS PARCEIRO_ORGANIZACAO,\n  'Brazil' AS PARCEIRO_LOCALIZACAO,\n  A.ID_CLIENTE_PARCEIRO AS COD_CLIENTE_MC,\n  C.NOME AS NOME_COMPLETO,\n  'PF' AS TIPO_PESSOA,\n  CONVERT(VARCHAR, CONVERT(DATE, B.Dt_Nascimento, 103), 112) AS DATA_NASCIMENTO,\n  C.SEXO,\n  'Brasilcap' AS CLIENTE_ORGANIZACAO,\n  CONCAT(B.CPF, 'TCBB') AS CLIENTE_CHAVE_MIGRACAO,\n  CONCAT(B.CPF, 'TCBB') AS CLIENTE_CHAGE_GERAL_INTERNA,\n  'Person' AS CLIENTE_TIPO_INTERNO\nFROM\n  Tb_Base_Ex_Cliente_OTC291_Filtrada_TMKT A \n  INNER JOIN\n    Tb_Base_Ex_Cliente_OTC291_Tratada_TMKT B \n    ON A.CPF = B.CPF\n INNER JOIN \n    Tb_Base_Ex_Cliente_ComOTC_Filtrada_TMKT C\n    ON A.CPF = C.CPF_CNPJ",
+  "targetName": "Tb_Base_Ex_Clientes_Offline_Clientes_ComOTC_TMKT",
+  "targetKey": "B0D3D798-46DB-498E-A21D-1CE4C43D7CAF",
+  "targetId": "007312fe-46db-eb11-a304-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-07-02T09:14:12.4",
+  "modifiedDate": "2023-05-30T06:29:58.673",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 33122,
+  "isFrozen": false
+}

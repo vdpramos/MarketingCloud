@@ -1,0 +1,5 @@
+Dataextension name: QueryStudioResults at 2023-09-05T1411200000
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| cpf_cnp              | Text(255)       | false    | false    |                 |

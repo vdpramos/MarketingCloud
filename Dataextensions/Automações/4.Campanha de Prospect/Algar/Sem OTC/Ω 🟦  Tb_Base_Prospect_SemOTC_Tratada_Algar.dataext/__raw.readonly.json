@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "C1DFE8CB-A9BE-4A6F-A6F7-E10B895A8F9B"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_SemOTC_Tratada_Algar"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "052011A2-F064-443A-8020-940E25F16E90"
+  ],
+  "Name": [
+    "Campanha Onlne Cliente - Neobpo 1 - header"
+  ]
+}

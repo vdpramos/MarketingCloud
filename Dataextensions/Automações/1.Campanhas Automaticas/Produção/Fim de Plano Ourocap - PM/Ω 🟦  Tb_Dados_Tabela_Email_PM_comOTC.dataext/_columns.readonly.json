@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "cdaeb57e-ada7-42a7-bcec-a44812a9c921",
+    "MaxLength": "14",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Produto",
+    "FieldType": "Text",
+    "ObjectID": "da852efd-34e9-4fcf-9042-f3cf0964e44c",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Numero_do_Titulo",
+    "FieldType": "Text",
+    "ObjectID": "3242ada7-54b1-4ad8-baeb-93e4dd81f776",
+    "MaxLength": "80",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Valor_Resgate",
+    "FieldType": "Decimal",
+    "ObjectID": "30e6e56b-8c0a-4f62-b649-7dac753d310d",
+    "MaxLength": "14",
+    "Scale": "2",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Data_Credito",
+    "FieldType": "Date",
+    "ObjectID": "fedafdb0-76be-44db-b132-9f5a588335f2",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Forma_Credito",
+    "FieldType": "Text",
+    "ObjectID": "2129a840-628c-49bb-89f2-5b00bdd72d78",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

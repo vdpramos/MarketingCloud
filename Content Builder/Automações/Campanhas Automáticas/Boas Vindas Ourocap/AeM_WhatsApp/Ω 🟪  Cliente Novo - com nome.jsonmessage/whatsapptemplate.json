@@ -1,0 +1,173 @@
+{
+  "display:title": "Parabéns pela compra do seu Ourocap!",
+  "display:message:format": "text",
+  "display:languages:content": {
+    "pT_BR": {
+      "display:components": [
+        "title",
+        "message",
+        "footer"
+      ],
+      "display:title:format": "TEXT",
+      "display:title": "Parabéns pela compra do seu Ourocap!",
+      "display:title:parameters": {},
+      "display:message": "${1}, estamos felizes em ter você como nosso cliente!😍\n\n➡️ Para maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+      "display:message:parameters": {
+        "1": {
+          "display:argument:name": "1",
+          "display:argument:format": "text",
+          "display:argument": "%%"
+        }
+      },
+      "display:footer": "Brasilcap"
+    }
+  },
+  "channel": "whatsapptemplate",
+  "display:title:parameters": {},
+  "showTemplatePicker": false,
+  "templateName": "boas_vindas_cliente_novo_comnome_0800",
+  "collapsedPanels": [],
+  "display:lang": "PT_BR",
+  "stack": "S11",
+  "display:components": [
+    "title",
+    "message",
+    "footer"
+  ],
+  "display:message": "${1}, estamos felizes em ter você como nosso cliente!😍\n\n➡️ Para maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+  "currentColumn": 0,
+  "display:title:format": "text",
+  "display:footer": "Brasilcap",
+  "selectedTemplate": {
+    "display:components": [
+      "title",
+      "message",
+      "footer"
+    ],
+    "display:title:format": "TEXT",
+    "display:title": "Parabéns pela compra do seu Ourocap!",
+    "display:title:parameters": {},
+    "display:message": "${1}, estamos felizes em ter você como nosso cliente!😍\n\n➡️ Para maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+    "display:message:parameters": {
+      "1": {
+        "display:argument:name": "1",
+        "display:argument:format": "text",
+        "display:argument": "%%"
+      }
+    },
+    "display:footer": "Brasilcap"
+  },
+  "display:message:parameters": {
+    "1": {
+      "display:argument:name": "1",
+      "display:argument:format": "text",
+      "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+    }
+  },
+  "template": {
+    "modifiedBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "customerKey": "822833e7-ec36-4344-ac10-3f66d069e9a6",
+    "availableViews": [
+      "whatsAppTemplate"
+    ],
+    "model": {
+      "id": 235,
+      "fileExtension": "",
+      "name": "JSON Message Template",
+      "key": "jsonmessagetemplate",
+      "parentAssetTypeID": 4,
+      "createdDate": "2020-06-29T15:25:11Z",
+      "modifiedDate": "2020-06-29T15:25:11Z",
+      "isCDNPublishable": false
+    },
+    "assetType": {
+      "id": 235,
+      "name": "jsonmessagetemplate",
+      "displayName": "jsonmessagetemplate"
+    },
+    "name": "WHATSAPP-boas_vindas_cliente_novo_comnome_0800",
+    "thumbnail": {
+      "thumbnailUrl": "/v1/assets/77980/thumbnail"
+    },
+    "views": {
+      "whatsAppTemplate": {
+        "content": "",
+        "meta": {
+          "options": {
+            "customBlockData": {
+              "channel": "WHATSAPP",
+              "template": "template",
+              "containerId": "106212288893473",
+              "templateName": "boas_vindas_cliente_novo_comnome_0800",
+              "category": "PAYMENT_UPDATE",
+              "display:languages:approved": [
+                "PT_BR"
+              ],
+              "display:languages:content": {
+                "pT_BR": {
+                  "display:components": [
+                    "title",
+                    "message",
+                    "footer"
+                  ],
+                  "display:title:format": "TEXT",
+                  "display:title": "Parabéns pela compra do seu Ourocap!",
+                  "display:title:parameters": {},
+                  "display:message": "${1}, estamos felizes em ter você como nosso cliente!😍\n\n➡️ Para maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+                  "display:message:parameters": {
+                    "1": {
+                      "display:argument:name": "1",
+                      "display:argument:format": "text",
+                      "display:argument": "%%"
+                    }
+                  },
+                  "display:footer": "Brasilcap"
+                }
+              },
+              "display:lang": "PT_BR"
+            }
+          }
+        },
+        "modelVersion": 2
+      }
+    },
+    "modelVersion": 2,
+    "status": {
+      "id": 1,
+      "name": "Draft"
+    },
+    "owner": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "memberId": 514002572,
+    "createdDate": "2022-10-25T18:19:14-06:00",
+    "modifiedDate": "2022-10-25T18:19:14-06:00",
+    "objectID": "48b09b70-2008-41b9-884c-517b6a71ef66",
+    "id": 77980,
+    "enterpriseId": 514002572,
+    "category": {
+      "id": 1942,
+      "name": "Content Builder",
+      "parentId": 0
+    },
+    "createdBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    }
+  },
+  "contents": [],
+  "display:message:parameters:display": "%%Nome%%%%FirstName%%",
+  "uncheckedPanels": [],
+  "category": "PAYMENT_UPDATE",
+  "display:footer:format": "text"
+}

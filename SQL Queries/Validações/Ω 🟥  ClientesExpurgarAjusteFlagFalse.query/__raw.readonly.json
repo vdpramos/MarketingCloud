@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1771ca8f-75d2-4c57-b508-83344dfa9ae3",
+  "name": "ClientesExpurgarAjusteFlagFalse",
+  "key": "6ecf55f4-dfbe-4aa9-9e20-e6f26e8512f8",
+  "description": "",
+  "queryText": "select c.id, 'false' as HC_CustomerToBeDeleted_Flg__c\nfrom HC_Relacao_Cliente_Parceiro__c_salesforce c\nwhere HC_CustomerToBeDeleted_Flg__c = 'true'\nand not exists (select 1 from clientesExpurgar ce where ce.id = c.id)",
+  "targetName": "ClientesExpurgarAjusteFalse",
+  "targetKey": "D8758F9B-C2ED-47A0-ABAE-E4545C511D9F",
+  "targetId": "f660af9b-a3d6-ec11-a319-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2022-05-19T15:45:05.587",
+  "modifiedDate": "2022-06-20T06:29:20.447",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

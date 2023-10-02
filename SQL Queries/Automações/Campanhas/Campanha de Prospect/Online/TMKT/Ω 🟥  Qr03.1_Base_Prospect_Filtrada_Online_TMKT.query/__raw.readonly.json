@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3df9a29e-9f1e-402a-b46f-30732fa8f7fd",
+  "name": "Qr03.1_Base_Prospect_Filtrada_Online_TMKT",
+  "key": "31a74ae2-3d1c-405c-823e-62d6315e7c9c",
+  "description": "",
+  "queryText": "SELECT\n  A.*\nFROM Tb_Base_Prospect_OTC291_Online_Tratada_TMKT A\nLEFT OUTER JOIN ( \n  SELECT\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\n  FROM Tb_Base_Prospect_Online_Filtrada_TMKT ENV\n  LEFT JOIN Tb_Base_Prospect_OTC291_Online_Tratada_TMKT RET ON ENV.CPF = RET.CPF\n  WHERE RET.CPF IS NULL\n) B ON 1 = 1\nWHERE \n  B.CPFS_FALTANDO_NO_OTC = 0 /* SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 */\n  /* VALIDAÇÕES POR CONTATO DO OTC */\n  AND A.CODIGO_RNA = '000'\n  AND A.ALTA_RENDA = 0",
+  "targetName": "Tb_Base_Prospect_OTC291_Online_Filtrada_TMKT",
+  "targetKey": "D5797A94-4EE5-4320-B479-D07E4F9D5969",
+  "targetId": "0b5f09ee-2f6b-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-26T05:47:49.377",
+  "modifiedDate": "2023-01-04T16:44:04.557",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 55868,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "53f00e84-757a-429b-a2a8-1f157099ddaf",
+  "name": "CPF_Contemplados",
+  "key": "53F00E84-757A-429B-A2A8-1F157099DDAF",
+  "description": "",
+  "queryText": "select a.*, c.hc_cpf_cnpj__c as CPF\nfrom Close_the_loop_contemplados_extracao a\ninner join contact_salesforce c\n    on c.id = a.id_contato",
+  "targetName": "Close_the_loop_contemplados_homologacao",
+  "targetKey": "74CEF3D6-0BC8-4E15-89FA-9259AA6359F0",
+  "targetId": "69698e1e-c0ff-ed11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-05-31T08:44:39.69",
+  "modifiedDate": "2023-05-31T08:44:39.69",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

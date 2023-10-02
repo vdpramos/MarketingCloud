@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2f0a07b6-ff34-430c-80e5-cc1a2984c356",
+  "name": "Qr07_Base_Ex-Cliente_Online_ComOTC_Insere_Historico_TMKT",
+  "key": "65f04b4b-3802-4a67-9df4-fd57fc01a611",
+  "description": "Inserir para quarentena",
+  "queryText": "SELECT DISTINCT\n  CPF AS CPF,\n  ID_CAMPANHA,\n  GetDate() AS DATA_CAMPANHA,\n  'DISCADOR' AS CANAL\nFROM \n  TB_BASE_EX_CLIENTE_OTC291_FILTRADA_TMKT",
+  "targetName": "Tb_Campanhas_ExCliente_Historico",
+  "targetKey": "E9FD1328-56C0-426C-8316-7FBEB5465B34",
+  "targetId": "cfd40677-296b-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-08-26T18:56:57.327",
+  "modifiedDate": "2022-05-31T02:05:21.01",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 33121,
+  "isFrozen": false
+}

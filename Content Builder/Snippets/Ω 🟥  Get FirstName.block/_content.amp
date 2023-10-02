@@ -1,0 +1,1 @@
+%%[ VAR @TamanhoFirstName SET @FirstName = Nome IF IndexOf(@FirstName, ' ') > 0 THEN SET @TamanhoFirstName = IndexOf(@FirstName, ' ') ELSE SET @TamanhoFirstName = Length(@FirstName) ENDIF ]%%

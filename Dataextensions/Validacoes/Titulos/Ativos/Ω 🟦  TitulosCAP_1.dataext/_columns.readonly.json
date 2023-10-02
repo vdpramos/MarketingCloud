@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "STATUS",
+    "FieldType": "Text",
+    "ObjectID": "0e7e862f-e580-4cc8-9c59-b9ec2452f42e",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "ID_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "40503085-4b66-49cd-a081-8eb808fa9536",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "ID_PLANO",
+    "FieldType": "Text",
+    "ObjectID": "c48d10de-e6d7-448e-b849-3a6322a03223",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "ID_SERIE",
+    "FieldType": "Text",
+    "ObjectID": "ac731829-719f-474c-9dcd-aaac0faa872c",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  }
+]

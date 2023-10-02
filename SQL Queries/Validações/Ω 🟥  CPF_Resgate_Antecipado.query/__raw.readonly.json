@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ba818895-7679-4edc-8481-927bcebff017",
+  "name": "CPF_Resgate_Antecipado",
+  "key": "BA818895-7679-4EDC-8481-927BCEBFF017",
+  "description": "",
+  "queryText": "select a.*, c.hc_cpf_cnpj__c as CPF\nfrom Close_the_loop_resgate_antecipado_extracao a\ninner join contact_salesforce c\n    on c.id = a.id_contato",
+  "targetName": "Close_the_loop_resgate_antecipado_homologacao",
+  "targetKey": "096D211E-931E-4927-BD2A-405107532E78",
+  "targetId": "5d51690c-c0ff-ed11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-05-31T08:43:20.38",
+  "modifiedDate": "2023-05-31T08:43:20.38",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

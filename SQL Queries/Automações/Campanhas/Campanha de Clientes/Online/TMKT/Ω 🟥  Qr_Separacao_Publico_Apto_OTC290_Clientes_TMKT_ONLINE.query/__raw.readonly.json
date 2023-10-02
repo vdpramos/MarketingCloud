@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ab9e294c-b80d-4e99-8c98-7366bd3b5e9b",
+  "name": "Qr_Separacao_Publico_Apto_OTC290_Clientes_TMKT_ONLINE",
+  "key": "b5fd191a-24a4-4b56-b4cf-8a5e23de6315",
+  "description": "Separa publico apto para ser enviado ao OTC290",
+  "queryText": "SELECT\n  A.*\nFROM Tb_Base_Cliente_TMKT_ONLINE A\nWHERE\n  /* IDADE_VALIDA = 1 */\n  /* AND CONSELHEIRO = 0 */\n  /* AND CLIENTE_PEP = 0 */\n  /* AND DESEJA_CONTATO_TELEFONICO = 0 */\n  /* AND POSSUI_TELEFONE_ATIVO = 1 */\n  /* AND POSSUI_CONTA_CORRENTE = 1 */\n  COMPRA_UTIMOS_30_DIAS = 'False' \n  AND POSSUI_TITULO_ATIVO = 'true'\n  AND QUARENTENA = 0\n  AND NAO_IMPORTUNE = 'False'\n",
+  "targetName": "Publico_Apto_Clientes_TMKT_ONLINE",
+  "targetKey": "4399EB42-489B-46FB-A619-D886D9583887",
+  "targetId": "22cc1b1d-ff97-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Publico que pode ser separado para campanha OTC 290",
+  "createdDate": "2023-01-19T09:17:48.887",
+  "modifiedDate": "2023-08-24T08:33:47.45",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 58189,
+  "isFrozen": false
+}

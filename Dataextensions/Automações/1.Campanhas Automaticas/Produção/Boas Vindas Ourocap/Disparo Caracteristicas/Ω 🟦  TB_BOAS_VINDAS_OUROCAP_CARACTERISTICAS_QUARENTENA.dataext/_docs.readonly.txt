@@ -1,0 +1,13 @@
+Dataextension name: TB_BOAS_VINDAS_OUROCAP_CARACTERISTICAS_QUARENTENA
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(30)        | true     | true     |                 |
+| PLANO_DO_TITULO      | Text(30)        | true     | true     |                 |
+| SERIE_DO_TITULO      | Text(50)        | true     | true     |                 |
+| NUMERO_DO_TITULO     | Text(30)        | true     | true     |                 |
+| ID_TITULO            | Text(30)        | true     | true     |                 |
+| Date                 | Date            | false    | false    | GETDATE()       |
+| ID_CONTATO           | Text(50)        | false    | false    |                 |
+| ID_CLIENTE_PARCEIRO  | Text(50)        | false    | false    |                 |
+| CreatedDate          | Date            | false    | false    |                 |

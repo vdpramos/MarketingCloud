@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "cpf_cont",
+    "FieldType": "Text",
+    "ObjectID": "0e1cb753-07ba-49ef-9e82-e68103d6b5ff",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

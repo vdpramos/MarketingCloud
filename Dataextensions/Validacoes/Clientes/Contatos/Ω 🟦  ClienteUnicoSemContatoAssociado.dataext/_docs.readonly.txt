@@ -1,0 +1,6 @@
+Dataextension name: ClienteUnicoSemContatoAssociado
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| id                   | Text(50)        | true     | false    |                 |
+| name                 | Text(255)       | true     | false    |                 |

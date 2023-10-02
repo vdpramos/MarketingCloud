@@ -1,0 +1,28 @@
+Dataextension name: RECOMANDO_G1_TCBB_PF_v2_MOCK
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| HC_CPF_CNPJ__c       | Text(20)        | false    | false    |                 |
+| HC_Id_Parceiro_Cap__c | Text(50)        | false    | false    |                 |
+| CAMPAIGN_GROUP       | Text(20)        | false    | false    |                 |
+| HC_Tipo_de_Cliente__c | Text(20)        | false    | false    |                 |
+| DT_ULTIMO_PAGAMENTO  | Date            | false    | false    |                 |
+| Telefone_Principal   | Text(50)        | false    | false    |                 |
+| HC_Telefone_Principal__c | Text(50)        | false    | false    |                 |
+| HC_Celular           | Phone           | false    | false    |                 |
+| HC_Celular_1__c      | Text(50)        | false    | false    |                 |
+| HC_Celular_2__c      | Text(50)        | false    | false    |                 |
+| HC_Celular_3__c      | Text(50)        | false    | false    |                 |
+| Email_Principal      | EmailAddress    | false    | false    |                 |
+| HC_Email_Principal__c | Text(250)       | false    | false    |                 |
+| Endereco_Principal   | Text(300)       | false    | false    |                 |
+| HC_Endereco_Principal__c | Text(50)        | false    | false    |                 |
+| ENTRY_DATE           | Date            | false    | false    | GetDate()       |
+| HC_Cliente__c        | Text(50)        | false    | false    |                 |
+| HC_Valor_Liquido__c  | Decimal(18,3)   | false    | false    |                 |
+| RCP_ID               | Text(18)        | false    | false    |                 |
+| HC_Titulo__c         | Text(18)        | false    | false    |                 |
+| HC_Data_do_pagamento__c | Date            | false    | false    |                 |
+| IdCampaign           | Text(18)        | false    | false    |                 |
+| IdContato            | Text(18)        | false    | false    |                 |
+| Data_Proxima_Execucao | Date            | false    | false    |                 |

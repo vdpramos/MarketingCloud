@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7392ca04-8ed1-4f7f-8f3a-017866cce077",
+  "name": "QR_Base_Prospect_Online_N_Importune_AeC_03",
+  "key": "7392CA04-8ED1-4F7F-8F3A-017866CCE077",
+  "description": "",
+  "queryText": "SELECT B.CPF,\n      CASE WHEN B.VALIDA_NAO_IMPORTUNE = 1 AND N3.TELEFONE IS NOT NULL OR Nao_Importune = 1 THEN 1 ELSE 0 END AS Nao_Importune\nFROM \tTb_Base_Prospect_ComOTC_Online_Tratada_AeC B \nINNER JOIN TB_BASE_NAO_IMPORTUNE N3 ON ISNULL(CONCAT(DDD_03, TEL_03), '00000000000') = LTRIM(RTRIM(N3.TELEFONE))\n",
+  "targetName": "Tb_Base_Prospect_ComOTC_Online_Tratada_AeC",
+  "targetKey": "958906A7-058B-40DB-9180-C1DE85CD36D5",
+  "targetId": "56fa6bdd-0b15-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-26T10:55:23.543",
+  "modifiedDate": "2023-06-27T11:28:59.797",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 1930,
+  "isFrozen": false
+}

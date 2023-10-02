@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "59191ab9-36b5-4fff-837a-288fc934a5bf",
+  "name": "QR_Base_Prospect_OTC291_Online_Tratada_AeC",
+  "key": "59191AB9-36B5-4FFF-837A-288FC934A5BF",
+  "description": "",
+  "queryText": "SELECT\n  A.CODIGO_PARCEIRO,\n  A.ID_CLIENTE,\n  A.CODIGO_MCI,\n  A.TIPO_PESSOA,\n  A.CODIGO_CIC,\n  A.DT_NASCIMENTO,\n  A.NOME,\n  A.UF_RESIDENCIAL,\n  B.DDD_01 as DDD1,\n  B.TEL_01 as TELEFONE1,\n  B.DDD_02 as DDD2,\n  B.DDD_02 as TELEFONE2,\n  B.DDD_03 as DDD3,\n  B.DDD_03 as TELEFONE3,\n  A.CODIGO_PLANO,\n  A.ORIGEM_SOLICITACAO,\n  A.FILLER,\n  A.CODIGO_RNA,\n  A.VALOR_RENDIMENTOS,\n  A.TIPO_CARTEIRA,\n  A.NIVEL_RELACIONAMENTO,\n  A.DATA_INFORMACAO,\n  A.FILLER2,\n  RIGHT(REPLICATE ('0' , 15)+A.CPF, 11) AS CPF,\n  Left(B.NOME, CharIndex(' ', B.NOME)) AS PRIMEIRO_NOME,\n  Reverse(Left(Reverse(B.Nome), CharIndex(' ', Reverse(B.Nome)))) AS SOBRENOME,\n  CASE WHEN LEN(B.TEL_01) = 9 THEN '(' + SUBSTRING(B.DDD_01, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_01, 1, 5) + '-' + \n           SUBSTRING(B.TEL_01, 6, 4)\n      ELSE '(' + SUBSTRING(B.DDD_01, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_01, 1, 4) + '-' + \n           SUBSTRING(B.TEL_01, 5, 4) END AS TEL_RESIDENCIAL,\n  CASE WHEN LEN(B.TEL_02) = 9 THEN '(' + SUBSTRING(B.DDD_02, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_02, 1, 5) + '-' + \n           SUBSTRING(B.TEL_02, 6, 4)\n      ELSE '(' + SUBSTRING(B.DDD_02, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_02, 1, 4) + '-' + \n           SUBSTRING(B.TEL_02, 5, 4) END AS TEL_COMERCIAL,\n  CASE WHEN LEN(B.TEL_03) = 9 THEN '(' + SUBSTRING(B.DDD_03, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_03, 1, 5) + '-' + \n           SUBSTRING(B.TEL_03, 6, 4)\n      ELSE '(' + SUBSTRING(B.DDD_03, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_03, 1, 4) + '-' + \n           SUBSTRING(B.TEL_03, 5, 4) END AS CELULAR1,\n  CASE WHEN LEN(B.TEL_04) = 9 THEN '(' + SUBSTRING(B.DDD_04, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_04, 1, 5) + '-' + \n           SUBSTRING(B.TEL_04, 6, 4)\n      ELSE '(' + SUBSTRING(B.DDD_04, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_04, 1, 4) + '-' + \n           SUBSTRING(B.TEL_04, 5, 4) END AS CELULAR2,\n  CASE WHEN LEN(B.TEL_05) = 9 THEN '(' + SUBSTRING(B.DDD_05, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_05, 1, 5) + '-' + \n           SUBSTRING(B.TEL_05, 6, 4)\n      ELSE '(' + SUBSTRING(B.DDD_05, 1, 3) + ') ' + \n           SUBSTRING(B.TEL_05, 1, 4) + '-' + \n           SUBSTRING(B.TEL_05, 5, 4) END AS Telefone5,\n  A.DT_NASCIMENTO_SF,\n  B.QUARENTENA,\n  B.ID_CLIENTE_PARCEIRO,\n  B.SEXO,\n  B.Dia_Prov,\n  CONCAT(RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, B.CPF), 11),'Cliente') AS CPF_TIPO_RELACIONAMENTO,\n  CONCAT(RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, B.CPF), 11),'52') AS CPF_CODIGO_PARCEIRO,\n  B.ID_CAMPANHA,\n  A.ALTA_RENDA, \n  GETDATE() AS DataUltimaExecucao\n  FROM\n    TB_BASE_OTC291_TRATADA A /*TB_BASE_OTC291 A */ \nINNER JOIN Tb_Base_Prospect_ComOTC_Online_Filtrada_AeC B ON B.CPF = A.CPF",
+  "targetName": "Tb_Base_Prospect_OTC291_Online_Tratada_AeC",
+  "targetKey": "D4EE3B0B-02D7-4B8C-8045-8ED4B356A9EA",
+  "targetId": "853b552b-661b-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "Base para guardar os contatos já retornados no OTC291",
+  "createdDate": "2023-06-27T13:42:45.61",
+  "modifiedDate": "2023-08-22T12:26:40.567",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

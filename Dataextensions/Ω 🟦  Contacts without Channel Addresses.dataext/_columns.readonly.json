@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "MID",
+    "FieldType": "Text",
+    "ObjectID": "5605d5e6-dd4d-43ff-a6cf-087cdf6ebd97",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "ContactTypeID",
+    "FieldType": "Number",
+    "ObjectID": "9c77cbbb-9b6d-44dc-b473-b086e8544656",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "ContactID",
+    "FieldType": "Text",
+    "ObjectID": "e3bdfe25-740b-4305-ad92-c4047583907c",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "ContactKey",
+    "FieldType": "Text",
+    "ObjectID": "522f43bf-917c-46d7-bec7-efe87a78ac5a",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

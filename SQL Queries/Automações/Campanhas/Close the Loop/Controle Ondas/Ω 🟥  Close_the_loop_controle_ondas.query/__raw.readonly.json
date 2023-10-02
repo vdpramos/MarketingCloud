@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "f76b87ce-b0ed-4394-9210-45f13569a20e",
+  "name": "Close_the_loop_controle_ondas",
+  "key": "a47f81a0-aaab-4e5c-84c9-bc02678d188e",
+  "description": "",
+  "queryText": "SELECT\n    CASE \n        WHEN COUNT(*) = 0 THEN 1\n        ELSE MAX(Onda) + 1\n    END AS ONDA\nFROM Close_the_loop_controle_ondas",
+  "targetName": "Close_the_loop_controle_ondas",
+  "targetKey": "C6F4CF25-BDB5-4E54-9296-DFEF740F655D",
+  "targetId": "91f65d96-889d-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2023-01-26T08:52:58.25",
+  "modifiedDate": "2023-04-26T10:37:33.913",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 58400,
+  "isFrozen": false
+}

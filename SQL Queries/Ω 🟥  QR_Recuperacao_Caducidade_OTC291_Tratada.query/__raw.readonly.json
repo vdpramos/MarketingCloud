@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ef818206-9a4a-48e8-9e96-c28cd1947192",
+  "name": "QR_Recuperacao_Caducidade_OTC291_Tratada",
+  "key": "EF818206-9A4A-48E8-9E96-C28CD1947192",
+  "description": "",
+  "queryText": "SELECT\n  A.CODIGO_PARCEIRO,\n  A.ID_CLIENTE,\n  A.CODIGO_MCI,\n  A.TIPO_PESSOA,\n  A.CODIGO_CIC,\n  A.DT_NASCIMENTO,\n  A.NOME,\n  A.SEXO,\n  A.UF_RESIDENCIAL,\n  A.DDD1,\n  A.TELEFONE1,\n  A.DDD2,\n  A.TELEFONE2,\n  A.DDD3,\n  A.TELEFONE3,\n  A.CODIGO_PLANO,\n  A.ORIGEM_SOLICITACAO,\n  A.FILLER,\n  A.CODIGO_RNA,\n  A.VALOR_RENDIMENTOS,\n  A.TIPO_CARTEIRA,\n  A.NIVEL_RELACIONAMENTO,\n  A.DATA_INFORMACAO,\n  A.FILLER2,\n  B.CPF_CNPJ AS CPF,\n  LEFT(UPPER(SUBSTRING(B.NOME, 1, CHARINDEX(' ', B.NOME) - 1)), 50) AS PRIMEIRO_NOME,\n  LEFT(UPPER(SUBSTRING(B.NOME, CHARINDEX(' ', B.NOME) + 1, LEN(B.NOME))), 50) AS SOBRENOME,\n  A.DT_NASCIMENTO_SF,\n  CONCAT(B.CPF_CNPJ,'Cliente') AS CPF_TIPO_RELACIONAMENTO,\n  CONCAT(B.CPF_CNPJ,'52') AS CPF_CNPJ_CODIGO_DO_PARCEIRO,\n  B.ID_CLIENTE_PARCEIRO,\n  B.ID_CONTATO,\n  B.ID_CAMPANHA,\n  /* CONCAT(CONVERT(INT, SUBSTRING(RETORNO, 234, 13)),'.',RIGHT(SUBSTRING(RETORNO, 234, 15), 2)) AS FAIXA_RENDA_MENSAL, */\n  A.Alta_Renda\nFROM Tb_Recuperacao_Caducidade_Tratada B\nINNER JOIN TB_BASE_OTC291_TRATADA A ON A.CPF = B.CPF_CNPJ",
+  "targetName": "Tb_Recuperacao_Caducidade_OTC291_Tratada",
+  "targetKey": "EDFBAEA5-9F50-4B52-A290-BE2C30CF88EE",
+  "targetId": "8ccb78d1-4e09-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "Publico retornado no OTC291",
+  "createdDate": "2023-06-12T12:30:20.973",
+  "modifiedDate": "2023-08-24T12:53:57.77",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

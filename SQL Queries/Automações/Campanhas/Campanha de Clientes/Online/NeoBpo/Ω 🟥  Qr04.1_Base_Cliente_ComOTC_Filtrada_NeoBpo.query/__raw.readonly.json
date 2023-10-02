@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ee49b680-6938-42ce-8b67-58479ff4481b",
+  "name": "Qr04.1_Base_Cliente_ComOTC_Filtrada_NeoBpo",
+  "key": "8cbfebfb-67f4-4b4e-be66-9a9be9489f96",
+  "description": "Filtra Contatos para Jornada",
+  "queryText": "SELECT\n  A.*\nFROM (\n  SELECT\n    A.CPF_CNPJ as Id,\n    A.*,\n    ROW_NUMBER() OVER ( PARTITION BY 1 ORDER BY CPF_CNPJ) AS NUM_REGISTRO\n  FROM Publico_Apto_Clientes_NeoBpo A\n) A\n/* Garante seleção de contatos até a quantidade desejado no parametro da campanha OTC */\nLEFT JOIN CONTROLE_AUTOMACOES_CAMPANHAS CONT ON CONT.ID_CAMPANHA = '7016g000002O089AAC'\nWHERE NUM_REGISTRO <= QUANTIDADE_DESEJADA_OTC290",
+  "targetName": "Tb_Base_Cliente_Filtrada_ComOTC_NeoBpo_Filtrada",
+  "targetKey": "955A3BF5-CD61-4AA5-8E07-5447938B1D23",
+  "targetId": "fd4bd33c-9f0a-ec11-a30b-48df370eabe4",
+  "targetDescription": "Contatos filtrados",
+  "createdDate": "2021-08-31T15:11:43.207",
+  "modifiedDate": "2022-03-06T12:55:35.52",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 30539,
+  "isFrozen": false
+}

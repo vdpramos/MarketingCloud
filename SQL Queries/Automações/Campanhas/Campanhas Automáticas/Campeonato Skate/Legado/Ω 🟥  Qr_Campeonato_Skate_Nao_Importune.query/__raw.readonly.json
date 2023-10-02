@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "42f51401-7290-45c6-a050-e8fe93220ba9",
+  "name": "Qr_Campeonato_Skate_Nao_Importune",
+  "key": "13ade86e-4e29-4e7f-818d-3a82cad07538",
+  "description": "Verifica quem não deve contactar",
+  "queryText": "SELECT\n\tA.ID,\n\tCASE\n\t  WHEN N.TELEFONE IS NOT NULL AND CMP.HC_VALIDA_NAO_IMPORTUNE__C = 1 THEN 1\n\t  ELSE 0\n\tEND AS NAO_IMPORTUNE\nFROM TB_CAMPEONATOSKATE A\nLEFT JOIN TB_BASE_NAO_IMPORTUNE N ON ISNULL(CELULAR, '00000000000') = LTRIM(RTRIM(N.TELEFONE))\nINNER JOIN CAMPAIGN_SALESFORCE CMP ON CMP.ID = A.ID_CAMPANHA",
+  "targetName": "Tb_CampeonatoSkate",
+  "targetKey": "E4652B12-EBE1-46B7-930D-5F728E0F6A73",
+  "targetId": "8e499139-2e29-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2022-08-31T07:13:15.86",
+  "modifiedDate": "2022-09-02T20:47:37.037",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 52934,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "0313917f-3d2f-4cd7-aa0d-dba83d3ca22c",
+  "name": "PropostasCorrigir",
+  "key": "d49092ec-d3ae-4c6f-a6e1-aaa1e74e326e",
+  "description": "",
+  "queryText": "select id, c.status \nfrom CorrecaoStatusPropostas c\ninner join hc_proposta__c_salesforce p\n    on ltrim(rtrim(p.Name)) =  ltrim(rtrim(c.id_proposta))\n    and ltrim(rtrim(p.HC_Codigo_do_Produto__c)) =  ltrim(rtrim(c.id_plano))\nwhere c.status <> p.hc_situacao__c",
+  "targetName": "StatusPropostasCorrigir",
+  "targetKey": "51176AEE-F48C-4CD3-8EEE-EDC05E2FB611",
+  "targetId": "ebf71e06-42ac-ec11-a313-48df370ed7f5",
+  "targetDescription": "",
+  "createdDate": "2022-03-25T07:52:00.747",
+  "modifiedDate": "2022-06-08T08:03:00.877",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

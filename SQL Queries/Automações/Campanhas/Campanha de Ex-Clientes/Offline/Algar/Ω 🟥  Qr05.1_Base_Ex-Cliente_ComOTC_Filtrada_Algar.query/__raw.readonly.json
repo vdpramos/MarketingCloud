@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ff623851-077e-4a44-b426-232b6c4c30e8",
+  "name": "Qr05.1_Base_Ex-Cliente_ComOTC_Filtrada_Algar",
+  "key": "a02ae13d-c41a-4035-b361-1da230f72916",
+  "description": "Filtra publico para envio do OTC290",
+  "queryText": "SELECT\r\n  A.*\r\nFROM\r\n  Tb_Base_Ex_Cliente_ComOTC_Algar A\r\nWHERE\r\n    IDADE_VALIDA = 1\r\nAND CONSELHEIRO = 0\r\nAND CLIENTE_PEP = 0\r\nAND DESEJA_CONTATO_TELEFONICO = 0\r\nAND POSSUI_TELEFONE_ATIVO = 1\r\nAND POSSUI_CONTA_CORRENTE = 1\r\nAND QUARENTENA = 0\r\nAND NAO_IMPORTUNE = 0\r\n/*AND ULTIMO_RESGATE = 1\r\nAND SITUACAO_RESGATE = 1*/\r\nAND NOME_VALIDA = 1",
+  "targetName": "Tb_Base_Ex_Cliente_ComOTC_Algar_Filtrada",
+  "targetKey": "75F0EDA9-BE08-4B5D-85B3-3B12819EBAAA",
+  "targetId": "0213948e-b80a-ec11-a30b-48df370eabe4",
+  "targetDescription": "",
+  "createdDate": "2021-08-31T18:09:25.783",
+  "modifiedDate": "2021-08-31T18:09:25.783",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 30784,
+  "isFrozen": false
+}

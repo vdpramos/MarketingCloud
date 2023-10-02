@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "ED002019-5C21-4444-84A2-64E4C792424E"
+  ],
+  "Name": [
+    "Tb_Base_Revenda_Ourocap_ComOTC_NeoBpo_Report"
+  ]
+}

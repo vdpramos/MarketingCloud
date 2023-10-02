@@ -1,0 +1,15 @@
+Dataextension name: PublicoAlvoDuploSimDisparo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(14)        | false    | false    |                 |
+| NOME                 | Text(100)       | false    | false    |                 |
+| TELEFONE             | Phone           | false    | false    |                 |
+| ID_CLIENTE_PARCEIRO  | Text(18)        | false    | false    |                 |
+| ID_CONTATO           | Text(18)        | false    | false    |                 |
+| ID_CLIENTE           | Text(18)        | false    | false    |                 |
+| ID_CAMPANHA          | Text(18)        | false    | false    |                 |
+| DT_ULT_EXECUCAO      | Date            | false    | false    |                 |
+| DATA_PROXIMA_EXECUCAO | Date            | false    | false    |                 |
+| TELEFONE_PADRONIZADO | Text(50)        | false    | false    |                 |
+| ID_DEMANDA           | Text(18)        | false    | false    |                 |

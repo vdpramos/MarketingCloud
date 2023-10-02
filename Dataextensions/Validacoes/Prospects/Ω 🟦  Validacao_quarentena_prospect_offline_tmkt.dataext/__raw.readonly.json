@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "56AE9056-0564-4A77-A58D-15F386370CA3"
+  ],
+  "Name": [
+    "Validacao_quarentena_prospect_offline_tmkt"
+  ]
+}

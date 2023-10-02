@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7f7d55f7-06e4-4708-a233-fd6da12d9e9d",
+  "name": "intencao_compra",
+  "key": "a522d749-1f09-481c-abbe-50a672d837bd",
+  "description": "",
+  "queryText": "SELECT ID FROM HC_Pagamento__c_SALESFORCE",
+  "targetName": "Intencao_compra_Dif",
+  "targetKey": "76C407B1-4477-4A1F-AB4E-38DC7CB0989A",
+  "targetId": "f4607681-ec46-ec11-a313-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-11-16T08:54:33.393",
+  "modifiedDate": "2021-11-16T08:54:33.393",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

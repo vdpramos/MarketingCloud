@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "9C2D3F28-9D13-412F-A7DD-E68EFF9F0F3A"
+  ],
+  "Name": [
+    "Informe_Rendimentos_Teste"
+  ]
+}

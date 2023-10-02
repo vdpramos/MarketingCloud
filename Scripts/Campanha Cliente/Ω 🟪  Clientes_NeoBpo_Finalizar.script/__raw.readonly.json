@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "907d2906-ab69-44dc-bbdf-a1256f50a08e",
+  "name": "Clientes_NeoBpo_Finalizar",
+  "key": "4e348503-8d43-4b5a-a935-aa0d8696ed36",
+  "description": "Limpar DEs de Aptos e Inaptos para nova execução",
+  "script": "<script runat=server>\nPlatform(\"Core\", \"2.0\");\nvar api = new Script.Util.WSProxy();\nvar Id_Campanha = '7016g000002O089AAC'; // Id campanha\n// Colocar no dos DES de aptos e inaptos \nvar dataExtensionsName = ['Tb_Base_Cliente_OTC291_Tratada_NeoBpo', 'Tb_Base_Cliente_Filtrada_ComOTC_NeoBpo_Filtrada']; // DE que enviou o OTC290\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51909') ));\n\n</script>",
+  "categoryId": 38816,
+  "createdDate": "2022-01-24T02:59:14.777",
+  "modifiedDate": "2022-02-25T15:15:43.57"
+}

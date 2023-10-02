@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "981a0c5e-3553-4f1d-a7ee-b28cd1d56396",
+  "name": "Qr03_Base_Cliente_Trata_Quarentena_TMKT_ONLINE",
+  "key": "33160cbb-4963-4fc9-af56-e50784aae233",
+  "description": "",
+  "queryText": "SELECT\n    A.CPF_CNPJ AS ID,\n\tCASE WHEN Q.CPF_CNPJ IS NOT NULL THEN 1 ELSE 0 END AS QUARENTENA\nFROM\n\tTb_Base_Cliente_TMKT_ONLINE A\nLEFT JOIN TB_BASE_QUARENTENA Q ON A.CPF_CNPJ = Q.CPF_CNPJ\nAND Q.DATA_PARTICIPACAO_CAMPANHA > DATEADD(DD, -90, GETDATE())",
+  "targetName": "Tb_Base_Cliente_TMKT_ONLINE",
+  "targetKey": "E2A0AE45-6856-4E17-BC19-E4A22A57431D",
+  "targetId": "3d34a76a-0798-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2023-01-19T08:52:52.7",
+  "modifiedDate": "2023-08-24T08:06:15.87",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 58189,
+  "isFrozen": false
+}

@@ -1,0 +1,8 @@
+Dataextension name: Ajuste_sup
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| cpf                  | Text(255)       | false    | false    |                 |
+| Id_conta             | Text(255)       | false    | false    |                 |
+| Id_contato           | Text(255)       | false    | false    |                 |
+| Id_cliente_parceiro  | Text(255)       | false    | false    |                 |

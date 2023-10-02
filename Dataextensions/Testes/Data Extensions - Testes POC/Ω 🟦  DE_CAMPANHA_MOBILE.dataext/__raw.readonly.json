@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "E261F7FF-2CB0-4D04-8316-43BF6C3CDC0C"
+  ],
+  "Name": [
+    "DE_CAMPANHA_MOBILE"
+  ]
+}

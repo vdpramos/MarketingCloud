@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "4F575E0C-5488-49F1-9ED3-7301B5DBEAFF"
+  ],
+  "Name": [
+    "FalecidosAssociadosIncorretamente"
+  ]
+}

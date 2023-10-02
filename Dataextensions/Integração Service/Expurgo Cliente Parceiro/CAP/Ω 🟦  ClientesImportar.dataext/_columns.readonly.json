@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "CPF_CNPJ_PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "535fce27-bb15-477a-9822-a4ecc767aa36",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "107a9455-d531-4f00-bd42-6d858d0ec2b9",
+    "MaxLength": "10",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "5d759fc9-add9-4f51-8ebf-d395f46455cc",
+    "MaxLength": "30",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

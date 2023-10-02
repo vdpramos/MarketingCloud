@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3a6fb5d9-b8d0-4e03-992f-af3e2f9fc90c",
+  "name": "Validacao_historico_prospects_TMKT",
+  "key": "26bc5255-d645-4a91-9b5c-f40a01edbc02",
+  "description": "",
+  "queryText": "select\na.CPF,\na.Nome,\na.Agencia,\na.Conta,\na.Tipo_Conta,\na.Sexo,\na.CEP,\na.DDD_01,\na.TEL_01,\na.DDD_02,\na.TEL_02,\na.DDD_03,\na.TEL_03,\na.DDD_04,\na.TEL_04,\na.DDD_05,\na.TEL_05,\na.Data_Arquivo,\na.Fornecedor,\na.Data_Nascimento,\nb.Data_Participacao_Campanha\nfrom\nProspect_ComOTC_TMKT_Validacao_Base_2 a\ninner join Tb_Base_Quarentena b on a.CPF = b.CPF_CNPJ",
+  "targetName": "Validacao_base_27-09_quarentena",
+  "targetKey": "37553E4B-D7E4-4B95-86FA-9BB6DC79AA71",
+  "targetId": "6da7db8d-4646-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2022-10-06T05:36:35.587",
+  "modifiedDate": "2022-10-07T08:22:15.303",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 54102,
+  "isFrozen": false
+}

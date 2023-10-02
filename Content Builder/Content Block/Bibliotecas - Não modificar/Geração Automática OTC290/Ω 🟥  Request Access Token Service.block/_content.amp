@@ -1,0 +1,36 @@
+(function requestAccessToken(){
+  var tokenRequestPayload = {
+    "grant_type": "password",
+    "client_id": "3MVG9LBJLApeX_PASzcm0FNrIJTo13XUlNPcmj3du6MQvcYBZKgudHh.ZfrlOM_UsGw3oJpBPPO9YUN5FAWxq",
+    "client_secret": "616AAE074260C055FC83DCF5C18A8EE10DC489AB0D3F363A495754F9BE591436",
+    "username": "integracaomktservice@accenture.com",
+    "password": "accenture@2022"
+  };
+  var urlToken = 'https://brasilcap.my.salesforce.com/services/oauth2/token';
+  var req = new Script.Util.HttpRequest(urlToken);
+  req.emptyContentHandling = 1;
+  req.retries = 2;
+  req.continueOnError = true;
+  req.contentType = "application/x-www-form-urlencoded"
+  req.setHeader("Accept", '*/*');
+  req.setHeader("Accept-Encoding", 'gzip, deflate, br');
+  req.setHeader("Authorization", auth);
+  req.method = "POST";
+
+  var stringifiedPayload = objectToQueryString(tokenRequestPayload);
+  req.postData = stringifiedPayload;
+  var resp = req.send();
+  
+  var response = Platform.Function.ParseJSON('' + resp.content);
+
+  function objectToQueryString(obj) {
+    var str = [];
+    for (var p in obj)
+      if (obj.hasOwnProperty(p)) {
+        str.push(encodeURIComponent(p) + "=" + encodeURIComponent(obj[p]));
+      }
+    return str.join("&");
+  }
+
+  return response.access_token;
+})

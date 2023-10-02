@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "c77f2fd3-1cf2-4d23-ade5-cf5b1a2f24f8",
+  "name": "Publico Mkt Cloud",
+  "key": "24b544a7-7b73-4daa-9ec4-4d18ce4197b6",
+  "description": "",
+  "queryText": "SELECT DISTINCT HC_CPF_CNPJ__c as cpf_cnpj \nFROM HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE\n    WHERE \n                ((HC_CLASSIFICACAO__C ='Cliente' \n                        AND (HC_chaveParceiro__c = '52' or HC_Chave_Parceiro__c = '52'))\n                   \n                    OR (\n                        HC_CLASSIFICACAO__C IN ('Ex-cliente', 'Cliente Potencial')\n                        AND (HC_IDADE__C >= 18 AND HC_IDADE__C <= 70)\n                        AND HC_chaveParceiro__c = '52' or HC_Chave_Parceiro__c = '52'))\n                    \n                       \n                    AND ((HC_EMAIL_BRASILCAP__C is not null \n                                OR HC_EMAIL_COMERCIAL__C is not null \n                                OR HC_EMAIL_PESSOAL__C is not null )\n                    \t\tOR (\n                    \t\t\t(HC_STATUS_CELULAR_1__C = 'Válido' AND HC_CELULAR_1__C is not null)\n                        \t\t\tOR (HC_STATUS_CELULAR_2__C = 'Válido' AND HC_CELULAR_2__C is not null)\n                        \t\t\tOR (HC_STATUS_CELULAR_3__C = 'Válido' AND HC_CELULAR_3__C is not null)\n                        \t\t\tOR (HC_STATUS_CELULAR_3_3__C = 'Válido' AND HC_CELULAR_3_3__C is not null)\n                        \t\t\tOR (HC_STATUS_CELULAR_4__C = 'Válido' AND HC_CELULAR_4__C is not null))\n                    \t\tOR (\n                    \t\t\t(HC_STATUS_TEL_COMERCIAL__C = 'Válido' AND HC_TELEFONE_COMERCIAL__C is not null)\n                        \t\t\tOR (HC_STATUS_TEL_OUTRO__C = 'Válido' AND HC_TELEFONE_OUTRO__C is not null)\n                        \t\t\tOR (HC_STATUS_TEL_RESIDENCIAL__C = 'Válido' AND HC_TELEFONE_RESIDENCIAL__C is not null)\n                    \t\t)\n                    \t)\n                    \n                    \n                   ",
+  "targetName": "CorteContatosMkt",
+  "targetKey": "6119E419-E1B1-4136-B29E-A6FA8A9A19F4",
+  "targetId": "e8179db4-b1a8-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-09T13:43:10.577",
+  "modifiedDate": "2023-02-09T14:53:33.76",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7db30a20-eebb-41cc-969e-14d927b35aa0",
+  "name": "Open_backup_exclusao",
+  "key": "df8ebe8c-3bca-425b-bcc6-ed7ee185bdfa",
+  "description": "",
+  "queryText": "SELECT\n    a.SubscriberKey,\n    b.AccountID,\n    b.OYBAccountID,\n    b.JobID,\n    b.ListID,\n    b.BatchID,\n    b.SubscriberID,\n    b.EventDate,\n    b.Domain,\n    b.IsUnique,\n    b.TriggererSendDefinitionObjectID,\n    b.TriggeredSendCustomerKey\nFROM Exclusao_contatos a\n    INNER JOIN _Open b \n        ON a.SubscriberKey = b.SubscriberKey",
+  "targetName": "Open_backup_exclusao",
+  "targetKey": "AB173F7E-371F-4B83-B5C4-E56F3F9CA5C9",
+  "targetId": "359d3120-0783-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-12-26T09:32:05.337",
+  "modifiedDate": "2023-04-26T10:44:37.477",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 57312,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "9295d739-68e3-4be6-853a-cf04839141a2",
+  "name": "Qr03_Base_Ex-Cliente_ComOTC_Trata_Inatividade_Neobpo",
+  "key": "b8956213-39ec-4b51-9cda-cbfc593e9e1d",
+  "description": "",
+  "queryText": "SELECT\n    A.ID AS ID,\n    CASE WHEN DATEDIFF(MM, MAX(HC_Data_do_ultimo_resgate__c), GETDATE()) BETWEEN 3 AND 48 \n    AND HC_Situacao__c = 'Finalizado - Resgate Pago' THEN 1 ELSE 0 END AS Inatividade\nFROM\n\tTB_BASE_EX_CLIENTE_COMOTC_NEOBPO A\nLEFT JOIN HC_Titulo__c_Salesforce Q ON A.CPF_CNPJ = Q.HC_CPF_CNPJ_Titular__c\nGROUP BY A.ID,\n         HC_Data_do_ultimo_resgate__c,\n         HC_Situacao__c",
+  "targetName": "Tb_Base_Ex_Cliente_ComOTC_NeoBpo",
+  "targetKey": "C4551412-D197-455C-927D-442DE33B36D0",
+  "targetId": "069fcd40-ce81-eb11-a2fd-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2021-03-12T12:30:08.17",
+  "modifiedDate": "2021-04-06T17:47:03.583",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 30771,
+  "isFrozen": false
+}

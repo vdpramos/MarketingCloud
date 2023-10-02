@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "C5F5683F-80D9-40ED-9391-431E69FF2412"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_Telefones_SemOTC_Algar"
+  ]
+}

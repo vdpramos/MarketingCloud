@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4c075ecb-0923-49dc-b02f-b2ae2683ab97",
+  "name": "Qr05_Base_Cliente_Renovacao_Preparo_OTC290_TMKT_ONLINE",
+  "key": "4C075ECB-0923-49DC-B02F-B2AE2683AB97",
+  "description": "",
+  "queryText": "SELECT\n  '001'+\n  REPLICATE (' ' , 9)+\n  REPLICATE ('0' , 9)+\n  '1'+\n  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, CPF_CNPJ), 15)+\n  CONVERT(VARCHAR(10), CONVERT(DATE, DT_NASCIMENTO, 103), 112)+\n  LEFT(CONVERT(VARCHAR(60), NOME) + REPLICATE(' ', 60), 60)+\n  REPLICATE (' ' , 1)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 5)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 73)+\n  REPLICATE (' ' , 70) AS BASE\nFROM\n  Tb_Base_Cliente_Filtrada_Renovacao_TMKT_ONLINE",
+  "targetName": "Tb_Base_Cliente_Renovacao_OTC290_TMKT_ONLINE",
+  "targetKey": "91AC2362-B1BA-4208-9BBD-65CF90C7A1E1",
+  "targetId": "3a6698d4-9142-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2023-08-24T09:21:18.39",
+  "modifiedDate": "2023-08-24T09:21:18.39",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 68066,
+  "isFrozen": false
+}

@@ -1,0 +1,7 @@
+Dataextension name: PropostasComOportunidades
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| id_proposta          | Text(50)        | true     | false    |                 |
+| id_plano             | Text(50)        | false    | false    |                 |
+| id_oportunidade      | Text(50)        | false    | false    |                 |

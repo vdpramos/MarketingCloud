@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "CB2A519F-0737-44AB-8ECD-68B9557B4706"
+  ],
+  "Name": [
+    "SMSSubscriptionLog_backup_exclusao"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8d25fa5a-f3ab-401f-8703-77736bc4ad2e",
+  "name": "Qr03.1_Base_Prospect_Filtrada_Teo",
+  "key": "a6488efd-1e21-4839-875a-0ccf22e0b42f",
+  "description": "Gera base filtrada quando todos os contatos estiverem no OTC291",
+  "queryText": "SELECT\n  A.*,\n  A.CPF_Codigo_Parceiro as CPF_Codigo_Parceiro_Unico,\n  row_number() over(order by a.cpf) as row\nFROM TB_BASE_PROSPECT_OTC291_TRATADA_TEO A\n  /* CHECAGEM SE TOODS OS CONTATOS TIVERAM O OTC TRATADO */\nLEFT OUTER JOIN ( \n  SELECT\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\n  FROM TB_BASE_PROSPECT_COMOTC_FILTRADA_TEO ENV\n  LEFT JOIN TB_BASE_PROSPECT_OTC291_TRATADA_TEO RET ON ENV.CPF = RET.CPF\n  WHERE RET.CPF IS NULL\n) B ON 1 = 1\nWHERE B.CPFS_FALTANDO_NO_OTC = 0 /* SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 */\n  /* VALIDAÇÕES POR CONTATO DO OTC */\n  AND A.CODIGO_RNA = '000'\n  AND A.ALTA_RENDA = 0",
+  "targetName": "Tb_Base_Prospect_OTC291_Filtrada_Teo",
+  "targetKey": "819A77E3-D6BF-40AD-8322-DF472C215D43",
+  "targetId": "add54329-b5ab-ec11-a313-48df370ed7f5",
+  "targetDescription": "",
+  "createdDate": "2021-08-20T20:03:24.34",
+  "modifiedDate": "2022-04-26T03:48:19.05",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29116,
+  "isFrozen": false
+}

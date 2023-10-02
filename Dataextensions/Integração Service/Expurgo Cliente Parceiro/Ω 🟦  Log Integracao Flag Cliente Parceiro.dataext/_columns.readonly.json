@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "IdClienteParceiro",
+    "FieldType": "Text",
+    "ObjectID": "72ad7649-bb78-43d5-aca5-ea33a53e29ad",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Date",
+    "FieldType": "Date",
+    "ObjectID": "746b44eb-a6a6-4b04-ba73-f382ad343576",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Envio",
+    "FieldType": "Text",
+    "ObjectID": "79b2d2af-5f13-4af0-87d4-a4fc4d62e004",
+    "MaxLength": "2000",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Resultado",
+    "FieldType": "Text",
+    "ObjectID": "1f66beb6-50f9-419f-95bd-ec4faa6e9494",
+    "MaxLength": "2000",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

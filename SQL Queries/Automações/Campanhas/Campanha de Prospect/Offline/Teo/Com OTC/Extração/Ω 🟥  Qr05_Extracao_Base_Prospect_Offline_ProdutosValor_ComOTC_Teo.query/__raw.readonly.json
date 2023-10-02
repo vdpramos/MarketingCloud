@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6a45565e-c550-4e5a-8be6-0982c825217d",
+  "name": "Qr05_Extracao_Base_Prospect_Offline_ProdutosValor_ComOTC_Teo",
+  "key": "8d52a38d-89f4-4935-ab3a-db0e5b596329",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n    'TCBB' AS COD_PARCEIRO,\n    A.HC_Codigo_do_Produto_Regra_Comercial__c AS CODIGO,\n    A.HC_PRECO__C AS VALOR,\n\tHC_REGRA_DE_COMERCIALIZACAO__C AS COD_TIPO_PLANO\nFROM HC_PRECO_DO_PRODUTO__C_SALESFORCE A\nINNER JOIN TB_BASE_PROSPECT_COMOTC_TRATADA_TEO B ON A.ID = B.NOME_PRODUTO_VALOR",
+  "targetName": "Tb_Base_Prospect_Offline_ProdutosValor_ComOTC_Teo",
+  "targetKey": "3D5EF004-91FE-43FB-B1E7-73D74C63AABF",
+  "targetId": "e24b389c-8170-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-16T12:56:19.597",
+  "modifiedDate": "2021-05-29T09:25:05.19",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29379,
+  "isFrozen": false
+}

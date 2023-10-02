@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "afad6bf4-40ec-4118-8a25-1187fb20de70",
+  "name": "Associa ID as informações do cliente para importação.",
+  "key": "244c6879-24bd-49e9-af6b-1fec9f547c04",
+  "description": "",
+  "queryText": "select  N.ID, \n        I.cpf as HC_CPF_CNPJ_Cliente__c, \n        i.NOME_COMPLETO as NAME,\n        i.TP_CLIENTE as HC_Tipo_de_Pessoa__c,\n        i.SEXO as HC_Sexo__c,\n        i.PPE as HC_PEP__c, \n        i.DATA_NASCIMENTO as HC_Data_Nascimento__c\nfrom Retorno_InfoClienteUnico I\ninner join ClienteUnicoNomeNaoInformado N \n    on N.CPF_CNPJ = I.CPF",
+  "targetName": "InformacoesFinais_AtualizaClienteUnico",
+  "targetKey": "60EB3FB9-D42E-4A20-A97C-88066361488A",
+  "targetId": "9961c069-eda3-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-03T12:11:12.733",
+  "modifiedDate": "2023-02-03T12:21:13.81",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

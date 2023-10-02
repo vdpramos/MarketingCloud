@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "7C094DA9-5F2E-40EA-A67F-E6365A1046D1"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_OTC290_Algar"
+  ]
+}

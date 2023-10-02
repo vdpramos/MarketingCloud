@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ec739925-1b3b-46bb-aaf9-efb4c6784fe4",
+  "name": "Qr_Separacao_Publico_Apto_OTC290_Nao_Pagas",
+  "key": "3e28a5cc-f0bb-4b81-99d1-79535da97dc4",
+  "description": "Acumula do Publico Inicial os contatos Aptos para serem enviados ao OTC290",
+  "queryText": "SELECT\n b.*\nFROM\n  Tb_Base_Prop_Ourocap_N_Pag b\nWHERE\n  /* IDADE_VALIDA = 1 */\n  /* AND CONSELHEIRO = 0 */\n  /* AND CLIENTE_PEP = 0 */\n  /* AND DESEJA_CONTATO_TELEFONICO = 0 */\n  /* AND POSSUI_CONTA_CORRENTE = 1 */\n  POSSUI_TELEFONE_ATIVO = 1\nAND QUARENTENA = 0\n/* AND INATIVIDADE = 0 */\nAND NAO_IMPORTUNE = 0",
+  "targetName": "Publico_Apto_Nao_Pagas",
+  "targetKey": "403E4FE0-663E-4AED-8CDF-DC6BB2752B8A",
+  "targetId": "4ef22887-a98b-ec11-a317-48df37342c99",
+  "targetDescription": "Acumulo do publico que pode ser enviado para o OTC290",
+  "createdDate": "2022-02-12T16:30:15.05",
+  "modifiedDate": "2022-02-12T16:30:15.05",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 33115,
+  "isFrozen": false
+}

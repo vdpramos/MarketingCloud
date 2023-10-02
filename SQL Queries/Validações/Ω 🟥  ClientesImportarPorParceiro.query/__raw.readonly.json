@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "35289434-dd6c-4bcf-96d3-a2d2e878301f",
+  "name": "ClientesImportarPorParceiro",
+  "key": "f9d7aef3-a03f-4b93-b6b8-ad231c52e291",
+  "description": "",
+  "queryText": "Select Parceiro, Count(*) as Quantidade\nFrom ClientesImportar\nGroup by Parceiro",
+  "targetName": "ClientesImportarPorParceiro",
+  "targetKey": "9F039FFC-E65B-4742-8191-7813CF885CCF",
+  "targetId": "54c521e6-34a1-ec11-a313-48df370ed7f5",
+  "targetDescription": "",
+  "createdDate": "2022-03-11T06:17:58.5",
+  "modifiedDate": "2022-03-11T06:17:58.5",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

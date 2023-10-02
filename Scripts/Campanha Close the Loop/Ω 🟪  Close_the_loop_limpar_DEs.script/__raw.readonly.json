@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "ff2c2328-30ee-43cd-9fb2-9ccff50e1d73",
+  "name": "Close_the_loop_limpar_DEs",
+  "key": "aa8921cf-6c7b-4e2f-9ab9-dd1b0d471f9a",
+  "description": "",
+  "script": "<script runat=server>\n\nvar prox = new Script.Util.WSProxy();\n\nbase_otc_290 = '1178E9E5-910F-487D-81E3-4F04B2735F8F'; // DE que envia OTC290 - Close_the_loop_preparacao_OTC_filtrada\nbase_otc_291 = 'F7A4EDD0-8026-4C5A-8018-E9E2BB43FCC6'; // DE que recebe OTC291 - Close_the_loop_OTC291_tratada\n\nvar action = \"ClearData\";\nvar props_base_otc_290 = {\n        CustomerKey: base_otc_290\n};\n\nvar props_base_otc_291 = {\n        CustomerKey: base_otc_291\n};\n\nvar opts = {};\n\nvar data = prox.performItem(\"DataExtension\", props_base_otc_290, action, opts);\nvar data = prox.performItem(\"DataExtension\", props_base_otc_291, action, opts);\n\n</script>",
+  "categoryId": 56321,
+  "createdDate": "2022-12-01T12:56:40.647",
+  "modifiedDate": "2023-04-27T09:07:28.6"
+}

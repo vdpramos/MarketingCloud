@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8ddba676-ddba-4bcc-8bbd-0e99a79fa547",
+  "name": "TrataRetornoOTC291_CampanhaBaixaRenda",
+  "key": "a45acffe-9325-4c66-9582-2cf55faa44f0",
+  "description": "",
+  "queryText": "SELECT\n  A.CODIGO_PARCEIRO,\n  A.ID_CLIENTE,\n  A.CODIGO_MCI,\n  A.TIPO_PESSOA,\n  A.CODIGO_CIC,\n  A.DT_NASCIMENTO,\n  A.NOME,\n  A.UF_RESIDENCIAL,\n  A.DDD1,\n  A.TELEFONE1,\n  A.DDD2,\n  A.TELEFONE2,\n  A.DDD3,\n  A.TELEFONE3,\n  A.CODIGO_PLANO,\n  A.ORIGEM_SOLICITACAO,\n  A.FILLER,\n  A.CODIGO_RNA,\n  A.VALOR_RENDIMENTOS,\n  A.TIPO_CARTEIRA,\n  A.NIVEL_RELACIONAMENTO,\n  A.DATA_INFORMACAO,\n  A.FILLER2,\n  B.CPF AS CPF,\n  Left(B.NOME_COMPLETO, CharIndex(' ', B.NOME_COMPLETO)) AS PRIMEIRO_NOME,\n  Reverse(Left(Reverse(B.Nome_COMPLETO), CharIndex(' ', Reverse(B.Nome_COMPLETO)))) AS SOBRENOME,\n  DDD_Fone_01 AS TEL_RESIDENCIAL,\n  B.DDD_Fone_02 AS TEL_COMERCIAL,\n  B.DDD_Fone_03 AS CELULAR1,\n  B.DDD_Fone_04,\n  B.DDD_Fone_05,\n  A.DT_NASCIMENTO_SF,\n  B.SEXO,\n  B.PUBLICO,\n  CONCAT(B.CPF, 'Cliente') AS CPF_TIPO_RELACIONAMENTO,\n  CONCAT(B.CPF, '52') AS CPF_CODIGO_PARCEIRO,A.ALTA_RENDA\nFROM\n  TB_BASE_OTC291_TRATADA A /* TB_BASE_OTC291 */\nINNER JOIN PublicoInicialCampBaixaRenda B ON A.CPF = B.CPF",
+  "targetName": "PublicoRetornoOTC291CampBaixaRenda",
+  "targetKey": "D29F7E40-EFFF-4AD6-B525-3FB64F8C001B",
+  "targetId": "77b186ba-95db-ec11-a319-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2022-05-24T14:39:30.16",
+  "modifiedDate": "2023-05-26T14:44:53.877",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

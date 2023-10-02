@@ -1,0 +1,9 @@
+Dataextension name: PI_CONTENTVIEWS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| content_id           | Text(256)       | false    | false    |                 |
+| user_Id              | Text(256)       | true     | true     |                 |
+| session_id           | Text(256)       | false    | false    |                 |
+| Search               | Text(1000)      | false    | false    |                 |
+| Timestamp            | Date            | true     | true     |                 |

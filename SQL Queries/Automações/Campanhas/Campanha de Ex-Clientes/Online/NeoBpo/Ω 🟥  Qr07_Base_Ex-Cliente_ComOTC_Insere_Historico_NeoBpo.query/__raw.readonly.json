@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "006caec9-fc99-4dfc-9746-7f003eb06c79",
+  "name": "Qr07_Base_Ex-Cliente_ComOTC_Insere_Historico_NeoBpo",
+  "key": "f7fc5be7-56b5-4bcd-a5a8-51b7636cc8bb",
+  "description": "",
+  "queryText": "SELECT DISTINCT\r\n  CPF AS CPF,\r\n  ID_CAMPANHA,\r\n  GetDate() AS DATA_CAMPANHA,\r\n  'DISCADOR' AS CANAL\r\nFROM \r\n  TB_BASE_EX_CLIENTE_OTC291_FILTRADA_NEOBPO",
+  "targetName": "Tb_Campanhas_ExCliente_Historico",
+  "targetKey": "E9FD1328-56C0-426C-8316-7FBEB5465B34",
+  "targetId": "cfd40677-296b-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-10-15T18:07:20.133",
+  "modifiedDate": "2021-10-15T18:07:20.133",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 30771,
+  "isFrozen": false
+}

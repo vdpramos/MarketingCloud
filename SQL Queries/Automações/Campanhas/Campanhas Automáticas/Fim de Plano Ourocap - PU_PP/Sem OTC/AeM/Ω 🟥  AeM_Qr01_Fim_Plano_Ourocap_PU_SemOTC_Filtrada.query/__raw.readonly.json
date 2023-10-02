@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "25ec0e90-09e9-4ab0-92f4-9f293027026b",
+  "name": "AeM_Qr01_Fim_Plano_Ourocap_PU_SemOTC_Filtrada",
+  "key": "5d8f44a9-552f-4ef6-b9d2-40c7dd28b113",
+  "description": "",
+  "queryText": "SELECT\n\tB.*\nFROM\n  AeM_Fim_Plano_PU_semOTC_Publico_Inicial B\nWHERE\n(EMAIL_VALIDO = 1 AND NAO_DESEJA_RECEBER_EMAIL = 0) OR\n(CELULAR_VALIDO = 1 AND NAO_DESEJA_RECEBER_SMS = 0)",
+  "targetName": "AeM_Fim_Plano_PU_semOTC_Filtrado",
+  "targetKey": "DF7BF614-53F8-4B0C-894E-66D7FEDF17EA",
+  "targetId": "047f0441-1086-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Publico Alvo das comunicacoes",
+  "createdDate": "2022-12-27T17:39:42.017",
+  "modifiedDate": "2022-12-30T09:16:56.697",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 57349,
+  "isFrozen": false
+}

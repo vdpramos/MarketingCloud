@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e484b30e-95c8-43f7-81f6-06598b285536",
+  "name": "Validacao_prospect_tmkt_online_historico",
+  "key": "a617c9ca-29fe-42b1-adf6-57d3df32aedc",
+  "description": "",
+  "queryText": "select\nCPF_CNPJ,\nCAMPANHA,\nRESULTADO,\nDATA_REGISTRO\nfrom\nTb_Log_Resultados_de_Avaliacao\nwhere\nCAMPANHA = 'Campanha Online PROSPECT - TMKT'\nand\nconvert(varchar, DATA_REGISTRO, 120) > '2022-12-28 11:00:00'\nand\nconvert(varchar, DATA_REGISTRO, 120) < '2022-12-29 00:00:00'",
+  "targetName": "Validacao_Prospect_TMKT_Online_GFT",
+  "targetKey": "733A811B-CCFB-4FFA-9D58-C31187C0452C",
+  "targetId": "215bfeaa-668c-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2023-01-04T13:35:27.1",
+  "modifiedDate": "2023-01-04T14:36:16.31",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 54102,
+  "isFrozen": false
+}

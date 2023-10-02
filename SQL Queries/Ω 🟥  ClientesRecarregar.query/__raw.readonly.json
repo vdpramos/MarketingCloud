@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "61722eb7-1c68-42e5-a934-ca80ad71719d",
+  "name": "ClientesRecarregar",
+  "key": "7bfd732d-2e25-42cb-9034-fa8dea6564a3",
+  "description": "Seleciona os clientes que deveriam estar no salesforce pois estão dentro do corte e precisam ser carregados",
+  "queryText": "select CPF_CNPJ, PARCEIRO\nfrom Cliente \nWHERE CONCAT(CPF_CNPJ, parceiro) \n        not in\n            (select CONCAT(HC_CPF_CNPJ__c, HC_Id_Parceiro_Cap__c) \n             FROM HC_Relacao_Cliente_Parceiro__c_SALESFORCE\n             WHERE HC_Origem__c = 'CAP'\n                   AND HC_Classificacao__c <> 'Cliente Potencial')\n\n",
+  "targetName": "ClientesImportar",
+  "targetKey": "4301CFEE-3631-4476-91D4-4DB0D213E5A5",
+  "targetId": "3fe54e6a-cb94-ec11-a317-48df37342c99",
+  "targetDescription": "Seleciona os clientes que estão na extração do CAP mas não estão no salesforce",
+  "createdDate": "2022-02-23T11:18:36.507",
+  "modifiedDate": "2022-02-23T14:16:17.95",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

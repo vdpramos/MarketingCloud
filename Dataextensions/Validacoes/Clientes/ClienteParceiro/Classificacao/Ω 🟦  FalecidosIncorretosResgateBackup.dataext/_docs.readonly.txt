@@ -1,0 +1,8 @@
+Dataextension name: FalecidosIncorretosResgateBackup
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| HC_CPF_CNPJ__C       | Text(50)        | false    | false    |                 |
+| HC_CPF_CNPJ_PARCEIRO_ORIGEM__C | Text(50)        | false    | false    |                 |
+| HC_CLASSIFICACAO__C  | Text(50)        | false    | false    |                 |
+| ID                   | Text(50)        | false    | false    |                 |

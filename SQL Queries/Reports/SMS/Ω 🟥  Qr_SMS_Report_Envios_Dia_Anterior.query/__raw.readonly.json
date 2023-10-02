@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "89cc7250-a339-4ab7-b73d-5771f288ef7d",
+  "name": "Qr_SMS_Report_Envios_Dia_Anterior",
+  "key": "ddcaf4d5-c312-42a5-9fe8-22c6477e14bf",
+  "description": "Vai gerando e acumulando os envios do dia anterior. Em desenvolvimento",
+  "queryText": "SELECT \n  left(S.SUBSCRIBERKEY, 50) AS SUBSCRIBERKEY,\n  convert(varchar, MobileMessageTrackingID) as MobileMessageTrackingID,\n  S.MOBILE AS TEL_CELULAR,\n  left(JOURNEYNAME, 50) AS CAMPANHA_JORNADA,\n  left(S.NAME, 50) AS SUBJECT,\n  S.CREATEDATETIME AS DT_ENVIO,\n  S.ACTIONDATETIME AS DT_ENTREGA,\n  S.DELIVERED AS ENTREGUE,\n  S.UNDELIVERED AS BOUNCE,\n  IIF(s.OptOut IS NULL,0,1) AS OPTOUT,\n  left(S.JBACTIVITYID, 50) as JBACTIVITYID\nFROM _SMSMESSAGETRACKING S\nLEFT JOIN _JOURNEYACTIVITY JA ON S.JBACTIVITYID=JA.ACTIVITYID\nLEFT JOIN _JOURNEY J ON JA.VERSIONID=J.VERSIONID\nWHERE \n  CREATEDATETIME BETWEEN DATEADD(DD, DATEDIFF(DD, 0, GETDATE()) - 1, 0)\n    AND DATEADD(DD, DATEDIFF(DD, 0, GETDATE()), 0)\nORDER BY S.CREATEDATETIME \nOFFSET 0 ROWS",
+  "targetName": "SMS_INFOS_REPORT_CUMULATIVO",
+  "targetKey": "92F7AEE9-7F18-4100-8AAC-A79F38CB7668",
+  "targetId": "e630be9f-951f-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Report acumulativo com SMS para reducao da query",
+  "createdDate": "2022-08-19T02:20:43.59",
+  "modifiedDate": "2022-08-19T06:39:57.873",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 52301,
+  "isFrozen": false
+}

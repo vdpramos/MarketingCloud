@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4b1e5285-9441-4f94-afc3-6f9508cec166",
+  "name": "Qr05_Base_Boas_Vindas_Postalcap_Filtro",
+  "key": "5313d3f7-ffa5-4779-9667-cca1aae285f4",
+  "description": "",
+  "queryText": "SELECT *\r\nFROM TB_BOAS_VINDAS_POSTALCAP_COMOTC_NEOBPO\r\nWHERE NAO_IMPORTUNE = 0\r\n\tAND NAO_DESEJA_RECEBER_TODOS_MEIOS = 0\r\n\tAND (\r\n\t\tNAO_DESEJA_RECEBER_EMAIL = 0\r\n\t\tOR NAO_DESEJA_RECEBER_SMS = 0\r\n\t)\r\n\tAND (\r\n\t\tEMAIL_VALIDO = 1\r\n\t\tOR CELULAR_VALIDO = 1\r\n\t) AND QUARENTENA = 0",
+  "targetName": "Tb_Boas_Vindas_Postalcap_ComOTC_Filtrada",
+  "targetKey": "BE85406F-797E-4A08-B085-E2F01346312C",
+  "targetId": "a81b9e1c-c8f4-eb11-a30d-48df37342c99",
+  "targetDescription": "DE usada para Jornada",
+  "createdDate": "2021-08-04T17:10:17.503",
+  "modifiedDate": "2021-08-10T17:47:08.757",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 37321,
+  "isFrozen": false
+}

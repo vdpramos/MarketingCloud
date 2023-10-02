@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "C9A950EC-C037-403E-B0C1-B3F9979CB257"
+  ],
+  "Name": [
+    "PublicoEnvioOTC290CampBaixaRenda_2"
+  ]
+}

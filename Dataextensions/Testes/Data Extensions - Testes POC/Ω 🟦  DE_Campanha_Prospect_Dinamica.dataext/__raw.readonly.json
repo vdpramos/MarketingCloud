@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "4F4AF4C5-FB30-42EE-AF86-FB78E7487089"
+  ],
+  "Name": [
+    "DE_Campanha_Prospect_Dinamica"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "E8609B4B-9844-41DA-994D-AE01A82F6078"
+  ],
+  "Name": [
+    "ClienteParceiroSemClienteUnico_Atualizar_bkp_20220202"
+  ]
+}

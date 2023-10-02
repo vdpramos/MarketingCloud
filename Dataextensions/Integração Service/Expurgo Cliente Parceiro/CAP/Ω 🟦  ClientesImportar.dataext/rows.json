@@ -1,0 +1,4790 @@
+[
+  {
+    "_CustomObjectKey": "15687661",
+    "CPF_CNPJ_PARCEIRO": "06245769574JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "06245769574"
+  },
+  {
+    "_CustomObjectKey": "15687662",
+    "CPF_CNPJ_PARCEIRO": "05302968452JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "05302968452"
+  },
+  {
+    "_CustomObjectKey": "15687663",
+    "CPF_CNPJ_PARCEIRO": "26560695000150VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "26560695000150"
+  },
+  {
+    "_CustomObjectKey": "15687664",
+    "CPF_CNPJ_PARCEIRO": "39596269836BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "39596269836"
+  },
+  {
+    "_CustomObjectKey": "15687665",
+    "CPF_CNPJ_PARCEIRO": "70056421630JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "70056421630"
+  },
+  {
+    "_CustomObjectKey": "15687666",
+    "CPF_CNPJ_PARCEIRO": "07344716372LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "07344716372"
+  },
+  {
+    "_CustomObjectKey": "15687667",
+    "CPF_CNPJ_PARCEIRO": "02571708635AGAPE",
+    "PARCEIRO": "AGAPE",
+    "CPF_CNPJ": "02571708635"
+  },
+  {
+    "_CustomObjectKey": "15687668",
+    "CPF_CNPJ_PARCEIRO": "27784642000185JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "27784642000185"
+  },
+  {
+    "_CustomObjectKey": "15687669",
+    "CPF_CNPJ_PARCEIRO": "40656219840BASSO",
+    "PARCEIRO": "BASSO",
+    "CPF_CNPJ": "40656219840"
+  },
+  {
+    "_CustomObjectKey": "15687670",
+    "CPF_CNPJ_PARCEIRO": "15293275000138MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "15293275000138"
+  },
+  {
+    "_CustomObjectKey": "15687671",
+    "CPF_CNPJ_PARCEIRO": "29384874876BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "29384874876"
+  },
+  {
+    "_CustomObjectKey": "15687672",
+    "CPF_CNPJ_PARCEIRO": "13994022000166NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "13994022000166"
+  },
+  {
+    "_CustomObjectKey": "15687673",
+    "CPF_CNPJ_PARCEIRO": "20373878000180DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "20373878000180"
+  },
+  {
+    "_CustomObjectKey": "15687674",
+    "CPF_CNPJ_PARCEIRO": "08953653000105TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08953653000105"
+  },
+  {
+    "_CustomObjectKey": "15687675",
+    "CPF_CNPJ_PARCEIRO": "03900822000117TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03900822000117"
+  },
+  {
+    "_CustomObjectKey": "15687676",
+    "CPF_CNPJ_PARCEIRO": "02783217000140TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "02783217000140"
+  },
+  {
+    "_CustomObjectKey": "15687677",
+    "CPF_CNPJ_PARCEIRO": "09169589000120MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "09169589000120"
+  },
+  {
+    "_CustomObjectKey": "15687678",
+    "CPF_CNPJ_PARCEIRO": "12189325625SESIM",
+    "PARCEIRO": "SESIM",
+    "CPF_CNPJ": "12189325625"
+  },
+  {
+    "_CustomObjectKey": "15687679",
+    "CPF_CNPJ_PARCEIRO": "08780982670JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "08780982670"
+  },
+  {
+    "_CustomObjectKey": "15687680",
+    "CPF_CNPJ_PARCEIRO": "06611735690JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "06611735690"
+  },
+  {
+    "_CustomObjectKey": "15687681",
+    "CPF_CNPJ_PARCEIRO": "01318141680JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "01318141680"
+  },
+  {
+    "_CustomObjectKey": "15687682",
+    "CPF_CNPJ_PARCEIRO": "76540120630JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "76540120630"
+  },
+  {
+    "_CustomObjectKey": "15687683",
+    "CPF_CNPJ_PARCEIRO": "12597407659JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "12597407659"
+  },
+  {
+    "_CustomObjectKey": "15687684",
+    "CPF_CNPJ_PARCEIRO": "88612929504AGAPE",
+    "PARCEIRO": "AGAPE",
+    "CPF_CNPJ": "88612929504"
+  },
+  {
+    "_CustomObjectKey": "15687685",
+    "CPF_CNPJ_PARCEIRO": "03501756402VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "03501756402"
+  },
+  {
+    "_CustomObjectKey": "15687686",
+    "CPF_CNPJ_PARCEIRO": "60050234382VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "60050234382"
+  },
+  {
+    "_CustomObjectKey": "15687687",
+    "CPF_CNPJ_PARCEIRO": "06349821688JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "06349821688"
+  },
+  {
+    "_CustomObjectKey": "15687688",
+    "CPF_CNPJ_PARCEIRO": "32649224878BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "32649224878"
+  },
+  {
+    "_CustomObjectKey": "15687689",
+    "CPF_CNPJ_PARCEIRO": "11352280515BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "11352280515"
+  },
+  {
+    "_CustomObjectKey": "15687690",
+    "CPF_CNPJ_PARCEIRO": "40598963812BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "40598963812"
+  },
+  {
+    "_CustomObjectKey": "15687691",
+    "CPF_CNPJ_PARCEIRO": "10270847618JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "10270847618"
+  },
+  {
+    "_CustomObjectKey": "15687692",
+    "CPF_CNPJ_PARCEIRO": "51281902349VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "51281902349"
+  },
+  {
+    "_CustomObjectKey": "15687693",
+    "CPF_CNPJ_PARCEIRO": "19543530300VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "19543530300"
+  },
+  {
+    "_CustomObjectKey": "15687694",
+    "CPF_CNPJ_PARCEIRO": "01804392600JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "01804392600"
+  },
+  {
+    "_CustomObjectKey": "15687695",
+    "CPF_CNPJ_PARCEIRO": "43106334000157VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "43106334000157"
+  },
+  {
+    "_CustomObjectKey": "15687696",
+    "CPF_CNPJ_PARCEIRO": "78826616604JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "78826616604"
+  },
+  {
+    "_CustomObjectKey": "15687697",
+    "CPF_CNPJ_PARCEIRO": "43438601672JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "43438601672"
+  },
+  {
+    "_CustomObjectKey": "15687698",
+    "CPF_CNPJ_PARCEIRO": "34277811604JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "34277811604"
+  },
+  {
+    "_CustomObjectKey": "15687699",
+    "CPF_CNPJ_PARCEIRO": "99073188687CARME",
+    "PARCEIRO": "CARME",
+    "CPF_CNPJ": "99073188687"
+  },
+  {
+    "_CustomObjectKey": "15687700",
+    "CPF_CNPJ_PARCEIRO": "11088901646ALPER",
+    "PARCEIRO": "ALPER",
+    "CPF_CNPJ": "11088901646"
+  },
+  {
+    "_CustomObjectKey": "15687701",
+    "CPF_CNPJ_PARCEIRO": "29545804882BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "29545804882"
+  },
+  {
+    "_CustomObjectKey": "15687702",
+    "CPF_CNPJ_PARCEIRO": "99183625372VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "99183625372"
+  },
+  {
+    "_CustomObjectKey": "15687703",
+    "CPF_CNPJ_PARCEIRO": "22339377838BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "22339377838"
+  },
+  {
+    "_CustomObjectKey": "15687704",
+    "CPF_CNPJ_PARCEIRO": "32809694842BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "32809694842"
+  },
+  {
+    "_CustomObjectKey": "15687705",
+    "CPF_CNPJ_PARCEIRO": "37098608300VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "37098608300"
+  },
+  {
+    "_CustomObjectKey": "15687706",
+    "CPF_CNPJ_PARCEIRO": "95528407672JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "95528407672"
+  },
+  {
+    "_CustomObjectKey": "15687707",
+    "CPF_CNPJ_PARCEIRO": "01406854301VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "01406854301"
+  },
+  {
+    "_CustomObjectKey": "15687708",
+    "CPF_CNPJ_PARCEIRO": "24986488600TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "24986488600"
+  },
+  {
+    "_CustomObjectKey": "15687709",
+    "CPF_CNPJ_PARCEIRO": "03627812573NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "03627812573"
+  },
+  {
+    "_CustomObjectKey": "15687710",
+    "CPF_CNPJ_PARCEIRO": "69623155700MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "69623155700"
+  },
+  {
+    "_CustomObjectKey": "15687711",
+    "CPF_CNPJ_PARCEIRO": "15798803805MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "15798803805"
+  },
+  {
+    "_CustomObjectKey": "15687712",
+    "CPF_CNPJ_PARCEIRO": "09101246631NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "09101246631"
+  },
+  {
+    "_CustomObjectKey": "15687713",
+    "CPF_CNPJ_PARCEIRO": "21968036857NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "21968036857"
+  },
+  {
+    "_CustomObjectKey": "15687714",
+    "CPF_CNPJ_PARCEIRO": "55423892104MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "55423892104"
+  },
+  {
+    "_CustomObjectKey": "15687715",
+    "CPF_CNPJ_PARCEIRO": "08323023840NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "08323023840"
+  },
+  {
+    "_CustomObjectKey": "15687716",
+    "CPF_CNPJ_PARCEIRO": "00505701618TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "00505701618"
+  },
+  {
+    "_CustomObjectKey": "15687717",
+    "CPF_CNPJ_PARCEIRO": "71932569120MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "71932569120"
+  },
+  {
+    "_CustomObjectKey": "15687718",
+    "CPF_CNPJ_PARCEIRO": "04365740989MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "04365740989"
+  },
+  {
+    "_CustomObjectKey": "15687719",
+    "CPF_CNPJ_PARCEIRO": "97159298691TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "97159298691"
+  },
+  {
+    "_CustomObjectKey": "15687720",
+    "CPF_CNPJ_PARCEIRO": "02393918701PALAV",
+    "PARCEIRO": "PALAV",
+    "CPF_CNPJ": "02393918701"
+  },
+  {
+    "_CustomObjectKey": "15687721",
+    "CPF_CNPJ_PARCEIRO": "29132687818MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "29132687818"
+  },
+  {
+    "_CustomObjectKey": "15687722",
+    "CPF_CNPJ_PARCEIRO": "90122291620TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "90122291620"
+  },
+  {
+    "_CustomObjectKey": "15687723",
+    "CPF_CNPJ_PARCEIRO": "38611547810TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "38611547810"
+  },
+  {
+    "_CustomObjectKey": "15687724",
+    "CPF_CNPJ_PARCEIRO": "12963488653TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "12963488653"
+  },
+  {
+    "_CustomObjectKey": "15687725",
+    "CPF_CNPJ_PARCEIRO": "34441603134MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "34441603134"
+  },
+  {
+    "_CustomObjectKey": "15687726",
+    "CPF_CNPJ_PARCEIRO": "05769134801MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "05769134801"
+  },
+  {
+    "_CustomObjectKey": "15687727",
+    "CPF_CNPJ_PARCEIRO": "24979694691TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "24979694691"
+  },
+  {
+    "_CustomObjectKey": "15687728",
+    "CPF_CNPJ_PARCEIRO": "12492926702TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "12492926702"
+  },
+  {
+    "_CustomObjectKey": "15687729",
+    "CPF_CNPJ_PARCEIRO": "57164584672TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "57164584672"
+  },
+  {
+    "_CustomObjectKey": "15687730",
+    "CPF_CNPJ_PARCEIRO": "28166824809MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "28166824809"
+  },
+  {
+    "_CustomObjectKey": "15687731",
+    "CPF_CNPJ_PARCEIRO": "35922087134MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "35922087134"
+  },
+  {
+    "_CustomObjectKey": "15687732",
+    "CPF_CNPJ_PARCEIRO": "27904342634TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "27904342634"
+  },
+  {
+    "_CustomObjectKey": "15687733",
+    "CPF_CNPJ_PARCEIRO": "15110026890MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "15110026890"
+  },
+  {
+    "_CustomObjectKey": "15687734",
+    "CPF_CNPJ_PARCEIRO": "36550039860NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "36550039860"
+  },
+  {
+    "_CustomObjectKey": "15687735",
+    "CPF_CNPJ_PARCEIRO": "92842631668TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "92842631668"
+  },
+  {
+    "_CustomObjectKey": "15687736",
+    "CPF_CNPJ_PARCEIRO": "04217416431NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "04217416431"
+  },
+  {
+    "_CustomObjectKey": "15687737",
+    "CPF_CNPJ_PARCEIRO": "05406630857TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "05406630857"
+  },
+  {
+    "_CustomObjectKey": "15687738",
+    "CPF_CNPJ_PARCEIRO": "33470305838TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "33470305838"
+  },
+  {
+    "_CustomObjectKey": "15687739",
+    "CPF_CNPJ_PARCEIRO": "28356799600FEDCO",
+    "PARCEIRO": "FEDCO",
+    "CPF_CNPJ": "28356799600"
+  },
+  {
+    "_CustomObjectKey": "15687740",
+    "CPF_CNPJ_PARCEIRO": "14207919000165MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "14207919000165"
+  },
+  {
+    "_CustomObjectKey": "15687741",
+    "CPF_CNPJ_PARCEIRO": "17393547000105MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "17393547000105"
+  },
+  {
+    "_CustomObjectKey": "15687742",
+    "CPF_CNPJ_PARCEIRO": "09218748000210NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "09218748000210"
+  },
+  {
+    "_CustomObjectKey": "15687743",
+    "CPF_CNPJ_PARCEIRO": "09116884000119TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "09116884000119"
+  },
+  {
+    "_CustomObjectKey": "15687744",
+    "CPF_CNPJ_PARCEIRO": "18592102000109NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "18592102000109"
+  },
+  {
+    "_CustomObjectKey": "15687745",
+    "CPF_CNPJ_PARCEIRO": "04757793987TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04757793987"
+  },
+  {
+    "_CustomObjectKey": "15687746",
+    "CPF_CNPJ_PARCEIRO": "38948511807BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "38948511807"
+  },
+  {
+    "_CustomObjectKey": "15687747",
+    "CPF_CNPJ_PARCEIRO": "39196526149BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "39196526149"
+  },
+  {
+    "_CustomObjectKey": "15687748",
+    "CPF_CNPJ_PARCEIRO": "18706059856BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "18706059856"
+  },
+  {
+    "_CustomObjectKey": "15687749",
+    "CPF_CNPJ_PARCEIRO": "63714981187LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "63714981187"
+  },
+  {
+    "_CustomObjectKey": "15687750",
+    "CPF_CNPJ_PARCEIRO": "83034447272VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "83034447272"
+  },
+  {
+    "_CustomObjectKey": "15687751",
+    "CPF_CNPJ_PARCEIRO": "34974090810BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "34974090810"
+  },
+  {
+    "_CustomObjectKey": "15687752",
+    "CPF_CNPJ_PARCEIRO": "10957242662JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "10957242662"
+  },
+  {
+    "_CustomObjectKey": "15687753",
+    "CPF_CNPJ_PARCEIRO": "27963460800BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "27963460800"
+  },
+  {
+    "_CustomObjectKey": "15687754",
+    "CPF_CNPJ_PARCEIRO": "09374501627JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "09374501627"
+  },
+  {
+    "_CustomObjectKey": "15687755",
+    "CPF_CNPJ_PARCEIRO": "49468626091SCHAA",
+    "PARCEIRO": "SCHAA",
+    "CPF_CNPJ": "49468626091"
+  },
+  {
+    "_CustomObjectKey": "15687756",
+    "CPF_CNPJ_PARCEIRO": "08704313666TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08704313666"
+  },
+  {
+    "_CustomObjectKey": "15687757",
+    "CPF_CNPJ_PARCEIRO": "07752674000191TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07752674000191"
+  },
+  {
+    "_CustomObjectKey": "15687758",
+    "CPF_CNPJ_PARCEIRO": "28089591841BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "28089591841"
+  },
+  {
+    "_CustomObjectKey": "15687759",
+    "CPF_CNPJ_PARCEIRO": "18563087000170NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "18563087000170"
+  },
+  {
+    "_CustomObjectKey": "15687760",
+    "CPF_CNPJ_PARCEIRO": "10609985000100MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "10609985000100"
+  },
+  {
+    "_CustomObjectKey": "15687761",
+    "CPF_CNPJ_PARCEIRO": "06042007000152TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "06042007000152"
+  },
+  {
+    "_CustomObjectKey": "15687762",
+    "CPF_CNPJ_PARCEIRO": "05742247000105MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "05742247000105"
+  },
+  {
+    "_CustomObjectKey": "15687763",
+    "CPF_CNPJ_PARCEIRO": "71281638000196TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "71281638000196"
+  },
+  {
+    "_CustomObjectKey": "15687764",
+    "CPF_CNPJ_PARCEIRO": "26899932873MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "26899932873"
+  },
+  {
+    "_CustomObjectKey": "15687765",
+    "CPF_CNPJ_PARCEIRO": "22643452844MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "22643452844"
+  },
+  {
+    "_CustomObjectKey": "15687766",
+    "CPF_CNPJ_PARCEIRO": "58369422187MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "58369422187"
+  },
+  {
+    "_CustomObjectKey": "15687767",
+    "CPF_CNPJ_PARCEIRO": "06732394622TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "06732394622"
+  },
+  {
+    "_CustomObjectKey": "15687768",
+    "CPF_CNPJ_PARCEIRO": "06475554685TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "06475554685"
+  },
+  {
+    "_CustomObjectKey": "15687769",
+    "CPF_CNPJ_PARCEIRO": "30688251803TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "30688251803"
+  },
+  {
+    "_CustomObjectKey": "15687770",
+    "CPF_CNPJ_PARCEIRO": "09059164687TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "09059164687"
+  },
+  {
+    "_CustomObjectKey": "15687771",
+    "CPF_CNPJ_PARCEIRO": "03726514619TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03726514619"
+  },
+  {
+    "_CustomObjectKey": "15687772",
+    "CPF_CNPJ_PARCEIRO": "08290893655TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08290893655"
+  },
+  {
+    "_CustomObjectKey": "15687773",
+    "CPF_CNPJ_PARCEIRO": "69105316120MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "69105316120"
+  },
+  {
+    "_CustomObjectKey": "15687774",
+    "CPF_CNPJ_PARCEIRO": "22903062668TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "22903062668"
+  },
+  {
+    "_CustomObjectKey": "15687775",
+    "CPF_CNPJ_PARCEIRO": "39098422837NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "39098422837"
+  },
+  {
+    "_CustomObjectKey": "15687776",
+    "CPF_CNPJ_PARCEIRO": "99005271868MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "99005271868"
+  },
+  {
+    "_CustomObjectKey": "15687777",
+    "CPF_CNPJ_PARCEIRO": "04236205688VARIA",
+    "PARCEIRO": "VARIA",
+    "CPF_CNPJ": "04236205688"
+  },
+  {
+    "_CustomObjectKey": "15687778",
+    "CPF_CNPJ_PARCEIRO": "25350757687TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "25350757687"
+  },
+  {
+    "_CustomObjectKey": "15687779",
+    "CPF_CNPJ_PARCEIRO": "06912939619TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "06912939619"
+  },
+  {
+    "_CustomObjectKey": "15687780",
+    "CPF_CNPJ_PARCEIRO": "82154708153MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "82154708153"
+  },
+  {
+    "_CustomObjectKey": "15687781",
+    "CPF_CNPJ_PARCEIRO": "02905294680TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "02905294680"
+  },
+  {
+    "_CustomObjectKey": "15687782",
+    "CPF_CNPJ_PARCEIRO": "04265043640TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04265043640"
+  },
+  {
+    "_CustomObjectKey": "15687783",
+    "CPF_CNPJ_PARCEIRO": "68964323149MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "68964323149"
+  },
+  {
+    "_CustomObjectKey": "15687784",
+    "CPF_CNPJ_PARCEIRO": "17157070871NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "17157070871"
+  },
+  {
+    "_CustomObjectKey": "15687785",
+    "CPF_CNPJ_PARCEIRO": "56645546653TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "56645546653"
+  },
+  {
+    "_CustomObjectKey": "15687786",
+    "CPF_CNPJ_PARCEIRO": "01612886698TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "01612886698"
+  },
+  {
+    "_CustomObjectKey": "15687787",
+    "CPF_CNPJ_PARCEIRO": "04565194163VARIA",
+    "PARCEIRO": "VARIA",
+    "CPF_CNPJ": "04565194163"
+  },
+  {
+    "_CustomObjectKey": "15687788",
+    "CPF_CNPJ_PARCEIRO": "33874263487TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "33874263487"
+  },
+  {
+    "_CustomObjectKey": "15687789",
+    "CPF_CNPJ_PARCEIRO": "90297105604TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "90297105604"
+  },
+  {
+    "_CustomObjectKey": "15687790",
+    "CPF_CNPJ_PARCEIRO": "31363424882NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "31363424882"
+  },
+  {
+    "_CustomObjectKey": "15687791",
+    "CPF_CNPJ_PARCEIRO": "96454865800NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "96454865800"
+  },
+  {
+    "_CustomObjectKey": "15687792",
+    "CPF_CNPJ_PARCEIRO": "00499571983MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "00499571983"
+  },
+  {
+    "_CustomObjectKey": "15687793",
+    "CPF_CNPJ_PARCEIRO": "17104141898NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "17104141898"
+  },
+  {
+    "_CustomObjectKey": "15687794",
+    "CPF_CNPJ_PARCEIRO": "13277677672TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "13277677672"
+  },
+  {
+    "_CustomObjectKey": "15687795",
+    "CPF_CNPJ_PARCEIRO": "64951740397VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "64951740397"
+  },
+  {
+    "_CustomObjectKey": "15687796",
+    "CPF_CNPJ_PARCEIRO": "59407883191VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "59407883191"
+  },
+  {
+    "_CustomObjectKey": "15687797",
+    "CPF_CNPJ_PARCEIRO": "01524886696JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "01524886696"
+  },
+  {
+    "_CustomObjectKey": "15687798",
+    "CPF_CNPJ_PARCEIRO": "28027647134JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "28027647134"
+  },
+  {
+    "_CustomObjectKey": "15687799",
+    "CPF_CNPJ_PARCEIRO": "05747934457VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "05747934457"
+  },
+  {
+    "_CustomObjectKey": "15687800",
+    "CPF_CNPJ_PARCEIRO": "98948385372VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "98948385372"
+  },
+  {
+    "_CustomObjectKey": "15687801",
+    "CPF_CNPJ_PARCEIRO": "03446543384VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "03446543384"
+  },
+  {
+    "_CustomObjectKey": "15687802",
+    "CPF_CNPJ_PARCEIRO": "99296144787LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "99296144787"
+  },
+  {
+    "_CustomObjectKey": "15687803",
+    "CPF_CNPJ_PARCEIRO": "08722117000190GANDI",
+    "PARCEIRO": "GANDI",
+    "CPF_CNPJ": "08722117000190"
+  },
+  {
+    "_CustomObjectKey": "15687804",
+    "CPF_CNPJ_PARCEIRO": "39463760881CCENT",
+    "PARCEIRO": "CCENT",
+    "CPF_CNPJ": "39463760881"
+  },
+  {
+    "_CustomObjectKey": "15687805",
+    "CPF_CNPJ_PARCEIRO": "07725767690TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07725767690"
+  },
+  {
+    "_CustomObjectKey": "15687806",
+    "CPF_CNPJ_PARCEIRO": "47123686000171JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "47123686000171"
+  },
+  {
+    "_CustomObjectKey": "15687807",
+    "CPF_CNPJ_PARCEIRO": "03623006076IMOSE",
+    "PARCEIRO": "IMOSE",
+    "CPF_CNPJ": "03623006076"
+  },
+  {
+    "_CustomObjectKey": "15687808",
+    "CPF_CNPJ_PARCEIRO": "13551777829DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "13551777829"
+  },
+  {
+    "_CustomObjectKey": "15687809",
+    "CPF_CNPJ_PARCEIRO": "03668053200DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "03668053200"
+  },
+  {
+    "_CustomObjectKey": "15687810",
+    "CPF_CNPJ_PARCEIRO": "00867344318TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "00867344318"
+  },
+  {
+    "_CustomObjectKey": "15687811",
+    "CPF_CNPJ_PARCEIRO": "25850253653TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "25850253653"
+  },
+  {
+    "_CustomObjectKey": "15687812",
+    "CPF_CNPJ_PARCEIRO": "36996004837TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "36996004837"
+  },
+  {
+    "_CustomObjectKey": "15687813",
+    "CPF_CNPJ_PARCEIRO": "02610851669TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "02610851669"
+  },
+  {
+    "_CustomObjectKey": "15687814",
+    "CPF_CNPJ_PARCEIRO": "18648724899MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "18648724899"
+  },
+  {
+    "_CustomObjectKey": "15687815",
+    "CPF_CNPJ_PARCEIRO": "27851695813NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "27851695813"
+  },
+  {
+    "_CustomObjectKey": "15687816",
+    "CPF_CNPJ_PARCEIRO": "22172636843BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "22172636843"
+  },
+  {
+    "_CustomObjectKey": "15687817",
+    "CPF_CNPJ_PARCEIRO": "08117341611JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "08117341611"
+  },
+  {
+    "_CustomObjectKey": "15687818",
+    "CPF_CNPJ_PARCEIRO": "16615178893BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "16615178893"
+  },
+  {
+    "_CustomObjectKey": "15687819",
+    "CPF_CNPJ_PARCEIRO": "32148375830BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "32148375830"
+  },
+  {
+    "_CustomObjectKey": "15687820",
+    "CPF_CNPJ_PARCEIRO": "07406530757JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "07406530757"
+  },
+  {
+    "_CustomObjectKey": "15687821",
+    "CPF_CNPJ_PARCEIRO": "76358860372VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "76358860372"
+  },
+  {
+    "_CustomObjectKey": "15687822",
+    "CPF_CNPJ_PARCEIRO": "47057009372BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "47057009372"
+  },
+  {
+    "_CustomObjectKey": "15687823",
+    "CPF_CNPJ_PARCEIRO": "92299911200VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "92299911200"
+  },
+  {
+    "_CustomObjectKey": "15687824",
+    "CPF_CNPJ_PARCEIRO": "97580350530BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "97580350530"
+  },
+  {
+    "_CustomObjectKey": "15687825",
+    "CPF_CNPJ_PARCEIRO": "36345841811BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "36345841811"
+  },
+  {
+    "_CustomObjectKey": "15687826",
+    "CPF_CNPJ_PARCEIRO": "00234441690TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "00234441690"
+  },
+  {
+    "_CustomObjectKey": "15687827",
+    "CPF_CNPJ_PARCEIRO": "12331705623TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "12331705623"
+  },
+  {
+    "_CustomObjectKey": "15687828",
+    "CPF_CNPJ_PARCEIRO": "00155370308BRINS",
+    "PARCEIRO": "BRINS",
+    "CPF_CNPJ": "00155370308"
+  },
+  {
+    "_CustomObjectKey": "15687829",
+    "CPF_CNPJ_PARCEIRO": "81103228000109MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "81103228000109"
+  },
+  {
+    "_CustomObjectKey": "15687830",
+    "CPF_CNPJ_PARCEIRO": "03933875000134TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03933875000134"
+  },
+  {
+    "_CustomObjectKey": "15687831",
+    "CPF_CNPJ_PARCEIRO": "15277204000141TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "15277204000141"
+  },
+  {
+    "_CustomObjectKey": "15687832",
+    "CPF_CNPJ_PARCEIRO": "27316728000183NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "27316728000183"
+  },
+  {
+    "_CustomObjectKey": "15687833",
+    "CPF_CNPJ_PARCEIRO": "09171520694JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "09171520694"
+  },
+  {
+    "_CustomObjectKey": "15687834",
+    "CPF_CNPJ_PARCEIRO": "02515738699JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "02515738699"
+  },
+  {
+    "_CustomObjectKey": "15687835",
+    "CPF_CNPJ_PARCEIRO": "29626853000115BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "29626853000115"
+  },
+  {
+    "_CustomObjectKey": "15687836",
+    "CPF_CNPJ_PARCEIRO": "42662712000116AGAPE",
+    "PARCEIRO": "AGAPE",
+    "CPF_CNPJ": "42662712000116"
+  },
+  {
+    "_CustomObjectKey": "15687837",
+    "CPF_CNPJ_PARCEIRO": "22866072000159BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "22866072000159"
+  },
+  {
+    "_CustomObjectKey": "15687838",
+    "CPF_CNPJ_PARCEIRO": "39179825000150MAPMA",
+    "PARCEIRO": "MAPMA",
+    "CPF_CNPJ": "39179825000150"
+  },
+  {
+    "_CustomObjectKey": "15687839",
+    "CPF_CNPJ_PARCEIRO": "27850294882NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "27850294882"
+  },
+  {
+    "_CustomObjectKey": "15687840",
+    "CPF_CNPJ_PARCEIRO": "06635366938MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "06635366938"
+  },
+  {
+    "_CustomObjectKey": "15687841",
+    "CPF_CNPJ_PARCEIRO": "12357178604TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "12357178604"
+  },
+  {
+    "_CustomObjectKey": "15687842",
+    "CPF_CNPJ_PARCEIRO": "49650890068TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "49650890068"
+  },
+  {
+    "_CustomObjectKey": "15687843",
+    "CPF_CNPJ_PARCEIRO": "01318818680TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "01318818680"
+  },
+  {
+    "_CustomObjectKey": "15687844",
+    "CPF_CNPJ_PARCEIRO": "03262073000140MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "03262073000140"
+  },
+  {
+    "_CustomObjectKey": "15687845",
+    "CPF_CNPJ_PARCEIRO": "93700037000103SIGMA",
+    "PARCEIRO": "SIGMA",
+    "CPF_CNPJ": "93700037000103"
+  },
+  {
+    "_CustomObjectKey": "15687846",
+    "CPF_CNPJ_PARCEIRO": "13370409000141TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "13370409000141"
+  },
+  {
+    "_CustomObjectKey": "15687847",
+    "CPF_CNPJ_PARCEIRO": "23344853813MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "23344853813"
+  },
+  {
+    "_CustomObjectKey": "15687848",
+    "CPF_CNPJ_PARCEIRO": "03509375670TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03509375670"
+  },
+  {
+    "_CustomObjectKey": "15687849",
+    "CPF_CNPJ_PARCEIRO": "02055756176MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "02055756176"
+  },
+  {
+    "_CustomObjectKey": "15687850",
+    "CPF_CNPJ_PARCEIRO": "01060448696TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "01060448696"
+  },
+  {
+    "_CustomObjectKey": "15687851",
+    "CPF_CNPJ_PARCEIRO": "89954386653TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "89954386653"
+  },
+  {
+    "_CustomObjectKey": "15687852",
+    "CPF_CNPJ_PARCEIRO": "23475285304TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "23475285304"
+  },
+  {
+    "_CustomObjectKey": "15687853",
+    "CPF_CNPJ_PARCEIRO": "03527477306TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03527477306"
+  },
+  {
+    "_CustomObjectKey": "15687854",
+    "CPF_CNPJ_PARCEIRO": "75878062615TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "75878062615"
+  },
+  {
+    "_CustomObjectKey": "15687855",
+    "CPF_CNPJ_PARCEIRO": "62416618687TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "62416618687"
+  },
+  {
+    "_CustomObjectKey": "15687856",
+    "CPF_CNPJ_PARCEIRO": "32710464845SIGMA",
+    "PARCEIRO": "SIGMA",
+    "CPF_CNPJ": "32710464845"
+  },
+  {
+    "_CustomObjectKey": "15687857",
+    "CPF_CNPJ_PARCEIRO": "21147949387TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "21147949387"
+  },
+  {
+    "_CustomObjectKey": "15687858",
+    "CPF_CNPJ_PARCEIRO": "63406136168MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "63406136168"
+  },
+  {
+    "_CustomObjectKey": "15687859",
+    "CPF_CNPJ_PARCEIRO": "00874103975MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "00874103975"
+  },
+  {
+    "_CustomObjectKey": "15687860",
+    "CPF_CNPJ_PARCEIRO": "06856738471NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "06856738471"
+  },
+  {
+    "_CustomObjectKey": "15687861",
+    "CPF_CNPJ_PARCEIRO": "23270307810DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "23270307810"
+  },
+  {
+    "_CustomObjectKey": "15687862",
+    "CPF_CNPJ_PARCEIRO": "97039853604TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "97039853604"
+  },
+  {
+    "_CustomObjectKey": "15687863",
+    "CPF_CNPJ_PARCEIRO": "09601120653TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "09601120653"
+  },
+  {
+    "_CustomObjectKey": "15687864",
+    "CPF_CNPJ_PARCEIRO": "03224515660TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03224515660"
+  },
+  {
+    "_CustomObjectKey": "15687865",
+    "CPF_CNPJ_PARCEIRO": "98017462115MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "98017462115"
+  },
+  {
+    "_CustomObjectKey": "15687866",
+    "CPF_CNPJ_PARCEIRO": "22141172888NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "22141172888"
+  },
+  {
+    "_CustomObjectKey": "15687867",
+    "CPF_CNPJ_PARCEIRO": "79181074620TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "79181074620"
+  },
+  {
+    "_CustomObjectKey": "15687868",
+    "CPF_CNPJ_PARCEIRO": "78704820649TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "78704820649"
+  },
+  {
+    "_CustomObjectKey": "15687869",
+    "CPF_CNPJ_PARCEIRO": "83545921115VARIA",
+    "PARCEIRO": "VARIA",
+    "CPF_CNPJ": "83545921115"
+  },
+  {
+    "_CustomObjectKey": "15687870",
+    "CPF_CNPJ_PARCEIRO": "00153879092MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "00153879092"
+  },
+  {
+    "_CustomObjectKey": "15687871",
+    "CPF_CNPJ_PARCEIRO": "13729489615TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "13729489615"
+  },
+  {
+    "_CustomObjectKey": "15687872",
+    "CPF_CNPJ_PARCEIRO": "89174828134MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "89174828134"
+  },
+  {
+    "_CustomObjectKey": "15687873",
+    "CPF_CNPJ_PARCEIRO": "35674728879NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "35674728879"
+  },
+  {
+    "_CustomObjectKey": "15687874",
+    "CPF_CNPJ_PARCEIRO": "07611445600TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07611445600"
+  },
+  {
+    "_CustomObjectKey": "15687875",
+    "CPF_CNPJ_PARCEIRO": "45908990515NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "45908990515"
+  },
+  {
+    "_CustomObjectKey": "15687876",
+    "CPF_CNPJ_PARCEIRO": "26524801890NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "26524801890"
+  },
+  {
+    "_CustomObjectKey": "15687877",
+    "CPF_CNPJ_PARCEIRO": "42591945187MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "42591945187"
+  },
+  {
+    "_CustomObjectKey": "15687878",
+    "CPF_CNPJ_PARCEIRO": "01131243765MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "01131243765"
+  },
+  {
+    "_CustomObjectKey": "15687879",
+    "CPF_CNPJ_PARCEIRO": "26818767885DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "26818767885"
+  },
+  {
+    "_CustomObjectKey": "15687880",
+    "CPF_CNPJ_PARCEIRO": "08414843689TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08414843689"
+  },
+  {
+    "_CustomObjectKey": "15687881",
+    "CPF_CNPJ_PARCEIRO": "72294990897NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "72294990897"
+  },
+  {
+    "_CustomObjectKey": "15687882",
+    "CPF_CNPJ_PARCEIRO": "29832801877MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "29832801877"
+  },
+  {
+    "_CustomObjectKey": "15687883",
+    "CPF_CNPJ_PARCEIRO": "03158463644TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03158463644"
+  },
+  {
+    "_CustomObjectKey": "15687884",
+    "CPF_CNPJ_PARCEIRO": "03527462112MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "03527462112"
+  },
+  {
+    "_CustomObjectKey": "15687885",
+    "CPF_CNPJ_PARCEIRO": "65194632991DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "65194632991"
+  },
+  {
+    "_CustomObjectKey": "15687886",
+    "CPF_CNPJ_PARCEIRO": "07418003650TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07418003650"
+  },
+  {
+    "_CustomObjectKey": "15687887",
+    "CPF_CNPJ_PARCEIRO": "22266627821NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "22266627821"
+  },
+  {
+    "_CustomObjectKey": "15687888",
+    "CPF_CNPJ_PARCEIRO": "94623732053TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "94623732053"
+  },
+  {
+    "_CustomObjectKey": "15687889",
+    "CPF_CNPJ_PARCEIRO": "07981831792JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "07981831792"
+  },
+  {
+    "_CustomObjectKey": "15687890",
+    "CPF_CNPJ_PARCEIRO": "38055547882BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "38055547882"
+  },
+  {
+    "_CustomObjectKey": "15687891",
+    "CPF_CNPJ_PARCEIRO": "21703844807BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "21703844807"
+  },
+  {
+    "_CustomObjectKey": "15687892",
+    "CPF_CNPJ_PARCEIRO": "09901089611TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "09901089611"
+  },
+  {
+    "_CustomObjectKey": "15687893",
+    "CPF_CNPJ_PARCEIRO": "35195245894BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "35195245894"
+  },
+  {
+    "_CustomObjectKey": "15687894",
+    "CPF_CNPJ_PARCEIRO": "08354417921MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "08354417921"
+  },
+  {
+    "_CustomObjectKey": "15687895",
+    "CPF_CNPJ_PARCEIRO": "08185104476DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "08185104476"
+  },
+  {
+    "_CustomObjectKey": "15687896",
+    "CPF_CNPJ_PARCEIRO": "05963894697TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "05963894697"
+  },
+  {
+    "_CustomObjectKey": "15687897",
+    "CPF_CNPJ_PARCEIRO": "05460248663TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "05460248663"
+  },
+  {
+    "_CustomObjectKey": "15687898",
+    "CPF_CNPJ_PARCEIRO": "48610100120MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "48610100120"
+  },
+  {
+    "_CustomObjectKey": "15687899",
+    "CPF_CNPJ_PARCEIRO": "00865459223MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "00865459223"
+  },
+  {
+    "_CustomObjectKey": "15687900",
+    "CPF_CNPJ_PARCEIRO": "60671157272DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "60671157272"
+  },
+  {
+    "_CustomObjectKey": "15687901",
+    "CPF_CNPJ_PARCEIRO": "76049175853DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "76049175853"
+  },
+  {
+    "_CustomObjectKey": "15687902",
+    "CPF_CNPJ_PARCEIRO": "07543644703TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07543644703"
+  },
+  {
+    "_CustomObjectKey": "15687903",
+    "CPF_CNPJ_PARCEIRO": "28536339691TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "28536339691"
+  },
+  {
+    "_CustomObjectKey": "15687904",
+    "CPF_CNPJ_PARCEIRO": "73345407191MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "73345407191"
+  },
+  {
+    "_CustomObjectKey": "15687905",
+    "CPF_CNPJ_PARCEIRO": "08724619639TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08724619639"
+  },
+  {
+    "_CustomObjectKey": "15687906",
+    "CPF_CNPJ_PARCEIRO": "87500701691TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "87500701691"
+  },
+  {
+    "_CustomObjectKey": "15687907",
+    "CPF_CNPJ_PARCEIRO": "11402291680TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "11402291680"
+  },
+  {
+    "_CustomObjectKey": "15687908",
+    "CPF_CNPJ_PARCEIRO": "41030869120MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "41030869120"
+  },
+  {
+    "_CustomObjectKey": "15687909",
+    "CPF_CNPJ_PARCEIRO": "21727618858NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "21727618858"
+  },
+  {
+    "_CustomObjectKey": "15687910",
+    "CPF_CNPJ_PARCEIRO": "07280248616TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07280248616"
+  },
+  {
+    "_CustomObjectKey": "15687911",
+    "CPF_CNPJ_PARCEIRO": "18353100000167JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "18353100000167"
+  },
+  {
+    "_CustomObjectKey": "15687912",
+    "CPF_CNPJ_PARCEIRO": "08307572000120TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08307572000120"
+  },
+  {
+    "_CustomObjectKey": "15687913",
+    "CPF_CNPJ_PARCEIRO": "01683516000140TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "01683516000140"
+  },
+  {
+    "_CustomObjectKey": "15687914",
+    "CPF_CNPJ_PARCEIRO": "15279828000106TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "15279828000106"
+  },
+  {
+    "_CustomObjectKey": "15687915",
+    "CPF_CNPJ_PARCEIRO": "07530760637BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "07530760637"
+  },
+  {
+    "_CustomObjectKey": "15687916",
+    "CPF_CNPJ_PARCEIRO": "35689274895BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "35689274895"
+  },
+  {
+    "_CustomObjectKey": "15687917",
+    "CPF_CNPJ_PARCEIRO": "00298508354VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "00298508354"
+  },
+  {
+    "_CustomObjectKey": "15687918",
+    "CPF_CNPJ_PARCEIRO": "48418090820BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "48418090820"
+  },
+  {
+    "_CustomObjectKey": "15687919",
+    "CPF_CNPJ_PARCEIRO": "49606824420VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "49606824420"
+  },
+  {
+    "_CustomObjectKey": "15687920",
+    "CPF_CNPJ_PARCEIRO": "09690560441VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "09690560441"
+  },
+  {
+    "_CustomObjectKey": "15687921",
+    "CPF_CNPJ_PARCEIRO": "05449264712LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "05449264712"
+  },
+  {
+    "_CustomObjectKey": "15687922",
+    "CPF_CNPJ_PARCEIRO": "07072948783LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "07072948783"
+  },
+  {
+    "_CustomObjectKey": "15687923",
+    "CPF_CNPJ_PARCEIRO": "11822097000134TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "11822097000134"
+  },
+  {
+    "_CustomObjectKey": "15687924",
+    "CPF_CNPJ_PARCEIRO": "87065576604BRINS",
+    "PARCEIRO": "BRINS",
+    "CPF_CNPJ": "87065576604"
+  },
+  {
+    "_CustomObjectKey": "15687925",
+    "CPF_CNPJ_PARCEIRO": "07783871607BASSO",
+    "PARCEIRO": "BASSO",
+    "CPF_CNPJ": "07783871607"
+  },
+  {
+    "_CustomObjectKey": "15687926",
+    "CPF_CNPJ_PARCEIRO": "22500714896BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "22500714896"
+  },
+  {
+    "_CustomObjectKey": "15687927",
+    "CPF_CNPJ_PARCEIRO": "02398847799AGAPE",
+    "PARCEIRO": "AGAPE",
+    "CPF_CNPJ": "02398847799"
+  },
+  {
+    "_CustomObjectKey": "15687928",
+    "CPF_CNPJ_PARCEIRO": "32795281864BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "32795281864"
+  },
+  {
+    "_CustomObjectKey": "15687929",
+    "CPF_CNPJ_PARCEIRO": "03149032679JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "03149032679"
+  },
+  {
+    "_CustomObjectKey": "15687930",
+    "CPF_CNPJ_PARCEIRO": "42252512334VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "42252512334"
+  },
+  {
+    "_CustomObjectKey": "15687931",
+    "CPF_CNPJ_PARCEIRO": "02638005630JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "02638005630"
+  },
+  {
+    "_CustomObjectKey": "15687932",
+    "CPF_CNPJ_PARCEIRO": "75890518372VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "75890518372"
+  },
+  {
+    "_CustomObjectKey": "15687933",
+    "CPF_CNPJ_PARCEIRO": "05575663710BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "05575663710"
+  },
+  {
+    "_CustomObjectKey": "15687934",
+    "CPF_CNPJ_PARCEIRO": "05442352667JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "05442352667"
+  },
+  {
+    "_CustomObjectKey": "15687935",
+    "CPF_CNPJ_PARCEIRO": "00950868701LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "00950868701"
+  },
+  {
+    "_CustomObjectKey": "15687936",
+    "CPF_CNPJ_PARCEIRO": "91413494668JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "91413494668"
+  },
+  {
+    "_CustomObjectKey": "15687937",
+    "CPF_CNPJ_PARCEIRO": "42261575831BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "42261575831"
+  },
+  {
+    "_CustomObjectKey": "15687938",
+    "CPF_CNPJ_PARCEIRO": "12285441000166JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "12285441000166"
+  },
+  {
+    "_CustomObjectKey": "15687939",
+    "CPF_CNPJ_PARCEIRO": "93255497787O2COR",
+    "PARCEIRO": "O2COR",
+    "CPF_CNPJ": "93255497787"
+  },
+  {
+    "_CustomObjectKey": "15687940",
+    "CPF_CNPJ_PARCEIRO": "42275004866BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "42275004866"
+  },
+  {
+    "_CustomObjectKey": "15687941",
+    "CPF_CNPJ_PARCEIRO": "30128102349VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "30128102349"
+  },
+  {
+    "_CustomObjectKey": "15687942",
+    "CPF_CNPJ_PARCEIRO": "09809799780JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "09809799780"
+  },
+  {
+    "_CustomObjectKey": "15687943",
+    "CPF_CNPJ_PARCEIRO": "45764280397VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "45764280397"
+  },
+  {
+    "_CustomObjectKey": "15687944",
+    "CPF_CNPJ_PARCEIRO": "33483749870BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "33483749870"
+  },
+  {
+    "_CustomObjectKey": "15687945",
+    "CPF_CNPJ_PARCEIRO": "11231339640JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "11231339640"
+  },
+  {
+    "_CustomObjectKey": "15687946",
+    "CPF_CNPJ_PARCEIRO": "74670271253BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "74670271253"
+  },
+  {
+    "_CustomObjectKey": "15687947",
+    "CPF_CNPJ_PARCEIRO": "22368291830BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "22368291830"
+  },
+  {
+    "_CustomObjectKey": "15687948",
+    "CPF_CNPJ_PARCEIRO": "10571751709BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "10571751709"
+  },
+  {
+    "_CustomObjectKey": "15687949",
+    "CPF_CNPJ_PARCEIRO": "67863701600JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "67863701600"
+  },
+  {
+    "_CustomObjectKey": "15687950",
+    "CPF_CNPJ_PARCEIRO": "69035342615JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "69035342615"
+  },
+  {
+    "_CustomObjectKey": "15687951",
+    "CPF_CNPJ_PARCEIRO": "05738561333VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "05738561333"
+  },
+  {
+    "_CustomObjectKey": "15687952",
+    "CPF_CNPJ_PARCEIRO": "13973493790PRIMA",
+    "PARCEIRO": "PRIMA",
+    "CPF_CNPJ": "13973493790"
+  },
+  {
+    "_CustomObjectKey": "15687953",
+    "CPF_CNPJ_PARCEIRO": "11169181000109TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "11169181000109"
+  },
+  {
+    "_CustomObjectKey": "15687954",
+    "CPF_CNPJ_PARCEIRO": "17646037000194TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "17646037000194"
+  },
+  {
+    "_CustomObjectKey": "15687955",
+    "CPF_CNPJ_PARCEIRO": "43470988000327TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "43470988000327"
+  },
+  {
+    "_CustomObjectKey": "15687956",
+    "CPF_CNPJ_PARCEIRO": "18968732000135MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "18968732000135"
+  },
+  {
+    "_CustomObjectKey": "15687957",
+    "CPF_CNPJ_PARCEIRO": "80818137134MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "80818137134"
+  },
+  {
+    "_CustomObjectKey": "15687958",
+    "CPF_CNPJ_PARCEIRO": "58949259168MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "58949259168"
+  },
+  {
+    "_CustomObjectKey": "15687959",
+    "CPF_CNPJ_PARCEIRO": "53553330872TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "53553330872"
+  },
+  {
+    "_CustomObjectKey": "15687960",
+    "CPF_CNPJ_PARCEIRO": "04791956680TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04791956680"
+  },
+  {
+    "_CustomObjectKey": "15687961",
+    "CPF_CNPJ_PARCEIRO": "81476850682TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "81476850682"
+  },
+  {
+    "_CustomObjectKey": "15687962",
+    "CPF_CNPJ_PARCEIRO": "51719614687TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "51719614687"
+  },
+  {
+    "_CustomObjectKey": "15687963",
+    "CPF_CNPJ_PARCEIRO": "71622071620TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "71622071620"
+  },
+  {
+    "_CustomObjectKey": "15687964",
+    "CPF_CNPJ_PARCEIRO": "02994390620TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "02994390620"
+  },
+  {
+    "_CustomObjectKey": "15687965",
+    "CPF_CNPJ_PARCEIRO": "20483228249TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "20483228249"
+  },
+  {
+    "_CustomObjectKey": "15687966",
+    "CPF_CNPJ_PARCEIRO": "11736772678TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "11736772678"
+  },
+  {
+    "_CustomObjectKey": "15687967",
+    "CPF_CNPJ_PARCEIRO": "01815395605TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "01815395605"
+  },
+  {
+    "_CustomObjectKey": "15687968",
+    "CPF_CNPJ_PARCEIRO": "49790897120MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "49790897120"
+  },
+  {
+    "_CustomObjectKey": "15687969",
+    "CPF_CNPJ_PARCEIRO": "04433361640TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04433361640"
+  },
+  {
+    "_CustomObjectKey": "15687970",
+    "CPF_CNPJ_PARCEIRO": "68111240678TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "68111240678"
+  },
+  {
+    "_CustomObjectKey": "15687971",
+    "CPF_CNPJ_PARCEIRO": "06101142639TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "06101142639"
+  },
+  {
+    "_CustomObjectKey": "15687972",
+    "CPF_CNPJ_PARCEIRO": "41245588800TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "41245588800"
+  },
+  {
+    "_CustomObjectKey": "15687973",
+    "CPF_CNPJ_PARCEIRO": "38274712811VILAN",
+    "PARCEIRO": "VILAN",
+    "CPF_CNPJ": "38274712811"
+  },
+  {
+    "_CustomObjectKey": "15687974",
+    "CPF_CNPJ_PARCEIRO": "03893350000112JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "03893350000112"
+  },
+  {
+    "_CustomObjectKey": "15687975",
+    "CPF_CNPJ_PARCEIRO": "38459638000168JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "38459638000168"
+  },
+  {
+    "_CustomObjectKey": "15687976",
+    "CPF_CNPJ_PARCEIRO": "48377921000102UAIBR",
+    "PARCEIRO": "UAIBR",
+    "CPF_CNPJ": "48377921000102"
+  },
+  {
+    "_CustomObjectKey": "15687977",
+    "CPF_CNPJ_PARCEIRO": "19341440025TRESD",
+    "PARCEIRO": "TRESD",
+    "CPF_CNPJ": "19341440025"
+  },
+  {
+    "_CustomObjectKey": "15687978",
+    "CPF_CNPJ_PARCEIRO": "14322926762LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "14322926762"
+  },
+  {
+    "_CustomObjectKey": "15687979",
+    "CPF_CNPJ_PARCEIRO": "66453038668JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "66453038668"
+  },
+  {
+    "_CustomObjectKey": "15687980",
+    "CPF_CNPJ_PARCEIRO": "78448255100MAXGO",
+    "PARCEIRO": "MAXGO",
+    "CPF_CNPJ": "78448255100"
+  },
+  {
+    "_CustomObjectKey": "15687981",
+    "CPF_CNPJ_PARCEIRO": "03614320383VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "03614320383"
+  },
+  {
+    "_CustomObjectKey": "15687982",
+    "CPF_CNPJ_PARCEIRO": "07432190747BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "07432190747"
+  },
+  {
+    "_CustomObjectKey": "15687983",
+    "CPF_CNPJ_PARCEIRO": "13528543841BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "13528543841"
+  },
+  {
+    "_CustomObjectKey": "15687984",
+    "CPF_CNPJ_PARCEIRO": "78522501653JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "78522501653"
+  },
+  {
+    "_CustomObjectKey": "15687985",
+    "CPF_CNPJ_PARCEIRO": "08502770608BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "08502770608"
+  },
+  {
+    "_CustomObjectKey": "15687986",
+    "CPF_CNPJ_PARCEIRO": "11501407805BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "11501407805"
+  },
+  {
+    "_CustomObjectKey": "15687987",
+    "CPF_CNPJ_PARCEIRO": "03607849927UAIBR",
+    "PARCEIRO": "UAIBR",
+    "CPF_CNPJ": "03607849927"
+  },
+  {
+    "_CustomObjectKey": "15687988",
+    "CPF_CNPJ_PARCEIRO": "50543971830BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "50543971830"
+  },
+  {
+    "_CustomObjectKey": "15687989",
+    "CPF_CNPJ_PARCEIRO": "01107874041TRESD",
+    "PARCEIRO": "TRESD",
+    "CPF_CNPJ": "01107874041"
+  },
+  {
+    "_CustomObjectKey": "15687990",
+    "CPF_CNPJ_PARCEIRO": "02796235939MDACO",
+    "PARCEIRO": "MDACO",
+    "CPF_CNPJ": "02796235939"
+  },
+  {
+    "_CustomObjectKey": "15687991",
+    "CPF_CNPJ_PARCEIRO": "31278766880BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "31278766880"
+  },
+  {
+    "_CustomObjectKey": "15687992",
+    "CPF_CNPJ_PARCEIRO": "82519218568AGAPE",
+    "PARCEIRO": "AGAPE",
+    "CPF_CNPJ": "82519218568"
+  },
+  {
+    "_CustomObjectKey": "15687993",
+    "CPF_CNPJ_PARCEIRO": "70395847605JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "70395847605"
+  },
+  {
+    "_CustomObjectKey": "15687994",
+    "CPF_CNPJ_PARCEIRO": "66739926387VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "66739926387"
+  },
+  {
+    "_CustomObjectKey": "15687995",
+    "CPF_CNPJ_PARCEIRO": "06123166611JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "06123166611"
+  },
+  {
+    "_CustomObjectKey": "15687996",
+    "CPF_CNPJ_PARCEIRO": "05733951796LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "05733951796"
+  },
+  {
+    "_CustomObjectKey": "15687997",
+    "CPF_CNPJ_PARCEIRO": "05743242674JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "05743242674"
+  },
+  {
+    "_CustomObjectKey": "15687998",
+    "CPF_CNPJ_PARCEIRO": "02161149342VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "02161149342"
+  },
+  {
+    "_CustomObjectKey": "15687999",
+    "CPF_CNPJ_PARCEIRO": "26613645000193BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "26613645000193"
+  },
+  {
+    "_CustomObjectKey": "15688000",
+    "CPF_CNPJ_PARCEIRO": "12555313000195LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "12555313000195"
+  },
+  {
+    "_CustomObjectKey": "15688001",
+    "CPF_CNPJ_PARCEIRO": "08912691694TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08912691694"
+  },
+  {
+    "_CustomObjectKey": "15688002",
+    "CPF_CNPJ_PARCEIRO": "58588167620TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "58588167620"
+  },
+  {
+    "_CustomObjectKey": "15688003",
+    "CPF_CNPJ_PARCEIRO": "68890834820NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "68890834820"
+  },
+  {
+    "_CustomObjectKey": "15688004",
+    "CPF_CNPJ_PARCEIRO": "72414677600TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "72414677600"
+  },
+  {
+    "_CustomObjectKey": "15688005",
+    "CPF_CNPJ_PARCEIRO": "27571815649TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "27571815649"
+  },
+  {
+    "_CustomObjectKey": "15688006",
+    "CPF_CNPJ_PARCEIRO": "14457561000129TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "14457561000129"
+  },
+  {
+    "_CustomObjectKey": "15688007",
+    "CPF_CNPJ_PARCEIRO": "04989611000165TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04989611000165"
+  },
+  {
+    "_CustomObjectKey": "15688008",
+    "CPF_CNPJ_PARCEIRO": "10812612000132TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "10812612000132"
+  },
+  {
+    "_CustomObjectKey": "15688009",
+    "CPF_CNPJ_PARCEIRO": "18155963000120TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "18155963000120"
+  },
+  {
+    "_CustomObjectKey": "15688010",
+    "CPF_CNPJ_PARCEIRO": "17620262000151TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "17620262000151"
+  },
+  {
+    "_CustomObjectKey": "15688011",
+    "CPF_CNPJ_PARCEIRO": "39360595000121VPSCG",
+    "PARCEIRO": "VPSCG",
+    "CPF_CNPJ": "39360595000121"
+  },
+  {
+    "_CustomObjectKey": "15688012",
+    "CPF_CNPJ_PARCEIRO": "06723293606TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "06723293606"
+  },
+  {
+    "_CustomObjectKey": "15688013",
+    "CPF_CNPJ_PARCEIRO": "07403030664DIRET",
+    "PARCEIRO": "DIRET",
+    "CPF_CNPJ": "07403030664"
+  },
+  {
+    "_CustomObjectKey": "15688014",
+    "CPF_CNPJ_PARCEIRO": "00777652650TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "00777652650"
+  },
+  {
+    "_CustomObjectKey": "15688015",
+    "CPF_CNPJ_PARCEIRO": "08932035644TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08932035644"
+  },
+  {
+    "_CustomObjectKey": "15688016",
+    "CPF_CNPJ_PARCEIRO": "90235185604TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "90235185604"
+  },
+  {
+    "_CustomObjectKey": "15688017",
+    "CPF_CNPJ_PARCEIRO": "07960571686TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07960571686"
+  },
+  {
+    "_CustomObjectKey": "15688018",
+    "CPF_CNPJ_PARCEIRO": "62712470672MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "62712470672"
+  },
+  {
+    "_CustomObjectKey": "15688019",
+    "CPF_CNPJ_PARCEIRO": "39860144893NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "39860144893"
+  },
+  {
+    "_CustomObjectKey": "15688020",
+    "CPF_CNPJ_PARCEIRO": "66545676172MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "66545676172"
+  },
+  {
+    "_CustomObjectKey": "15688021",
+    "CPF_CNPJ_PARCEIRO": "11548455750NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "11548455750"
+  },
+  {
+    "_CustomObjectKey": "15688022",
+    "CPF_CNPJ_PARCEIRO": "27628209874NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "27628209874"
+  },
+  {
+    "_CustomObjectKey": "15688023",
+    "CPF_CNPJ_PARCEIRO": "03069064140MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "03069064140"
+  },
+  {
+    "_CustomObjectKey": "15688024",
+    "CPF_CNPJ_PARCEIRO": "06647704876NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "06647704876"
+  },
+  {
+    "_CustomObjectKey": "15688025",
+    "CPF_CNPJ_PARCEIRO": "38862484615TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "38862484615"
+  },
+  {
+    "_CustomObjectKey": "15688026",
+    "CPF_CNPJ_PARCEIRO": "03181373648NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "03181373648"
+  },
+  {
+    "_CustomObjectKey": "15688027",
+    "CPF_CNPJ_PARCEIRO": "24818607649TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "24818607649"
+  },
+  {
+    "_CustomObjectKey": "15688028",
+    "CPF_CNPJ_PARCEIRO": "96445475353NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "96445475353"
+  },
+  {
+    "_CustomObjectKey": "15688029",
+    "CPF_CNPJ_PARCEIRO": "79476724153MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "79476724153"
+  },
+  {
+    "_CustomObjectKey": "15688030",
+    "CPF_CNPJ_PARCEIRO": "29979323604TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "29979323604"
+  },
+  {
+    "_CustomObjectKey": "15688031",
+    "CPF_CNPJ_PARCEIRO": "01739074580TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "01739074580"
+  },
+  {
+    "_CustomObjectKey": "15688032",
+    "CPF_CNPJ_PARCEIRO": "23486208802TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "23486208802"
+  },
+  {
+    "_CustomObjectKey": "15688033",
+    "CPF_CNPJ_PARCEIRO": "21751718840DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "21751718840"
+  },
+  {
+    "_CustomObjectKey": "15688034",
+    "CPF_CNPJ_PARCEIRO": "05204079114MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "05204079114"
+  },
+  {
+    "_CustomObjectKey": "15688035",
+    "CPF_CNPJ_PARCEIRO": "33478896819NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "33478896819"
+  },
+  {
+    "_CustomObjectKey": "15688036",
+    "CPF_CNPJ_PARCEIRO": "06629396626TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "06629396626"
+  },
+  {
+    "_CustomObjectKey": "15688037",
+    "CPF_CNPJ_PARCEIRO": "05651779663DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "05651779663"
+  },
+  {
+    "_CustomObjectKey": "15688038",
+    "CPF_CNPJ_PARCEIRO": "06064235675TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "06064235675"
+  },
+  {
+    "_CustomObjectKey": "15688039",
+    "CPF_CNPJ_PARCEIRO": "03326917643TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03326917643"
+  },
+  {
+    "_CustomObjectKey": "15688040",
+    "CPF_CNPJ_PARCEIRO": "01224373650TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "01224373650"
+  },
+  {
+    "_CustomObjectKey": "15688041",
+    "CPF_CNPJ_PARCEIRO": "08017610696TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08017610696"
+  },
+  {
+    "_CustomObjectKey": "15688042",
+    "CPF_CNPJ_PARCEIRO": "01585577600TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "01585577600"
+  },
+  {
+    "_CustomObjectKey": "15688043",
+    "CPF_CNPJ_PARCEIRO": "07337801645TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07337801645"
+  },
+  {
+    "_CustomObjectKey": "15688044",
+    "CPF_CNPJ_PARCEIRO": "11556664885NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "11556664885"
+  },
+  {
+    "_CustomObjectKey": "15688045",
+    "CPF_CNPJ_PARCEIRO": "00058408649TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "00058408649"
+  },
+  {
+    "_CustomObjectKey": "15688046",
+    "CPF_CNPJ_PARCEIRO": "80927220130MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "80927220130"
+  },
+  {
+    "_CustomObjectKey": "15688047",
+    "CPF_CNPJ_PARCEIRO": "00241589681TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "00241589681"
+  },
+  {
+    "_CustomObjectKey": "15688048",
+    "CPF_CNPJ_PARCEIRO": "09752993605TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "09752993605"
+  },
+  {
+    "_CustomObjectKey": "15688049",
+    "CPF_CNPJ_PARCEIRO": "32902637896NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "32902637896"
+  },
+  {
+    "_CustomObjectKey": "15688050",
+    "CPF_CNPJ_PARCEIRO": "52960161653TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "52960161653"
+  },
+  {
+    "_CustomObjectKey": "15688051",
+    "CPF_CNPJ_PARCEIRO": "03711965903NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "03711965903"
+  },
+  {
+    "_CustomObjectKey": "15688052",
+    "CPF_CNPJ_PARCEIRO": "40817717668TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "40817717668"
+  },
+  {
+    "_CustomObjectKey": "15688053",
+    "CPF_CNPJ_PARCEIRO": "22281860078TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "22281860078"
+  },
+  {
+    "_CustomObjectKey": "15688054",
+    "CPF_CNPJ_PARCEIRO": "02279232863NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "02279232863"
+  },
+  {
+    "_CustomObjectKey": "15688055",
+    "CPF_CNPJ_PARCEIRO": "49410539668TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "49410539668"
+  },
+  {
+    "_CustomObjectKey": "15688056",
+    "CPF_CNPJ_PARCEIRO": "42135389749NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "42135389749"
+  },
+  {
+    "_CustomObjectKey": "15688057",
+    "CPF_CNPJ_PARCEIRO": "09001442625TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "09001442625"
+  },
+  {
+    "_CustomObjectKey": "15688058",
+    "CPF_CNPJ_PARCEIRO": "26031329620TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "26031329620"
+  },
+  {
+    "_CustomObjectKey": "15688059",
+    "CPF_CNPJ_PARCEIRO": "10933203705MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "10933203705"
+  },
+  {
+    "_CustomObjectKey": "15688060",
+    "CPF_CNPJ_PARCEIRO": "13766644882NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "13766644882"
+  },
+  {
+    "_CustomObjectKey": "15688061",
+    "CPF_CNPJ_PARCEIRO": "06335594234MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "06335594234"
+  },
+  {
+    "_CustomObjectKey": "15688062",
+    "CPF_CNPJ_PARCEIRO": "07163475470BARAU",
+    "PARCEIRO": "BARAU",
+    "CPF_CNPJ": "07163475470"
+  },
+  {
+    "_CustomObjectKey": "15688063",
+    "CPF_CNPJ_PARCEIRO": "00700352880DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "00700352880"
+  },
+  {
+    "_CustomObjectKey": "15688064",
+    "CPF_CNPJ_PARCEIRO": "44649242800NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "44649242800"
+  },
+  {
+    "_CustomObjectKey": "15688065",
+    "CPF_CNPJ_PARCEIRO": "10038417677TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "10038417677"
+  },
+  {
+    "_CustomObjectKey": "15688066",
+    "CPF_CNPJ_PARCEIRO": "04024972600TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04024972600"
+  },
+  {
+    "_CustomObjectKey": "15688067",
+    "CPF_CNPJ_PARCEIRO": "05264318654TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "05264318654"
+  },
+  {
+    "_CustomObjectKey": "15688068",
+    "CPF_CNPJ_PARCEIRO": "10255927606TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "10255927606"
+  },
+  {
+    "_CustomObjectKey": "15688069",
+    "CPF_CNPJ_PARCEIRO": "34052808851BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "34052808851"
+  },
+  {
+    "_CustomObjectKey": "15688070",
+    "CPF_CNPJ_PARCEIRO": "77934296134MAXMS",
+    "PARCEIRO": "MAXMS",
+    "CPF_CNPJ": "77934296134"
+  },
+  {
+    "_CustomObjectKey": "15688071",
+    "CPF_CNPJ_PARCEIRO": "15066184000160EKOBE",
+    "PARCEIRO": "EKOBE",
+    "CPF_CNPJ": "15066184000160"
+  },
+  {
+    "_CustomObjectKey": "15688072",
+    "CPF_CNPJ_PARCEIRO": "07289346637NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "07289346637"
+  },
+  {
+    "_CustomObjectKey": "15688073",
+    "CPF_CNPJ_PARCEIRO": "05808684609JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "05808684609"
+  },
+  {
+    "_CustomObjectKey": "15688074",
+    "CPF_CNPJ_PARCEIRO": "09190581679JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "09190581679"
+  },
+  {
+    "_CustomObjectKey": "15688075",
+    "CPF_CNPJ_PARCEIRO": "01425423698JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "01425423698"
+  },
+  {
+    "_CustomObjectKey": "15688076",
+    "CPF_CNPJ_PARCEIRO": "74390961691JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "74390961691"
+  },
+  {
+    "_CustomObjectKey": "15688077",
+    "CPF_CNPJ_PARCEIRO": "01539985636JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "01539985636"
+  },
+  {
+    "_CustomObjectKey": "15688078",
+    "CPF_CNPJ_PARCEIRO": "14554414736JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "14554414736"
+  },
+  {
+    "_CustomObjectKey": "15688079",
+    "CPF_CNPJ_PARCEIRO": "14578710688JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "14578710688"
+  },
+  {
+    "_CustomObjectKey": "15688080",
+    "CPF_CNPJ_PARCEIRO": "05591686834GCARD",
+    "PARCEIRO": "GCARD",
+    "CPF_CNPJ": "05591686834"
+  },
+  {
+    "_CustomObjectKey": "15688081",
+    "CPF_CNPJ_PARCEIRO": "08830805165JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "08830805165"
+  },
+  {
+    "_CustomObjectKey": "15688082",
+    "CPF_CNPJ_PARCEIRO": "40977877809MAREC",
+    "PARCEIRO": "MAREC",
+    "CPF_CNPJ": "40977877809"
+  },
+  {
+    "_CustomObjectKey": "15688083",
+    "CPF_CNPJ_PARCEIRO": "11230221786LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "11230221786"
+  },
+  {
+    "_CustomObjectKey": "15688084",
+    "CPF_CNPJ_PARCEIRO": "15702997000107VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "15702997000107"
+  },
+  {
+    "_CustomObjectKey": "15688085",
+    "CPF_CNPJ_PARCEIRO": "11826476000100VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "11826476000100"
+  },
+  {
+    "_CustomObjectKey": "15688086",
+    "CPF_CNPJ_PARCEIRO": "25493820803BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "25493820803"
+  },
+  {
+    "_CustomObjectKey": "15688087",
+    "CPF_CNPJ_PARCEIRO": "01340944332CMCOR",
+    "PARCEIRO": "CMCOR",
+    "CPF_CNPJ": "01340944332"
+  },
+  {
+    "_CustomObjectKey": "15688088",
+    "CPF_CNPJ_PARCEIRO": "03200358327VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "03200358327"
+  },
+  {
+    "_CustomObjectKey": "15688089",
+    "CPF_CNPJ_PARCEIRO": "07388971750LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "07388971750"
+  },
+  {
+    "_CustomObjectKey": "15688090",
+    "CPF_CNPJ_PARCEIRO": "60601247396AMPLA",
+    "PARCEIRO": "AMPLA",
+    "CPF_CNPJ": "60601247396"
+  },
+  {
+    "_CustomObjectKey": "15688091",
+    "CPF_CNPJ_PARCEIRO": "02307820868BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "02307820868"
+  },
+  {
+    "_CustomObjectKey": "15688092",
+    "CPF_CNPJ_PARCEIRO": "17505529000160TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "17505529000160"
+  },
+  {
+    "_CustomObjectKey": "15688093",
+    "CPF_CNPJ_PARCEIRO": "06662262889MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "06662262889"
+  },
+  {
+    "_CustomObjectKey": "15688094",
+    "CPF_CNPJ_PARCEIRO": "70408437146MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "70408437146"
+  },
+  {
+    "_CustomObjectKey": "15688095",
+    "CPF_CNPJ_PARCEIRO": "04801120458TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04801120458"
+  },
+  {
+    "_CustomObjectKey": "15688096",
+    "CPF_CNPJ_PARCEIRO": "06196835890NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "06196835890"
+  },
+  {
+    "_CustomObjectKey": "15688097",
+    "CPF_CNPJ_PARCEIRO": "29764122604TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "29764122604"
+  },
+  {
+    "_CustomObjectKey": "15688098",
+    "CPF_CNPJ_PARCEIRO": "04341466844NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "04341466844"
+  },
+  {
+    "_CustomObjectKey": "15688099",
+    "CPF_CNPJ_PARCEIRO": "79416624691TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "79416624691"
+  },
+  {
+    "_CustomObjectKey": "15688100",
+    "CPF_CNPJ_PARCEIRO": "44034512687TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "44034512687"
+  },
+  {
+    "_CustomObjectKey": "15688101",
+    "CPF_CNPJ_PARCEIRO": "03474107666TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03474107666"
+  },
+  {
+    "_CustomObjectKey": "15688102",
+    "CPF_CNPJ_PARCEIRO": "84249021149MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "84249021149"
+  },
+  {
+    "_CustomObjectKey": "15688103",
+    "CPF_CNPJ_PARCEIRO": "04126168400NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "04126168400"
+  },
+  {
+    "_CustomObjectKey": "15688104",
+    "CPF_CNPJ_PARCEIRO": "71596208872NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "71596208872"
+  },
+  {
+    "_CustomObjectKey": "15688105",
+    "CPF_CNPJ_PARCEIRO": "04102425608TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04102425608"
+  },
+  {
+    "_CustomObjectKey": "15688106",
+    "CPF_CNPJ_PARCEIRO": "09570078685TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "09570078685"
+  },
+  {
+    "_CustomObjectKey": "15688107",
+    "CPF_CNPJ_PARCEIRO": "05637324824TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "05637324824"
+  },
+  {
+    "_CustomObjectKey": "15688108",
+    "CPF_CNPJ_PARCEIRO": "36098949700MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "36098949700"
+  },
+  {
+    "_CustomObjectKey": "15688109",
+    "CPF_CNPJ_PARCEIRO": "40581450809DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "40581450809"
+  },
+  {
+    "_CustomObjectKey": "15688110",
+    "CPF_CNPJ_PARCEIRO": "58276459668TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "58276459668"
+  },
+  {
+    "_CustomObjectKey": "15688111",
+    "CPF_CNPJ_PARCEIRO": "43681484600TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "43681484600"
+  },
+  {
+    "_CustomObjectKey": "15688112",
+    "CPF_CNPJ_PARCEIRO": "89869893104MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "89869893104"
+  },
+  {
+    "_CustomObjectKey": "15688113",
+    "CPF_CNPJ_PARCEIRO": "24993299800NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "24993299800"
+  },
+  {
+    "_CustomObjectKey": "15688114",
+    "CPF_CNPJ_PARCEIRO": "13444483805TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "13444483805"
+  },
+  {
+    "_CustomObjectKey": "15688115",
+    "CPF_CNPJ_PARCEIRO": "10709673787TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "10709673787"
+  },
+  {
+    "_CustomObjectKey": "15688116",
+    "CPF_CNPJ_PARCEIRO": "82166919120MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "82166919120"
+  },
+  {
+    "_CustomObjectKey": "15688117",
+    "CPF_CNPJ_PARCEIRO": "31778502830MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "31778502830"
+  },
+  {
+    "_CustomObjectKey": "15688118",
+    "CPF_CNPJ_PARCEIRO": "22192753888NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "22192753888"
+  },
+  {
+    "_CustomObjectKey": "15688119",
+    "CPF_CNPJ_PARCEIRO": "02028382694TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "02028382694"
+  },
+  {
+    "_CustomObjectKey": "15688120",
+    "CPF_CNPJ_PARCEIRO": "09238135606TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "09238135606"
+  },
+  {
+    "_CustomObjectKey": "15688121",
+    "CPF_CNPJ_PARCEIRO": "04228723691TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04228723691"
+  },
+  {
+    "_CustomObjectKey": "15688122",
+    "CPF_CNPJ_PARCEIRO": "28637577920DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "28637577920"
+  },
+  {
+    "_CustomObjectKey": "15688123",
+    "CPF_CNPJ_PARCEIRO": "82593388153MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "82593388153"
+  },
+  {
+    "_CustomObjectKey": "15688124",
+    "CPF_CNPJ_PARCEIRO": "40380912600TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "40380912600"
+  },
+  {
+    "_CustomObjectKey": "15688125",
+    "CPF_CNPJ_PARCEIRO": "03344407694TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03344407694"
+  },
+  {
+    "_CustomObjectKey": "15688126",
+    "CPF_CNPJ_PARCEIRO": "08823679605TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08823679605"
+  },
+  {
+    "_CustomObjectKey": "15688127",
+    "CPF_CNPJ_PARCEIRO": "19681801172MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "19681801172"
+  },
+  {
+    "_CustomObjectKey": "15688128",
+    "CPF_CNPJ_PARCEIRO": "48959073687TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "48959073687"
+  },
+  {
+    "_CustomObjectKey": "15688129",
+    "CPF_CNPJ_PARCEIRO": "00212907840NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "00212907840"
+  },
+  {
+    "_CustomObjectKey": "15688130",
+    "CPF_CNPJ_PARCEIRO": "97836044653TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "97836044653"
+  },
+  {
+    "_CustomObjectKey": "15688131",
+    "CPF_CNPJ_PARCEIRO": "32308784857NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "32308784857"
+  },
+  {
+    "_CustomObjectKey": "15688132",
+    "CPF_CNPJ_PARCEIRO": "04200500604TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04200500604"
+  },
+  {
+    "_CustomObjectKey": "15688133",
+    "CPF_CNPJ_PARCEIRO": "67765521853TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "67765521853"
+  },
+  {
+    "_CustomObjectKey": "15688134",
+    "CPF_CNPJ_PARCEIRO": "04362286616TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04362286616"
+  },
+  {
+    "_CustomObjectKey": "15688135",
+    "CPF_CNPJ_PARCEIRO": "66485584668TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "66485584668"
+  },
+  {
+    "_CustomObjectKey": "15688136",
+    "CPF_CNPJ_PARCEIRO": "07850412656TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07850412656"
+  },
+  {
+    "_CustomObjectKey": "15688137",
+    "CPF_CNPJ_PARCEIRO": "99125064568MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "99125064568"
+  },
+  {
+    "_CustomObjectKey": "15688138",
+    "CPF_CNPJ_PARCEIRO": "36670142870NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "36670142870"
+  },
+  {
+    "_CustomObjectKey": "15688139",
+    "CPF_CNPJ_PARCEIRO": "93595166604TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "93595166604"
+  },
+  {
+    "_CustomObjectKey": "15688140",
+    "CPF_CNPJ_PARCEIRO": "84914955687MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "84914955687"
+  },
+  {
+    "_CustomObjectKey": "15688141",
+    "CPF_CNPJ_PARCEIRO": "03287990683MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "03287990683"
+  },
+  {
+    "_CustomObjectKey": "15688142",
+    "CPF_CNPJ_PARCEIRO": "48608718634TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "48608718634"
+  },
+  {
+    "_CustomObjectKey": "15688143",
+    "CPF_CNPJ_PARCEIRO": "18051594886NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "18051594886"
+  },
+  {
+    "_CustomObjectKey": "15688144",
+    "CPF_CNPJ_PARCEIRO": "31501114808MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "31501114808"
+  },
+  {
+    "_CustomObjectKey": "15688145",
+    "CPF_CNPJ_PARCEIRO": "01290743657TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "01290743657"
+  },
+  {
+    "_CustomObjectKey": "15688146",
+    "CPF_CNPJ_PARCEIRO": "03010030843TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03010030843"
+  },
+  {
+    "_CustomObjectKey": "15688147",
+    "CPF_CNPJ_PARCEIRO": "31244494879NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "31244494879"
+  },
+  {
+    "_CustomObjectKey": "15688148",
+    "CPF_CNPJ_PARCEIRO": "19644361687TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "19644361687"
+  },
+  {
+    "_CustomObjectKey": "15688149",
+    "CPF_CNPJ_PARCEIRO": "32794042823NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "32794042823"
+  },
+  {
+    "_CustomObjectKey": "15688150",
+    "CPF_CNPJ_PARCEIRO": "19850069600TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "19850069600"
+  },
+  {
+    "_CustomObjectKey": "15688151",
+    "CPF_CNPJ_PARCEIRO": "00401993558TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "00401993558"
+  },
+  {
+    "_CustomObjectKey": "15688152",
+    "CPF_CNPJ_PARCEIRO": "97666238649TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "97666238649"
+  },
+  {
+    "_CustomObjectKey": "15688153",
+    "CPF_CNPJ_PARCEIRO": "01791773974NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "01791773974"
+  },
+  {
+    "_CustomObjectKey": "15688154",
+    "CPF_CNPJ_PARCEIRO": "16983934822TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "16983934822"
+  },
+  {
+    "_CustomObjectKey": "15688155",
+    "CPF_CNPJ_PARCEIRO": "32799179649TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "32799179649"
+  },
+  {
+    "_CustomObjectKey": "15688156",
+    "CPF_CNPJ_PARCEIRO": "07610460702MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "07610460702"
+  },
+  {
+    "_CustomObjectKey": "15688157",
+    "CPF_CNPJ_PARCEIRO": "49085328691TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "49085328691"
+  },
+  {
+    "_CustomObjectKey": "15688158",
+    "CPF_CNPJ_PARCEIRO": "29106745849TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "29106745849"
+  },
+  {
+    "_CustomObjectKey": "15688159",
+    "CPF_CNPJ_PARCEIRO": "28248190811TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "28248190811"
+  },
+  {
+    "_CustomObjectKey": "15688160",
+    "CPF_CNPJ_PARCEIRO": "10778770648TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "10778770648"
+  },
+  {
+    "_CustomObjectKey": "15688161",
+    "CPF_CNPJ_PARCEIRO": "08244692677TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08244692677"
+  },
+  {
+    "_CustomObjectKey": "15688162",
+    "CPF_CNPJ_PARCEIRO": "01050919602DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "01050919602"
+  },
+  {
+    "_CustomObjectKey": "15688163",
+    "CPF_CNPJ_PARCEIRO": "06086279411BARAU",
+    "PARCEIRO": "BARAU",
+    "CPF_CNPJ": "06086279411"
+  },
+  {
+    "_CustomObjectKey": "15688164",
+    "CPF_CNPJ_PARCEIRO": "16195469653TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "16195469653"
+  },
+  {
+    "_CustomObjectKey": "15688165",
+    "CPF_CNPJ_PARCEIRO": "29163429829TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "29163429829"
+  },
+  {
+    "_CustomObjectKey": "15688166",
+    "CPF_CNPJ_PARCEIRO": "39573722836BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "39573722836"
+  },
+  {
+    "_CustomObjectKey": "15688167",
+    "CPF_CNPJ_PARCEIRO": "79708471100BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "79708471100"
+  },
+  {
+    "_CustomObjectKey": "15688168",
+    "CPF_CNPJ_PARCEIRO": "31568148810BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "31568148810"
+  },
+  {
+    "_CustomObjectKey": "15688169",
+    "CPF_CNPJ_PARCEIRO": "11657026817BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "11657026817"
+  },
+  {
+    "_CustomObjectKey": "15688170",
+    "CPF_CNPJ_PARCEIRO": "54861268320VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "54861268320"
+  },
+  {
+    "_CustomObjectKey": "15688171",
+    "CPF_CNPJ_PARCEIRO": "00828354626JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "00828354626"
+  },
+  {
+    "_CustomObjectKey": "15688172",
+    "CPF_CNPJ_PARCEIRO": "96090626600JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "96090626600"
+  },
+  {
+    "_CustomObjectKey": "15688173",
+    "CPF_CNPJ_PARCEIRO": "04377743848GCARD",
+    "PARCEIRO": "GCARD",
+    "CPF_CNPJ": "04377743848"
+  },
+  {
+    "_CustomObjectKey": "15688174",
+    "CPF_CNPJ_PARCEIRO": "42065607653CARME",
+    "PARCEIRO": "CARME",
+    "CPF_CNPJ": "42065607653"
+  },
+  {
+    "_CustomObjectKey": "15688175",
+    "CPF_CNPJ_PARCEIRO": "40688239870AGAPE",
+    "PARCEIRO": "AGAPE",
+    "CPF_CNPJ": "40688239870"
+  },
+  {
+    "_CustomObjectKey": "15688176",
+    "CPF_CNPJ_PARCEIRO": "07878022712LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "07878022712"
+  },
+  {
+    "_CustomObjectKey": "15688177",
+    "CPF_CNPJ_PARCEIRO": "01545027315VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "01545027315"
+  },
+  {
+    "_CustomObjectKey": "15688178",
+    "CPF_CNPJ_PARCEIRO": "72052953787LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "72052953787"
+  },
+  {
+    "_CustomObjectKey": "15688179",
+    "CPF_CNPJ_PARCEIRO": "94888540306VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "94888540306"
+  },
+  {
+    "_CustomObjectKey": "15688180",
+    "CPF_CNPJ_PARCEIRO": "01279526670JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "01279526670"
+  },
+  {
+    "_CustomObjectKey": "15688181",
+    "CPF_CNPJ_PARCEIRO": "35148435895BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "35148435895"
+  },
+  {
+    "_CustomObjectKey": "15688182",
+    "CPF_CNPJ_PARCEIRO": "26463784591AGAPE",
+    "PARCEIRO": "AGAPE",
+    "CPF_CNPJ": "26463784591"
+  },
+  {
+    "_CustomObjectKey": "15688183",
+    "CPF_CNPJ_PARCEIRO": "10092289789JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "10092289789"
+  },
+  {
+    "_CustomObjectKey": "15688184",
+    "CPF_CNPJ_PARCEIRO": "28152414000155SUPER",
+    "PARCEIRO": "SUPER",
+    "CPF_CNPJ": "28152414000155"
+  },
+  {
+    "_CustomObjectKey": "15688185",
+    "CPF_CNPJ_PARCEIRO": "31913701883AGAPE",
+    "PARCEIRO": "AGAPE",
+    "CPF_CNPJ": "31913701883"
+  },
+  {
+    "_CustomObjectKey": "15688186",
+    "CPF_CNPJ_PARCEIRO": "26432027837BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "26432027837"
+  },
+  {
+    "_CustomObjectKey": "15688187",
+    "CPF_CNPJ_PARCEIRO": "33959299818BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "33959299818"
+  },
+  {
+    "_CustomObjectKey": "15688188",
+    "CPF_CNPJ_PARCEIRO": "04490920890CCENT",
+    "PARCEIRO": "CCENT",
+    "CPF_CNPJ": "04490920890"
+  },
+  {
+    "_CustomObjectKey": "15688189",
+    "CPF_CNPJ_PARCEIRO": "38967324634ALLEN",
+    "PARCEIRO": "ALLEN",
+    "CPF_CNPJ": "38967324634"
+  },
+  {
+    "_CustomObjectKey": "15688190",
+    "CPF_CNPJ_PARCEIRO": "12714378000136TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "12714378000136"
+  },
+  {
+    "_CustomObjectKey": "15688191",
+    "CPF_CNPJ_PARCEIRO": "10911237000188VFREI",
+    "PARCEIRO": "VFREI",
+    "CPF_CNPJ": "10911237000188"
+  },
+  {
+    "_CustomObjectKey": "15688192",
+    "CPF_CNPJ_PARCEIRO": "16602595000195MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "16602595000195"
+  },
+  {
+    "_CustomObjectKey": "15688193",
+    "CPF_CNPJ_PARCEIRO": "00134756657JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "00134756657"
+  },
+  {
+    "_CustomObjectKey": "15688194",
+    "CPF_CNPJ_PARCEIRO": "04361120609JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "04361120609"
+  },
+  {
+    "_CustomObjectKey": "15688195",
+    "CPF_CNPJ_PARCEIRO": "06738821603JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "06738821603"
+  },
+  {
+    "_CustomObjectKey": "15688196",
+    "CPF_CNPJ_PARCEIRO": "07248357685JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "07248357685"
+  },
+  {
+    "_CustomObjectKey": "15688197",
+    "CPF_CNPJ_PARCEIRO": "21998147851BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "21998147851"
+  },
+  {
+    "_CustomObjectKey": "15688198",
+    "CPF_CNPJ_PARCEIRO": "80922503672JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "80922503672"
+  },
+  {
+    "_CustomObjectKey": "15688199",
+    "CPF_CNPJ_PARCEIRO": "07203911640JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "07203911640"
+  },
+  {
+    "_CustomObjectKey": "15688200",
+    "CPF_CNPJ_PARCEIRO": "11838243607BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "11838243607"
+  },
+  {
+    "_CustomObjectKey": "15688201",
+    "CPF_CNPJ_PARCEIRO": "59982845268MAREC",
+    "PARCEIRO": "MAREC",
+    "CPF_CNPJ": "59982845268"
+  },
+  {
+    "_CustomObjectKey": "15688202",
+    "CPF_CNPJ_PARCEIRO": "03301397700SFCON",
+    "PARCEIRO": "SFCON",
+    "CPF_CNPJ": "03301397700"
+  },
+  {
+    "_CustomObjectKey": "15688203",
+    "CPF_CNPJ_PARCEIRO": "40787766801BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "40787766801"
+  },
+  {
+    "_CustomObjectKey": "15688204",
+    "CPF_CNPJ_PARCEIRO": "00766736938TOTUM",
+    "PARCEIRO": "TOTUM",
+    "CPF_CNPJ": "00766736938"
+  },
+  {
+    "_CustomObjectKey": "15688205",
+    "CPF_CNPJ_PARCEIRO": "48563714600JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "48563714600"
+  },
+  {
+    "_CustomObjectKey": "15688206",
+    "CPF_CNPJ_PARCEIRO": "28782437815JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "28782437815"
+  },
+  {
+    "_CustomObjectKey": "15688207",
+    "CPF_CNPJ_PARCEIRO": "74199323287JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "74199323287"
+  },
+  {
+    "_CustomObjectKey": "15688208",
+    "CPF_CNPJ_PARCEIRO": "11588331644TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "11588331644"
+  },
+  {
+    "_CustomObjectKey": "15688209",
+    "CPF_CNPJ_PARCEIRO": "14054341802DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "14054341802"
+  },
+  {
+    "_CustomObjectKey": "15688210",
+    "CPF_CNPJ_PARCEIRO": "05476892680TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "05476892680"
+  },
+  {
+    "_CustomObjectKey": "15688211",
+    "CPF_CNPJ_PARCEIRO": "43204235858NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "43204235858"
+  },
+  {
+    "_CustomObjectKey": "15688212",
+    "CPF_CNPJ_PARCEIRO": "46733760649TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "46733760649"
+  },
+  {
+    "_CustomObjectKey": "15688213",
+    "CPF_CNPJ_PARCEIRO": "98637690025TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "98637690025"
+  },
+  {
+    "_CustomObjectKey": "15688214",
+    "CPF_CNPJ_PARCEIRO": "05544145890DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "05544145890"
+  },
+  {
+    "_CustomObjectKey": "15688215",
+    "CPF_CNPJ_PARCEIRO": "30075793687TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "30075793687"
+  },
+  {
+    "_CustomObjectKey": "15688216",
+    "CPF_CNPJ_PARCEIRO": "82064571604TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "82064571604"
+  },
+  {
+    "_CustomObjectKey": "15688217",
+    "CPF_CNPJ_PARCEIRO": "45910227068MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "45910227068"
+  },
+  {
+    "_CustomObjectKey": "15688218",
+    "CPF_CNPJ_PARCEIRO": "02937401783PALAV",
+    "PARCEIRO": "PALAV",
+    "CPF_CNPJ": "02937401783"
+  },
+  {
+    "_CustomObjectKey": "15688219",
+    "CPF_CNPJ_PARCEIRO": "05436590000113BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "05436590000113"
+  },
+  {
+    "_CustomObjectKey": "15688220",
+    "CPF_CNPJ_PARCEIRO": "19049781349AMPLA",
+    "PARCEIRO": "AMPLA",
+    "CPF_CNPJ": "19049781349"
+  },
+  {
+    "_CustomObjectKey": "15688221",
+    "CPF_CNPJ_PARCEIRO": "07475987892BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "07475987892"
+  },
+  {
+    "_CustomObjectKey": "15688222",
+    "CPF_CNPJ_PARCEIRO": "05535538361VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "05535538361"
+  },
+  {
+    "_CustomObjectKey": "15688223",
+    "CPF_CNPJ_PARCEIRO": "08764459624JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "08764459624"
+  },
+  {
+    "_CustomObjectKey": "15688224",
+    "CPF_CNPJ_PARCEIRO": "18352966707LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "18352966707"
+  },
+  {
+    "_CustomObjectKey": "15688225",
+    "CPF_CNPJ_PARCEIRO": "15632954315VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "15632954315"
+  },
+  {
+    "_CustomObjectKey": "15688226",
+    "CPF_CNPJ_PARCEIRO": "73015326791VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "73015326791"
+  },
+  {
+    "_CustomObjectKey": "15688227",
+    "CPF_CNPJ_PARCEIRO": "01378526651JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "01378526651"
+  },
+  {
+    "_CustomObjectKey": "15688228",
+    "CPF_CNPJ_PARCEIRO": "03919500610JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "03919500610"
+  },
+  {
+    "_CustomObjectKey": "15688229",
+    "CPF_CNPJ_PARCEIRO": "05701832600JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "05701832600"
+  },
+  {
+    "_CustomObjectKey": "15688230",
+    "CPF_CNPJ_PARCEIRO": "03057900640JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "03057900640"
+  },
+  {
+    "_CustomObjectKey": "15688231",
+    "CPF_CNPJ_PARCEIRO": "32007439808BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "32007439808"
+  },
+  {
+    "_CustomObjectKey": "15688232",
+    "CPF_CNPJ_PARCEIRO": "12921478650JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "12921478650"
+  },
+  {
+    "_CustomObjectKey": "15688233",
+    "CPF_CNPJ_PARCEIRO": "03573941605JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "03573941605"
+  },
+  {
+    "_CustomObjectKey": "15688234",
+    "CPF_CNPJ_PARCEIRO": "00662475607JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "00662475607"
+  },
+  {
+    "_CustomObjectKey": "15688235",
+    "CPF_CNPJ_PARCEIRO": "36114283880BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "36114283880"
+  },
+  {
+    "_CustomObjectKey": "15688236",
+    "CPF_CNPJ_PARCEIRO": "51030756600JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "51030756600"
+  },
+  {
+    "_CustomObjectKey": "15688237",
+    "CPF_CNPJ_PARCEIRO": "46418905000187JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "46418905000187"
+  },
+  {
+    "_CustomObjectKey": "15688238",
+    "CPF_CNPJ_PARCEIRO": "09588435463VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "09588435463"
+  },
+  {
+    "_CustomObjectKey": "15688239",
+    "CPF_CNPJ_PARCEIRO": "36368051000118AGAPE",
+    "PARCEIRO": "AGAPE",
+    "CPF_CNPJ": "36368051000118"
+  },
+  {
+    "_CustomObjectKey": "15688240",
+    "CPF_CNPJ_PARCEIRO": "04316357000134LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "04316357000134"
+  },
+  {
+    "_CustomObjectKey": "15688241",
+    "CPF_CNPJ_PARCEIRO": "41589443000147BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "41589443000147"
+  },
+  {
+    "_CustomObjectKey": "15688242",
+    "CPF_CNPJ_PARCEIRO": "29801389168MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "29801389168"
+  },
+  {
+    "_CustomObjectKey": "15688243",
+    "CPF_CNPJ_PARCEIRO": "30931589827MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "30931589827"
+  },
+  {
+    "_CustomObjectKey": "15688244",
+    "CPF_CNPJ_PARCEIRO": "02837991538TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "02837991538"
+  },
+  {
+    "_CustomObjectKey": "15688245",
+    "CPF_CNPJ_PARCEIRO": "08078060726TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08078060726"
+  },
+  {
+    "_CustomObjectKey": "15688246",
+    "CPF_CNPJ_PARCEIRO": "03468041675TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03468041675"
+  },
+  {
+    "_CustomObjectKey": "15688247",
+    "CPF_CNPJ_PARCEIRO": "06644521673TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "06644521673"
+  },
+  {
+    "_CustomObjectKey": "15688248",
+    "CPF_CNPJ_PARCEIRO": "60661577600TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "60661577600"
+  },
+  {
+    "_CustomObjectKey": "15688249",
+    "CPF_CNPJ_PARCEIRO": "04393730690MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "04393730690"
+  },
+  {
+    "_CustomObjectKey": "15688250",
+    "CPF_CNPJ_PARCEIRO": "09854167690TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "09854167690"
+  },
+  {
+    "_CustomObjectKey": "15688251",
+    "CPF_CNPJ_PARCEIRO": "07587824626TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07587824626"
+  },
+  {
+    "_CustomObjectKey": "15688252",
+    "CPF_CNPJ_PARCEIRO": "03094528643TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03094528643"
+  },
+  {
+    "_CustomObjectKey": "15688253",
+    "CPF_CNPJ_PARCEIRO": "91800455615TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "91800455615"
+  },
+  {
+    "_CustomObjectKey": "15688254",
+    "CPF_CNPJ_PARCEIRO": "46063234187MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "46063234187"
+  },
+  {
+    "_CustomObjectKey": "15688255",
+    "CPF_CNPJ_PARCEIRO": "69929394834MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "69929394834"
+  },
+  {
+    "_CustomObjectKey": "15688256",
+    "CPF_CNPJ_PARCEIRO": "00342178601TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "00342178601"
+  },
+  {
+    "_CustomObjectKey": "15688257",
+    "CPF_CNPJ_PARCEIRO": "00479395160MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "00479395160"
+  },
+  {
+    "_CustomObjectKey": "15688258",
+    "CPF_CNPJ_PARCEIRO": "97897345653TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "97897345653"
+  },
+  {
+    "_CustomObjectKey": "15688259",
+    "CPF_CNPJ_PARCEIRO": "03796254829TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03796254829"
+  },
+  {
+    "_CustomObjectKey": "15688260",
+    "CPF_CNPJ_PARCEIRO": "52266532634TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "52266532634"
+  },
+  {
+    "_CustomObjectKey": "15688261",
+    "CPF_CNPJ_PARCEIRO": "70074623320MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "70074623320"
+  },
+  {
+    "_CustomObjectKey": "15688262",
+    "CPF_CNPJ_PARCEIRO": "02779801867NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "02779801867"
+  },
+  {
+    "_CustomObjectKey": "15688263",
+    "CPF_CNPJ_PARCEIRO": "09538533658TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "09538533658"
+  },
+  {
+    "_CustomObjectKey": "15688264",
+    "CPF_CNPJ_PARCEIRO": "07993500877MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "07993500877"
+  },
+  {
+    "_CustomObjectKey": "15688265",
+    "CPF_CNPJ_PARCEIRO": "08107301706TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08107301706"
+  },
+  {
+    "_CustomObjectKey": "15688266",
+    "CPF_CNPJ_PARCEIRO": "82777691134MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "82777691134"
+  },
+  {
+    "_CustomObjectKey": "15688267",
+    "CPF_CNPJ_PARCEIRO": "01376057654TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "01376057654"
+  },
+  {
+    "_CustomObjectKey": "15688268",
+    "CPF_CNPJ_PARCEIRO": "03687131645TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03687131645"
+  },
+  {
+    "_CustomObjectKey": "15688269",
+    "CPF_CNPJ_PARCEIRO": "41433530759TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "41433530759"
+  },
+  {
+    "_CustomObjectKey": "15688270",
+    "CPF_CNPJ_PARCEIRO": "03352711623TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03352711623"
+  },
+  {
+    "_CustomObjectKey": "15688271",
+    "CPF_CNPJ_PARCEIRO": "23687340821NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "23687340821"
+  },
+  {
+    "_CustomObjectKey": "15688272",
+    "CPF_CNPJ_PARCEIRO": "57792178668VARIA",
+    "PARCEIRO": "VARIA",
+    "CPF_CNPJ": "57792178668"
+  },
+  {
+    "_CustomObjectKey": "15688273",
+    "CPF_CNPJ_PARCEIRO": "26184874861NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "26184874861"
+  },
+  {
+    "_CustomObjectKey": "15688274",
+    "CPF_CNPJ_PARCEIRO": "05625640718TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "05625640718"
+  },
+  {
+    "_CustomObjectKey": "15688275",
+    "CPF_CNPJ_PARCEIRO": "13569015653TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "13569015653"
+  },
+  {
+    "_CustomObjectKey": "15688276",
+    "CPF_CNPJ_PARCEIRO": "03708154673TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03708154673"
+  },
+  {
+    "_CustomObjectKey": "15688277",
+    "CPF_CNPJ_PARCEIRO": "32181187860NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "32181187860"
+  },
+  {
+    "_CustomObjectKey": "15688278",
+    "CPF_CNPJ_PARCEIRO": "36086044805NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "36086044805"
+  },
+  {
+    "_CustomObjectKey": "15688279",
+    "CPF_CNPJ_PARCEIRO": "13821096799NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "13821096799"
+  },
+  {
+    "_CustomObjectKey": "15688280",
+    "CPF_CNPJ_PARCEIRO": "55657567820NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "55657567820"
+  },
+  {
+    "_CustomObjectKey": "15688281",
+    "CPF_CNPJ_PARCEIRO": "36053618896NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "36053618896"
+  },
+  {
+    "_CustomObjectKey": "15688282",
+    "CPF_CNPJ_PARCEIRO": "59711850630TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "59711850630"
+  },
+  {
+    "_CustomObjectKey": "15688283",
+    "CPF_CNPJ_PARCEIRO": "37376233091MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "37376233091"
+  },
+  {
+    "_CustomObjectKey": "15688284",
+    "CPF_CNPJ_PARCEIRO": "07352261648DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "07352261648"
+  },
+  {
+    "_CustomObjectKey": "15688285",
+    "CPF_CNPJ_PARCEIRO": "39558592749MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "39558592749"
+  },
+  {
+    "_CustomObjectKey": "15688286",
+    "CPF_CNPJ_PARCEIRO": "33868091890NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "33868091890"
+  },
+  {
+    "_CustomObjectKey": "15688287",
+    "CPF_CNPJ_PARCEIRO": "76090388734LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "76090388734"
+  },
+  {
+    "_CustomObjectKey": "15688288",
+    "CPF_CNPJ_PARCEIRO": "08591930630JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "08591930630"
+  },
+  {
+    "_CustomObjectKey": "15688289",
+    "CPF_CNPJ_PARCEIRO": "71782798188O2COR",
+    "PARCEIRO": "O2COR",
+    "CPF_CNPJ": "71782798188"
+  },
+  {
+    "_CustomObjectKey": "15688290",
+    "CPF_CNPJ_PARCEIRO": "10014826623JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "10014826623"
+  },
+  {
+    "_CustomObjectKey": "15688291",
+    "CPF_CNPJ_PARCEIRO": "10543505405TOTUM",
+    "PARCEIRO": "TOTUM",
+    "CPF_CNPJ": "10543505405"
+  },
+  {
+    "_CustomObjectKey": "15688292",
+    "CPF_CNPJ_PARCEIRO": "58406174668JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "58406174668"
+  },
+  {
+    "_CustomObjectKey": "15688293",
+    "CPF_CNPJ_PARCEIRO": "03777718300VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "03777718300"
+  },
+  {
+    "_CustomObjectKey": "15688294",
+    "CPF_CNPJ_PARCEIRO": "05346956719LIDER",
+    "PARCEIRO": "LIDER",
+    "CPF_CNPJ": "05346956719"
+  },
+  {
+    "_CustomObjectKey": "15688295",
+    "CPF_CNPJ_PARCEIRO": "11926267613JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "11926267613"
+  },
+  {
+    "_CustomObjectKey": "15688296",
+    "CPF_CNPJ_PARCEIRO": "60694815268TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "60694815268"
+  },
+  {
+    "_CustomObjectKey": "15688297",
+    "CPF_CNPJ_PARCEIRO": "06572364623TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "06572364623"
+  },
+  {
+    "_CustomObjectKey": "15688298",
+    "CPF_CNPJ_PARCEIRO": "00834817969TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "00834817969"
+  },
+  {
+    "_CustomObjectKey": "15688299",
+    "CPF_CNPJ_PARCEIRO": "11046707639TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "11046707639"
+  },
+  {
+    "_CustomObjectKey": "15688300",
+    "CPF_CNPJ_PARCEIRO": "97271225749PALAV",
+    "PARCEIRO": "PALAV",
+    "CPF_CNPJ": "97271225749"
+  },
+  {
+    "_CustomObjectKey": "15688301",
+    "CPF_CNPJ_PARCEIRO": "28634401871MAXMS",
+    "PARCEIRO": "MAXMS",
+    "CPF_CNPJ": "28634401871"
+  },
+  {
+    "_CustomObjectKey": "15688302",
+    "CPF_CNPJ_PARCEIRO": "07819992000122TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07819992000122"
+  },
+  {
+    "_CustomObjectKey": "15688303",
+    "CPF_CNPJ_PARCEIRO": "07276642000167MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "07276642000167"
+  },
+  {
+    "_CustomObjectKey": "15688304",
+    "CPF_CNPJ_PARCEIRO": "15580261000103TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "15580261000103"
+  },
+  {
+    "_CustomObjectKey": "15688305",
+    "CPF_CNPJ_PARCEIRO": "92779503001520CALEG",
+    "PARCEIRO": "CALEG",
+    "CPF_CNPJ": "92779503001520"
+  },
+  {
+    "_CustomObjectKey": "15688306",
+    "CPF_CNPJ_PARCEIRO": "06445057616TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "06445057616"
+  },
+  {
+    "_CustomObjectKey": "15688307",
+    "CPF_CNPJ_PARCEIRO": "09312051660TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "09312051660"
+  },
+  {
+    "_CustomObjectKey": "15688308",
+    "CPF_CNPJ_PARCEIRO": "22158592885NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "22158592885"
+  },
+  {
+    "_CustomObjectKey": "15688309",
+    "CPF_CNPJ_PARCEIRO": "45170711620TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "45170711620"
+  },
+  {
+    "_CustomObjectKey": "15688310",
+    "CPF_CNPJ_PARCEIRO": "34471793845DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "34471793845"
+  },
+  {
+    "_CustomObjectKey": "15688311",
+    "CPF_CNPJ_PARCEIRO": "33156570842DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "33156570842"
+  },
+  {
+    "_CustomObjectKey": "15688312",
+    "CPF_CNPJ_PARCEIRO": "31165133172BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "31165133172"
+  },
+  {
+    "_CustomObjectKey": "15688313",
+    "CPF_CNPJ_PARCEIRO": "80175880549BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "80175880549"
+  },
+  {
+    "_CustomObjectKey": "15688314",
+    "CPF_CNPJ_PARCEIRO": "33699319822BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "33699319822"
+  },
+  {
+    "_CustomObjectKey": "15688315",
+    "CPF_CNPJ_PARCEIRO": "33990483862BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "33990483862"
+  },
+  {
+    "_CustomObjectKey": "15688316",
+    "CPF_CNPJ_PARCEIRO": "36176786886BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "36176786886"
+  },
+  {
+    "_CustomObjectKey": "15688317",
+    "CPF_CNPJ_PARCEIRO": "11815277831BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "11815277831"
+  },
+  {
+    "_CustomObjectKey": "15688318",
+    "CPF_CNPJ_PARCEIRO": "39141462300VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "39141462300"
+  },
+  {
+    "_CustomObjectKey": "15688319",
+    "CPF_CNPJ_PARCEIRO": "04057499610JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "04057499610"
+  },
+  {
+    "_CustomObjectKey": "15688320",
+    "CPF_CNPJ_PARCEIRO": "11641185287MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "11641185287"
+  },
+  {
+    "_CustomObjectKey": "15688321",
+    "CPF_CNPJ_PARCEIRO": "40185389104MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "40185389104"
+  },
+  {
+    "_CustomObjectKey": "15688322",
+    "CPF_CNPJ_PARCEIRO": "01441112685TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "01441112685"
+  },
+  {
+    "_CustomObjectKey": "15688323",
+    "CPF_CNPJ_PARCEIRO": "00513777059TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "00513777059"
+  },
+  {
+    "_CustomObjectKey": "15688324",
+    "CPF_CNPJ_PARCEIRO": "12445557895BARAU",
+    "PARCEIRO": "BARAU",
+    "CPF_CNPJ": "12445557895"
+  },
+  {
+    "_CustomObjectKey": "15688325",
+    "CPF_CNPJ_PARCEIRO": "71538720515NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "71538720515"
+  },
+  {
+    "_CustomObjectKey": "15688326",
+    "CPF_CNPJ_PARCEIRO": "49554409672TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "49554409672"
+  },
+  {
+    "_CustomObjectKey": "15688327",
+    "CPF_CNPJ_PARCEIRO": "88308170668TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "88308170668"
+  },
+  {
+    "_CustomObjectKey": "15688328",
+    "CPF_CNPJ_PARCEIRO": "00314649123MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "00314649123"
+  },
+  {
+    "_CustomObjectKey": "15688329",
+    "CPF_CNPJ_PARCEIRO": "04061558102MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "04061558102"
+  },
+  {
+    "_CustomObjectKey": "15688330",
+    "CPF_CNPJ_PARCEIRO": "84250240215TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "84250240215"
+  },
+  {
+    "_CustomObjectKey": "15688331",
+    "CPF_CNPJ_PARCEIRO": "23477817826NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "23477817826"
+  },
+  {
+    "_CustomObjectKey": "15688332",
+    "CPF_CNPJ_PARCEIRO": "51055449191MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "51055449191"
+  },
+  {
+    "_CustomObjectKey": "15688333",
+    "CPF_CNPJ_PARCEIRO": "96433531849NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "96433531849"
+  },
+  {
+    "_CustomObjectKey": "15688334",
+    "CPF_CNPJ_PARCEIRO": "21438910835NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "21438910835"
+  },
+  {
+    "_CustomObjectKey": "15688335",
+    "CPF_CNPJ_PARCEIRO": "08971628626TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08971628626"
+  },
+  {
+    "_CustomObjectKey": "15688336",
+    "CPF_CNPJ_PARCEIRO": "01995966118MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "01995966118"
+  },
+  {
+    "_CustomObjectKey": "15688337",
+    "CPF_CNPJ_PARCEIRO": "01147068402MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "01147068402"
+  },
+  {
+    "_CustomObjectKey": "15688338",
+    "CPF_CNPJ_PARCEIRO": "02927063168TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "02927063168"
+  },
+  {
+    "_CustomObjectKey": "15688339",
+    "CPF_CNPJ_PARCEIRO": "64544753104MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "64544753104"
+  },
+  {
+    "_CustomObjectKey": "15688340",
+    "CPF_CNPJ_PARCEIRO": "18890970049MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "18890970049"
+  },
+  {
+    "_CustomObjectKey": "15688341",
+    "CPF_CNPJ_PARCEIRO": "71085920100MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "71085920100"
+  },
+  {
+    "_CustomObjectKey": "15688342",
+    "CPF_CNPJ_PARCEIRO": "09546906646TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "09546906646"
+  },
+  {
+    "_CustomObjectKey": "15688343",
+    "CPF_CNPJ_PARCEIRO": "85899054891TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "85899054891"
+  },
+  {
+    "_CustomObjectKey": "15688344",
+    "CPF_CNPJ_PARCEIRO": "27854587884DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "27854587884"
+  },
+  {
+    "_CustomObjectKey": "15688345",
+    "CPF_CNPJ_PARCEIRO": "04250406660TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04250406660"
+  },
+  {
+    "_CustomObjectKey": "15688346",
+    "CPF_CNPJ_PARCEIRO": "22623805890NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "22623805890"
+  },
+  {
+    "_CustomObjectKey": "15688347",
+    "CPF_CNPJ_PARCEIRO": "12420054717DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "12420054717"
+  },
+  {
+    "_CustomObjectKey": "15688348",
+    "CPF_CNPJ_PARCEIRO": "26185287862DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "26185287862"
+  },
+  {
+    "_CustomObjectKey": "15688349",
+    "CPF_CNPJ_PARCEIRO": "08144101626TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08144101626"
+  },
+  {
+    "_CustomObjectKey": "15688350",
+    "CPF_CNPJ_PARCEIRO": "38665450882DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "38665450882"
+  },
+  {
+    "_CustomObjectKey": "15688351",
+    "CPF_CNPJ_PARCEIRO": "22110917687TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "22110917687"
+  },
+  {
+    "_CustomObjectKey": "15688352",
+    "CPF_CNPJ_PARCEIRO": "69944725668TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "69944725668"
+  },
+  {
+    "_CustomObjectKey": "15688353",
+    "CPF_CNPJ_PARCEIRO": "80813100615TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "80813100615"
+  },
+  {
+    "_CustomObjectKey": "15688354",
+    "CPF_CNPJ_PARCEIRO": "07319502674TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07319502674"
+  },
+  {
+    "_CustomObjectKey": "15688355",
+    "CPF_CNPJ_PARCEIRO": "00016257057MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "00016257057"
+  },
+  {
+    "_CustomObjectKey": "15688356",
+    "CPF_CNPJ_PARCEIRO": "97322989104MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "97322989104"
+  },
+  {
+    "_CustomObjectKey": "15688357",
+    "CPF_CNPJ_PARCEIRO": "23276735857TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "23276735857"
+  },
+  {
+    "_CustomObjectKey": "15688358",
+    "CPF_CNPJ_PARCEIRO": "21872653820BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "21872653820"
+  },
+  {
+    "_CustomObjectKey": "15688359",
+    "CPF_CNPJ_PARCEIRO": "16126332857BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "16126332857"
+  },
+  {
+    "_CustomObjectKey": "15688360",
+    "CPF_CNPJ_PARCEIRO": "00221452303VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "00221452303"
+  },
+  {
+    "_CustomObjectKey": "15688361",
+    "CPF_CNPJ_PARCEIRO": "01464687323VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "01464687323"
+  },
+  {
+    "_CustomObjectKey": "15688362",
+    "CPF_CNPJ_PARCEIRO": "01186516682JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "01186516682"
+  },
+  {
+    "_CustomObjectKey": "15688363",
+    "CPF_CNPJ_PARCEIRO": "20470967668JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "20470967668"
+  },
+  {
+    "_CustomObjectKey": "15688364",
+    "CPF_CNPJ_PARCEIRO": "10042909694JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "10042909694"
+  },
+  {
+    "_CustomObjectKey": "15688365",
+    "CPF_CNPJ_PARCEIRO": "34803758808BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "34803758808"
+  },
+  {
+    "_CustomObjectKey": "15688366",
+    "CPF_CNPJ_PARCEIRO": "27259465816BASSO",
+    "PARCEIRO": "BASSO",
+    "CPF_CNPJ": "27259465816"
+  },
+  {
+    "_CustomObjectKey": "15688367",
+    "CPF_CNPJ_PARCEIRO": "06392569537AGAPE",
+    "PARCEIRO": "AGAPE",
+    "CPF_CNPJ": "06392569537"
+  },
+  {
+    "_CustomObjectKey": "15688368",
+    "CPF_CNPJ_PARCEIRO": "39581344837BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "39581344837"
+  },
+  {
+    "_CustomObjectKey": "15688369",
+    "CPF_CNPJ_PARCEIRO": "00637850300VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "00637850300"
+  },
+  {
+    "_CustomObjectKey": "15688370",
+    "CPF_CNPJ_PARCEIRO": "33205789873BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "33205789873"
+  },
+  {
+    "_CustomObjectKey": "15688371",
+    "CPF_CNPJ_PARCEIRO": "38412586387VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "38412586387"
+  },
+  {
+    "_CustomObjectKey": "15688372",
+    "CPF_CNPJ_PARCEIRO": "11778183883VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "11778183883"
+  },
+  {
+    "_CustomObjectKey": "15688373",
+    "CPF_CNPJ_PARCEIRO": "01076315399VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "01076315399"
+  },
+  {
+    "_CustomObjectKey": "15688374",
+    "CPF_CNPJ_PARCEIRO": "43749875847BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "43749875847"
+  },
+  {
+    "_CustomObjectKey": "15688375",
+    "CPF_CNPJ_PARCEIRO": "03618098677JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "03618098677"
+  },
+  {
+    "_CustomObjectKey": "15688376",
+    "CPF_CNPJ_PARCEIRO": "06164747333VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "06164747333"
+  },
+  {
+    "_CustomObjectKey": "15688377",
+    "CPF_CNPJ_PARCEIRO": "08834322851INPAR",
+    "PARCEIRO": "INPAR",
+    "CPF_CNPJ": "08834322851"
+  },
+  {
+    "_CustomObjectKey": "15688378",
+    "CPF_CNPJ_PARCEIRO": "12098945647TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "12098945647"
+  },
+  {
+    "_CustomObjectKey": "15688379",
+    "CPF_CNPJ_PARCEIRO": "10483087823DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "10483087823"
+  },
+  {
+    "_CustomObjectKey": "15688380",
+    "CPF_CNPJ_PARCEIRO": "12380887675TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "12380887675"
+  },
+  {
+    "_CustomObjectKey": "15688381",
+    "CPF_CNPJ_PARCEIRO": "16732965808TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "16732965808"
+  },
+  {
+    "_CustomObjectKey": "15688382",
+    "CPF_CNPJ_PARCEIRO": "09715445659TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "09715445659"
+  },
+  {
+    "_CustomObjectKey": "15688383",
+    "CPF_CNPJ_PARCEIRO": "15485344801NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "15485344801"
+  },
+  {
+    "_CustomObjectKey": "15688384",
+    "CPF_CNPJ_PARCEIRO": "69035423100VARIA",
+    "PARCEIRO": "VARIA",
+    "CPF_CNPJ": "69035423100"
+  },
+  {
+    "_CustomObjectKey": "15688385",
+    "CPF_CNPJ_PARCEIRO": "01619219654TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "01619219654"
+  },
+  {
+    "_CustomObjectKey": "15688386",
+    "CPF_CNPJ_PARCEIRO": "11837169829TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "11837169829"
+  },
+  {
+    "_CustomObjectKey": "15688387",
+    "CPF_CNPJ_PARCEIRO": "23271074828TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "23271074828"
+  },
+  {
+    "_CustomObjectKey": "15688388",
+    "CPF_CNPJ_PARCEIRO": "01283466635TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "01283466635"
+  },
+  {
+    "_CustomObjectKey": "15688389",
+    "CPF_CNPJ_PARCEIRO": "07875019800DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "07875019800"
+  },
+  {
+    "_CustomObjectKey": "15688390",
+    "CPF_CNPJ_PARCEIRO": "42634881134MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "42634881134"
+  },
+  {
+    "_CustomObjectKey": "15688391",
+    "CPF_CNPJ_PARCEIRO": "98017632134MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "98017632134"
+  },
+  {
+    "_CustomObjectKey": "15688392",
+    "CPF_CNPJ_PARCEIRO": "84337958649TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "84337958649"
+  },
+  {
+    "_CustomObjectKey": "15688393",
+    "CPF_CNPJ_PARCEIRO": "06354395730PALAV",
+    "PARCEIRO": "PALAV",
+    "CPF_CNPJ": "06354395730"
+  },
+  {
+    "_CustomObjectKey": "15688394",
+    "CPF_CNPJ_PARCEIRO": "37322932897NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "37322932897"
+  },
+  {
+    "_CustomObjectKey": "15688395",
+    "CPF_CNPJ_PARCEIRO": "17958865104TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "17958865104"
+  },
+  {
+    "_CustomObjectKey": "15688396",
+    "CPF_CNPJ_PARCEIRO": "06367817638JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "06367817638"
+  },
+  {
+    "_CustomObjectKey": "15688397",
+    "CPF_CNPJ_PARCEIRO": "78460425134UAIBR",
+    "PARCEIRO": "UAIBR",
+    "CPF_CNPJ": "78460425134"
+  },
+  {
+    "_CustomObjectKey": "15688398",
+    "CPF_CNPJ_PARCEIRO": "10144700646JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "10144700646"
+  },
+  {
+    "_CustomObjectKey": "15688399",
+    "CPF_CNPJ_PARCEIRO": "05080597399VELAS",
+    "PARCEIRO": "VELAS",
+    "CPF_CNPJ": "05080597399"
+  },
+  {
+    "_CustomObjectKey": "15688400",
+    "CPF_CNPJ_PARCEIRO": "00340233648JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "00340233648"
+  },
+  {
+    "_CustomObjectKey": "15688401",
+    "CPF_CNPJ_PARCEIRO": "61266655620JKMCO",
+    "PARCEIRO": "JKMCO",
+    "CPF_CNPJ": "61266655620"
+  },
+  {
+    "_CustomObjectKey": "15688402",
+    "CPF_CNPJ_PARCEIRO": "18425120802BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "18425120802"
+  },
+  {
+    "_CustomObjectKey": "15688403",
+    "CPF_CNPJ_PARCEIRO": "17321647000380TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "17321647000380"
+  },
+  {
+    "_CustomObjectKey": "15688404",
+    "CPF_CNPJ_PARCEIRO": "01616689000146NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "01616689000146"
+  },
+  {
+    "_CustomObjectKey": "15688405",
+    "CPF_CNPJ_PARCEIRO": "15235436000137BERNA",
+    "PARCEIRO": "BERNA",
+    "CPF_CNPJ": "15235436000137"
+  },
+  {
+    "_CustomObjectKey": "15688406",
+    "CPF_CNPJ_PARCEIRO": "11868640000134TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "11868640000134"
+  },
+  {
+    "_CustomObjectKey": "15688407",
+    "CPF_CNPJ_PARCEIRO": "06155001000191TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "06155001000191"
+  },
+  {
+    "_CustomObjectKey": "15688408",
+    "CPF_CNPJ_PARCEIRO": "30874481000125MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "30874481000125"
+  },
+  {
+    "_CustomObjectKey": "15688409",
+    "CPF_CNPJ_PARCEIRO": "07528473685TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07528473685"
+  },
+  {
+    "_CustomObjectKey": "15688410",
+    "CPF_CNPJ_PARCEIRO": "00294331859NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "00294331859"
+  },
+  {
+    "_CustomObjectKey": "15688411",
+    "CPF_CNPJ_PARCEIRO": "04646198665DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "04646198665"
+  },
+  {
+    "_CustomObjectKey": "15688412",
+    "CPF_CNPJ_PARCEIRO": "17176085153VARIA",
+    "PARCEIRO": "VARIA",
+    "CPF_CNPJ": "17176085153"
+  },
+  {
+    "_CustomObjectKey": "15688413",
+    "CPF_CNPJ_PARCEIRO": "13945241880NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "13945241880"
+  },
+  {
+    "_CustomObjectKey": "15688414",
+    "CPF_CNPJ_PARCEIRO": "04509983638TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04509983638"
+  },
+  {
+    "_CustomObjectKey": "15688415",
+    "CPF_CNPJ_PARCEIRO": "30420879803NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "30420879803"
+  },
+  {
+    "_CustomObjectKey": "15688416",
+    "CPF_CNPJ_PARCEIRO": "22404892860NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "22404892860"
+  },
+  {
+    "_CustomObjectKey": "15688417",
+    "CPF_CNPJ_PARCEIRO": "03220365850NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "03220365850"
+  },
+  {
+    "_CustomObjectKey": "15688418",
+    "CPF_CNPJ_PARCEIRO": "89858417187MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "89858417187"
+  },
+  {
+    "_CustomObjectKey": "15688419",
+    "CPF_CNPJ_PARCEIRO": "03061750100TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "03061750100"
+  },
+  {
+    "_CustomObjectKey": "15688420",
+    "CPF_CNPJ_PARCEIRO": "08421648632TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08421648632"
+  },
+  {
+    "_CustomObjectKey": "15688421",
+    "CPF_CNPJ_PARCEIRO": "25776436672TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "25776436672"
+  },
+  {
+    "_CustomObjectKey": "15688422",
+    "CPF_CNPJ_PARCEIRO": "12316753817TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "12316753817"
+  },
+  {
+    "_CustomObjectKey": "15688423",
+    "CPF_CNPJ_PARCEIRO": "26369142859VARIA",
+    "PARCEIRO": "VARIA",
+    "CPF_CNPJ": "26369142859"
+  },
+  {
+    "_CustomObjectKey": "15688424",
+    "CPF_CNPJ_PARCEIRO": "66277981315BARAU",
+    "PARCEIRO": "BARAU",
+    "CPF_CNPJ": "66277981315"
+  },
+  {
+    "_CustomObjectKey": "15688425",
+    "CPF_CNPJ_PARCEIRO": "24085162691TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "24085162691"
+  },
+  {
+    "_CustomObjectKey": "15688426",
+    "CPF_CNPJ_PARCEIRO": "94449678672TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "94449678672"
+  },
+  {
+    "_CustomObjectKey": "15688427",
+    "CPF_CNPJ_PARCEIRO": "01808259505NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "01808259505"
+  },
+  {
+    "_CustomObjectKey": "15688428",
+    "CPF_CNPJ_PARCEIRO": "04036895621TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04036895621"
+  },
+  {
+    "_CustomObjectKey": "15688429",
+    "CPF_CNPJ_PARCEIRO": "31872492649TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "31872492649"
+  },
+  {
+    "_CustomObjectKey": "15688430",
+    "CPF_CNPJ_PARCEIRO": "09884994609TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "09884994609"
+  },
+  {
+    "_CustomObjectKey": "15688431",
+    "CPF_CNPJ_PARCEIRO": "08189327755TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08189327755"
+  },
+  {
+    "_CustomObjectKey": "15688432",
+    "CPF_CNPJ_PARCEIRO": "01148960112MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "01148960112"
+  },
+  {
+    "_CustomObjectKey": "15688433",
+    "CPF_CNPJ_PARCEIRO": "41707650870NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "41707650870"
+  },
+  {
+    "_CustomObjectKey": "15688434",
+    "CPF_CNPJ_PARCEIRO": "66923379415BARAU",
+    "PARCEIRO": "BARAU",
+    "CPF_CNPJ": "66923379415"
+  },
+  {
+    "_CustomObjectKey": "15688435",
+    "CPF_CNPJ_PARCEIRO": "22378895895NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "22378895895"
+  },
+  {
+    "_CustomObjectKey": "15688436",
+    "CPF_CNPJ_PARCEIRO": "08479096624TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08479096624"
+  },
+  {
+    "_CustomObjectKey": "15688437",
+    "CPF_CNPJ_PARCEIRO": "06264304883DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "06264304883"
+  },
+  {
+    "_CustomObjectKey": "15688438",
+    "CPF_CNPJ_PARCEIRO": "15557803858NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "15557803858"
+  },
+  {
+    "_CustomObjectKey": "15688439",
+    "CPF_CNPJ_PARCEIRO": "02850427268TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "02850427268"
+  },
+  {
+    "_CustomObjectKey": "15688440",
+    "CPF_CNPJ_PARCEIRO": "12391235666TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "12391235666"
+  },
+  {
+    "_CustomObjectKey": "15688441",
+    "CPF_CNPJ_PARCEIRO": "69384525391MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "69384525391"
+  },
+  {
+    "_CustomObjectKey": "15688442",
+    "CPF_CNPJ_PARCEIRO": "06077906603TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "06077906603"
+  },
+  {
+    "_CustomObjectKey": "15688443",
+    "CPF_CNPJ_PARCEIRO": "92433197600TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "92433197600"
+  },
+  {
+    "_CustomObjectKey": "15688444",
+    "CPF_CNPJ_PARCEIRO": "08316253682TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08316253682"
+  },
+  {
+    "_CustomObjectKey": "15688445",
+    "CPF_CNPJ_PARCEIRO": "77173260191NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "77173260191"
+  },
+  {
+    "_CustomObjectKey": "15688446",
+    "CPF_CNPJ_PARCEIRO": "67147003691MAXIM",
+    "PARCEIRO": "MAXIM",
+    "CPF_CNPJ": "67147003691"
+  },
+  {
+    "_CustomObjectKey": "15688447",
+    "CPF_CNPJ_PARCEIRO": "01176849611TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "01176849611"
+  },
+  {
+    "_CustomObjectKey": "15688448",
+    "CPF_CNPJ_PARCEIRO": "96837420682TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "96837420682"
+  },
+  {
+    "_CustomObjectKey": "15688449",
+    "CPF_CNPJ_PARCEIRO": "04171599601TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "04171599601"
+  },
+  {
+    "_CustomObjectKey": "15688450",
+    "CPF_CNPJ_PARCEIRO": "29396592811VARIA",
+    "PARCEIRO": "VARIA",
+    "CPF_CNPJ": "29396592811"
+  },
+  {
+    "_CustomObjectKey": "15688451",
+    "CPF_CNPJ_PARCEIRO": "08752737691TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "08752737691"
+  },
+  {
+    "_CustomObjectKey": "15688452",
+    "CPF_CNPJ_PARCEIRO": "07433064656TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07433064656"
+  },
+  {
+    "_CustomObjectKey": "15688453",
+    "CPF_CNPJ_PARCEIRO": "17709716881NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "17709716881"
+  },
+  {
+    "_CustomObjectKey": "15688454",
+    "CPF_CNPJ_PARCEIRO": "10738848727TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "10738848727"
+  },
+  {
+    "_CustomObjectKey": "15688455",
+    "CPF_CNPJ_PARCEIRO": "29145409811DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "29145409811"
+  },
+  {
+    "_CustomObjectKey": "15688456",
+    "CPF_CNPJ_PARCEIRO": "30520814894NOIVA",
+    "PARCEIRO": "NOIVA",
+    "CPF_CNPJ": "30520814894"
+  },
+  {
+    "_CustomObjectKey": "15688457",
+    "CPF_CNPJ_PARCEIRO": "01706957866DACEL",
+    "PARCEIRO": "DACEL",
+    "CPF_CNPJ": "01706957866"
+  },
+  {
+    "_CustomObjectKey": "15688458",
+    "CPF_CNPJ_PARCEIRO": "07980161670TRIUN",
+    "PARCEIRO": "TRIUN",
+    "CPF_CNPJ": "07980161670"
+  }
+]

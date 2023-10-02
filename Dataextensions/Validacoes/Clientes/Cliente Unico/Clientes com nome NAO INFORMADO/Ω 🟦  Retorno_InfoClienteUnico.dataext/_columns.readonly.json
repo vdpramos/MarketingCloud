@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "1d834633-ced4-45f3-87fc-a5244d713441",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "NOME_COMPLETO",
+    "FieldType": "Text",
+    "ObjectID": "a4609391-63db-465e-bf4c-4075ac520f74",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "TP_CLIENTE",
+    "FieldType": "Text",
+    "ObjectID": "b6559735-36d6-4eee-bfb3-d368684c6406",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "SEXO",
+    "FieldType": "Text",
+    "ObjectID": "2144513e-248d-4dba-adf1-ba91a46ee78b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "PPE",
+    "FieldType": "Boolean",
+    "ObjectID": "6bf4d163-42e5-4bd7-ab9a-93bc256b4156",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "DATA_NASCIMENTO",
+    "FieldType": "Date",
+    "ObjectID": "c560ef81-2d54-4c6f-b978-e64ba24494bd",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  }
+]

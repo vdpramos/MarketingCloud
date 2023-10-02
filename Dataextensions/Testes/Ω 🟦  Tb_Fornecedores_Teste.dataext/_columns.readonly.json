@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Fornecedor",
+    "FieldType": "Text",
+    "ObjectID": "f05c28d5-a5c6-440f-8932-736215e5470c",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Quantidade",
+    "FieldType": "Text",
+    "ObjectID": "dc7dca80-d864-43fd-ae23-74ee195585ee",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "1F8AC947-F1BA-4E66-9F77-91101CDE63AC"
+  ],
+  "Name": [
+    "Tb_Base_Inicial_Fim_Plano_Ourocap_PU_PP_ComOTC_TMKT"
+  ]
+}

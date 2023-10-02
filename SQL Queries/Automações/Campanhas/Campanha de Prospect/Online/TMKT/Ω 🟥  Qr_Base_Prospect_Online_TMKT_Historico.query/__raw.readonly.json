@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ea683a49-533f-4c00-a5a1-1e72432a09e4",
+  "name": "Qr_Base_Prospect_Online_TMKT_Historico",
+  "key": "EA683A49-533F-4C00-A5A1-1E72432A09E4",
+  "description": "",
+  "queryText": "SELECT DISTINCT\r\n    CPF AS CPF,\r\n    ID_CAMPANHA,\r\n    GETDATE() AS DATA_CAMPANHA,\r\n    'DISCADOR' AS CANAL\r\nFROM Tb_Base_Prospect_OTC291_Online_Filtrada_TMKT",
+  "targetName": "Tb_Campanhas_Prospect_Historico",
+  "targetKey": "8CBC59B1-3114-4045-A13F-B4D4D25B4EF8",
+  "targetId": "fbcc626f-6c44-eb11-a2f2-48df370ed7f4",
+  "targetDescription": "",
+  "createdDate": "2023-05-11T14:18:40.087",
+  "modifiedDate": "2023-05-11T14:18:40.087",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 55868,
+  "isFrozen": false
+}

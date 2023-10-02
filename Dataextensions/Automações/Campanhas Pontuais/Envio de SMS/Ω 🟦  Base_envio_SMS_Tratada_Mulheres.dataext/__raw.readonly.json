@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "2545D9A6-9436-40BE-9345-23121D24DE95"
+  ],
+  "Name": [
+    "Base_envio_SMS_Tratada_Mulheres"
+  ]
+}

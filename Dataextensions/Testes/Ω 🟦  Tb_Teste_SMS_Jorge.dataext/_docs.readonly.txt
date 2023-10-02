@@ -1,0 +1,8 @@
+Dataextension name: Tb_Teste_SMS_Jorge
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Email                | EmailAddress    | false    | false    |                 |
+| Celular              | Phone           | false    | false    |                 |
+| Locale               | Locale          | false    | false    |                 |

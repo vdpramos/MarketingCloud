@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "010e72bf-3e59-47c7-8e9c-9d51820e25d1",
+  "name": "Informe_rendimentos_OTC290",
+  "key": "010E72BF-3E59-47C7-8E9C-9D51820E25D1",
+  "description": "",
+  "queryText": "SELECT\n  '001'+\n  REPLICATE (' ' , 9)+\n  REPLICATE ('0' , 9)+\n  '1'+\n  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, CPF_CNPJ), 15)+\n  CONVERT(VARCHAR(10), CONVERT(DATE, Data_Nascimento, 103), 112)+\n  LEFT(CONVERT(VARCHAR(60), Nome) + REPLICATE(' ', 60), 60)+\n  REPLICATE (' ' , 1)+\n  /*REPLICATE (' ' , 2)*/REPLICATE (' ' , 1)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 5)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 73)+\n  REPLICATE (' ' , 70) AS BASE\nFROM\n  Informe_rendimentos_publico_inicial",
+  "targetName": "Informe_Rendimentos_OTC290",
+  "targetKey": "F1476AB3-FB7E-4E28-A95B-973F81614C9A",
+  "targetId": "974b88cd-52e4-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-04-26T10:54:01.94",
+  "modifiedDate": "2023-04-27T07:50:41.23",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 62051,
+  "isFrozen": false
+}

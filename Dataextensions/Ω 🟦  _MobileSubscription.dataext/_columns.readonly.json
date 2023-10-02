@@ -1,0 +1,156 @@
+[
+  {
+    "Name": "_SubscriptionDefinitionID",
+    "FieldType": "Text",
+    "ObjectID": "ce5ec953-07af-45a2-9e5d-e95e2c924bcd",
+    "MaxLength": "200",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "_MobileNumber",
+    "FieldType": "Text",
+    "ObjectID": "ee6b680f-6aaf-47a9-b166-67f922944f73",
+    "MaxLength": "15",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "_OptOutStatusID",
+    "FieldType": "Text",
+    "ObjectID": "b0a11c76-7a76-4353-9b82-d3fb9e047941",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "_OptOutMethodID",
+    "FieldType": "Text",
+    "ObjectID": "905da795-331c-4b63-b6fd-63608a5a091a",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "_OptOutDate",
+    "FieldType": "Date",
+    "ObjectID": "bc7d9aea-968a-48bf-9429-d31755d672e8",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "_OptInStatusID",
+    "FieldType": "Text",
+    "ObjectID": "919fd007-94bb-4259-b04f-5e22e03f8035",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "_OptInMethodID",
+    "FieldType": "Text",
+    "ObjectID": "bcc5334c-fb0f-4d37-bf74-84b5df61a3da",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "_OptInDate",
+    "FieldType": "Date",
+    "ObjectID": "398e1ed0-75dc-46a1-9ab8-e02360d7352a",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "_Source",
+    "FieldType": "Text",
+    "ObjectID": "c3fccbd7-0b15-4ef0-8345-adda30d9c610",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "_CreatedDate",
+    "FieldType": "Date",
+    "ObjectID": "cc6c3d51-faef-4516-aaf8-41b3a9409b0a",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GETDATE()",
+    "Ordinal": 10
+  },
+  {
+    "Name": "_SourceObjectId",
+    "FieldType": "Text",
+    "ObjectID": "290a9709-a70b-4a57-b0e6-6e9e95b3aae8",
+    "MaxLength": "200",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "_CreatedBy",
+    "FieldType": "Text",
+    "ObjectID": "ac9aa441-447c-4e64-875d-9a5354de2a43",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "_ModifiedDate",
+    "FieldType": "Date",
+    "ObjectID": "67c03ed6-f6dd-4b19-ad56-7bbaf41e4f7c",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GETDATE()",
+    "Ordinal": 12
+  },
+  {
+    "Name": "_ModifiedBy",
+    "FieldType": "Text",
+    "ObjectID": "66a7c99d-f085-4af2-b231-67b9f1efbfcd",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  }
+]

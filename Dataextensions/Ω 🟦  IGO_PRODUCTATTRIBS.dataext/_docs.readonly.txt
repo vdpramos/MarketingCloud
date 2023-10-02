@@ -1,0 +1,9 @@
+Dataextension name: IGO_PRODUCTATTRIBS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| attribName           | Text(1000)      | true     | true     |                 |
+| attribValue          | Text(1000)      | true     | false    |                 |
+| sku                  | Text(256)       | true     | true     |                 |
+| updated_at           | Date            | true     | false    |                 |
+| attributeValueIndex  | Number          | true     | true     |                 |

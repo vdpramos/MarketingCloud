@@ -1,0 +1,6 @@
+SELECT
+  A.CPF_CNPJ,
+  A.ID_PROPOSTA,
+  '55' + REPLACE(REPLACE(REPLACE(REPLACE(A.CELULAR, '(', ''), ')', ''), ' ', ''), '-', '') AS CELULAR
+FROM Tb_Boas_Vindas_Doadin_Prospostas A
+WHERE CELULAR IS NOT NULL

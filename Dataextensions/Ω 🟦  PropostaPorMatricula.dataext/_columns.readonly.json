@@ -1,0 +1,123 @@
+[
+  {
+    "Name": "Produto Relacionado",
+    "FieldType": "Text",
+    "ObjectID": "105dada2-80fd-4460-a20b-a966402528b4",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Código do Produto",
+    "FieldType": "Text",
+    "ObjectID": "436dd452-f9f4-431c-906a-d5b9f646ef90",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Data da Venda",
+    "FieldType": "Text",
+    "ObjectID": "afb4204d-550f-4a1c-858c-f2f688fe571a",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Vendedor",
+    "FieldType": "Text",
+    "ObjectID": "def7f444-410d-4f03-b208-5b3e63fa9fed",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Valor da Parcela",
+    "FieldType": "Text",
+    "ObjectID": "14519383-614f-4ae4-b447-b305259364fd",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Situação",
+    "FieldType": "Text",
+    "ObjectID": "b1237827-aae2-4e95-90d2-cb1c0da43320",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "Proposta: Nome da Proposta",
+    "FieldType": "Text",
+    "ObjectID": "5c62d747-b2fc-421d-9b15-d255fa9e3bda",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "Agendamento",
+    "FieldType": "Text",
+    "ObjectID": "bebaf33e-b6f6-47e2-93a4-cbfef801ce5f",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "Valor total",
+    "FieldType": "Text",
+    "ObjectID": "694491e6-cf50-49c5-b98a-976390887812",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "CPF_CNPJ Titular",
+    "FieldType": "Text",
+    "ObjectID": "4b4747c5-7a16-4a07-8957-26a4ab15d6eb",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "Quantidade",
+    "FieldType": "Text",
+    "ObjectID": "7b3c2ab1-57cf-4ec0-b90c-abcc544d9808",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  }
+]

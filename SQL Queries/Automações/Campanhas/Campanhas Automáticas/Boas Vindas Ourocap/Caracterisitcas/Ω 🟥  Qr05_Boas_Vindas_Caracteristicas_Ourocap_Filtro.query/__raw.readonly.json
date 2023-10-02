@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "250b565d-5dfa-4210-a017-0ccd1c8aa4b3",
+  "name": "Qr05_Boas_Vindas_Caracteristicas_Ourocap_Filtro",
+  "key": "28f9dbba-767c-49fd-9893-6fb7d23af56f",
+  "description": "Filtra contatos para serem contactados",
+  "queryText": "SELECT \r\n\tCPF_CNPJ,\r\n\tMAX(Nome) AS Nome,\r\n\tMAX(Id_Campanha) AS Id_Campanha,\r\n\tMAX(Id) AS Id,\r\n\tMAX(Id_Contato) AS Id_Contato,\r\n\tMAX(Id_Cliente) AS Id_Cliente,\r\n\tMAX(CONVERT(INTEGER, NAO_DESEJA_RECEBER_EMAIL)) AS NAO_DESEJA_RECEBER_EMAIL,\r\n\tMAX(CONVERT(INTEGER, NAO_DESEJA_RECEBER_SMS)) AS NAO_DESEJA_RECEBER_SMS,\r\n\tMAX(EMAIL) AS EMAIL,\r\n\tMAX(convert(integer, EMAIL_VALIDO)) AS EMAIL_VALIDO,\r\n\tMAX(CELULAR) AS CELULAR,\r\n\tMAX(convert(integer, CELULAR_VALIDO)) AS CELULAR_VALIDO,\r\n\tMAX(QUANTIDADE_TITULOS_ANTERIORES_ATIVOS) AS QUANTIDADE_TITULOS_ANTERIORES_ATIVOS,\r\n\tMAX(QUANTIDADE_TITULOS_ANTERIORES_INATIVOS) AS QUANTIDADE_TITULOS_ANTERIORES_INATIVOS,\r\n\tMAX(CREATEDDATE) AS CREATEDDATE\r\nFROM TB_BOAS_VINDAS_OUROCAP_CLIENTES_E_TITULOS\r\nWHERE NAO_IMPORTUNE = 0\r\n\tAND (\r\n\t  ( ISNULL(NAO_DESEJA_RECEBER_EMAIL, 0) = 0 AND EMAIL_VALIDO = 1 )\r\n\t  OR ( ISNULL(NAO_DESEJA_RECEBER_SMS, 0) = 0 AND CELULAR_VALIDO = 1 )\r\n\t)\r\n\tAND QUARENTENA = 0\r\nGROUP BY CPF_CNPJ",
+  "targetName": "TB_BOAS_VINDAS_OUROCAP_CLIENTES_E_TITULOS_FILTRO",
+  "targetKey": "93E3A5B1-0725-4FD6-AADD-E6B8E6609E62",
+  "targetId": "324e988d-f43f-ec11-a313-48df37342c99",
+  "targetDescription": "Base com o publico para o disparo",
+  "createdDate": "2021-11-07T12:01:52.3",
+  "modifiedDate": "2022-09-20T13:16:51.01",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 41120,
+  "isFrozen": false
+}

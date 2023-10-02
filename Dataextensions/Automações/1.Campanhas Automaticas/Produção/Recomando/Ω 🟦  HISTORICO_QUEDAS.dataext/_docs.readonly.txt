@@ -1,0 +1,5 @@
+Dataextension name: HISTORICO_QUEDAS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_PAGAMENTO         | Text(20)        | false    | false    |                 |

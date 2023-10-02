@@ -1,0 +1,11 @@
+Dataextension name: ACCOUNT_SENT_INFOS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Data_Nascimento      | Date            | false    | false    |                 |
+| CPF                  | Text(254)       | false    | false    |                 |
+| EventDate            | Date            | false    | false    |                 |
+| JobID                | Number          | false    | false    |                 |
+| Id_Contato           | Text(254)       | false    | false    |                 |
+| SubscriberKey        | Text(254)       | false    | false    |                 |
+| TriggererSendDefinitionObjectID | Text(300)       | false    | false    |                 |

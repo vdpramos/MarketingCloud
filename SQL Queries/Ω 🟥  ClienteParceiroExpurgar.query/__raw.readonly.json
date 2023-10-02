@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4d1d2e0c-fe67-42e2-ab58-f344e664520a",
+  "name": "ClienteParceiroExpurgar",
+  "key": "cf872015-07f0-4872-9363-34fd7aeb425b",
+  "description": "",
+  "queryText": "select id from ClienteParceiroSemClienteUnicoSemTitulo ",
+  "targetName": "ClienteParceiroExpurgar",
+  "targetKey": "9FDFD723-0E78-45D1-9B14-6AD631D052B4",
+  "targetId": "f5dbe083-5ba2-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-01T12:11:16.2",
+  "modifiedDate": "2023-02-01T12:11:16.2",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

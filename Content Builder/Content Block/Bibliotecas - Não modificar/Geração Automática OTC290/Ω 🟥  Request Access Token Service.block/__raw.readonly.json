@@ -1,0 +1,51 @@
+{
+  "id": 56359,
+  "customerKey": "a41fb600-c8fd-4659-8842-a44f226a5f66",
+  "objectID": "56c632f0-0aec-4a1d-abba-934fd1588992",
+  "assetType": {
+    "id": 220,
+    "name": "codesnippetblock",
+    "displayName": "Code Snippet Block"
+  },
+  "fileProperties": {
+    "fileName": "Request Access Token Service"
+  },
+  "name": "Request Access Token Service",
+  "owner": {
+    "id": 713538740,
+    "email": "matheus.leto@harpiacloud.com.br",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "createdDate": "2022-03-13T11:45:56.9-06:00",
+  "createdBy": {
+    "id": 713538740,
+    "email": "matheus.leto@harpiacloud.com.br",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "modifiedDate": "2022-09-30T16:07:34.183-06:00",
+  "modifiedBy": {
+    "id": 713538740,
+    "email": "matheus.b.leto@accenture.com",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/56359/thumbnail"
+  },
+  "category": {
+    "id": 45099,
+    "name": "Geração Automática OTC290",
+    "parentId": 45122
+  },
+  "content": "(function requestAccessToken(){\n  var tokenRequestPayload = {\n    \"grant_type\": \"password\",\n    \"client_id\": \"3MVG9LBJLApeX_PASzcm0FNrIJTo13XUlNPcmj3du6MQvcYBZKgudHh.ZfrlOM_UsGw3oJpBPPO9YUN5FAWxq\",\n    \"client_secret\": \"616AAE074260C055FC83DCF5C18A8EE10DC489AB0D3F363A495754F9BE591436\",\n    \"username\": \"integracaomktservice@accenture.com\",\n    \"password\": \"accenture@2022\"\n  };\n  var urlToken = 'https://brasilcap.my.salesforce.com/services/oauth2/token';\n  var req = new Script.Util.HttpRequest(urlToken);\n  req.emptyContentHandling = 1;\n  req.retries = 2;\n  req.continueOnError = true;\n  req.contentType = \"application/x-www-form-urlencoded\"\n  req.setHeader(\"Accept\", '*/*');\n  req.setHeader(\"Accept-Encoding\", 'gzip, deflate, br');\n  req.setHeader(\"Authorization\", auth);\n  req.method = \"POST\";\n\n  var stringifiedPayload = objectToQueryString(tokenRequestPayload);\n  req.postData = stringifiedPayload;\n  var resp = req.send();\n  \n  var response = Platform.Function.ParseJSON('' + resp.content);\n\n  function objectToQueryString(obj) {\n    var str = [];\n    for (var p in obj)\n      if (obj.hasOwnProperty(p)) {\n        str.push(encodeURIComponent(p) + \"=\" + encodeURIComponent(obj[p]));\n      }\n    return str.join(\"&\");\n  }\n\n  return response.access_token;\n})",
+  "availableViews": [],
+  "modelVersion": 2
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "IdCampanha",
+    "FieldType": "Text",
+    "ObjectID": "209b29d6-f74e-4955-bfb1-369ac9ca3777",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

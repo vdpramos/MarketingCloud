@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "aaa11b76-3c90-4cbf-8343-4f519f26be2a",
+  "name": "Qr_Separacao_Publico_Inapto_OTC290_Clientes_TMKT_ONLINE",
+  "key": "13ac1244-5490-4264-8c33-6045d543936c",
+  "description": "Guarda temporariamente o publico inapto",
+  "queryText": "SELECT\n  CPF_CNPJ,\n  COMPRA_UTIMOS_30_DIAS,\n  POSSUI_TITULO_ATIVO,\n  NAO_IMPORTUNE,\n  ID_campanha\nFROM Tb_Base_Cliente_TMKT_ONLINE\nWHERE\n NOT( /* IDADE_VALIDA = 1 */\n  /* AND CONSELHEIRO = 0 */\n  /* AND CLIENTE_PEP = 0 */\n  /* AND DESEJA_CONTATO_TELEFONICO = 0 */\n  /* AND POSSUI_TELEFONE_ATIVO = 1 */\n  /* AND POSSUI_CONTA_CORRENTE = 1 */\n  COMPRA_UTIMOS_30_DIAS = 'False' \n  AND POSSUI_TITULO_ATIVO = 'true'\n  AND QUARENTENA = 0\n  AND NAO_IMPORTUNE = 'False')",
+  "targetName": "Publico_Inapto_Clientes_TMKT_ONLINE",
+  "targetKey": "3DD178D4-EADC-42A9-9CC7-DAE41A9D82CA",
+  "targetId": "d45f1029-ff97-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Bolo durante execucao para guardar publico nao apto para o otc290",
+  "createdDate": "2023-01-19T09:20:10.173",
+  "modifiedDate": "2023-08-24T08:35:02.577",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 58189,
+  "isFrozen": false
+}

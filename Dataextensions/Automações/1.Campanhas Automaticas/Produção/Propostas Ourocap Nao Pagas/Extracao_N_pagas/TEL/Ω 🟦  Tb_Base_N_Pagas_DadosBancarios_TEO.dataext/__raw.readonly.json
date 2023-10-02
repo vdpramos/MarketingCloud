@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "659E49EB-7581-48A5-8B02-BF6E09DA1EF2"
+  ],
+  "Name": [
+    "Tb_Base_N_Pagas_DadosBancarios_TEO"
+  ]
+}

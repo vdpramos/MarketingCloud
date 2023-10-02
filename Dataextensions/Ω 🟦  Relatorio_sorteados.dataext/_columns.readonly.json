@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "CPF _ CNPJ Subscritor",
+    "FieldType": "Text",
+    "ObjectID": "6cc67708-5cbd-4480-9d4b-5d9bdb0514cd",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Nome do Subscritor",
+    "FieldType": "Text",
+    "ObjectID": "e602d269-85d8-4c23-a780-08045a7caf66",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "CPF_CNPJ_Titular",
+    "FieldType": "Text",
+    "ObjectID": "c3242593-67a9-4dda-8f93-8b76ed25de6c",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Cliente",
+    "FieldType": "Text",
+    "ObjectID": "7fff6e6c-5001-42d6-8e11-3c527696cd66",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Títulos: Nome",
+    "FieldType": "Text",
+    "ObjectID": "7904fbb8-a93a-4998-86b0-d0a0b321488c",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Proposta",
+    "FieldType": "Text",
+    "ObjectID": "a2403757-1675-426b-8977-8caa83c8c458",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "sku",
+    "FieldType": "Text",
+    "ObjectID": "7061004c-5900-4b4f-ac16-a2620fd465bc",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "cart_id",
+    "FieldType": "Text",
+    "ObjectID": "6af3dd79-3e5a-42d4-ac78-9b472f857dd6",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "price",
+    "FieldType": "Decimal",
+    "ObjectID": "7115e840-97f8-4d26-9d1e-9012746206a7",
+    "MaxLength": "18",
+    "Scale": "2",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "quantity",
+    "FieldType": "Number",
+    "ObjectID": "c5c6922d-ae08-4a8b-bcaf-4683d8fd3629",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  }
+]

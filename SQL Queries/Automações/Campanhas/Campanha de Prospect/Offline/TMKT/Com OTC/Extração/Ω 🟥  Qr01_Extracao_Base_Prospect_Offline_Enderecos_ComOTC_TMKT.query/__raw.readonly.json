@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "809caba4-8d0f-4484-92ea-8890b3b88b0e",
+  "name": "Qr01_Extracao_Base_Prospect_Offline_Enderecos_ComOTC_TMKT",
+  "key": "6c70f445-c330-4e7d-98db-10c95d383300",
+  "description": "",
+  "queryText": "SELECT DISTINCT\r\n  'TCBB' AS COD_PARCEIRO,\r\n  A.CPF,\r\n  '' AS CNPJ,\r\n  B.CEP\r\nFROM\r\n  TB_BASE_PROSPECT_OTC291_FILTRADA_TMKT A \r\n  INNER JOIN\r\n    TB_BASE_PROSPECT_COMOTC_TRATADA_TMKT B ON A.CPF = RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, B.CPF), 11)\r\n    INNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce REL ON A.CPF = REL.CPF_CNPJ_Cliente__c\r\n    INNER JOIN Contact_Salesforce C on RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, C.HC_CPF_CNPJ__c), 11) = B.CPF\r\n    INNER JOIN ACCOUNT_SALESFORCE D on C.AccountId = D.ID",
+  "targetName": "Tb_Base_Prospect_Offline_Enderecos_ComOTC_TMKT",
+  "targetKey": "759D7F14-A0C1-4198-8887-F0C09D7FDCF3",
+  "targetId": "eae97d2d-9470-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-17T06:39:56.473",
+  "modifiedDate": "2022-07-01T07:06:09.05",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29381,
+  "isFrozen": false
+}

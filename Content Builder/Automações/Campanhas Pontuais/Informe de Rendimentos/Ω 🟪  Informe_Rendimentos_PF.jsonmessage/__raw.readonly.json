@@ -1,0 +1,82 @@
+{
+  "id": 97853,
+  "customerKey": "852df167-2a9b-4daa-8bd1-d883c41b9891",
+  "objectID": "9e099e89-ff70-4ac4-a4a2-7086ebb6969e",
+  "assetType": {
+    "id": 230,
+    "name": "jsonmessage",
+    "displayName": "JSON Message"
+  },
+  "name": "Informe_Rendimentos_PF",
+  "owner": {
+    "id": 713917771,
+    "email": "sergio.souza@gft.com",
+    "name": "Sergio Souza",
+    "userId": "713917771"
+  },
+  "createdDate": "2023-05-05T07:07:41.813-06:00",
+  "createdBy": {
+    "id": 713917771,
+    "email": "sergio.souza@gft.com",
+    "name": "Sergio Souza",
+    "userId": "713917771"
+  },
+  "modifiedDate": "2023-05-05T07:24:36.23-06:00",
+  "modifiedBy": {
+    "id": 713917771,
+    "email": "sergio.souza@gft.com",
+    "name": "Sergio Souza",
+    "userId": "713917771"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/97853/thumbnail"
+  },
+  "category": {
+    "id": 62478,
+    "name": "Informe de Rendimentos",
+    "parentId": 42302
+  },
+  "views": {
+    "sMS": {
+      "thumbnail": {},
+      "content": "<!doctype html>\n<html>\n<head>\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\t<meta name=\"description\" content=\"SMS Preview\">\n\t<style>\n\t@font-face {\n\t\tfont-family: 'Roboto - Regular';\n\t\tsrc: url('https://mobilepush-device-previewer.s11.marketingcloudapps.com/fonts/Roboto-Regular.woff') format('woff');\n\t\tfont-weight: normal;\n\t\tfont-style: normal;\n\t}\n\n\thtml,\n\tbody {\n\t\tmargin: 0;\n\t\tpadding: 0;\n\t\theight: 100%;\n\t\twidth: 100%;\n\t\tfont-family: 'Roboto - Regular', sans-serif;\n\t\tbackground-color: #ECEBEA;\n\t\tline-height: 1.4;\n\t}\n\n\t.sms-previewer {\n\t\twidth: inherit;\n\t\theight: inherit;\n\t\tposition: relative;\n\t}\n\t\n\theader {\n\t\theight: 45px;\n\t\tbackground-color: #16325C;\n\t\ttext-align: center;\n\t\tcolor: #fff;\n\t\tpadding: 12px 8px 8px;\n\t}\n\t\n\t.user-icon {\n\t\twidth: 22px;\n\t\theight: 22px;\n\t\tmargin: 0 auto 4px;\n\t\tbackground: url('https://image.s8.exacttarget.com/lib/fe8e1c72746d057a70/m/1/bdf53405-b91f-461f-b82c-d4d8fbe46097.png');\n\t}\n\t\n\t.from-name {\n\t\tfont-size: 12px;\n\t}\n\n\t.sms-content-container {\n\t\tpadding: 24px 12px;\n\t}\n\n\t.text-bubble {\n\t\tposition: relative;\n\t\tpadding: 12px;\n\t\tbackground: white;\n\t\tborder-radius: 10px;\n\t\tcolor: white;\n\t\tfloat: left;\n\t\tfont-size: 14px;\n\t\tmax-width: 214px;\n\t\tmargin: 0px 54px 8px 7px;\n\t\tword-break: break-word;\n\t\t-ms-word-wrap: break-word;\n\t\tword-wrap: break-word;\n\t\twhite-space: pre-wrap;\n\t}\n\n\t.text-bubble span {\n\t\tcolor: black;\n\t}\n\n\t.text-bubble:before {\n\t\tcontent: \"\";\n\t\tposition: absolute;\n\t\tz-index: 2;\n\t\tbottom: -2px;\n\t\tleft: -7px;\n\t\theight: 20px;\n\t\tborder-left: 20px solid white;\n\t\tborder-bottom-right-radius: 16px 14px;\n\t\t-webkit-transform: translate(0, -2px);\n\t\ttransform: translate(0, -2px);\n\t}\n\n\t.text-bubble:after {\n\t\tcontent: \"\";\n\t\tposition: absolute;\n\t\tz-index: 3;\n\t\tbottom: -2px;\n\t\tleft: 4px;\n\t\twidth: 26px;\n\t\theight: 20px;\n\t\tbackground: #ecebea;\n\t\tborder-bottom-right-radius: 10px;\n\t\t-webkit-transform: translate(-30px, -2px);\n\t\ttransform: translate(-30px, -2px);\n\t}\n\n\t.clearfix:after {\n\t\tvisibility: hidden;\n\t\tdisplay: block;\n\t\tcontent: \"\";\n\t\tclear: both;\n\t\theight: 0;\n\t}\n</style>\n</head>\n<body>\n\t<div class=\"sms-previewer\">\n\t\t<header>\n\t\t\t<div class=\"user-icon\"></div>\n\t\t\t<div class=\"from-name\">[FROM NAME]</div>\n\t\t</header>\n\t\t<div class=\"sms-content-container clearfix\">\n\t\t\t<div class=\"text-bubble\"><span>Ola! Nos, da Brasilcap, disponibilizamos seu informe de rendimentos 2022 para declaracao do IRPF.\n\nCadastre-se aqui e acesse o documento.\nhttps://bit.ly/42j7amC</span></div>\n\t\t</div>\n\t</div>\n</body>\n</html>",
+      "meta": {
+        "options": {
+          "customBlockData": {
+            "channel": "sms",
+            "showTemplatePicker": false,
+            "collapsedPanels": [],
+            "stack": "S11",
+            "display:previewbycodetype": {
+              "locale": "BR",
+              "supportsConcatenation": true
+            },
+            "display:message": "Ola! Nos, da Brasilcap, disponibilizamos seu informe de rendimentos 2022 para declaracao do IRPF.\n\nCadastre-se aqui e acesse o documento.\nhttps://bit.ly/42j7amC",
+            "currentColumn": 0,
+            "display:message:display": "Ola! Nos, da Brasilcap, disponibilizamos seu informe de rendimentos 2022 para declaracao do IRPF.\n\nCadastre-se aqui e acesse o documento.\nhttps://bit.ly/42j7amC",
+            "template": "sms",
+            "contents": [],
+            "shortLinks": [
+              {
+                "originalUrl": "https://informes.brasilcap.com.br/#/cadastro",
+                "shortUrl": "https://bit.ly/42j7amC"
+              }
+            ],
+            "uncheckedPanels": []
+          }
+        }
+      },
+      "modelVersion": 2
+    }
+  },
+  "availableViews": [
+    "sMS"
+  ],
+  "modelVersion": 2
+}

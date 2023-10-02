@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "98ec1b22-7354-4a41-89e9-6d5efb940add",
+  "name": "qr_teste_OTC",
+  "key": "54f5575e-ca87-4d50-9923-fd541cf6c591",
+  "description": "",
+  "queryText": "SELECT\n  '001'+\n  REPLICATE (' ' , 9)+\n  REPLICATE ('0' , 9)+\n  '1'+\n  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, HC_CPF_CNPJ_Cliente__c), 15)+\n  LEFT(CONVERT(VARCHAR, HC_Data_Nascimento__c) + REPLICATE(' ', 8), 8)+\n  LEFT(CONVERT(VARCHAR, Name) + REPLICATE(' ', 60), 60)+\n  REPLICATE (' ' , 1)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 5)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 73)+\n  REPLICATE (' ' , 70) AS BASE\nFROM\n  ACCOUNT_SALESFORCE",
+  "targetName": "Tb_Base_OTC291_Massa_Teste",
+  "targetKey": "6B758F5B-5A7D-42E0-B281-BCA4AA90F151",
+  "targetId": "59d33a3d-f36b-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-01-29T17:10:17.87",
+  "modifiedDate": "2021-02-10T17:02:51.03",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 28566,
+  "isFrozen": false
+}

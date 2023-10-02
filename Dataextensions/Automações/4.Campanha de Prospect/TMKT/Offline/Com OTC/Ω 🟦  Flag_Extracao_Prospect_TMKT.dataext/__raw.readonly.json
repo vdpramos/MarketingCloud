@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "E5B462E9-B403-4F3A-86FF-D1B397B925D3"
+  ],
+  "Name": [
+    "Flag_Extracao_Prospect_TMKT"
+  ]
+}

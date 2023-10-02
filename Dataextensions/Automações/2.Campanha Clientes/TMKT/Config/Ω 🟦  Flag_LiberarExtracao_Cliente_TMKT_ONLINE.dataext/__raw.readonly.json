@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "445F5183-021E-46F0-96DB-4266F4875F0E"
+  ],
+  "Name": [
+    "Flag_LiberarExtracao_Cliente_TMKT_ONLINE"
+  ]
+}

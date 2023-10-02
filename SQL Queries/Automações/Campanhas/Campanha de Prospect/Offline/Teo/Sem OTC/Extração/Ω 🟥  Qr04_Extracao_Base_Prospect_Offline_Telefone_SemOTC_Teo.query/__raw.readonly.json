@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "fe66990b-4a4e-48fc-a5f8-aa4fc742e4c2",
+  "name": "Qr04_Extracao_Base_Prospect_Offline_Telefone_SemOTC_Teo",
+  "key": "b855942e-8778-488f-9354-7bb9c805a814",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  CPF,\n   '' AS CNPJ,\n  DDD_01 AS DDD,\n  TEL_01 AS TELEFONE\nFROM\n  TB_BASE_PROSPECT_SEMOTC_FILTRADA_TEO\nWHERE\n    LEN(TEL_01) >= 8\nAND LEN(DDD_01) = 2\nUNION ALL\nSELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  CPF,\n   '' AS CNPJ,\n  DDD_02 AS DDD,\n  TEL_02 AS TELEFONE\nFROM\n  TB_BASE_PROSPECT_SEMOTC_FILTRADA_TEO\nWHERE\n    LEN(TEL_02) >= 8\nAND LEN(DDD_02) = 2\nUNION ALL\nSELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  CPF,\n   '' AS CNPJ,\n  DDD_03 AS DDD,\n  TEL_03 AS TELEFONE\nFROM\n  TB_BASE_PROSPECT_SEMOTC_FILTRADA_TEO\nWHERE\n    LEN(TEL_03) >= 8\nAND LEN(DDD_03) = 2\nUNION ALL\nSELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  CPF,\n   '' AS CNPJ,\n  DDD_04 AS DDD,\n  TEL_04 AS TELEFONE\nFROM\n  TB_BASE_PROSPECT_SEMOTC_FILTRADA_TEO\nWHERE\n    LEN(TEL_04) >= 8\nAND LEN(DDD_04) = 2\nUNION ALL\nSELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  CPF,\n   '' AS CNPJ,\n  DDD_05 AS DDD,\n  TEL_05 AS TELEFONE\nFROM\n  TB_BASE_PROSPECT_SEMOTC_FILTRADA_TEO\nWHERE\n    LEN(TEL_05) >= 8\nAND LEN(DDD_05) = 2",
+  "targetName": "Tb_Base_Prospect_Offline_Telefones_SemOTC_Teo",
+  "targetKey": "ADB350A7-66B2-4DD9-9B46-F725A61B2E94",
+  "targetId": "20c93610-2471-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-25T16:59:10.533",
+  "modifiedDate": "2021-02-26T16:36:34.55",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29380,
+  "isFrozen": false
+}

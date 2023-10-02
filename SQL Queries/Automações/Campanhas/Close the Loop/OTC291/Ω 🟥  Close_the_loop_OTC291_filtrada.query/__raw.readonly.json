@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6dbb782a-0a2c-47df-a21c-9b4393d6c44c",
+  "name": "Close_the_loop_OTC291_filtrada",
+  "key": "ae467241-087c-44c7-bdac-033ceb4bd615",
+  "description": "",
+  "queryText": "SELECT\n    a.Id_contato,\n    a.Nome,\n    a.Celular_1,\n    a.Celular_2,\n    a.Celular_3,\n    a.Telefone_Brasilcap,\n    a.Telefone_comercial,\n    a.Email,\n    a.Nivel_Relacionamento,\n    a.Tipo_pagamento,\n    a.UF,\n    a.Idade,\n    a.Interacao\nFROM Close_the_loop_OTC291_tratada a\n/* CHECAGEM SE TOODS OS CONTATOS TIVERAM O OTC TRATADO */\n    LEFT OUTER JOIN ( \n      SELECT\n        COUNT(1) as CPFS_FALTANDO_NO_OTC\n      FROM Close_the_loop_preparacao_OTC_filtrada ENV\n        LEFT JOIN Close_the_loop_OTC291_tratada RET \n            ON ENV.CPF_CNPJ = RET.CPF\n      WHERE RET.CPF IS NULL \n    ) b ON 1 = 1\n    INNER JOIN Close_the_loop_preparacao_OTC_filtrada c \n        ON c.CPF_CNPJ = a.CPF\nWHERE b.CPFS_FALTANDO_NO_OTC = 0\n/* SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 */",
+  "targetName": "Close_the_loop_OTC291_filtrada",
+  "targetKey": "54D8860E-5925-4B61-AD37-F672C5C0B683",
+  "targetId": "637c6465-3870-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-29T16:52:02.207",
+  "modifiedDate": "2023-04-26T10:37:16.047",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 56142,
+  "isFrozen": false
+}

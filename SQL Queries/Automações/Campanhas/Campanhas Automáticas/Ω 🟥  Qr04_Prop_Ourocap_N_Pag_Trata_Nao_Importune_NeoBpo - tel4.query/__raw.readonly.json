@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4fab5867-e3a6-4144-a8b4-98cb8d3c8c3a",
+  "name": "Qr04_Prop_Ourocap_N_Pag_Trata_Nao_Importune_NeoBpo - tel4",
+  "key": "df21c596-a97f-4edc-bd3f-06333adee4bb",
+  "description": "",
+  "queryText": "SELECT\n\tA.CPF_CNPJ AS ID,\n\tCASE WHEN (A.CAMPANHA_NAO_IMPORTUNE = 1 AND N4.TELEFONE IS NOT NULL) THEN 1 ELSE 0 END AS NAO_IMPORTUNE\nFROM Tb_Base_Prop_Ourocap_N_Pag A\nLEFT JOIN TB_BASE_NAO_IMPORTUNE N4 ON ISNULL(CONCAT(A.DDD_TEL_04, A.TEL_04), '00000000000') = LTRIM(RTRIM(N4.TELEFONE))",
+  "targetName": "Tb_Base_Prop_Ourocap_N_Pag",
+  "targetKey": "201CC285-77BB-400D-A5C5-FE5478F92202",
+  "targetId": "56119b8e-d193-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-08-04T18:05:06.963",
+  "modifiedDate": "2021-08-04T18:05:06.963",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 31534,
+  "isFrozen": false
+}

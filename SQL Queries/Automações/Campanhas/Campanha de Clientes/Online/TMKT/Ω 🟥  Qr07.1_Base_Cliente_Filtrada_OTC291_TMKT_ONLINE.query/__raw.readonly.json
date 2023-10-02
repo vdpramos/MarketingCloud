@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "9acb6664-fa3a-4361-8015-f51a28cb4f6d",
+  "name": "Qr07.1_Base_Cliente_Filtrada_OTC291_TMKT_ONLINE",
+  "key": "9ACB6664-FA3A-4361-8015-F51A28CB4F6D",
+  "description": "Geração de contatos para a campanha",
+  "queryText": "SELECT /* top 4200 */\r\n  A.*,\r\n  C.ID_CONTATO AS CONTACTID\r\nFROM Tb_Base_Cliente_OTC291_Tratada_TMKT_ONLINE A\r\n/* CHECAGEM SE TOODS OS CONTATOS TIVERAM O OTC TRATADO */\r\nLEFT OUTER JOIN ( \r\n  SELECT\r\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\r\n  FROM Tb_Base_Cliente_Filtrada_TMKT_ONLINE ENV\r\n  LEFT JOIN Tb_Base_Cliente_OTC291_Tratada_TMKT_ONLINE RET ON ENV.CPF_CNPJ = RET.CPF\r\n  WHERE RET.CPF IS NULL \r\n) B ON 1 = 1\r\nINNER JOIN Tb_Base_Cliente_Filtrada_TMKT_ONLINE C ON C.CPF_CNPJ = A.CPF\r\nWHERE \r\n/* SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 */\r\n  B.CPFS_FALTANDO_NO_OTC = 0\r\n  /* VALIDAÇÕES POR CONTATO DO OTC */\r\n  AND A.CODIGO_RNA = '000'\r\n  AND A.ALTA_RENDA = 0\r\n  /* AND A.Nivel_Relacionamento  IN ('2112',  '2202', '2602', '02112',  '02202', '02602') */",
+  "targetName": "Tb_Base_Cliente_OTC291_Filtrada_TMKT_ONLINE",
+  "targetKey": "6CAE268A-5B0D-454C-A918-93DDA3FB79F6",
+  "targetId": "05dabc9b-e2ae-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-22T10:31:28.693",
+  "modifiedDate": "2023-02-22T10:31:28.693",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 58189,
+  "isFrozen": false
+}

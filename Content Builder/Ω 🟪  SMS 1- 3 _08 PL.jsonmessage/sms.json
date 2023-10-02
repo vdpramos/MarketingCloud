@@ -1,0 +1,17 @@
+{
+  "channel": "sms",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:previewbycodetype": {
+    "locale": "BR",
+    "supportsConcatenation": true
+  },
+  "display:message": "Caro colaborador,\nTemos a satisfacao de informar que a Diretoria aprovou a maior antecipacao de PLR da historia da BRASILCAP. O credito acontecera amanha (4/8).",
+  "currentColumn": 0,
+  "display:message:display": "Caro colaborador,\nTemos a satisfacao de informar que a Diretoria aprovou a maior antecipacao de PLR da historia da BRASILCAP. O credito acontecera amanha (4/8).",
+  "template": "sms",
+  "contents": [],
+  "shortLinks": [],
+  "uncheckedPanels": []
+}

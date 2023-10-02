@@ -1,0 +1,10 @@
+Dataextension name: JOURNEY_INFOS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CAMPANHA_JORNADA     | Text(254)       | false    | false    |                 |
+| JobID                | Number          | false    | false    |                 |
+| VersionID            | Text(254)       | false    | false    |                 |
+| CreatedDate          | Date            | false    | false    |                 |
+| LastPublishedDate    | Date            | false    | false    |                 |
+| JourneyStatus        | Text(100)       | false    | false    |                 |

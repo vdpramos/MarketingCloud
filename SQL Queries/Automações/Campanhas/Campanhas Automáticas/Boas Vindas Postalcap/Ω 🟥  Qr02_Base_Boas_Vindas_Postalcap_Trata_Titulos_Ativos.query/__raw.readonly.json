@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4e669e40-00b7-4524-9d6a-ba4efa1cc204",
+  "name": "Qr02_Base_Boas_Vindas_Postalcap_Trata_Titulos_Ativos",
+  "key": "018b523a-9d92-4d75-833b-babaf694b02b",
+  "description": "",
+  "queryText": "SELECT\r\n\tB.ID,\r\n\tSUM(CASE WHEN T.HC_SITUACAO__C = 'Ativo' THEN 1 ELSE 0 END) AS QUANTIDADE_TITULOS_ANTERIORES_ATIVOS,\r\n\tSUM(CASE WHEN T.HC_SITUACAO__C IS NULL OR T.HC_SITUACAO__C != 'Ativo' THEN 1 ELSE 0 END) AS QUANTIDADE_TITULOS_ANTERIORES_INATIVOS\r\nFROM (\r\n\tSELECT DISTINCT\r\n\t\tID,\r\n\t\tID_CLIENTE_PARCEIRO,\r\n\t\tID_CAMPANHA\r\n\tFROM TB_BOAS_VINDAS_POSTALCAP_COMOTC_NEOBPO\r\n) B\r\nINNER JOIN CAMPAIGN_SALESFORCE CS ON CS.ID = B.ID_CAMPANHA\r\nINNER JOIN HC_TITULO__C_SALESFORCE T ON T.HC_CLIENTE_X_PARCEIRO__C = B.ID_CLIENTE_PARCEIRO\r\nWHERE \r\n\tT.CREATEDDATE < CS.HC_DATA_INICIAL_DE_COMPRA__C\r\n\t/* PARCEIRO TCBV PARA POSTALCAP */\r\n\tAND T.HC_CODIGO_DO_PARCEIRO_NA_ORIGEM__C = 'TCBV'\r\nGROUP BY B.ID",
+  "targetName": "Tb_Boas_Vindas_Postalcap_ComOTC_NeoBpo",
+  "targetKey": "99B8EC07-BAEA-4770-B98F-31FD0C7262B2",
+  "targetId": "4597cd68-c9f4-eb11-a30d-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-08-03T20:07:28.723",
+  "modifiedDate": "2021-08-11T19:57:50.143",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 37321,
+  "isFrozen": false
+}

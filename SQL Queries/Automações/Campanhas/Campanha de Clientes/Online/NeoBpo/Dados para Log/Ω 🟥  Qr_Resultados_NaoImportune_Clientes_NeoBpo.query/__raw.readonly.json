@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a10bf833-8870-4b40-bb41-0601cbf32e06",
+  "name": "Qr_Resultados_NaoImportune_Clientes_NeoBpo",
+  "key": "3ddc2153-74b3-49ce-b521-8e1322cecc14",
+  "description": "Log informações de clientes que não entraram na campanha por terem flag de Nao Importune",
+  "queryText": "SELECT\r\n  B.CPF_CNPJ,\r\n  CMP.NAME AS CAMPANHA,\r\n  PAR.HC_CODIGO_DO_PARCEIRO_CAP__C AS PARCEIRO,\r\n  CONVERT(INTEGER, REL.HC_IDADE__C) AS  IDADE,\r\n  B.COMPRA_UTIMOS_30_DIAS AS COMPROU_ULTIMOS_30_DIAS,\r\n  B.CONSELHEIRO,\r\n  B.CLIENTE_PEP,\r\n  B.DESEJA_CONTATO_TELEFONICO AS NAO_DESEJA_RECEBER_LIGACOES,\r\n  B.POSSUI_TELEFONE_ATIVO,\r\n  B.POSSUI_CONTA_CORRENTE,\r\n  B.POSSUI_TITULO_ATIVO,\r\n  B.QUARENTENA,\r\n  'NÃO IMPORTUNE' AS RESULTADO,\r\n  B.NAO_IMPORTUNE\r\nFROM\r\n  TB_BASE_CLIENTE_FILTRADA_COMOTC_NEOBPO B\r\nLEFT JOIN TB_BASE_CLIENTE_COMOTC_NEOBPO EXC ON EXC.ID = B.ID\r\nLEFT JOIN CAMPAIGN_SALESFORCE CMP ON B.ID_CAMPANHA = CMP.ID\r\nLEFT JOIN HC_PARCEIRO__C_SALESFORCE PAR ON B.PARCEIRO = PAR.ID\r\nLEFT JOIN HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE REL ON B.ID_CLIENTE_PARCEIRO = REL.ID\r\nWHERE\r\n  EXC.ID IS NOT NULL\r\n  AND \r\n  (B.NAO_IMPORTUNE IS NULL OR B.NAO_IMPORTUNE = 0)\r\n  AND B.CPF_CNPJ IS NOT NULL",
+  "targetName": "Tb_Log_Resultados_de_Avaliacao",
+  "targetKey": "88231EFF-D3C6-4EF4-BE12-BA0197BC551D",
+  "targetId": "57b988f5-a2e5-eb11-a304-48df37342b90",
+  "targetDescription": "Resultados de contatos que nao foram aptos para entrar na jornada",
+  "createdDate": "2021-07-15T15:46:00.003",
+  "modifiedDate": "2021-07-22T16:09:30.057",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 36331,
+  "isFrozen": false
+}

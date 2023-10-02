@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "92401934-7DBB-40B5-A9BF-528EA30FD603"
+  ],
+  "Name": [
+    "Tb_Base_OTC291_Tratada_Validacao_Alta_Renda"
+  ]
+}

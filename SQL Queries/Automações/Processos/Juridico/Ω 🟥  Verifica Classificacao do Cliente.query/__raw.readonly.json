@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "32874742-5e07-4828-8111-4f531b5fa28a",
+  "name": "Verifica Classificacao do Cliente",
+  "key": "32874742-5E07-4828-8111-4F531B5FA28A",
+  "description": "",
+  "queryText": "select CPF_CNPJ, 'X' as Classificacao \nfrom BaseSusep_Enriquecimento ssp\nwhere exists (  select 1 from hc_titulo__c_salesforce t \n                inner join hc_relacao_cliente_parceiro__c_salesforce rc\n                    on rc.id = t.hc_subscritor__c\n                where HC_Situacao__c in ('Ativo', 'Em processo de finalização', 'Em processo de Reativação', 'Suspenso')\n                      and RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, ssp.cpf_cnpj), 15) =  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, rc.hc_cpf_cnpj__c), 15))\n        or exists ( select 1 from hc_titulo__c_salesforce t1 \n                    inner join hc_relacao_cliente_parceiro__c_salesforce rc1\n                        on rc1.id = t1.hc_subscritor__c\n                    inner join hc_pagamento__c_salesforce pg\n                        on pg.hc_titulo__c = t1.id\n                    where  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, ssp.cpf_cnpj), 15) =  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, rc1.hc_cpf_cnpj__c), 15) \n                           and pg.HC_Status_do_Pagamento__c in ('Queda', 'Queda de Prévia', 'Queda de Pagamento Liquidado', 'Bloqueado'))",
+  "targetName": "ClassificacaoPorCPF",
+  "targetKey": "E07873B3-F28E-4180-B814-D2A487D8065C",
+  "targetId": "c4f65c63-0ee5-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-04-27T09:21:06.933",
+  "modifiedDate": "2023-07-06T08:47:35.403",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 62093,
+  "isFrozen": false
+}

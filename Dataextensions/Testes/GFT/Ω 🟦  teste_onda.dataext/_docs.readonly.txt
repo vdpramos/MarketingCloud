@@ -1,0 +1,6 @@
+Dataextension name: teste_onda
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Onda                 | Text(50)        | true     | true     |                 |
+| Data                 | Date            | true     | false    | GetDate()       |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e090d257-e7c6-40fc-b722-0702e471450b",
+  "name": "Validacao_quarentena_prospect_offline_tmkt",
+  "key": "2f74805c-fa46-4436-a82a-ecc9b29ffc0c",
+  "description": "",
+  "queryText": "SELECT\r\n  a.CPF,\r\n  b.Data_Participacao_Campanha\r\nFROM TB_BASE_PROSPECT_COMOTC_TRATADA_TMKT a\r\ninner join Tb_Base_Quarentena b on a.CPF = b.CPF_CNPJ",
+  "targetName": "Validacao_quarentena_prospect_offline_tmkt",
+  "targetKey": "56AE9056-0564-4A77-A58D-15F386370CA3",
+  "targetId": "14176c3b-5e90-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2023-01-09T14:55:42.15",
+  "modifiedDate": "2023-06-01T08:47:32.763",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 54102,
+  "isFrozen": false
+}

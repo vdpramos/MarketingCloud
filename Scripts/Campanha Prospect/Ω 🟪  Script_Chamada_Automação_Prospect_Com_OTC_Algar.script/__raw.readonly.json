@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "5653b48e-2589-4e19-8923-fbcb0267b4d1",
+  "name": "Script_Chamada_Automação_Prospect_Com_OTC_Algar",
+  "key": "5b570104-0bf1-493f-9f22-d56f6a362a50",
+  "description": "",
+  "script": "<script runat=\"server\">\n\nPlatform.Load(\"Core\",\"1.1.1\");\n\nvar automationCustomerKey = \"c498cb90-fe83-45f6-9b1c-90382c0c8f04\"\n\nvar rr = Platform.Function.CreateObject(\"RetrieveRequest\");\nPlatform.Function.SetObjectProperty(rr, \"ObjectType\", \"Automation\");\nPlatform.Function.AddObjectArrayItem(rr, \"Properties\", \"ProgramID\");\nPlatform.Function.AddObjectArrayItem(rr, \"Properties\", \"CustomerKey\");\nPlatform.Function.AddObjectArrayItem(rr, \"Properties\", \"Status\");\n\nvar sfp = Platform.Function.CreateObject(\"SimpleFilterPart\");\nPlatform.Function.SetObjectProperty(sfp, \"Property\", \"CustomerKey\");\nPlatform.Function.SetObjectProperty(sfp, \"SimpleOperator\", \"equals\");\nPlatform.Function.AddObjectArrayItem(sfp, \"Value\", automationCustomerKey);\n\nPlatform.Function.SetObjectProperty(rr, \"Filter\", sfp);\n\nvar retrieveStatus = [0,0,0];\n\nvar automationResultSet = Platform.Function.InvokeRetrieve(rr, retrieveStatus);\n\nvar ObjectID = automationResultSet[0][\"ObjectID\"];\nvar Status = automationResultSet[0][\"Status\"];\n\nif (ObjectID != \"null\") {\n\n    if (Status == 2) {\n\n        var obj = Platform.Function.CreateObject(\"Automation\");\n        Platform.Function.SetObjectProperty(obj, \"ObjectID\", ObjectID);\n        var po = Platform.Function.CreateObject(\"PerformOptions\");\n\n        var performResult = [0,0,0];\n        var performStatus = Platform.Function.InvokePerform(obj, \"start\", performResult, po);\n\n    } else {\n      // already running\n\n    }\n} else {\n   // automation not found\n}\n\n</script>",
+  "categoryId": 28748,
+  "createdDate": "2021-01-05T16:06:34.443",
+  "modifiedDate": "2021-01-05T16:06:34.443"
+}

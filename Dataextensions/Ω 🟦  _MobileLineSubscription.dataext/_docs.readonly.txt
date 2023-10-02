@@ -1,0 +1,11 @@
+Dataextension name: _MobileLineSubscription
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| AddressId            | Text(100)       | true     | false    |                 |
+| ChannelId            | Text(100)       | true     | false    |                 |
+| IsSubscribed         | Boolean         | true     | false    | false           |
+| CreatedDate          | Date            | true     | false    |                 |
+| CreatedBy            | Text            | true     | false    |                 |
+| ModifiedDate         | Date            | false    | false    |                 |
+| ModifiedBy           | Text            | false    | false    |                 |

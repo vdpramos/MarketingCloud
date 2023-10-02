@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "090DE52D-4228-47E4-B3E8-1BEDBD399196"
+  ],
+  "Name": [
+    "Tb_Base_Revenda_Ourocap_Filtrada_TMTK"
+  ]
+}

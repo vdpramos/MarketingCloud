@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "47c62574-0168-47b3-974c-8426f6cdb444",
+  "name": "Close_the_loop_preparacao_OTC_filtrada",
+  "key": "dd4d830a-b08a-43e3-ad48-42e2ba54c738",
+  "description": "",
+  "queryText": "SELECT *\nFROM Close_the_loop_preparacao_OTC_tratada\nWHERE\n    Nome IS NOT NULL\n    AND\n    Data_nascimento IS NOT NULL\n    AND\n    (\n        Nao_importune = 0\n        OR\n        Nao_importune IS NULL\n    )",
+  "targetName": "Close_the_loop_preparacao_OTC_filtrada",
+  "targetKey": "1178E9E5-910F-487D-81E3-4F04B2735F8F",
+  "targetId": "8c648342-fa6c-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-12-05T11:36:01.19",
+  "modifiedDate": "2023-05-30T13:51:13.73",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 56141,
+  "isFrozen": false
+}

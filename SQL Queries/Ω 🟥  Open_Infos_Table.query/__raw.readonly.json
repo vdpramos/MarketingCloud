@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3a7d0066-79b0-4525-954f-4b8c7e03b3f1",
+  "name": "Open_Infos_Table",
+  "key": "5c883380-5da0-4758-8b05-7dfffb253b9c",
+  "description": "Informaçoes de Aberturas dos ultimos 7 dias, a partir da data do sistema",
+  "queryText": "SELECT o.SubscriberKey,\no.SubscriberID,\no.JobID,\no.EventDate,\nIIF(o.IsUnique='True',1,0) AS IsUnique\nFROM [_Open] o\nWHERE\nmonth(EventDate) = month(getdate()-1) \nand \nyear(EventDate) = year(getdate()-1)",
+  "targetName": "OPEN_INFOS",
+  "targetKey": "DDEB6322-21A3-4A0E-B0BF-049B68415BB3",
+  "targetId": "2f396723-d773-ec11-a311-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2022-01-13T06:50:30.257",
+  "modifiedDate": "2023-02-14T08:34:07.99",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

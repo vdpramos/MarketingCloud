@@ -1,0 +1,61 @@
+%%[
+ VAR @ANO, @MES, @QTDE_EMAIL, @QTDE_SMS, @QTDE_PUSH, @QTDE_PAGES
+/*****************************************************************************/
+/* Formatar Data */
+SET @DATA = Format(NOW(), "dd/MM/yyyy")
+/*****************************************************************************/
+]%%
+<table>
+<tr>
+<th>ANO</th>
+<th>MES</th>
+<th>QTDE TOTAL EMAILS ENVIADOS</th>
+<th>QTDE TOTAL SMS ENVIADOS</th>
+</tr>
+%%[
+/*****************************************************************************/
+/* Consultar dados */
+ SET @PRD1NOWS = LOOKUPROWS("Volumetria_MC","PRINT","S")
+ IF ROWCOUNT(@PRD1NOWS) > 0 THEN
+For @dadoscntr=1 to Rowcount(@PRD1NOWS) do
+SET @ANO = Field(Row(@PRD1NOWS, @dadoscntr),"ANO")
+SET @MES = Field(Row(@PRD1NOWS, @dadoscntr),"MES")
+SET @QTDE_EMAIL = Field(Row(@PRD1NOWS, @dadoscntr),"QTD_TOTAL_EMAILS")
+SET @QTDE_SMS = Field(Row(@PRD1NOWS, @dadoscntr),"QTD_TOTAL_SMS")
+
+]%%
+<tr>
+<td>%%=v(@ANO)=%%</td>
+<td>%%=v(@MES)=%%</td>
+<td>%%=v(@QTDE_EMAIL)=%%</td>
+<td>%%=v(@QTDE_SMS)=%%</td>
+</tr>
+%%[
+NEXT @dadoscntr
+ENDIF
+]%%
+</table>
+
+
+<table bgcolor="#FFFFFF" cellspacing="0" cellpadding="0" align="center" border="0" width="100%">
+                    <tr>
+                        <td valign="top" align="center" width="100%"
+                            style="font-family: arial; font-size: 13px; color: #707070; padding: 10px; line-height: 16px;">
+                            Caso não queira mais receber nossos e-mails, <a href="%%unsub_center_url%%" title=""
+                                style=" outline: none; border: none; color: #707070; text-decoration: none;"
+                                target="_blank">clique aqui</a>
+                        </td>
+                      <table cellpadding="2" cellspacing="0" width="600" ID="Table5" Border=0><tr><td><font face="verdana" size="1" color="#444444">Este e-mail foi enviado por: <b>%%Member_Busname%%</b><br>%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%<br><br></font></td></tr></table>
+                    </tr>
+                </table>
+                <!--Text-span -->
+                <custom name="opencounter" type="tracking"/>
+                <!--Spacer-10 -->
+                
+                <!--Spacer-10 -->
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+                      <a href="%%profile_center_url%%" alias="Update Profile">Update Profile</a>

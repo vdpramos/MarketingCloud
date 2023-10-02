@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "6AEFB3C9-BD2B-4AD6-AF7A-B0CDA8AF93A1"
+  ],
+  "Name": [
+    "TitulosCAP_Importar"
+  ]
+}

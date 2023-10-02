@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "90c707ca-0278-4e71-9fc1-7bd33ec9d0a5",
+  "name": "AeM_Qr_Historico_Whatsapp",
+  "key": "f913eaea-6382-4279-a4f9-dcc1094b9fa9",
+  "description": "",
+  "queryText": "SELECT\n        Id_Cliente_Parceiro,\n        TITULOS_ANTERIORES_INATIVOS,\n        Id_Contato,\n        EMAIL,\n        NAO_DESEJA_RECEBER_SMS\n        CPF_CNPJ,\n        EMAIL_VALIDO,\n        Flag_WhatsApp,\n        Nome,\n        NAO_DESEJA_RECEBER_EMAIL,\n        CELULAR,\n        locale,\n        Id_Campanha,\n        CreatedDate,\n        CELULAR_VALIDO\nFROM AeM_Boas_Vindas_Disparo WHERE Flag_WhatsApp = 'False'",
+  "targetName": "AeM_Boas_Vindas_Whatsapp_Historico",
+  "targetKey": "A530ED2B-7377-4D7A-8DFF-0F06C7C415D3",
+  "targetId": "e69df0dc-f756-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Historico de propostas ja enviadas para campanha",
+  "createdDate": "2022-10-31T15:16:14.66",
+  "modifiedDate": "2023-05-19T08:16:05.92",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 1930,
+  "isFrozen": false
+}

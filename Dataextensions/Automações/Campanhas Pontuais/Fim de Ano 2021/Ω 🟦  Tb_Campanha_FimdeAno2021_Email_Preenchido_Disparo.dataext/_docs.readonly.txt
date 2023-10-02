@@ -1,0 +1,18 @@
+Dataextension name: Tb_Campanha_FimdeAno2021_Email_Preenchido_Disparo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | true     | true     |                 |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Id_Campanha          | Text(50)        | false    | false    |                 |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |
+| Id_Cliente           | Text(50)        | false    | false    |                 |
+| Nao_Deseja_Receber_Email | Boolean         | false    | false    |                 |
+| Nao_Deseja_Receber_SMS | Boolean         | false    | false    |                 |
+| Email_Valido         | Boolean         | false    | false    |                 |
+| Celular_Valido       | Boolean         | false    | false    |                 |
+| HC_Data_Nascimento__c | Date            | false    | false    |                 |
+| EMAILADDRESS         | EmailAddress    | false    | false    |                 |
+| MOBILEPHONE          | Phone           | false    | false    |                 |
+| LOCALE               | Locale          | false    | false    |                 |

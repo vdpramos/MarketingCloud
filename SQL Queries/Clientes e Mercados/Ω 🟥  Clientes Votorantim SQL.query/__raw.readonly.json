@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e21f340a-65c2-4591-8325-867c38a0ba33",
+  "name": "Clientes Votorantim SQL",
+  "key": "E21F340A-65C2-4591-8325-867C38A0BA33",
+  "description": "",
+  "queryText": "SELECT\n    B.HC_CPF_CNPJ__c AS CPF,\n    MAX(B.HC_Nome_Cliente__c) AS Nome,\n    MAX(B.HC_Data_de_Nascimento__c) AS DataNascimento,\n    MAX(B.HC_Cidade_Res__c) AS Cidade,\n    MAX(B.HC_CEP_Res__c) AS CEP,\n    MAX(B.HC_UF_Res__c) AS UF,\n    MAX(B.HC_Tipo_de_Pessoa__c) AS TipoPessoa,\n\tMAX(B.HC_Celular_1__c) AS Celular1,\n\tMAX(B.HC_Celular_2__c) AS Celular2,\n\tMAX(CASE\n\t\t    WHEN B.HC_Celular_3__c IS NOT NULL THEN B.HC_Celular_3__c\n\t\t    WHEN B.HC_Celular_3_3__c IS NOT NULL THEN B.HC_Celular_3_3__c\n\t\t    ELSE B.HC_Celular_4__c\n\t    END) AS Celular3,\n\tMAX(B.HC_Telefone_Residencial__c) AS Fixo1,\n\tMAX(B.HC_Telefone_Comercial__c) AS Fixo2,\n\tMAX(B.HC_Telefone_Outro__c) AS Fixo3,\n\tMAX(B.HC_Email_Pessoal__c) AS EMailPessoal,\n\tMAX(B.HC_Email_Comercial__c) AS EMailComercial,\n\tMAX(B.HC_Email_Brasilcap__c) AS EMailBrasilcap,\n\tMAX(B.HC_Email_Principal__c) AS EmailPrincipal,\n\t'VOTORANTIM' AS Parceiro\nFROM  HC_Relacao_Cliente_Parceiro__c_Salesforce B\nLEFT JOIN HC_Titulo__c_Salesforce A ON A.HC_Cliente__c = B.HC_Cliente__c\nWHERE\n    A.HC_CODIGO_DO_PARCEIRO_NA_ORIGEM__C IN ('TCBV', '4')\nAND B.HC_Tipo_de_Pessoa__c = 'PF'\nAND (B.HC_Email_Pessoal__c IS NOT NULL OR B.HC_Email_Comercial__c IS NOT NULL OR B.HC_Email_Brasilcap__c IS NOT NULL)\nGROUP BY\n    B.HC_CPF_CNPJ__c",
+  "targetName": "ClientesPostacapVotorantimDE",
+  "targetKey": "67125ADC-86F2-44E7-82AA-5787912750B9",
+  "targetId": "e720b44b-1841-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "Lista de compradores para pesquisa NPS",
+  "createdDate": "2023-08-22T14:40:34.64",
+  "modifiedDate": "2023-08-22T14:41:35.07",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 65497,
+  "isFrozen": false
+}

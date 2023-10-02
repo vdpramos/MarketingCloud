@@ -1,0 +1,7 @@
+Dataextension name: ClienteParceiroSemClienteUnicoSemTitulo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| id                   | Text(50)        | false    | false    |                 |
+| cpf_cnpj             | Text(50)        | false    | false    |                 |
+| NomeCompleto         | Text(100)       | false    | false    |                 |

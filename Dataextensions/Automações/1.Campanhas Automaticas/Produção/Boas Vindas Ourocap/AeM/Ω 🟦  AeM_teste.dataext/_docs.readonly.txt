@@ -1,0 +1,7 @@
+Dataextension name: AeM_teste
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome                 | Text(50)        | false    | false    |                 |
+| Celular              | Phone           | true     | true     |                 |
+| Locale               | Text(50)        | false    | false    | BR              |

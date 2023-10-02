@@ -1,0 +1,17 @@
+select top 300 
+Id_Cliente_Parceiro,
+TITULOS_ANTERIORES_INATIVOS,
+TITULOS_ANTERIORES_ATIVOS,
+Id_Contato,
+EMAIL,
+NAO_DESEJA_RECEBER_SMS,
+CPF_CNPJ,
+EMAIL_VALIDO,
+Nome,
+NAO_DESEJA_RECEBER_EMAIL,
+CELULAR,
+Id_Campanha,
+CreatedDate,
+CELULAR_VALIDO,
+REPLACE(Flag_WhatsApp, 0, 1) AS Flag_WhatsApp
+from AeM_Boas_Vindas_Disparo

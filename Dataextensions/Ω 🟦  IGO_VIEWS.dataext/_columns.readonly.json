@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "sku",
+    "FieldType": "Text",
+    "ObjectID": "6c47f51f-c675-4ead-814a-cced9b0dd7bd",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "user_id",
+    "FieldType": "Text",
+    "ObjectID": "57200203-58ab-449c-8b40-1bbca2631eec",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "session_id",
+    "FieldType": "Text",
+    "ObjectID": "f7c50f4e-e5ed-4be3-ab8d-c220da2c3b83",
+    "MaxLength": "256",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Search",
+    "FieldType": "Text",
+    "ObjectID": "437fa04b-c7db-47e2-af40-62b5d27d4b67",
+    "MaxLength": "1000",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Timestamp",
+    "FieldType": "Date",
+    "ObjectID": "36d7c852-0e96-410c-9b0c-38d36c32831d",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

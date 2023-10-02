@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "59BD9C2E-62B3-42A2-92D0-39C01BF180C3"
+  ],
+  "Name": [
+    "Tb_Base_Quarentena_AUX"
+  ]
+}

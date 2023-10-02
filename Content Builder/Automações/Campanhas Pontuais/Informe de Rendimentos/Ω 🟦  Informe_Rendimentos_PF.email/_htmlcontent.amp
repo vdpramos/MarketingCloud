@@ -1,0 +1,314 @@
+%%[SET @fullname = Nome SET @name = Substring(@fullname,1, Subtract(IndexOf(@fullname,' '),1))]%%
+<html>
+<head>
+<title>Ourocard</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+/* CLIENT-SPECIFIC STYLES */
+
+body, table, td, a {
+ -webkit-text-size-adjust: 100%;
+ -ms-text-size-adjust: 100%;
+ -ms-line-height: exatly;
+ font-family: Arial, Helvetica, sans-serif;
+ color: #000000;
+} /* Prevent WebKit and Windows mobile changing default text sizes */
+table, td {
+ mso-table-lspace: 0pt;
+ mso-table-rspace: 0pt;
+ border-spacing: 0;
+ border-collapse: collapse;
+ mso-table-lspace: 0pt;
+ mso-table-rspace: 0pt;
+ mso-line-height: exatly;
+} /* Remove spacing between tables in Outlook 2007 and up */
+img {
+ -ms-interpolation-mode: bicubic;
+} /* Allow smoother rendering of resized image in Internet Explorer */
+/* RESET STYLES */
+img {
+ border: 0;
+ line-height: 100%;
+ outline: none;
+ text-decoration: none;
+}
+table {
+ border-collapse: collapse !important;
+}
+body {
+ height: 100% !important;
+ margin: 0 !important;
+ padding: 0 !important;
+ width: 100% !important;
+}
+p {
+ padding: 0 !important;
+ margin: 0 !important;
+}
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+ color: inherit !important;
+ text-decoration: none !important;
+ font-size: inherit !important;
+ font-family: inherit !important;
+ font-weight: inherit !important;
+ line-height: inherit !important;
+}
+/* OVERRIDE GMAIL BLUE LINKS */
+u + #body a {
+ color: inherit;
+ text-decoration: none;
+ font-size: inherit;
+ font-family: inherit;
+ font-weight: inherit;
+ line-height: inherit;
+}
+</style>
+</head>
+<body>
+
+<table width="650" border="0" align="center" cellpadding="0" cellspacing="0">
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+     <td><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/ebc79b06-7ad1-44b8-adb2-8937bb6eadad.png" style="padding:0;border:none;display:block; outline:none;" alt="O seu Informe de Rendimentos para o IRPF está disponível!">
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#fff100">
+    <tr>
+     <td><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="650" height="20" style="padding:0;border:none;display:block; outline:none;">
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#fff100">
+    
+    <tr>
+     <td width="93"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="93" height="1" style="padding:0;border:none;display:block; outline:none;"></td>
+     <td width="464" style="color:#201e1e;font-family:Arial, sans-serif;font-size:18px;line-height: 1.6em;" align="left">Olá, 
+      <strong style="color:#4964fb">%%=Propercase(@name)=%%!</strong>
+      <p style="color:#201e1e;font-family:Arial, sans-serif;font-size:18px;line-height: 1.6em;">
+      Para ajudar na declaração do IR, agora você pode 
+      baixar seu Informe de Rendimentos de forma bem rápida e simples. 
+      </p>
+      
+     </td>
+     <td width="93"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="93" height="1" style="padding:0;border:none;display:block; outline:none;"></td>
+
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#fff100">
+    <tr>
+     <td><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="650" height="20" style="padding:0;border:none;display:block; outline:none;">
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#fff100">
+    <tr>
+     <td><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/d367ef26-9f33-4edd-8796-58286cda0e53.png" width="650" height="31" style="padding:0;border:none;display:block; outline:none;">
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#fff100">
+    <tr>
+     <td><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/aa76395a-7f69-49c7-a809-c6023feeb5fd.png" width="650" height="78" style="padding:0;border:none;display:block; outline:none;">
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#0060ab">
+    
+    <tr>
+     <td width="93"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/0ab76de5-78d8-440e-8ae7-5bea56b82b52.png" style="padding:0;border:none;display:block; outline:none;"></td>
+     <td width="464">
+      <table width="464" border="0" align="center" cellpadding="0" cellspacing="0">
+       <tr>
+        <td width="43" style="color:#fbfb2e;font-family:Arial, sans-serif;font-size:24px;line-height: 1.2em;" align="left">1</td>
+        <td width="421" style="color:#ffffff;font-family:Arial, sans-serif;font-size:18px;line-height: 1.5em;" align="left">Acesse <a href="https://informes.brasilcap.com.br" target="_blank"><u style="color:#8dd7f7">informes.brasilcap.com.br</u></a></td>
+       </tr>
+       <tr>
+        <td width="43"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="43" height="10" style="padding:0;border:none;display:block; outline:none;"></td>
+        <td width="421"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="421" height="10" style="padding:0;border:none;display:block; outline:none;"></td>
+       </tr>
+       <tr valign="top">
+        <td width="43" style="color:#fbfb2e;font-family:Arial, sans-serif;font-size:24px;line-height: 1.2em;" align="left">2</td>
+        <td width="421" style="color:#ffffff;font-family:Arial, sans-serif;font-size:18px;line-height: 1.5em;" align="left">Faça um cadastro rápido informando seu CPF, data de nascimento e nome completo;</td>
+       </tr>
+       <tr>
+        <td width="43"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="43" height="10" style="padding:0;border:none;display:block; outline:none;"></td>
+        <td width="421"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="421" height="10" style="padding:0;border:none;display:block; outline:none;"></td>
+       </tr>
+       <tr valign="top">
+        <td width="43" style="color:#fbfb2e;font-family:Arial, sans-serif;font-size:24px;line-height: 1.2em;" align="left">3</td>
+        <td width="421" style="color:#ffffff;font-family:Arial, sans-serif;font-size:18px;line-height: 1.5em;" align="left">Para sua segurança, será exibida uma lista com 5 produtos de capitalização. Escolha 1 produto que você possua;
+        </td>
+       </tr>
+       <tr>
+        <td width="43"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="43" height="10" style="padding:0;border:none;display:block; outline:none;"></td>
+        <td width="421"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="421" height="10" style="padding:0;border:none;display:block; outline:none;"></td>
+       </tr>
+       <tr valign="top">
+        <td width="43" style="color:#fbfb2e;font-family:Arial, sans-serif;font-size:24px;line-height: 1.2em;" align="left">4</td>
+        <td width="421" style="color:#ffffff;font-family:Arial, sans-serif;font-size:18px;line-height: 1.5em;" align="left">Informe um e-mail válido e crie uma senha para acessar ao Portal;</td>
+       </tr>
+       <tr>
+        <td width="43"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="43" height="10" style="padding:0;border:none;display:block; outline:none;"></td>
+        <td width="421"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="421" height="10" style="padding:0;border:none;display:block; outline:none;"></td>
+       </tr>
+       <tr valign="top">
+        <td width="43" style="color:#fbfb2e;font-family:Arial, sans-serif;font-size:24px;line-height: 1.2em;" align="left">5</td>
+        <td width="421" style="color:#ffffff;font-family:Arial, sans-serif;font-size:18px;line-height: 1.5em;" align="left">Você precisará validar seu cadastro através do e-mail informado;</td>
+       </tr>
+       <tr>
+        <td width="43"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="43" height="10" style="padding:0;border:none;display:block; outline:none;"></td>
+        <td width="421"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="421" height="10" style="padding:0;border:none;display:block; outline:none;"></td>
+       </tr>
+       <tr valign="top">
+        <td width="43" style="color:#fbfb2e;font-family:Arial, sans-serif;font-size:24px;line-height: 1.2em;" align="left">6</td>
+        <td width="421" style="color:#ffffff;font-family:Arial, sans-serif;font-size:18px;line-height: 1.5em;" align="left">
+Acesse o Portal com seu login e senha, selecione o período e pronto! Seu Informe já pode ser baixado.</td>
+       </tr>
+      </table>      
+     </td>
+     <td width="93"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/8db4a219-b8b1-4be2-bd55-5ba05301f3d5.png" style="padding:0;border:none;display:block; outline:none;"></td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#fff100">
+    <tr>
+     <td><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/cc4ce34e-d22b-4357-9e89-394dc1798de8.png" width="650" height="28" style="padding:0;border:none;display:block; outline:none;">
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#035a9e">
+    
+    <tr>
+     <td width="140"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/531eba9f-ba02-4eab-afa7-4b57da0799e6.png" width="140" height="76" style="padding:0;border:none;display:block; outline:none;"></td>
+     <td width="464" style="color:#201e1e;font-family:Arial, sans-serif;font-size:15px;line-height: 1.2em;" align="center">
+      <strong style="color:#8dd7f7">Atenção!</strong>
+      <p style="color:#8dd7f7;font-family:Arial, sans-serif;font-size:15px;line-height: 1.2em;">
+      A senha de acesso ao arquivo são os 5 primeiros números do seu CPF.</p>
+      
+     </td>
+     <td width="140"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/1e6bdfbe-c483-4b4f-b264-128e896116ce.png" width="140" height="76" style="padding:0;border:none;display:block; outline:none;"></td>
+
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#fff100">
+    <tr>
+     <td><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/c131bd79-d423-40b2-8227-90a8fd58d81e.png" width="650" style="padding:0;border:none;display:block; outline:none;">
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#fff100">
+    <tr>
+     <td><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/3f9be41e-8804-47fb-937b-004037b5e3f7.png" width="93" style="padding:0;border:none;display:block; outline:none;">
+     </td>
+     <td><a href="https://informes.brasilcap.com.br" target="_blank"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/83ec09ed-a9f4-45e9-b25e-338f679b4242.png" width="464" style="padding:0;border:none;display:block; outline:none;" alt="Acesse seu Informe de Rendimentos"></a>
+     </td>
+     <td><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/2d4d86f7-1b86-4b00-9da0-9225d339f1a4.png" width="93" style="padding:0;border:none;display:block; outline:none;">
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#fff100">
+    <tr>
+     <td><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/b086535e-ca57-4c00-a931-84960f92e61f.png" width="650" style="padding:0;border:none;display:block; outline:none;">
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+    
+    <tr>
+     <td width="140"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/1c3eae05-17c5-463f-8327-bac9ba448a59.png" width="140" height="111" style="padding:0;border:none;display:block; outline:none;"></td>
+     <td width="464" style="color:#343333;font-family:Arial, sans-serif;font-size:14px;line-height: 1.8em;" align="center">Se tiver dúvidas, estamos disponíveis no telefone:<br>
+0800 729 0800.<br><br>
+      <p style="color:#343333;font-family:Arial, sans-serif;font-size:12px;line-height: 1.2em;">Deficientes auditivos ou de fala: 0800 729 0088.</p>
+      
+     </td>
+     <td width="140"><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/69c7603c-93d8-4d1b-918f-2cbe8c9ac1d2.gif" width="140" height="111" style="padding:0;border:none;display:block; outline:none;"></td>
+
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#fff100">
+    <tr>
+     <td><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/78fcfa63-e4fe-4c6c-a5de-91dbdab0b6e0.png" width="650" style="padding:0;border:none;display:block; outline:none;">
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#fff100">
+    <tr>
+     <td><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/73d18418-db37-40c6-845f-7084c3a4c83d.png" width="650" style="padding:0;border:none;display:block; outline:none;">
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#fff100">
+    <tr>
+     <td><img src="http://image.relacionamento-brasilcap.com.br/lib/fe3511717164047f701372/m/1/fbc2853a-4fd5-4f01-be40-f569587a57d7.png" width="650" style="padding:0;border:none;display:block; outline:none;">
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<custom name="opencounter" type="tracking"/>
+</body>
+</html>

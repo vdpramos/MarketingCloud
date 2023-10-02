@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "AA72CAEF-4285-42CD-BF42-0D02C4B1647F"
+  ],
+  "Name": [
+    "DOADIN_Boas_Vindas_Historico_Propostas"
+  ]
+}

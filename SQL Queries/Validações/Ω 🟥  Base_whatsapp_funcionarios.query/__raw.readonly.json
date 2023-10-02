@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "71fde18f-a322-4829-a9c9-19b0e10df3db",
+  "name": "Base_whatsapp_funcionarios",
+  "key": "71FDE18F-A322-4829-A9C9-19B0E10DF3DB",
+  "description": "",
+  "queryText": "SELECT\nNome,\nCONCAT('55', REPLACE(REPLACE(Telefone, ' ', ''), '-', '')) AS Telefone,\nCONCAT('55', REPLACE(REPLACE(Telefone, ' ', ''), '-', '')) AS ID,\n'br' AS locale\nFROM\nImport_base_whatsapp",
+  "targetName": "Base_envio_whatsapp",
+  "targetKey": "5B02D50A-E81E-4C18-BB6A-982EE6490456",
+  "targetId": "31c4ea79-92d4-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-04-06T09:50:57.77",
+  "modifiedDate": "2023-04-10T11:18:18.407",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

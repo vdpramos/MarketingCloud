@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b1a0b19b-54a7-491a-b11b-08c98b1508c4",
+  "name": "AtualizaEnvioDuploSim",
+  "key": "0c0d28f5-887a-4ed4-b7ea-4c4d704b2a32",
+  "description": "",
+  "queryText": "select CPF_CNPJ as CPF, 1 as FLG_ENVIO\nfrom PublicoAlvoDuploSimDisparo",
+  "targetName": "Tb_Base_Duplo_Sim_Nao_Aceitaram",
+  "targetKey": "84490387-C968-4BDA-A4F2-4C685EC20BF5",
+  "targetId": "22525238-6f1a-ec11-a30b-48df370eabe4",
+  "targetDescription": "Receber contatos do FTP que precisam fazer o duplo sim",
+  "createdDate": "2022-11-21T18:15:25.303",
+  "modifiedDate": "2022-11-21T18:41:55.753",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 32389,
+  "isFrozen": false
+}

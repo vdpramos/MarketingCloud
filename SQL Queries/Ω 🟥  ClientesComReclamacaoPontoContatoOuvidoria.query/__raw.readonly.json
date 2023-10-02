@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "09c04c17-e111-463d-ba07-a1313b55a24b",
+  "name": "ClientesComReclamacaoPontoContatoOuvidoria",
+  "key": "0a2bc6d3-6da0-464a-b289-63e146391670",
+  "description": "",
+  "queryText": "select concat(r.HC_CPF_CNPJ__c, r.HC_Id_Parceiro_Cap__c) as CPF_CNPJ_PARCEIRO\nfrom Case_salesforce c\ninner join HC_Relacao_Cliente_Parceiro__c_Salesforce r\n    on c.HC_Relacao_Cliente_x_Parceiro__c = r.id\nwhere c.HC_Categoria__c = 'Reclamação' \n\t  or (c.HC_Ponto_de_Contato__c = 'Ouvidoria Brasilcap')",
+  "targetName": "ClientesComReclamacaoOuvidoria",
+  "targetKey": "A25D1C6D-4E79-46E7-896E-79F2D9535888",
+  "targetId": "a154e69e-4d9a-ec11-a313-48df370ed7f5",
+  "targetDescription": "Clientes com atendimento onde o ponto de contato seja ouvidoria ou a classificação é Reclamação",
+  "createdDate": "2022-03-02T11:53:25.537",
+  "modifiedDate": "2022-03-10T12:25:16.92",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

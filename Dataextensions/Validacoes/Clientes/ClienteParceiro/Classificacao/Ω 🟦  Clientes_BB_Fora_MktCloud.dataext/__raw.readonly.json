@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "E9D85DBF-81A6-4071-B3A6-B7AD4AF99F2C"
+  ],
+  "Name": [
+    "Clientes_BB_Fora_MktCloud"
+  ]
+}

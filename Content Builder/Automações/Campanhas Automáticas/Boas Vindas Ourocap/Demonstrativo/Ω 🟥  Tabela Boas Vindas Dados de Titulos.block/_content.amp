@@ -1,0 +1,58 @@
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="1" cellpadding="5" cellspacing="1" style="width:100%;">
+ 
+  <tr>
+    <td>
+      <span style="font-size:13px;">NUMERO_DO_TITULO</span>
+    </td>
+    <td>
+      <span style="font-size:13px;">NUMERO_DA_SORTE</span>
+    </td>
+    <td>
+      <span style="font-size:13px;">VALOR_DA_PARCELA</span>
+    </td>
+    <td>
+      <span style="font-size:13px;">TERMINO_CARENCIA</span>
+    </td>
+    <td>
+      <span style="font-size:13px;">INICIO_DA_VIGENCIA</span>
+    </td>
+  </tr>
+        %%[ 
+
+var @rows, @row, @rowCount, @origem, @counter, @nome 
+
+set @rows = LookupRows('HC_TITULO__C_SALESFORCE', 'HC_CPF_CNPJ_Titular__c', CPF_CNPJ, 'HC_NUMERO_DO_TITULO__C', NUMERO_DO_TITULO)
+
+set @rowCount = rowcount(@rows) if @rowCount > 0 then for @counter = 1 to @rowCount do 
+set @row = row(@rows, @counter) 
+
+set @NUMERO_DO_TITULO = field(@row, 'HC_NUMERO_DO_TITULO__C')
+set @NUMERO_DA_SORTE = field(@row, 'HC_Numero_da_Sorte__c')
+set @VALOR_DA_PARCELA = field(@row, 'HC_Valor_da_Parcela__c')
+set @TERMINO_CARENCIA = field(@row, 'HC_Termino_Carencia__c')
+set @INICIO_DA_VIGENCIA = field(@row, 'HC_Fim_previsto__c')
+
+]%% 
+<tr>
+  <td>
+    <span style="font-size:12px;">%%=v(@NUMERO_DO_TITULO)=%%</span>
+  </td>
+  <td>
+    <span style="font-size:12px;">%%=v(@NUMERO_DA_SORTE)=%%</span>
+  </td>
+  <td>
+    <span style="font-size:12px;">%%=v(@VALOR_DA_PARCELA)=%%</span>
+  </td>
+  <td>
+    <span style="font-size:12px;">%%=Format(v(@TERMINO_CARENCIA),"dd/MM/yyyy")=%%</span>
+  </td>
+  <td>
+    <span style="font-size:12px;">%%=Format(v(@INICIO_DA_VIGENCIA),"dd/MM/yyyy")=%%</span>
+  </td>
+</tr>
+    %%[ next ]%%
+
+    
+    %%[ endif ]%%
+</table>
+    <br></td></tr></table>

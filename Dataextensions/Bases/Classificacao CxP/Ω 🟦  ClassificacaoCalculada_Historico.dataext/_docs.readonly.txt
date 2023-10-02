@@ -1,0 +1,8 @@
+Dataextension name: ClassificacaoCalculada_Historico
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID                   | Text(18)        | true     | false    |                 |
+| hc_classificacao__c  | Text(255)       | true     | false    |                 |
+| hc_classificacao__c_old | Text(255)       | true     | false    |                 |
+| Data_Inclusao        | Date            | true     | false    | GetDate()       |

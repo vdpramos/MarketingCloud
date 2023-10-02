@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "efca43aa-24d3-400c-af27-282c1fa5a82c",
+  "name": "QR_Base_Prospect_Online_Preparo_AeC",
+  "key": "EFCA43AA-24D3-400C-AF27-282C1FA5A82C",
+  "description": "",
+  "queryText": "SELECT\n  '001'+\n  REPLICATE (' ' , 9)+\n  REPLICATE ('0' , 9)+\n  '1'+\n  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, CPF), 15)+\n  CONVERT(VARCHAR(10), CAST(DATA_NASCIMENTO AS DATE), 112)+\n  LEFT(CONVERT(VARCHAR(60), NOME) + REPLICATE(' ', 60), 60)+\n  REPLICATE (' ' , 1)+\n  /*REPLICATE (' ' , 2)*/REPLICATE (' ' , 1)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 5)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 73)+\n  REPLICATE (' ' , 70) AS BASE\nFROM\n  \tTb_Base_Prospect_ComOTC_Online_Filtrada_AeC",
+  "targetName": "Tb_Base_Prospect_OTC290_Online_AeC",
+  "targetKey": "B3D0B7A6-C6F8-4BEF-97CE-3FCC182A2AC6",
+  "targetId": "e700f8e2-0c15-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-26T11:12:26.96",
+  "modifiedDate": "2023-07-14T08:40:19.85",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

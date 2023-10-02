@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "B2C97F35-899E-41D0-AC34-D55FBC1E6758"
+  ],
+  "Name": [
+    "HC_Vendas operador_ Diário_Algar"
+  ]
+}

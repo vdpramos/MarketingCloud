@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "f26621ff-28bf-407f-b1e5-d2de60b0c366",
+  "name": "Ex_Clientes_Algar_Liberar_Geracao_Publico_Inicial",
+  "key": "c69e2c84-56a1-4322-9b10-27de671de5f1",
+  "description": "",
+  "script": "<script runat=\"server\">\n// Confere se deve continuar produzindo publico pro OTC290\nPlatform(\"Core\", \"2.0\");\nvar Id_Campanha = '7016g000000NSIuAAO'; // Id da campanha de ex-cliente\nvar DE_flag_name = 'Flag_Publico_Inicial_Ex_Cliente_Algar'; // Flag_Publico_Inicial_Ex_Cliente_Algar\nvar nameDEApto = 'Publico_Apto_Ex_Clientes_Algar'\nvar nameDEInapto = 'Publico_Inapto_Ex_Clientes_Algar'\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\n\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51713') ));\n\n</script>",
+  "categoryId": 38819,
+  "createdDate": "2022-01-26T14:23:25.953",
+  "modifiedDate": "2022-03-28T11:42:49.78"
+}

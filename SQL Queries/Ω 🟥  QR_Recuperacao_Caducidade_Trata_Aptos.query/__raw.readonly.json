@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ad1d1b14-94f7-47f5-ae0f-be95a40612d2",
+  "name": "QR_Recuperacao_Caducidade_Trata_Aptos",
+  "key": "AD1D1B14-94F7-47F5-AE0F-BE95A40612D2",
+  "description": "",
+  "queryText": "SELECT\n  A.*\nFROM Tb_Recuperacao_Caducidade_Publico_Inicial A\nWHERE COMPRA_UTIMOS_30_DIAS = 'False' \n      AND POSSUI_TITULO_ATIVO = 'False'\n      AND QUARENTENA = 'False'\n      AND NAO_IMPORTUNE = 'False'\n\n\n\n\n",
+  "targetName": "Tb_Recuperacao_Caducidade_Tratada",
+  "targetKey": "5C32FFD8-05D8-4816-A721-F8B08D5CC251",
+  "targetId": "2132b274-6805-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "Base do publico inicial",
+  "createdDate": "2023-06-07T13:21:51.743",
+  "modifiedDate": "2023-08-24T12:58:59.423",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

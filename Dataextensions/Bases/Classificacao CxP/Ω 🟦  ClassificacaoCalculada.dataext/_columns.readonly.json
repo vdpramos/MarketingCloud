@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "ID",
+    "FieldType": "Text",
+    "ObjectID": "6d522ed2-c2b5-41f0-b88c-2cfdb74ff691",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "hc_classificacao__c",
+    "FieldType": "Text",
+    "ObjectID": "4c32e7b9-74c5-4636-9235-c5b8678e4d51",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "hc_classificacao__c_old",
+    "FieldType": "Text",
+    "ObjectID": "3fcac6d9-baea-4c34-9482-92d4ee5fc5af",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

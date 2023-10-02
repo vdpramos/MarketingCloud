@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "56276a23-f46f-4baa-8ba8-7504c8194241",
+  "name": "Sr_Limpar_Prospect_Teo",
+  "key": "f94916f9-3ae1-4f18-8b69-79dc40706dac",
+  "description": "Limpa base de envio para OTC e a da resposta obtida da campanha de prospect Teo para impedir execução da Jornada",
+  "script": " <script runat=server>\n  Platform.Load(\"Core\", \"1.1.5\");\n  var api = new Script.Util.WSProxy();\n\n  var BASE_OTC290_FILTRADA = \"9ED9BC7E-1F4E-4787-A3DD-7335B38EAD00\"; // DE que enviou o OTC290\n  var BASE_OTC291_TRATADA = \"D88208E4-1E4D-4900-B3DA-3E0EC6E60BFD\"; // DE que recebe o OTC291 tratado\n\n  var action = \"ClearData\";\n  var opts = {};\n  var props_BASE_OTC290_FILTRADA = {\n    CustomerKey: BASE_OTC290_FILTRADA\n  };\n\n  var props_BASE_OTC291_TRATADA = {\n    CustomerKey: BASE_OTC291_TRATADA\n  };\n  \n  api.performItem(\"DataExtension\", props_BASE_OTC290_FILTRADA, action, opts);\n  api.performItem(\"DataExtension\", props_BASE_OTC291_TRATADA, action, opts);\n\n </script>",
+  "categoryId": 38499,
+  "createdDate": "2021-08-20T20:07:41.663",
+  "modifiedDate": "2021-08-20T20:08:03.82"
+}

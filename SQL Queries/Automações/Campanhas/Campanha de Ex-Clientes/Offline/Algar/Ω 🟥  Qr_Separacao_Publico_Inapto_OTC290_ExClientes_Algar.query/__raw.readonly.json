@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "dc911371-49e9-46c3-8e6a-a0d9e0b2c9f1",
+  "name": "Qr_Separacao_Publico_Inapto_OTC290_ExClientes_Algar",
+  "key": "250393f0-076e-4e87-aae1-da4e7cc1103f",
+  "description": "Guarda temporariamente o publico inapto\n",
+  "queryText": "SELECT\n  CPF_CNPJ,\n  COMPRA_UTIMOS_30_DIAS,\n  POSSUI_TITULO_ATIVO,\n  NAO_IMPORTUNE,\n  ID_campanha,\n  CONTA_APTA\nFROM Tb_Base_Ex_Cliente_ComOTC_Algar\nWHERE\n NOT( /* IDADE_VALIDA = 1 */\n  /* AND CONSELHEIRO = 0 */\n  /* AND CLIENTE_PEP = 0 */\n  /* AND DESEJA_CONTATO_TELEFONICO = 0 */\n  /* AND POSSUI_TELEFONE_ATIVO = 1 */\n  /* AND POSSUI_CONTA_CORRENTE = 1 */\n  COMPRA_UTIMOS_30_DIAS = 0\n  AND POSSUI_TITULO_ATIVO = 0\n  /* AND QUARENTENA = 0 */\n  AND NAO_IMPORTUNE = 0\n  AND CONTA_APTA = 1)",
+  "targetName": "Publico_Inapto_Ex_Clientes_Algar",
+  "targetKey": "108C198F-D246-4D14-9B94-AEA4C16B8D90",
+  "targetId": "bd74b32e-ce7e-ec11-a317-48df37342c99",
+  "targetDescription": "Bolo durante execucao para guardar publico nao apto para o otc290",
+  "createdDate": "2022-01-26T14:58:49.54",
+  "modifiedDate": "2022-04-27T07:45:45.79",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 30784,
+  "isFrozen": false
+}

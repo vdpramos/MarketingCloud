@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "0A7ABAE7-4441-4993-AED0-B98E6F059D54"
+  ],
+  "Name": [
+    "TitulosCAP_DtUltimoResgate_Tratada"
+  ]
+}

@@ -1,0 +1,7 @@
+Dataextension name: ClientesImportar
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ_PARCEIRO    | Text(20)        | false    | false    |                 |
+| PARCEIRO             | Text(10)        | true     | false    |                 |
+| CPF_CNPJ             | Text(30)        | true     | false    |                 |

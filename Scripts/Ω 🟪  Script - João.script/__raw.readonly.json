@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "e18a74b4-13f8-46f8-8d33-652b870daf00",
+  "name": "Script - João",
+  "key": "841bc999-30a9-4120-addb-8b68ffae4f9b",
+  "description": "",
+  "script": "<script runat=\"server\">\n\n    Platform.Load(\"core\",\"1.1\");\n\n    var DE = \"DataExtensionDoJoao\"\n\n    try {\n        var obj = {\n            \"CustomerKey\" : Platform.Function.GUID(),\n            \"Name\" : DE,\n            \"Fields\" : [\n                { \"Name\" : \"Id\", \"FieldType\" : \"Number\", \"IsPrimaryKey\" : true, \"IsRequired\" : true },\n                { \"Name\" : \"Valor Parcela\", \"FieldType\" : \"Decimal\"},\n                { \"Name\" : \"Plano\", \"FieldType\" : \"Text\"},\n                { \"Name\" : \"Data Contratacao\", \"FieldType\" : \"Date\"},\n                { \"Name\" : \"Desc Periodicidade Pgto\", \"FieldType\" : \"Text\"},\n                { \"Name\" : \"Valor Nominal\", \"FieldType\" : \"Decimal\"},\n                { \"Name\" : \"Cod Situacao\", \"FieldType\" : \"Number\"},\n                { \"Name\" : \"Desc Situacao\", \"FieldType\" : \"Text\"},\n                { \"Name\" : \"Cod Papel Cliente\", \"FieldType\" : \"Number\"},\n                { \"Name\" : \"Desc Papel Cliente\", \"FieldType\" : \"Number\"}\n            ]\n        };\n        DataExtension.Add(obj);\n        Write(\"(+) O Data Extension foi criado com sucesso!\" + \"<br>\");\n    } catch (err) {\n        Write(\"(!) O Data Extension não foi criado. Erro: \" + err + \"<br>\")\n    }     \n\n</script>",
+  "categoryId": 1937,
+  "createdDate": "2020-04-15T14:28:32.52",
+  "modifiedDate": "2020-04-16T10:43:49.967"
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "470f1ab4-4df2-4a3c-b00b-ea02fd980560",
+  "name": "Qr02_Base_Revenda_Ourocap_ComOTC_Trata_Titulo_TMKT",
+  "key": "470F1AB4-4DF2-4A3C-B00B-EA02FD980560",
+  "description": "",
+  "queryText": "SELECT \n    B.ID,\n    CASE WHEN DATEDIFF(DD,C.HC_CONTRATACAO__C, GETDATE()) <= B.MESES_COMPRA_EXCLUSAO AND UPPER(D.HC_FAMILIA_DO_PRODUTO__C) = 'OUROCAP' THEN 1 ELSE 0 END AS COMPRA_RECENTE_OUROCAP\nFROM TB_BASE_REVENDA_OUROCAP_COMOTC_TMKT B\nINNER JOIN HC_TITULO__C_SALESFORCE C ON B.CPF_CNPJ = C.HC_CPF_CNPJ_Titular__c\nLEFT JOIN HC_PRODUTO__C_SALESFORCE D ON C.HC_PRODUTORELACIONADO__C = D.ID",
+  "targetName": "Tb_Base_Revenda_Ourocap_ComOTC_TMKT",
+  "targetKey": "F43D3660-29EE-439B-8163-D73C258640A8",
+  "targetId": "e6de2b5d-5b26-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-07-19T11:59:02.69",
+  "modifiedDate": "2023-07-20T08:56:46.32",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 66285,
+  "isFrozen": false
+}

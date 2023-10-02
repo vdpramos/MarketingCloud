@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "885EE5DE-D690-4131-809F-F63023D10CA4"
+  ],
+  "Name": [
+    "Tb_Base_Cliente_OTC290_TMKT_ONLINE"
+  ]
+}

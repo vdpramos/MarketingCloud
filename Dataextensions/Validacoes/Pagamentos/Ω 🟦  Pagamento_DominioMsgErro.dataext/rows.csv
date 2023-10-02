@@ -1,0 +1,105 @@
+_CustomObjectKey,HC_Codigo_de_Retorno_de_Erro__c,Descricao_do_Retorno_de_Erro__c
+107,00,Credito ou Debito Efetivado
+108,01,Insuficiência de Fundos - Débito Não Efetuado
+109,02,Crédito ou Débito Cancelado pelo Pagador/Credor
+110,03,Débito Autorizado pela Agência - Efetuado
+111,AA,Controle Inválido
+112,AB,Tipo de Operação Inválido
+113,AC,Tipo de Serviço Inválido
+114,AD,Forma de Lançamento Inválida
+115,AE,Tipo/Número de Inscrição Inválido
+116,AF,Código de Convênio Inválido
+117,AG,Agência/Conta Corrente/DV Inválido
+118,AH,Nº Seqüencial do Registro no Lote Inválido
+119,AI,Códi de Segmento de Detalhe Inválido
+120,AJ,Tipo de Movimento Inválido
+121,AK,Códi da Câmara de Compensação do Banco Favorecido/Depositário Inválido
+122,AL,Código do Banco Favorecido ou Depositário Inválido
+123,AM,Agência Mantenedora da Conta Corrente do Favorecido Inválida
+124,AN,Conta Corrente/DV do Favorecido Inválido
+125,AO,Nome do Favorecido Não Informado
+126,AP,Data Lançamento Inválido
+127,AQ,Tipo/Quantidade da Moeda Inválido
+128,AR,Valor do Lançamento Inválido
+129,AS,Aviso ao Favorecido - Identificação Inválida
+130,AT,Tipo/Número de Inscrição do Favorecido Inválido
+131,AU,Logradouro do Favorecido Não Informado
+132,AV,Nº do Local do Favorecido Não Informado
+133,AW,Cidade do Favorecido Não Informada
+134,AX,CEP/Complemento do Favorecido Inválido
+135,AY,Sigla do Estado do Favorecido Inválida
+136,AZ,Códi/Nome do Banco Depositário Inválido
+137,BA,Códi/Nome da Agência Depositária Não Informado
+138,BB,Seu Número Inválido
+139,BC,Nosso Número Inválido
+140,BD,Crédito Autorizado
+141,BE,Alteração Efetuada com Sucesso
+142,BF,Exclusão Efetuada com Sucesso
+143,BG,Agência/Conta Impedida Legalmente
+144,CA,Código de Barras - Códi do Banco Inválido
+145,CB,Código de Barras - Códi da Moeda Inválido
+146,CC,Código de Barras - Dígito Verificador Geral Inválido
+147,CD,Código de Barras - Valor do Título Inválido
+148,CE,Código de Barras -  Campo Livre Inválido
+149,CF,Valor do Documento Inválido
+150,CG,Valor do Abatimento Inválido
+151,CH,Valor do Desconto Inválido
+152,CI,Valor de Mora Inválido
+153,CJ,Valor da Multa Inválido
+154,CK,Valor do IR Inválido
+155,CL,Valor do ISS Inválido
+156,CM,Valor do IOF Inválido
+157,CN,Valor de Outras Deduções Inválido
+158,CO,Valor de Outros Acréscimos Inválido
+159,CP,Valor do INSS Inválido
+160,HA,Lote Não Aceito
+161,HB,Inscrição da Empresa Inválida para o Contrato
+162,HC,Convênio com a Empresa Inexistente/Inválido para o Contrato
+163,HD,Agência/Conta Corrente da Empresa Inexistente/Inválido para o Contrato
+164,HE,Tipo de Serviço Inválido para o Contrato
+165,HF,Conta Corrente da Empresa com Saldo Insuficiente
+166,HG,Lote de Serviço Fora de Seqüência
+167,HH,Lote de Serviço Inválido
+168,HI,Arquivo não aceito
+169,HJ,Tipo de Registro Inválido
+170,HK,Código Remessa / Retorno Inválido
+171,HL,Versão de layout inválida
+172,HM,Mutuário não identificado
+173,HN,Tipo do beneficio não permite empréstimo
+174,HO,Beneficio cessado/suspenso
+175,HP,Beneficio possui representante legal
+176,HQ,Beneficio é do tipo PA (Pensão alimentícia)
+177,HR,Quantidade de contratos permitida excedida
+178,HS,Beneficio não pertence ao Banco informado
+179,HT,Início do desconto informado já ultrapassado
+180,HU,Número da parcela inválida
+181,HV,Quantidade de parcela inválida
+182,HW,Margem consignável excedida para o mutuário dentro do prazo do contrato
+183,HX,Empréstimo já cadastrado
+184,HY,Empréstimo inexistente
+185,HZ,Empréstimo já encerrado
+186,H1,Arquivo sem trailer
+187,TA,Lote Não Aceito - Totais do Lote com Diferença
+188,YA,Título Não Encontrado
+189,YB,Identificador Registro Opcional Inválido
+190,YC,Código Padrão Inválido
+191,YD,Código de Ocorrência Inválido
+192,YE,Complemento de Ocorrência Inválido
+193,YF,Alegação já Informada
+194,ZA,Agência / Conta do Favorecido Substituída
+195,BH,Empresa não pagou salário
+196,BI,Falecimento do mutuário
+197,BJ,Empresa não enviou remessa do mutuário
+198,BK,Empresa não enviou remessa no vencimento
+199,BL,Valor da parcela inválida
+200,BM,Identificação do contrato inválida
+201,BN,Operação de Consignação Incluída com Sucesso
+202,BO,Operação de Consignação Alterada com Sucesso
+203,BP,Operação de Consignação Excluída com Sucesso
+204,BQ,Operação de Consignação Liquidada com Sucesso
+205,T1,Conta Corrente/DV do Favorecido Inválido
+206,T2,Conta Corrente/DV do Favorecido Inválido
+207,T3,Conta Corrente/DV do Favorecido Inválido
+208,T4,Conta Corrente/DV do Favorecido Inválido
+209,T6,Conta Corrente/DV do Favorecido Inválido
+210,T5,Agência Mantenedora da Conta Corrente do Favorecido Inválida

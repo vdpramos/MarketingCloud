@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "30b27d3c-6eb2-4f12-ba6e-b0f829f7d775",
+  "name": "Qr_Update_Number_Error_WhatsApp",
+  "key": "fb9ae942-4574-43ab-bff5-c66927dacfdc",
+  "description": "",
+  "queryText": "SELECT\nId_Cliente_Parceiro,\nTITULOS_ANTERIORES_INATIVOS,\nTITULOS_ANTERIORES_ATIVOS,\nId_Contato,\nEMAIL,\nNAO_DESEJA_RECEBER_SMS,\nCPF_CNPJ,\nEMAIL_VALIDO,\nFlag_WhatsApp,\nNome,\nNAO_DESEJA_RECEBER_EMAIL,\nlocale,\nId_Campanha,\nCreatedDate,\nCELULAR_VALIDO,\n'55' + REPLACE(REPLACE(REPLACE(REPLACE(CELULAR, '(', ''), ')', ''), ' ', ''), '-', '') AS CELULAR\nFROM AeM_Boas_Vindas_Disparo\nWHERE CELULAR IS NOT NULL AND CELULAR NOT LIKE '55%'",
+  "targetName": "AeM_Boas_Vindas_Disparo",
+  "targetKey": "6835A876-120E-463B-874F-67592591B5B6",
+  "targetId": "703abb9f-d34f-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "DE para disparo com WhatsApp AlvarezeMarsal",
+  "createdDate": "2022-12-20T12:43:02.49",
+  "modifiedDate": "2022-12-20T12:43:02.49",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 28566,
+  "isFrozen": false
+}

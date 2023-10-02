@@ -1,0 +1,5 @@
+Dataextension name: a
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| 12 - Disponibilidade e clareza das informaçõescaracterísticas do produto no momento da contratação | Text(50)        | true     | false    |                 |

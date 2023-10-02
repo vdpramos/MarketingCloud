@@ -1,0 +1,11 @@
+Dataextension name: _PushTag
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| _DeviceID            | Text(200)       | true     | false    |                 |
+| _APID                | Text(38)        | true     | false    |                 |
+| _Value               | Text(128)       | false    | false    |                 |
+| _CreatedDate         | Date            | true     | false    | GETDATE()       |
+| _CreatedBy           | Text            | false    | false    |                 |
+| _ModifiedDate        | Date            | true     | false    | GETDATE()       |
+| _ModifiedBy          | Text            | false    | false    |                 |

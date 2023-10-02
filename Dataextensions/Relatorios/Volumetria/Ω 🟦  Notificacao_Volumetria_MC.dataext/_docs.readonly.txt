@@ -1,0 +1,5 @@
+Dataextension name: Notificacao_Volumetria_MC
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Email                | EmailAddress    | false    | false    |                 |

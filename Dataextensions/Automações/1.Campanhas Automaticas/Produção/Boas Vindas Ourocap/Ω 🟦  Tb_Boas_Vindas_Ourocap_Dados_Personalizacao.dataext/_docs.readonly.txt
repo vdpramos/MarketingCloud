@@ -1,0 +1,11 @@
+Dataextension name: Tb_Boas_Vindas_Ourocap_Dados_Personalizacao
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(50)        | true     | true     |                 |
+| NUMERO_DO_TITULO     | Text(50)        | true     | true     |                 |
+| NUMERO_DA_SORTE      | Text(3000)      | true     | true     |                 |
+| VALOR_DA_PARCELA__C  | Decimal(18,2)   | false    | false    |                 |
+| TERMINO_CARENCIA     | Date            | false    | false    |                 |
+| INICIO_DA_VIGENCIA   | Date            | false    | false    |                 |
+| VALOR_PARCELA        | Text(50)        | false    | false    |                 |

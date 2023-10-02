@@ -1,0 +1,36 @@
+[
+  {
+    "_CustomObjectKey": "2",
+    "ID_PROPOSTA": "a0g6g000004kT2OAAU",
+    "Date": "8/19/2022 11:13:25 AM",
+    "CPF_CNPJ": "",
+    "Id_Contato": "",
+    "Id_Cliente_Parceiro": "",
+    "EMAIL_VALIDO": "",
+    "CELULAR_VALIDO": "",
+    "NAO_DESEJA_RECEBER_EMAIL": "",
+    "NAO_DESEJA_RECEBER_SMS": "",
+    "EMAIL": "",
+    "CELULAR": "",
+    "TITULOS_ANTERIORES_ATIVOS": "",
+    "TITULOS_ANTERIORES_INATIVOS": "",
+    "CreatedDate": ""
+  },
+  {
+    "_CustomObjectKey": "3",
+    "ID_PROPOSTA": "a0g6g000004kT2OAAU",
+    "Date": "8/19/2022 7:09:24 PM",
+    "CPF_CNPJ": "03055432452",
+    "Id_Contato": "0036g00001yRuDvAAK",
+    "Id_Cliente_Parceiro": "a0i6g00000ANLkNAAX",
+    "EMAIL_VALIDO": "True",
+    "CELULAR_VALIDO": "False",
+    "NAO_DESEJA_RECEBER_EMAIL": "False",
+    "NAO_DESEJA_RECEBER_SMS": "False",
+    "EMAIL": "joao382218@gmail.com",
+    "CELULAR": "",
+    "TITULOS_ANTERIORES_ATIVOS": "0",
+    "TITULOS_ANTERIORES_INATIVOS": "0",
+    "CreatedDate": ""
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "46F3AFB7-1F20-4480-A5F3-914E1D9B6FDA"
+  ],
+  "Name": [
+    "Tb_Base_OTC291_Tratada"
+  ]
+}

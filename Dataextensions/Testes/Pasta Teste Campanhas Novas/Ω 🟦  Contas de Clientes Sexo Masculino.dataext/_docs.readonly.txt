@@ -1,0 +1,20 @@
+Dataextension name: Contas de Clientes Sexo Masculino
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CreatedById          | Text(18)        | false    | false    |                 |
+| HC_CPF_CNPJ__c       | Text(255)       | false    | false    |                 |
+| HC_Data_Nascimento__c | Text(255)       | false    | false    |                 |
+| HC_Id_Plano__c       | Text(255)       | false    | false    |                 |
+| HC_Id_Produto__c     | Text(255)       | false    | false    |                 |
+| HC_Id_Proposta__c    | Text(255)       | false    | false    |                 |
+| HC_Id_Serie__c       | Text(255)       | false    | false    |                 |
+| HC_Id_Titulo__c      | Text(255)       | false    | false    |                 |
+| HC_Sexo__c           | Text(255)       | false    | false    |                 |
+| HC_Tipo_Cliente__c   | Text(255)       | false    | false    |                 |
+| Id                   | Text(18)        | true     | true     |                 |
+| LastModifiedById     | Text(18)        | false    | false    |                 |
+| MasterRecordId       | Text(18)        | false    | false    |                 |
+| Name                 | Text(255)       | false    | false    |                 |
+| OwnerId              | Text(18)        | false    | false    |                 |
+| ParentId             | Text(18)        | false    | false    |                 |

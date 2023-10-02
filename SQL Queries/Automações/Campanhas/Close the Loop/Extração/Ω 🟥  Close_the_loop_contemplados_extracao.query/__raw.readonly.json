@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ef8a47a4-0a67-4fcd-9d35-5131415f62ee",
+  "name": "Close_the_loop_contemplados_extracao",
+  "key": "6f465c55-b50a-4689-9132-d542f5d4f527",
+  "description": "",
+  "queryText": "SELECT *,\n    (SELECT MAX(Onda) FROM Close_the_loop_controle_ondas) AS Onda\nFROM Close_the_loop_OTC291_filtrada\nWHERE\n    Interacao = 'Contemplados'",
+  "targetName": "Close_the_loop_contemplados_extracao",
+  "targetKey": "1437EA77-351B-4C2D-B48E-22E8AFE3A188",
+  "targetId": "40f550f5-e270-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-29T17:03:29.223",
+  "modifiedDate": "2023-04-26T10:37:51.753",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 56143,
+  "isFrozen": false
+}

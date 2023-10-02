@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "EF64561E-423E-4E0B-B348-7436E40A1795"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_Clientes_ComOTC_TMKT"
+  ]
+}

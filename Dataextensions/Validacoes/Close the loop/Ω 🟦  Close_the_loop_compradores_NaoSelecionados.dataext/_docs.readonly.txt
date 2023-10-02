@@ -1,0 +1,22 @@
+Dataextension name: Close_the_loop_compradores_NaoSelecionados
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Id_contato           | Text(50)        | true     | true     |                 |
+| Id_cliente_parceiro  | Text(50)        | true     | false    |                 |
+| CPF_CNPJ             | Text(50)        | false    | false    |                 |
+| Nome                 | Text(100)       | false    | false    |                 |
+| Celular_1            | Text(50)        | false    | false    |                 |
+| Celular_2            | Text(50)        | false    | false    |                 |
+| Celular_3            | Text(50)        | false    | false    |                 |
+| Telefone_Brasilcap   | Text(50)        | false    | false    |                 |
+| Telefone_comercial   | Text(50)        | false    | false    |                 |
+| Email                | Text(100)       | false    | false    |                 |
+| Nivel_relacionamento | Text(50)        | false    | false    |                 |
+| Tipo_pagamento       | Text(50)        | false    | false    |                 |
+| UF                   | Text(50)        | false    | false    |                 |
+| Idade                | Text(50)        | false    | false    |                 |
+| Data_nascimento      | Date            | false    | false    |                 |
+| Id_titulo            | Text(50)        | false    | false    |                 |
+| Inicio               | Date            | false    | false    |                 |
+| CPF                  | Text(50)        | false    | false    |                 |

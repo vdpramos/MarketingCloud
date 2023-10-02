@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4fdbf16e-d326-418a-9022-0cf0c94ded3c",
+  "name": "Qr05_Prop_Ourocap_N_Pag_Filtrada",
+  "key": "c3b58071-d35d-4091-9928-c36a89a97623",
+  "description": "Filtra contatos para envio OTC290",
+  "queryText": "SELECT\nb.*\nFROM\nTb_Base_Prop_Ourocap_N_Pag b\nWHERE\n/* IDADE_VALIDA = 1 */\n/* AND CONSELHEIRO = 0 */\n/* AND CLIENTE_PEP = 0 */\n/* AND DESEJA_CONTATO_TELEFONICO = 0 */\n/* AND POSSUI_CONTA_CORRENTE = 1 */\nPOSSUI_TELEFONE_ATIVO = 1\nAND QUARENTENA = 0\n/* AND INATIVIDADE = 0 */\nAND NAO_IMPORTUNE = 0\n\n",
+  "targetName": "Tb_Base_Prop_Ourocap_N_Pag_Filtrada",
+  "targetKey": "1ABC6D1D-5C59-4B9A-A1A6-05EA7DCBE6A4",
+  "targetId": "2c44c89c-8a07-ec11-a30b-48df370eabe4",
+  "targetDescription": "Base filtradad para o envio OTC290",
+  "createdDate": "2021-08-27T17:07:02.76",
+  "modifiedDate": "2022-12-01T08:02:49.907",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 33115,
+  "isFrozen": false
+}

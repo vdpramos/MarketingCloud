@@ -1,0 +1,8 @@
+Dataextension name: Extracao
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| id                   | Text(50)        | false    | false    |                 |
+| HC_Termino_Carencia__c | Text(50)        | false    | false    |                 |
+| HC_Carencia__c       | Text(50)        | false    | false    |                 |
+| HC_Fim_previsto__c   | Text(50)        | false    | false    |                 |

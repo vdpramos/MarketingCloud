@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "4ef6eca8-4d96-464d-831c-0962e08cc06e",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "DATA_NASCIMENTO",
+    "FieldType": "Text",
+    "ObjectID": "ef2d57ee-b3fc-4a33-92ec-22a6f610c05e",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "SEXO",
+    "FieldType": "Text",
+    "ObjectID": "e14dc889-5913-4a1a-9502-9d95fa1f4090",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

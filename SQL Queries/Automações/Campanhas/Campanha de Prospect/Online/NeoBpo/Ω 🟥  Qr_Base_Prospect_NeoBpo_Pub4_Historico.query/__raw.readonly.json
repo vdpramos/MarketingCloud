@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2b721504-46af-42c3-b768-4248468e8c8b",
+  "name": "Qr_Base_Prospect_NeoBpo_Pub4_Historico",
+  "key": "2B721504-46AF-42C3-B768-4248468E8C8B",
+  "description": "",
+  "queryText": "SELECT DISTINCT\r\n    CPF AS CPF,\r\n    ID_CAMPANHA,\r\n    GETDATE() AS DATA_CAMPANHA,\r\n    'DISCADOR' AS CANAL\r\nFROM Tb_Base_Prospect_OTC291_Online_Filtrada_NeoBpo_Pub4",
+  "targetName": "Tb_Campanhas_Prospect_Historico",
+  "targetKey": "8CBC59B1-3114-4045-A13F-B4D4D25B4EF8",
+  "targetId": "fbcc626f-6c44-eb11-a2f2-48df370ed7f4",
+  "targetDescription": "",
+  "createdDate": "2023-05-11T14:13:13.7",
+  "modifiedDate": "2023-05-11T14:13:13.7",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 40743,
+  "isFrozen": false
+}

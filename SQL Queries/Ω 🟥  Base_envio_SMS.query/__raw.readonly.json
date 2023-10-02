@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "5751effd-b7ee-4276-997e-6c1eb02c5823",
+  "name": "Base_envio_SMS",
+  "key": "747a8751-a9aa-4141-b372-a541ece2c7d8",
+  "description": "",
+  "queryText": "SELECT\nNOME,\nCONCAT('55',A.TELEFONE) AS TELEFONE,\n'pt-br' as locale,\nCASE WHEN B.SUBSCRIBERKEY IS NOT NULL THEN B.SUBSCRIBERKEY\n    ELSE CONCAT('55',A.TELEFONE)\n    END AS ID\nFROM    BASE_ENVIO_SMS A\nLEFT JOIN _SMSSubscriptionLog B ON MobileNumber = CONCAT('55',A.TELEFONE)",
+  "targetName": "Base_envio_SMS_Tratada",
+  "targetKey": "0A597972-D80D-4102-AFF0-E63FD3EBA1F4",
+  "targetId": "4936c7f4-450f-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2022-07-29T12:03:19.86",
+  "modifiedDate": "2022-07-29T12:03:19.86",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

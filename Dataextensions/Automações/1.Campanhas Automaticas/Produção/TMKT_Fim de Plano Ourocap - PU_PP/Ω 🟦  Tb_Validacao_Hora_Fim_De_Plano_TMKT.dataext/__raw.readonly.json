@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "1F8E0F64-1028-4212-A157-64A6C7C92203"
+  ],
+  "Name": [
+    "Tb_Validacao_Hora_Fim_De_Plano_TMKT"
+  ]
+}

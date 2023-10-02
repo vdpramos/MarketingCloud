@@ -1,0 +1,20 @@
+Dataextension name: SMS_INFOS_REPORT_CUMULATIVO
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| SubscriberKey        | Text(50)        | false    | false    |                 |
+| MobileMessageTrackingID | Text(50)        | true     | true     |                 |
+| MessageID            | Text(50)        | false    | false    |                 |
+| TEL_CELULAR          | Text(50)        | false    | false    |                 |
+| CPF                  | Text(20)        | false    | false    |                 |
+| CAMPANHA_JORNADA     | Text(300)       | false    | false    |                 |
+| SUBJECT              | Text(300)       | false    | false    |                 |
+| DT_NASCIMENTO        | Date            | false    | false    |                 |
+| DT_INICIO            | Date            | false    | false    |                 |
+| DT_FIM               | Date            | false    | false    |                 |
+| DT_ENVIO             | Date            | false    | false    |                 |
+| DT_ENTREGA           | Date            | false    | false    |                 |
+| ENTREGUE             | Boolean         | false    | false    |                 |
+| BOUNCE               | Boolean         | false    | false    |                 |
+| OPTOUT               | Boolean         | false    | false    |                 |
+| JBACTIVITYID         | Text(50)        | false    | false    |                 |

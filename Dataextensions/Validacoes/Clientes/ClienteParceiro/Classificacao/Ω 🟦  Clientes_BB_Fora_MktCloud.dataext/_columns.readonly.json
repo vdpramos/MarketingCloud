@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "HC_CPF_CNPJ__C",
+    "FieldType": "Text",
+    "ObjectID": "22d383c1-47fa-4d60-8f24-785b5137b9fa",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Contato_no_Marketing__c",
+    "FieldType": "Boolean",
+    "ObjectID": "d682bb19-4e51-4c36-b9ab-f3bdb3c193f3",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

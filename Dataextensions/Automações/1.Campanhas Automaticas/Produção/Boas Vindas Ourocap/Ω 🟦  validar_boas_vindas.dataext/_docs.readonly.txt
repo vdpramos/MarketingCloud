@@ -1,0 +1,18 @@
+Dataextension name: validar_boas_vindas
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | true     | true     |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |
+| Id_Cliente_Parceiro  | Text(20)        | false    | false    |                 |
+| Id_Campanha          | Text(50)        | false    | false    |                 |
+| NAO_DESEJA_RECEBER_EMAIL | Boolean         | false    | false    |                 |
+| NAO_DESEJA_RECEBER_SMS | Boolean         | false    | false    |                 |
+| EMAIL                | EmailAddress    | false    | false    |                 |
+| EMAIL_VALIDO         | Boolean         | false    | false    |                 |
+| CELULAR              | Phone           | false    | false    |                 |
+| CELULAR_VALIDO       | Boolean         | false    | false    |                 |
+| TITULOS_ANTERIORES_ATIVOS | Number          | false    | false    | 0               |
+| TITULOS_ANTERIORES_INATIVOS | Number          | false    | false    | 0               |
+| Nome                 | Text(200)       | false    | false    |                 |
+| CreatedDate          | Date            | false    | false    |                 |

@@ -1,0 +1,18 @@
+Dataextension name: _MobileSubscription
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| _SubscriptionDefinitionID | Text(200)       | true     | false    |                 |
+| _MobileNumber        | Text(15)        | true     | false    |                 |
+| _OptOutStatusID      | Text            | false    | false    |                 |
+| _OptOutMethodID      | Text            | false    | false    |                 |
+| _OptOutDate          | Date            | false    | false    |                 |
+| _OptInStatusID       | Text            | true     | false    |                 |
+| _OptInMethodID       | Text            | false    | false    |                 |
+| _OptInDate           | Date            | false    | false    |                 |
+| _Source              | Text            | false    | false    |                 |
+| _CreatedDate         | Date            | true     | false    | GETDATE()       |
+| _SourceObjectId      | Text(200)       | false    | false    |                 |
+| _CreatedBy           | Text            | false    | false    |                 |
+| _ModifiedDate        | Date            | true     | false    | GETDATE()       |
+| _ModifiedBy          | Text            | false    | false    |                 |

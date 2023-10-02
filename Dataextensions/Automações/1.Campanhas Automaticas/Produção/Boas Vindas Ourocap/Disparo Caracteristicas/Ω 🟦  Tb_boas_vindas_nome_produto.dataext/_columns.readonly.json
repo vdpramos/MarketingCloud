@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "43852960-3c08-44ce-9d62-8df375d9a983",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Plano_do_Titulo",
+    "FieldType": "Text",
+    "ObjectID": "fd0be07c-758c-41eb-a9cf-8bf053f95aa5",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Nome_produto",
+    "FieldType": "Text",
+    "ObjectID": "fe6a82db-28c4-4631-82a8-12dc657adb10",
+    "MaxLength": "254",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

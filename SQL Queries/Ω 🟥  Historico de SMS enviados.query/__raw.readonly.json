@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "d409d7ab-1a0d-492a-9a67-afe23119fc9c",
+  "name": "Historico de SMS enviados",
+  "key": "79cbf39e-7d8b-445a-a0c4-cddefef270a2",
+  "description": "Grava informações de SMS enviados na Data Extension de histórico",
+  "queryText": "select NOMECOMPLETO, \n        NOMEALERTA, \n        EMAIL, \n        TELEFONE, \n        GTALK, \n        FACEBOOK, \n        TWITTER, \n        JABBER, \n        PIN, \n        TAG, \n        PRIMEIRO_NOME, \n        CPF, \n        ESTADO, \n        SIT_CAD, \n        FLAG, \n        MENSAGEM\nfrom duploSim",
+  "targetName": "DuploSim_Historico",
+  "targetKey": "E9307B4D-A6B5-49FE-9469-E3D525C2582D",
+  "targetId": "7b344bec-5031-ec11-a30b-48df37342b90",
+  "targetDescription": "Armazena histórico de informações de SMS enviados",
+  "createdDate": "2021-10-19T21:02:52.747",
+  "modifiedDate": "2021-10-19T21:02:52.747",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 1930,
+  "isFrozen": false
+}

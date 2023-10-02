@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "B75CBD8C-EF7E-4000-A20A-6AC9A247D913"
+  ],
+  "Name": [
+    "Prop_Ourocap_N_Pag_Offline_Jornada"
+  ]
+}

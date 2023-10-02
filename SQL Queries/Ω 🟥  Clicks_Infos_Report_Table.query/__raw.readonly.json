@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "f62cb9e2-4373-4804-bee2-15da278d707d",
+  "name": "Clicks_Infos_Report_Table",
+  "key": "5216a310-77fb-4ab0-a371-8c14a03aaf59",
+  "description": "Quantidade de clicks por SubscriberKey - cliente dos ultimos 7 dias",
+  "queryText": "SELECT c.SubscriberKey, j.EmailName AS Campanha, COUNT(c.EventDate) AS Qtde_Clicks, c.JobID AS JobID\nFROM CLICK_INFOS c\nLEFT JOIN [_Job] j\nON j.JobID=c.JobID\nGROUP BY c.SubscriberKey, j.EmailName, c.JobID\nORDER BY j.EmailName\nOFFSET 0 ROWS\n \n ",
+  "targetName": "CLICKS_INFOS_REPORT",
+  "targetKey": "5F92946E-BA6C-443D-80A5-C2BD5089DF84",
+  "targetId": "c6ced79a-9774-ec11-a311-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2022-01-13T11:43:31.073",
+  "modifiedDate": "2023-02-14T08:34:19.653",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

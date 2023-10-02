@@ -1,0 +1,147 @@
+{
+  "display:message:format": "text",
+  "display:languages:content": {
+    "pT_BR": {
+      "display:components": [
+        "message"
+      ],
+      "display:message": "Olá, ${1}! 😄\n\nGostou da novidade? Agora eu também estou por aqui.\n\nEnvie uma mensagem para: 21 3003-2903 e veja os serviços de atendimento disponíveis.\n\nAcesse a intranet para saber mais! 💛💙",
+      "display:message:parameters": {
+        "1": {
+          "display:argument:name": "1",
+          "display:argument:format": "text",
+          "display:argument": "%%[SET @fullname = Nome SET @name = Substring(@fullname,1, Subtract(IndexOf(@fullname,' '),1))]%% %%=Propercase(@name)=%%"
+        }
+      }
+    }
+  },
+  "channel": "whatsapptemplate",
+  "showTemplatePicker": false,
+  "templateName": "notificacao_whatsapp_funcionarios",
+  "collapsedPanels": [],
+  "display:lang": "PT_BR",
+  "stack": "S11",
+  "display:components": [
+    "message"
+  ],
+  "display:message": "Olá, ${1}! 😄\n\nGostou da novidade? Agora eu também estou por aqui.\n\nEnvie uma mensagem para: 21 3003-2903 e veja os serviços de atendimento disponíveis.\n\nAcesse a intranet para saber mais! 💛💙",
+  "currentColumn": 0,
+  "selectedTemplate": {
+    "display:components": [
+      "message"
+    ],
+    "display:message": "Olá, ${1}! 😄\n\nGostou da novidade? Agora eu também estou por aqui.\n\nEnvie uma mensagem para: 21 3003-2903 e veja os serviços de atendimento disponíveis.\n\nAcesse a intranet para saber mais! 💛💙",
+    "display:message:parameters": {
+      "1": {
+        "display:argument:name": "1",
+        "display:argument:format": "text",
+        "display:argument": "%%[SET @fullname = Nome SET @name = Substring(@fullname,1, Subtract(IndexOf(@fullname,' '),1))]%% %%=Propercase(@name)=%%"
+      }
+    }
+  },
+  "display:message:parameters": {
+    "1": {
+      "display:argument:name": "1",
+      "display:argument:format": "text",
+      "display:argument": "%%[SET @fullname = Nome SET @name = Substring(@fullname,1, Subtract(IndexOf(@fullname,' '),1))]%% %%=Propercase(@name)=%%"
+    }
+  },
+  "template": {
+    "modifiedBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "customerKey": "ba21a17f-22c5-401d-841d-2558db495ebb",
+    "availableViews": [
+      "whatsAppTemplate"
+    ],
+    "model": {
+      "id": 235,
+      "fileExtension": "",
+      "name": "JSON Message Template",
+      "key": "jsonmessagetemplate",
+      "parentAssetTypeID": 4,
+      "createdDate": "2020-06-29T12:25:11-06:00",
+      "modifiedDate": "2020-06-29T12:25:11-06:00",
+      "isCDNPublishable": false
+    },
+    "assetType": {
+      "id": 235,
+      "name": "jsonmessagetemplate",
+      "displayName": "jsonmessagetemplate"
+    },
+    "name": "WHATSAPP-notificacao_whatsapp_funcionarios",
+    "thumbnail": {
+      "thumbnailUrl": "/v1/assets/94742/thumbnail"
+    },
+    "views": {
+      "whatsAppTemplate": {
+        "content": "",
+        "meta": {
+          "options": {
+            "customBlockData": {
+              "display:languages:content": {
+                "pT_BR": {
+                  "display:components": [
+                    "message"
+                  ],
+                  "display:message": "Olá, ${1}! 😄\n\nGostou da novidade? Agora eu também estou por aqui.\n\nEnvie uma mensagem para: 21 3003-2903 e veja os serviços de atendimento disponíveis.\n\nAcesse a intranet para saber mais! 💛💙",
+                  "display:message:parameters": {
+                    "1": {
+                      "display:argument:name": "1",
+                      "display:argument:format": "text",
+                      "display:argument": "%%[SET @fullname = Nome SET @name = Substring(@fullname,1, Subtract(IndexOf(@fullname,' '),1))]%% %%=Propercase(@name)=%%"
+                    }
+                  }
+                }
+              },
+              "channel": "WHATSAPP",
+              "templateName": "notificacao_whatsapp_funcionarios",
+              "display:lang": "PT_BR",
+              "display:languages:approved": [
+                "PT_BR"
+              ],
+              "template": "template",
+              "containerId": "106212288893473",
+              "category": "MARKETING"
+            }
+          }
+        },
+        "modelVersion": 2
+      }
+    },
+    "modelVersion": 2,
+    "status": {
+      "id": 1,
+      "name": "Draft"
+    },
+    "owner": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "memberId": 514002572,
+    "createdDate": "2023-04-10T14:15:37-06:00",
+    "modifiedDate": "2023-04-10T14:15:37-06:00",
+    "objectID": "e7245b3f-246c-4a51-a068-92f7101f24fa",
+    "id": 94742,
+    "enterpriseId": 514002572,
+    "category": {
+      "id": 1942,
+      "name": "Content Builder",
+      "parentId": 0
+    },
+    "createdBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    }
+  },
+  "contents": [],
+  "uncheckedPanels": [],
+  "category": "MARKETING"
+}

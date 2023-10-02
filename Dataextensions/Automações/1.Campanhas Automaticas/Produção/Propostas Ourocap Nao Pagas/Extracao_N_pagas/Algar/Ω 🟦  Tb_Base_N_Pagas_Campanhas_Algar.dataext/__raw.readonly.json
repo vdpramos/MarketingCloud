@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "CBF1CB4F-A274-4E2E-8BFB-65BAFE44B0C9"
+  ],
+  "Name": [
+    "Tb_Base_N_Pagas_Campanhas_Algar"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "D8B4FF7B-884D-4E39-A35A-E1A0709E2156"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_SemOTC_Teo"
+  ]
+}

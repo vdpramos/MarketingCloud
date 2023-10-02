@@ -1,0 +1,4 @@
+Select rtrim(left(coalesce(CAST(t.id as char(255)),'<null>'), 255)) as id, rtrim(left(coalesce(CAST(t.HC_Termino_Carencia__c as char(255)),'<null>'), 255)) as HC_Termino_Carencia__c, rtrim(left(coalesce(CAST(t.HC_Carencia__c as char(255)),'<null>'), 255)) as HC_Carencia__c, rtrim(left(coalesce(CAST(t.HC_Fim_previsto__c as char(255)),'<null>'), 255)) as HC_Fim_previsto__c from contact_Salesforce c
+inner join HC_Relacao_Cliente_Parceiro__c_Salesforce cp on cp.CPF_CNPJ_Cliente__c = c.HC_CPF_CNPJ__c
+inner join HC_Titulo__c_Salesforce t on t.HC_Cliente_x_Parceiro__c= cp.id
+where  c.id = '0036g00001Pub2eAAB'

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1847ea66-1008-4af0-ad3c-27e64f4ed131",
+  "name": "Qr08_Base_Proposta_Online_Historico",
+  "key": "c9615b65-6fb2-4ea8-98f4-02b64689a896",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n    CPF AS CPF,\n    ID_CAMPANHA,\n    GETDATE() AS DATA_CAMPANHA,\n    'DISCADOR' AS CANAL\nFROM \n    Prop_Ourocap_N_Pag_OTC291_Filtrada",
+  "targetName": "Tb_Campanhas_Proposta_Historico",
+  "targetKey": "F2F825B3-993F-4D0D-B90E-F486F9166169",
+  "targetId": "8c8d4325-98a3-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-22T12:37:42.19",
+  "modifiedDate": "2021-04-22T12:37:42.19",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 31534,
+  "isFrozen": false
+}

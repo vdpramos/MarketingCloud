@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "0098D918-9E8B-40BE-A541-A1244D445EDA"
+  ],
+  "Name": [
+    "TB_BOAS_VINDAS_OUROCAP_CARACTERISTICAS_QUARENTENA"
+  ]
+}

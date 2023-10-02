@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "92A70320-19F1-487C-8849-82780CED0105"
+  ],
+  "Name": [
+    "Tb_Base_Ex_Clientes_Offline_Produtos_ComOTC_Algar"
+  ]
+}

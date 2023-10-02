@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "8FCDD4BE-30F2-49E1-973B-2BC479F1821D"
+  ],
+  "Name": [
+    "Tb_Base_Duplo_Sim_Propostas_Comunicadas"
+  ]
+}

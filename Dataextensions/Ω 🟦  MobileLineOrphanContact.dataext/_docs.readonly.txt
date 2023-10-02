@@ -1,0 +1,10 @@
+Dataextension name: MobileLineOrphanContact
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| AddressId            | Text(100)       | true     | false    |                 |
+| ContactID            | Text            | true     | false    |                 |
+| ContactKey           | Text(254)       | true     | false    |                 |
+| Source               | Text(50)        | true     | false    |                 |
+| CreatedDate          | Date            | true     | false    | GETDATE()       |
+| CreatedBy            | Text            | true     | false    |                 |

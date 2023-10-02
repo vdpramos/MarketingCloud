@@ -1,0 +1,6 @@
+Dataextension name: ValidaUltimosResgatesPublicoAlvo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(50)        | false    | false    |                 |
+| ULTIMO_RESGATE       | Text(255)       | false    | false    |                 |

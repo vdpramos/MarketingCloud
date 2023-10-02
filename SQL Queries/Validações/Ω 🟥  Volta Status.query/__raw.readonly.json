@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6749bf6a-b837-42cb-b740-e821dbeba698",
+  "name": "Volta Status",
+  "key": "6749BF6A-B837-42CB-B740-E821DBEBA698",
+  "description": "",
+  "queryText": "select st.id, st.HC_SITUACAO__C \nfrom Backup_status_titulos_20230623 st\ninner join hc_titulo__c_salesforce ti\n    on ti.id = st.id\nwhere ti.LastModifiedById = '0056g000004vdnQAAQ'\n    and ti.HC_SITUACAO__C = st.HC_SITUACAO__C",
+  "targetName": "VoltaStatus",
+  "targetKey": "3186F3B9-3AC0-4210-A3A4-B57B3B54C73D",
+  "targetId": "62690074-2914-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-26T08:04:05.517",
+  "modifiedDate": "2023-06-26T08:17:05.167",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

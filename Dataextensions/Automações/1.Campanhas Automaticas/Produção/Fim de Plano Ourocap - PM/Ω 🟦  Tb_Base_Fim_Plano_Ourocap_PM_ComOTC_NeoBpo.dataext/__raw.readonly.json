@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "5A7B550C-4392-49A8-81F9-51A0DBE2BA26"
+  ],
+  "Name": [
+    "Tb_Base_Fim_Plano_Ourocap_PM_ComOTC_NeoBpo"
+  ]
+}

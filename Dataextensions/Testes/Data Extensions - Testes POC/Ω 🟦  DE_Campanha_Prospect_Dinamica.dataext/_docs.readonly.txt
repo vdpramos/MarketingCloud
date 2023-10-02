@@ -1,0 +1,15 @@
+Dataextension name: DE_Campanha_Prospect_Dinamica
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| NOME DA CONTA        | Text(255)       | true     | false    |                 |
+| CPF CNPJ             | Text(255)       | true     | true     |                 |
+| PRIMEIRO NOME        | Text(255)       | true     | false    |                 |
+| SOBRENOME            | Text(255)       | true     | false    |                 |
+| NOME DA CAMPANHA     | Text(255)       | true     | false    |                 |
+| DESCRIÇÃO            | Text(255)       | true     | false    |                 |
+| ATIVA                | Text(255)       | true     | false    |                 |
+| STATUS               | Text(255)       | true     | false    |                 |
+| DATA DE INÍCIO       | Text(255)       | true     | false    |                 |
+| DATA DE TÉRMIO       | Text(255)       | true     | false    |                 |
+| ID DA CAMPANHA       | Text(255)       | true     | false    |                 |

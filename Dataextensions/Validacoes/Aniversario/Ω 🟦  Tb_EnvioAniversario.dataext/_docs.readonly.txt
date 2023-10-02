@@ -1,0 +1,9 @@
+Dataextension name: Tb_EnvioAniversario
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Email                | EmailAddress    | false    | false    |                 |
+| Celular              | Phone           | false    | false    |                 |
+| Locale               | Locale          | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |

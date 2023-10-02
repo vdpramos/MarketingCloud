@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "9bd3bf86-76c4-4212-a04e-98a502fe85c2",
+  "name": "ClienteParceiro sem nada associado",
+  "key": "c8e1c363-627e-480b-b74e-1043f0ad1f91",
+  "description": "",
+  "queryText": "select id, cpf_cnpj, NomeCompleto\nfrom ClienteParceiroSemClienteUnico aux\nwhere not exists (select 1 from hc_titulo__c_salesforce t where aux.cpf_cnpj = t.HC_CPF_CNPJ_Titular__c )\nand not exists (select 1 from hc_titulo__c_salesforce t where aux.cpf_cnpj = t.HC_CPF_CNPJ_Subscritor__c )\nand not exists (select 1 from hc_titulo__c_salesforce t where aux.id = t.HC_cliente__c )\nand not exists (select 1 from account_salesforce a where aux.cpf_cnpj = a.HC_CPF_CNPJ_Cliente__c)\nand not exists (select 1 from hc_proposta__c_salesforce pp where aux.cpf_cnpj = pp.HC_CPF_CNPJ_Subscritor__c)\nand not exists (select 1 from hc_proposta__c_salesforce pp where aux.cpf_cnpj = pp.HC_CPF_CNPJ_Titular__c)",
+  "targetName": "ClienteParceiroSemClienteUnicoSemTitulo",
+  "targetKey": "0F2D339D-541B-4221-B15A-FB115A72AC6C",
+  "targetId": "df6f5218-729e-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-01-27T12:41:05.497",
+  "modifiedDate": "2023-03-16T14:11:54.817",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

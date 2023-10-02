@@ -1,0 +1,20 @@
+Dataextension name: Close_the_loop_clientes_ativos_titulos_NaoSelecionados
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Id_contato           | Text(50)        | true     | false    |                 |
+| Id_cliente_parceiro  | Text(50)        | true     | false    |                 |
+| Nome                 | Text(100)       | false    | false    |                 |
+| Celular_1            | Text(50)        | false    | false    |                 |
+| Celular_2            | Text(50)        | false    | false    |                 |
+| Telefone_Brasilcap   | Text(50)        | false    | false    |                 |
+| Telefone_comercial   | Text(50)        | false    | false    |                 |
+| Nivel_relacionamento | Text(50)        | false    | false    |                 |
+| Tipo_pagamento       | Text(50)        | false    | false    |                 |
+| NC                   | Text(50)        | false    | false    |                 |
+| UF                   | Text(50)        | false    | false    |                 |
+| Idade                | Text(50)        | false    | false    |                 |
+| Id_titulo            | Text(50)        | false    | false    |                 |
+| CPF_CNPJ             | Text(50)        | false    | false    |                 |
+| Id_cliente           | Text(50)        | false    | false    |                 |
+| CPF                  | Text(50)        | false    | false    |                 |

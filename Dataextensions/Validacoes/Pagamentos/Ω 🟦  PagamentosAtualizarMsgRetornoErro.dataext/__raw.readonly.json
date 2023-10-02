@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "C7524FDF-6BD2-438F-8ACA-8E0F2DDC48FB"
+  ],
+  "Name": [
+    "PagamentosAtualizarMsgRetornoErro"
+  ]
+}

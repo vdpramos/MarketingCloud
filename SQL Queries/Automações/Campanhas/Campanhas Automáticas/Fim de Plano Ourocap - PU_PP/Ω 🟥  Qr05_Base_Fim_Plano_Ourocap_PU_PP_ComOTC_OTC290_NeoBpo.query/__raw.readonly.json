@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8a73a8d1-5810-4d1f-919b-792a2600ca13",
+  "name": "Qr05_Base_Fim_Plano_Ourocap_PU_PP_ComOTC_OTC290_NeoBpo",
+  "key": "b47b5548-e98a-4a5b-a3db-b0b21095fe61",
+  "description": "",
+  "queryText": "SELECT\r\n  '001'+\r\n  REPLICATE (' ' , 9)+\r\n  REPLICATE ('0' , 9)+\r\n  '1'+\r\n  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, CPF_CNPJ), 15)+\r\n  CONVERT(VARCHAR(10), CONVERT(DATE, DT_NASCIMENTO, 103), 112)+\r\n  LEFT(CONVERT(VARCHAR(60), NOME) + REPLICATE(' ', 60), 60)+\r\n  REPLICATE (' ' , 1)+\r\n  REPLICATE (' ' , 2)+\r\n  REPLICATE (' ' , 4)+\r\n  REPLICATE (' ' , 10)+\r\n  REPLICATE (' ' , 4)+\r\n  REPLICATE (' ' , 10)+\r\n  REPLICATE (' ' , 4)+\r\n  REPLICATE (' ' , 10)+\r\n  REPLICATE (' ' , 5)+\r\n  REPLICATE (' ' , 2)+\r\n  REPLICATE (' ' , 73)+\r\n  REPLICATE (' ' , 70) AS BASE\r\nFROM\r\n  TB_BASE_FIM_PLANO_OUROCAP_PU_PP_COMOTC_NEOBPO_FILTRADA",
+  "targetName": "Tb_Base_Fim_Plano_Ourocap_PU_PP_OTC290_NeoBpo",
+  "targetKey": "97D13FC1-5DAC-4437-9E0D-646C87AD892F",
+  "targetId": "8637a318-c398-eb11-a2fc-48df37342b91",
+  "targetDescription": "",
+  "createdDate": "2021-04-08T17:51:40.307",
+  "modifiedDate": "2023-07-25T07:37:18.713",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 32463,
+  "isFrozen": false
+}

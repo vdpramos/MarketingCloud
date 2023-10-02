@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3a731f60-ca89-429c-b87c-ae7a328174a8",
+  "name": "Guarda Historico",
+  "key": "3A731F60-CA89-429C-B87C-AE7A328174A8",
+  "description": "",
+  "queryText": "select cpf_cnpj , getdate() as DATA_ENVIO\nfrom BaseSusep_Enriquecimento bs\nwhere bs.cliente = 'X'",
+  "targetName": "Historico_Processados",
+  "targetKey": "56205A1B-C346-4E68-85B4-7EEA27356CF1",
+  "targetId": "456f148a-db03-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-05T14:00:46.51",
+  "modifiedDate": "2023-06-05T14:02:06.36",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 62093,
+  "isFrozen": false
+}

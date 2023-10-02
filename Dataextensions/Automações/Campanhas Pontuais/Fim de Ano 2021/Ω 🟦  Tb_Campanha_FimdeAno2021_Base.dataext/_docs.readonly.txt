@@ -1,0 +1,43 @@
+Dataextension name: Tb_Campanha_FimdeAno2021_Base
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | true     | true     |                 |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Ddd_Tel_01           | Text(10)        | false    | false    |                 |
+| Tel_01               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_01          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_02           | Text(10)        | false    | false    |                 |
+| Tel_02               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_02          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_03           | Text(10)        | false    | false    |                 |
+| Tel_03               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_03          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_04           | Text(10)        | false    | false    |                 |
+| Tel_04               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_04          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_05           | Text(10)        | false    | false    |                 |
+| Tel_05               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_05          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_06           | Text(10)        | false    | false    |                 |
+| Tel_06               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_06          | Text(50)        | false    | false    |                 |
+| Tel_Principal        | Text(50)        | false    | false    |                 |
+| Quarentena           | Boolean         | false    | false    | false           |
+| Possui_Telefone_Ativo | Boolean         | false    | false    |                 |
+| Deseja_Contato_Telefonico | Boolean         | false    | false    |                 |
+| Nao_Importune        | Boolean         | false    | false    | false           |
+| Id_Campanha          | Text(50)        | false    | false    |                 |
+| Id_Produto           | Text(50)        | false    | false    |                 |
+| Id                   | Text(50)        | false    | false    |                 |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| CPF_CNPJ_Codigo_do_Parceiro | Text(50)        | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |
+| Id_Cliente           | Text(50)        | false    | false    |                 |
+| Nao_Deseja_Receber_Email | Boolean         | false    | false    |                 |
+| Nao_Deseja_Receber_SMS | Boolean         | false    | false    |                 |
+| Email_Valido         | Boolean         | false    | false    |                 |
+| Celular_Valido       | Boolean         | false    | false    |                 |
+| HC_Data_Nascimento__c | Date            | false    | false    |                 |
+| EMAIL                | EmailAddress    | false    | false    |                 |
+| CELULAR              | Text(50)        | false    | false    |                 |

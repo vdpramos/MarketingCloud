@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "814b3d32-54ba-44ca-97c3-421a965e508b",
+  "name": "Clientes Ativos PF SQL Query",
+  "key": "814B3D32-54BA-44CA-97C3-421A965E508B",
+  "description": "",
+  "queryText": "SELECT\n\tHC_CPF_CNPJ_Subscritor__c AS CPF,\n\tHC_Tipo_de_pagamento__c AS FormaPagamento\nFROM\n    HC_Titulo__c_Salesforce\nWHERE\n    HC_Familia_do_produto_do_titulo__c = 'Ourocap'\nAND HC_Situacao__c in ('Ativo', 'Em processo de finalização', 'Em processo de Reativação', 'Suspenso')\nAND LEN(HC_CPF_CNPJ_Subscritor__c) = 11",
+  "targetName": "ClientesPFAtivosDE",
+  "targetKey": "861CD78D-BB6C-401C-AB43-AB407308E423",
+  "targetId": "c68ee7ec-742d-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "Listagem de clientes ativos pessoa física",
+  "createdDate": "2023-07-28T12:55:06.813",
+  "modifiedDate": "2023-07-28T12:56:28.647",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 65497,
+  "isFrozen": false
+}

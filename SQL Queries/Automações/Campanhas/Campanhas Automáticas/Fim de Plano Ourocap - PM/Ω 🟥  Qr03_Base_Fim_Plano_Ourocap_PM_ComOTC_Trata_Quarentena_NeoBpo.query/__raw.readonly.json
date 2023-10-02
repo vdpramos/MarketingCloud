@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4c03de57-ec50-45c7-8104-b07b18d8f7e7",
+  "name": "Qr03_Base_Fim_Plano_Ourocap_PM_ComOTC_Trata_Quarentena_NeoBpo",
+  "key": "753ab9e2-4672-45ee-9a30-ea0accaae01e",
+  "description": "",
+  "queryText": "SELECT\r\n    A.CPF_CNPJ AS ID,\r\n\t1 AS QUARENTENA\r\nFROM\r\n\tTb_Base_Fim_Plano_Ourocap_PM_ComOTC_NeoBpo A\r\nINNER JOIN TB_BASE_QUARENTENA Q ON A.CPF_CNPJ = Q.CPF_CNPJ\r\nWHERE DATEDIFF(MM, Q.DATA_PARTICIPACAO_CAMPANHA, GETDATE()) <= A.MESES_QUARENTENA_EXCLUSAO",
+  "targetName": "Tb_Base_Fim_Plano_Ourocap_PM_ComOTC_NeoBpo",
+  "targetKey": "5A7B550C-4392-49A8-81F9-51A0DBE2BA26",
+  "targetId": "afea19a4-ee1f-ec11-a30b-48df370eabe4",
+  "targetDescription": "",
+  "createdDate": "2021-05-03T15:45:37.05",
+  "modifiedDate": "2021-09-27T18:24:11.3",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 33760,
+  "isFrozen": false
+}

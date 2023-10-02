@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "13D58ACA-C625-4D4D-9D4D-168F2E794186"
+  ],
+  "Name": [
+    "Tb_Base_Contemplacao_Ourocap_Disparo"
+  ]
+}

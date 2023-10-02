@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "ea77f542-72da-40d7-a2df-2e9468034eb6",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "NUMERO_DO_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "cd3eef18-6b0b-4cc2-914e-7ba0c5f46181",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "NUMERO_DA_SORTE",
+    "FieldType": "Text",
+    "ObjectID": "f6c4f5c5-70f6-4548-af03-6da100403671",
+    "MaxLength": "3000",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "VALOR_DA_PARCELA__C",
+    "FieldType": "Decimal",
+    "ObjectID": "2c9a5d0c-eb3a-4b58-beca-bb14784d70f5",
+    "MaxLength": "18",
+    "Scale": "2",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "TERMINO_CARENCIA",
+    "FieldType": "Date",
+    "ObjectID": "6a5b136f-86e0-45bd-bbc7-4c092f777612",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "INICIO_DA_VIGENCIA",
+    "FieldType": "Date",
+    "ObjectID": "b85dd6c7-46e3-43bc-b55f-3054f47db2ce",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "VALOR_PARCELA",
+    "FieldType": "Text",
+    "ObjectID": "601e41dc-1456-4493-adfb-dd67493a266b",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  }
+]

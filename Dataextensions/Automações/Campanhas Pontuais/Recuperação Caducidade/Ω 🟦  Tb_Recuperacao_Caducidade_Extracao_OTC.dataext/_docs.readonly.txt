@@ -1,0 +1,36 @@
+Dataextension name: Tb_Recuperacao_Caducidade_Extracao_OTC
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| DDD1                 | Text(10)        | false    | false    |                 |
+| TELEFONE1            | Text(20)        | false    | false    |                 |
+| TIPO1                | Text(50)        | false    | false    |                 |
+| DDD2                 | Text(10)        | false    | false    |                 |
+| TELEFONE2            | Text(20)        | false    | false    |                 |
+| TIPO2                | Text(50)        | false    | false    |                 |
+| DDD3                 | Text(10)        | false    | false    |                 |
+| TELEFONE3            | Text(20)        | false    | false    |                 |
+| TIPO3                | Text(50)        | false    | false    |                 |
+| DDD4                 | Text(10)        | false    | false    |                 |
+| TELEFONE4            | Text(20)        | false    | false    |                 |
+| TIPO4                | Text(50)        | false    | false    |                 |
+| DDD5                 | Text(10)        | false    | false    |                 |
+| TELEFONE5            | Text(20)        | false    | false    |                 |
+| TIPO5                | Text(50)        | false    | false    |                 |
+| PREFERENCIAL         | Text(50)        | false    | false    |                 |
+| IDADE                | Text(10)        | false    | false    |                 |
+| DATA_NASCIMENTO      | Text(50)        | false    | false    |                 |
+| NOME_CLIENTE         | Text(200)       | false    | false    |                 |
+| CEP                  | Text(20)        | false    | false    |                 |
+| UF                   | Text(10)        | false    | false    |                 |
+| TIPO_DE_PESSOA       | Text(50)        | false    | false    |                 |
+| CPF_CNPJ             | Text(50)        | false    | false    |                 |
+| SEXO                 | Text(10)        | false    | false    |                 |
+| CLASSIFICAÇAO        | Text(50)        | false    | false    |                 |
+| TIPO_CAMPANHA        | Text(50)        | false    | false    |                 |
+| IDCAMPANHA           | Text(50)        | false    | false    |                 |
+| IDCP                 | Text(50)        | false    | false    |                 |
+| IDCONTATO            | Text(50)        | false    | false    |                 |
+| DATA_CRIAÇÃO         | Text(50)        | false    | false    |                 |
+| DATA_UTILIZAÇÃO      | Text(50)        | false    | false    |                 |
+| DATA_TERMINO         | Text(50)        | false    | false    |                 |

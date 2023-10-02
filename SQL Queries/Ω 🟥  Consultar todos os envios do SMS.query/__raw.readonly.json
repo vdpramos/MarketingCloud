@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8a0794b9-6b6c-4e7b-b6ce-30da14a6d7e4",
+  "name": "Consultar todos os envios do SMS",
+  "key": "68885741-527f-49a4-ab2e-5d3e84f7f36f",
+  "description": "",
+  "queryText": "SELECT top 10000\nYEAR(CreateDateTime) AS ANO,\nMONTH(CreateDateTime) AS MES,\n(COUNT(*)*25) AS QTD_TOTAL_SMS\nFROM _smsmessagetracking WITH(NOLOCK)\nGROUP BY MONTH(CreateDateTime), YEAR(CreateDateTime)\nORDER BY YEAR(CreateDateTime) asc, MONTH(CreateDateTime) asc\n",
+  "targetName": "Volumetria_MC",
+  "targetKey": "317D182F-973F-4F77-AC6F-7AF8D3B4207E",
+  "targetId": "8b11ae58-e5a5-ec11-a313-48df370ed7f5",
+  "targetDescription": "",
+  "createdDate": "2022-03-18T15:20:10.25",
+  "modifiedDate": "2022-03-23T13:17:22.73",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 1930,
+  "isFrozen": false
+}

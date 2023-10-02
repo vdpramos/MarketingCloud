@@ -1,0 +1,16 @@
+Dataextension name: Sent_backup_exclusao
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| AccountID            | Number          | true     | false    |                 |
+| OYBAccountID         | Number          | false    | false    |                 |
+| JobID                | Number          | true     | false    |                 |
+| ListID               | Number          | true     | false    |                 |
+| BatchID              | Number          | true     | false    |                 |
+| SubscriberID         | Text(50)        | true     | false    |                 |
+| SubscriberKey        | Text(100)       | true     | false    |                 |
+| EventDate            | Date            | true     | false    |                 |
+| Domain               | Text(100)       | true     | false    |                 |
+| TriggererSendDefinitionObjectID | Text(50)        | false    | false    |                 |
+| TriggeredSendCustomerKey | Text(50)        | false    | false    |                 |
+| Data_exclusao        | Date            | true     | false    | GetDate()       |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7c296bb3-2e92-4705-84ee-bd1b4f50e3d2",
+  "name": "Qr03_Base_Prospect_OTC291_TMKT",
+  "key": "ff6cbbaf-efa1-4203-afe1-97e8a1dc20c3",
+  "description": "",
+  "queryText": "SELECT A.*\nFROM(SELECT DISTINCT\n  A.*,\n  ROW_NUMBER() OVER (PARTITION BY CPF ORDER BY DT_NASCIMENTO_SF) AS number\nFROM\n  TB_BASE_PROSPECT_OTC291_TRATADA_TMKT A\nWHERE\n  CODIGO_RNA = '000' \n  AND ENCARTEIRAMENTO_VALIDO = 1 \n  AND NAO_IMPORTUNE = 0\n  AND QUARENTENA = 0) A \nWHERE NUMBER = 1\n  ",
+  "targetName": "Tb_Base_Prospect_OTC291_Filtrada_TMKT",
+  "targetKey": "5AC8AD42-FA8E-4A7B-836E-2ED27058DCE1",
+  "targetId": "8cb21bce-9370-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-01-28T16:37:20.34",
+  "modifiedDate": "2021-07-22T17:15:22.773",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29373,
+  "isFrozen": false
+}

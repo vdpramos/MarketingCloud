@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "57FEFC48-00BD-478B-A92F-BFBB6C91274D"
+  ],
+  "Name": [
+    "HC_Vendas operador_ Mensal_TMKT"
+  ]
+}

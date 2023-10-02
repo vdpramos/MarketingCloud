@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "DD765A6F-B296-4992-93E8-2AF928AD1B4A"
+  ],
+  "Name": [
+    "Tb_Base_Ex_Cliente_OTC291_Filtrada_Algar"
+  ]
+}

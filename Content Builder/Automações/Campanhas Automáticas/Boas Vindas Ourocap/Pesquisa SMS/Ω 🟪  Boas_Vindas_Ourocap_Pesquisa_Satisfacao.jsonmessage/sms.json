@@ -1,0 +1,17 @@
+{
+  "channel": "sms",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:previewbycodetype": {
+    "locale": "BR",
+    "supportsConcatenation": true
+  },
+  "display:message": "Qual e o grau de satisfacao com a compra do seu Ourocap numa escala de 0 a 10, onde 0 significa Muito Insatisfeito e 10 significa Muito Satisfeito?",
+  "currentColumn": 0,
+  "display:message:display": "Qual e o grau de satisfacao com a compra do seu Ourocap numa escala de 0 a 10, onde 0 significa Muito Insatisfeito e 10 significa Muito Satisfeito?",
+  "template": "sms",
+  "contents": [],
+  "shortLinks": [],
+  "uncheckedPanels": []
+}

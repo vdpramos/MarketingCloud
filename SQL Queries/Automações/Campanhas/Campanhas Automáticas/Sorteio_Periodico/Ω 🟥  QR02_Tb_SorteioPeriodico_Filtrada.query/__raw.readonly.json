@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8294baec-8457-4354-9768-fd99d5efc480",
+  "name": "QR02_Tb_SorteioPeriodico_Filtrada",
+  "key": "20421f69-bcda-46f1-9151-806ec8d5163a",
+  "description": "",
+  "queryText": "SELECT\r\n  A.ID,\r\n  A.NOME,\r\n  A.CPF_CNPJ,\r\n  A.HC_MES_INICIO__C,\r\n  A.HC_MES_FIM__C,\r\n  A.HC_QUANTIDADE_DE_CLIENTES_SORTEADOS__C,\r\n  CASE\r\n    WHEN A.HC_MES_INICIO__C = 1 THEN 'JANEIRO'\r\n    WHEN A.HC_MES_INICIO__C = 2 THEN 'FEVEREIRO'\r\n    WHEN A.HC_MES_INICIO__C = 3 THEN 'MARÇO'\r\n    WHEN A.HC_MES_INICIO__C = 4 THEN 'ABRIL'\r\n    WHEN A.HC_MES_INICIO__C = 5 THEN 'MAIO'\r\n    WHEN A.HC_MES_INICIO__C = 6 THEN 'JUNHO'\r\n    WHEN A.HC_MES_INICIO__C = 7 THEN 'JULHO'\r\n    WHEN A.HC_MES_INICIO__C = 8 THEN 'AGOSTO'\r\n    WHEN A.HC_MES_INICIO__C = 9 THEN 'SETEMBRO'\r\n    WHEN A.HC_MES_INICIO__C = 10 THEN 'OUTRUBRO'\r\n    WHEN A.HC_MES_INICIO__C = 11 THEN 'NOVEMBRO'\r\n    WHEN A.HC_MES_INICIO__C = 12 THEN 'DEZEMBRO'\r\n    ELSE NULL\r\n  END AS MES_INICIAL,\r\n  CASE\r\n    WHEN A.HC_MES_FIM__C = 1 THEN 'JANEIRO'\r\n    WHEN A.HC_MES_FIM__C = 2 THEN 'FEVEREIRO'\r\n    WHEN A.HC_MES_FIM__C = 3 THEN 'MARÇO'\r\n    WHEN A.HC_MES_FIM__C = 4 THEN 'ABRIL'\r\n    WHEN A.HC_MES_FIM__C = 5 THEN 'MAIO'\r\n    WHEN A.HC_MES_FIM__C = 6 THEN 'JUNHO'\r\n    WHEN A.HC_MES_FIM__C = 7 THEN 'JULHO'\r\n    WHEN A.HC_MES_FIM__C = 8 THEN 'AGOSTO'\r\n    WHEN A.HC_MES_FIM__C = 9 THEN 'SETEMBRO'\r\n    WHEN A.HC_MES_FIM__C = 10 THEN 'OUTRUBRO'\r\n    WHEN A.HC_MES_FIM__C = 11 THEN 'NOVEMBRO'\r\n    WHEN A.HC_MES_FIM__C = 12 THEN 'DEZEMBRO'\r\n    ELSE NULL\r\n  END AS MES_FINAL,\r\n  'BR' AS LOCALE,\r\n  CONCAT('55', CELULAR) AS CELULAR,\r\n  A.EMAIL,\r\n  A.HC_VALOR_DO_PREMIO__C,\r\n  A.EMAIL_VALIDO,\r\n  A.CELULAR_VALIDO,\r\n  NAO_DESEJA_RECEBER_EMAIL,\r\n  NAO_DESEJA_RECEBER_SMS,\r\n  ID_CONTATO,\r\n  ID_CAMPANHA,\r\n  ID_CLIENTE_PARCEIRO,\r\n  ROW_NUMBER() OVER (ORDER BY CPF_CNPJ) AS [ROW]\r\nFROM TB_SORTEIOPERIODICO A\r\nWHERE \r\n  NAO_IMPORTUNE = 0",
+  "targetName": "Tb_SorteioPeriodico_Filtrada",
+  "targetKey": "2CA53B24-FD16-4351-AE7B-35BE1CE98FDD",
+  "targetId": "c1c977c5-adfa-eb11-a30d-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-08-11T08:38:56.94",
+  "modifiedDate": "2022-06-21T15:53:13.16",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 37898,
+  "isFrozen": false
+}

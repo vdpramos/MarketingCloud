@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "913249d4-98b1-48fd-9f3e-1a9a8b326f38",
+  "name": "Qr00_Extracao_Base_Prospect_Offline_Clientes_ComOTC_Teo",
+  "key": "586fcd1c-a2b9-48f1-ad4c-fbe60f8b7525",
+  "description": "",
+  "queryText": "SELECT CPF,\n  COD_PARCEIRO,\n  CNPJ,\n  PARCEIRO_ORGANIZACAO,\n  PARCEIRO_LOCALIZACAO,\n  COD_CLIENTE_MC,\n  NOME_COMPLETO,\n  TIPO_PESSOA,\n  DATA_NASCIMENTO,\n  SEXO,\n  CLIENTE_ORGANIZACAO,\n  CLIENTE_CHAVE_MIGRACAO,\n  CLIENTE_CHAGE_GERAL_INTERNA,\n  CLIENTE_TIPO_INTERNO\nFROM (SELECT DISTINCT\n  A.CPF,\n  'TCBB' AS COD_PARCEIRO,\n  '' AS CNPJ,\n  'Brasilcap' AS PARCEIRO_ORGANIZACAO,\n  'Brazil' AS PARCEIRO_LOCALIZACAO,\n  C.ID AS COD_CLIENTE_MC,\n  B.NOME AS NOME_COMPLETO,\n  'PF' AS TIPO_PESSOA,\n  CONVERT(VARCHAR, CAST(B.Dt_Nascimento AS DATE), 112) AS DATA_NASCIMENTO,\n  B.SEXO,\n  'Brasilcap' AS CLIENTE_ORGANIZACAO,\n  CONCAT(A.CPF, 'TCBB') AS CLIENTE_CHAVE_MIGRACAO,\n  CONCAT(A.CPF, 'TCBB') AS CLIENTE_CHAGE_GERAL_INTERNA,\n  'Person' AS CLIENTE_TIPO_INTERNO,\n  row_number() over (partition by A.CPF order by C.ID desc) AS ROW_ID\nFROM\n  TB_BASE_PROSPECT_OTC291_FILTRADA_TEO A \n    INNER JOIN Tb_Base_Prospect_OTC291_Tratada_TEO B ON A.CPF = B.CPF\n    INNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce C ON A.CPF = C.CPF_CNPJ_Cliente__c) BASE\nWHERE ROW_ID = 1",
+  "targetName": "Tb_Base_Prospect_Offline_Clientes_ComOTC_Teo",
+  "targetKey": "46AC907E-B16B-485C-8D4A-5C40FB8F77D2",
+  "targetId": "3d681f35-8170-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-16T12:45:46.07",
+  "modifiedDate": "2022-03-24T15:18:16.787",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29379,
+  "isFrozen": false
+}

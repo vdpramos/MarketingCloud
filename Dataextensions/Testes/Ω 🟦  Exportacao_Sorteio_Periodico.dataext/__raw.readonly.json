@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "7A2B5CD2-9227-46F5-9305-414DB4E9CADD"
+  ],
+  "Name": [
+    "Exportacao_Sorteio_Periodico"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "d563bd90-e851-4c07-a158-63f3b7ffa1e4",
+  "name": "Qr01_Boas_Vindas_Caracterisitcas_Ourocap_Trata_Celular",
+  "key": "d291071a-62e5-4970-b294-72b2e7021339",
+  "description": "Formata Celular para envio de SMS",
+  "queryText": "SELECT \n\tCPF_CNPJ,\n\tNumero_do_Titulo,\n\tSerie_do_Titulo,\n\tPlano_do_Titulo,\n\tId_Titulo,\n\tCONCAT('55', REPLACE(REPLACE(REPLACE(REPLACE(CELULAR, '(', ''), ')', ''), ' ', ''), '-', '')) AS CELULAR\nFROM TB_BOAS_VINDAS_OUROCAP_CLIENTES_E_TITULOS\nWHERE CELULAR_VALIDO = 1",
+  "targetName": "TB_BOAS_VINDAS_OUROCAP_CLIENTES_E_TITULOS",
+  "targetKey": "C46FB509-F09A-4332-94F6-3AC87D1B5F9B",
+  "targetId": "0b9919fb-713b-ec11-a313-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-11-07T11:46:24.317",
+  "modifiedDate": "2021-11-10T15:56:45.193",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 41120,
+  "isFrozen": false
+}

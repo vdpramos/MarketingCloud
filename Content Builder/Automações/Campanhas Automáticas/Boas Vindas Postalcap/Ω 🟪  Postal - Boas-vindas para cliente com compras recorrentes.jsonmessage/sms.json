@@ -1,0 +1,17 @@
+{
+  "channel": "sms",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:previewbycodetype": {
+    "locale": "BR",
+    "supportsConcatenation": true
+  },
+  "display:message": "Parabens pela compra de mais um Postalcap! Se for sorteado entraremos em contato. Mantenha seus dados atualizados.",
+  "currentColumn": 0,
+  "display:message:display": "Parabens pela compra de mais um Postalcap! Se for sorteado entraremos em contato. Mantenha seus dados atualizados.",
+  "template": "sms",
+  "contents": [],
+  "shortLinks": [],
+  "uncheckedPanels": []
+}

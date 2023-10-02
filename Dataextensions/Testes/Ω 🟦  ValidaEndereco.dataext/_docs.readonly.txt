@@ -1,0 +1,7 @@
+Dataextension name: ValidaEndereco
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| PARCEIRO             | Text(50)        | false    | false    |                 |
+| CPF                  | Text(50)        | true     | false    |                 |
+| CEP                  | Text(50)        | false    | false    |                 |

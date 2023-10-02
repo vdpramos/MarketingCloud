@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7e01c2f4-d29c-4510-88df-9ca4c3dc6916",
+  "name": "ClientesExpurgar",
+  "key": "3fd42658-b77e-4a99-a2ff-e1fdb00a1094",
+  "description": "Seleciona os clientes que estão no salesforce mas não encontram-se no público alvo do CAP, extraído no processo 4.1",
+  "queryText": "select id, 1 as Enviado\nfrom ClientesServiceCAP cs\nwhere not exists (select 1 from cliente c where c.CPF_CNPJ_PARCEIRO = cs.CPF_CNPJ_PARCEIRO )\n      and cpf_cnpj_parceiro not in (select cpf_cnpj_parceiro from ClientesComReclamacaoOuvidoria)\n            ",
+  "targetName": "Atualizacao Flag Delete Cliente Parceiro",
+  "targetKey": "58EFCA8B-615E-41C2-8C25-C5E85A9B166C",
+  "targetId": "2b341a9c-7ed8-ec11-a319-48df370eabe5",
+  "targetDescription": "DE com informações de clientes fora do corte que estão no salesforce e precisam ser expurgadas",
+  "createdDate": "2022-02-24T08:00:23.807",
+  "modifiedDate": "2022-06-22T12:46:37.287",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

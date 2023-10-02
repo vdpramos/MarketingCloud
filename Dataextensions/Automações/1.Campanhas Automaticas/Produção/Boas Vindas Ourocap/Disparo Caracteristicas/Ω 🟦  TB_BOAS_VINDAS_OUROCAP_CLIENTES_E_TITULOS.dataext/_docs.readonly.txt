@@ -1,0 +1,52 @@
+Dataextension name: TB_BOAS_VINDAS_OUROCAP_CLIENTES_E_TITULOS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | true     | true     |                 |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Ddd_Tel_01           | Text(10)        | false    | false    |                 |
+| Tel_01               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_01          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_02           | Text(10)        | false    | false    |                 |
+| Tel_02               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_02          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_03           | Text(10)        | false    | false    |                 |
+| Tel_03               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_03          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_04           | Text(10)        | false    | false    |                 |
+| Tel_04               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_04          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_05           | Text(10)        | false    | false    |                 |
+| Tel_05               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_05          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_06           | Text(10)        | false    | false    |                 |
+| Tel_06               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_06          | Text(50)        | false    | false    |                 |
+| Tel_Principal        | Text(50)        | false    | false    |                 |
+| Quarentena           | Boolean         | false    | false    | false           |
+| Possui_Telefone_Ativo | Boolean         | false    | false    |                 |
+| Deseja_Contato_Telefonico | Boolean         | false    | false    |                 |
+| Nao_Importune        | Boolean         | false    | false    | false           |
+| Id_Campanha          | Text(50)        | false    | false    |                 |
+| Id_Produto           | Text(50)        | false    | false    |                 |
+| Id                   | Text(50)        | false    | false    |                 |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| CPF_CNPJ_Codigo_do_Parceiro | Text(50)        | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |
+| Id_Cliente           | Text(50)        | false    | false    |                 |
+| Valor_Parcela_Produto | Decimal(18,2)   | false    | false    |                 |
+| NAO_DESEJA_RECEBER_EMAIL | Boolean         | false    | false    |                 |
+| NAO_DESEJA_RECEBER_SMS | Boolean         | false    | false    |                 |
+| EMAIL_VALIDO         | Boolean         | false    | false    |                 |
+| CELULAR_VALIDO       | Boolean         | false    | false    |                 |
+| QUANTIDADE_TITULOS_ANTERIORES_ATIVOS | Number          | false    | false    | 0               |
+| QUANTIDADE_TITULOS_ANTERIORES_INATIVOS | Number          | false    | false    | 0               |
+| Numero_do_Titulo     | Text(10)        | true     | true     |                 |
+| Serie_do_Titulo      | Text(10)        | true     | true     |                 |
+| Plano_do_Titulo      | Text(10)        | true     | true     |                 |
+| DATA_CONTRATACAO     | Date            | false    | false    |                 |
+| Id_Titulo            | Text(50)        | true     | true     |                 |
+| EMAIL                | EmailAddress    | false    | false    |                 |
+| CELULAR              | Text(50)        | false    | false    |                 |
+| Nome_Produto         | Text(200)       | false    | false    |                 |
+| CreatedDate          | Date            | false    | false    |                 |

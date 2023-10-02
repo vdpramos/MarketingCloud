@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "D6CD34FE-8448-44F1-96E7-D96C39E4117E"
+  ],
+  "Name": [
+    "Tb_Boas_Vindas_Ourocap_Prospostas"
+  ]
+}

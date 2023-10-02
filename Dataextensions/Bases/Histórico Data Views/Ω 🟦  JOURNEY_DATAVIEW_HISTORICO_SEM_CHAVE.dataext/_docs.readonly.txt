@@ -1,0 +1,12 @@
+Dataextension name: JOURNEY_DATAVIEW_HISTORICO_SEM_CHAVE
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| VersionID            | Text(254)       | true     | false    |                 |
+| JourneyID            | Text(254)       | true     | false    |                 |
+| JourneyName          | Text(254)       | true     | false    |                 |
+| VersionNumber        | Number          | true     | false    |                 |
+| CreatedDate          | Date            | true     | false    |                 |
+| LastPublishedDate    | Date            | false    | false    |                 |
+| ModifiedDate         | Date            | true     | false    |                 |
+| JourneyStatus        | Text(254)       | true     | false    |                 |

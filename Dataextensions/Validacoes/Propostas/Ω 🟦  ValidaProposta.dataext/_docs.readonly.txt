@@ -1,0 +1,6 @@
+Dataextension name: ValidaProposta
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_PROPOSTA          | Text(50)        | true     | false    |                 |
+| ID_PLANO             | Text(50)        | false    | false    |                 |

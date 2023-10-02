@@ -1,0 +1,8 @@
+Dataextension name: PI_ABANDONED_CART_ITEMS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| sku                  | Text(256)       | true     | true     |                 |
+| cart_id              | Text(256)       | true     | true     |                 |
+| price                | Decimal(18,2)   | false    | false    |                 |
+| quantity             | Number          | false    | false    |                 |

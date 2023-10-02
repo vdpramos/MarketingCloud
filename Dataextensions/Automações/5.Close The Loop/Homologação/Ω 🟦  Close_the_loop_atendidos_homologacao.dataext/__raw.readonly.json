@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "0E966BD4-8290-4AA0-95CE-99764C196D1D"
+  ],
+  "Name": [
+    "Close_the_loop_atendidos_homologacao"
+  ]
+}

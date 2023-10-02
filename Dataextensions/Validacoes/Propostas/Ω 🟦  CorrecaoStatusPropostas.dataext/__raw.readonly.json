@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "23E9B513-F0AF-466C-A8BB-4BEB946B1E8C"
+  ],
+  "Name": [
+    "CorrecaoStatusPropostas"
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "_CustomObjectKey": "101121",
+    "ID": "a0i6g000006Fns6AAC",
+    "hc_classificacao__c": "Falecido",
+    "hc_classificacao__c_old": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "101122",
+    "ID": "a0i6g000006GpKlAAK",
+    "hc_classificacao__c": "Cliente",
+    "hc_classificacao__c_old": "Ex-cliente"
+  },
+  {
+    "_CustomObjectKey": "101123",
+    "ID": "a0i6g000006KqWzAAK",
+    "hc_classificacao__c": "Ex-Cliente",
+    "hc_classificacao__c_old": "Cliente Potencial"
+  },
+  {
+    "_CustomObjectKey": "101124",
+    "ID": "a0i6g00000H6xBkAAJ",
+    "hc_classificacao__c": "Cliente Potencial",
+    "hc_classificacao__c_old": "Ex-cliente"
+  }
+]

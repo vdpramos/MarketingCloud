@@ -1,0 +1,25 @@
+Dataextension name: Tb_Pre_Sorteio_Filtrada
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Nome                 | Text(100)       | false    | false    |                 |
+| CPF                  | Text(20)        | true     | true     |                 |
+| EMAIL                | EmailAddress    | false    | false    |                 |
+| EMAIL_VALIDO         | Boolean         | false    | false    |                 |
+| CELULAR              | Phone           | false    | false    |                 |
+| CELULAR_VALIDO       | Boolean         | false    | false    |                 |
+| Locale               | Locale          | false    | false    |                 |
+| HC_Valor_do_premio__c | Text(18)        | false    | false    |                 |
+| NAO_DESEJA_RECEBER_EMAIL | Boolean         | false    | false    |                 |
+| NAO_DESEJA_RECEBER_SMS | Boolean         | false    | false    |                 |
+| NAO_IMPORTUNE        | Boolean         | false    | false    | False           |
+| ID_TITULO            | Text(20)        | true     | true     |                 |
+| ID_CAMPANHA          | Text(20)        | false    | false    |                 |
+| ID_CLIENTE_PARCEIRO  | Text(20)        | false    | false    |                 |
+| ID_CONTATO           | Text(20)        | false    | false    |                 |
+| HC_Mes_Inicio__c     | Decimal(18,0)   | false    | false    |                 |
+| HC_Mes_Fim__c        | Decimal(18,0)   | false    | false    |                 |
+| HC_Quantidade_de_clientes_sorteados__c | Text(10)        | false    | false    |                 |
+| HC_NUMERO_DA_SORTE__C | Text(250)       | false    | false    |                 |
+| PREMIO_EMAIL         | Text(200)       | false    | false    |                 |
+| DATA_SORTEIO         | Text(10)        | false    | false    |                 |

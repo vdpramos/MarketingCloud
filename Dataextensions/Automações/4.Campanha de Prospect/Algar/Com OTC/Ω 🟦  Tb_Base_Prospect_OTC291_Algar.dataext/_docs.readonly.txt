@@ -1,0 +1,5 @@
+Dataextension name: Tb_Base_Prospect_OTC291_Algar
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Retorno              | Text(4000)      | false    | false    |                 |

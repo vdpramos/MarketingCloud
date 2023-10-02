@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "52A1950C-632C-45F8-AFF6-A47733E24E63"
+  ],
+  "Name": [
+    "Críticas_Offline_PROSPECT_TMKT"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "F956C4AA-F7DB-4EB5-BCBA-544C8C1086E3"
+  ],
+  "Name": [
+    "PublicoAlvoDuploSimDisparo"
+  ]
+}

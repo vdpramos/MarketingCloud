@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "930f8c42-1e93-4ff8-a983-0c77ae8b95e8",
+  "name": "Validacao_close_the_loop_clientes_ativos",
+  "key": "930F8C42-1E93-4FF8-A983-0C77AE8B95E8",
+  "description": "",
+  "queryText": "select distinct\na.CPF_CNPJ_Subscritor,\nb.Id_contato\nfrom\nValidacao_close_the_loop_cpf_sem_nome a\ninner join Close_the_loop_clientes_ativos b\non a.CPF_CNPJ_Subscritor = b.CPF_CNPJ",
+  "targetName": "Validacao_close_the_loop_clientes_ativos",
+  "targetKey": "063234E1-37B5-4F5B-8DBF-39FA61FE8D10",
+  "targetId": "be6f173a-48ca-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-24T07:34:56.66",
+  "modifiedDate": "2023-06-06T12:07:05.72",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

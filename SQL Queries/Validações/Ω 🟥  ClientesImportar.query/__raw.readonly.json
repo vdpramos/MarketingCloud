@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2bcc5ffe-e4c6-4b88-a0e1-e1f1c878b511",
+  "name": "ClientesImportar",
+  "key": "902bd610-d543-4999-817d-ada8461fc2d7",
+  "description": "Automação para definir os clientes que não estão no salesforce e precisam ser importados.",
+  "queryText": "select c.CPF_CNPJ_PARCEIRO, c.PARCEIRO, c.CPF_CNPJ\nfrom cliente c\nwhere not exists (select 1 from ClientesServiceCAP cs where c.CPF_CNPJ_PARCEIRO = cs.CPF_CNPJ_PARCEIRO )\n            ",
+  "targetName": "ClientesImportar",
+  "targetKey": "4301CFEE-3631-4476-91D4-4DB0D213E5A5",
+  "targetId": "3fe54e6a-cb94-ec11-a317-48df37342c99",
+  "targetDescription": "Seleciona os clientes que estão na extração do CAP mas não estão no salesforce",
+  "createdDate": "2022-06-22T08:51:11.833",
+  "modifiedDate": "2022-06-22T08:51:11.833",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

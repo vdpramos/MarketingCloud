@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a4de2f37-2d88-4aab-9743-7de0f78a3916",
+  "name": "Qr_Pos_Sorteio_Filtrada",
+  "key": "510cfa79-d245-4b6d-910a-02fe125d03cb",
+  "description": "Filtra Publico para receber as comunicacoes",
+  "queryText": "SELECT\n  A.*\nFROM TB_POS_SORTEIO A\nWHERE NAO_IMPORTUNE = 0",
+  "targetName": "Tb_Pos_Sorteio_Filtrada",
+  "targetKey": "00EC5504-F227-441A-85A4-EE0BB450C5D6",
+  "targetId": "b902734f-eff7-ec11-a5b6-d4f5ef66aed7",
+  "targetDescription": "Base para envio das comunicacoes",
+  "createdDate": "2022-06-29T15:16:29.45",
+  "modifiedDate": "2022-09-29T04:06:08.593",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 50784,
+  "isFrozen": false
+}

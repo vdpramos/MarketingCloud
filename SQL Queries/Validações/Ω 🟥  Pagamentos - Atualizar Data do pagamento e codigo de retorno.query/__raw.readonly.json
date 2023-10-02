@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3534d7bc-0bb5-4aac-a892-058ccb6fd11b",
+  "name": "Pagamentos - Atualizar Data do pagamento e codigo de retorno",
+  "key": "3534D7BC-0BB5-4AAC-A892-058CCB6FD11B",
+  "description": "",
+  "queryText": "SELECT  PG.ID, \n        PQ.COD_RETORNO AS HC_Codigo_de_Retorno_de_Erro__c, \n        PQ.DATA_ULT_AGENDAMENTO AS HC_Data_do_pagamento__c\nFROM PagamentosQuedaCap PQ\nINNER JOIN HC_PAGAMENTO__C_SALESFORCE PG\n    ON PG.NAME = PQ.ID_PAGAMENTO\nWHERE PG.HC_Codigo_de_Retorno_de_Erro__c IS NULL",
+  "targetName": "Pagamentos_AtualizaData_CodRetorno",
+  "targetKey": "48318150-B085-494C-8221-C27E60D5883A",
+  "targetId": "c9e360f7-fdb9-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-03T14:00:31.217",
+  "modifiedDate": "2023-03-03T14:13:57.173",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

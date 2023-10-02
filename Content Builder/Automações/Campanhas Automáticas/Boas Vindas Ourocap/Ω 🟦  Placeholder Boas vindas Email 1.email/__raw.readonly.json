@@ -1,0 +1,172 @@
+{
+  "id": 33693,
+  "customerKey": "17e85e37-1863-4164-ad6d-cb9337f6cbc5",
+  "objectID": "dfee43ef-d152-464e-8361-86e60dcd59a4",
+  "contentType": "application/vnd.etmc.email.Message; kind=paste",
+  "assetType": {
+    "id": 208,
+    "name": "htmlemail",
+    "displayName": "HTML Email"
+  },
+  "name": "Placeholder Boas vindas Email 1",
+  "description": "Placeholder para o email de boas vindas da ourocap",
+  "owner": {
+    "id": 713538740,
+    "email": "matheus.leto@harpiacloud.com.br",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "createdDate": "2021-08-03T19:24:51.513-06:00",
+  "createdBy": {
+    "id": 713538740,
+    "email": "matheus.leto@harpiacloud.com.br",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "modifiedDate": "2021-08-03T19:33:15.687-06:00",
+  "modifiedBy": {
+    "id": 713538740,
+    "email": "matheus.leto@harpiacloud.com.br",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/33693/thumbnail"
+  },
+  "category": {
+    "id": 37796,
+    "name": "Boas Vindas Ourocap",
+    "parentId": 37553
+  },
+  "views": {
+    "subjectline": {
+      "contentType": "application/vnd.etmc.email.View; kind=subjectline",
+      "content": "Seja Bem Vindo a Ourocap",
+      "meta": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "preheader": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "html": {
+      "content": "\n<!DOCTYPE html>\n<html>\n\n<head>\n    <custom name=\"opencounter\" type=\"tracking\"/>\n    <meta name=viewport content=\"width=device-width, initial-scale=1\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <title>Banco do Brasil</title>\n    <style>\n        .centerwidth {\n            width: 600px;\n        }\n\n        @media screen and (max-width: 600px) {\n            .full-width {\n                width: 100% !important;\n            }\n        }\n    </style>\n</head>\n\n<body bgcolor=\"#ffffff\">\n    \n    <table style=\"max-width:600px!important; \" border=\"0\" align=\"center\" cellpadding=\"0\"\n        cellspacing=\"0\" class=\"full-width\" width=\"600\">\n        <tr>\n            <td>\n                \n                <!--Banner -->\n                <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\">\n                    <tr>\n                        <td valign=\"top\" align=\"center\" width=\"100%\">\n                            \n                                <img src=\"https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/d66800f2-bc36-47d3-a711-27126993f740.png\"\n                                    alt=\"\" style=\"display: block; outline: none; max-width: 100%;\" border=\"0\" />\n                            \n                        </td>\n                    </tr>\n                </table>\n                <!--Banner -->\n                <!-- Bloco-bgcolor -->\n                <table  bgcolor=\"#FFFFFF\" border=\"0\" align=\"center\" cellpadding=\"0\"\n                    cellspacing=\"0\" width=\"100%\">\n                    <tr>\n                        <td>\n                           \n                            <!--Text-span -->\n                            <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"86%\" style=\"border: 1px solid #475EFF;border-top: none;\">\n                                <tr>\n                                    <td valign=\"top\" align=\"center\" width=\"86%\" style=\"padding: 20px; font-size: 15px; text-align: left; line-height: 24px; font-family: arial;\">\n                                     \n                                        <b style=\"font-size: 25px; line-height: 24px; color: #475EFF;\">Olá,</b>\n                                        <br><br>\n                                        <b style=\"font-size: 18px; line-height: 24px; color: #475EFF;\">Toda semana temos sorteios Ourocap.</b>\n                                        <br><br>\n                                        De xxxxx a xxxxx de xxxx, já foram mais de xxxx títulos <b style=\"color: #475EFF;\">Ourocap</b> sorteados, com um total de R$ xxxxxxx distribuídos em prêmios.\n                                        <br><br>\n                                        Continue acompanhando e torcendo. Você pode ser \n                                        o próximo ganhador!\n                                        <br><br>\n                                        Confira em nosso site todos os prêmios distribuídos e depoimentos de clientes sorteados.\n                                        \n                                        \n                                        \n                                        \n                                        \n                                    </td>\n                                </tr>\n                            </table>\n                            <!--Text-span -->\n                            \n                            <!--Spacer-20 -->\n                            <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\" height=\"25\">\n                                <tr>\n                                    <td valign=\"top\" align=\"center\" width=\"100%\" height=\"25\"></td>\n                                </tr>\n                            </table>\n                            <!--Spacer-20 -->   \n\n                            <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"263\">\n                                <tr>\n                                    <td valign=\"top\" align=\"center\" width=\"263\">\n                                             <a target=\"_blank\" href=\"https://www.brasilcap.com.br/brasilcap/brasilcap/depoimentos/depoimentos.html\">\n                                                <img src=\"https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/569e86a3-f052-4ab9-a88c-78ad96c79362.png\"\n                                                alt=\"\" style=\"display: block; outline: none; max-width: 263px;\" border=\"0\" />\n                                            </a>\n                                    </td>\n                                </tr>\n                            </table>\n                        \n\n                            \n                           \n                            <table bgcolor=\"#FFFFFF\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\">\n                                <tr>\n                                    <td valign=\"top\" align=\"center\" width=\"100%\"\n                                        style=\"text-align: left; font-size: 12px; color: #324B68; font-family: arial; font-size: 12px;\">\n\n                          \n                            \n                           \n                                        <!--Spacer-20 -->\n                                        <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\" height=\"20\">\n                                            <tr>\n                                                <td valign=\"top\" align=\"center\" width=\"100%\" height=\"20\">\n\n                                                </td>\n                                            </tr>\n                                        </table>\n\n                                        <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"80%\">\n                                            <tr>\n                                                <td valign=\"top\" align=\"center\" width=\"80%\">\n                                                    <hr style=\"background: #D6DBE1; border: 0; height: 1px;\">\n                                                </td>\n                                            </tr>\n                                        </table>\n\n                                        <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\" height=\"07\">\n                                            <tr>\n                                                <td valign=\"top\" align=\"center\" width=\"100%\" height=\"07\"></td>\n                                            </tr>\n                                        </table>\n                                        <!--Spacer-20 -->\n                                        <!--Text-span -->\n                                        <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"80%\">\n                                            <tr>\n                                                <td valign=\"top\" align=\"center\" width=\"100%\"\n                                                    style=\"text-align: left; font-size: 12px; color: #324B68; font-family: arial; font-size: 12px;\">\n                                                    Este e-mail é automático Por favor, não responda. Em caso de dúvidas, acesse os nossos canais de atendimento.\n                                                    \n                                                </td>\n                                            </tr>\n                                        </table>\n                                        <!--Text-span -->\n                                        <!--Spacer-07 -->\n                                        <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\" height=\"07\">\n                                            <tr>\n                                                <td valign=\"top\" align=\"center\" width=\"100%\" height=\"07\"></td>\n                                            </tr>\n                                        </table>\n                                        <!--Spacer-07 -->\n                                        <!--Hr -->\n                                        <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"80%\">\n                                            <tr>\n                                                <td valign=\"top\" align=\"center\" width=\"80%\">\n                                                    <hr style=\"background: #D6DBE1; border: 0; height: 1px;\">\n                                                </td>\n                                            </tr>\n                                        </table>\n                                        <!--Hr -->\n                                        <!--Spacer-07 -->\n                                        <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\" height=\"11\">\n                                            <tr>\n                                                <td valign=\"top\" align=\"center\" width=\"100%\" height=\"11\"></td>\n                                            </tr>\n                                        </table>\n                                        <!--Spacer-07 -->\n                                        <!--Bloco-columns-footer -->\n                                        <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"80%\">\n                                            <tr>\n                                                <td valign=\"top\" align=\"center\" width=\"80%\">\n                                                    <table width=\"100%\" border=\"0\" align=\"left\" cellpadding=\"0\" cellspacing=\"0\"\n                                                        bgcolor=\"#FFFFFF\">\n                                                        <tr>\n                                                            <td align=\"left\">\n                                                                <table border=\"0\" align=\"left\" cellpadding=\"0\" cellspacing=\"0\">\n                                                                    <tr>\n                                                                        <td align=\"left\">\n                                                                            <div\n                                                                                style=\"display: inline-block; vertical-align: middle; padding:0px!important; margin:0px!important; max-width:50%;min-width:240px; margin:0 auto\">\n                                                                                <table align=\"left\" cellspacing=\"0\" cellpadding=\"0\"\n                                                                                    border=\"0\" width=\"260\"\n                                                                                    style=\"padding:0px!important; margin:0px!important; \">\n                                                                                    <tr>\n                                                                                        <td valign=\"middle\" align=\"left\"\n                                                                                        style=\"font-family: verdana; font-size: 13px; color: #707070; text-align: left; line-height: 16px;\">\n                                                                                            Siga a Brasilcap nas redes sociais:\n                                                                                        </td>\n                                                                                    </tr>\n                                                                                </table>\n                                                                                <table cellspacing=\"0\" cellpadding=\"0\"\n                                                                                    align=\"center\" border=\"0\" width=\"100%\"\n                                                                                    height=\"5\">\n                                                                                    <tr>\n                                                                                        <td valign=\"top\" align=\"center\" width=\"100%\"\n                                                                                            height=\"5\"></td>\n                                                                                    </tr>\n                                                                                </table>\n                                                                                <table cellspacing=\"0\" cellpadding=\"0\" align=\"left\"\n                                                                                    border=\"0\" width=\"260\">\n                                                                                    <tr>\n                                                                                        <td valign=\"top\" align=\"left\">\n                                                                                            <a href=\"#\"\n                                                                                                title=\"\"\n                                                                                                style=\"text-decoration: none; outline: none; border: none;\"\n                                                                                                target=\"_blank\">\n                                                                                                <img src=\"https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/c147da93-1c99-4f81-ba86-b0fde82e0828.png\"\n                                                                                                    alt=\"\" style=\"outline: none;\"\n                                                                                                    border=\"0\" />\n                                                                                            </a>\n                                                                                            <a href=\"#\" title=\"\"\n                                                                                                style=\"text-decoration: none; outline: none; border: none;\"\n                                                                                                target=\"_blank\">\n                                                                                                <img src=\"https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/be598de5-a9c6-4ba6-894c-0ef6e68f461f.png\"\n                                                                                                    alt=\"\" style=\"outline: none;\"\n                                                                                                    border=\"0\" />\n                                                                                            </a>\n                                                                                            <a href=\"#\"\n                                                                                                title=\"\"\n                                                                                                style=\"text-decoration: none; outline: none; border: none;\"\n                                                                                                target=\"_blank\">\n                                                                                                <img src=\"https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/5f6f993c-01b9-4b1f-9d05-1b86c80f90e5.png\"\n                                                                                                    alt=\"\" style=\"outline: none;\"\n                                                                                                    border=\"0\" />\n                                                                                            </a>\n                                                                                            <a href=\"#\" title=\"\"\n                                                                                                style=\"text-decoration: none; outline: none; border: none;\"\n                                                                                                target=\"_blank\">\n                                                                                                <img src=\"https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/7f9a0440-e887-4f72-8110-160fff21a16a.png\"\n                                                                                                    alt=\"\" style=\"outline: none;\"\n                                                                                                    border=\"0\" />\n                                                                                            </a>\n                                                                                            <a href=\"#\"\n                                                                                                title=\"\"\n                                                                                                style=\"text-decoration: none; outline: none; border: none;\"\n                                                                                                target=\"_blank\">\n                                                                                                <img src=\"https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/46eb71f8-3a54-4db0-9472-23a745686c79.png\"\n                                                                                                    alt=\"\" style=\"outline: none;\"\n                                                                                                    border=\"0\" />\n                                                                                            </a>\n                                                                                            \n                                                                                        </td>\n                                                                                    </tr>\n                                                                                </table>\n                                                                            </div><!--[if (gte mso 9)|(IE)]></td><td><![endif]--><div\n                                                                                style=\"display: inline-block; vertical-align: middle; padding:0px!important; margin:0px!important; max-width:50%;min-width:240px; margin:0 auto\">\n                                                                                <table align=\"center\" cellspacing=\"0\"\n                                                                                    cellpadding=\"0\" border=\"0\" width=\"260\"\n                                                                                    style=\"padding:0px!important; margin:0px!important;\">\n                                                                                    <tr>\n                                                                                        <td width=\"260\" align=\"center\"\n                                                                                            valign=\"middle\">\n                                                                                            <table cellspacing=\"0\" cellpadding=\"0\"\n                                                                                                align=\"left\" border=\"0\" width=\"260\">\n                                                                                                <tr>\n                                                                                                    <td valign=\"top\" align=\"center\"\n                                                                                                        width=\"260\"\n                                                                                                        style=\"font-family: verdana; font-size: 13px; color: #707070; text-align: left; line-height: 16px;\">\n                                                                                                        Baixe o app do Banco do Brasil:\n                                                                                                    </td>\n                                                                                                </tr>\n                                                                                            </table>\n                                                                                            <table cellspacing=\"0\" cellpadding=\"0\"\n                                                                                                align=\"center\" border=\"0\"\n                                                                                                width=\"100%\" height=\"5\">\n                                                                                                <tr>\n                                                                                                    <td valign=\"top\" align=\"center\"\n                                                                                                        width=\"100%\" height=\"5\">\n                                                                                                    </td>\n                                                                                                </tr>\n                                                                                            </table>\n                                                                                            <table width=\"260\" align=\"left\"\n                                                                                                cellspacing=\"0\" cellpadding=\"0\"\n                                                                                                border=\"0\">\n                                                                                                <tr>\n                                                                                                    <td width=\"260\">\n                                                                                                        <a href=\"#\"\n                                                                                                            title=\"\"\n                                                                                                            style=\" text-decoration: none; outline: none; border: none;\"\n                                                                                                            target=\"_blank\">\n                                                                                                            <img src=\"https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/b0e8ee86-822e-48c5-ad17-125f1b9c32f9.png\"\n                                                                                                                alt=\"\"\n                                                                                                                style=\" outline: none;\"\n                                                                                                                border=\"0\" />\n                                                                                                        </a>\n                                                                                                        <a href=\"#\"\n                                                                                                            title=\"\"\n                                                                                                            style=\" text-decoration: none; outline: none; border: none;\"\n                                                                                                            target=\"_blank\">\n                                                                                                            <img src=\"https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/c3a6f68f-741e-4f63-96fa-3fc9ecafcbe0.png\"\n                                                                                                                alt=\"\"\n                                                                                                                style=\" outline: none;\"\n                                                                                                                border=\"0\" />\n                                                                                                        </a>\n                                                                                                    </td>\n                                                                                                </tr>\n                                                                                            </table>\n                                                                                        </td>\n                                                                                    </tr>\n                                                                                </table>\n                                                                            </div>\n                                                                        </td>\n                                                                    </tr>\n                                                                </table>\n                                                            </td>\n                                                        </tr>\n                                                    </table>\n                                                </td>\n                                            </tr>\n                                        </table>\n                                        <!--Bloco-columns-footer -->\n                                        <!--Spacer-08 -->\n                                        \n                                        \n                                        <!--Text-span -->\n                                        <!--Spacer-30 -->\n                                        <table cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\" height=\"10\">\n                                            <tr>\n                                                <td valign=\"top\" align=\"center\" width=\"100%\" height=\"10\"></td>\n                                            </tr>\n                                        </table>\n                                        <!--Spacer-30 -->\n                                    </td>\n                                </tr>\n                            </table>\n                        </td>\n                    </tr>\n                </table>\n                <!-- Bloco-bgcolor -->\n\n\n                <!--Text-span -->\n                <table bgcolor=\"#FFFFFF\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" width=\"100%\">\n                    <tr>\n                        <td valign=\"top\" align=\"center\" width=\"100%\"\n                            style=\"font-family: arial; font-size: 13px; color: #707070; padding: 10px; line-height: 16px;\">\n                            Caso não queira mais receber nossos e-mails, <a href=\"%%unsub_center_url%%\" title=\"\"\n                                style=\" outline: none; border: none; color: #707070; text-decoration: none;\"\n                                target=\"_blank\">clique aqui</a>\n                        </td>\n                    </tr>\n                </table>\n                <!--Text-span -->\n                \n                <!--Spacer-10 -->\n                \n                <!--Spacer-10 -->\n            </td>\n        </tr>\n    </table>\n</body>\n</html>",
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "text": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": "html"
+          }
+        }
+      },
+      "generateFrom": "html",
+      "modelVersion": 2
+    },
+    "viewAsAWebPage": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "subscriptioncenter": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardHTML": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardText": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    }
+  },
+  "availableViews": [
+    "subjectline",
+    "preheader",
+    "html",
+    "text",
+    "viewAsAWebPage",
+    "subscriptioncenter",
+    "forwardHTML",
+    "forwardText"
+  ],
+  "data": {
+    "email": {
+      "options": {
+        "characterEncoding": "utf-8"
+      },
+      "legacy": {
+        "legacyId": 12229,
+        "legacyKey": "17e85e37-1863-4164-ad6d-cb9337f6cbc5",
+        "legacyType": "email",
+        "legacyCategoryId": 1944
+      }
+    }
+  },
+  "legacyData": {
+    "legacyId": 12229,
+    "legacyKey": "17e85e37-1863-4164-ad6d-cb9337f6cbc5",
+    "legacyType": "email",
+    "legacyCategoryId": 1944
+  },
+  "modelVersion": 2
+}

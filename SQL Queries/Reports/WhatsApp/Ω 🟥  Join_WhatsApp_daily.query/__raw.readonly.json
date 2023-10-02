@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "bf96406f-c0e4-479f-a00f-82470ce4a7ef",
+  "name": "Join_WhatsApp_daily",
+  "key": "5a347909-e8bb-42b5-a8cf-71754110af07",
+  "description": "",
+  "queryText": "SELECT \nContactKey,\nMobileNumber,\nEventDateUTC,\nStatus,\nJBDefinitionID,\nSendIdentifier,\nTrackingType,\nJourneyName,\nCPF_CNPJ,\nID_PROPOSTA\nFROM Tracking\nLEFT JOIN _Journey ON _Journey.VersionID = Tracking.JBDefinitionID\nLEFT JOIN AeM_Boas_Vindas_Historico_Propostas ON AeM_Boas_Vindas_Historico_Propostas.Id_Contato = Tracking.ContactKey\nWHERE CPF_CNPJ is not null",
+  "targetName": "Tracking_Union",
+  "targetKey": "24C4CBBA-999F-4442-AF12-824129D1D73B",
+  "targetId": "4afe2036-dda7-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-08T12:26:08.823",
+  "modifiedDate": "2023-03-24T08:39:18.643",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 58913,
+  "isFrozen": false
+}

@@ -1,0 +1,18 @@
+Dataextension name: Tb_Base_Prospect_Offline_Clientes_SemOTC_Teo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Cod_Parceiro         | Text(300)       | false    | false    |                 |
+| CPF                  | Text(300)       | false    | false    |                 |
+| CNPJ                 | Text(300)       | false    | false    |                 |
+| Parceiro_Organizacao | Text(300)       | false    | false    |                 |
+| Parceiro_Localizacao | Text(300)       | false    | false    |                 |
+| Cod_Cliente_MC       | Text(300)       | false    | false    |                 |
+| Nome_Completo        | Text(300)       | false    | false    |                 |
+| Tipo_Pessoa          | Text(300)       | false    | false    |                 |
+| Data_Nascimento      | Text(300)       | false    | false    |                 |
+| Sexo                 | Text(300)       | false    | false    |                 |
+| Cliente_Organizacao  | Text(300)       | false    | false    |                 |
+| Cliente_Chave_Migracao | Text(300)       | false    | false    |                 |
+| Cliente_Chage_Geral_Interna | Text(300)       | false    | false    |                 |
+| Cliente_Tipo_Interno | Text(300)       | false    | false    |                 |

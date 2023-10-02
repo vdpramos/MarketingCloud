@@ -1,0 +1,17 @@
+{
+  "channel": "sms",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:previewbycodetype": {
+    "locale": "BR",
+    "supportsConcatenation": true
+  },
+  "display:message": "Parabens pela compra do seu Ourocap! Estamos felizes em ter voce como nosso cliente! Para maiores informacoes acompanhe no site: www.brasilcap.com.br",
+  "currentColumn": 0,
+  "display:message:display": "Parabens pela compra do seu Ourocap! Estamos felizes em ter voce como nosso cliente! Para maiores informacoes acompanhe no site: www.brasilcap.com.br",
+  "template": "sms",
+  "contents": [],
+  "shortLinks": [],
+  "uncheckedPanels": []
+}

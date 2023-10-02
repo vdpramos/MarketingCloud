@@ -1,0 +1,32 @@
+[
+  {
+    "_CustomObjectKey": "2",
+    "RESULTADO": "ALTA RENDA",
+    "COUNT": "2032"
+  },
+  {
+    "_CustomObjectKey": "3",
+    "RESULTADO": "EXCLUIDO RNA",
+    "COUNT": "43"
+  },
+  {
+    "_CustomObjectKey": "4",
+    "RESULTADO": "IDADE INVALIDA",
+    "COUNT": "2141"
+  },
+  {
+    "_CustomObjectKey": "5",
+    "RESULTADO": "NÃO POSSUI CONTA CORRENTE",
+    "COUNT": "368"
+  },
+  {
+    "_CustomObjectKey": "6",
+    "RESULTADO": "QUARENTENA",
+    "COUNT": "411"
+  },
+  {
+    "_CustomObjectKey": "7",
+    "RESULTADO": "TITULO ATIVO RECENTE",
+    "COUNT": "352"
+  }
+]

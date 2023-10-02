@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a581a5a6-10c1-4d8b-9999-338151c0e770",
+  "name": "Titulos com pagamento a carregar",
+  "key": "f40c7015-b94c-4fc9-b11e-8bb7c7943030",
+  "description": "",
+  "queryText": "select DESC_STATUS_PAGAMENTO, ID_PROPOSTA, ID_PAGAMENTO, ID_PLANO, DATA_ULT_AGENDAMENTO\nfrom PagamentosQuedaCap p\nwhere   not exists (select 1 from HC_Pagamento__c_SALESFORCE d\n                        where p.id_pagamento = d.name)\n                        ",
+  "targetName": "PagamentosQuedaDivergencia",
+  "targetKey": "72E5DB6F-E9BC-47C8-81F4-717DDEFC86F7",
+  "targetId": "54cbaa71-1b17-ec11-a30b-48df370eabe4",
+  "targetDescription": "",
+  "createdDate": "2021-09-14T15:08:35.74",
+  "modifiedDate": "2022-06-08T08:03:30.957",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

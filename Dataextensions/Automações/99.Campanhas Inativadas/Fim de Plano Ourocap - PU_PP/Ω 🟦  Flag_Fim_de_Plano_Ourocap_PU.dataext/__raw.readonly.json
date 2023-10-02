@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "B6424E50-4B1C-4649-8759-8F8D79993850"
+  ],
+  "Name": [
+    "Flag_Fim_de_Plano_Ourocap_PU"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "e0aa4b98-4c21-4f7c-b575-bfe43d33458d",
+  "name": "Src_Fim_de_Plano_PM_CleanDes",
+  "key": "7ce4ee16-bf1b-4288-bf80-a780956e0028",
+  "description": "Limpar os DEs de envio e recebimento do OTC para impedir reexecução da campanha",
+  "script": "<script runat=server>\r\n  Platform.Load(\"Core\", \"1.1.5\");\r\n  var api = new Script.Util.WSProxy();\r\n\r\n  var BASE_OTC290_FILTRADA = \"F74BED9E-146C-443C-8FA7-BF7046425445\"; // DE que enviou o OTC290\r\n  var BASE_OTC291_TRATADA = \"8FB2F699-8B86-4519-BE9F-337E31BEFA8E\"; // DE que recebe o OTC291 tratado\r\n\r\n  var action = \"ClearData\";\r\n  var opts = {};\r\n  var props_BASE_OTC290_FILTRADA = {\r\n    CustomerKey: BASE_OTC290_FILTRADA\r\n  };\r\n\r\n  var props_BASE_OTC291_TRATADA = {\r\n    CustomerKey: BASE_OTC291_TRATADA\r\n  };\r\n  \r\n  api.performItem(\"DataExtension\", props_BASE_OTC290_FILTRADA, action, opts);\r\n  api.performItem(\"DataExtension\", props_BASE_OTC291_TRATADA, action, opts);\r\n\r\n</script>",
+  "categoryId": 39265,
+  "createdDate": "2021-09-14T15:01:41.493",
+  "modifiedDate": "2021-09-14T15:01:41.493"
+}

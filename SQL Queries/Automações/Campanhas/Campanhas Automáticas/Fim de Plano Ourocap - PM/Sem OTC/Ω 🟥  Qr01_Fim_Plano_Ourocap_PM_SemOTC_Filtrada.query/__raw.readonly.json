@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "28029d45-1b0d-4ea5-8a93-45d2d8f724a6",
+  "name": "Qr01_Fim_Plano_Ourocap_PM_SemOTC_Filtrada",
+  "key": "2f951c2c-972e-4a81-af66-7adfaedff451",
+  "description": "Filtra publico para receber as comunicações",
+  "queryText": "SELECT\r\n\tB.*\r\nFROM\r\n  Fim_Plano_PM_semOTC_Publico_Inicial B\r\n/* validações sendo feitas na query de publico inicial */\r\n/* WHERE */\r\n  /* IDADE_VALIDA = 1  */\r\n  /* AND CONSELHEIRO = 0  */\r\n  /* AND CLIENTE_PEP = 0  */\r\n  /* AND DESEJA_CONTATO_TELEFONICO = 0  */\r\n  /* AND COMPRA_RECENTE_OUROCAP = 0  */\r\n  /* AND POSSUI_CONTA_ATIVA = 1 */\r\n  /* AND POSSUI_TELEFONE_ATIVO = 1 */\r\n  /* AND ( */\r\n    /* (CELULAR_VALIDO = 1 AND NAO_DESEJA_RECEBER_SMS = 0) */\r\n    /* OR  (EMAIL_VALIDO = 1 AND NAO_DESEJA_RECEBER_EMAIL = 0) */\r\n  /* ) */\r\n  /*AND QUARENTENA = 0*/\r\n  /* AND NAO_IMPORTUNE IS NULL OR NAO_IMPORTUNE = 0 */",
+  "targetName": "Fim_Plano_PM_semOTC_Filtrado",
+  "targetKey": "65A1AF45-810E-45FA-BE31-A11402F3E255",
+  "targetId": "9d181b3c-1669-ec11-a311-48df370eabe5",
+  "targetDescription": "Publico Alvo das comunicacoes",
+  "createdDate": "2021-12-29T20:15:20.96",
+  "modifiedDate": "2022-11-23T11:50:20.833",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 43811,
+  "isFrozen": false
+}

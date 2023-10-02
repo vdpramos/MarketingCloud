@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "0655b258-7a37-4bd2-ad54-b676d2136abb",
+  "name": "Clientes Não selecionados",
+  "key": "0655B258-7A37-4BD2-AD54-B676D2136ABB",
+  "description": "",
+  "queryText": "select cpf.cpf, c.Contato_no_Marketing__c\r\nfrom Contemplados_CPFs_Faltando cpf\r\ninner join contact_salesforce c\r\n    on cpf.cpf = c.hc_cpf_cnpj__c",
+  "targetName": "ContatosNaoSelecionados",
+  "targetKey": "5FB6CF0F-4D7F-4135-B2E0-6BF09168D929",
+  "targetId": "9c58ca29-8300-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-01T07:53:58.16",
+  "modifiedDate": "2023-06-06T12:07:29.883",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

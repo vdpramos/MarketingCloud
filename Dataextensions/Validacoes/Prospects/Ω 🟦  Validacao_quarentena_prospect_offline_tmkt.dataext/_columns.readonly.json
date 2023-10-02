@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "d8a32e5c-e616-4db2-9978-008dc56a4c99",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Data_Participacao_Campanha",
+    "FieldType": "Date",
+    "ObjectID": "cc54ea0c-82b1-48ad-991b-f3d1be305a68",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  }
+]

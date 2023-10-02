@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "BBFBF09B-A5B9-485B-91A4-D6DBEEBB2C75"
+  ],
+  "Name": [
+    "Exclusão_contatos_quarentena_2"
+  ]
+}

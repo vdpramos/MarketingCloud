@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "c289f426-5861-4923-be34-f794b4e30e02",
+  "name": "CloseTheLoop_Data_Execucao_Campanha",
+  "key": "e447c0ad-61e2-43fb-9add-f576f9a0f73b",
+  "description": "",
+  "script": "<script runat=\"server\">\n// Checa se está no momento de executar a campanha (datetime)\nPlatform(\"Core\", \"2.0\");\nvar Id_Campanha = '7016g000000NhziAAC'; // Id campanha\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51885') ));\n\n</script>",
+  "categoryId": 55205,
+  "createdDate": "2022-11-07T14:49:38.207",
+  "modifiedDate": "2022-11-07T14:50:26.29"
+}

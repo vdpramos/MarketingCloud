@@ -1,0 +1,5 @@
+Dataextension name: Tb_Base_Ex_Cliente_OTC291_TMKT_ONLINE
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Retorno              | Text(4000)      | false    | false    |                 |

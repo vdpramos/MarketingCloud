@@ -1,0 +1,17 @@
+{
+  "channel": "sms",
+  "showTemplatePicker": false,
+  "collapsedPanels": [],
+  "stack": "S11",
+  "display:previewbycodetype": {
+    "locale": "BR",
+    "supportsConcatenation": true
+  },
+  "display:message": "Caros colegas,\n\nFaltam 10 dias para a celebracao de aniversario.\nMarque na agenda: 22/08, 14h, Prodigy Santos Dumont.\nNos vemos la!\n\nEquipe Brasilcap\n",
+  "currentColumn": 0,
+  "display:message:display": "Caros colegas,\n\nFaltam 10 dias para a celebracao de aniversario.\nMarque na agenda: 22/08, 14h, Prodigy Santos Dumont.\nNos vemos la!\n\nEquipe Brasilcap\n",
+  "template": "sms",
+  "contents": [],
+  "shortLinks": [],
+  "uncheckedPanels": []
+}

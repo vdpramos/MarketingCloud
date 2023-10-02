@@ -1,0 +1,35 @@
+Dataextension name: Tb_Base_OTC291_Filtrada_Validacao
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Codigo_Parceiro      | Text(3)         | false    | false    | 001             |
+| Id_Cliente           | Text(9)         | false    | false    |                 |
+| Codigo_MCI           | Text(9)         | false    | false    |                 |
+| Tipo_Pessoa          | Text(1)         | false    | false    |                 |
+| Codigo_CIC           | Text(15)        | false    | false    |                 |
+| Dt_Nascimento        | Text(10)        | false    | false    |                 |
+| Nome                 | Text(60)        | false    | false    |                 |
+| Sexo                 | Text(1)         | false    | false    |                 |
+| UF_Residencial       | Text(2)         | false    | false    |                 |
+| Ddd1                 | Text(4)         | false    | false    |                 |
+| Telefone1            | Text(10)        | false    | false    |                 |
+| Ddd2                 | Text(4)         | false    | false    |                 |
+| Telefone2            | Text(10)        | false    | false    |                 |
+| Ddd3                 | Text(4)         | false    | false    |                 |
+| Telefone3            | Text(10)        | false    | false    |                 |
+| Codigo_Plano         | Text(5)         | false    | false    |                 |
+| Origem_Solicitacao   | Text(2)         | false    | false    |                 |
+| Filler               | Text(73)        | false    | false    |                 |
+| Codigo_RNA           | Text(3)         | false    | false    |                 |
+| Valor_Rendimentos    | Text(15)        | false    | false    |                 |
+| Tipo_Carteira        | Text(4)         | false    | false    |                 |
+| Nivel_Relacionamento | Text(5)         | false    | false    |                 |
+| Data_Informacao      | Text(26)        | false    | false    |                 |
+| Filler2              | Text(17)        | false    | false    |                 |
+| Primeiro_Nome        | Text(50)        | false    | false    |                 |
+| Sobrenome            | Text(50)        | false    | false    |                 |
+| Dt_Nascimento_SF     | Date            | false    | false    |                 |
+| Faixa_Renda_Mensal   | Decimal(16,2)   | false    | false    |                 |
+| CPF                  | Text(50)        | true     | true     |                 |
+| Data_Registro        | Date            | false    | false    | GETDATE()       |
+| Alta_Renda           | Text(50)        | false    | false    |                 |

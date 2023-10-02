@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a8ea2d3d-9f15-4e1d-8efd-7859613b3f7e",
+  "name": "QrComparaEncarteiramento",
+  "key": "52f3c519-1668-4022-bd55-ba5f9d1ff6cc",
+  "description": "",
+  "queryText": "select e.cpf, e.parceiro, d.desc_encarteiramento as encarteiramento, c.id, c.encarteiramento__c, d.id_encarteiramento\nfrom encarteiramento e\ninner join hc_relacao_cliente_parceiro__c_SALESFORCE c\n    on e.cpf = c.HC_CPF_CNPJ__c\n    and e.parceiro = HC_Id_Parceiro_Cap__c\ninner join dom_encarteiramento d\n    on d.id_encarteiramento = e.encarteiramento\nwhere d.desc_encarteiramento <> c.encarteiramento__c",
+  "targetName": "EncarteiramentoTratado",
+  "targetKey": "50BD3F03-F705-4F33-9539-993B5B182372",
+  "targetId": "4247b160-353b-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2022-09-23T06:48:51.173",
+  "modifiedDate": "2022-09-27T10:17:02.883",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

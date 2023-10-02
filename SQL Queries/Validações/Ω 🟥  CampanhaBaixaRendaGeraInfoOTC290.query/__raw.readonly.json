@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "575345c6-6220-4302-92c5-ca125d24befc",
+  "name": "CampanhaBaixaRendaGeraInfoOTC290",
+  "key": "2e4dedf3-ec90-4295-8b8a-f7a6177f3cf6",
+  "description": "",
+  "queryText": "SELECT distinct\n  '001'+\n  REPLICATE (' ' , 9)+\n  REPLICATE ('0' , 9)+\n  '1'+\n  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, a.hc_cpf_cnpj_cliente__c), 15)+\n  CONVERT(VARCHAR(10), CONVERT(DATE, a.hc_data_nascimento__c, 103), 112)+\n  LEFT(CONVERT(VARCHAR(60), a.name) + REPLICATE(' ', 60), 60)+\n  REPLICATE (' ' , 1)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 5)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 73)+\n  REPLICATE (' ' , 70) AS BASE\nFROM\n  hc_relacao_cliente_parceiro__c_salesforce r\n  inner join account_salesforce a\n    on A.HC_CPF_CNPJ_Cliente__c = R.HC_CPF_CNPJ__C\n  inner join CPF_EnvioOTC290 env\n    on env.cpf = r.HC_CPF_CNPJ__C\nwhere len(env.cpf) = 11 and HC_Chave_Parceiro__c = 52 or HC_chaveParceiro__c = 52 and a.id is not null",
+  "targetName": "PublicoEnvioOTC290CampBaixaRenda",
+  "targetKey": "F2D757D1-BC5B-459B-B279-97EB766915A0",
+  "targetId": "795e6e87-66db-ec11-a319-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2022-05-24T07:38:06.207",
+  "modifiedDate": "2023-05-26T09:46:59.407",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

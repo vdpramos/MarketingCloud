@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "22ba6db6-d033-44e6-a5b5-afc776ded187",
+  "name": "Close_the_loop_resgate_fim_extracao",
+  "key": "d50fab89-075d-4d91-be9d-99647df2018a",
+  "description": "",
+  "queryText": "SELECT *,\n    (SELECT MAX(Onda) FROM Close_the_loop_controle_ondas) AS Onda\nFROM Close_the_loop_OTC291_filtrada\nWHERE\n    Interacao = 'Resgate Fim'",
+  "targetName": "Close_the_loop_resgate_fim_extracao",
+  "targetKey": "8A11B117-25E2-4869-8AB0-4DBE853CCD83",
+  "targetId": "47310c43-e370-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-29T17:07:31.363",
+  "modifiedDate": "2023-04-26T10:39:12.033",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 56143,
+  "isFrozen": false
+}

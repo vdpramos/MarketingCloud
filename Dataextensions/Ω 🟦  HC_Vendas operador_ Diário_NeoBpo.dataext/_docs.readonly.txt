@@ -1,0 +1,24 @@
+Dataextension name: HC_Vendas operador_ Diário_NeoBpo
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Campanha pai: Nome da campanha | Text(255)       | false    | false    |                 |
+| Nome da campanha     | Text(255)       | false    | false    |                 |
+| Produto: Nome de Produto | Text(255)       | false    | false    |                 |
+| Valor Total          | Text(255)       | false    | false    |                 |
+| Proprietário da oportunidade: Nome completo | Text(255)       | false    | false    |                 |
+| Número               | Text(255)       | false    | false    |                 |
+| Data_Hora de abertura | Date            | false    | false    |                 |
+| Nome da Proposta     | Text(255)       | false    | false    |                 |
+| Fase                 | Text(255)       | false    | false    |                 |
+| Parceiro             | Text(255)       | false    | false    |                 |
+| Fornecedor           | Text(255)       | false    | false    |                 |
+| Data da Contratação  | Text(50)        | false    | false    |                 |
+| Situação             | Text(50)        | false    | false    |                 |
+| Valor da Parcela     | Text(50)        | false    | false    |                 |
+| Nome da oportunidade | Text(50)        | false    | false    |                 |
+| Data de fechamento   | Text(50)        | false    | false    |                 |
+| Código do Produto    | Text(50)        | false    | false    |                 |
+| CPF do Titular       | Text(50)        | false    | false    |                 |
+| Quantidade de Itens  | Text(50)        | false    | false    |                 |
+| Agendamento          | Text(50)        | false    | false    |                 |

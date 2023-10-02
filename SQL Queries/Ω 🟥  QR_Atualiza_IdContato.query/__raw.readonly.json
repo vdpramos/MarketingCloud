@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6f655957-ad30-4c32-bb67-46b768ee79b7",
+  "name": "QR_Atualiza_IdContato",
+  "key": "6F655957-AD30-4C32-BB67-46B768EE79B7",
+  "description": "",
+  "queryText": "SELECT A.CPF, B.Id AS Id_Contato, b.accountId as Id_conta\nFROM Tb_Base_Prospect_OTC291_Online_Filtrada_AeC A \nJOIN [Contact_Salesforce] B \nON A.CPF = B.hc_cpf_cnpj__c",
+  "targetName": "Tb_Base_Prospect_OTC291_Online_Filtrada_AeC",
+  "targetKey": "41C2C2DC-727A-4E63-B458-D06331F312F1",
+  "targetId": "125c4b0d-661b-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "Público gerado para a campanha e discador",
+  "createdDate": "2023-07-10T10:12:27.893",
+  "modifiedDate": "2023-07-13T09:37:25.713",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 1930,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8fdd264a-0a40-4086-a3a1-797515d1845f",
+  "name": "Pagamentos - StatusDiferente",
+  "key": "b63b7897-49c0-4b90-81c4-f2d2551257e7",
+  "description": "Verifica os pagamentos que existem no CAP e no salesforce porém estão com status divergente.",
+  "queryText": "select DESC_STATUS_PAGAMENTO, ID_PROPOSTA, ID_PAGAMENTO, ID_PLANO, DATA_ULT_AGENDAMENTO, d.HC_Status_do_Pagamento__c\nfrom PagamentosQuedaCap p\ninner join HC_Pagamento__c_SALESFORCE d\n    on p.id_pagamento = d.name\nwhere (p.DESC_STATUS_PAGAMENTO = 'Queda de previa' and d.HC_Status_do_Pagamento__c != 'Queda de Prévia')\n        or (p.DESC_STATUS_PAGAMENTO = 'Queda' and d.HC_Status_do_Pagamento__c != 'Queda')                         ",
+  "targetName": "PagamentoStatusDivergente",
+  "targetKey": "AC8A7B5B-2FA7-40C2-B703-B7D064ED93EF",
+  "targetId": "c8ad80d9-2017-ec11-a30b-48df370eabe4",
+  "targetDescription": "Verifica os pagamentos com status diferente do CAP",
+  "createdDate": "2021-10-05T14:00:58.91",
+  "modifiedDate": "2021-10-06T15:01:50.65",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 28566,
+  "isFrozen": false
+}

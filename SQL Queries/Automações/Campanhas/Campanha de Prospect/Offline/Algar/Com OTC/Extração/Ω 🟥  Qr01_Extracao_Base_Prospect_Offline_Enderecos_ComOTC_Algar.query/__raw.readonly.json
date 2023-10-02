@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7eb54172-3d9a-4f99-8ccf-c2fd593d8fb7",
+  "name": "Qr01_Extracao_Base_Prospect_Offline_Enderecos_ComOTC_Algar",
+  "key": "5f8dfc21-1b4b-4c4d-a1b2-1e0d199d0038",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n  'TCBB' AS COD_PARCEIRO,\n  A.CPF,\n  '' AS CNPJ,\n  B.CEP\nFROM\n  TB_BASE_PROSPECT_OTC291_FILTRADA_ALGAR A \n  INNER JOIN\n    TB_BASE_PROSPECT_COMOTC_TRATADA_ALGAR B \n    ON A.CPF = RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, B.CPF), 11)",
+  "targetName": "Tb_Base_Prospect_Offline_Enderecos_ComOTC_Algar",
+  "targetKey": "84A69980-1802-46CA-B3C2-9674AAD593BA",
+  "targetId": "8ae9acf0-6345-eb11-a2f2-48df370ed7f4",
+  "targetDescription": "",
+  "createdDate": "2021-01-27T16:48:52.96",
+  "modifiedDate": "2022-03-16T04:39:52.763",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29375,
+  "isFrozen": false
+}

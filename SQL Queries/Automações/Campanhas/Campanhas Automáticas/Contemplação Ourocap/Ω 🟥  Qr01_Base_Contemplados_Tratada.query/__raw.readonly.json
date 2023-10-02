@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "214367ca-36ba-44f0-81bc-14ff0a3e4adb",
+  "name": "Qr01_Base_Contemplados_Tratada",
+  "key": "51e161df-6f87-40c5-8a39-0db347ed25d5",
+  "description": "",
+  "queryText": "SELECT BASE.CPF_CNPJ,\n       BASE.NOME,\n       BASE.IDADE,\n       BASE.DT_NASCIMENTO,\n       BASE.SEXO,\n       BASE.TIPO_PESSOA,\n       BASE.PARCEIRO,\n       BASE.Id_Campanha,\n       BASE.Id,\n       BASE.Id_Cliente_Parceiro,\n       BASE.Id_Contato,\n       BASE.Id_Cliente,\n       BASE.DT_INICIO_SORTEIO,\n       BASE.Valor_Max_Contemplacao,\n       BASE.Valor_Min_Contemplacao,\n       BASE.Dt_Inicio_Contemplacao,\n       BASE.Dt_Fim_Contemplacao,\n\t   BASE.Dt_Ultima_Contemplacao,\n\t   BASE.Valor_Premio,\n\t   BASE.Numero_Sorteado,\n       CASE WHEN BASE.DDD_TEL_06 IS NOT NULL\n                AND BASE.TEL_06 IS NOT NULL THEN CONCAT('55',BASE.DDD_TEL_06, BASE.TEL_06)\n           WHEN BASE.DDD_TEL_04 IS NOT NULL\n                AND BASE.TEL_04 IS NOT NULL THEN CONCAT('55',BASE.DDD_TEL_04, BASE.TEL_04)\n           WHEN BASE.DDD_TEL_05 IS NOT NULL\n                AND BASE.TEL_05 IS NOT NULL THEN CONCAT('55',BASE.DDD_TEL_05, BASE.TEL_05)\n       END AS NUMERO_CELULAR_ATIVO,\n       BASE.DATA_PROXIMA_EXECUCAO,\n       'BR' AS LOCALE\nFROM Tb_Base_Contemplacao_Ourocap BASE\nWHERE \n    (\n  LEN(CONCAT(BASE.DDD_TEL_04, BASE.TEL_04)) = 11\n  OR LEN(CONCAT(BASE.DDD_TEL_05, BASE.TEL_05)) = 11\n  OR LEN(CONCAT(BASE.DDD_TEL_06, BASE.TEL_06)) = 11\n  )",
+  "targetName": "Tb_Base_Contemplacao_Ourocap_Tratada",
+  "targetKey": "6B1555E4-724B-489C-BB4A-8C173370E90D",
+  "targetId": "a4d45fc3-89f1-eb11-a30d-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-09-13T16:37:33.357",
+  "modifiedDate": "2021-12-16T08:50:08.65",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 32277,
+  "isFrozen": false
+}

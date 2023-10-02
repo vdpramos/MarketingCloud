@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "b23a620b-0997-4178-ae3b-d5f3f063bbd2",
+  "name": "DesistenciaRenovacaoAutomatica",
+  "key": "05c3402d-8100-4bf0-bfd4-344e6c3342b1",
+  "description": "",
+  "queryText": "select CP.NAME AS NOME_CLIENTE, T.id AS ID_TITULO_SF, HC_CPF_CNPJ_Titular__c AS CPF_CNPJ, T.HC_Parceiro__c as PARCEIRO, HC_Titulo__c AS TITULO, HC_Serie__c AS SERIE, HC_Plano__c AS PLANO, HC_Fim_previsto__c AS FIM_PREVISTO, HC_Cliente_x_Parceiro__c AS ID_CLIENTE_SF \nfrom HC_Titulo__c_SALESFORCE  T\nINNER JOIN HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE CP\n    ON CP.ID = T.HC_Cliente_x_Parceiro__c\nwhere HC_renovacao_automatica__c = 'false' \nand HC_Fim_previsto__c = DATEDIFF(DD, -15, GETDATE())",
+  "targetName": "PublicoAlvoDesistenciaRA",
+  "targetKey": "E48E76BC-6724-4A4F-B151-EFD817A31F93",
+  "targetId": "a50e06e4-3894-ec11-a317-48df37342c99",
+  "targetDescription": "Data Extension para armazenar as informações do público alvo para campanha de desistência de renovação automática",
+  "createdDate": "2022-02-22T19:07:31.483",
+  "modifiedDate": "2022-06-08T08:01:35.173",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 46010,
+  "isFrozen": false
+}

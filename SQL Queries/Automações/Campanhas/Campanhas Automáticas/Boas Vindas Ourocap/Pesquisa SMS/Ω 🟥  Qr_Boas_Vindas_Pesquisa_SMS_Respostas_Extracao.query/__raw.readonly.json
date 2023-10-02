@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4ad435a6-aabf-419f-9e13-f9425eda2943",
+  "name": "Qr_Boas_Vindas_Pesquisa_SMS_Respostas_Extracao",
+  "key": "f71ba233-c382-4faf-848c-2ab52cf981ae",
+  "description": "",
+  "queryText": "SELECT DISTINCT\nId_Contato, \nCPF_CNPJ, \nCelular, \nNome, \nResposta, \nData\nFROM\nBoas_Vindas_Respostas_SMS\nWHERE\nMONTH(Data) = MONTH(GETDATE())\nAND \nDATEPART(YYYY, Data) = DATEPART(YYYY, GETDATE())",
+  "targetName": "Boas_Vindas_Respostas_SMS_Extracao",
+  "targetKey": "88C88ECC-E24F-4D54-8511-F3859B31E1F4",
+  "targetId": "fec4d6fd-f039-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2022-09-23T18:47:34.103",
+  "modifiedDate": "2023-03-20T08:46:54.12",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 53495,
+  "isFrozen": false
+}

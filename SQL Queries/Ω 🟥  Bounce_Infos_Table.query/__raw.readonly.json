@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "84fe1f91-203e-47bd-92d6-285774b4c8f0",
+  "name": "Bounce_Infos_Table",
+  "key": "e9c84d08-4770-42dc-8d84-6947a8b8bc58",
+  "description": "Informaçoes de Bounce dos ultimos 7 dias, a partir da data do sistema",
+  "queryText": "SELECT SubscriberKey, JobID, EventDate, BounceCategory, BounceType\nFROM [_Bounce]\nWHERE\nmonth(EventDate) = month(getdate()-1) \nand \nyear(EventDate) = year(getdate()-1)",
+  "targetName": "BOUNCE_INFOS",
+  "targetKey": "E918694D-63AD-45BA-AD8B-7D2BD2E39767",
+  "targetId": "10c2d872-d773-ec11-a311-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2022-01-13T09:21:13.887",
+  "modifiedDate": "2023-02-14T08:34:26.61",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

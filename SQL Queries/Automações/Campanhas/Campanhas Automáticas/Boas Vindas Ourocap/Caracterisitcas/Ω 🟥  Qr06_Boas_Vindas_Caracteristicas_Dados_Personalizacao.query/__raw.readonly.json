@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "17448e1a-520e-4adf-a68d-998b07470ba4",
+  "name": "Qr06_Boas_Vindas_Caracteristicas_Dados_Personalizacao",
+  "key": "1343d2d3-e90b-4808-a0af-e826879789c8",
+  "description": "Busca dados para gerar a tabela da comunicacao",
+  "queryText": "SELECT \n\tB.CPF_CNPJ,\n\tB.ID_TITULO,\n\tT.HC_Serie__c AS SERIE_DO_TITULO,\n\tT.HC_Inicio__c AS INICIO,\n\tT.HC_PLANO__C AS PLANO_DO_TITULO,\n\tT.HC_VALOR_DA_PARCELA__C AS VALOR_PARCELA,\n\tT.NAME,\n\tT.HC_FIM_PREVISTO__C AS FIM_PREVISTO,\n\tT.HC_NUMERO_DA_SORTE__C AS NUMERO_DA_SORTE,\n\tA.NOME_PRODUTO AS NOME_PRODUTO\nFROM TB_BOAS_VINDAS_OUROCAP_CLIENTES_E_TITULOS_FILTRO A\nINNER JOIN TB_BOAS_VINDAS_OUROCAP_CLIENTES_E_TITULOS B ON A.CPF_CNPJ = B.CPF_CNPJ\nINNER JOIN HC_TITULO__C_SALESFORCE T WITH (NOLOCK) ON B.ID_TITULO = T.ID",
+  "targetName": "TB_BOAS_VINDAS_OUROCACAP_CARACTERISTICAS_TITULOS",
+  "targetKey": "B6BC7123-D461-42FF-8A5E-A4738AF79B61",
+  "targetId": "7cba21b4-f63f-ec11-a313-48df37342c99",
+  "targetDescription": "Titulos para a comunicacao",
+  "createdDate": "2021-11-07T12:26:43.99",
+  "modifiedDate": "2021-12-10T16:33:56.947",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 41120,
+  "isFrozen": false
+}

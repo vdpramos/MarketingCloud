@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "362f9e23-0eae-4c58-8b69-27712db1c1b5",
+  "name": "Atualiza291_Marreta",
+  "key": "9cdf5f1e-623c-4138-9712-ee963d42b821",
+  "description": "",
+  "queryText": "select distinct b.*\nfrom Tb_Base_Prospect_Online_Filtrada_TMKT a\ninner join Tb_Base_OTC291_Tratada_Historico b\n    on a.cpf = b.cpf",
+  "targetName": "Tb_Base_OTC291_Tratada",
+  "targetKey": "46F3AFB7-1F20-4480-A5F3-914E1D9B6FDA",
+  "targetId": "a30ed21c-48e6-eb11-a304-48df37342b90",
+  "targetDescription": "Base para guardar os contatos já retornados no OTC291",
+  "createdDate": "2022-11-26T09:14:33.193",
+  "modifiedDate": "2022-11-26T09:23:49.13",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 53113,
+  "isFrozen": false
+}

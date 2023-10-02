@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "cpf",
+    "FieldType": "Text",
+    "ObjectID": "40f8aa60-5f7d-44e7-977f-6f1e912d2e82",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Id_conta",
+    "FieldType": "Text",
+    "ObjectID": "92b3c63f-62e2-43db-be3d-35c1feda8b2b",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Id_contato",
+    "FieldType": "Text",
+    "ObjectID": "8e0225a0-81eb-49b0-b854-c6f0bd1e4a6d",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Id_cliente_parceiro",
+    "FieldType": "Text",
+    "ObjectID": "4d9a8976-91bc-4363-b230-390c2f0ac89b",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

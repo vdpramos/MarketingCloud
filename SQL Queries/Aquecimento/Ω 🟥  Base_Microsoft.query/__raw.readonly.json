@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "64c310fd-4e9f-4fe4-82e2-5c645e9fd70a",
+  "name": "Base_Microsoft",
+  "key": "500fb073-df07-4b29-a4ee-67199d5271b4",
+  "description": "",
+  "queryText": "\nSELECT DISTINCT\nBf.CPF,\nBF.NOME,\nBF.EMAIL,\nBF.EMAIL_VALIDO\nFROM Base_Final BF\nWhere\n  Email like '%@hotmail.com%'\n or\n Email like '%@outlook.com%'\n or\n Email like '%@live.com%'\n or\n Email like '%@msn.com%'",
+  "targetName": "Base_Microsoft",
+  "targetKey": "27722AC7-2597-4805-B36A-30055EE3DF56",
+  "targetId": "ec9343a5-d32f-ec11-a30b-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-10-17T23:47:23.803",
+  "modifiedDate": "2021-10-17T23:47:23.803",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 40397,
+  "isFrozen": false
+}

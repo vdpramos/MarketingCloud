@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ee5d5abb-ac86-40ad-a0f6-e7be91e01eb6",
+  "name": "Qr_Boas_Vindas_Pesquisa_SMS_Adicionar_Historico",
+  "key": "589c39b0-e2ec-4d99-8a6a-e66fa48ced5f",
+  "description": "",
+  "queryText": "SELECT \n  ID_PROPOSTA,\n  CPF_CNPJ,\n  ID_CONTATO,\n  ID_CLIENTE_PARCEIRO,\n  CELULAR_VALIDO,\n  NAO_DESEJA_RECEBER_SMS,\n  CELULAR,\n  TITULOS_ANTERIORES_ATIVOS,\n  TITULOS_ANTERIORES_INATIVOS,\n  CREATEDDATE,\n  NOME\nFROM TB_BOAS_VINDAS_PESQUISA_SMS\nWHERE\nCELULAR IS NOT NULL",
+  "targetName": "Boas_Vindas_Pesquisa_SMS_Historico",
+  "targetKey": "AD6DB633-1B4C-4C4B-9B2C-63AAB9D3A005",
+  "targetId": "7f77aa8e-c239-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Historico de propostas ja enviadas para campanha",
+  "createdDate": "2022-09-21T11:36:35.133",
+  "modifiedDate": "2022-11-08T12:09:43.33",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 53495,
+  "isFrozen": false
+}

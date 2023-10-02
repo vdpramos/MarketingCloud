@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "da647ac2-073a-462c-aee3-00b94b73b5dd",
+  "name": "Qr_Campeonato_Skate_Formata_Celular",
+  "key": "e7734b6f-96ca-4159-a633-2ec65b830fce",
+  "description": "Formata campo de celular para envio do SMS",
+  "queryText": "SELECT\n  ID,\n  REPLACE(REPLACE(REPLACE(REPLACE(CELULAR, '(', ''), ')', ''), ' ', ''), '-', '') AS CELULAR\nFROM TB_CAMPEONATOSKATE\nWHERE CELULAR IS NOT NULL",
+  "targetName": "Tb_CampeonatoSkate",
+  "targetKey": "E4652B12-EBE1-46B7-930D-5F728E0F6A73",
+  "targetId": "8e499139-2e29-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2022-08-31T07:16:04.553",
+  "modifiedDate": "2022-09-02T20:48:03.17",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 52934,
+  "isFrozen": false
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "E2098BD2-5608-47B5-8EDB-9682CE8731F2"
+  ],
+  "Name": [
+    "NPSResgateAntecipadoUnificadaDE"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "f7d545d0-6228-4586-89e7-89b1d414ae5e",
+  "name": "Qr01_Base_Fim_Plano_Ourocap_PM_ComOTC_Trata_CxP_NeoBpo",
+  "key": "e985b7fc-14cb-4274-b15d-8afafa8c1bcc",
+  "description": "",
+  "queryText": "SELECT\r\n\tA.HC_CPF_CNPJ__C AS ID,\r\n    CASE WHEN A.HC_CONSELHEIRO__C = 1 THEN 1 ELSE 0 END AS CONSELHEIRO,\r\n    CASE WHEN A.HC_PEP__C = 1 THEN 1 ELSE 0 END AS CLIENTE_PEP,\r\n    /* CASE WHEN A.HC_NAO_DESEJA_RECEBER_LIGACOES__C = 1 THEN 1 ELSE 0 END AS DESEJA_CONTATO_TELEFONICO, */\r\n    CASE WHEN A.HC_IDADE__C BETWEEN 18 AND 70 THEN 1 ELSE 0 END AS IDADE_VALIDA\r\n    /* CASE WHEN (LEN(CONCAT(B.DDD_TEL_01,B.TEL_01)) = 10 OR LEN(CONCAT(B.DDD_TEL_02,B.TEL_02)) = 10 OR LEN(CONCAT(B.DDD_TEL_03,B.TEL_03)) = 10\r\n     OR LEN(CONCAT(B.DDD_TEL_04,B.TEL_04)) = 11 OR LEN(CONCAT(B.DDD_TEL_05,B.TEL_05)) = 11 OR LEN(CONCAT(B.DDD_TEL_06,B.TEL_06)) = 11) THEN 1 ELSE 0 END AS POSSUI_TELEFONE_ATIVO,\r\n    CASE \r\n\t    WHEN (A.HC_BANCO_1__C IS NOT NULL AND A.HC_AGENCIA_1__c IS NOT NULL AND A.HC_NUMERO_DA_CONTA_1__c IS NOT NULL) THEN 1\r\n        WHEN (A.HC_BANCO_2__C IS NOT NULL AND A.HC_AGENCIA_2__c IS NOT NULL AND A.HC_NUMERO_DA_CONTA_2__c IS NOT NULL) THEN 1\r\n        ELSE 0\r\n    END AS POSSUI_CONTA_ATIVA */\r\nFROM\r\n    HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE A\r\nINNER JOIN Tb_Base_Fim_Plano_Ourocap_PM_ComOTC_NeoBpo B ON A.HC_CPF_CNPJ__C = B.CPF_CNPJ",
+  "targetName": "Tb_Base_Fim_Plano_Ourocap_PM_ComOTC_NeoBpo",
+  "targetKey": "5A7B550C-4392-49A8-81F9-51A0DBE2BA26",
+  "targetId": "afea19a4-ee1f-ec11-a30b-48df370eabe4",
+  "targetDescription": "",
+  "createdDate": "2021-05-03T15:35:50.663",
+  "modifiedDate": "2021-09-27T18:22:14.397",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 33760,
+  "isFrozen": false
+}

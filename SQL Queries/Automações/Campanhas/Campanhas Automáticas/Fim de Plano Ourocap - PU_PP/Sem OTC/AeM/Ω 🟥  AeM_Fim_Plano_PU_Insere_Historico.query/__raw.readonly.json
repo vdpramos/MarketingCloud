@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "80c0e68a-e14d-483e-817a-2d2fe3aa9ab7",
+  "name": "AeM_Fim_Plano_PU_Insere_Historico",
+  "key": "385a93a0-bc37-4487-b4ca-2932de846016",
+  "description": "Insere para não comunicar sobre o mesmo titulo mais de uma vez",
+  "queryText": "SELECT\n  TITULO_ID\nFROM AeM_FIM_PLANO_PU_SEMOTC_FILTRADO",
+  "targetName": "AeM_Fim_Plano_PU_semOTC_Historico",
+  "targetKey": "A996CA95-0A36-495B-B485-080CD574FEFC",
+  "targetId": "64b8e658-1086-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Guarda Titulos ja informados",
+  "createdDate": "2022-12-27T17:59:20.08",
+  "modifiedDate": "2022-12-27T17:59:20.08",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 57349,
+  "isFrozen": false
+}

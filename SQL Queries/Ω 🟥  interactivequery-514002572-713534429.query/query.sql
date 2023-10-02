@@ -1,0 +1,3 @@
+SELECT rtrim(left(coalesce(CAST(T1.HC_Cliente__c as char(255)),'<null>'), 255)) as HC_Cliente__c, rtrim(left(coalesce(CAST(T1.HC_Parceiro__c as char(255)),'<null>'), 255)) as HC_Parceiro__c, rtrim(left(coalesce(CAST(T2.Name as char(255)),'<null>'), 255)) as cliente, rtrim(left(coalesce(CAST(T3.HC_Nome__c as char(255)),'<null>'), 255)) as parceiro from HC_Relacao_Cliente_Parceiro__c_Salesforce T1
+INNER JOIN Account_Salesforce T2 ON T1.HC_Cliente__c = T2.Id
+INNER JOIN HC_Parceiro__c_Salesforce T3 ON T1.HC_Parceiro__c = T3.Id

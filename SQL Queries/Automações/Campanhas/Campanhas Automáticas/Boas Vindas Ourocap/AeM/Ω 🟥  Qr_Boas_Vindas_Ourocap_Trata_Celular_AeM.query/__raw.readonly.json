@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "932aa9eb-b7d0-43a3-ae3e-b70b1b6059d4",
+  "name": "Qr_Boas_Vindas_Ourocap_Trata_Celular_AeM",
+  "key": "a96c9588-4391-4e6f-ab9a-d44371e6c269",
+  "description": "Trata o campo de celular para deixar formatado e realizar o envio de SMS na Jornada",
+  "queryText": "SELECT\n  A.CPF_CNPJ,\n  A.ID_PROPOSTA,\n  '55' + REPLACE(REPLACE(REPLACE(REPLACE(A.CELULAR, '(', ''), ')', ''), ' ', ''), '-', '') AS CELULAR\nFROM AeM_Tb_Boas_Vindas_Ourocap_Prospostas A\nWHERE CELULAR IS NOT NULL",
+  "targetName": "AeM_Tb_Boas_Vindas_Ourocap_Prospostas",
+  "targetKey": "4C6832B7-23E5-46FF-B283-32F1EA268620",
+  "targetId": "7553b3cb-bb50-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Publico Inicial - Propostas elegiveis para campanha",
+  "createdDate": "2022-10-21T12:04:52.95",
+  "modifiedDate": "2023-02-08T14:54:27.85",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 54649,
+  "isFrozen": false
+}

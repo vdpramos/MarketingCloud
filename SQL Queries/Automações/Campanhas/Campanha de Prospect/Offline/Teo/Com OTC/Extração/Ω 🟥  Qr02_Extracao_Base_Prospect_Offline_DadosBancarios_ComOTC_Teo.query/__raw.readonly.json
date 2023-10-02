@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "6f12b02d-c5fc-42ed-bb17-51dd2df653c5",
+  "name": "Qr02_Extracao_Base_Prospect_Offline_DadosBancarios_ComOTC_Teo",
+  "key": "20602cd8-fb4a-4c2e-b07a-e1650d0f4953",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n  'TCBB' as COD_PARCEIRO,\n  A.CPF,\n  '' AS CNPJ,\n  '001' as BANCO,\n  B.AGENCIA,\n  Digito_Verificador_Agencia,\n  B.Conta as CONTA_CORRENTE,\n  Digito_Verificador_Conta,\n  Agencia_Conta_Digito_Verificador,\n  'CC' as Tipo_Conta\nFROM\n  TB_BASE_PROSPECT_OTC291_FILTRADA_TEO A \n  INNER JOIN\n    TB_BASE_PROSPECT_COMOTC_TRATADA_TEO B \n    ON A.CPF = RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, B.CPF), 11)\n    INNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce C ON A.CPF = C.CPF_CNPJ_Cliente__c",
+  "targetName": "Tb_Base_Prospect_Offline_DadosBancarios_ComOTC_Teo",
+  "targetKey": "8A6327C2-5B61-4D08-B3D9-B32617F3A092",
+  "targetId": "9fdc8a5b-8170-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-16T12:52:10.77",
+  "modifiedDate": "2022-03-24T15:18:39.117",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29379,
+  "isFrozen": false
+}

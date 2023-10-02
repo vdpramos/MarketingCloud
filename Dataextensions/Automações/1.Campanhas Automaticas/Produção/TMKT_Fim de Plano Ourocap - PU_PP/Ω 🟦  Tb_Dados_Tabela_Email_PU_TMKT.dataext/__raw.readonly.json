@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "1B94A6AD-A253-428D-AE1E-7084E5FFBECE"
+  ],
+  "Name": [
+    "Tb_Dados_Tabela_Email_PU_TMKT"
+  ]
+}

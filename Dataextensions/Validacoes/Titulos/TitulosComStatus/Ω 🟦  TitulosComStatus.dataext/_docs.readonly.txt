@@ -1,0 +1,8 @@
+Dataextension name: TitulosComStatus
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_TITULO            | Text(50)        | true     | false    |                 |
+| ID_PLANO             | Text(50)        | true     | false    |                 |
+| ID_SERIE             | Text(50)        | true     | false    |                 |
+| STATUS               | Text(50)        | true     | false    |                 |

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "DE9F0C3C-1A79-48EE-ADB0-DB8420A15C72"
+  ],
+  "Name": [
+    "Tb_Teste_SMS_Jorge"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "display:message:format": "text",
+  "display:languages:content": {
+    "pT_BR": {
+      "display:components": [
+        "message"
+      ],
+      "display:message": "${1}, seu Ourocap está finalizando e será renovado em condições semelhantes. O crédito será na conta cadastrada.\n\nPara maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+      "display:message:parameters": {
+        "1": {
+          "display:argument:name": "1",
+          "display:argument:format": "text",
+          "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+        }
+      }
+    }
+  },
+  "channel": "whatsapptemplate",
+  "showTemplatePicker": false,
+  "templateName": "comnome_fim_de_plano_pm_com_renov_automatica",
+  "collapsedPanels": [],
+  "display:lang": "PT_BR",
+  "stack": "S11",
+  "display:components": [
+    "message"
+  ],
+  "display:message": "${1}, seu Ourocap está finalizando e será renovado em condições semelhantes. O crédito será na conta cadastrada.\n\nPara maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+  "currentColumn": 0,
+  "selectedTemplate": {
+    "display:components": [
+      "message"
+    ],
+    "display:message": "${1}, seu Ourocap está finalizando e será renovado em condições semelhantes. O crédito será na conta cadastrada.\n\nPara maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+    "display:message:parameters": {
+      "1": {
+        "display:argument:name": "1",
+        "display:argument:format": "text",
+        "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+      }
+    }
+  },
+  "display:message:parameters": {
+    "1": {
+      "display:argument:name": "1",
+      "display:argument:format": "text",
+      "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+    }
+  },
+  "template": {
+    "modifiedBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "customerKey": "36646054-b3ce-4a8d-9326-9d6fc7cb5656",
+    "availableViews": [
+      "whatsAppTemplate"
+    ],
+    "model": {
+      "id": 235,
+      "fileExtension": "",
+      "name": "JSON Message Template",
+      "key": "jsonmessagetemplate",
+      "parentAssetTypeID": 4,
+      "createdDate": "2020-06-29T15:25:11Z",
+      "modifiedDate": "2020-06-29T15:25:11Z",
+      "isCDNPublishable": false
+    },
+    "assetType": {
+      "id": 235,
+      "name": "jsonmessagetemplate",
+      "displayName": "jsonmessagetemplate"
+    },
+    "name": "WHATSAPP-comnome_fim_de_plano_pm_com_renov_automatica",
+    "thumbnail": {
+      "thumbnailUrl": "/v1/assets/78530/thumbnail"
+    },
+    "views": {
+      "whatsAppTemplate": {
+        "content": "",
+        "meta": {
+          "options": {
+            "customBlockData": {
+              "display:languages:content": {
+                "pT_BR": {
+                  "display:components": [
+                    "message"
+                  ],
+                  "display:message": "${1}, seu Ourocap está finalizando e será renovado em condições semelhantes. O crédito será na conta cadastrada.\n\nPara maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+                  "display:message:parameters": {
+                    "1": {
+                      "display:argument:name": "1",
+                      "display:argument:format": "text",
+                      "display:argument": "%%[  var @fullName,@firstName set @fullName = [Nome] if indexOf(@fullName, \" \") > 0 then  set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName,\" \"),1))  Else set @firstName = [Nome] endif  set @firstName = Propercase(@firstName) ]%% %%=v(@firstName)=%%"
+                    }
+                  }
+                }
+              },
+              "channel": "WHATSAPP",
+              "templateName": "comnome_fim_de_plano_pm_com_renov_automatica",
+              "display:lang": "PT_BR",
+              "display:languages:approved": [
+                "PT_BR"
+              ],
+              "template": "template",
+              "containerId": "106212288893473",
+              "category": "ACCOUNT_UPDATE"
+            }
+          }
+        },
+        "modelVersion": 2
+      }
+    },
+    "modelVersion": 2,
+    "status": {
+      "id": 1,
+      "name": "Draft"
+    },
+    "owner": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "memberId": 514002572,
+    "createdDate": "2022-10-28T16:16:37-06:00",
+    "modifiedDate": "2022-10-28T16:16:37-06:00",
+    "objectID": "79372b41-5191-49e7-90a1-eddaa326ed01",
+    "id": 78530,
+    "enterpriseId": 514002572,
+    "category": {
+      "id": 1942,
+      "name": "Content Builder",
+      "parentId": 0
+    },
+    "createdBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    }
+  },
+  "contents": [],
+  "uncheckedPanels": [],
+  "category": "ACCOUNT_UPDATE"
+}

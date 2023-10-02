@@ -1,0 +1,123 @@
+{
+  "display:message:format": "text",
+  "display:languages:content": {
+    "pT_BR": {
+      "display:components": [
+        "message"
+      ],
+      "display:message": "*Parabéns pela compra do seu Ourocap!* 🎉\n\nEstamos felizes em ter você como nosso cliente!😍\n\n➡️ Para maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+      "display:message:parameters": {}
+    }
+  },
+  "channel": "whatsapptemplate",
+  "showTemplatePicker": false,
+  "templateName": "cliente_novo_semnome_0800",
+  "collapsedPanels": [],
+  "display:lang": "PT_BR",
+  "stack": "S11",
+  "display:components": [
+    "message"
+  ],
+  "display:message": "*Parabéns pela compra do seu Ourocap!* 🎉\n\nEstamos felizes em ter você como nosso cliente!😍\n\n➡️ Para maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+  "currentColumn": 0,
+  "selectedTemplate": {
+    "display:components": [
+      "message"
+    ],
+    "display:message": "*Parabéns pela compra do seu Ourocap!* 🎉\n\nEstamos felizes em ter você como nosso cliente!😍\n\n➡️ Para maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+    "display:message:parameters": {}
+  },
+  "display:message:parameters": {},
+  "template": {
+    "modifiedBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "customerKey": "6a7b6fa0-2703-4f02-8bce-5ed86977dcb1",
+    "availableViews": [
+      "whatsAppTemplate"
+    ],
+    "model": {
+      "id": 235,
+      "fileExtension": "",
+      "name": "JSON Message Template",
+      "key": "jsonmessagetemplate",
+      "parentAssetTypeID": 4,
+      "createdDate": "2020-06-29T15:25:11Z",
+      "modifiedDate": "2020-06-29T15:25:11Z",
+      "isCDNPublishable": false
+    },
+    "assetType": {
+      "id": 235,
+      "name": "jsonmessagetemplate",
+      "displayName": "jsonmessagetemplate"
+    },
+    "name": "WHATSAPP-cliente_novo_semnome_0800",
+    "thumbnail": {
+      "thumbnailUrl": "/v1/assets/77971/thumbnail"
+    },
+    "views": {
+      "whatsAppTemplate": {
+        "content": "",
+        "meta": {
+          "options": {
+            "customBlockData": {
+              "channel": "WHATSAPP",
+              "template": "template",
+              "containerId": "106212288893473",
+              "templateName": "cliente_novo_semnome_0800",
+              "category": "ACCOUNT_UPDATE",
+              "display:languages:approved": [
+                "PT_BR"
+              ],
+              "display:languages:content": {
+                "pT_BR": {
+                  "display:components": [
+                    "message"
+                  ],
+                  "display:message": "*Parabéns pela compra do seu Ourocap!* 🎉\n\nEstamos felizes em ter você como nosso cliente!😍\n\n➡️ Para maiores informações entre em contato com a nossa Central de Relacionamento 0800 729 0800.",
+                  "display:message:parameters": {}
+                }
+              }
+            }
+          }
+        },
+        "modelVersion": 2
+      }
+    },
+    "modelVersion": 2,
+    "status": {
+      "id": 1,
+      "name": "Draft"
+    },
+    "owner": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    },
+    "memberId": 514002572,
+    "createdDate": "2022-10-25T16:33:41-06:00",
+    "modifiedDate": "2022-10-25T16:33:41-06:00",
+    "objectID": "c7e0d718-3e4a-4ea8-b92d-de563c00ea72",
+    "id": 77971,
+    "enterpriseId": 514002572,
+    "category": {
+      "id": 1942,
+      "name": "Content Builder",
+      "parentId": 0
+    },
+    "createdBy": {
+      "id": 713887252,
+      "email": "lkovaski@alvarezandmarsal.com",
+      "name": "Leonardo Kovaski",
+      "userId": "713887252"
+    }
+  },
+  "contents": [],
+  "uncheckedPanels": [],
+  "category": "ACCOUNT_UPDATE",
+  "display:footer:format": "text"
+}

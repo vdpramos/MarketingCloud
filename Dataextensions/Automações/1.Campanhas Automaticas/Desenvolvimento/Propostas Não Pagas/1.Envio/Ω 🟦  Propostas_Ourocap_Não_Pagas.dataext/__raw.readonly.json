@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "9518E068-03D6-4FFC-B2A1-A2D7BAD65A19"
+  ],
+  "Name": [
+    "Propostas_Ourocap_Não_Pagas"
+  ]
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "Name": "LogDate",
+    "FieldType": "Date",
+    "ObjectID": "02092441-9da7-45e9-956e-6944fc555448",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "SubscriberKey",
+    "FieldType": "Text",
+    "ObjectID": "2c0cd84e-60d6-4a29-8062-81629683cbfb",
+    "MaxLength": "100",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "MobileSubscriptionID",
+    "FieldType": "Number",
+    "ObjectID": "45da7cd4-ac08-4925-b7be-ab462c3db66d",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "SubscriptionDefinitionID",
+    "FieldType": "Text",
+    "ObjectID": "458370d9-f64a-4943-bcb5-55f17dd70757",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "MobileNumber",
+    "FieldType": "Phone",
+    "ObjectID": "8be2c33b-3613-48e3-821d-80b6ff3ceeeb",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "OptOutStatusID",
+    "FieldType": "Number",
+    "ObjectID": "902a29af-7cf8-41d5-a81d-b97f0366a544",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "OptOutMethodID",
+    "FieldType": "Number",
+    "ObjectID": "380c4792-87d8-47a0-ba59-4de6eafd838f",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "OptOutDate",
+    "FieldType": "Date",
+    "ObjectID": "fb0d76c2-f146-4975-a0c2-51322c6d826e",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "OptInStatusID",
+    "FieldType": "Number",
+    "ObjectID": "7e718319-f269-421a-96d4-d265a69a395b",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "OptInMethodID",
+    "FieldType": "Number",
+    "ObjectID": "a8b2fc50-7a71-42de-a854-058786fd84d6",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "OptInDate",
+    "FieldType": "Date",
+    "ObjectID": "4307d6aa-c452-4d56-8115-5ee6074fac2f",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "Source",
+    "FieldType": "Number",
+    "ObjectID": "882ef900-64ae-48b0-9f08-3098c5a0c595",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "CreatedDate",
+    "FieldType": "Date",
+    "ObjectID": "825c1dbb-2ad6-4f42-87f8-8104e975a1cc",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "ModifiedDate",
+    "FieldType": "Date",
+    "ObjectID": "1c2d46a3-72f1-447c-af3d-c93567bdcf07",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "Data_exclusao",
+    "FieldType": "Date",
+    "ObjectID": "b5a8a519-3707-4500-a72b-0d189a261dd5",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GetDate()",
+    "Ordinal": 14
+  }
+]

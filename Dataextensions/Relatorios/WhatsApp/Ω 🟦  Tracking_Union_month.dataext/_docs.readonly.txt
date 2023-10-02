@@ -1,0 +1,14 @@
+Dataextension name: Tracking_Union_month
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CONTACTKEY           | Text            | false    | false    |                 |
+| MOBILENUMBER         | Phone           | false    | false    |                 |
+| EVENTDATEUTC         | Text            | false    | false    |                 |
+| STATUS               | Text            | false    | false    |                 |
+| JBDEFINITIONID       | Text            | false    | false    |                 |
+| SENDIDENTIFIER       | Text            | false    | false    |                 |
+| TRACKINGTYPE         | Text(50)        | false    | false    |                 |
+| JOURNEYNAME          | Text            | false    | false    |                 |
+| CPF_CNPJ             | Text(50)        | false    | false    |                 |
+| ID_PROPOSTA          | Text(50)        | false    | false    |                 |

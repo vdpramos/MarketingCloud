@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "71f22988-f929-41de-86bd-a7f47d4f2543",
+  "name": "Src_Prospect_TMKT_CleanDes",
+  "key": "ffaffe17-a4e6-45be-9de9-3e2f8780b1b7",
+  "description": "Limpa os DEs",
+  "script": "<script runat=\"server\">\n  Platform(\"Core\", \"2.0\");\n\n  var api = new Script.Util.WSProxy();\n  var dataExtensionsName = [\n  'Tb_Base_Prospect_ComOTC_Filtrada_TMKT',\n  'Tb_Base_Prospect_OTC291_Tratada_TMKT',\n  'Flag_Extracao_Prospect_TMKT',\n  'Flag_Integracao_Prospect_TMKT']; // DE que enviou o OTC290\n\n\n  var clearObject = [];\n  for (var i = 0; i < dataExtensionsName.length; i++) {\n    clearObject.push({\n      CustomerKey: retrieveDECustomerKeyFromName(api, dataExtensionsName[i])\n    });\n  }\n  \n  api.performBatch(\"DataExtension\", clearObject, \"ClearData\");\n  \n  /* aux functions */\n  function retrieveDECustomerKeyFromName(api, dataExtensionName){\n    var simpleFilter = {\n      Property: 'Name',\n      SimpleOperator: 'equals',\n      Value: dataExtensionName\n    }\n    var result = api.retrieve('DataExtension', ['CustomerKey'], simpleFilter);\n    if(result.Status != 'OK' || result.Results.length < 1){\n      return null\n    }else{\n      return result.Results[0].CustomerKey;\n    }\n  }\n\n</script>\n",
+  "categoryId": 38837,
+  "createdDate": "2021-09-03T19:20:14.147",
+  "modifiedDate": "2023-07-14T17:02:35.25"
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "7B3BAE58-29DC-4223-A7E1-6E1229CBEB2D"
+  ],
+  "Name": [
+    "Aviso_De_Pagamento_Extracao_ComOTC"
+  ]
+}

@@ -1,0 +1,10 @@
+Dataextension name: TitulosComStatusDivergente
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID                   | Text(50)        | true     | false    |                 |
+| ID_TITULO            | Text(50)        | true     | false    |                 |
+| ID_PLANO             | Text(50)        | true     | false    |                 |
+| ID_SERIE             | Text(50)        | true     | false    |                 |
+| STATUS               | Text(50)        | true     | false    |                 |
+| HC_SITUACAO__C       | Text(50)        | true     | false    |                 |

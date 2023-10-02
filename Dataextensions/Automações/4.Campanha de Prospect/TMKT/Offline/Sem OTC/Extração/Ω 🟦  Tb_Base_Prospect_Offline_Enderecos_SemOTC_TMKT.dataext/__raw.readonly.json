@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "1D3741C7-184C-47D4-84B5-C2B4B5275516"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_Enderecos_SemOTC_TMKT"
+  ]
+}

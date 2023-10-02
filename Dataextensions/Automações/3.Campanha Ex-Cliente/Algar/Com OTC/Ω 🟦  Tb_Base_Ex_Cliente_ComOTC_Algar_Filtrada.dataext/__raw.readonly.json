@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "75F0EDA9-BE08-4B5D-85B3-3B12819EBAAA"
+  ],
+  "Name": [
+    "Tb_Base_Ex_Cliente_ComOTC_Algar_Filtrada"
+  ]
+}

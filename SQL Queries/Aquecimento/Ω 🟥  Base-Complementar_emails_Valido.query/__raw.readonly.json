@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "5df9b194-3ac5-417d-87f9-c28239379388",
+  "name": "Base-Complementar_emails_Valido",
+  "key": "e8ef392b-969c-4ed3-a91e-0c3dd1558316",
+  "description": "",
+  "queryText": "\n\tSELECT DISTINCT\n\t CPF,\n     NOME,\n\t EMAIL,\n\t EMAIL_VALIDO\n\t\n\tFROM Audiencia_Complementar\n\tWHERE\nEMAIL is not null and EMAIL_VALIDO ='true'\n\n\n\n",
+  "targetName": "Audiencia_Complementar_Email_Valido",
+  "targetKey": "54C577DF-A1DB-46D0-85F0-2734715C53A8",
+  "targetId": "3a71f05d-cd2f-ec11-a30b-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-10-17T22:40:24.34",
+  "modifiedDate": "2021-10-17T22:43:58.98",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 40397,
+  "isFrozen": false
+}

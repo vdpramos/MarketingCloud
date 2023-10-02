@@ -1,0 +1,5 @@
+Dataextension name: CorteContatosMkt
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| cpf_cnpj             | Text(50)        | false    | false    |                 |

@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "ID",
+    "FieldType": "Number",
+    "ObjectID": "a76b473f-6f49-ea11-a2e8-48df37342c99",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Category",
+    "FieldType": "Text",
+    "ObjectID": "a86b473f-6f49-ea11-a2e8-48df37342c99",
+    "MaxLength": "200",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Name",
+    "FieldType": "Text",
+    "ObjectID": "a96b473f-6f49-ea11-a2e8-48df37342c99",
+    "MaxLength": "200",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Value",
+    "FieldType": "Text",
+    "ObjectID": "aa6b473f-6f49-ea11-a2e8-48df37342c99",
+    "MaxLength": "500",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  }
+]

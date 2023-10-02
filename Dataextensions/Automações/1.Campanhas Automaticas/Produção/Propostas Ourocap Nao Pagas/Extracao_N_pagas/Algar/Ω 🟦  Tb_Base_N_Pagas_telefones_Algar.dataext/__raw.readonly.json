@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "B9E22CDA-BE55-4B52-AEE5-5DD2915BD646"
+  ],
+  "Name": [
+    "Tb_Base_N_Pagas_telefones_Algar"
+  ]
+}

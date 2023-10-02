@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "375216fe-fd07-4ea5-87b6-f36ecbb2e71a",
+  "name": "clienteParceiroAnalise",
+  "key": "375216FE-FD07-4EA5-87B6-F36ECBB2E71A",
+  "description": "",
+  "queryText": "select id, month(createddate) as mes, createddate \nfrom hc_relacao_cliente_parceiro__c_salesforce \nwhere hc_cliente__c is null ",
+  "targetName": "ClienteParceiro_Analise",
+  "targetKey": "41525370-CE5A-47E7-95E8-85B743369DB9",
+  "targetId": "8002da30-7cc7-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-20T18:07:36.827",
+  "modifiedDate": "2023-03-20T18:11:36.477",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

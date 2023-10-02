@@ -1,0 +1,10 @@
+Dataextension name: PagamentoStatusDivergente
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_PAGAMENTO         | Text(50)        | true     | true     |                 |
+| ID_PROPOSTA          | Text(50)        | true     | false    |                 |
+| ID_PLANO             | Text(50)        | true     | false    |                 |
+| DATA_ULT_AGENDAMENTO | Text(50)        | true     | false    |                 |
+| DESC_STATUS_PAGAMENTO | Text(50)        | true     | false    |                 |
+| STATUS_SF            | Text(50)        | false    | false    |                 |

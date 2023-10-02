@@ -1,0 +1,1 @@
+select '''' + CPF_CNPJ + '''' + ',' as CPF_CNPJ from ClienteUnicoNomeNaoInformado

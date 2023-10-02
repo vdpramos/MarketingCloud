@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "25d4fc84-6523-40c4-b5f7-6309a452fed8",
+  "name": "BuscaAtualizaIdPagamento",
+  "key": "25D4FC84-6523-40C4-B5F7-6309A452FED8",
+  "description": "",
+  "queryText": "select pg.id, pa.name\nfrom Pagamentos_AtualizaMeioCredito pa\ninner join hc_pagamento__c_salesforce pg\n    on pg.name = pa.name\n",
+  "targetName": "Pagamentos_AtualizaMeioCredito",
+  "targetKey": "AFB1A80B-65D1-4669-8276-F747239D6919",
+  "targetId": "2ad8a5fb-c3c1-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-13T12:16:09.68",
+  "modifiedDate": "2023-03-13T13:07:07.39",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 46010,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "829d19e6-add0-4cb2-a44e-e9e7bd3225d5",
+  "name": "Close_the_loop_atendidos",
+  "key": "35798c04-eb64-48f7-b44d-a507a213ef2d",
+  "description": "",
+  "queryText": "SELECT\n    a.Id_contato,\n    a.Nome,\n    a.Tipo_pagamento,\n    b.Id as Id_cliente_parceiro,\n    b.HC_CPF_CNPJ__c AS CPF_CNPJ,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Celular_1__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Celular_1,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Celular_2__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Celular_2,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Celular_3__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Celular_3,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Telefone_Outro__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Telefone_Brasilcap,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Telefone_Comercial__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Telefone_comercial,\n    CASE \n    \tWHEN b.HC_Email_Brasilcap__c IS NOT NULL THEN b.HC_Email_Brasilcap__c\n    \tWHEN b.HC_Email_Pessoal__c IS NOT NULL THEN b.HC_Email_Pessoal__c\n    \tWHEN b.HC_Email_Comercial__c IS NOT NULL THEN b.HC_Email_Comercial__c\n    \tELSE NULL\n    END AS Email,\n    CASE \n    \tWHEN UPPER(b.HC_Endereco_Principal__c) = 'RESIDENCIAL' THEN b.HC_UF_Res__c\n    \tWHEN UPPER(b.HC_Endereco_Principal__c) = 'COMERCIAL' THEN b.HC_UF_Com__c\n    \tWHEN UPPER(b.HC_Endereco_Principal__c) = 'CORRESPONDÊNCIA' THEN b.HC_UF_Cor__c\n    END AS UF,\n    b.HC_Idade__c AS Idade,\n    b.HC_Data_de_Nascimento__c AS Data_nascimento,\n    c.Id AS Id_atendimento,\n    c.CreatedDate AS Data_abertura\nFROM Close_the_loop_clientes_ativos a\n    INNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce b\n        ON a.Id_cliente = b.HC_Cliente__c\n    INNER JOIN Case_Salesforce c\n        ON b.Id = c.HC_Relacao_Cliente_x_Parceiro__c\nWHERE\n    b.HC_Tipo_de_Pessoa__c = 'PF'\n    AND\n    b.HC_Nao_deseja_receber_Ligacoes__c = 'False'\n    AND\n    b.HC_Nao_deseja_receber_Todos_Meios__c = 'False'\n    AND\n    (\n        b.HC_Id_Parceiro_Cap__c = 'TCBB'\n        OR\n        b.HC_Id_Parceiro_Darwin__c = '1'\n    )\n    AND\n    c.RecordTypeId = '0126g000000XFHwAAO'\n    AND\n    c.CreatedDate BETWEEN DATEADD(DD, 21, EOMONTH(GETDATE(),-2)) AND DATEADD(DD, 20, EOMONTH(GETDATE(),-1))",
+  "targetName": "Close_the_loop_atendidos",
+  "targetKey": "C441B822-D7BC-4B9B-9EEC-E55B95CCE8F6",
+  "targetId": "44bb17f4-9666-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-25T11:11:18.257",
+  "modifiedDate": "2023-05-30T13:50:35.137",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 56140,
+  "isFrozen": false
+}

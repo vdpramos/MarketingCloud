@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "4057B186-E3CF-4903-A7CA-9E163DC846A4"
+  ],
+  "Name": [
+    "Validacao_import_prospect_online_neobpo"
+  ]
+}

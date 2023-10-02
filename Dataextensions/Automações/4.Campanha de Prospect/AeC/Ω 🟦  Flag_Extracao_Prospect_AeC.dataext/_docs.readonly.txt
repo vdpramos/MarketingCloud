@@ -1,0 +1,5 @@
+Dataextension name: Flag_Extracao_Prospect_AeC
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| EXTRACAO             | Boolean         | false    | false    |                 |

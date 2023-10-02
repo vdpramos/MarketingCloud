@@ -1,0 +1,2 @@
+SELECT *
+FROM Informe_Rendimentos_Envio

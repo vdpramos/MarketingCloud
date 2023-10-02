@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "4d282b8e-7aeb-40b7-a072-85cc3e0b67c7",
+  "name": "Qr01_Base_Prospect_SemOTC_Filtrada_Teo",
+  "key": "236f5377-0b9e-44a6-9a63-670cdd0a8226",
+  "description": "",
+  "queryText": "SELECT\n  *\nFROM\n  TB_BASE_PROSPECT_SEMOTC_TRATADA_TEO\nWHERE\n  IDADE_VALIDA = 1 \n  AND CONTA_CORRENTE = 1 \n  AND Quarentena = 0 \n  AND CONSELHEIRO = 0 \n  AND Cliente = 0 \n  AND VALIDA_RNA = 0\n  AND NAO_IMPORTUNE = 0",
+  "targetName": "Tb_Base_Prospect_SemOTC_Filtrada_Teo",
+  "targetKey": "B9C171EB-D300-4FF4-96DB-815ABCB33890",
+  "targetId": "acb2af82-2171-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-01-27T16:29:26.23",
+  "modifiedDate": "2021-07-21T18:04:51.88",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29372,
+  "isFrozen": false
+}

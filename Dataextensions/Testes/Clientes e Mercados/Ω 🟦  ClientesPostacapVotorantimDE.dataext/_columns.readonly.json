@@ -1,0 +1,211 @@
+[
+  {
+    "Name": "ClienteID",
+    "FieldType": "Text",
+    "ObjectID": "662f85df-7fa4-413f-8bef-27f18c9d6d9c",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "CPF",
+    "FieldType": "Text",
+    "ObjectID": "7a732075-5c60-4476-8bc0-e7eb35e0d93f",
+    "MaxLength": "15",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Nome",
+    "FieldType": "Text",
+    "ObjectID": "5c4314cc-35cf-409a-b9c8-683e204de66e",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "DataNascimento",
+    "FieldType": "Date",
+    "ObjectID": "4b54e77f-4d1e-49c1-a31b-47a5d9d4485a",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Cidade",
+    "FieldType": "Text",
+    "ObjectID": "d9dea196-1276-4cf2-820a-0c44eb99f925",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "CEP",
+    "FieldType": "Text",
+    "ObjectID": "a12ec759-089f-4da6-8243-bd1e0b0a7d2b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "UF",
+    "FieldType": "Text",
+    "ObjectID": "d3671b49-fcb7-4e37-9c19-89537ddc1a4f",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "TipoPessoa",
+    "FieldType": "Text",
+    "ObjectID": "cea2d98f-0a32-41d5-b798-ff252d34c32d",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "Celular1",
+    "FieldType": "Text",
+    "ObjectID": "907f8f1e-4097-4efc-9bcc-f84e9e2b9591",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 17
+  },
+  {
+    "Name": "Celular2",
+    "FieldType": "Text",
+    "ObjectID": "636d1835-351b-49c3-b982-3e023857954b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 18
+  },
+  {
+    "Name": "Celular3",
+    "FieldType": "Text",
+    "ObjectID": "733591c3-fb71-4e78-808a-f8e9c6e85fb5",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 19
+  },
+  {
+    "Name": "Fixo1",
+    "FieldType": "Text",
+    "ObjectID": "4dd770c4-2355-4bfb-a4ba-d2dcbb7aa094",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 20
+  },
+  {
+    "Name": "Fixo2",
+    "FieldType": "Text",
+    "ObjectID": "9bd9d621-275e-4d2d-a8d2-0fed621a0dc4",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 21
+  },
+  {
+    "Name": "Fixo3",
+    "FieldType": "Text",
+    "ObjectID": "b78bc1fe-5a80-4554-81df-083c5bf45daf",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 22
+  },
+  {
+    "Name": "EMailBrasilcap",
+    "FieldType": "Text",
+    "ObjectID": "0c81bb48-fda2-4fc7-ab52-b3d5553895b4",
+    "MaxLength": "150",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 23
+  },
+  {
+    "Name": "EmailPessoal",
+    "FieldType": "Text",
+    "ObjectID": "73beb706-d935-48e3-9d23-ad1125b018d1",
+    "MaxLength": "150",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 24
+  },
+  {
+    "Name": "EmailComercial",
+    "FieldType": "Text",
+    "ObjectID": "e0e960c2-c30b-46c3-ae4d-90b153a27627",
+    "MaxLength": "150",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 25
+  },
+  {
+    "Name": "EmailPrincipal",
+    "FieldType": "Text",
+    "ObjectID": "b504384a-f3f1-44a1-bc35-8656ee2058dd",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 26
+  },
+  {
+    "Name": "Parceiro",
+    "FieldType": "Text",
+    "ObjectID": "e51948b4-e136-4a50-afa9-4a4cf8a381bd",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 27
+  }
+]

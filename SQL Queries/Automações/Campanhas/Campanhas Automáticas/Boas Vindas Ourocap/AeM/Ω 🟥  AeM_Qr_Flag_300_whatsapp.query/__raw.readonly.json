@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a570a5d1-d8f5-4d62-b017-885bcde93012",
+  "name": "AeM_Qr_Flag_300_whatsapp",
+  "key": "572b54e8-f394-4dd2-baeb-90d4f1dc77f6",
+  "description": "",
+  "queryText": "select top 300 \nId_Cliente_Parceiro,\nTITULOS_ANTERIORES_INATIVOS,\nTITULOS_ANTERIORES_ATIVOS,\nId_Contato,\nEMAIL,\nNAO_DESEJA_RECEBER_SMS,\nCPF_CNPJ,\nEMAIL_VALIDO,\nNome,\nNAO_DESEJA_RECEBER_EMAIL,\nCELULAR,\nId_Campanha,\nCreatedDate,\nCELULAR_VALIDO,\nREPLACE(Flag_WhatsApp, 0, 1) AS Flag_WhatsApp\nfrom AeM_Boas_Vindas_Disparo",
+  "targetName": "AeM_Boas_Vindas_Disparo",
+  "targetKey": "6835A876-120E-463B-874F-67592591B5B6",
+  "targetId": "703abb9f-d34f-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "DE para disparo com WhatsApp AlvarezeMarsal",
+  "createdDate": "2022-10-21T13:21:05.647",
+  "modifiedDate": "2022-10-25T07:06:11.833",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 54649,
+  "isFrozen": false
+}

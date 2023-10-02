@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "fd300b18-1af7-49a9-89fd-b03599aa9286",
+  "name": "Qr07.1_Base_Fim_Plano_Ourocap_PM_ComOTC_Filtrada_OTC291_NeoBpo",
+  "key": "2e1ca55c-6845-4876-a05f-fdedd3260db5",
+  "description": "Filtra os contatos que estão em restrição para geração da campanha, quando todos os contatos enviados já estiverem retornado no OTC291",
+  "queryText": "SELECT\r\n  A.*\r\nFROM Tb_Base_Fim_Plano_Ourocap_PM_OTC291_Tratada_NeoBpo A\r\nLEFT OUTER JOIN ( \r\n  SELECT\r\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\r\n  FROM Tb_Base_Fim_Plano_Ourocap_PM_ComOTC_Filtrada ENV\r\n  LEFT JOIN Tb_Base_Fim_Plano_Ourocap_PM_OTC291_Tratada_NeoBpo RET ON ENV.CPF_CNPJ = RET.CPF\r\n  WHERE RET.CPF IS NULL\r\n) B ON 1 = 1\r\nWHERE B.CPFS_FALTANDO_NO_OTC = 0 /* SIGNIFICA QUE TODOS OS CONTATOS JÁ ESTÃO NO OTC291 */\r\n  /* VALIDAÇÕES POR CONTATO DO OTC */\r\n  AND A.CODIGO_RNA = '000'\r\n  AND A.ALTA_RENDA = 0",
+  "targetName": "Tb_Base_Fim_Plano_Ourocap_PM_OTC291_Filtrada_NeoBpo",
+  "targetKey": "EB95A7A7-4ECB-4B44-BEF4-D7B86FEBBAD2",
+  "targetId": "b8bd8936-5aac-eb11-a303-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-09-14T14:56:56.103",
+  "modifiedDate": "2021-09-14T14:56:56.103",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 33760,
+  "isFrozen": false
+}

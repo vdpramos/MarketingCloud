@@ -1,0 +1,12 @@
+SELECT
+  A.*
+FROM (
+  SELECT
+    A.*,
+    A.CPF_CNPJ as Id,
+    ROW_NUMBER() OVER ( PARTITION BY 1 ORDER BY CPF_CNPJ) AS NUM_REGISTRO
+  FROM Publico_Apto_Ex_Clientes_Algar A
+) A
+/* Garante seleção de contatos até a quantidade desejado no parametro da campanha OTC */
+LEFT JOIN CONTROLE_AUTOMACOES_CAMPANHAS CONT ON CONT.ID_CAMPANHA = '7016g000000NSIuAAO'
+WHERE NUM_REGISTRO <= QUANTIDADE_DESEJADA_OTC290

@@ -1,0 +1,11 @@
+Dataextension name: InformacoesFinais_AtualizaClienteUnico
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| HC_CPF_CNPJ_Cliente__c | Text(50)        | false    | false    |                 |
+| NAME                 | Text(50)        | false    | false    |                 |
+| HC_Tipo_de_Pessoa__c | Text(50)        | false    | false    |                 |
+| HC_Sexo__c           | Text(50)        | false    | false    |                 |
+| HC_PEP__c            | Boolean         | false    | false    |                 |
+| HC_Data_Nascimento__c | Date            | false    | false    |                 |
+| ID                   | Text(50)        | false    | false    |                 |

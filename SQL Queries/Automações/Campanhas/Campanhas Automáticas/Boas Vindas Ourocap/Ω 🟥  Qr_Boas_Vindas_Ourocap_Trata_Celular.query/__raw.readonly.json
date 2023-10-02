@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "33a6d025-0462-4d57-9fad-1d4502500e69",
+  "name": "Qr_Boas_Vindas_Ourocap_Trata_Celular",
+  "key": "3ea5f05f-d753-4f79-9384-a8a0af9dafc0",
+  "description": "Trata o campo de celular para deixar formatado e realizar o envio de SMS na Jornada",
+  "queryText": "SELECT\n  A.CPF_CNPJ,\n  A.ID_PROPOSTA,\n  '55' + REPLACE(REPLACE(REPLACE(REPLACE(A.CELULAR, '(', ''), ')', ''), ' ', ''), '-', '') AS CELULAR\nFROM TB_BOAS_VINDAS_OUROCAP_PROSPOSTAS A\nWHERE CELULAR IS NOT NULL",
+  "targetName": "Tb_Boas_Vindas_Ourocap_Prospostas",
+  "targetKey": "D6CD34FE-8448-44F1-96E7-D96C39E4117E",
+  "targetId": "abf37f26-f001-ed11-a5b6-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2021-08-24T15:26:46.6",
+  "modifiedDate": "2022-10-21T11:43:52.267",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 37320,
+  "isFrozen": false
+}

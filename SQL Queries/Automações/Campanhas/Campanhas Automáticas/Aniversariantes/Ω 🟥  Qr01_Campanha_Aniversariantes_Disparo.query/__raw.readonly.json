@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7f5681cd-fb75-428d-9caa-2239f6d062eb",
+  "name": "Qr01_Campanha_Aniversariantes_Disparo",
+  "key": "b2308e57-2faf-465b-bb6a-64a7c3e9a2e2",
+  "description": "",
+  "queryText": "SELECT\n  CPF_CNPJ,\n  NOME,\n  ID_CAMPANHA, \n  ID_CLIENTE_PARCEIRO, \n  ID_CONTATO, \n  ID_CLIENTE,\n  NAO_DESEJA_RECEBER_EMAIL,\n  NAO_DESEJA_RECEBER_SMS,\n  HC_DATA_NASCIMENTO__C,\n  EMAIL_VALIDO,\n  CELULAR_VALIDO,\n  EMAIL AS EMAILADDRESS,\n  CELULAR AS MOBILEPHONE,\n  'BR' AS LOCALE, \n  DATA_EXECUCAO\nFROM TB_CAMPANHA_ANIVERSARIANTES_BASE\nWHERE \n  (EMAIL_VALIDO = '1' OR CELULAR_VALIDO = '1')\n  AND NAO_IMPORTUNE = 0",
+  "targetName": "Tb_Campanha_Aniversariantes_Disparo",
+  "targetKey": "C48BCC35-BDC8-4EEA-8F7D-190C9B13F67F",
+  "targetId": "6da163ec-8354-ec11-a313-48df37342c99",
+  "targetDescription": "Base com o publico inicial",
+  "createdDate": "2021-12-03T15:59:29.877",
+  "modifiedDate": "2022-12-15T09:33:16.35",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 42259,
+  "isFrozen": false
+}

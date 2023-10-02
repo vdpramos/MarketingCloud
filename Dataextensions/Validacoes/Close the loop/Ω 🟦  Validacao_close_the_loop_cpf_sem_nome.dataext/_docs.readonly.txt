@@ -1,0 +1,5 @@
+Dataextension name: Validacao_close_the_loop_cpf_sem_nome
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ_Subscritor  | Text(50)        | true     | false    |                 |

@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "959366d1-ddb0-4728-a357-34e0b4561b4d",
+  "name": "Ex_Clientes_TMKT_Checagem_Liberacao_OTC290",
+  "key": "61e59eff-46a7-4f74-ba1e-1450fc4b4f4e",
+  "description": "",
+  "script": "<script runat=\"server\">\n\nPlatform(\"Core\", \"2.0\");\nvar Id_Campanha = '7016g000000NSIpAAO'; // Campanha Ex Cliente - TMKT - Detalhe\nvar DE_flag_name = 'Flag_LiberarExtracao_Ex-Cliente_TMKT';\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\n\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51877') ));\n\n</script>",
+  "categoryId": 38642,
+  "createdDate": "2022-01-26T10:27:40.32",
+  "modifiedDate": "2023-05-29T11:40:10.927"
+}

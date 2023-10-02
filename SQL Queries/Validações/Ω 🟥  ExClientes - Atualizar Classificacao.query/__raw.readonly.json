@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "046d7842-f41a-4a8f-a583-e7ed2a09194a",
+  "name": "ExClientes - Atualizar Classificacao",
+  "key": "e9535af7-0d16-44e7-8369-26be78272ea0",
+  "description": "",
+  "queryText": "select id, 'Ex-cliente' as HC_Classificacao__c from ExClienteClassificadoIncorretamente ec\n",
+  "targetName": "ExCliente_AtualizarClassificacao",
+  "targetKey": "415C02C8-D5FA-42F8-9037-2D61BE1813D0",
+  "targetId": "3659a3a9-f5a6-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-07T08:45:14.893",
+  "modifiedDate": "2023-06-06T13:52:22.13",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

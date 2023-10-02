@@ -1,0 +1,56 @@
+[
+  {
+    "_CustomObjectKey": "3",
+    "ID_CAMPANHA": "7016g000002O089AAC",
+    "NOME": "Campanha Online Cliente - Neobpo",
+    "STATUS_AUTOMACAO": "FINALIZADA",
+    "QUANTIDADE_DESEJADA_OTC290": "43000",
+    "QUANTIDADE_ATUAL_290": "67482",
+    "QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290": "86000"
+  },
+  {
+    "_CustomObjectKey": "12",
+    "ID_CAMPANHA": "7016g000002NzuZAAS",
+    "NOME": "Campanha Onine Ex-Cliente - NeoBpo - Detalhe",
+    "STATUS_AUTOMACAO": "AGUARDANDO INICIO",
+    "QUANTIDADE_DESEJADA_OTC290": "0",
+    "QUANTIDADE_ATUAL_290": "18568",
+    "QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290": "19621"
+  },
+  {
+    "_CustomObjectKey": "14",
+    "ID_CAMPANHA": "7016g000000NSIuAAO",
+    "NOME": "Campanha Offline Ex-Cliente - Algar - Detalhe",
+    "STATUS_AUTOMACAO": "FINALIZADA",
+    "QUANTIDADE_DESEJADA_OTC290": "30000",
+    "QUANTIDADE_ATUAL_290": "47849",
+    "QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290": "52000"
+  },
+  {
+    "_CustomObjectKey": "15",
+    "ID_CAMPANHA": "7016g000000NSIpAAO",
+    "NOME": "Campanha Offline Ex-Cliente - TMKT",
+    "STATUS_AUTOMACAO": "FINALIZADA",
+    "QUANTIDADE_DESEJADA_OTC290": "81000",
+    "QUANTIDADE_ATUAL_290": "141754",
+    "QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290": "151522"
+  },
+  {
+    "_CustomObjectKey": "28",
+    "ID_CAMPANHA": "7016g000000NhD1AAK",
+    "NOME": "Campanha Online Ex-Cliente - TMKT - Detalhe",
+    "STATUS_AUTOMACAO": "FINALIZADA",
+    "QUANTIDADE_DESEJADA_OTC290": "7",
+    "QUANTIDADE_ATUAL_290": "7",
+    "QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290": "7"
+  },
+  {
+    "_CustomObjectKey": "32",
+    "ID_CAMPANHA": "7016g000000NnI2AAK",
+    "NOME": "Campanha Online Clientes - TMKT",
+    "STATUS_AUTOMACAO": "FINALIZADA",
+    "QUANTIDADE_DESEJADA_OTC290": "81000",
+    "QUANTIDADE_ATUAL_290": "137917",
+    "QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290": "162000"
+  }
+]

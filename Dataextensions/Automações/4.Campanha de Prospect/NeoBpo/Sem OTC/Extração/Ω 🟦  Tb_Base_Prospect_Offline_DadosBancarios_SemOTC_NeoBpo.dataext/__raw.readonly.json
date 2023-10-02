@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "53755B59-23FC-412F-87C9-9B1DB2B18577"
+  ],
+  "Name": [
+    "Tb_Base_Prospect_Offline_DadosBancarios_SemOTC_NeoBpo"
+  ]
+}

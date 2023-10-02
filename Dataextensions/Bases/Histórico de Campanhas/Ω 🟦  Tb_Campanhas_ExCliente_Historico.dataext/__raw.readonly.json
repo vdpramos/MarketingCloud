@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "E9FD1328-56C0-426C-8316-7FBEB5465B34"
+  ],
+  "Name": [
+    "Tb_Campanhas_ExCliente_Historico"
+  ]
+}

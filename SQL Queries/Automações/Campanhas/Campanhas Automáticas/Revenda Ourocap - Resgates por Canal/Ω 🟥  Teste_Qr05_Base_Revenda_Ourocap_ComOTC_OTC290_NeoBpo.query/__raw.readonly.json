@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "c9059ca8-0d11-4b1d-96db-05389c823c12",
+  "name": "Teste_Qr05_Base_Revenda_Ourocap_ComOTC_OTC290_NeoBpo",
+  "key": "55df7b70-434c-4812-9d8d-182d15ac7e6a",
+  "description": "",
+  "queryText": "SELECT\n  '001'+\n  REPLICATE (' ' , 9)+\n  REPLICATE ('0' , 9)+\n  '1'+\n  RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, CPF_CNPJ), 15)+\n  CONVERT(VARCHAR(10), CONVERT(DATE, DT_NASCIMENTO, 103), 112)+\n  LEFT(CONVERT(VARCHAR(60), NOME) + REPLICATE(' ', 60), 60)+\n  REPLICATE (' ' , 1)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 4)+\n  REPLICATE (' ' , 10)+\n  REPLICATE (' ' , 5)+\n  REPLICATE (' ' , 2)+\n  REPLICATE (' ' , 73)+\n  REPLICATE (' ' , 70) AS BASE\nFROM\n  Teste_TB_BASE_REVENDA_OUROCAP_COMOTC_NEOBPO \nWHERE\n  IDADE_VALIDA = 1 \n  AND CONSELHEIRO = 0 \n  AND CLIENTE_PEP = 0 \n  AND DESEJA_CONTATO_TELEFONICO = 0 \n  AND COMPRA_RECENTE_OUROCAP = 0 \n  AND POSSUI_CONTA_ATIVA = 1\n  AND POSSUI_TELEFONE_ATIVO = 1\n  /*AND QUARENTENA = 0*/\n  AND NAO_IMPORTUNE = 0",
+  "targetName": "Teste_Tb_Base_Revenda_Ourocap_OTC290_NeoBpo",
+  "targetKey": "1F7F78E4-5651-4E79-967B-30271FFC885A",
+  "targetId": "6cc588d8-b4e4-eb11-a304-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-07-14T09:07:45.8",
+  "modifiedDate": "2021-07-14T09:07:45.8",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 31760,
+  "isFrozen": false
+}

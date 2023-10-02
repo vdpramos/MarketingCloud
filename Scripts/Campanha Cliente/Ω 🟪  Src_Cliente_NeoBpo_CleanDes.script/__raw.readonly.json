@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "989c2e93-334e-4e96-b0ac-a82ddca3fa67",
+  "name": "Src_Cliente_NeoBpo_CleanDes",
+  "key": "a0abad64-3689-4133-aa4b-bae17d96332a",
+  "description": "Limpa as bases de OTC para impedir duplicação da campanha",
+  "script": "<script runat=server>\r\n  Platform.Load(\"Core\", \"1.1.5\");\r\n  var api = new Script.Util.WSProxy();\r\n\r\n  var BASE_OTC290_FILTRADA = \"955A3BF5-CD61-4AA5-8E07-5447938B1D23\"; // DE que enviou o OTC290\r\n  var BASE_OTC291_TRATADA = \"AA62D889-0ADF-4B40-AF19-BC49842F5EAD\"; // DE que recebe o OTC291 tratado\r\n\r\n  var action = \"ClearData\";\r\n  var opts = {};\r\n  var props_BASE_OTC290_FILTRADA = {\r\n    CustomerKey: BASE_OTC290_FILTRADA\r\n  };\r\n\r\n  var props_BASE_OTC291_TRATADA = {\r\n    CustomerKey: BASE_OTC291_TRATADA\r\n  };\r\n  \r\n  api.performItem(\"DataExtension\", props_BASE_OTC290_FILTRADA, action, opts);\r\n  api.performItem(\"DataExtension\", props_BASE_OTC291_TRATADA, action, opts);\r\n\r\n</script>",
+  "categoryId": 38816,
+  "createdDate": "2021-08-31T17:48:03",
+  "modifiedDate": "2021-08-31T17:48:03"
+}

@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "c2d7a46a-e637-4623-9430-c982308db5c9",
+  "name": "Clientes_TMKT_ONLINE_Checagem_Liberacao_OTC290",
+  "key": "6e3c0cbf-cf6a-4cb3-99d1-7c870312c585",
+  "description": "Verifica se gera mais publico ou se libera a extração para OTC290",
+  "script": "<script runat=\"server\">\n\nPlatform(\"Core\", \"2.0\");\nvar Id_Campanha = '7016g000000NnI2AAK'; // ID da campanha TMKT Online\nvar DE_flag_name = 'Flag_LiberarExtracao_Cliente_TMKT_ONLINE';\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\n\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51877') ));\n\n\n</script>",
+  "categoryId": 38816,
+  "createdDate": "2023-01-19T11:25:29.18",
+  "modifiedDate": "2023-08-24T09:00:01.83"
+}

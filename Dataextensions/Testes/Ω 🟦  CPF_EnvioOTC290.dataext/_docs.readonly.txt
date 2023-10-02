@@ -1,0 +1,5 @@
+Dataextension name: CPF_EnvioOTC290
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | true     | false    |                 |

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "84283247-484e-4ae7-8642-8b2309fbe019",
+  "name": "2.ValidaNaoSelecionadosCompradores_RelatorioFinalAndre",
+  "key": "84283247-484E-4AE7-8642-8B2309FBE019",
+  "description": "",
+  "queryText": "SELECT \n    a.Id_contato,\n    a.Nome,\n    b.Id as Id_cliente_parceiro,\n    b.HC_CPF_CNPJ__c AS CPF_CNPJ,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Celular_1__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Celular_1,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Celular_2__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Celular_2,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Celular_3__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Celular_3,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Telefone_Outro__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Telefone_Brasilcap,\n    REPLACE(REPLACE(REPLACE(REPLACE(b.HC_Telefone_Comercial__c, '(', ''), ')', ''), ' ', ''), '-', '') AS Telefone_comercial,\n    CASE \n    \tWHEN b.HC_Email_Brasilcap__c IS NOT NULL THEN b.HC_Email_Brasilcap__c\n    \tWHEN b.HC_Email_Pessoal__c IS NOT NULL THEN b.HC_Email_Pessoal__c\n    \tWHEN b.HC_Email_Comercial__c IS NOT NULL THEN b.HC_Email_Comercial__c\n    \tELSE NULL\n    END AS Email,\n    CASE \n    \tWHEN UPPER(b.HC_Endereco_Principal__c) = 'RESIDENCIAL' THEN b.HC_UF_Res__c\n    \tWHEN UPPER(b.HC_Endereco_Principal__c) = 'COMERCIAL' THEN b.HC_UF_Com__c\n    \tWHEN UPPER(b.HC_Endereco_Principal__c) = 'CORRESPONDÊNCIA' THEN b.HC_UF_Cor__c\n    END AS UF,\n    b.HC_Idade__c AS Idade,\n    b.HC_Data_de_Nascimento__c AS Data_nascimento,\n    c.Id AS Id_titulo,\n    c.HC_Tipo_de_pagamento__c AS Tipo_pagamento,\n    c.HC_Inicio__c AS Inicio,\n    cns.cpf\nFROM Close_the_loop_clientes_ativos a\n    INNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce b\n        ON a.Id_cliente = b.HC_Cliente__c\n    INNER JOIN HC_Titulo__c_Salesforce c\n        ON b.Id = c.hc_subscritor__c\n    LEFT JOIN ContatosNaoSelecionados cns\n        on cns.cpf = a.cpf_cnpj\nWHERE\n    b.HC_Tipo_de_Pessoa__c = 'PF'\n    AND\n    b.HC_Nao_deseja_receber_Ligacoes__c = 'False'\n    AND\n    b.HC_Nao_deseja_receber_Todos_Meios__c = 'False'\n    AND\n    (\n        b.HC_Id_Parceiro_Cap__c = 'TCBB'\n        OR\n        b.HC_Id_Parceiro_Darwin__c = '1'\n    )\n    AND\n    c.HC_Tipo_de_pagamento__c IN ('PM', 'PP')\n    AND\n    c.HC_Inicio__c BETWEEN DATEADD(DD, 21, EOMONTH(GETDATE(),-3)) AND DATEADD(DD, 20, EOMONTH(GETDATE(),-2))",
+  "targetName": "Close_the_loop_compradores_NaoSelecionados",
+  "targetKey": "92E809C2-B7AB-4164-8740-20C4E44860C9",
+  "targetId": "1eac9869-c700-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-01T15:59:25.67",
+  "modifiedDate": "2023-06-01T16:07:16.683",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

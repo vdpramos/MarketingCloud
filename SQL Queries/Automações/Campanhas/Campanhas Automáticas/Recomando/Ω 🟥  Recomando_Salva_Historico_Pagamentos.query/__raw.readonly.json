@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a1f3b7bd-ecbf-4522-9222-7fa0abe169a5",
+  "name": "Recomando_Salva_Historico_Pagamentos",
+  "key": "8b5f2f99-1445-4f64-a6e9-a7888e943707",
+  "description": "Guarda queda de pagamentos comunicadas para nao ter repeticao",
+  "queryText": "SELECT\r\n\tID_PAGAMENTO\r\nFROM RECOMANDO_BASE_FILTRADA",
+  "targetName": "HISTORICO_QUEDAS",
+  "targetKey": "059959B9-8641-4953-9362-D03581AFD810",
+  "targetId": "7d4c105b-e9ed-ec11-a5b6-d4f5ef66aed7",
+  "targetDescription": "Base com pagamentos ja comunicados para nao repetricao",
+  "createdDate": "2022-06-16T22:12:26.303",
+  "modifiedDate": "2022-06-16T22:12:26.303",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 31535,
+  "isFrozen": false
+}

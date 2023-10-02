@@ -1,0 +1,112 @@
+[
+  {
+    "Name": "CONTACTKEY",
+    "FieldType": "Text",
+    "ObjectID": "1878755d-6330-4919-9402-a43fc68bb5f9",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "MOBILENUMBER",
+    "FieldType": "Phone",
+    "ObjectID": "db858f55-304c-4da9-adec-078b0fa5936e",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "EVENTDATEUTC",
+    "FieldType": "Text",
+    "ObjectID": "70e8c9f8-ae02-4e01-91a7-453366845f1b",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "STATUS",
+    "FieldType": "Text",
+    "ObjectID": "fb711f4d-7094-4409-ba4a-3d528494dffc",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "JBDEFINITIONID",
+    "FieldType": "Text",
+    "ObjectID": "f9f3ca55-b2f6-44b2-b305-b75067552bfc",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "SENDIDENTIFIER",
+    "FieldType": "Text",
+    "ObjectID": "804f4453-53e1-4297-a54e-1acde199f648",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "TRACKINGTYPE",
+    "FieldType": "Text",
+    "ObjectID": "ed64c988-37d9-49f8-9569-5cdc220c884a",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "JOURNEYNAME",
+    "FieldType": "Text",
+    "ObjectID": "acbd7483-8864-4956-8165-ead55305d336",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "db7775c2-12a9-4d10-803c-4abb0354a42f",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "ID_PROPOSTA",
+    "FieldType": "Text",
+    "ObjectID": "a8780f22-f271-48ef-8d5d-2185dad63e9b",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  }
+]

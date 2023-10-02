@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "id",
+    "FieldType": "Text",
+    "ObjectID": "4c2f5211-d6ed-42e3-b25a-41371a2d4492",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "firstName",
+    "FieldType": "Text",
+    "ObjectID": "92a8bf30-827c-46b7-8956-5958e653599e",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "whatsapp",
+    "FieldType": "Phone",
+    "ObjectID": "7aa69eaf-fe3a-4aec-a510-ff0d401a4ed5",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "video_url",
+    "FieldType": "Text",
+    "ObjectID": "e5fa2eea-e506-4f4b-89b3-f4a6ce5fc156",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  }
+]

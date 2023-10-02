@@ -1,0 +1,5 @@
+Dataextension name: Flag_Horario_Prop_Nao_pagas
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Hora                 | Boolean         | false    | false    |                 |

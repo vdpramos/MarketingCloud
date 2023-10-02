@@ -1,0 +1,8 @@
+Dataextension name: ExClienteClassificadoIncorretamente
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID                   | Text(50)        | false    | false    |                 |
+| CPF_CNPJ             | Text(50)        | false    | false    |                 |
+| CLASSIFICACAO        | Text(100)       | false    | false    |                 |
+| ID_CLIENTE           | Text(50)        | false    | false    |                 |

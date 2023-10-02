@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "84d6614f-861e-45b8-9249-3e89dfbe1b94",
+  "name": "SMSSubscriptionLog_backup_exclusao",
+  "key": "8025347a-0216-4407-98dc-028ab825ba29",
+  "description": "",
+  "queryText": "SELECT\n    a.SubscriberKey,\n    b.LogDate,\n    b.MobileSubscriptionID,\n    b.SubscriptionDefinitionID,\n    b.MobileNumber,\n    b.OptOutStatusID,\n    b.OptOutMethodID,\n    b.OptOutDate,\n    b.OptInStatusID,\n    b.OptInMethodID,\n    b.OptInDate,\n    b.Source,\n    b.CreatedDate,\n    b.ModifiedDate\nFROM Exclusao_contatos a\n    INNER JOIN _SMSSubscriptionLog b \n        ON a.SubscriberKey = b.SubscriberKey",
+  "targetName": "SMSSubscriptionLog_backup_exclusao",
+  "targetKey": "CB2A519F-0737-44AB-8ECD-68B9557B4706",
+  "targetId": "3125ec7c-2f85-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-12-26T09:49:03.15",
+  "modifiedDate": "2023-04-26T10:46:08.587",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 57312,
+  "isFrozen": false
+}

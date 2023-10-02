@@ -1,0 +1,6 @@
+Dataextension name: Exclusao_contatos_backup
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| SubscriberKey        | Text(100)       | true     | false    |                 |
+| Data_exclusao        | Date            | true     | false    | GetDate()       |

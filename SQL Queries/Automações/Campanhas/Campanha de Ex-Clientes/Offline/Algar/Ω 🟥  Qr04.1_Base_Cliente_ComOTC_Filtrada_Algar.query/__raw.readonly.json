@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "11e89769-5f67-4ec6-b692-88b8bd99ca8b",
+  "name": "Qr04.1_Base_Cliente_ComOTC_Filtrada_Algar",
+  "key": "b05e526e-d712-4255-8ab9-834490e55e3e",
+  "description": "Filtra Contatos para Jornada\n",
+  "queryText": "SELECT\n  A.*\nFROM (\n  SELECT\n    A.*,\n    A.CPF_CNPJ as Id,\n    ROW_NUMBER() OVER ( PARTITION BY 1 ORDER BY CPF_CNPJ) AS NUM_REGISTRO\n  FROM Publico_Apto_Ex_Clientes_Algar A\n) A\n/* Garante seleção de contatos até a quantidade desejado no parametro da campanha OTC */\nLEFT JOIN CONTROLE_AUTOMACOES_CAMPANHAS CONT ON CONT.ID_CAMPANHA = '7016g000000NSIuAAO'\nWHERE NUM_REGISTRO <= QUANTIDADE_DESEJADA_OTC290",
+  "targetName": "Tb_Base_Ex_Cliente_ComOTC_Algar_Filtrada",
+  "targetKey": "75F0EDA9-BE08-4B5D-85B3-3B12819EBAAA",
+  "targetId": "0213948e-b80a-ec11-a30b-48df370eabe4",
+  "targetDescription": "",
+  "createdDate": "2021-03-17T16:43:25.617",
+  "modifiedDate": "2022-01-27T08:14:01.547",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 30784,
+  "isFrozen": false
+}

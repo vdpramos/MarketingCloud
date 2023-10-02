@@ -1,0 +1,9 @@
+Dataextension name: PI_SESSION_ENDS
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| user_id              | Text(256)       | true     | false    |                 |
+| session_id           | Text(256)       | true     | true     |                 |
+| email_address        | Text(256)       | false    | false    |                 |
+| contact_key          | Text(256)       | false    | false    |                 |
+| timestamp            | Date            | true     | false    | getdate()       |

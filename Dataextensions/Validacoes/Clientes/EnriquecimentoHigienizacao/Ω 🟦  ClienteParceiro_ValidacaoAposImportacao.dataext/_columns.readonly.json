@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "CPF_CNPJ_PARCEIRO",
+    "FieldType": "Text",
+    "ObjectID": "8d3f57ec-f799-4f94-b065-4fb82afa5b4e",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "BANCO",
+    "FieldType": "Text",
+    "ObjectID": "180c96ce-2079-4f4c-96c6-e5aa553d3f00",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "AGENCIA",
+    "FieldType": "Text",
+    "ObjectID": "e9e5eab2-4bc2-400b-b766-3e084407e218",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "CONTA",
+    "FieldType": "Text",
+    "ObjectID": "a62c6596-0582-4bad-8743-233c61373c4f",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "BANCO2",
+    "FieldType": "Text",
+    "ObjectID": "bf3fa63a-8093-42f1-bd58-21946c1d4368",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "AGENCIA2",
+    "FieldType": "Text",
+    "ObjectID": "dd0ca52d-b81d-4fb6-8afc-ee25bb476247",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "CONTA2",
+    "FieldType": "Text",
+    "ObjectID": "62f2b98a-63b0-4083-9229-6fe5d363765b",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  }
+]

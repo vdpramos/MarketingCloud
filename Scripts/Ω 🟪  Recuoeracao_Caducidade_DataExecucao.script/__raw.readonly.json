@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "f29b151e-0153-4659-b7aa-c48a4cfe3548",
+  "name": "Recuoeracao_Caducidade_DataExecucao",
+  "key": "644d540e-0820-4ea7-8feb-7645f277bcbe",
+  "description": "",
+  "script": "<script runat=\"server\">\n// Checa se está no momento de executar a campanha (datetime)\nPlatform(\"Core\", \"2.0\");\nvar Id_Campanha = '7016g000000FfaeAAC'; // Id campanha\n\n// ---------------------------------------------------------\n// --------------------- Não modificar ---------------------\n// ---------------------------------------------------------\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('51885') ));\n\n</script>",
+  "categoryId": 1937,
+  "createdDate": "2023-08-14T07:31:48.07",
+  "modifiedDate": "2023-08-14T07:31:48.07"
+}

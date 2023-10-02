@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "234C68DF-D460-4DAC-A755-60F8D006687A"
+  ],
+  "Name": [
+    "ClienteParceiroSemClienteUnico_Atualizar"
+  ]
+}

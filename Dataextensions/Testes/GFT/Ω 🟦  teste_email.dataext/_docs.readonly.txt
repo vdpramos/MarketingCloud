@@ -1,0 +1,5 @@
+Dataextension name: teste_email
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Email                | Text(50)        | true     | false    |                 |

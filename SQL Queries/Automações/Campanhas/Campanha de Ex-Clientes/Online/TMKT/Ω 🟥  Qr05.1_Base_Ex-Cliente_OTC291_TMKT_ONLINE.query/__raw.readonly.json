@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "11aa8638-d9c0-42e3-a21e-02ec5f03fdac",
+  "name": "Qr05.1_Base_Ex-Cliente_OTC291_TMKT_ONLINE",
+  "key": "7a14e9f3-976e-4d36-8ffd-ed73ed9b75a5",
+  "description": "Guarda clientes retornados no OTC291",
+  "queryText": "SELECT\n  A.CODIGO_PARCEIRO,\n  A.ID_CLIENTE,\n  A.CODIGO_MCI,\n  A.TIPO_PESSOA,\n  A.CODIGO_CIC,\n  A.DT_NASCIMENTO,\n  A.NOME,\n  A.SEXO,\n  A.UF_RESIDENCIAL,\n  A.DDD1,\n  A.TELEFONE1,\n  A.DDD2,\n  A.TELEFONE2,\n  A.DDD3,\n  A.TELEFONE3,\n  A.CODIGO_PLANO,\n  A.ORIGEM_SOLICITACAO,\n  A.FILLER,\n  A.CODIGO_RNA,\n  A.VALOR_RENDIMENTOS,\n  A.TIPO_CARTEIRA,\n  A.NIVEL_RELACIONAMENTO,\n  A.DATA_INFORMACAO,\n  A.FILLER2,\n  A.CPF,\n  \n  UPPER(SUBSTRING(B.NOME, 1, CHARINDEX(' ', B.NOME) - 1)) AS PRIMEIRO_NOME,\n  UPPER(SUBSTRING(B.NOME, CHARINDEX(' ', B.NOME) + 1, LEN(B.NOME))) AS SOBRENOME,\n  \n  A.DT_NASCIMENTO_SF,\n  CONCAT(A.CPF,'Cliente') AS CPF_TIPO_RELACIONAMENTO,\n  B.CPF_CNPJ_CODIGO_DO_PARCEIRO,\n  B.ID_CLIENTE_PARCEIRO,\n  B.Id_Contato,\n  B.ID_CAMPANHA,\n  A.Alta_Renda\nFROM\n  TB_BASE_OTC291_TRATADA A\nINNER JOIN Tb_Base_Ex_Cliente_ComOTC_Filtrada_TMKT_ONLINE B ON A.CPF = B.CPF_CNPJ",
+  "targetName": "Tb_Base_Ex_Cliente_OTC291_Tratada_TMKT_ONLINE",
+  "targetKey": "A8D4B988-9D80-4EDF-A5B8-D21C1E934BF3",
+  "targetId": "7d82f717-db56-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "Base com contatos retornados no OTC291",
+  "createdDate": "2022-10-28T14:19:22.023",
+  "modifiedDate": "2022-11-03T15:49:22.033",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 54859,
+  "isFrozen": false
+}

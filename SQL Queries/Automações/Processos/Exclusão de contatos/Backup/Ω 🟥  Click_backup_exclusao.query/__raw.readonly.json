@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "aff685bd-97b8-47af-91e8-3455cd295551",
+  "name": "Click_backup_exclusao",
+  "key": "ef7258b9-dca6-45ac-8d8d-00e7c0cb1f33",
+  "description": "",
+  "queryText": "SELECT\n    a.SubscriberKey,\n    b.AccountID,\n    b.OYBAccountID,\n    b.JobID,\n    b.ListID,\n    b.BatchID,\n    b.SubscriberID,\n    b.EventDate,\n    b.Domain,\n    b.URL,\n    b.LinkName,\n    b.LinkContent,\n    b.IsUnique,\n    b.TriggererSendDefinitionObjectID,\n    b.TriggeredSendCustomerKey\nFROM Exclusao_contatos a\n    INNER JOIN _Click b \n        ON a.SubscriberKey = b.SubscriberKey",
+  "targetName": "Click_backup_exclusao",
+  "targetKey": "5B98FFA7-2943-4BF4-A802-1B539883A5D6",
+  "targetId": "61c514ca-2d85-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-12-26T09:34:21.217",
+  "modifiedDate": "2023-04-26T10:45:06.703",
+  "targetUpdateTypeId": 2,
+  "targetUpdateTypeName": "Append",
+  "categoryId": 57312,
+  "isFrozen": false
+}

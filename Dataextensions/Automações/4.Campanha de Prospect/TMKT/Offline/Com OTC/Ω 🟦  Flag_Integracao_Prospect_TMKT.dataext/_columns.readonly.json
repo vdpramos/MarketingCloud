@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "INTEGRACAO",
+    "FieldType": "Boolean",
+    "ObjectID": "13d54ed2-c645-47ef-b2fa-8f051bec8dc8",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "C3AD7826-61DC-42D0-833E-4D2B6C4C375C"
+  ],
+  "Name": [
+    "CPFs_Verificar_Quarentena"
+  ]
+}

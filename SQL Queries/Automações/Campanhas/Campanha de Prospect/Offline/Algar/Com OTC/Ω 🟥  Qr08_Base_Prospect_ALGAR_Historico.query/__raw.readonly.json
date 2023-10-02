@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "03920e3d-0f84-4365-80f7-871d538d80d1",
+  "name": "Qr08_Base_Prospect_ALGAR_Historico",
+  "key": "2e9c4493-b13b-4d26-a0a9-b8bfe86aff68",
+  "description": "",
+  "queryText": "SELECT DISTINCT\n    CPF AS CPF,\n    ID_CAMPANHA,\n    GETDATE() AS DATA_CAMPANHA,\n    'ALGAR' AS CANAL\nFROM \n    Tb_Base_Prospect_OTC291_Filtrada_ALGAR",
+  "targetName": "Tb_Campanhas_Prospect_Historico",
+  "targetKey": "8CBC59B1-3114-4045-A13F-B4D4D25B4EF8",
+  "targetId": "fbcc626f-6c44-eb11-a2f2-48df370ed7f4",
+  "targetDescription": "",
+  "createdDate": "2021-06-03T21:53:02.463",
+  "modifiedDate": "2022-03-25T06:32:10.887",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 29367,
+  "isFrozen": false
+}

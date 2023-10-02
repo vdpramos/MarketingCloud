@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "38f2d9ef-7db3-435d-a9a7-231357734b0c",
+  "name": "Qr00.1_Base_Prospect_ComOTC_Filtro_Teo",
+  "key": "a2d95a52-7e30-446c-90b0-8f53b1697204",
+  "description": "Gera base fitlrada para envio no OTC",
+  "queryText": "SELECT\n A.*\nFROM TB_BASE_PROSPECT_COMOTC_TRATADA_TEO A\nWHERE A.IDADE_VALIDA = 1\n  AND A.CONTA_CORRENTE = 1\n  AND A.CONSELHEIRO = 0 \n  AND A.QUARENTENA = 0\n  /* AND A.CLIENTE = 0 */\n  /* AND A.VALIDA_RNA = 1 */\n  AND A.CEP_VALIDO = 1\n  AND A.NAO_IMPORTUNE = 0",
+  "targetName": "TB_BASE_PROSPECT_COMOTC_FILTRADA_TEO",
+  "targetKey": "9ED9BC7E-1F4E-4787-A3DD-7335B38EAD00",
+  "targetId": "255f3275-1a02-ec11-a30b-48df370eabe4",
+  "targetDescription": "",
+  "createdDate": "2021-08-20T19:03:40.52",
+  "modifiedDate": "2021-10-08T19:33:37.903",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29371,
+  "isFrozen": false
+}

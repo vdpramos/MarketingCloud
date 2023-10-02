@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "845403ae-a166-4f51-8b3a-e52145d7ed1f",
+  "name": "VerificaEmailsNoService",
+  "key": "926196cc-acde-4e8e-acb3-9b52e7fa28bf",
+  "description": "Verifica os emails dos clientes que tiveram seus dados alterados para validação dos usuários.",
+  "queryText": "select  \n        HC_Id_Parceiro_Cap__c,\n        HC_CPF_CNPJ__c,\n        HC_Email_Brasilcap__c, \n        HC_Email_Comercial__c, \n        HC_Email_Pessoal__c, \n        HC_Email_Principal__c \nfrom HC_Relacao_Cliente_Parceiro__c_SALESFORCE \nwhere   HC_Id_Parceiro_Cap__c = 'TCBB'\n        AND HC_CPF_CNPJ__c  \n            in (select cpf_cnpj from CPF_EmailClientes)",
+  "targetName": "EmailsClientes",
+  "targetKey": "DFCF1F71-4616-4D99-9E48-6FDB417BB9CA",
+  "targetId": "a8c6c8d1-4c80-ec11-a317-48df37342c99",
+  "targetDescription": "Data Extension para armazenar as informações de email de clientes que foram alterados no salesforce",
+  "createdDate": "2022-01-28T09:34:16.957",
+  "modifiedDate": "2022-06-08T08:15:36.93",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

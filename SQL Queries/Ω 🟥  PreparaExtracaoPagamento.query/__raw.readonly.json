@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "171efa99-3b31-4753-8023-7a6c0cbe4cce",
+  "name": "PreparaExtracaoPagamento",
+  "key": "171EFA99-3B31-4753-8023-7A6C0CBE4CCE",
+  "description": "",
+  "queryText": "select  Name,\n        HC_Status_do_Pagamento__c,\n        RIGHT(REPLICATE ('0' , 12)+CONVERT(VARCHAR, HC_Numero_da_Conta_Corrente__c), 12) AS HC_Numero_da_Conta_Corrente__c,\n        RIGHT(REPLICATE ('0' , 4)+CONVERT(VARCHAR, HC_Numero_da_Conta_Corrente__c), 4) AS HC_Numero_da_Agencia__c,\n        HC_Meio_de_credito__c,\n        id\nfrom Pagamentos_AtualizaMeioCredito \nwhere id is not null \n        and id <> ''",
+  "targetName": "ExtracaoPagamentoMeioCredito",
+  "targetKey": "B1D31D86-BE57-4CD3-9F59-37C605059CD3",
+  "targetId": "59085795-d2c1-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-03-13T13:10:31.853",
+  "modifiedDate": "2023-03-13T13:37:08.423",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

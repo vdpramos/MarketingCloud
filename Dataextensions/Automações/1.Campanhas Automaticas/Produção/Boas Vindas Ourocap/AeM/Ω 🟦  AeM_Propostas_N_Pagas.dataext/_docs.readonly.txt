@@ -1,0 +1,19 @@
+Dataextension name: AeM_Propostas_N_Pagas
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_PROPOSTA          | Text(20)        | true     | false    |                 |
+| Date                 | Date            | true     | false    | GetDate()       |
+| CPF_CNPJ             | Text(50)        | true     | false    |                 |
+| Id_Contato           | Text(50)        | true     | false    |                 |
+| Id_Cliente_Parceiro  | Text(50)        | true     | false    |                 |
+| EMAIL_VALIDO         | Boolean         | true     | false    |                 |
+| CELULAR_VALIDO       | Boolean         | true     | false    |                 |
+| NAO_DESEJA_RECEBER_EMAIL | Boolean         | true     | false    |                 |
+| NAO_DESEJA_RECEBER_SMS | Boolean         | true     | false    |                 |
+| EMAIL                | EmailAddress    | true     | false    |                 |
+| CreatedDate          | Text(50)        | true     | false    |                 |
+| Flag_Whatsapp        | Text(50)        | true     | false    | false           |
+| CELULAR              | Text(20)        | true     | false    |                 |
+| TITULOS_ANTERIORES_ATIVOS | Number          | true     | false    | 0               |
+| TITULOS_ANTERIORES_INATIVOS | Number          | true     | false    | 0               |

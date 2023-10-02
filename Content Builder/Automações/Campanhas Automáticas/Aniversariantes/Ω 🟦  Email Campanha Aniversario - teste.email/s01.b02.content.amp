@@ -1,0 +1,14 @@
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- %%[ 
+var @fullName,@firstName
+
+set @fullName = [Nome]
+if indexOf(@fullName, " ") > 0 then 
+set @firstName = Substring(@fullName,1, Subtract(IndexOf(@fullName," "),1)) 
+Else
+set @firstName = [Nome]
+endif 
+
+set @firstName = Propercase(@firstName)
+
+]%% -->
+</td></tr></table>

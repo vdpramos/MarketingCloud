@@ -1,0 +1,19 @@
+Dataextension name: PublicoAlvoDuploSim
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| NOME                 | Text(60)        | false    | false    |                 |
+| DDD_TEL              | Text(2)         | false    | false    |                 |
+| TEL                  | Text(9)         | false    | false    |                 |
+| ID_CLIENTE_PARCEIRO  | Text(18)        | false    | false    |                 |
+| ID_CONTATO           | Text(18)        | false    | false    |                 |
+| ID_CLIENTE           | Text(18)        | false    | false    |                 |
+| ID_CAMPANHA          | Text(18)        | false    | false    |                 |
+| Dt_Ult_Execucao      | Date            | false    | false    |                 |
+| DATA_PROXIMA_EXECUCAO | Date            | false    | false    |                 |
+| DDD_TEL1             | Text(2)         | false    | false    |                 |
+| TEL1                 | Text(9)         | false    | false    |                 |
+| DDD_TEL2             | Text(2)         | false    | false    |                 |
+| TEL2                 | Text(9)         | false    | false    |                 |
+| ID_DEMANDA           | Text(18)        | false    | false    |                 |
+| CPF_CNPJ             | Text(14)        | true     | true     |                 |

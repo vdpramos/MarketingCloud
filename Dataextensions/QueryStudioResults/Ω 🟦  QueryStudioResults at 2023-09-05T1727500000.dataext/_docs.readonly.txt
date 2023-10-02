@@ -1,0 +1,47 @@
+Dataextension name: QueryStudioResults at 2023-09-05T1727500000
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Id                   | Text(255)       | false    | false    |                 |
+| HC_Agendamento__c    | Text(255)       | false    | false    |                 |
+| HC_Chave_CxP_Subscritor__c | Text(255)       | false    | false    |                 |
+| HC_Codigo_do_Parceiro__c | Text(255)       | false    | false    |                 |
+| HC_Codigo_do_Produto__c | Text(255)       | false    | false    |                 |
+| HC_Data_da_Venda__c  | Text(255)       | false    | false    |                 |
+| HC_Forma_de_Credito_Formula__c | Text(255)       | false    | false    |                 |
+| HC_Situacao__c       | Text(255)       | false    | false    |                 |
+| valor_da_parcela     | Text(255)       | false    | false    |                 |
+| tipo_de_cliente      | Text(255)       | false    | false    |                 |
+| nao_deseja_receber_email | Text(255)       | false    | false    |                 |
+| nao_importune        | Text(255)       | false    | false    |                 |
+| nao_deseja_receber_sms | Text(255)       | false    | false    |                 |
+| cpf_cnpj             | Text(255)       | false    | false    |                 |
+| hc_celular_1__c      | Text(255)       | false    | false    |                 |
+| ddd_tel_01           | Text(255)       | false    | false    |                 |
+| tel_01               | Text(255)       | false    | false    |                 |
+| tipo_tel_01          | Text(255)       | false    | false    |                 |
+| ddd_tel_02           | Text(255)       | false    | false    |                 |
+| tel_02               | Text(255)       | false    | false    |                 |
+| tipo_tel_02          | Text(255)       | false    | false    |                 |
+| ddd_tel_03           | Text(255)       | false    | false    |                 |
+| tel_03               | Text(255)       | false    | false    |                 |
+| tipo_tel_03          | Text(255)       | false    | false    |                 |
+| ddd_tel_04           | Text(255)       | false    | false    |                 |
+| tel_04               | Text(255)       | false    | false    |                 |
+| tipo_tel_04          | Text(255)       | false    | false    |                 |
+| ddd_tel_05           | Text(255)       | false    | false    |                 |
+| tel_05               | Text(255)       | false    | false    |                 |
+| tipo_tel_05          | Text(255)       | false    | false    |                 |
+| ddd_tel_06           | Text(255)       | false    | false    |                 |
+| tel_06               | Text(255)       | false    | false    |                 |
+| tipo_tel_06          | Text(255)       | false    | false    |                 |
+| HC_Status_Celular_1__c | Text(255)       | false    | false    |                 |
+| HC_Status_Celular_2__c | Text(255)       | false    | false    |                 |
+| HC_Status_Celular_3__c | Text(255)       | false    | false    |                 |
+| nome                 | Text(255)       | false    | false    |                 |
+| idade                | Text(255)       | false    | false    |                 |
+| conselheiro          | Text(255)       | false    | false    |                 |
+| cliente_pep          | Text(255)       | false    | false    |                 |
+| HC_Familia_do_Produto__c | Text(255)       | false    | false    |                 |
+| Name                 | Text(255)       | false    | false    |                 |
+| locale               | Text(255)       | false    | false    |                 |

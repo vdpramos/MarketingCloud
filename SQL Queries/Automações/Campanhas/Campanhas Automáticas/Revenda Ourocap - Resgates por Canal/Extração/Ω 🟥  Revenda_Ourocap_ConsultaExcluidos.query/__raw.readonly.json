@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3da11bbc-162f-48f6-bb1e-30d482ef42e8",
+  "name": "Revenda_Ourocap_ConsultaExcluidos",
+  "key": "3DA11BBC-162F-48F6-BB1E-30D482EF42E8",
+  "description": "",
+  "queryText": "select T.* \nfrom Revenda_Ourocap_Otc291_TRATADA T\nleft join Revenda_Ourocap_Otc291_FILTRADA F\n    ON T.Id_Contato = F.Id_Contato\nwhere F.Ind_MembroCampanha is null",
+  "targetName": "Revenda_Ourocap_Excluidos",
+  "targetKey": "99F5769C-508A-4A68-A617-8E3A0EC97853",
+  "targetId": "ff349c2d-2d48-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "Base com os contatos retornados no OTC291",
+  "createdDate": "2023-08-31T12:36:22.457",
+  "modifiedDate": "2023-09-05T11:28:26.083",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 32394,
+  "isFrozen": false
+}

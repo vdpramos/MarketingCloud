@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "7169FEC2-E777-4638-A5A3-A111FDDD8F93"
+  ],
+  "Name": [
+    "Prop_Ourocap_N_Pag_OTC290"
+  ]
+}

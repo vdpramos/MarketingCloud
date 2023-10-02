@@ -1,0 +1,11 @@
+Dataextension name: Propostas
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID_PROPOSTA          | Text(50)        | false    | false    |                 |
+| ID_PLANO             | Text(50)        | false    | false    |                 |
+| ID_AGENTE            | Text(50)        | false    | false    |                 |
+| CPF_CNPJ_TITULAR     | Text(50)        | false    | false    |                 |
+| CPF_CNPJ_SUBSCRITOR  | Text(50)        | false    | false    |                 |
+| DT_AGENDAMENTO       | Text(50)        | false    | false    |                 |
+| DATA_PROPOSTA        | Text(50)        | false    | false    |                 |

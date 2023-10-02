@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e6fd7381-c8f0-4007-8228-1518592e3315",
+  "name": "Job_Infos_Table",
+  "key": "2a91583d-cd72-4a25-9785-fd406a25959e",
+  "description": "",
+  "queryText": "SELECT j.JobID,\r\nj.SchedTime,\r\nj.SalesForceErrorSubscriberCount,\r\nj.DeliveredTime,\r\nj.PickupTime,\r\nj.EmailName,\r\nj.EmailSubject,\r\nj.ModifiedDate\r\nFROM [_Job] j\r\nWHERE j.JobID IN (SELECT JobID FROM [_Sent] \r\nWHERE \r\n(\r\n    month(EventDate) = month(getdate()-1) \r\n    and \r\n    year(EventDate) = year(getdate()-1)\r\n    )\r\n)",
+  "targetName": "JOB_INFOS",
+  "targetKey": "2E81AF12-51C7-45BA-A9CE-3FB9A2AA4CFC",
+  "targetId": "e160a257-d573-ec11-a311-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2022-01-13T06:12:04.88",
+  "modifiedDate": "2023-02-14T08:33:57.7",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

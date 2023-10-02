@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "cc3f260e-35cf-4674-9d2e-487642fdb4ae",
+  "name": "Validacao_excluido_RNA_alta_renda",
+  "key": "7deaa4cb-f894-4852-8eec-cc9efed9fac0",
+  "description": "",
+  "queryText": "select\n*\nfrom\nTb_Base_Prospect_OTC291_Online_Tratada_TMKT\nwhere\nCODIGO_RNA != '000'\nor \nALTA_RENDA != 0",
+  "targetName": "Validacao_excluidos_RNA_alta_renda",
+  "targetKey": "0CBDECEA-FD72-44A8-979C-C58AA5583582",
+  "targetId": "2a068ed7-fc8c-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2023-01-05T07:31:02.52",
+  "modifiedDate": "2023-01-05T07:31:02.52",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 54102,
+  "isFrozen": false
+}

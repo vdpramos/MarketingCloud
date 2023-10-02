@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "5AC47818-192B-46F6-B8D8-8E4E23104A8A"
+  ],
+  "Name": [
+    "Tb_Pre_Sorteio_Filtrada"
+  ]
+}

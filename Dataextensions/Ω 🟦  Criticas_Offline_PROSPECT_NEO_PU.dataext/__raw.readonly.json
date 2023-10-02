@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "CEAB5189-C46F-4332-9F65-D9A300919576"
+  ],
+  "Name": [
+    "Criticas_Offline_PROSPECT_NEO_PU"
+  ]
+}

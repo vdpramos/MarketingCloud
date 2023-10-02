@@ -1,0 +1,6 @@
+Dataextension name: Historico_Processados
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(50)        | true     | false    |                 |
+| DATA_ENVIO           | Text(50)        | true     | false    |                 |

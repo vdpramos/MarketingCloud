@@ -1,0 +1,6 @@
+Dataextension name: Titulos_AtualizarTitular
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID                   | Text(50)        | false    | false    |                 |
+| HC_Cliente_x_Parceiro__c | Text(50)        | false    | false    |                 |

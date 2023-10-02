@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "dba6c59b-7730-4470-bd10-bc97459a9e33",
+  "name": "Qr_Boas_Vindas_Doadin_Trata_Celular",
+  "key": "DBA6C59B-7730-4470-BD10-BC97459A9E33",
+  "description": "",
+  "queryText": "SELECT\n  A.CPF_CNPJ,\n  A.ID_PROPOSTA,\n  '55' + REPLACE(REPLACE(REPLACE(REPLACE(A.CELULAR, '(', ''), ')', ''), ' ', ''), '-', '') AS CELULAR\nFROM Tb_Boas_Vindas_Doadin_Prospostas A\nWHERE CELULAR IS NOT NULL",
+  "targetName": "Tb_Boas_Vindas_Doadin_Prospostas",
+  "targetKey": "65CF1598-6FBC-425D-8AA1-F9F692AE6ABE",
+  "targetId": "c814037d-353c-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "Publico Inicial - Propostas elegiveis para campanha de boas vindas Doadin",
+  "createdDate": "2023-08-18T12:59:06.853",
+  "modifiedDate": "2023-08-21T07:38:58.523",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 67330,
+  "isFrozen": false
+}

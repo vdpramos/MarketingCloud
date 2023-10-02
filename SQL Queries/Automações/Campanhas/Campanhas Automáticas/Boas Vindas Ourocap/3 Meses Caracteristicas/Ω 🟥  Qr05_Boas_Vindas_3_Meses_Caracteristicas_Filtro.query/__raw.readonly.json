@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "91fc1962-da99-4b35-91d9-7d64e6e0112a",
+  "name": "Qr05_Boas_Vindas_3_Meses_Caracteristicas_Filtro",
+  "key": "a4ff1da6-3a4f-40b6-bcc0-1ab12f776282",
+  "description": "",
+  "queryText": "SELECT \r\n\tCPF_CNPJ,\r\n\tMAX(Nome) AS Nome,\r\n\tMAX(Id_Campanha) AS Id_Campanha,\r\n\tMAX(Id_Contato) AS Id_Contato,\r\n\tMAX(Id_Cliente_Parceiro) AS Id_Cliente_Parceiro,\r\n\tMAX(CONVERT(INTEGER, NAO_DESEJA_RECEBER_EMAIL)) AS NAO_DESEJA_RECEBER_EMAIL,\r\n\tMAX(EMAIL) AS EMAIL,\r\n\tMAX(convert(integer, EMAIL_VALIDO)) AS EMAIL_VALIDO,\r\n\tMAX(QUANTIDADE_TITULOS_ANTERIORES_ATIVOS) AS QUANTIDADE_TITULOS_ANTERIORES_ATIVOS,\r\n\tMAX(QUANTIDADE_TITULOS_ANTERIORES_INATIVOS) AS QUANTIDADE_TITULOS_ANTERIORES_INATIVOS,\r\n\tMAX(DATA_INICIO_VIGENCIA) AS DATA_INICIO_VIGENCIA\r\nFROM Tb_Boas_Vindas_3_Meses_Clientes_E_Titulos\r\nWHERE \r\n\tISNULL(NAO_DESEJA_RECEBER_EMAIL, 0) = 0 \r\n\tAND EMAIL IS NOT NULL\r\n    AND EMAIL_VALIDO = 1\r\n\tAND QUARENTENA = 0\r\nGROUP BY CPF_CNPJ",
+  "targetName": "Tb_Boas_Vindas_3_Meses_Clientes_E_Titulos_Filtro",
+  "targetKey": "433D6EF4-FB71-4408-B1E5-CC72EAA0E9FC",
+  "targetId": "f497a13a-af3d-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "Base com o publico para o disparo",
+  "createdDate": "2022-09-26T09:50:58.223",
+  "modifiedDate": "2022-12-07T12:36:52.47",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 53594,
+  "isFrozen": false
+}

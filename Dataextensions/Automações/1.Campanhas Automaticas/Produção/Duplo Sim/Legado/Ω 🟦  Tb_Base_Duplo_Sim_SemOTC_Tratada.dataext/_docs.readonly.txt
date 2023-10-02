@@ -1,0 +1,61 @@
+Dataextension name: Tb_Base_Duplo_Sim_SemOTC_Tratada
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF_CNPJ             | Text(20)        | false    | false    |                 |
+| Nome                 | Text(200)       | false    | false    |                 |
+| Idade                | Number          | false    | false    |                 |
+| Dt_Nascimento        | Date            | false    | false    |                 |
+| Sexo                 | Text(10)        | false    | false    |                 |
+| Tipo_Pessoa          | Text(20)        | false    | false    |                 |
+| Ddd_Tel_04           | Text(10)        | false    | false    |                 |
+| Tel_04               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_04          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_05           | Text(10)        | false    | false    |                 |
+| Tel_05               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_05          | Text(50)        | false    | false    |                 |
+| Ddd_Tel_06           | Text(10)        | false    | false    |                 |
+| Tel_06               | Text(20)        | false    | false    |                 |
+| Tipo_Tel_06          | Text(50)        | false    | false    |                 |
+| Tel_Principal        | Text(50)        | false    | false    |                 |
+| Publico_Alvo         | Text(50)        | false    | false    |                 |
+| Tipo_Campanha        | Text(50)        | false    | false    |                 |
+| Parceiro             | Text(50)        | false    | false    |                 |
+| Dt_Criacao_Mailing   | Date            | false    | false    | GetDate()       |
+| Dt_Inicio_Mailing    | Date            | false    | false    |                 |
+| Dt_Fim_Mailing       | Date            | false    | false    |                 |
+| Possui_Titulo_Ativo  | Boolean         | false    | false    |                 |
+| Quarentena           | Boolean         | false    | false    |                 |
+| Compra_Utimos_30_Dias | Boolean         | false    | false    |                 |
+| Idade_Valida         | Boolean         | false    | false    |                 |
+| Possui_Telefone_Ativo | Boolean         | false    | false    |                 |
+| Possui_Conta_Corrente | Boolean         | false    | false    |                 |
+| Deseja_Contato_Telefonico | Boolean         | false    | false    |                 |
+| Conselheiro          | Boolean         | false    | false    |                 |
+| Nao_Importune        | Boolean         | false    | false    |                 |
+| Cliente_PEP          | Boolean         | false    | false    |                 |
+| Restricao_RNA        | Boolean         | false    | false    |                 |
+| Alta_Renda           | Boolean         | false    | false    |                 |
+| Id_Campanha          | Text(50)        | false    | false    |                 |
+| Id_Produto           | Text(50)        | false    | false    |                 |
+| Id_Produto_Valor     | Text(50)        | false    | false    |                 |
+| Id                   | Text(50)        | true     | true     |                 |
+| Id_Cliente_Parceiro  | Text(50)        | false    | false    |                 |
+| CPF_CNPJ_Codigo_do_Parceiro | Text(50)        | false    | false    |                 |
+| Id_Contato           | Text(50)        | false    | false    |                 |
+| Id_Cliente           | Text(50)        | false    | false    |                 |
+| UF                   | Text(10)        | false    | false    |                 |
+| Dt_Ult_Contemplacao  | Date            | false    | false    |                 |
+| Ativar_Campanha      | Boolean         | false    | false    |                 |
+| HC_Contratacao__c    | Date            | false    | false    |                 |
+| Dt_Ult_Execucao      | Date            | false    | false    |                 |
+| Dias_Antecedencia    | Text(50)        | false    | false    |                 |
+| HC_FORMATO__C        | Text(50)        | false    | false    |                 |
+| HC_FORNECEDOR__C     | Text(50)        | false    | false    |                 |
+| Origem_Venda         | Text(300)       | false    | false    |                 |
+| Agendamento          | Date            | false    | false    |                 |
+| DT_Limite            | Date            | false    | false    |                 |
+| Data_Proxima_Execucao | Date            | false    | false    |                 |
+| NAO_ACEITOU          | Boolean         | false    | false    |                 |
+| ID_PROPOSTA          | Text(20)        | false    | false    |                 |
+| Data_da_Venda        | Date            | false    | false    |                 |

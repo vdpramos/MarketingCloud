@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2fb87a25-79d7-41a8-a9f0-c34658d00584",
+  "name": "Qr07_Base_Boas_Vindas_Ourocap_Dados_Personalizacao",
+  "key": "70072286-2aa4-4904-bcc9-fc94efbb20eb",
+  "description": "Separa os dados que serao usados na personalizacao do email",
+  "queryText": "SELECT \r\n\tB.CPF_CNPJ,\r\n\tB.NUMERO_DO_TITULO,\r\n\tT.HC_NUMERO_DA_SORTE__C AS NUMERO_DA_SORTE,\r\n\tT.HC_VALOR_DA_PARCELA__C AS VALOR_DA_PARCELA__C,\r\n\tT.HC_TERMINO_CARENCIA__C AS TERMINO_CARENCIA,\r\n\tT.HC_FIM_PREVISTO__C AS INICIO_DA_VIGENCIA\r\nFROM TB_BOAS_VINDAS_OUROCAP_COMOTC_FILTRADA B\r\nINNER JOIN HC_TITULO__C_SALESFORCE T WITH (NOLOCK) ON B.CPF_CNPJ = T.HC_CPF_CNPJ_Titular__c AND B.NUMERO_DO_TITULO = T.HC_NUMERO_DO_TITULO__C",
+  "targetName": "Tb_Boas_Vindas_Ourocap_Dados_Personalizacao",
+  "targetKey": "F608557E-8FE1-4204-B008-26900D69EEE1",
+  "targetId": "fcc0dff4-3efa-eb11-a30d-48df37342c99",
+  "targetDescription": "",
+  "createdDate": "2021-08-10T20:06:58.25",
+  "modifiedDate": "2021-08-10T20:06:58.25",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 37320,
+  "isFrozen": false
+}

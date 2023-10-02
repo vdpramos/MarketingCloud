@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "fc6c2267-7c57-46dd-adc4-329961ac5849",
+  "name": "Base_Filtrada_OTC291_Validacao",
+  "key": "4347444b-607e-473a-870a-93b712095bf3",
+  "description": "",
+  "queryText": "SELECT\n*\nFROM\nTb_Base_OTC291_Tratada_Validacao\nWHERE\nCodigo_RNA != '000' \nOR\nAlta_Renda IN (0010,0031,0032,0033,0034,0035,0040,0041,0042,0043,0044,0045,0046,0047,0048,0049,0050,0054,0057)",
+  "targetName": "Tb_Base_OTC291_Filtrada_Validacao",
+  "targetKey": "F4C74BD8-0242-44B5-B796-110BF92F83BE",
+  "targetId": "148c4605-8e3a-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2022-09-22T09:49:33.513",
+  "modifiedDate": "2022-09-22T09:55:20.48",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 53311,
+  "isFrozen": false
+}

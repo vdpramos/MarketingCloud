@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "82b1b165-82db-48d3-b57d-ecb8d58ee2ba",
+  "name": "QR_Criticas_Offline_PROSPECT_TEO",
+  "key": "3c8215fb-5dc1-4030-9194-75f95b6079a6",
+  "description": "",
+  "queryText": "SELECT\r\nA.CPF_CNPJ,\r\nA.CAMPANHA,\r\nA.RESULTADO,\r\nA.DATA_REGISTRO\r\nFROM\r\nTb_Log_Resultados_de_Avaliacao A\r\nWHERE\r\nA.CAMPANHA = 'Campanha Offline PROSPECT TEO - detalhe'\r\nAND\r\nCONVERT(date, A.DATA_REGISTRO) BETWEEN CONVERT(date, '2021-06-01') AND CONVERT(date, '2021-12-31')\r\n\r\n",
+  "targetName": "Criticas_Offline_PROSPECT_TEO",
+  "targetKey": "914D61CA-5A78-41A3-A337-72D1AF61FD24",
+  "targetId": "eaceb786-7e6d-ec11-a311-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2022-01-04T10:51:35.967",
+  "modifiedDate": "2022-01-04T10:58:48.977",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 1930,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "f3b244f3-3a6f-493b-a6ae-42083879585f",
+  "name": "Qr04.1_Base_ExCliente_ComOTC_Filtrada_TMKT",
+  "key": "7a5d51e4-94f1-45a6-a88f-ee1bf310cade",
+  "description": "Filtra Contatos para Jornada\n",
+  "queryText": "SELECT A.*\nFROM (\n  SELECT\n    A.*,\n    A.CPF_CNPJ as Id,\n    ROW_NUMBER() OVER ( PARTITION BY 1 ORDER BY CPF_CNPJ) AS NUM_REGISTRO\n  FROM Publico_Apto_Ex_Clientes_TMKT A\n) A\n/* Garante seleção de contatos até a quantidade desejado no parametro da campanha OTC */\nLEFT JOIN CONTROLE_AUTOMACOES_CAMPANHAS CONT ON CONT.ID_CAMPANHA = '7016g000000NSIpAAO'\nWHERE NUM_REGISTRO <= QUANTIDADE_DESEJADA_OTC290\n \n",
+  "targetName": "Tb_Base_Ex_Cliente_ComOTC_Filtrada_TMKT",
+  "targetKey": "CC7EDC31-8557-4AEF-9CD1-0A67C1542721",
+  "targetId": "10970c3b-cd06-ec11-a30b-48df370eabe4",
+  "targetDescription": "",
+  "createdDate": "2021-08-26T18:27:01.597",
+  "modifiedDate": "2023-07-05T15:30:40.44",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 33121,
+  "isFrozen": false
+}

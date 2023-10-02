@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "bbe35bbf-b6a2-4848-a39a-884905fb416b",
+  "name": "Qr_Boas_Vindas_Doadin_Filtro",
+  "key": "BBE35BBF-B6A2-4848-A39A-884905FB416B",
+  "description": "",
+  "queryText": "SELECT \r\n    Id_Contato,\r\n    MAX(CPF_CNPJ) AS CPF_CNPJ,\r\n    MAX(Nome) AS Nome,\r\n    MAX(Id_Campanha) AS Id_Campanha,\r\n    MAX(Id_Cliente_Parceiro) AS Id_Cliente_Parceiro,\r\n    MAX(CONVERT(INT, NAO_DESEJA_RECEBER_EMAIL)) AS NAO_DESEJA_RECEBER_EMAIL,\r\n    MAX(CONVERT(INT, NAO_DESEJA_RECEBER_SMS)) AS NAO_DESEJA_RECEBER_SMS,\r\n    MAX(EMAIL) AS EMAIL,\r\n    MAX(CONVERT(INT, EMAIL_VALIDO)) AS EMAIL_VALIDO,\r\n    MAX(CELULAR) AS CELULAR,\r\n    MAX(CONVERT(INT, CELULAR_VALIDO)) AS CELULAR_VALIDO,\r\n    MAX(TITULOS_ANTERIORES_ATIVOS) AS TITULOS_ANTERIORES_ATIVOS,\r\n    MAX(TITULOS_ANTERIORES_INATIVOS) AS TITULOS_ANTERIORES_INATIVOS,\r\n    MAX(ID_PROPOSTA) AS ID_PROPOSTA,\r\n    MAX(CREATEDDATE) AS CREATEDDATE,\r\n    MAX(NOME_PARCEIRO) AS NOME_PARCEIRO, \r\n    MAX(DATA_ORIGEM_VENDA_AGENDADA__C) AS DATA_ORIGEM_VENDA_AGENDADA,\r\n    MAX(ORIGEM_VENDA_AGENDADA__C) AS ORIGEM_VENDA_AGENDADA,\r\n    MAX(QUANTIDADE_VENDA_AGENDADA__C) AS QUANTIDADE_VENDA_AGENDADA,\r\n    MAX(NUMERO_VENDA_AGENDADA__C) AS NUMERO_VENDA_AGENDADA,\r\n    MAX(ID_VENDA_AGENDADA__C) AS ID_VENDA_AGENDADA\r\nFROM Tb_Boas_Vindas_Doadin_Prospostas\r\nGROUP BY Id_Contato\r\n",
+  "targetName": "Tb_Boas_Vindas_Doadin_Disparo",
+  "targetKey": "172AB09A-EFB7-42B4-BC19-F5A500D462B7",
+  "targetId": "41b4cf47-003e-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "Publico Inicial - Propostas elegiveis para campanha de boas vindas Doadin",
+  "createdDate": "2023-08-18T13:56:41.597",
+  "modifiedDate": "2023-08-18T13:56:41.597",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 67330,
+  "isFrozen": false
+}

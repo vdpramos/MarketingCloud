@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "1020c7db-de0b-4c92-a86a-1ba36a6eb5e9",
+  "name": "Expurgo Cliente Parceiro - Alternar Chave DE Flag",
+  "key": "201df721-6f8e-4220-ba35-fff4b137b942",
+  "description": "Marca o DE flag, inserindo linha ou limpando, para liberar o envio dos Ids para o Service",
+  "queryText": "select top 1\n  1 as Continuar\nfrom [Atualizacao Flag Delete Cliente Parceiro]\nwhere enviado = 1",
+  "targetName": "Flag Expurgo Cliente Parceiro",
+  "targetKey": "9FDA7149-F877-4D9F-B49E-C894D11F150A",
+  "targetId": "01457b94-b5d9-ec11-a319-48df370eabe5",
+  "targetDescription": "Para liberar envio de Ids para expurgo ao Service",
+  "createdDate": "2022-05-22T04:19:47.557",
+  "modifiedDate": "2022-06-22T09:19:41.217",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 49172,
+  "isFrozen": false
+}

@@ -1,0 +1,344 @@
+{
+  "id": 38768,
+  "customerKey": "896d0344-311f-4778-aba3-7e837b2dc3a9",
+  "objectID": "7e6d542d-6919-4ede-99de-602a15a0dd36",
+  "contentType": "application/vnd.etmc.email.Message; kind=template",
+  "assetType": {
+    "id": 207,
+    "name": "templatebasedemail",
+    "displayName": "Template-Based Email"
+  },
+  "fileProperties": {
+    "fileName": "Recomando CAP Fiador"
+  },
+  "name": "Recomando CAP Fiador",
+  "description": "",
+  "owner": {
+    "id": 713534430,
+    "email": "lucas.souza@harpiacloud.com.br",
+    "name": "Lucas Souza",
+    "userId": "713534430"
+  },
+  "createdDate": "2021-09-27T14:14:48.317-06:00",
+  "createdBy": {
+    "id": 713534430,
+    "email": "lucas.souza@harpiacloud.com.br",
+    "name": "Lucas Souza",
+    "userId": "713534430"
+  },
+  "modifiedDate": "2022-06-19T12:43:02.51-06:00",
+  "modifiedBy": {
+    "id": 713538740,
+    "email": "matheus.b.leto@accenture.com",
+    "name": "Matheus Leto",
+    "userId": "713538740"
+  },
+  "enterpriseId": 514002572,
+  "memberId": 514002572,
+  "status": {
+    "id": 1,
+    "name": "Draft"
+  },
+  "thumbnail": {
+    "thumbnailUrl": "/v1/assets/38768/thumbnail"
+  },
+  "category": {
+    "id": 39730,
+    "name": "Recomando",
+    "parentId": 37553
+  },
+  "meta": {
+    "globalStyles": {
+      "isLocked": false,
+      "template": {
+        "background-color": "#FFFFFF",
+        "border-color": "",
+        "border-width": "0px",
+        "border-style": "solid"
+      },
+      "body": {
+        "background-color": "#FFFFFF",
+        "font-family": "Arial,helvetica,sans-serif",
+        "font-size": "16px",
+        "color": "#000000",
+        "line-height": 1,
+        "padding": "0px",
+        "content-padding-top": "0px",
+        "content-padding-right": "0px",
+        "content-padding-bottom": "0px",
+        "content-padding-left": "0px"
+      },
+      "h1": {
+        "font-family": "Arial,helvetica,sans-serif",
+        "font-size": "28px",
+        "color": "#808080",
+        "line-height": 1,
+        "font-weight": "bold",
+        "font-style": "normal"
+      },
+      "h2": {
+        "font-family": "Arial,helvetica,sans-serif",
+        "font-size": "22px",
+        "color": "#808080",
+        "line-height": 1,
+        "font-weight": "bold",
+        "font-style": "normal"
+      },
+      "h3": {
+        "font-family": "Arial,helvetica,sans-serif",
+        "font-size": "20px",
+        "color": "#808080",
+        "line-height": 1,
+        "font-weight": "bold",
+        "font-style": "normal"
+      },
+      "links": {
+        "font-weight": "normal",
+        "color": "#808080",
+        "text-decoration": "none"
+      },
+      "buttons": {
+        "font-family": "Arial,helvetica,sans-serif",
+        "font-size": "16px",
+        "color": "#FFFFFF",
+        "background-color": "#5D5D5D",
+        "border-radius": "3px",
+        "padding": "10px",
+        "border-color": "#5D5D5D",
+        "border-width": "1px",
+        "border-style": "solid"
+      },
+      "mobile": {
+        "body": {
+          "padding": "0px",
+          "font-size": "16px",
+          "line-height": 1.5
+        },
+        "h1": {
+          "font-size": "22px",
+          "line-height": 1
+        },
+        "h2": {
+          "font-size": "20px",
+          "line-height": 1
+        },
+        "h3": {
+          "font-size": "18px",
+          "line-height": 1
+        },
+        "buttons": {
+          "font-family": "Arial,helvetica,sans-serif",
+          "font-size": "16px",
+          "color": "#FFFFFF",
+          "padding": "10px"
+        }
+      }
+    }
+  },
+  "views": {
+    "subjectline": {
+      "contentType": "application/vnd.etmc.email.View; kind=subjectline",
+      "content": "Problemas no pagamento, verifique!",
+      "meta": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "preheader": {
+      "contentType": "application/vnd.etmc.email.View; kind=preheader",
+      "content": "Tentamos realizar o pagamento, mas não foi possível",
+      "meta": {},
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "text": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": "html"
+          }
+        }
+      },
+      "generateFrom": "html",
+      "modelVersion": 2
+    },
+    "viewAsAWebPage": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "subscriptioncenter": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardHTML": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "forwardText": {
+      "availableViews": [],
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    },
+    "html": {
+      "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<html>\n  <head>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0\" />\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n    <style type=\"text/css\">\n      ReadMsgBody{ width: 100%;}\n      .ExternalClass {width: 100%;}\n      .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}\n      body {-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;margin:0 !important;}\n      p { margin: 1em 0;}\n      table td { border-collapse: collapse;}\n      img {outline:0;}\n      a img {border:none;}\n      @-ms-viewport{ width: device-width;}\n    </style>\n    <style type=\"text/css\">\n      @media only screen and (max-width: 480px) {\n        .container {width: 100% !important;}\n        .footer { width:auto !important; margin-left:0; }\n        .mobile-hidden { display:none !important; }\n        .logo { display:block !important; padding:0 !important; }\n        img { max-width:100% !important; height:auto !important; max-height:auto !important;}\n        .header img{max-width:100% !important;height:auto !important; max-height:auto !important;}\n        .photo img { width:100% !important; max-width:100% !important; height:auto !important;}\n        .drop { display:block !important; width: 100% !important; float:left; clear:both;}\n        .footerlogo { display:block !important; width: 100% !important; padding-top:15px; float:left; clear:both;}\n        .nav4, .nav5, .nav6 { display: none !important; }\n        .tableBlock {width:100% !important;}\n        .responsive-td {width:100% !important; display:block !important; padding:0 !important; }\n        .fluid, .fluid-centered {\n          width: 100% !important;\n          max-width: 100% !important;\n          height: auto !important;\n          margin-left: auto !important;\n          margin-right: auto !important;\n        }\n        .fluid-centered {\n          margin-left: auto !important;\n          margin-right: auto !important;\n        }\n        /* MOBILE GLOBAL STYLES - DO NOT CHANGE */\n        body { padding: 0px !important; font-size: 16px !important; line-height: 150% !important;}\n        h1 { font-size: 22px !important; line-height: normal !important;}\n        h2 { font-size: 20px !important; line-height: normal !important;}\n        h3 { font-size: 18px !important; line-height: normal !important;}\n        .buttonstyles {\n          font-family:arial,helvetica,sans-serif !important;\n          font-size: 16px !important;\n          color: #FFFFFF !important;\n          padding: 10px !important;\n        }\n        /* END OF MOBILE GLOBAL STYLES - DO NOT CHANGE */\n      }\n      @media only screen and (max-width: 640px) {\n        .container { width:100% !important; }\n        .mobile-hidden { display:none !important; }\n        .logo { display:block !important; padding:0 !important; }\n        .photo img { width:100% !important; height:auto !important;}\n        .nav5, .nav6 { display: none !important;}\n        .fluid, .fluid-centered {\n          width: 100% !important;\n          max-width: 100% !important;\n          height: auto !important;\n          margin-left: auto !important;\n          margin-right: auto !important;\n        }\n        .fluid-centered {\n          margin-left: auto !important;\n          margin-right: auto !important;\n        }\n      }\n    </style>\n    <!--[if mso]>\n      <style type=\"text/css\">\n          /* Begin Outlook Font Fix */\n          body, table, td {\n              font-family: Arial, Helvetica, sans-serif ;\n              font-size:16px;\n              color:#000000;\n              line-height:1;\n          }\n          /* End Outlook Font Fix */\n      </style>\n    <![endif]-->\n  </head>\n  <body bgcolor=\"#ffffff\" text=\"#000000\" style=\"background-color: #ffffff; color: #000000; padding: 0px; -webkit-text-size-adjust:none; font-size: 16px; font-family:arial,helvetica,sans-serif;\">\n    <div style=\"font-size:0; line-height:0;\"><custom name=\"opencounter\" type=\"tracking\"><custom name=\"usermatch\" type=\"tracking\" /></div>\n    <table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" align=\"center\">\n      <tr>\n        <td align=\"center\" valign=\"top\">\n          <custom type=\"header\"/>\n        </td>\n      </tr>\n      <tr>\n        <td align=\"center\">\n          <table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"600\" class=\"container\" align=\"center\">\n            <tr>\n              <td>\n                <table class=\"tb_properties border_style\" style=\"background-color:#FFFFFF;\" cellspacing=\"0\" cellpadding=\"0\" bgcolor=\"#ffffff\" width=\"100%\">\n                  <tr>\n                    <td align=\"center\" valign=\"top\">\n                      <table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n                        <tr>\n                          <!-- added padding here -->\n                          <td class=\"content_padding\" style=\"\">\n                            <!-- end of comment -->\n                            <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n                              <tr> <!-- top slot -->\n                                <td align=\"center\" class=\"header\" valign=\"top\">\n                                  <table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n                                    <tbody>\n                                        <tr>\n                                          <td align=\"left\" valign=\"top\">\n                                            <table cellspacing=\"0\" cellpadding=\"0\" style=\"width:100%\">\n                                              <tbody>\n                                              <tr>\n                                                <td class=\"responsive-td\" valign=\"top\" style=\"width: 100%;\">\n                                                  <div data-type=\"slot\" data-key=\"banner\">\n\t\t\t\t\t\t\t\t\t\t\t\t  </div>\n                                                </td>\n                                              </tr>\n                                              </tbody>\n                                            </table>\n                                          </td>\n                                        </tr>\n                                    </tbody>\n                                  </table>\n                                </td>\n                              </tr>\n                            </table>\n                          </td>\n                        </tr>\n                      </table>\n                    </td>\n                  </tr>\n                </table>\n              </td>\n            </tr>\n          </table>\n        </td>\n      </tr>\n      <tr>\n        <td valign=\"top\">\n          <custom type=\"footer\" />\n        </td>\n      </tr>\n    </table>\n  </body>\n</html>\n",
+      "availableViews": [],
+      "slots": {
+        "banner": {
+          "content": "<div data-type=\"block\" data-key=\"ee0rpwgzp5l\"></div>",
+          "design": "<p style=\"font-family:Arial;color:#ccc;font-size:12px;text-align:center;vertical-align:middle;font-weight:bold;height:150px;display:flex;flex-direction:column;justify-content:center;padding:10px;margin:0;border: #cccccc dashed 1px;\">Solte os blocos ou o conteúdo aqui</p>",
+          "availableViews": [],
+          "blocks": {
+            "ee0rpwgzp5l": {
+              "assetType": {
+                "id": 199,
+                "name": "imageblock"
+              },
+              "content": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\"><table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" role=\"presentation\"><tr><td align=\"center\"><img data-assetid=\"38769\" src=\"https://image.s11.sfmc-content.com/lib/fe3511717164047f701372/m/1/d739b948-be68-4272-9ac5-617607d3fb69.jpg\" alt=\"\" width=\"690\" style=\"display: block; padding: 0px; text-align: center; height: auto; width: 100%; border: 0px;\"></td></tr></table></td></tr></table>",
+              "design": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\"><div class=\"default-design\"><div style=\"width:100%;height:150px;background: url(data:image/png;base64,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) repeat-x 0 0\"></div></div></td></tr></table>",
+              "meta": {
+                "wrapperStyles": {
+                  "mobile": {
+                    "visible": true
+                  },
+                  "styling": {}
+                }
+              },
+              "availableViews": [],
+              "data": {
+                "email": {
+                  "options": {
+                    "generateFrom": ""
+                  }
+                }
+              },
+              "modelVersion": 2
+            }
+          },
+          "slots": {},
+          "data": {
+            "email": {
+              "options": {
+                "generateFrom": ""
+              }
+            }
+          },
+          "modelVersion": 2
+        }
+      },
+      "template": {
+        "id": 0,
+        "assetType": {
+          "id": 214,
+          "name": "defaulttemplate"
+        },
+        "name": "CONTENTTEMPLATES_BLANK_PAGE",
+        "content": "",
+        "meta": {
+          "contentHash": -765177524
+        },
+        "availableViews": [],
+        "slots": {
+          "banner": {
+            "locked": false,
+            "availableViews": [],
+            "data": {
+              "email": {
+                "options": {
+                  "generateFrom": ""
+                }
+              }
+            },
+            "modelVersion": 2
+          }
+        },
+        "data": {
+          "email": {
+            "options": {
+              "generateFrom": ""
+            }
+          }
+        },
+        "modelVersion": 2
+      },
+      "data": {
+        "email": {
+          "options": {
+            "generateFrom": ""
+          }
+        }
+      },
+      "modelVersion": 2
+    }
+  },
+  "availableViews": [
+    "subjectline",
+    "preheader",
+    "text",
+    "viewAsAWebPage",
+    "subscriptioncenter",
+    "forwardHTML",
+    "forwardText",
+    "html"
+  ],
+  "data": {
+    "email": {
+      "options": {
+        "characterEncoding": "utf-8"
+      },
+      "legacy": {
+        "legacyId": 14262,
+        "legacyKey": "896d0344-311f-4778-aba3-7e837b2dc3a9",
+        "legacyType": "email",
+        "legacyCategoryId": 1944
+      }
+    }
+  },
+  "legacyData": {
+    "legacyId": 14262,
+    "legacyKey": "896d0344-311f-4778-aba3-7e837b2dc3a9",
+    "legacyType": "email",
+    "legacyCategoryId": 1944
+  },
+  "modelVersion": 2
+}

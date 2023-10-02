@@ -1,0 +1,6 @@
+SELECT
+  *
+FROM
+  Tb_Base_Ex_Cliente_ComOTC_Filtrada_TMKT_Jorge
+/*WHERE
+  CPF_CNPJ NOT IN ('00016021000103', '33557859000155')*/

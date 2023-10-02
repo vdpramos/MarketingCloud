@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "02c0a5df-060c-4da3-b257-ae8062fbdeeb",
+  "name": "Qr02_Extracao_Base_Ex-Client_Offline_DadosBancarios_ComOTC_TMKT",
+  "key": "e0a50d4f-2406-4a9f-81a6-72aa2bd5796f",
+  "description": "",
+  "queryText": "/* tmp */\nSELECT DISTINCT\n  HC_Id_Parceiro_Cap__c AS COD_PARCEIRO,\n  A.CPF,\n  '' AS CNPJ,\n  CASE \n    WHEN D.HC_Conta_Principal__c = 'CONTA 1' THEN HC_Banco_1__c \n    WHEN D.HC_Conta_Principal__c = 'CONTA 2' THEN HC_Banco_2__c \n  END AS BANCO,\n  CASE \n    WHEN D.HC_Conta_Principal__c = 'CONTA 1' THEN HC_Agencia_1__c \n    WHEN D.HC_Conta_Principal__c = 'CONTA 2' THEN HC_Agencia_2__c \n  END AS AGENCIA,\n  /*CASE \n    WHEN D.HC_Conta_Principal__c = 'CONTA 1' THEN HC_Digito_da_Agencia_1__c\n    WHEN D.HC_Conta_Principal__c = 'CONTA 2' THEN HC_Digito_da_Agencia_2__c \n  END AS Digito_Verificador_Agencia,*/\n  CASE \n    WHEN D.HC_Conta_Principal__c = 'CONTA 1' THEN HC_Numero_da_Conta_1__c\n    WHEN D.HC_Conta_Principal__c = 'CONTA 2' THEN HC_Numero_da_Conta_2__c \n  END AS CONTA_CORRENTE,\n  /*CASE \n    WHEN D.HC_Conta_Principal__c = 'CONTA 1' THEN HC_Digito_da_Conta_1__c\n    WHEN D.HC_Conta_Principal__c = 'CONTA 2' THEN HC_Digito_da_Conta_2__c \n  END AS Digito_Verificador_Conta,\n  CASE \n    WHEN D.HC_Conta_Principal__c = 'CONTA 1' THEN HC_Terceiro_Digito_Conta_Corrente_1__c\n    WHEN D.HC_Conta_Principal__c = 'CONTA 2' THEN HC_Terceiro_Digito_Conta_Corrente_2__c \n  END AS Agencia_Conta_Digito_Verificador,*/\n  'CC' AS Tipo_Conta\nFROM\n  Tb_Base_Ex_Cliente_OTC291_Filtrada_TMKT A \nINNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce D\n  ON A.ID_CLIENTE_PARCEIRO = D.ID",
+  "targetName": "Tb_Base_Ex_Clientes_Offline_DadosBancarios_ComOTC_TMKT",
+  "targetKey": "4A74373D-3629-4A82-8890-B5C6E38D1F7D",
+  "targetId": "d9f17316-47db-eb11-a304-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-07-02T09:24:21.17",
+  "modifiedDate": "2022-05-31T02:01:51",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 33122,
+  "isFrozen": false
+}

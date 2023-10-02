@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "3D71EF20-6A7D-43EA-8CC2-3C47E41E6FC7"
+  ],
+  "Name": [
+    "ClienteUnicoSemDataNascimento"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "edf84b55-15f2-4cc5-afa5-ade6780ce1ad",
+  "name": "Qr07.1_Base_Revenda_Ourocap_ComOTC_Filtrada_OTC291_TMKT",
+  "key": "EDF84B55-15F2-4CC5-AFA5-ADE6780CE1AD",
+  "description": "",
+  "queryText": "SELECT\n  A.*\nFROM Tb_Base_Revenda_Ourocap_OTC291_Tratada_TMKT A\n  /* CHECAGEM SE TOODS OS CONTATOS TIVERAM O OTC TRATADO */\nLEFT OUTER JOIN ( \n  SELECT\n    COUNT(1) as CPFS_FALTANDO_NO_OTC\n  FROM \tTb_Base_Revenda_Ourocap_Filtrada_TMTK ENV\n  LEFT JOIN Tb_Base_Revenda_Ourocap_OTC291_Tratada_TMKT RET ON ENV.CPF_CNPJ = RET.CPF_CNPJ\n  WHERE RET.CPF_CNPJ IS NULL\n) B ON 1 = 1\nWHERE A.CODIGO_RNA = '000'\n  AND A.ALTA_RENDA = 0",
+  "targetName": "Tb_Base_Revenda_Ourocap_OTC291_Filtrada_TMKT",
+  "targetKey": "1650A319-C9DD-4673-905B-38182B0F5DB9",
+  "targetId": "c9cfaadc-7126-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-07-19T14:30:36.8",
+  "modifiedDate": "2023-07-26T14:12:47.097",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 66285,
+  "isFrozen": false
+}

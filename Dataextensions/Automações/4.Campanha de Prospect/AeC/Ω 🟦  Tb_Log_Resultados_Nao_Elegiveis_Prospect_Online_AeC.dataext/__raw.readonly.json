@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "2CEE3C61-BFFC-4DE9-8267-A127DFA9612E"
+  ],
+  "Name": [
+    "Tb_Log_Resultados_Nao_Elegiveis_Prospect_Online_AeC"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "016bb486-cc8f-40d0-8dde-cd869f30bf39",
+  "name": "Prospect_Teo_Upsert_Account",
+  "key": "0e38f243-634d-4472-83e7-3e2b587cdb16",
+  "description": "Faz o upsert da Account com os dados da DE OTC291 Filtrado",
+  "script": "<script runat=\"server\">\nPlatform(\"Core\", \"2.0\");\nvar api = new Script.Util.WSProxy();\nvar urlToUpsert = 'https://brasilcap.my.salesforce.com/services/data/v52.0/composite/sobjects/Account/HC_CPF_CNPJ_Cliente__c';\nvar nameDE = 'Tb_Base_Prospect_OTC291_Filtrada_Teo';\nvar idCampanha = '7016g000002O0CIAA0';\nvar attributeType = 'Account'; // Objeto para inserir\nvar BATCH_SIZE = 200; // 1 a 2500\n// Colocar como está o nome do campo no Data Extension (de) como atributo (esquerdo) e com qual nome deve ser enviado para o Service (para)\n// no lado direito como valor\nvar deparaCampos = {\n  \"CPF\": \"HC_CPF_CNPJ_Cliente__c\",\n  \"Nome\": \"Name\",\n  \"Dt_Nascimento_SF\": \"HC_Data_Nascimento__c\"\n}\n\n// DE OTC291 filtrado\nvar campoIdNoDEParaAtualizar = 'Id_Conta';\nvar campoPKNoDEParaAtualizar = 'CPF';\n\n// Formatar campos de data para formato YYYY-MM-DD\n// Usar lado direito no caso do objeto deparaCampos\nvar dateFieldsToFormat = [\n  'HC_Data_Nascimento__c'\n];\n\n// Aplicar um filtro para trazer do DE apenas linhas desejadas\nvar applyFilterRetrieve = true; // flag para usar o filtro \"filterRetrieveRows\"\n// Campo para atualizar o DE informando que um contato já teve a tentativa de disparo\n// Para caso o Script precise ser executado novamente\nvar flagEnvioParaService = 'Envio_Service_Account';\nvar filterRetrieveRows = {\n  LeftOperand:{\n    Property: flagEnvioParaService,\n    SimpleOperator: 'equals',\n    Value: false\n  },\n  LogicalOperator:\"AND\",\n  RightOperand:{\n    Property: 'Row',\n    SimpleOperator: 'lessThan',\n    Value: 75000\n  }\n}\n\neval(Platform.Function.TreatAsContent( Platform.Function.ContentBlockByID('56360') ));\n</script>",
+  "categoryId": 38499,
+  "createdDate": "2022-03-24T15:16:46.413",
+  "modifiedDate": "2022-04-16T12:47:58.423"
+}

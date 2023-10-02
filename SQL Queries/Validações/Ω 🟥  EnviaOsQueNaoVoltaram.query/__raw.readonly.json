@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "58450c22-15d1-441f-ac8b-18c42d76b47c",
+  "name": "EnviaOsQueNaoVoltaram",
+  "key": "58450C22-15D1-441F-AC8B-18C42D76B47C",
+  "description": "",
+  "queryText": "select top 20000 a.base from PublicoEnvioOTC290CampBaixaRenda_1 a\nwhere not exists(select 1 \n                    from PublicoEnvioOTC290CampBaixaRenda b \n                    where substring(a.base,27,11) = substring(b.base,27,11))",
+  "targetName": "PublicoEnvioOTC290CampBaixaRenda_2",
+  "targetKey": "C9A950EC-C037-403E-B0C1-B3F9979CB257",
+  "targetId": "a43a9751-09fc-ed11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-05-26T15:07:54.903",
+  "modifiedDate": "2023-05-26T15:53:02.18",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

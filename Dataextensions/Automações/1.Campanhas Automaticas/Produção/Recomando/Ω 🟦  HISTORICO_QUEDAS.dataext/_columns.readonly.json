@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "ID_PAGAMENTO",
+    "FieldType": "Text",
+    "ObjectID": "567ae7cd-9c19-441a-b90c-36ddf7450764",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

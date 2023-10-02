@@ -1,0 +1,10 @@
+{
+  "ssjsActivityId": "32ef3892-b377-44fd-a2ab-8a5cb80a79db",
+  "name": "TMP_MARCAR_TEMPO_CRIACAO_SERVICE",
+  "key": "5f7d6f6d-5d29-4500-956b-e2626b280116",
+  "description": "",
+  "script": "<script runat=\"server\">\r\nPlatform(\"Core\", \"2.0\");\r\nvar api = new Script.Util.WSProxy();\r\n\r\nvar nameDE = 'TEST INSERT SERVICE TIME';\r\n\r\nvar result = insertRecordInDE(api, {ACTION: 'STEP'}, retrieveDECustomerKeyFromName(api, nameDE));\r\n\r\nfunction insertRecordInDE(api, record, customerKey){\r\n  if(!api) Platform.Function.RaiseError('Api param is required');\r\n  var props = [];\r\n  for(prop in record){\r\n    props.push( {Name: prop, Value: record[prop] } );\r\n  }\r\n  var data = {\r\n    CustomerKey: customerKey,\r\n    Properties: props\r\n  }\r\n  return api.createItem('DataExtensionObject', data);\r\n}\r\n\r\nfunction retrieveDECustomerKeyFromName(api, dataExtensionName){\r\n  var simpleFilter = {\r\n    Property: 'Name',\r\n    SimpleOperator: 'equals',\r\n    Value: dataExtensionName\r\n  }\r\n  var result = api.retrieve('DataExtension', ['CustomerKey'], simpleFilter);\r\n  if(result.Status != 'OK' || result.Results.length < 1){\r\n    return null\r\n  }else{\r\n    return result.Results[0].CustomerKey;\r\n  }\r\n}\r\n</script>",
+  "categoryId": 1937,
+  "createdDate": "2022-03-16T13:09:43.307",
+  "modifiedDate": "2022-03-16T13:09:43.307"
+}

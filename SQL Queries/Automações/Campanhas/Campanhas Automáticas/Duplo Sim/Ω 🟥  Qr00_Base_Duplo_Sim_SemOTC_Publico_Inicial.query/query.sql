@@ -1,0 +1,54 @@
+SELECT
+    distinct B.HC_CPF_CNPJ__C AS CPF_CNPJ,
+	C.NAME AS NOME,
+	HC_IDADE__C AS IDADE,
+	HC_DATA_DE_NASCIMENTO__C AS DT_NASCIMENTO,
+	HC_GENERO_DO_CLIENTE__C AS SEXO,
+	B.HC_PARCEIRO__C AS PARCEIRO,
+	HC_TIPO_DE_PESSOA__C AS TIPO_PESSOA,
+	LEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_1__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_04,
+	SUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_1__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_04,
+	'MÓVEL' AS TIPO_TEL_04,
+	LEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_2__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_05,
+	SUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_2__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_05,
+	'MÓVEL' AS TIPO_TEL_05,
+	LEFT(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_3__C, '(', ''), ')', ''), ' ', ''), '-', ''), 2) AS DDD_TEL_06,
+	SUBSTRING(REPLACE(REPLACE(REPLACE(REPLACE(HC_CELULAR_3__C, '(', ''), ')', ''), ' ', ''), '-', ''), 3, 9) AS TEL_06,
+	'MÓVEL' AS TIPO_TEL_06,
+	HC_CLASSIFICACAO__C AS PUBLICO_ALVO,
+	B.HC_CPF_CNPJ__C AS ID,
+	B.ID AS ID_CLIENTE_PARCEIRO,
+	C.ID AS ID_CONTATO,
+	B.HC_Cliente__c AS ID_CLIENTE,
+	B.HC_CPF_CNPJ_CODIGO_DO_PARCEIRO__C AS CPF_CNPJ_CODIGO_DO_PARCEIRO,
+	P.HC_Agendamento__c as Dt_Limite,
+	UPPER(P.HC_Origem_da_Venda__c) as Origem_Venda,
+	B.HC_Telefone_Principal__c as Tel_Principal,
+	A.STARTDATE AS DT_INICIO_MAILING,
+	A.ENDDATE AS DT_FIM_MAILING,
+	A.HC_PRODUTO__C AS ID_PRODUTO,
+	A.HC_PRECO_DO_PRODUTO__C AS ID_PRODUTO_VALOR,
+	A.ID AS ID_CAMPANHA,
+	A.HC_Data_de_Confirmacao_da_Compra__C AS DIAS_ANTECEDENCIA,
+	getdate() AS Dt_Ult_Execucao,
+	A.HC_FORMATO__C AS HC_FORMATO__C,
+	A.HC_FORNECEDOR__C AS HC_FORNECEDOR__C,
+	P.ID AS ID_PROPOSTA,
+	p.HC_Data_da_Venda__c as Data_da_Venda,
+	P.HC_Agendamento__c AS Agendamento,
+	getdate()+1 AS DATA_PROXIMA_EXECUCAO
+FROM HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE B
+INNER JOIN CONTACT_SALESFORCE C ON C.HC_CPF_CNPJ__C = B.HC_CPF_CNPJ__C
+INNER JOIN HC_Proposta__c_Salesforce P ON P.HC_CPF_CNPJ_Titular__c = B.HC_CPF_CNPJ__c
+INNER JOIN CAMPAIGN_SALESFORCE A ON 1 = 1
+WHERE
+	A.ID = '7016g000002O07HAAS'
+	AND A.ISACTIVE = 1
+	AND B.HC_Classificacao__c != 'Falecido'
+	AND B.HC_Idade__c BETWEEN 18 AND 70
+	AND P.HC_Origem_da_Venda__c like '%PROMOTIVA%'
+	AND P.HC_Situacao__c NOT IN ('Cancelada', 'Cancelada pelo OTC', 'Estornada')
+	AND B.HC_Nao_deseja_receber_Todos_Meios__c = 0
+	AND B.HC_Nao_deseja_receber_SMS__c = 0
+	AND P.HC_Data_da_Venda__c BETWEEN	DATEADD(DD, -CONVERT(INT, A.HC_Data_de_Confirmacao_da_Compra__C), getdate())
+		AND getdate()

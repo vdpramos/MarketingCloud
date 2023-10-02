@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "30452459-5369-4433-a2b3-062cb4b22c67",
+  "name": "Atualiza_FuncionariosObitados_backup",
+  "key": "409cb609-b711-4516-8c74-bc2265861844",
+  "description": "",
+  "queryText": "select bkp.id, CLASSIFICACAO as HC_Classificacao__c \nfrom ProspectsClassificadosIncorretamente_BackupInicial bkp\ninner join hc_relacao_cliente_parceiro__c_salesforce cp\n    on bkp.id = cp.id\nwhere bkp.classificacao in ('Falecido', 'Funcionário')\n      and bkp.classificacao <> cp.hc_classificacao__c\n\nunion all\n\nselect bkp.id, CLASSIFICACAO as HC_Classificacao__c \nfrom ClienteClassificadoIncorretamente_BackupInicial bkp\ninner join hc_relacao_cliente_parceiro__c_salesforce cp\n    on bkp.id = cp.id\nwhere bkp.classificacao in ('Falecido', 'Funcionário')\n      and bkp.classificacao <> cp.hc_classificacao__c\n",
+  "targetName": "ObitadosFuncionarios_CorrecaoBackup",
+  "targetKey": "E61AE6A8-DA8E-4A33-9084-E36B0EAF892C",
+  "targetId": "bab12a4b-00a7-ed11-a5c0-d4f5ef66aed7",
+  "targetDescription": "",
+  "createdDate": "2023-02-07T09:59:11.547",
+  "modifiedDate": "2023-02-07T11:28:54.397",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

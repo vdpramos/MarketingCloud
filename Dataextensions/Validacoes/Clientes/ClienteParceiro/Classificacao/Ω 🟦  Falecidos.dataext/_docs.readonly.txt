@@ -1,0 +1,6 @@
+Dataextension name: Falecidos
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| ID                   | Text(50)        | true     | false    |                 |
+| HC_Classificacao__c  | Text(255)       | true     | false    |                 |

@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "id_proposta",
+    "FieldType": "Text",
+    "ObjectID": "075e0960-2b24-40f1-9921-e11531623f63",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "id_plano",
+    "FieldType": "Text",
+    "ObjectID": "3ddb3a1d-9049-431b-87b4-abfb8def4903",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "id_oportunidade",
+    "FieldType": "Text",
+    "ObjectID": "a31c6366-5de7-4227-9677-e137bf24d598",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

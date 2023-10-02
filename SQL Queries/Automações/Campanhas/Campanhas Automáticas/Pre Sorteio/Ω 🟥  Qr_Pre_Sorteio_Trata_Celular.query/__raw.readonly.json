@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a87c4f05-f807-47e1-9484-5c3fcd87c2ba",
+  "name": "Qr_Pre_Sorteio_Trata_Celular",
+  "key": "e2f86f59-384a-425e-bf1a-177cd942ed52",
+  "description": "Deixa apenas numeros e coloca 55 na frente",
+  "queryText": "SELECT\n  A.CPF,\n  A.ID_TITULO,\n  '55' + REPLACE(REPLACE(REPLACE(REPLACE(A.CELULAR, '(', ''), ')', ''), ' ', ''), '-', '') AS CELULAR\nFROM TB_PRE_SORTEIO A\nWHERE CELULAR != NULL",
+  "targetName": "Tb_Pre_Sorteio",
+  "targetKey": "5751CC41-869F-41A8-A667-BF308E367F43",
+  "targetId": "c1dac7de-8bf6-ec11-a5b6-d4f5ef66aed7",
+  "targetDescription": "Publico Inicial",
+  "createdDate": "2022-06-08T15:57:38.81",
+  "modifiedDate": "2022-06-27T20:47:26.263",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 49965,
+  "isFrozen": false
+}

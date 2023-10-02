@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a8f70a10-caff-4c99-88b0-0afadb38e8b7",
+  "name": "SelecionaClientesCAPdoService",
+  "key": "8dee2fe6-c9c1-403f-a679-3c1403c118f6",
+  "description": "Seleciona todos os clientes com classificação diferente de Cliente Potencial e que sejam de origem CAP",
+  "queryText": "SELECT distinct c.ID, CONCAT(c.HC_CPF_CNPJ__c, c.HC_Id_Parceiro_Cap__c) AS CPF_CNPJ_PARCEIRO , c.HC_Id_Parceiro_Cap__c AS PARCEIRO, c.HC_CPF_CNPJ__c AS CPF_CNPJ\nFROM HC_Relacao_Cliente_Parceiro__c_salesforce c\nleft join hc_titulo__c_SALESFORCE t\n    on t.HC_Cliente_x_Parceiro__c = c.id\nWHERE c.HC_Classificacao__c <> 'Cliente Potencial' \n      AND c.HC_Origem__c = 'CAP' \n      and (t.HC_Origem__c = 'CAP' or t.HC_Origem__c is null) ",
+  "targetName": "ClientesServiceCAP",
+  "targetKey": "C07E3BA0-049C-48C2-A86F-4DCE18202B54",
+  "targetId": "7191db69-6e95-ec11-a313-48df370ed7f5",
+  "targetDescription": "Inclui as informações dos clientes CAP que estão na nuvem do service cloud pois fazendo a query diretamente está dando timeout",
+  "createdDate": "2022-02-24T06:46:28.287",
+  "modifiedDate": "2022-07-11T09:19:46.543",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 46010,
+  "isFrozen": false
+}

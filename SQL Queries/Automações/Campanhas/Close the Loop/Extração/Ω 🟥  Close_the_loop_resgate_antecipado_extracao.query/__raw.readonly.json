@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "7d517c12-1bb5-44ba-8044-63206722ed10",
+  "name": "Close_the_loop_resgate_antecipado_extracao",
+  "key": "1bf49a01-8bb5-4770-89a2-4cfb5529683a",
+  "description": "",
+  "queryText": "SELECT *,\n    (SELECT MAX(Onda) FROM Close_the_loop_controle_ondas) AS Onda\nFROM Close_the_loop_OTC291_filtrada\nWHERE\n    Interacao = 'Resgate Antecipado'",
+  "targetName": "Close_the_loop_resgate_antecipado_extracao",
+  "targetKey": "C9213EA9-9988-497D-B064-47A73466D401",
+  "targetId": "fcbb1237-e370-ed11-a5b9-d4f5ef66af82",
+  "targetDescription": "",
+  "createdDate": "2022-11-29T17:05:39.387",
+  "modifiedDate": "2023-04-26T10:38:38.14",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 56143,
+  "isFrozen": false
+}

@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "f022f320-9682-4803-b12f-302eee2ae7f6",
+  "name": "Qr00_Base_Prospect_N_importune_Online_NeoBpo",
+  "key": "e8fb7e29-749d-43f5-b080-623e56536acb",
+  "description": "",
+  "queryText": "SELECT B.CPF,\n      CASE WHEN B.VALIDA_NAO_IMPORTUNE = 1 AND (N1.TELEFONE IS NOT NULL) THEN 1 ELSE 0 END AS Nao_Importune\nFROM TB_BASE_PROSPECT_COMOTC_ONLINE_TRATADA_NEOBPO B \nINNER JOIN TB_BASE_NAO_IMPORTUNE N1 ON ISNULL(CONCAT(DDD_01, TEL_01), '00000000000') = LTRIM(RTRIM(N1.TELEFONE))\n",
+  "targetName": "Tb_Base_Prospect_ComOTC_Online_Tratada_NeoBpo",
+  "targetKey": "4C6B92F3-5838-4AE1-BDF9-9866FF8D8D8A",
+  "targetId": "b3a21a6c-2931-ec11-a30b-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-10-19T16:44:51.75",
+  "modifiedDate": "2021-10-19T16:44:51.75",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 29369,
+  "isFrozen": false
+}

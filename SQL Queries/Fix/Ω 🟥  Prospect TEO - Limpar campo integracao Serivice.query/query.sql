@@ -1,0 +1,4 @@
+select
+cpf,
+0 as Envio_Service_MembroCampanha 
+from Tb_Base_Prospect_OTC291_Filtrada_Teo

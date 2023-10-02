@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ad634a17-f7a2-4d84-87db-9f1119001aa4",
+  "name": "Qr07_Boas_Vindas_Caracteristicas_Ourocap_Adicionar_Quarentena",
+  "key": "5768a8e2-ae77-4ed2-aef8-df15de62638f",
+  "description": "Adiciona no historico os cpfs-titulos que ja percorreram a jornada",
+  "queryText": "SELECT \r\n\tCPF_CNPJ,\r\n\tNUMERO_DO_TITULO,\r\n\tSERIE_DO_TITULO,\r\n\tPLANO_DO_TITULO,\r\n\tID_TITULO,\r\n  ID_CONTATO,\r\n  ID_CLIENTE_PARCEIRO,\r\n  CREATEDDATE\r\nFROM TB_BOAS_VINDAS_OUROCAP_CLIENTES_E_TITULOS\r\nWHERE NAO_IMPORTUNE = 0\r\n\tAND (\r\n\t  ( ISNULL(NAO_DESEJA_RECEBER_EMAIL, 0) = 0 AND EMAIL_VALIDO = 1 )\r\n\t  OR ( ISNULL(NAO_DESEJA_RECEBER_SMS, 0) = 0 AND CELULAR_VALIDO = 1 )\r\n\t) AND QUARENTENA = 0",
+  "targetName": "TB_BOAS_VINDAS_OUROCAP_CARACTERISTICAS_QUARENTENA",
+  "targetKey": "0098D918-9E8B-40BE-A541-A1244D445EDA",
+  "targetId": "037787aa-f33f-ec11-a313-48df37342c99",
+  "targetDescription": "Guarda historico de cliente-titulo que ja passou pela jornada",
+  "createdDate": "2021-11-07T12:29:13.183",
+  "modifiedDate": "2022-09-20T13:20:27.99",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 41120,
+  "isFrozen": false
+}

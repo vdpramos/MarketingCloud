@@ -1,0 +1,10 @@
+Dataextension name: Retorno_InfoClienteUnico
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | false    | false    |                 |
+| NOME_COMPLETO        | Text(50)        | false    | false    |                 |
+| TP_CLIENTE           | Text(50)        | false    | false    |                 |
+| SEXO                 | Text(50)        | false    | false    |                 |
+| PPE                  | Boolean         | false    | false    |                 |
+| DATA_NASCIMENTO      | Date            | false    | false    |                 |

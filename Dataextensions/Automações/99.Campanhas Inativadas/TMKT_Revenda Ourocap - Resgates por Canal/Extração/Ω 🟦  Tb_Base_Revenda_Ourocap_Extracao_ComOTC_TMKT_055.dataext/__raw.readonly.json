@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "7B1FD52D-6472-436B-B53A-A4AB2B6D78AD"
+  ],
+  "Name": [
+    "Tb_Base_Revenda_Ourocap_Extracao_ComOTC_TMKT_055"
+  ]
+}

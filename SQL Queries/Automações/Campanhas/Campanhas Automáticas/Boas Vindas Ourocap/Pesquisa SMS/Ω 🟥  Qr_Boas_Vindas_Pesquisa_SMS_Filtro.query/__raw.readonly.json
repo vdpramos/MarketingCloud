@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "a1b7b037-dec9-44f9-b35d-1719706ef7d1",
+  "name": "Qr_Boas_Vindas_Pesquisa_SMS_Filtro",
+  "key": "9e841879-d025-44c6-9a67-446eaaffa887",
+  "description": "",
+  "queryText": "SELECT \n\tId_Contato,\n\tMAX(CPF_CNPJ) AS CPF_CNPJ,\n\tMAX(Nome) AS Nome,\n\tMAX(Id_Campanha) AS Id_Campanha,\n\tMAX(Id_Cliente_Parceiro) AS Id_Cliente_Parceiro,\n\tMAX(CONVERT(INTEGER, NAO_DESEJA_RECEBER_SMS)) AS NAO_DESEJA_RECEBER_SMS,\n\tMAX(CELULAR) AS CELULAR,\n\tMAX(CONVERT(INTEGER, CELULAR_VALIDO)) AS CELULAR_VALIDO,\n\tMAX(TITULOS_ANTERIORES_ATIVOS) AS TITULOS_ANTERIORES_ATIVOS,\n\tMAX(TITULOS_ANTERIORES_INATIVOS) AS TITULOS_ANTERIORES_INATIVOS,\n\tMAX(CREATEDDATE) AS CREATEDDATE\nFROM TB_BOAS_VINDAS_PESQUISA_SMS\nWHERE\nCELULAR IS NOT NULL\nGROUP BY ID_CONTATO",
+  "targetName": "Tb_Boas_Vindas_Pesquisa_SMS_Disparo",
+  "targetKey": "C4C1514D-20E6-4424-AFFB-4FBFEFF84629",
+  "targetId": "d2bb7a64-c239-ed11-a5b6-d4f5ef66b08b",
+  "targetDescription": "DE Usada para disparo",
+  "createdDate": "2022-09-21T11:35:50.793",
+  "modifiedDate": "2022-11-08T12:09:14.71",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 53495,
+  "isFrozen": false
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "Name": "HC_Agendamento__c",
+    "FieldType": "Date",
+    "ObjectID": "fad3630d-6a64-4420-aaa1-614bca079f9d",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "HC_Chave_CxP_Subscritor__c",
+    "FieldType": "Text",
+    "ObjectID": "d6bd9395-5a34-4a78-952e-6ba81b113bcc",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "HC_Chave_parceiro__c",
+    "FieldType": "Text",
+    "ObjectID": "27b0d208-84ea-44c3-9a1d-2d7cc5651199",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "HC_Codigo_do_Parceiro__c",
+    "FieldType": "Text",
+    "ObjectID": "d38d379d-8d27-4daf-a641-60a9e34a88f9",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "HC_Codigo_do_Produto__c",
+    "FieldType": "Text",
+    "ObjectID": "0e1a6faa-d27f-463f-8168-4ed2a4b852ec",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "HC_Data_da_Venda__c",
+    "FieldType": "Date",
+    "ObjectID": "33b504ba-fdeb-4b94-ad37-64cef7730a94",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  },
+  {
+    "Name": "HC_Forma_de_Credito_Formula__c",
+    "FieldType": "Text",
+    "ObjectID": "ac85f261-e4eb-492a-bd27-7a7da709d514",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "Situação",
+    "FieldType": "Text",
+    "ObjectID": "b83df1b4-8ed1-4593-84bd-440e1bde6905",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "Nome da Proposta",
+    "FieldType": "Text",
+    "ObjectID": "c004a77e-17e2-4ea1-a7fb-fc41ea83955d",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "Tipo de Cliente",
+    "FieldType": "Text",
+    "ObjectID": "48a36249-e88a-471b-9873-ffa94bd53bce",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "Tipo de Pessoa",
+    "FieldType": "Text",
+    "ObjectID": "9f81d8d9-87b8-4acd-830c-9ff0ef852d5c",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  },
+  {
+    "Name": "Valor da Parcela",
+    "FieldType": "Text",
+    "ObjectID": "4cec29ac-3f00-4220-a6b5-84f2f521e6c7",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 11
+  },
+  {
+    "Name": "Tipo de Venda",
+    "FieldType": "Text",
+    "ObjectID": "91fa828c-5bc7-437f-9c26-ff88d23d0710",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 12
+  },
+  {
+    "Name": "Produto Relacionamento",
+    "FieldType": "Text",
+    "ObjectID": "6044ed11-859b-4bb0-82ee-7cd53ba1aa87",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 13
+  },
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "286a3d96-50ab-48df-a0ec-7ce783432a38",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 14
+  },
+  {
+    "Name": "HC_Forma_de_Debito_Formula__c",
+    "FieldType": "Text",
+    "ObjectID": "c294082e-6e88-4032-b3ba-d27e7112c0e9",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 15
+  },
+  {
+    "Name": "Id",
+    "FieldType": "Text",
+    "ObjectID": "e19d7a21-b794-4f49-be73-7fe2eedac8ad",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 16
+  },
+  {
+    "Name": "HC_Celular_1__c",
+    "FieldType": "Phone",
+    "ObjectID": "a5cc71dd-01a0-412d-8e84-dba041f6801a",
+    "MaxLength": "50",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 17
+  }
+]

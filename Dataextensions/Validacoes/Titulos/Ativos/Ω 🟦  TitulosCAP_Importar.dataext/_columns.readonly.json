@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "id_titulo",
+    "FieldType": "Text",
+    "ObjectID": "5485f2e5-00b9-4dc1-961a-bba1f2201bc5",
+    "MaxLength": "100",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "id_plano",
+    "FieldType": "Text",
+    "ObjectID": "7258b95d-693f-4c09-8f36-dad393df0e50",
+    "MaxLength": "10",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "id_serie",
+    "FieldType": "Text",
+    "ObjectID": "273887b9-c32c-46c1-8e3d-6d291f978188",
+    "MaxLength": "10",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 2
+  }
+]

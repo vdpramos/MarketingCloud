@@ -1,0 +1,5 @@
+Dataextension name: Tb_Registros_virgens
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(50)        | true     | true     |                 |

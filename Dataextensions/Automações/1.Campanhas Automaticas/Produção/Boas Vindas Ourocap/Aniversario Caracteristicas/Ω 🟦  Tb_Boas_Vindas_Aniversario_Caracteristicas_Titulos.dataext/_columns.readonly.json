@@ -1,0 +1,112 @@
+[
+  {
+    "Name": "CPF_CNPJ",
+    "FieldType": "Text",
+    "ObjectID": "9cb43f55-bd98-43fe-a84a-b10f7406f7a0",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "ID_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "b61f63a7-c44b-4b35-8863-e5d3bf333e29",
+    "MaxLength": "20",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "true",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "SERIE_DO_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "4ad2985a-abbe-4aba-841a-c8d5fff0a0b5",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "PLANO_DO_TITULO",
+    "FieldType": "Text",
+    "ObjectID": "0d89f136-7760-4d57-a4fa-43d5d2b70869",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "VALOR_PARCELA",
+    "FieldType": "Decimal",
+    "ObjectID": "41c1a607-57c5-477c-a52c-0643551816e1",
+    "MaxLength": "20",
+    "Scale": "2",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "NUMERO_DA_SORTE",
+    "FieldType": "Text",
+    "ObjectID": "063e9fdc-e8ac-455a-bc58-0ce8319bfc41",
+    "MaxLength": "3000",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 6
+  },
+  {
+    "Name": "FIM_PREVISTO",
+    "FieldType": "Date",
+    "ObjectID": "99bdd959-40a3-4134-a4cf-6c860e54b6ba",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 7
+  },
+  {
+    "Name": "INICIO",
+    "FieldType": "Date",
+    "ObjectID": "53a1a012-847d-41c4-bc55-05e3f58ef2fb",
+    "MaxLength": "",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 8
+  },
+  {
+    "Name": "Name",
+    "FieldType": "Text",
+    "ObjectID": "21a04514-90ef-42d7-b5f6-79a767f00e8f",
+    "MaxLength": "80",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 9
+  },
+  {
+    "Name": "Nome_Produto",
+    "FieldType": "Text",
+    "ObjectID": "b722f68b-c2d2-471c-83e6-bd167f30109c",
+    "MaxLength": "254",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 10
+  }
+]

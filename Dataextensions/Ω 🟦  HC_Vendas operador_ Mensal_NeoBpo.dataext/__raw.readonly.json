@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "C4B63C75-9210-4176-9744-C9B9CCD770A2"
+  ],
+  "Name": [
+    "HC_Vendas operador_ Mensal_NeoBpo"
+  ]
+}

@@ -1,0 +1,13 @@
+Dataextension name: QueryStudioResults at 2023-09-05T1137330000
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| id                   | Text(255)       | false    | false    |                 |
+| conselheiro          | Text(255)       | false    | false    |                 |
+| cliente_pep          | Text(255)       | false    | false    |                 |
+| deseja_contato_telefonico | Text(255)       | false    | false    |                 |
+| idade_valida         | Text(255)       | false    | false    |                 |
+| nao_deseja_receber_email | Text(255)       | false    | false    |                 |
+| nao_deseja_receber_ligacoes | Text(255)       | false    | false    |                 |
+| nao_deseja_receber_sms | Text(255)       | false    | false    |                 |
+| possui_telefone_ativo | Text(255)       | false    | false    |                 |

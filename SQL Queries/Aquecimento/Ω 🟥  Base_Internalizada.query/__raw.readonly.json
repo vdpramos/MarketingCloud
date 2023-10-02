@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "5ed429fa-abc7-4ef4-83fd-e51a757eaa09",
+  "name": "Base_Internalizada",
+  "key": "5d6c668f-1cdd-4cc8-a85c-67cfaa326629",
+  "description": "",
+  "queryText": "\n\tSELECT DISTINCT\n\t\tCP.HC_CPF_CNPJ__C AS CPF,\n\t\tC.NAME AS NOME,\n\t\tCASE\n\t\t\tWHEN CP.HC_EMAIL_PRINCIPAL__C = 'Brasilcap' THEN HC_EMAIL_BRASILCAP__C\n\t\t\tWHEN CP.HC_EMAIL_PRINCIPAL__C = 'Comercial' THEN HC_EMAIL_COMERCIAL__C\n\t\t\tWHEN CP.HC_EMAIL_PRINCIPAL__C = 'Pessoal' THEN HC_EMAIL_PESSOAL__C\n\t\t\tWHEN CP.HC_EMAIL_BRASILCAP__C IS NOT NULL THEN HC_EMAIL_BRASILCAP__C\n\t\t\tWHEN CP.HC_EMAIL_COMERCIAL__C IS NOT NULL THEN HC_EMAIL_COMERCIAL__C\n\t\t\tWHEN CP.HC_EMAIL_PESSOAL__C IS NOT NULL THEN HC_EMAIL_PESSOAL__C\n\t\t\tELSE NULL\n\t\tEND AS EMAIL,\n\t\tCASE\n\t\t\tWHEN CP.HC_EMAIL_PRINCIPAL__C IN ('Brasilcap', 'Comercial', 'Pessoal') THEN 1\n\t\t\tWHEN CP.HC_EMAIL_BRASILCAP__C IS NOT NULL THEN 1\n\t\t\tWHEN CP.HC_EMAIL_COMERCIAL__C IS NOT NULL THEN 1\n\t\t\tWHEN CP.HC_EMAIL_PESSOAL__C IS NOT NULL THEN 1\n\t\t\tELSE 0\n\t\tEND AS EMAIL_VALIDO\n\t\t\nFROM Base_CSV CSV \n\tINNER JOIN CONTACT_SALESFORCE C ON CSV.CPF = C.HC_CPF_CNPJ__C\n\tINNER JOIN HC_RELACAO_CLIENTE_PARCEIRO__C_SALESFORCE CP  ON C.HC_CPF_CNPJ__C = CP.HC_CPF_CNPJ__C\n\n\t\n",
+  "targetName": "Base_Internalizada",
+  "targetKey": "1409FCCD-D6A3-47FE-A13D-9FFE9FE1CD98",
+  "targetId": "3c076f68-c32f-ec11-a30b-48df37342b90",
+  "targetDescription": "",
+  "createdDate": "2021-10-17T21:37:06.827",
+  "modifiedDate": "2021-10-17T22:21:14.557",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 40397,
+  "isFrozen": false
+}

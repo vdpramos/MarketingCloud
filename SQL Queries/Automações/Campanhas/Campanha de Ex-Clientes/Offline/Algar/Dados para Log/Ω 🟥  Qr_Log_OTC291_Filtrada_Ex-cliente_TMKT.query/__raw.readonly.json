@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "ea8f9b27-5c51-4287-a81d-f388f4739370",
+  "name": "Qr_Log_OTC291_Filtrada_Ex-cliente_TMKT",
+  "key": "dddfe65e-a84c-4c11-94ab-8284f697ece2",
+  "description": "Log de clientes nas filtradas e tratadas antes de apagar",
+  "queryText": "  select\r\nCodigo_Parceiro,\r\n Id_Cliente,\r\n Codigo_MCI,\r\n Tipo_Pessoa,\r\n Codigo_CIC,\r\n Dt_Nascimento,\r\n Nome,\r\n Sexo,\r\n UF_Residencial,\r\n Ddd1,\r\n Telefone1,\r\n Ddd2,\r\n Telefone2,\r\n Ddd3,\r\n Telefone3,\r\n Codigo_Plano,\r\n Origem_Solicitacao,\r\n Filler,\r\n Codigo_RNA,\r\n Valor_Rendimentos,\r\n Tipo_Carteira,\r\n Nivel_Relacionamento,\r\n Data_Informacao,\r\n Filler2,\r\n CPF,\r\n Primeiro_Nome,\r\n Sobrenome,\r\n Dt_Nascimento_SF,\r\n CPF_Tipo_Relacionamento,\r\n CPF_CNPJ_Codigo_do_Parceiro,\r\n Id_Cliente_Parceiro,\r\n Id_Campanha,\r\n Id_Membro_Campanha,\r\n Faixa_Renda_Mensal,\r\n Id_Contado,\r\n 'filtrada' as tipo\r\nfrom Tb_Base_Ex_Cliente_OTC291_Filtrada_TMKT",
+  "targetName": "Tb_Base_Ex_Cliente_OTC291_TMKT_log",
+  "targetKey": "B41A5AFD-F652-4168-BF25-AFF748A1BB42",
+  "targetId": "3f836e60-0d68-ec11-a311-48df370eabe5",
+  "targetDescription": "Mantem historico das ultimas execuções Tb_Base_Ex_Cliente_OTC291_Tratada_TMKT",
+  "createdDate": "2021-12-28T12:51:34.13",
+  "modifiedDate": "2022-02-06T14:05:11.297",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 37069,
+  "isFrozen": false
+}

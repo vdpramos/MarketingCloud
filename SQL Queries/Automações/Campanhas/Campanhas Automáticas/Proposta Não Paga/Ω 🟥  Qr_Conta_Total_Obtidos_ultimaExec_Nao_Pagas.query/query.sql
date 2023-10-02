@@ -1,0 +1,6 @@
+select
+  b.ID_CAMPANHA,
+  count(1) as QUANTIDADE_OBTIDA_ULTIMA_EXEC_OTC290
+from Tb_Base_Prop_Ourocap_N_Pag a
+inner join CONTROLE_AUTOMACOES_CAMPANHAS b on b.ID_CAMPANHA = '7016g000002O08TAAS'
+group by  b.ID_CAMPANHA

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "84490387-C968-4BDA-A4F2-4C685EC20BF5"
+  ],
+  "Name": [
+    "Tb_Base_Duplo_Sim_Nao_Aceitaram"
+  ]
+}

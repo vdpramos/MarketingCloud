@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "3c4b73b8-1155-49c5-9212-e9ed8c3aa215",
+  "name": "Qr06_Extracao_Base_Prospect_Offline_Campanhas_ComOTC_Teo",
+  "key": "5d08b622-ca56-4f1c-87da-70f19ce04810",
+  "description": "",
+  "queryText": "SELECT COD_PARCEIRO,\n    CPF,\n    CNPJ,\n    Id_Campanha,\n    ID,\n    Id_Contato,\n    TEL_01,\n    TEL_02,\n    TEL_03,\n    TEL_04 \nFROM (SELECT DISTINCT\n    'TCBB' AS COD_PARCEIRO,\n    A.CPF,\n    '' AS CNPJ,\n    B.Id_Campanha,\n    E.Id as ID,\n    C.ID as Id_Contato,\n    CASE WHEN B.Celular1 LIKE '%(0)%' THEN '' else B.Celular1 END as TEL_01,\n    CASE WHEN B.Celular2 LIKE '%(0)%' THEN '' else B.Celular2 END as TEL_02,\n    CASE WHEN b.TEL_RESIDENCIAL LIKE '%(0)%' THEN '' else b.TEL_RESIDENCIAL END as TEL_03,\n    CASE WHEN b.TEL_COMERCIAL LIKE '%(0)%' THEN '' else b.TEL_COMERCIAL END as TEL_04,\n    row_number() over (partition by A.CPF order by C.ID desc) AS ROW_ID\n\nFROM\n  Tb_Base_Prospect_OTC291_Filtrada_Teo A \n  INNER JOIN Tb_Base_Prospect_OTC291_Tratada_Teo B ON A.CPF = B.CPF\n  INNER JOIN Contact_Salesforce C on B.CPF = RIGHT(REPLICATE ('0' , 15)+CONVERT(VARCHAR, C.HC_CPF_CNPJ__c), 11)\n  INNER JOIN ACCOUNT_SALESFORCE D on C.AccountId = D.ID\n  INNER JOIN HC_Relacao_Cliente_Parceiro__c_Salesforce E ON A.CPF = E.CPF_CNPJ_Cliente__c) BASE\nWHERE ROW_ID = 1",
+  "targetName": "Tb_Base_Prospect_Offline_Campanhas_ComOTC_Teo",
+  "targetKey": "A153B6CA-7345-4D3C-901D-7586C0210A40",
+  "targetId": "d785fad3-2284-eb11-a2fd-48df370eabe5",
+  "targetDescription": "",
+  "createdDate": "2021-03-13T13:58:56.383",
+  "modifiedDate": "2022-03-25T02:53:48.937",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29379,
+  "isFrozen": false
+}

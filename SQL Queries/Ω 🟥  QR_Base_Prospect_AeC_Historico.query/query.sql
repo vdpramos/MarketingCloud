@@ -1,0 +1,6 @@
+SELECT DISTINCT
+    CPF AS CPF,
+    ID_CAMPANHA,
+    GETDATE() AS DATA_CAMPANHA,
+    'DISCADOR' AS CANAL
+FROM Tb_Base_Prospect_ComOTC_Online_Filtrada_AeC

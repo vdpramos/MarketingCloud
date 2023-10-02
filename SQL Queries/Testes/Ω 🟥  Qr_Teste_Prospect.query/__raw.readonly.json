@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "2b6d88b0-0e67-4aa4-a62e-50407ef2fd30",
+  "name": "Qr_Teste_Prospect",
+  "key": "4d03a912-8fd7-41c9-bf51-f3d9107705e8",
+  "description": "",
+  "queryText": "SELECT DISTINCT\r\n  A.*\r\nFROM\r\n  (\r\n    SELECT\r\n      *,\r\n      ROW_NUMBER() OVER(PARTITION BY CODIGO_CIC ORDER BY GETDATE() DESC) AS ROWNO \r\n    FROM\r\n      TB_BASE_PROSPECT_OTC291_FILTRADA_TEO\r\n  ) A\r\nWHERE\r\n  ROWNO = 1\r\nAND A.Id_Cliente_Parceiro IS NULL",
+  "targetName": "Tb_Teste_Prospect",
+  "targetKey": "B77B58B9-AA2D-4FBF-BCA3-3F2E8358E683",
+  "targetId": "ffec9de6-47d5-eb11-a300-48df370ed7f4",
+  "targetDescription": "",
+  "createdDate": "2021-06-25T15:53:50.52",
+  "modifiedDate": "2021-06-25T15:53:50.52",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 28566,
+  "isFrozen": false
+}

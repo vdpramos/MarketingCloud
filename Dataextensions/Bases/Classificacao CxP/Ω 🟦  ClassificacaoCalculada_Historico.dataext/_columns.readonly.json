@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "ID",
+    "FieldType": "Text",
+    "ObjectID": "595bdeae-293b-4f6f-b437-2814a381cb17",
+    "MaxLength": "18",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "hc_classificacao__c",
+    "FieldType": "Text",
+    "ObjectID": "e79bce16-c4aa-4b0e-beda-860bf20b2cb8",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "hc_classificacao__c_old",
+    "FieldType": "Text",
+    "ObjectID": "7944b137-bfdf-4175-877b-76986d9fe21c",
+    "MaxLength": "255",
+    "Scale": "0",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Data_Inclusao",
+    "FieldType": "Date",
+    "ObjectID": "24cd7029-4de2-462d-86f5-a9e18597f12c",
+    "MaxLength": "",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "GetDate()",
+    "Ordinal": 3
+  }
+]

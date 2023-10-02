@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8385a084-c7c3-4f4a-9951-60762df27687",
+  "name": "Classificacao CxP Atualizar",
+  "key": "8385A084-C7C3-4F4A-9951-60762DF27687",
+  "description": "",
+  "queryText": "select top 1  c.id, 'Cliente' as hc_classificacao__c, c.hc_classificacao__c as hc_classificacao__c_old\nfrom hc_relacao_cliente_parceiro__c_salesforce c\nwhere hc_classificacao__c not in ('Cliente', 'Falecido', 'Funcionário')\nand exists (select 1 from hc_titulo__c_salesforce t \n            where c.id = t.HC_Cliente_x_Parceiro__c\n                and HC_Situacao__c in ('Ativo', 'Em processo de finalização', 'Em processo de Reativação', 'Suspenso'))\n                \nunion \n\nselect top 1 c.id, 'Ex-Cliente' as hc_classificacao__c, hc_classificacao__c as hc_classificacao__c_old\nfrom hc_relacao_cliente_parceiro__c_salesforce c\nwhere hc_classificacao__c not in ('Ex-Cliente', 'Falecido', 'Funcionário')\nand not exists (select 1 from hc_titulo__c_salesforce t \n            where c.id = t.HC_Cliente_x_Parceiro__c\n                and HC_Situacao__c in ('Ativo', 'Em processo de finalização', 'Em processo de Reativação', 'Suspenso'))\nand exists (select 1 from hc_titulo__c_salesforce t \n            where c.id = t.HC_Cliente_x_Parceiro__c\n                and HC_Situacao__c not in ('Ativo', 'Em processo de finalização', 'Em processo de Reativação', 'Suspenso'))\n                \nunion\n\nselect top 1 c.id, 'Cliente Potencial' as hc_classificacao__c, hc_classificacao__c as hc_classificacao__c_old\nfrom hc_relacao_cliente_parceiro__c_salesforce c\nwhere hc_classificacao__c not in ('Prospect', 'Cliente Potencial', 'Falecido', 'Funcionário')\nand not exists (select 1 \n                    from hc_titulo__c_salesforce t \n                    where c.id = t.HC_Cliente_x_Parceiro__c)\n                    \nunion \n    \nselect top 1 id, 'Falecido' as hc_classificacao__c, hc_classificacao__c as hc_classificacao__c_old\nfrom hc_relacao_cliente_parceiro__c_salesforce cxp\nwhere exists (select 1 \n                from hc_titulo__c_salesforce t \n                where cxp.id = t.HC_Cliente_x_Parceiro__c \n                      and t.hc_situacao__c = 'Finalizado - Óbito')\n                      ",
+  "targetName": "ClassificacaoCalculada",
+  "targetKey": "579BC446-512A-4826-B011-F6DE42F575DE",
+  "targetId": "9a2d8094-af3a-ee11-a5ca-d4f5ef66afe1",
+  "targetDescription": "",
+  "createdDate": "2023-08-14T08:51:27.6",
+  "modifiedDate": "2023-08-14T09:13:24.76",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 67505,
+  "isFrozen": false
+}

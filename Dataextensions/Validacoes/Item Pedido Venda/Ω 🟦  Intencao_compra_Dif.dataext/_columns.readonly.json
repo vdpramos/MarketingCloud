@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "ID_INTENCAO",
+    "FieldType": "Text",
+    "ObjectID": "2af493eb-e250-4ad8-bad4-a32e8d320add",
+    "MaxLength": "50",
+    "Scale": "0",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  }
+]

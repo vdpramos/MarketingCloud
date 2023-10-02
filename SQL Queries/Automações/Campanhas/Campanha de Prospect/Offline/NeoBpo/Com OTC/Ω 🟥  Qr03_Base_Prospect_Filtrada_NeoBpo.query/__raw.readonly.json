@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "e1180141-488c-4448-9da2-bdf322ea94a4",
+  "name": "Qr03_Base_Prospect_Filtrada_NeoBpo",
+  "key": "b6c6fe60-b0ad-41b0-b075-773cfb345520",
+  "description": "",
+  "queryText": "SELECT\n  * \nFROM\n  TB_BASE_PROSPECT_OTC291_TRATADA_NEOBPO\n/*WHERE\n  CODIGO_RNA = '000' \n  AND ENCARTEIRAMENTO_VALIDO = 1 \n  AND NAO_IMPORTUNE = 0*/",
+  "targetName": "Tb_Base_Prospect_OTC291_Filtrada_NeoBpo",
+  "targetKey": "70465362-4194-45A9-BD0A-7F991BD8BF29",
+  "targetId": "3535c84f-5870-eb11-a2fc-48df37342c98",
+  "targetDescription": "",
+  "createdDate": "2021-02-16T07:43:51.663",
+  "modifiedDate": "2021-04-21T14:49:33.59",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 29369,
+  "isFrozen": false
+}

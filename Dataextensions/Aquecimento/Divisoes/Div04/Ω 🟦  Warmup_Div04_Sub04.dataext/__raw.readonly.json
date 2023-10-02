@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "EDD6E3CC-656E-4BE2-AAED-89FBB3B86DE6"
+  ],
+  "Name": [
+    "Warmup_Div04_Sub04"
+  ]
+}

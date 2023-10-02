@@ -1,0 +1,9 @@
+Dataextension name: whatsapp_project
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Email                | EmailAddress    | true     | true     |                 |
+| Nome                 | Text(50)        | true     | false    |                 |
+| Telefone             | Text(50)        | true     | false    |                 |
+| Região               | Text(40)        | true     | false    |                 |
+| Idade                | Number          | true     | false    |                 |

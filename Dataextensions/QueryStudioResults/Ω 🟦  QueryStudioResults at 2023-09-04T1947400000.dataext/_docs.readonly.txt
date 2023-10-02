@@ -1,0 +1,12 @@
+Dataextension name: QueryStudioResults at 2023-09-04T1947400000
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| nome_parceiro        | Text(255)       | false    | false    |                 |
+| id_proposta          | Text(255)       | false    | false    |                 |
+| CREATEDDATE          | Text(255)       | false    | false    |                 |
+| DATA_ORIGEM_VENDA_AGENDADA__C | Text(255)       | false    | false    |                 |
+| ORIGEM_VENDA_AGENDADA__C | Text(255)       | false    | false    |                 |
+| QUANTIDADE_VENDA_AGENDADA__C | Text(255)       | false    | false    |                 |
+| NUMERO_VENDA_AGENDADA__C | Text(255)       | false    | false    |                 |
+| ID_VENDA_AGENDADA__C | Text(255)       | false    | false    |                 |

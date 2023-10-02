@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "AeM_teste - 20230822_011014_SimulationSupportDE_2380"
+  ],
+  "Name": [
+    "AeM_teste - 20230822_011014_SimulationSupportDE_2380"
+  ]
+}

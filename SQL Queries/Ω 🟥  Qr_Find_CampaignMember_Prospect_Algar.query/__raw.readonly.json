@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "76c330c7-1e36-4aba-b94c-e1e0f521dfb0",
+  "name": "Qr_Find_CampaignMember_Prospect_Algar",
+  "key": "994f13fc-89b6-44c9-a939-033c5adcc84a",
+  "description": "",
+  "queryText": "SELECT\r\n  CON.CPF,\r\n  CMEM.ID AS ID_MEMBRO_CAMPANHA\r\nFROM [TB_BASE_PROSPECT_OTC291_FILTRADA_ALGAR] CON\r\nLEFT JOIN CAMPAIGNMEMBER_SALESFORCE CMEM ON CMEM.CAMPAIGNID = CON.ID_CAMPANHA \r\n  AND CMEM.CONTACTID = CON.ID_CONTATO\r\nWHERE\r\n  CMEM.ID IS NOT NULL",
+  "targetName": "Tb_Base_Prospect_OTC291_Filtrada_Algar",
+  "targetKey": "0502A300-1DE7-48D0-8B02-4DBABAFEF7A7",
+  "targetId": "2d4dde26-14a5-ec11-a313-48df370ed7f5",
+  "targetDescription": "DE para insercao de contatos no Service e extracao para discador",
+  "createdDate": "2022-04-16T11:11:59.857",
+  "modifiedDate": "2022-04-16T11:11:59.857",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 1930,
+  "isFrozen": false
+}

@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "108C198F-D246-4D14-9B94-AEA4C16B8D90"
+  ],
+  "Name": [
+    "Publico_Inapto_Ex_Clientes_Algar"
+  ]
+}

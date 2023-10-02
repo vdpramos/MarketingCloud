@@ -1,0 +1,21 @@
+Dataextension name: RECOMANDO_BASE_FILTRADA
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| CPF                  | Text(20)        | true     | true     |                 |
+| ID_CAMPANHA          | Text(20)        | true     | true     |                 |
+| ID_CLIENTE_PARCEIRO  | Text(20)        | false    | false    |                 |
+| ID_CONTATO           | Text(20)        | false    | false    |                 |
+| ID_TITULO            | Text(20)        | false    | false    |                 |
+| ID_PAGAMENTO         | Text(20)        | false    | false    |                 |
+| Parceiro             | Text(100)       | false    | false    |                 |
+| TIPO_DE_PESSOA       | Text(10)        | false    | false    |                 |
+| EMAIL                | EmailAddress    | false    | false    |                 |
+| EMAIL_VALIDO         | Boolean         | false    | false    |                 |
+| CELULAR_VALIDO       | Boolean         | false    | false    |                 |
+| Valor_Liquido        | Decimal(18,2)   | false    | false    |                 |
+| CAMPAIGN_GROUP       | Text(50)        | false    | false    |                 |
+| NAO_IMPORTUNE        | Boolean         | false    | false    | False           |
+| LOCALE               | Locale          | false    | false    |                 |
+| CELULAR              | Phone           | false    | false    |                 |
+| DATA_EXECUCAO        | Date            | false    | false    |                 |

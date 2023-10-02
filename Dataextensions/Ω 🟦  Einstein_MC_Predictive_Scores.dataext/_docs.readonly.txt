@@ -1,0 +1,16 @@
+Dataextension name: Einstein_MC_Predictive_Scores
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| email_address        | Text(256)       | true     | true     |                 |
+| EmailClickLikelihood | Text(256)       | false    | false    |                 |
+| EmailClickScore      | Decimal(18,4)   | false    | false    |                 |
+| EmailOpenLikelihood  | Text(256)       | false    | false    |                 |
+| EmailOpenScore       | Decimal(18,4)   | false    | false    |                 |
+| EmailSubscribeLikelihood | Text(256)       | false    | false    |                 |
+| EmailSubscribeScore  | Decimal(18,4)   | false    | false    |                 |
+| EmailEngagementPersona | Text(256)       | false    | false    |                 |
+| ConversionLikelihood | Text(256)       | false    | false    |                 |
+| ConversionScore      | Decimal(18,4)   | false    | false    |                 |
+| UpdatedDate          | Date            | true     | false    | getdate()       |
+| CreatedDate          | Date            | true     | false    | getdate()       |

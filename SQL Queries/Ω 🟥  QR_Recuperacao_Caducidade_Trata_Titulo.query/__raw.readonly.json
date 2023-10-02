@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "33382dbb-f9db-4ba3-bd8d-3fbcf767be4a",
+  "name": "QR_Recuperacao_Caducidade_Trata_Titulo",
+  "key": "33382DBB-F9DB-4BA3-BD8D-3FBCF767BE4A",
+  "description": "",
+  "queryText": "SELECT CASE WHEN C.HC_SITUACAO__C IN ('Ativo', 'Em processo de finalização', 'Em processo de Reativação', 'Suspenso') THEN 1 ELSE 0 END AS Possui_Titulo_Ativo,\n       CASE WHEN DATEDIFF(DD,C.HC_CONTRATACAO__C, GETDATE()) <= 30 THEN 1 ELSE 0 END AS Compra_Utimos_30_Dias,\n        B.ID\nFROM Tb_Recuperacao_Caducidade_Publico_Inicial  B\nleft JOIN HC_TITULO__C_SALESFORCE C ON B.ID_CLIENTE_PARCEIRO = C.HC_CLIENTE_X_PARCEIRO__C\n\n\n\n\n",
+  "targetName": "Tb_Recuperacao_Caducidade_Publico_Inicial",
+  "targetKey": "EDB52CFC-F74D-4D07-823D-0627FCF59FF3",
+  "targetId": "07bbce28-e203-ee11-a5c3-d4f5ef66b08b",
+  "targetDescription": "",
+  "createdDate": "2023-06-05T12:34:57.71",
+  "modifiedDate": "2023-06-14T07:32:04.03",
+  "targetUpdateTypeId": 1,
+  "targetUpdateTypeName": "Update",
+  "categoryId": 1930,
+  "isFrozen": false
+}

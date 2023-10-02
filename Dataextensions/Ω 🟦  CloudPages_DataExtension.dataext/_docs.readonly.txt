@@ -1,0 +1,33 @@
+Dataextension name: CloudPages_DataExtension
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Source               | Number          | true     | false    | 0               |
+| EmailAddress         | EmailAddress    | false    | false    |                 |
+| CreateDate           | Date            | true     | false    | GetDate()       |
+| LastName             | Text(100)       | false    | false    |                 |
+| FirstName            | Text(100)       | false    | false    |                 |
+| Address              | Text(2000)      | false    | false    |                 |
+| City                 | Text(200)       | false    | false    |                 |
+| State                | Text(200)       | false    | false    |                 |
+| ZipCode              | Text(20)        | false    | false    |                 |
+| Locale               | Text(15)        | true     | false    | en_US           |
+| Phone                | Text(15)        | false    | false    |                 |
+| Gender               | Text(15)        | false    | false    |                 |
+| BirthDate            | Text(15)        | false    | false    |                 |
+| Email_Opt_in         | Boolean         | true     | false    | false           |
+| Mobile_Opt_in        | Boolean         | true     | false    | false           |
+| Country              | Text(200)       | false    | false    |                 |
+| Company              | Text(200)       | false    | false    |                 |
+| PageID               | Text            | false    | false    |                 |
+| TabID                | Text            | false    | false    |                 |
+| TrackingCode         | Text(256)       | false    | false    |                 |
+| ContentID            | Text            | false    | false    |                 |
+| FacebookUserID       | Text(50)        | false    | false    |                 |
+| TwitterHandle        | Text(50)        | false    | false    |                 |
+| ModifiedDate         | Date            | true     | false    | GetDate()       |
+| CreatedBy            | Text            | false    | false    |                 |
+| ModifiedBy           | Text            | false    | false    |                 |
+| Terms_Conditions     | Boolean         | false    | false    | false           |
+| IsMobile             | Boolean         | false    | false    | false           |
+| FormID               | Number          | false    | false    |                 |

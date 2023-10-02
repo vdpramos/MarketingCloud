@@ -1,0 +1,17 @@
+{
+  "queryDefinitionId": "8818de54-4c37-4111-96bd-3e481ec1d8f0",
+  "name": "Qr06_Base_Ex-Cliente_OTC291_Filtrada_TMKT",
+  "key": "a2005797-0520-4173-973f-a1eea637f0b1",
+  "description": "",
+  "queryText": "SELECT\n  * \nFROM\n  TB_BASE_EX_CLIENTE_OTC291_TRATADA_TMKT\nWHERE\n  CODIGO_RNA = '000' \n  AND ALTA_RENDA = 0",
+  "targetName": "Tb_Base_Ex_Cliente_OTC291_Filtrada_TMKT",
+  "targetKey": "CF744578-7D37-4CF6-8143-F7B10DACE003",
+  "targetId": "7d5a91fb-b4d3-eb11-a300-48df370ed7f4",
+  "targetDescription": "",
+  "createdDate": "2021-06-30T10:32:36.33",
+  "modifiedDate": "2021-06-30T10:32:36.33",
+  "targetUpdateTypeId": 0,
+  "targetUpdateTypeName": "Overwrite",
+  "categoryId": 33121,
+  "isFrozen": false
+}
